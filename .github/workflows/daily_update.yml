@@ -1,6 +1,5 @@
 name: Daily Current Affairs Grep
 
-
 on:
   push:
   workflow_dispatch:
@@ -24,16 +23,18 @@ jobs:
           python-version: '3.9'
 
       - name: Install Libraries
-        run: |
-          pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml
 
       - name: Run Scraper Script
         run: python scraper.py
+
+      - name: Check Files (Debug)
+        run: ls -la 
 
       - name: Commit and Push
         run: |
           git config --global user.name "NewsBot"
           git config --global user.email "bot@github.com"
-          git add 1.json 2.json All.txt || echo "No new files to add"
-          git commit -m "Auto-update: News Rotation" || echo "No changes to commit"
+          git add .
+          git commit -m "Auto-update: Daily News"
           git push
