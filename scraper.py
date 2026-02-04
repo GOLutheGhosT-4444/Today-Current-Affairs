@@ -6,42 +6,46 @@ import os
 import time
 import re
 
-# --- CONFIGURATION: RELIABLE RSS FEEDS ---
+
 RSS_FEEDS = [
     "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",   # TOI India
     "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",    # ET Markets
-    "https://www.thehindu.com/news/national/feeder/default.rss"     # The Hindu
+    "https://www.thehindu.com/news/national/feeder/default.rss",    # The Hindu National
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", # TOI Business
+    "https://www.news18.com/rss/india.xml"                          # News18 India
 ]
 
-# --- KEYWORDS FOR SSC/BANK EXAMS ---
+
 KEYWORDS = [
     "RBI", "SEBI", "Bank", "Economy", "Scheme", "Yojana", "DRDO", "ISRO",
     "Summit", "MoU", "Agreement", "Award", "Appointment", "Resigns",
     "GDP", "Inflation", "Repo Rate", "Census", "Election", "Budget", 
-    "Cabinet", "Minister", "Launch", "Inaugurate", "Exercise", "Military"
+    "Cabinet", "Minister", "Launch", "Inaugurate", "Exercise", "Military",
+    "Govt", "Government", "Policy", "Project", "Development", "Railway",
+    "Sports", "Medal", "Tournament", "Championship", "Author", "Book"
 ]
 
 def clean_text(text):
-    # Text ko typing practice ke liye clean banana
-    text = re.sub(r'\s+', ' ', text).strip() # Extra spaces hatana
+    
+    text = re.sub(r'\s+', ' ', text).strip()
     return text
 
 def fetch_article_content(url):
-    """Link par jakar poori news nikalta hai (Full Body Text)"""
+    """Link par jakar poori news nikalta hai"""
     try:
-        # 1 second wait taaki server block na kare
-        time.sleep(1) 
+        
+        time.sleep(0.5) 
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=15) 
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Logic: Page ke saare paragraphs (<p>) dhundo
+        
         paragraphs = soup.find_all('p')
         
         full_text = ""
         for p in paragraphs:
             text = p.get_text().strip()
-            # Sirf meaningful lines uthao (Ads/Captions avoid karne ke liye > 60 chars)
+            
             if len(text) > 60: 
                 full_text += text + " "
         
@@ -52,71 +56,78 @@ def fetch_article_content(url):
 
 def scrape_feeds():
     news_items = []
-    print("Finding relevant news...")
+    print("Scanning ALL headlines from feeds...")
     
     for feed_url in RSS_FEEDS:
         try:
+            print(f"Checking Feed: {feed_url}")
             response = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"})
             soup = BeautifulSoup(response.content, features="xml")
             items = soup.find_all("item")
             
-            # Speed ke liye har feed se sirf Top 5 news check karenge
-            for item in items[:5]: 
+            
+            for item in items: 
                 title = item.title.text.strip()
                 link = item.link.text.strip()
                 pub_date = item.pubDate.text.strip() if item.pubDate else str(datetime.date.today())
                 
-                # Check Keywords
+                
                 if any(k.lower() in title.lower() for k in KEYWORDS):
-                    print(f"Fetching full text for: {title}")
                     
-                    # Link khol kar pura text la raha hai
+                    if any(existing['link'] == link for existing in news_items):
+                        continue
+
+                    print(f"Found Match: {title}")
+                    
+            
                     full_content = fetch_article_content(link)
                     
-                    # Agar content 200 characters se bada hai tabhi save karo
-                    if len(full_content) > 200:
+                    
+                    if len(full_content) > 150:
                         news_items.append({
                             "title": title,
-                            "content": full_content, # Ye aap typing test me use karenge
+                            "content": full_content, 
                             "link": link,
                             "date": pub_date,
                             "fetched_at": str(datetime.datetime.now())
                         })
+                        
         except Exception as e:
             print(f"Error scraping feed {feed_url}: {e}")
             
     return news_items
 
 def process_files(new_data):
-    # --- STEP 1: Save to 1.json (Temporary) ---
-    print(f"Found {len(new_data)} articles with full text.")
+    
+    print(f"Total relevant articles extracted: {len(new_data)}")
+    
     with open("1.json", "w", encoding="utf-8") as f:
         json.dump(new_data, f, indent=4, ensure_ascii=False)
     
     if not new_data:
-        print("No new data found. Stopping.")
+        print("No new data found today.")
         return
 
-    # --- STEP 2: Archive Old Data to All.txt ---
+    
     if os.path.exists("2.json"):
         try:
             with open("2.json", "r", encoding="utf-8") as f:
                 old_data = json.load(f)
             
+            
             with open("All.txt", "a", encoding="utf-8") as txt_file:
                 for news in old_data:
-                    # Text format: Headline -> Full Content
-                    entry = f"HEADLINE: {news['title']}\nCONTENT: {news['content']}\nLink: {news['link']}\n-------------------\n"
+                    entry = f"HEADLINE: {news['title']}\nDATE: {news['date']}\nCONTENT: {news['content']}\nLink: {news['link']}\n-------------------\n"
                     txt_file.write(entry)
             print("Archived old news to All.txt")
         except Exception as e:
             print(f"Archive error: {e}")
 
-    # --- STEP 3: Update 2.json ---
+    
     with open("2.json", "w", encoding="utf-8") as f:
         json.dump(new_data, f, indent=4, ensure_ascii=False)
     
-    print("Done! 2.json updated with latest typing content.")
+    print("Done! Files updated.")
 
 if __name__ == "__main__":
     found_news = scrape_feeds()
