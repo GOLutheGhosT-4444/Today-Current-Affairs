@@ -17,6 +17,10 @@ RSS_FEEDS = [
 
 
 KEYWORDS = [
+    "Quarterly Result", "Profit", "Loss", "Merger", "Acquisition", 
+    "Penalty", "Fine", "Loan", "Credit", "Debit", "UPI", "NPCI", 
+    "Fiscal Deficit", "Direct Tax", "GST", "Sensex", "Nifty", 
+    "Forex", "Reserves", "USD", "Rupee", "IMF", "World Bank",
     "RBI", "SEBI", "Bank", "Economy", "Scheme", "Yojana", "DRDO", "ISRO",
     "Summit", "MoU", "Agreement", "Award", "Appointment", "Resigns",
     "GDP", "Inflation", "Repo Rate", "Census", "Election", "Budget", 
