@@ -28,17 +28,22 @@ KEYWORDS = [
     "Sports", "Medal", "Tournament", "Championship", "Author", "Book"
 ]
 
-# --- ADVANCED CLEANER ---
+# --- STRICT CLEANER ---
 class ManualCleaner:
     def __init__(self):
-        # 1. SPECIFIC JUNK SENTENCES (Jo aapne bheje)
+        # IN PHRASES KO STRICTLY BAN KIYA GAYA HAI
         self.junk_phrases = [
             "News and reviews from the world of cinema",
             "Your download of the top 5 technology stories",
             "The weekly newsletter from science writers",
             "Decoding the headlines with facts",
             "Ramya Kannan writes to you",
+            "getting to good health, and staying there",
             "Books of the week, reviews, excerpts",
+            "Looking at World Affairs from the Indian perspective",
+            "takes the jargon out of science",
+            "puts the fun in!",
+            "new titles and features",
             "The View From India", 
             "Science For All", 
             "Today's Cache", 
@@ -47,32 +52,22 @@ class ManualCleaner:
             "Click here to read", 
             "Subscribe to our newsletter",
             "Follow us on", 
-            "Terms of Use", 
-            "Privacy Policy",
-            "Advertisement", 
-            "Sponsored", 
-            "Read more", 
-            "Also Read",
-            "Related News", 
-            "Morning Briefing", 
-            "Evening Digest",
-            "All rights reserved", 
-            "Copyright", 
-            "Join our WhatsApp",
-            "takes the jargon out of science",
-            "getting to good health, and staying there"
+            "Terms of Use", "Privacy Policy", "Advertisement", "Sponsored", 
+            "Read more", "Also Read", "Related News", "Morning Briefing", 
+            "Evening Digest", "All rights reserved", "Copyright", "Join our WhatsApp"
         ]
 
     def is_clean_line(self, line):
         """Line ko check karta hai"""
         line_lower = line.lower()
         
-        # Rule 1: Date Pattern Removal (Published - Feb 06...)
-        # Regex dhoondta hai: "Published -" ya "Updated -" ke baad digits
-        if re.search(r'(published|updated)\s*-\s*[a-z]+\s+\d{1,2}', line_lower):
+        # Rule 1: Date Pattern Removal (Published - February 06...)
+        # Ye regex specifically us format ko pakadta hai jo aapne bheja
+        if re.search(r'(published|updated)\s*-\s*[a-zA-Z]+\s+\d{1,2}', line_lower):
             return False
 
-        # Rule 2: Junk Phrase Match
+        # Rule 2: Strict Phrase Match
+        # Agar line me upar wala koi bhi phrase mila, to poori line delete
         for phrase in self.junk_phrases:
             if phrase.lower() in line_lower:
                 return False
@@ -116,7 +111,7 @@ def fetch_article_content(url):
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Sirf main article body target karne ki koshish (Generic fallback to 'p')
+        # Sirf main article body target karne ki koshish
         paragraphs = soup.find_all('p')
         
         full_text = ""
@@ -124,7 +119,6 @@ def fetch_article_content(url):
             text = p.get_text().strip()
             
             # Filter 1: Sirf wahi lines uthao jo thodi lambi ho (40+ chars)
-            # Isse "Share", "Date", "Author" waise hi hat jayenge
             if len(text) > 40:
                 full_text += text + "\n"
         
@@ -135,7 +129,7 @@ def fetch_article_content(url):
 
 def scrape_feeds():
     news_items = []
-    print("🚀 Starting Cleaner Scraper...")
+    print("🚀 Starting STRICT Manual Scraper...")
     
     for feed_url in RSS_FEEDS:
         try:
@@ -166,7 +160,7 @@ def scrape_feeds():
                         title_words = set(re.findall(r'\w+', title.lower()))
                         body_words = set(re.findall(r'\w+', clean_content.lower()))
                         
-                        # Kam se kam 2 headline words body me hone chahiye
+                        # Headline ke 2 words body me hone chahiye
                         if len(title_words.intersection(body_words)) >= 2:
                             print("✅ Cleaned & Saved.")
                             news_items.append({
