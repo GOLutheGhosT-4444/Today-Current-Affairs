@@ -6,13 +6,13 @@ import os
 import time
 import re
 
-
+# --- CONFIGURATION ---
 RSS_FEEDS = [
-    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",
-    "https://www.thehindu.com/news/national/feeder/default.rss",
-    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
-    "https://www.news18.com/rss/india.xml"
+    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",   # TOI India
+    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",    # ET Markets
+    "https://www.thehindu.com/news/national/feeder/default.rss",    # The Hindu National
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", # TOI Business
+    "https://www.news18.com/rss/india.xml"                          # News18 India
 ]
 
 KEYWORDS = [
@@ -28,10 +28,10 @@ KEYWORDS = [
     "Sports", "Medal", "Tournament", "Championship", "Author", "Book"
 ]
 
-
+# --- MANUAL CLEANER (Updated with your Junk Text) ---
 class ManualCleaner:
     def __init__(self):
-    
+        # Yahan maine aapke bheje gaye saare faltu phrases add kar diye hain
         self.junk_phrases = [
             "The View From India", "Looking at World Affairs",
             "Science For All", "First Day First Show News",
@@ -40,19 +40,28 @@ class ManualCleaner:
             "Follow us on", "Terms of Use", "Privacy Policy",
             "Advertisement", "Sponsored", "Read more", "Also Read",
             "Related News", "Morning Briefing", "Evening Digest",
-            "All rights reserved", "Copyright", "Join our WhatsApp"
+            "All rights reserved", "Copyright", "Join our WhatsApp",
+            # --- NEW JUNK ADDED BELOW ---
+            "News and reviews from the world of cinema",
+            "Your download of the top 5 technology stories",
+            "The weekly newsletter from science writers",
+            "Decoding the headlines with facts",
+            "Ramya Kannan writes to you",
+            "Books of the week, reviews",
+            "Updated - February", "Updated - January", # Dates remove karne ke liye
+            "excerpts, new titles and features"
         ]
 
     def is_clean_line(self, line):
         """Check karta hai ki line kaam ki hai ya kachra"""
         line_lower = line.lower()
         
-        
+        # Rule 1: Agar line me koi junk phrase hai -> Reject
         for phrase in self.junk_phrases:
             if phrase.lower() in line_lower:
                 return False
         
-    
+        # Rule 2: Length Check (Boilerplate lines usually short hoti hain)
         if len(line) < 40 and "." not in line:
             return False
             
@@ -66,18 +75,17 @@ class ManualCleaner:
         
         for line in lines:
             line = line.strip()
-        
             if line and self.is_clean_line(line):
                 cleaned_lines.append(line)
         
-        
-        if len(cleaned_lines) < 3: 
+        if len(cleaned_lines) < 2: 
             return None
             
         return " ".join(cleaned_lines)
 
 cleaner = ManualCleaner()
 
+# --- SCRAPING FUNCTIONS ---
 
 def fetch_article_content(url):
     try:
@@ -86,14 +94,13 @@ def fetch_article_content(url):
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        
         paragraphs = soup.find_all('p')
         
         full_text = ""
         for p in paragraphs:
             text = p.get_text().strip()
-            
-            if len(text) > 30:
+            # Sirf lambi lines uthao, chhoti lines (dates/author) ko yahi rok do
+            if len(text) > 40:
                 full_text += text + "\n"
         
         return full_text
@@ -122,17 +129,15 @@ def scrape_feeds():
                     
                     print(f"Found: {title[:40]}...")
                     
-                
                     raw_content = fetch_article_content(link)
-                    
-                    
                     clean_content = cleaner.clean(raw_content)
                     
                     if clean_content:
-                    
+                        # Extra Check: Content me headline ka koi word hai ya nahi?
                         title_words = set(re.findall(r'\w+', title.lower()))
                         body_words = set(re.findall(r'\w+', clean_content.lower()))
                         
+                        # Kam se kam 2 words match hone chahiye, nahi to wo Footer hai
                         if len(title_words.intersection(body_words)) >= 2:
                             print("✅ Cleaned & Saved.")
                             news_items.append({
@@ -153,7 +158,6 @@ def scrape_feeds():
     return news_items
 
 def process_files(new_data):
-
     all_data = []
     if os.path.exists("2.json"):
         try:
@@ -161,17 +165,14 @@ def process_files(new_data):
                 all_data = json.load(f)
         except: pass
     
-
     unique_new = [n for n in new_data if not any(old['link'] == n['link'] for old in all_data)]
     
     if unique_new:
         print(f"Adding {len(unique_new)} new articles.")
         
-        
         with open("1.json", "w", encoding="utf-8") as f:
             json.dump(unique_new, f, indent=4, ensure_ascii=False)
             
-        # Save 2.json (Archive)
         updated_all = unique_new + all_data
         with open("2.json", "w", encoding="utf-8") as f:
             json.dump(updated_all[:100], f, indent=4, ensure_ascii=False)
