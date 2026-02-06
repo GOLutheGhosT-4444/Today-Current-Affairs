@@ -1,9 +1,11 @@
 name: Daily News Scraper
 
 on:
+  push:                   # CHANGE 1: Ab file save karte hi script chalegi
+    branches: [ "main" ]
   schedule:
-    - cron: '0 */6 * * *'  # Har 6 ghante mein chalega
-  workflow_dispatch:      # Manual button run karne ke liye
+    - cron: '0 */6 * * *' # Har 6 ghante mein bhi chalegi
+  workflow_dispatch:      # Manual button bhi rahega
 
 permissions:
   contents: write
@@ -22,7 +24,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install Libraries
-        
+        # CHANGE 2: Yahan 'google-generativeai' add kar diya hai
         run: |
           pip install requests beautifulsoup4 lxml google-generativeai
 
@@ -36,6 +38,5 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           git add 1.json 2.json
-          # Agar 2.json nahi bana to error ignore karega
           git commit -m "Auto-update news: $(date)" || echo "No changes to commit"
           git push
