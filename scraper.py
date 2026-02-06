@@ -6,21 +6,19 @@ import os
 import time
 import google.generativeai as genai
 
-# --- SECURITY UPDATE ---
-# Key ab code me nahi, GitHub Secrets se aayegi
+
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not GEMINI_API_KEY:
     print("❌ Error: API Key nahi mili! Make sure GitHub Secrets set hai.")
     exit(1)
 
-# --- CONFIGURATION ---
 RSS_FEEDS = [
-    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",   # TOI India
-    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",    # ET Markets
-    "https://www.thehindu.com/news/national/feeder/default.rss",    # The Hindu National
-    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", # TOI Business
-    "https://www.news18.com/rss/india.xml"                          # News18 India
+    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+    "https://www.news18.com/rss/india.xml"
 ]
 
 KEYWORDS = [
@@ -36,7 +34,7 @@ KEYWORDS = [
     "Sports", "Medal", "Tournament", "Championship", "Author", "Book"
 ]
 
-# AI Setup
+
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
@@ -93,7 +91,7 @@ def scrape_feeds():
                 pub_date = item.pubDate.text.strip() if item.pubDate else str(datetime.date.today())
                 
                 if any(k.lower() in title.lower() for k in KEYWORDS):
-                    # Duplicate check against current session list
+                    
                     if any(x['link'] == link for x in news_items): continue
                     
                     print(f"Analyzing: {title[:40]}...")
@@ -106,7 +104,7 @@ def scrape_feeds():
                             "title": title, "content": clean, "link": link,
                             "date": pub_date, "fetched_at": str(datetime.datetime.now())
                         })
-                        time.sleep(4) # Rate limit safety
+                        time.sleep(4)
                     else:
                         print("❌ AI Rejected.")
         except Exception as e:
@@ -115,7 +113,7 @@ def scrape_feeds():
     return news_items
 
 def process_files(new_data):
-    # Load Existing Data to avoid duplicates over days
+
     all_data = []
     if os.path.exists("2.json"):
         try:
@@ -123,20 +121,20 @@ def process_files(new_data):
                 all_data = json.load(f)
         except: pass
     
-    # Filter: Only add if link doesn't exist in 2.json
+
     unique_new = [n for n in new_data if not any(old['link'] == n['link'] for old in all_data)]
     
     if unique_new:
         print(f"Adding {len(unique_new)} new articles.")
         
-        # 1.json update (Latest Only)
+    
         with open("1.json", "w", encoding="utf-8") as f:
             json.dump(unique_new, f, indent=4, ensure_ascii=False)
             
-        # 2.json update (Archive - Append new at top)
+    
         updated_all = unique_new + all_data
         with open("2.json", "w", encoding="utf-8") as f:
-            json.dump(updated_all[:100], f, indent=4, ensure_ascii=False) # Keep only last 100
+            json.dump(updated_all[:100], f, indent=4, ensure_ascii=False)
     else:
         print("No new unique articles found.")
 
