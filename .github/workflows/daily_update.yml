@@ -1,41 +1,41 @@
-name: Daily Current Affairs Grep
+name: Daily News Scraper
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *' # Daily at 7:00 AM IST
+    - cron: '0 */6 * * *'  # Har 6 ghante mein chalega
+  workflow_dispatch:      # Manual button run karne ke liye
 
 permissions:
   contents: write
 
 jobs:
-  update-news:
+  scrape-and-update:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       - name: Install Libraries
-        run: pip install requests beautifulsoup4 lxml
+        # YAHAN CHANGE HAI: google-generativeai add kiya hai
+        run: |
+          pip install requests beautifulsoup4 lxml google-generativeai
 
       - name: Run Scraper Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scraper.py
 
-      - name: Check Files (Debug)
-        run: ls -la
-
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "NewsBot"
-          git config --global user.email "bot@github.com"
-          git add 1.json 2.json All.txt
-          # Ye line error rokegi agar koi nayi news nahi mili to
-          git commit -m "Auto-update: Daily News" || echo "No changes to commit"
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add 1.json 2.json
+          # Agar 2.json nahi bana to error ignore karega
+          git commit -m "Auto-update news: $(date)" || echo "No changes to commit"
           git push
