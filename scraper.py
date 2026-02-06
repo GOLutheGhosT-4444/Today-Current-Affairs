@@ -6,7 +6,6 @@ import os
 import time
 import google.generativeai as genai
 
-
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not GEMINI_API_KEY:
