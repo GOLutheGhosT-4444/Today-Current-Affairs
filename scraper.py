@@ -4,10 +4,17 @@ import json
 import datetime
 import os
 import time
-import re
-import string  # Naya Import: Punctuation hatane ke liye
+import google.generativeai as genai
 
-# --- 1. CONFIGURATION ---
+# --- SECURITY UPDATE ---
+# Key ab code me nahi, GitHub Secrets se aayegi
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not GEMINI_API_KEY:
+    print("❌ Error: API Key nahi mili! Make sure GitHub Secrets set hai.")
+    exit(1)
+
+# --- CONFIGURATION ---
 RSS_FEEDS = [
     "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",   # TOI India
     "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",    # ET Markets
@@ -29,196 +36,109 @@ KEYWORDS = [
     "Sports", "Medal", "Tournament", "Championship", "Author", "Book"
 ]
 
-# --- 2. THE CLEANER CLASS (INTEGRATED) ---
-class UniversalNewsCleaner:
-    def __init__(self):
-        # 1. Junk Phrases List (Har site ke common ads/links)
-        self.junk_patterns = [
-            r"follow us on", r"share this article", r"join our whatsapp", 
-            r"click here to", r"subscribe to", r"sign up for", 
-            r"like us on", r"twitter", r"facebook", r"instagram",
-            r"advertisement", r"sponsored", r"read more", r"also read", 
-            r"related news", r"watch video", r"photo gallery",
-            r"all rights reserved", r"copyright", r"terms of use", 
-            r"privacy policy", r"disclaimer", r"contact us",
-            r"morning briefing", r"evening digest", r"todays top stories",
-            r"loading\.\.\.", r"please wait", r"the view from india", 
-            r"science for all", r"today's cache", r"data point decoding"
-        ]
+# AI Setup
+genai.configure(api_key=GEMINI_API_KEY)
+model = genai.GenerativeModel('gemini-1.5-flash')
 
-        # 2. Stopwords (Relevance check ke liye)
-        self.stopwords = {
-            'is', 'am', 'are', 'was', 'were', 'the', 'a', 'an', 'and', 'but', 'or', 
-            'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'this', 'that',
-            'it', 'he', 'she', 'they', 'we', 'you', 'his', 'her', 'their', 'has', 'have'
-        }
+def clean_with_ai(headline, raw_text):
+    if not raw_text or len(raw_text) < 50: return None
 
-    def _clean_text_basic(self, text):
-        text = re.sub(r'\s+', ' ', text)
-        return text.strip()
+    prompt = f"""
+    You are a strict News Editor for a student exam portal.
+    
+    Task:
+    1. Analyze the HEADLINE and RAW TEXT.
+    2. Extract ONLY factual news directly related to the HEADLINE.
+    3. REMOVE: All ads, 'Read more', 'Subscribe', 'Follow us', generic footers, and unrelated sidebar text.
+    4. REWRITE: Summarize the key facts in 60-80 words in professional, clear English.
+    5. SAFETY CHECK: If the RAW TEXT is just navigation links, login pages, or unrelated to the headline, return EXACTLY: REJECT.
 
-    def _is_junk_line(self, line):
-        line_lower = line.lower()
-        # Rule: Agar line 30 chars se chhoti hai aur Full stop nahi hai, to wo menu/link hai
-        if len(line) < 30 and "." not in line:
-            return True
-        # Rule: Junk Patterns
-        for pattern in self.junk_patterns:
-            if re.search(pattern, line_lower):
-                return True
-        return False
-
-    def _get_significant_words(self, text):
-        # Punctuation hatana aur words nikalna
-        text = text.lower().translate(str.maketrans('', '', string.punctuation))
-        words = set(text.split())
-        return words - self.stopwords
-
-    def clean_and_validate(self, headline, raw_text):
-        if not raw_text or not headline:
-            return None
-
-        lines = raw_text.split('\n')
-        cleaned_lines = []
-
-        # Step 1: Line Filtering
-        for line in lines:
-            line = self._clean_text_basic(line)
-            if not line: continue
-            
-            if not self._is_junk_line(line):
-                cleaned_lines.append(line)
-
-        if len(cleaned_lines) == 0:
-            return None
-
-        final_body = " ".join(cleaned_lines)
-
-        # Step 2: Relevance Check (Headline Match)
-        headline_words = self._get_significant_words(headline)
-        body_words = self._get_significant_words(final_body)
-        
-        common_count = len(headline_words.intersection(body_words))
-
-        # Agar body me headline ke words nahi mile, to ye junk hai
-        if common_count < 2:
-            # Exception: Agar article breaking news hai (chhota hai), to 1 match bhi chalega
-            if len(final_body) < 300 and common_count >= 1:
-                return final_body
-            return None # REJECTED
-
-        return final_body
-
-# Initialize Cleaner
-cleaner = UniversalNewsCleaner()
-
-
-# --- 3. SCRAPING FUNCTIONS ---
-
-def fetch_article_content(url):
-    """
-    Link se raw paragraphs nikalta hai.
-    NOTE: Ab hum text ko '\n' se jodenge taaki cleaner line-by-line check kar sake.
+    HEADLINE: {headline}
+    RAW TEXT: {raw_text[:4000]}
     """
     try:
-        time.sleep(0.5) 
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        return None if "REJECT" in text else text
+    except:
+        return None
+
+def fetch_article_content(url):
+    try:
+        time.sleep(1)
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-        response = requests.get(url, headers=headers, timeout=15) 
+        response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
         paragraphs = soup.find_all('p')
-        
-        raw_lines = []
-        for p in paragraphs:
-            text = p.get_text().strip()
-            # Yahan loose filter rakhenge, strict filter 'Cleaner' karega
-            if len(text) > 20: 
-                raw_lines.append(text)
-        
-        # Join with New Line for processing
-        return "\n".join(raw_lines)
-
-    except Exception as e:
-        print(f"Failed to fetch content for {url}: {e}")
+        raw_text = "\n".join([p.get_text().strip() for p in paragraphs if len(p.get_text().strip()) > 30])
+        return raw_text
+    except:
         return ""
 
 def scrape_feeds():
     news_items = []
-    print("Scanning ALL headlines from feeds...")
+    print("🚀 Running AI Scraper on GitHub Cloud...")
     
     for feed_url in RSS_FEEDS:
         try:
-            print(f"Checking Feed: {feed_url}")
+            print(f"Scanning: {feed_url}")
             response = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"})
             soup = BeautifulSoup(response.content, features="xml")
             items = soup.find_all("item")
             
-            for item in items: 
+            for item in items:
                 title = item.title.text.strip()
                 link = item.link.text.strip()
                 pub_date = item.pubDate.text.strip() if item.pubDate else str(datetime.date.today())
                 
-                # 1. Check Keyword Match
                 if any(k.lower() in title.lower() for k in KEYWORDS):
+                    # Duplicate check against current session list
+                    if any(x['link'] == link for x in news_items): continue
                     
-                    if any(existing['link'] == link for existing in news_items):
-                        continue
-
-                    print(f"Checking Article: {title}")
-            
-                    # 2. Fetch Raw Content
-                    raw_content = fetch_article_content(link)
+                    print(f"Analyzing: {title[:40]}...")
+                    raw = fetch_article_content(link)
+                    clean = clean_with_ai(title, raw)
                     
-                    # 3. CLEAN & VALIDATE (The Magic Step)
-                    final_content = cleaner.clean_and_validate(title, raw_content)
-                    
-                    if final_content:
-                        print(f"✅ Accepted: {title[:30]}...")
+                    if clean:
+                        print("✅ AI Approved.")
                         news_items.append({
-                            "title": title,
-                            "content": final_content, # Cleaned text save hoga
-                            "link": link,
-                            "date": pub_date,
-                            "fetched_at": str(datetime.datetime.now())
+                            "title": title, "content": clean, "link": link,
+                            "date": pub_date, "fetched_at": str(datetime.datetime.now())
                         })
+                        time.sleep(4) # Rate limit safety
                     else:
-                        print(f"❌ Rejected (Junk/Irrelevant): {title[:30]}...")
-                        
+                        print("❌ AI Rejected.")
         except Exception as e:
-            print(f"Error scraping feed {feed_url}: {e}")
+            print(f"Feed Error: {e}")
             
     return news_items
 
 def process_files(new_data):
-    print(f"Total VALID articles saved: {len(new_data)}")
-    
-    # Save Latest
-    with open("1.json", "w", encoding="utf-8") as f:
-        json.dump(new_data, f, indent=4, ensure_ascii=False)
-    
-    if not new_data:
-        print("No new valid data found today.")
-        return
-
-    # Archive Logic
+    # Load Existing Data to avoid duplicates over days
+    all_data = []
     if os.path.exists("2.json"):
         try:
             with open("2.json", "r", encoding="utf-8") as f:
-                old_data = json.load(f)
-            
-            with open("All.txt", "a", encoding="utf-8") as txt_file:
-                for news in old_data:
-                    entry = f"HEADLINE: {news['title']}\nDATE: {news['date']}\nCONTENT: {news['content']}\nLink: {news['link']}\n-------------------\n"
-                    txt_file.write(entry)
-            print("Archived old news to All.txt")
-        except Exception as e:
-            print(f"Archive error: {e}")
-
-    # Update Daily File
-    with open("2.json", "w", encoding="utf-8") as f:
-        json.dump(new_data, f, indent=4, ensure_ascii=False)
+                all_data = json.load(f)
+        except: pass
     
-    print("Done! Files updated.")
+    # Filter: Only add if link doesn't exist in 2.json
+    unique_new = [n for n in new_data if not any(old['link'] == n['link'] for old in all_data)]
+    
+    if unique_new:
+        print(f"Adding {len(unique_new)} new articles.")
+        
+        # 1.json update (Latest Only)
+        with open("1.json", "w", encoding="utf-8") as f:
+            json.dump(unique_new, f, indent=4, ensure_ascii=False)
+            
+        # 2.json update (Archive - Append new at top)
+        updated_all = unique_new + all_data
+        with open("2.json", "w", encoding="utf-8") as f:
+            json.dump(updated_all[:100], f, indent=4, ensure_ascii=False) # Keep only last 100
+    else:
+        print("No new unique articles found.")
 
 if __name__ == "__main__":
     found_news = scrape_feeds()
