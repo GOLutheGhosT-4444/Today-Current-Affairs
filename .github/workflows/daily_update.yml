@@ -22,7 +22,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install Libraries
-        # YAHAN CHANGE HAI: google-generativeai add kiya hai
+        
         run: |
           pip install requests beautifulsoup4 lxml google-generativeai
 
