@@ -3,7 +3,7 @@ import os
 import re
 
 KILL_PHRASES = [
-    "Looking at World Affairs from the Indian perspective",
+    "Looking at World Affairs",
     "News and reviews from the world of cinema",
     "Your download of the top 5 technology stories",
     "The weekly newsletter from science writers",
@@ -20,17 +20,11 @@ KILL_PHRASES = [
     "Related News", "All rights reserved", "Copyright",
     "2026e-Paper", "First Day First Show", "Data Point",
     "Health Matters", "The Hindu On Books", "e-Paper",
-    "BACK TO TOP",
-    "Terms & conditions",
-    "Institutional Subscriber",
-    "Comments have to be in English",
-    "abide by our community guidelines",
-    "migrated to a new commenting platform",
-    "registered user of The Hindu",
-    "access their older comments by logging",
-    "Vuukle",
-    "Representational file image
-| Photo Credit: M. Periasamy"
+    "BACK TO TOP", "Terms & conditions", "Institutional Subscriber",
+    "Comments have to be in English", "abide by our community guidelines",
+    "migrated to a new commenting platform", "registered user of The Hindu",
+    "access their older comments by logging", "Vuukle",
+    "Representational file image"
 ]
 
 def clean_text_strictly(text):
@@ -43,7 +37,7 @@ def clean_text_strictly(text):
         line = line.strip()
         if not line: continue
         
-
+    
         is_bad = False
         for phrase in KILL_PHRASES:
             if phrase.lower() in line.lower():
@@ -68,15 +62,18 @@ def process_cleaning():
         return
 
     with open("1.json", "r", encoding="utf-8") as f:
-        raw_data = json.load(f)
+        try:
+            raw_data = json.load(f)
+        except json.JSONDecodeError:
+            print("❌ Error: 1.json khali ya kharab hai.")
+            return
     
     clean_data_list = []
     
-    
+
     for item in raw_data:
-        original_text = item['content']
+        original_text = item.get('content', '')
         cleaned_text = clean_text_strictly(original_text)
-        
         
         if len(cleaned_text) > 100:
             item['content'] = cleaned_text
@@ -94,21 +91,42 @@ def process_cleaning():
             with open("2.json", "r", encoding="utf-8") as f:
                 all_archive_data = json.load(f)
         except: pass
-    
+        
     new_entries = []
     for news in clean_data_list:
-        if not any(old['link'] == news['link'] for old in all_archive_data):
+        
+        if not any(old.get('link') == news['link'] for old in all_archive_data):
             new_entries.append(news)
     
     if new_entries:
-        
         final_archive = new_entries + all_archive_data
-    
         with open("2.json", "w", encoding="utf-8") as f:
             json.dump(final_archive[:100], f, indent=4, ensure_ascii=False)
         print(f"✅ 2.json updated with {len(new_entries)} new articles.")
+        
+        existing_links = set()
+        if os.path.exists("all.txt"):
+            with open("all.txt", "r", encoding="utf-8") as f:
+                for line in f:
+                    if line.startswith("Link: "):
+                        existing_links.add(line.strip().replace("Link: ", ""))
+        
+        count_all = 0
+        with open("all.txt", "a", encoding="utf-8") as f:
+            for news in new_entries:
+                if news['link'] not in existing_links:
+                    f.write(f"\n{'='*50}\n")
+                    f.write(f"DATE: {news['date']}\n")
+                    f.write(f"TITLE: {news['title']}\n")
+                    f.write(f"LINK: {news['link']}\n")
+                    f.write(f"{'-'*20}\n")
+                    f.write(f"{news['content']}\n")
+                    f.write(f"{'='*50}\n")
+                    count_all += 1
+        print(f"✅ all.txt appended with {count_all} articles.")
+
     else:
-        print("ℹ️ No new unique articles for archive.")
+        print("ℹ️ No new unique articles found.")
 
 if __name__ == "__main__":
     process_cleaning()
