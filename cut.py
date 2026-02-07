@@ -37,14 +37,14 @@ def clean_text_strictly(text):
         line = line.strip()
         if not line: continue
         
-    
+        
         is_bad = False
         for phrase in KILL_PHRASES:
             if phrase.lower() in line.lower():
                 is_bad = True
                 break
         
-        
+    
         if re.search(r'(published|updated).*-\s*[a-z]+\s+\d{1,2}', line.lower()):
             is_bad = True
 
@@ -54,79 +54,62 @@ def clean_text_strictly(text):
     return "\n".join(cleaned_lines)
 
 def process_cleaning():
-    print("Step 2: Cleaning & Archiving...")
+    print("Step 2: Cleaning Data...")
     
     
     if not os.path.exists("1.json"):
-        print("No raw data found.")
+        print("❌ Error: 1.json nahi mila.")
         return
 
     with open("1.json", "r", encoding="utf-8") as f:
         try:
             raw_data = json.load(f)
         except json.JSONDecodeError:
-            print("❌ Error: 1.json khali ya kharab hai.")
+            print("❌ Error: 1.json khali ya corrupted hai.")
             return
     
     clean_data_list = []
     
-
+    
     for item in raw_data:
         original_text = item.get('content', '')
         cleaned_text = clean_text_strictly(original_text)
         
+    
         if len(cleaned_text) > 100:
             item['content'] = cleaned_text
             clean_data_list.append(item)
     
     
-    with open("1.json", "w", encoding="utf-8") as f:
+    with open("2.json", "w", encoding="utf-8") as f:
         json.dump(clean_data_list, f, indent=4, ensure_ascii=False)
-    print(f"✅ 1.json cleaned. Articles: {len(clean_data_list)}")
+    print(f"✅ 2.json saved with {len(clean_data_list)} clean articles.")
 
     
-    all_archive_data = []
-    if os.path.exists("2.json"):
-        try:
-            with open("2.json", "r", encoding="utf-8") as f:
-                all_archive_data = json.load(f)
-        except: pass
-        
-    new_entries = []
-    for news in clean_data_list:
-        
-        if not any(old.get('link') == news['link'] for old in all_archive_data):
-            new_entries.append(news)
-    
-    if new_entries:
-        final_archive = new_entries + all_archive_data
-        with open("2.json", "w", encoding="utf-8") as f:
-            json.dump(final_archive[:100], f, indent=4, ensure_ascii=False)
-        print(f"✅ 2.json updated with {len(new_entries)} new articles.")
-        
-        existing_links = set()
-        if os.path.exists("all.txt"):
-            with open("all.txt", "r", encoding="utf-8") as f:
-                for line in f:
-                    if line.startswith("Link: "):
-                        existing_links.add(line.strip().replace("Link: ", ""))
-        
-        count_all = 0
-        with open("all.txt", "a", encoding="utf-8") as f:
-            for news in new_entries:
-                if news['link'] not in existing_links:
-                    f.write(f"\n{'='*50}\n")
-                    f.write(f"DATE: {news['date']}\n")
-                    f.write(f"TITLE: {news['title']}\n")
-                    f.write(f"LINK: {news['link']}\n")
-                    f.write(f"{'-'*20}\n")
-                    f.write(f"{news['content']}\n")
-                    f.write(f"{'='*50}\n")
-                    count_all += 1
-        print(f"✅ all.txt appended with {count_all} articles.")
+    existing_links = set()
+    if os.path.exists("all.txt"):
+        with open("all.txt", "r", encoding="utf-8") as f:
+            content = f.read()
+            
+            existing_links = set(re.findall(r'LINK: (http[s]?://\S+)', content))
 
+    new_count = 0
+    with open("all.txt", "a", encoding="utf-8") as f:
+        for news in clean_data_list:
+            if news['link'] not in existing_links:
+                f.write(f"\n{'='*50}\n")
+                f.write(f"DATE: {news['date']}\n")
+                f.write(f"TITLE: {news['title']}\n")
+                f.write(f"LINK: {news['link']}\n")
+                f.write(f"{'-'*20}\n")
+                f.write(f"{news['content']}\n")
+                f.write(f"{'='*50}\n")
+                new_count += 1
+                
+    if new_count > 0:
+        print(f"✅ all.txt me {new_count} naye articles jod diye gaye.")
     else:
-        print("ℹ️ No new unique articles found.")
+        print("ℹ️ all.txt me koi naya article nahi joda (Duplicate found).")
 
 if __name__ == "__main__":
     process_cleaning()
