@@ -28,7 +28,9 @@ KILL_PHRASES = [
     "migrated to a new commenting platform",
     "registered user of The Hindu",
     "access their older comments by logging",
-    "Vuukle"
+    "Vuukle",
+    "Representational file image
+| Photo Credit: M. Periasamy"
 ]
 
 def clean_text_strictly(text):
