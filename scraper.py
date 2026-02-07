@@ -31,12 +31,12 @@ def fetch_raw_content(url):
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
-    
+        
         paragraphs = soup.find_all('p')
         full_text = "\n".join([p.get_text().strip() for p in paragraphs])
         
         return full_text
-    except Exception as e:
+    except Exception:
         return ""
 
 def run_scraper():
@@ -45,6 +45,7 @@ def run_scraper():
     
     for feed_url in RSS_FEEDS:
         try:
+            print(f"Scanning: {feed_url}")
             response = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"})
             soup = BeautifulSoup(response.content, features="xml")
             items = soup.find_all("item")
@@ -53,12 +54,11 @@ def run_scraper():
                 title = item.title.text.strip()
                 link = item.link.text.strip()
                 pub_date = item.pubDate.text.strip() if item.pubDate else str(datetime.date.today())
-    
+                
                 if any(k.lower() in title.lower() for k in KEYWORDS):
-                    print(f"Found: {title[:30]}...")
                     content = fetch_raw_content(link)
                     
-                    if len(content) > 50:
+                    if len(content) > 50: 
                         raw_news.append({
                             "title": title,
                             "content": content,
@@ -66,13 +66,11 @@ def run_scraper():
                             "date": pub_date,
                             "fetched_at": str(datetime.datetime.now())
                         })
-        except Exception:
-            pass
-
-    # Save RAW data to 1.json
+        except Exception as e:
+            print(f"Error: {e}")
     with open("1.json", "w", encoding="utf-8") as f:
         json.dump(raw_news, f, indent=4, ensure_ascii=False)
-    print(f"Step 1 Complete. {len(raw_news)} articles saved to 1.json")
+    print(f"✅ Step 1 Complete: {len(raw_news)} raw articles saved.")
 
 if __name__ == "__main__":
     run_scraper()
