@@ -26,18 +26,25 @@ jobs:
         run: |
           pip install requests beautifulsoup4 lxml
 
-      - name: Run Scraper (Fetch)
+      
+      - name: Run Scraper
         run: python scraper.py
 
-      - name: Run Cut (Clean)
+      
+      - name: Run Cleaner
         run: python cut.py
 
-      # STEP 3: Save Changes (Force Push to avoid conflicts)
+      
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git pull origin main --no-rebase || echo "Pull failed"
+          
+          # Pehle Server se latest files kheecho (Taaki Conflict na ho)
+          git pull origin main --no-edit
+          
           git add 1.json 2.json
-          git commit -m "Daily News Update: $(date)" || echo "No changes"
+          git commit -m "News Update: $(date)" || echo "No changes to commit"
+          
+          # Final Push
           git push origin main
