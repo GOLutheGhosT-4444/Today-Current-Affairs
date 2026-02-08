@@ -3,28 +3,18 @@ import os
 import time
 import requests
 
-# --- CONFIGURATION ---
-# GitHub Secret se Key uthayega.
-# Agar Key nahi mili, to ye None rahega aur niche Error dega.
+# GitHub Secret se Key uthayega
 API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def summarize_with_ai(headline):
+    # Check 1: Kya Key load hui?
     if not API_KEY:
-        return "Error: API Key Missing in GitHub Secrets."
+        return "CRITICAL ERROR: API Key script tak nahi pahunchi. GitHub Secrets check karein."
 
-    # Google Gemini Flash Model (Fast & Free)
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
     headers = {'Content-Type': 'application/json'}
     
-    prompt_text = f"""
-    Act as a news editor. Summarize this headline into strictly 3 short bullet points.
-    Focus on facts, dates, and numbers.
-    Headline: "{headline}"
-    Output format:
-    • Point 1
-    • Point 2
-    • Point 3
-    """
+    prompt_text = f"Summarize this news headline in 3 bullet points: '{headline}'"
     
     data = { "contents": [{ "parts": [{"text": prompt_text}] }] }
     
@@ -35,64 +25,55 @@ def summarize_with_ai(headline):
         if response.status_code == 200:
             return response.json()['candidates'][0]['content']['parts'][0]['text'].strip()
         
-        # ❌ ERROR (Debug Info)
+        # ❌ ERROR (Detective Mode: Asli reason batao)
         else:
-            print(f"⚠️ API Error for '{headline[:15]}...': {response.status_code} - {response.text}")
-            return "Summary not available (API Error)."
+            # Google ka pura error message capture karo
+            error_details = response.text
+            print(f"⚠️ API Error: {error_details}") # Logs ke liye
+            
+            # JSON me error save karo taaki hum padh sakein
+            return f"GOOGLE ERROR {response.status_code}: {error_details}"
             
     except Exception as e:
-        print(f"⚠️ Connection Error: {e}")
-        return "Summary not available (Connection Failed)."
+        return f"CONNECTION ERROR: {str(e)}"
 
 def process_news():
     print("🚀 Step 3: AI Magic Starting...")
     
-    # 1. Read Archive (2.json)
     if not os.path.exists("2.json"):
-        print("❌ Error: 2.json nahi mila. Pehle scraper.py aur cut.py chalayein.")
+        print("❌ Error: 2.json nahi mila.")
         return
 
     with open("2.json", "r", encoding="utf-8") as f:
-        try:
-            full_data = json.load(f)
-        except:
-            print("❌ 2.json corrupted hai.")
-            return
+        try: full_data = json.load(f)
+        except: return
 
-    # Sirf Latest 15 News process karenge (Quota bachane ke liye)
-    latest_news = full_data[:15] 
+    # Sirf top 5 check karte hain testing ke liye
+    latest_news = full_data[:5] 
     processed_data = []
     
     print(f"🤖 Processing top {len(latest_news)} headlines...")
     
-    for i, item in enumerate(latest_news):
+    for item in latest_news:
         headline = item.get('title', 'No Title')
         
         # AI Call
         ai_summary = summarize_with_ai(headline)
         
-        # Console me status dikhao
-        if "Error" not in ai_summary:
-            print(f"   ✅ [{i+1}] Done: {headline[:30]}...")
-        else:
-            print(f"   ❌ [{i+1}] Failed: {headline[:30]}...")
-
         new_entry = {
             "title": headline,
-            "content": ai_summary,
+            "content": ai_summary, # Yahan ab asli error likha aayega
             "link": item.get('link', '#'),
             "date": item.get('date', 'Today')
         }
         processed_data.append(new_entry)
-        
-        # 2 Second ka break taaki Google block na kare
-        time.sleep(2) 
+        time.sleep(1) 
 
-    # 3. Save to 3.json
+    # Save to 3.json
     with open("3.json", "w", encoding="utf-8") as f:
         json.dump(processed_data, f, indent=4, ensure_ascii=False)
         
-    print(f"✅ Success! Data saved to 3.json.")
+    print(f"✅ Debug Run Complete. Check 3.json for error details.")
 
 if __name__ == "__main__":
     process_news()
