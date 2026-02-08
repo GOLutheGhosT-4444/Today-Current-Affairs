@@ -1,10 +1,11 @@
 name: Daily News Bot
 
 on:
-    schedule:
+  # 1. Automatic: Roz subah 7:00 AM (IST)
+  schedule:
     - cron: '30 1 * * *'
   
-  
+  # 2. Manual: Studio Buttons ke liye
   workflow_dispatch:
     inputs:
       script:
@@ -24,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      
+      # --- SETUP (Ye hamesha chalega) ---
       - name: Checkout Code
         uses: actions/checkout@v3
 
@@ -36,27 +37,31 @@ jobs:
       - name: Install Libraries
         run: pip install requests beautifulsoup4 lxml
 
-           - name: 1. Run Scraper
+      # --- STEP 1: SCRAPER ---
+      # Kab chalega? -> Jab 'run_all' ho, 'run_scraper' ho, ya Automatic (Schedule) ho.
+      - name: 1. Run Scraper
         if: ${{ github.event.inputs.script == 'run_scraper' || github.event.inputs.script == 'run_all' || github.event_name == 'schedule' }}
         run: python scraper.py
 
-            - name: 2. Run Cleaner
+      # --- STEP 2: CLEANER (cut.py) ---
+      - name: 2. Run Cleaner
         if: ${{ github.event.inputs.script == 'run_cleaner' || github.event.inputs.script == 'run_all' || github.event_name == 'schedule' }}
         run: python cut.py
 
-      
+      # --- STEP 3: AI MAGIC ---
       - name: 3. Run AI Magic
         if: ${{ github.event.inputs.script == 'run_ai' || github.event.inputs.script == 'run_all' || github.event_name == 'schedule' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ai_magic.py
 
-      
+      # --- STEP 4: FINAL CUT (cut3.py) ---
+      # Ye tab chalega jab hum 'run_cut3' bole, ya jab AI chala ho (kyunki AI ke baad safai zaroori hai)
       - name: 4. Run Final Cleaner (Cut3)
         if: ${{ github.event.inputs.script == 'run_cut3' || github.event.inputs.script == 'run_ai' || github.event.inputs.script == 'run_all' || github.event_name == 'schedule' }}
         run: python cut3.py
 
-  
+      # --- SAVE CHANGES ---
       - name: Commit and Push
         run: |
           git config --global user.name "NewsBot"
