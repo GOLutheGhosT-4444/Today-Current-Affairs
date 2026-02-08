@@ -1,106 +1,90 @@
 import json
 import os
 import time
-import google.generativeai as genai
+import requests
 
 # --- CONFIGURATION ---
-# Yahan apni API Key dalein
-API_KEY = "YOUR_GEMINI_API_KEY"
+# GitHub Secret se Key uthayega, ya manually yahan dalein
+API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY_HERE")
 
-# Configure Gemini
-genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash') # Flash model fast aur free hai
-
-def summarize_with_ai(headline, content):
+def summarize_with_ai(headline):
+    # Sirf Headline bhejenge taaki AI uske base par facts nikale
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+    headers = {'Content-Type': 'application/json'}
+    
+    prompt_text = f"""
+    Act as a strictly professional news editor.
+    I will give you a news HEADLINE. 
+    You have to generate a short summary (strictly 3 bullet points) explaining that news.
+    Focus on: What happened? Who is involved? Any important numbers/dates?
+    
+    Headline: "{headline}"
+    
+    Output format:
+    • Point 1
+    • Point 2
+    • Point 3
+    (Keep it extremely short and exam-oriented)
+    """
+    
+    data = { "contents": [{ "parts": [{"text": prompt_text}] }] }
+    
     try:
-        # Prompt engineering: Hum AI ko bata rahe hain ki wo ek Teacher hai
-        prompt = f"""
-        Act as an expert Current Affairs teacher for competitive exams (UPSC, SSC, Banking).
-        Summarize the following news into strictly 3 short bullet points.
-        Focus ONLY on: Who, What, Where, Schemes, Dates, or numbers.
-        Remove all political drama, opinions, and filler text.
-        
-        Headline: {headline}
-        News: {content}
-        
-        Output format:
-        • Point 1
-        • Point 2
-        • Point 3
-        """
-        
-        response = model.generate_content(prompt)
-        return response.text.strip()
-    except Exception as e:
-        print(f"⚠️ AI Error: {e}")
-        return content[:300] + "..." # Agar AI fail ho, to purana text use karo
+        response = requests.post(url, headers=headers, json=data)
+        if response.status_code == 200:
+            return response.json()['candidates'][0]['content']['parts'][0]['text'].strip()
+        else:
+            return "Summary not available due to API error."
+    except:
+        return "Summary not available."
 
 def process_news():
-    print("Step 3: AI Magic Starting... (Making news exam-ready)")
+    print("🚀 Step 3: AI Magic Starting (Target: 3.json)...")
     
-    # 1. Load Clean Data (From cut.py output)
-    if not os.path.exists("1.json"):
-        print("❌ Error: 1.json nahi mila.")
+    # 1. Read Archive (2.json) - SIRF READ MODE MEIN
+    if not os.path.exists("2.json"):
+        print("❌ Error: 2.json nahi mila.")
         return
 
-    with open("1.json", "r", encoding="utf-8") as f:
-        news_list = json.load(f)
-    
-    ai_processed_list = []
-    
-    # 2. Process Each Article
-    print(f"🤖 Processing {len(news_list)} articles with Gemini AI...")
-    
-    for i, item in enumerate(news_list):
-        print(f"   Writing Summary for: {item['title'][:30]}...")
-        
-        # AI ko call karo
-        short_summary = summarize_with_ai(item['title'], item['content'])
-        
-        # Data Update karo
-        item['content'] = short_summary
-        ai_processed_list.append(item)
-        
-        # Thoda wait karo taaki Google ban na kare (Rate Limiting)
-        time.sleep(2)
-
-    # 3. Save Back to 1.json (Website ke liye)
-    with open("1.json", "w", encoding="utf-8") as f:
-        json.dump(ai_processed_list, f, indent=4, ensure_ascii=False)
-    print("✅ 1.json updated with AI Summaries.")
-
-    # 4. Update Archive (2.json)
-    all_archive_data = []
-    if os.path.exists("2.json"):
+    with open("2.json", "r", encoding="utf-8") as f:
         try:
-            with open("2.json", "r", encoding="utf-8") as f:
-                all_archive_data = json.load(f)
-        except: pass
+            full_data = json.load(f)
+        except:
+            print("❌ 2.json corrupted hai.")
+            return
+
+    # 2. Select Latest News only
+    # Hum sirf top 20 news lenge taaki API limit khatam na ho
+    latest_news = full_data[:20] 
+    
+    processed_data = []
+    
+    print(f"🤖 Processing latest {len(latest_news)} headlines from 2.json...")
+    
+    for i, item in enumerate(latest_news):
+        headline = item.get('title', 'No Title')
+        print(f"   [{i+1}] Summarizing: {headline[:40]}...")
         
-    # Check duplicates and add new
-    new_entries = []
-    for news in ai_processed_list:
-        if not any(old.get('link') == news['link'] for old in all_archive_data):
-            new_entries.append(news)
-            
-    final_archive = new_entries + all_archive_data
-    with open("2.json", "w", encoding="utf-8") as f:
-        json.dump(final_archive[:100], f, indent=4, ensure_ascii=False)
+        # AI se kaho: Sirf Headline dekho aur summary banao
+        ai_summary = summarize_with_ai(headline)
+        
+        # Naya object banao (Purana data kharab nahi karna)
+        new_entry = {
+            "title": headline,
+            "content": ai_summary,  # Yahan AI ki summary aayegi
+            "link": item.get('link', '#'),
+            "date": item.get('date', 'Today')
+        }
+        
+        processed_data.append(new_entry)
+        time.sleep(1.5) # Thoda saans lene do script ko
 
-    # 5. Generate all.txt (Clean & Short for Students)
-    with open("all.txt", "w", encoding="utf-8") as f:
-        if not ai_processed_list:
-            f.write("No news for today.")
-        else:
-            for news in ai_processed_list:
-                f.write(f"{'='*40}\n")
-                f.write(f"🛑 {news['title']}\n") # Headline
-                f.write(f"{'-'*20}\n")
-                f.write(f"{news['content']}\n") # AI Summary (Bullet points)
-                f.write(f"\nSource: {news['link']}\n")
-                f.write(f"{'='*40}\n\n")
-
-    print(f"✅ all.txt updated. AI processing complete!")
+    # 3. Save to NEW File (3.json)
+    # 1.json aur 2.json ko haath bhi nahi lagaya jayega
+    with open("3.json", "w", encoding="utf-8") as f:
+        json.dump(processed_data, f, indent=4, ensure_ascii=False)
+        
+    print(f"✅ Success! Data saved to 3.json. (1.json & 2.json are safe)")
 
 if __name__ == "__main__":
     process_news()
