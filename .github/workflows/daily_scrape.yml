@@ -2,8 +2,8 @@ name: Daily News AI Bot
 
 on:
   schedule:
-    - cron: '30 1 * * *' # Roz subah 7:00 AM IST (approx)
-  workflow_dispatch:      # Manual Run Button
+    - cron: '30 1 * * *' 
+  workflow_dispatch:    
 
 jobs:
   build:
@@ -29,15 +29,18 @@ jobs:
         run: python cut.py
 
       - name: 6. Run AI Magic (Summarize)
-        # ⚠️ YE STEP SABSE IMPORTANT HAI ⚠️
+        
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ai_magic.py
 
-      - name: 7. Commit and Push
+      - name: 7. Run Final Cleaner (Cut3)
+        run: python cut3.py
+
+      - name: 8. Commit and Push
         run: |
           git config --global user.name "NewsBot"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "🤖 AI Updated News: Summarized & Ready" || exit 0
+          git commit -m "🤖 News Updated & Cleaned" || exit 0
           git push
