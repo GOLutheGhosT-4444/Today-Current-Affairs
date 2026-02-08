@@ -1,7 +1,7 @@
 name: Daily News Bot
 
 on:
-  # 1. Automatic: Roz subah 7:00 AM (IST)
+  
   schedule:
     - cron: '30 1 * * *'
   
