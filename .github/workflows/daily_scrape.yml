@@ -1,16 +1,12 @@
-name: Daily News System
+name: Daily News AI Bot
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
-
-permissions:
-  contents: write
+    - cron: '30 1 * * *' # Subah 7:00 AM IST (approx)
+  workflow_dispatch:      # Manual run button
 
 jobs:
-  fetch-and-clean:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,31 +16,29 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install Libraries
         run: |
           pip install requests beautifulsoup4 lxml
+          # Note: Humne lightweight script banayi hai isliye 'google-generativeai' ki zaroorat nahi hai
 
-      
-      - name: Run Scraper
+      - name: 1. Run Scraper (News lana)
         run: python scraper.py
 
-      
-      - name: Run Cleaner
+      - name: 2. Run Cleaner (Safai karna)
         run: python cut.py
 
-      
-      - name: Commit and Push
+      - name: 3. Run AI Magic (Summary banana)
+        env: 
+          # Yahan hum GitHub Secret ko script ke andar bhej rahe hain
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python ai_magic.py
+
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Action Bot"
+          git config --global user.name "NewsBot"
           git config --global user.email "actions@github.com"
-          
-          # Pehle Server se latest files kheecho (Taaki Conflict na ho)
-          git pull origin main --no-edit
-          
-          git add 1.json 2.json
-          git commit -m "News Update: $(date)" || echo "No changes to commit"
-          
-          # Final Push
-          git push origin main
+          git add .
+          git commit -m "🤖 AI Updated News: Summarized & Ready" || exit 0
+          git push
