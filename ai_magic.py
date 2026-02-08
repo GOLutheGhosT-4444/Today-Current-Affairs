@@ -4,46 +4,52 @@ import time
 import requests
 
 # --- CONFIGURATION ---
-# GitHub Secret se Key uthayega, ya manually yahan dalein
-API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY_HERE")
+# GitHub Secret se Key uthayega.
+# Agar Key nahi mili, to ye None rahega aur niche Error dega.
+API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def summarize_with_ai(headline):
-    # Sirf Headline bhejenge taaki AI uske base par facts nikale
+    if not API_KEY:
+        return "Error: API Key Missing in GitHub Secrets."
+
+    # Google Gemini Flash Model (Fast & Free)
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
     headers = {'Content-Type': 'application/json'}
     
     prompt_text = f"""
-    Act as a strictly professional news editor.
-    I will give you a news HEADLINE. 
-    You have to generate a short summary (strictly 3 bullet points) explaining that news.
-    Focus on: What happened? Who is involved? Any important numbers/dates?
-    
+    Act as a news editor. Summarize this headline into strictly 3 short bullet points.
+    Focus on facts, dates, and numbers.
     Headline: "{headline}"
-    
     Output format:
     • Point 1
     • Point 2
     • Point 3
-    (Keep it extremely short and exam-oriented)
     """
     
     data = { "contents": [{ "parts": [{"text": prompt_text}] }] }
     
     try:
         response = requests.post(url, headers=headers, json=data)
+        
+        # ✅ SUCCESS
         if response.status_code == 200:
             return response.json()['candidates'][0]['content']['parts'][0]['text'].strip()
+        
+        # ❌ ERROR (Debug Info)
         else:
-            return "Summary not available due to API error."
-    except:
-        return "Summary not available."
+            print(f"⚠️ API Error for '{headline[:15]}...': {response.status_code} - {response.text}")
+            return "Summary not available (API Error)."
+            
+    except Exception as e:
+        print(f"⚠️ Connection Error: {e}")
+        return "Summary not available (Connection Failed)."
 
 def process_news():
-    print("🚀 Step 3: AI Magic Starting (Target: 3.json)...")
+    print("🚀 Step 3: AI Magic Starting...")
     
-    # 1. Read Archive (2.json) - SIRF READ MODE MEIN
+    # 1. Read Archive (2.json)
     if not os.path.exists("2.json"):
-        print("❌ Error: 2.json nahi mila.")
+        print("❌ Error: 2.json nahi mila. Pehle scraper.py aur cut.py chalayein.")
         return
 
     with open("2.json", "r", encoding="utf-8") as f:
@@ -53,38 +59,40 @@ def process_news():
             print("❌ 2.json corrupted hai.")
             return
 
-    # 2. Select Latest News only
-    # Hum sirf top 20 news lenge taaki API limit khatam na ho
-    latest_news = full_data[:20] 
-    
+    # Sirf Latest 15 News process karenge (Quota bachane ke liye)
+    latest_news = full_data[:15] 
     processed_data = []
     
-    print(f"🤖 Processing latest {len(latest_news)} headlines from 2.json...")
+    print(f"🤖 Processing top {len(latest_news)} headlines...")
     
     for i, item in enumerate(latest_news):
         headline = item.get('title', 'No Title')
-        print(f"   [{i+1}] Summarizing: {headline[:40]}...")
         
-        # AI se kaho: Sirf Headline dekho aur summary banao
+        # AI Call
         ai_summary = summarize_with_ai(headline)
         
-        # Naya object banao (Purana data kharab nahi karna)
+        # Console me status dikhao
+        if "Error" not in ai_summary:
+            print(f"   ✅ [{i+1}] Done: {headline[:30]}...")
+        else:
+            print(f"   ❌ [{i+1}] Failed: {headline[:30]}...")
+
         new_entry = {
             "title": headline,
-            "content": ai_summary,  # Yahan AI ki summary aayegi
+            "content": ai_summary,
             "link": item.get('link', '#'),
             "date": item.get('date', 'Today')
         }
-        
         processed_data.append(new_entry)
-        time.sleep(1.5) # Thoda saans lene do script ko
+        
+        # 2 Second ka break taaki Google block na kare
+        time.sleep(2) 
 
-    # 3. Save to NEW File (3.json)
-    # 1.json aur 2.json ko haath bhi nahi lagaya jayega
+    # 3. Save to 3.json
     with open("3.json", "w", encoding="utf-8") as f:
         json.dump(processed_data, f, indent=4, ensure_ascii=False)
         
-    print(f"✅ Success! Data saved to 3.json. (1.json & 2.json are safe)")
+    print(f"✅ Success! Data saved to 3.json.")
 
 if __name__ == "__main__":
     process_news()
