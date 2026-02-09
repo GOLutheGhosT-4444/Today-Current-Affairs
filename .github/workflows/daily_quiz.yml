@@ -1,0 +1,39 @@
+name: Generate Daily AI Quiz
+
+on:
+  workflow_dispatch:      # Ye line Sabse Zaroori hai (Button kaam karne ke liye)
+  schedule:
+    - cron: '30 2 * * *'  # Rozana subah 8:00 AM IST apne aap chalega
+
+permissions:
+  contents: write         # JSON file save karne ki permission
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install google-generativeai requests
+
+      - name: Run Quiz Generator Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python gen_quiz.py
+
+      - name: Commit and Push Quiz JSON
+        run: |
+          git config --global user.name "AI Quiz Bot"
+          git config --global user.email "bot@github.com"
+          git add quiz.json
+          # Ye check karega: Agar quiz.json me koi change hai tabhi commit karega
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 New Quiz Generated" && git push)
