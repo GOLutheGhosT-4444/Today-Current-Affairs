@@ -1,122 +1,722 @@
 [
     {
-        "q": "What is the current Repo Rate fixed by RBI?",
-        "a": "6.50%",
+        "q": "The first canto of Eyles Irwin\u2019s poem 'St. Thomas\u2019s Mount' contains how many verses?",
+        "a": "220",
         "options": [
-            "6.25%",
-            "6.50%",
-            "6.75%",
-            "6.00%",
-            "6.35%"
+            "225",
+            "215",
+            "220",
+            "230",
+            "210"
         ],
-        "cat": "Banking"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the current Governor of RBI?",
-        "a": "Shaktikanta Das",
+        "q": "What was the approximate age of Eyles Irwin when he wrote the poem 'St. Thomas\u2019s Mount'?",
+        "a": "Not yet 20",
         "options": [
-            "Urjit Patel",
-            "Raghuram Rajan",
-            "Shaktikanta Das",
-            "M.D. Patra",
-            "Nirmala Sitharaman"
+            "Not yet 25",
+            "Not yet 30",
+            "Not yet 20",
+            "Not yet 18",
+            "Not yet 22"
         ],
-        "cat": "Appointments"
+        "cat": "Amount"
     },
     {
-        "q": "Where is the Headquarters of ISRO located?",
-        "a": "Bengaluru",
+        "q": "Eyles Irwin obtained how many acres of land in the village of 'Erembore' from the East India Company?",
+        "a": "Eleven",
         "options": [
+            "Ten",
+            "Twelve",
+            "Eleven",
+            "Nine",
+            "Thirteen"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total estimated cost of the ambitious Parvati-Kalisindh-Chambal link project?",
+        "a": "\u20b990,000 crore",
+        "options": [
+            "\u20b989,000 crore",
+            "\u20b991,000 crore",
+            "\u20b990,000 crore",
+            "\u20b988,000 crore",
+            "\u20b992,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The construction work for the first phase of the Chambal river aqueduct is taken up at what cost?",
+        "a": "\u20b92,230 crore",
+        "options": [
+            "\u20b92,200 crore",
+            "\u20b92,250 crore",
+            "\u20b92,230 crore",
+            "\u20b92,220 crore",
+            "\u20b92,240 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated cost of Polavaram Phase II for which Andhra Pradesh sought financial support?",
+        "a": "\u20b932,000 crore",
+        "options": [
+            "\u20b931,000 crore",
+            "\u20b933,000 crore",
+            "\u20b932,000 crore",
+            "\u20b930,000 crore",
+            "\u20b934,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Andhra Pradesh sought an immediate release of how much amount under the PM-PRANAM scheme?",
+        "a": "\u20b9216 crore",
+        "options": [
+            "\u20b9210 crore",
+            "\u20b9220 crore",
+            "\u20b9216 crore",
+            "\u20b9215 crore",
+            "\u20b9218 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much Central assistance did Andhra Pradesh seek under Swachh Bharat Mission (Urban) 2.0?",
+        "a": "\u20b9105 crore",
+        "options": [
+            "\u20b9100 crore",
+            "\u20b9110 crore",
+            "\u20b9105 crore",
+            "\u20b9102 crore",
+            "\u20b9108 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the monthly remuneration received by Sharmistha Sethy as a helper-cum-cook at the anganwadi?",
+        "a": "\u20b95,000",
+        "options": [
+            "\u20b94,500",
+            "\u20b95,500",
+            "\u20b95,000",
+            "\u20b94,800",
+            "\u20b95,200"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total estimated cost of Google's AI data centre campus project in Visakhapatnam over five years?",
+        "a": "$15 billion",
+        "options": [
+            "$14 billion",
+            "$16 billion",
+            "$15 billion",
+            "$13 billion",
+            "$17 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much gold jewellery, in grams, was stolen from the Urban Development and Town Planning Minister's office?",
+        "a": "300 gm",
+        "options": [
+            "290 gm",
+            "310 gm",
+            "300 gm",
+            "280 gm",
+            "320 gm"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the amount of cash stolen from the Urban Development and Town Planning Minister's office?",
+        "a": "\u20b91.5 lakh",
+        "options": [
+            "\u20b91.4 lakh",
+            "\u20b91.6 lakh",
+            "\u20b91.5 lakh",
+            "\u20b91.3 lakh",
+            "\u20b91.7 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the target for the electronics manufacturing industry to hit by 2030, in USD?",
+        "a": "$500 billion",
+        "options": [
+            "$450 billion",
+            "$550 billion",
+            "$500 billion",
+            "$480 billion",
+            "$520 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage share did Tamil Nadu account for in India's total electronics exports during FY 2025?",
+        "a": "41%",
+        "options": [
+            "40%",
+            "42%",
+            "41%",
+            "39%",
+            "43%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total value of Tamil Nadu's overall exports in 2023-24?",
+        "a": "$43.5 billion",
+        "options": [
+            "$40.0 billion",
+            "$45.0 billion",
+            "$43.5 billion",
+            "$42.0 billion",
+            "$44.5 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is mentioned as India\u2019s first Ramsar Award winner in the news text?",
+        "a": "Jayshree Vencatesan",
+        "options": [
+            "Sharmistha Sethy",
+            "Talat Fatima",
+            "Jayshree Vencatesan",
+            "Deepali Mishra",
+            "Byrathi Suresh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Union Defence Minister mentioned in the context of DAP-2026?",
+        "a": "Rajnath Singh",
+        "options": [
+            "Ashwini Vaishnaw",
+            "Rajnath Singh",
+            "Shivraj Singh Chouhan",
+            "C.R. Patil",
+            "Manohar Lal Khattar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Rajasthan Water Resources Minister who inspected the Chambal aqueduct construction work?",
+        "a": "Suresh Singh Rawat",
+        "options": [
+            "Rajnath Singh",
+            "Shivraj Singh Chouhan",
+            "Suresh Singh Rawat",
+            "N. Chandrababu Naidu",
+            "V Sivankutty"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Union Jal Shakti Minister with whom A.P. CM Chandrababu Naidu met to discuss water issues?",
+        "a": "C.R. Patil",
+        "options": [
+            "Shivraj Singh Chouhan",
+            "Ashwini Vaishnaw",
+            "C.R. Patil",
+            "Manohar Lal Khattar",
+            "Rajnath Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Dalit woman whose appointment as a helper-cum-cook allegedly led to the boycott of an anganwadi in Odisha?",
+        "a": "Sharmistha Sethy",
+        "options": [
+            "Deepali Mishra",
+            "Jayshree Vencatesan",
+            "Sharmistha Sethy",
+            "Talat Fatima",
+            "Naveen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who translated the biography of Wajid Ali Shah, titled 'Wajid Ali Shah: A Cultural and Literary Legacy,' from Urdu to English?",
+        "a": "Talat Fatima",
+        "options": [
+            "Kaukub Quder Sajjad Ali Meerza",
+            "Satyajit Ray",
+            "Talat Fatima",
+            "H.D. Love",
+            "Eyles Irwin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Information Technology Minister of Andhra Pradesh, credited by TDP for the Google deal?",
+        "a": "Nara Lokesh",
+        "options": [
+            "Y.S. Jagan Mohan Reddy",
+            "N. Chandrababu Naidu",
+            "Nara Lokesh",
+            "Kinjarapu Rammohan Naidu",
+            "C.R. Patil"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the complainant who reported the theft of a bag from the Urban Development and Town Planning Minister's office?",
+        "a": "Naveen",
+        "options": [
+            "Antony",
+            "Byrathi Suresh",
+            "Naveen",
+            "V Sivankutty",
+            "Rajnath Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the State Industries Minister of Tamil Nadu who spoke at the 15th edition of Source India-Electronics Supply Chain?",
+        "a": "T.R.B. Rajaa",
+        "options": [
+            "Sasikumar Gendham",
+            "Atul Lall",
+            "T.R.B. Rajaa",
+            "V Sivankutty",
+            "N. Chandrababu Naidu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who launched 'Rakshakavacham', a new accident insurance scheme for private sector workers?",
+        "a": "V Sivankutty",
+        "options": [
+            "Rajnath Singh",
+            "T.R.B. Rajaa",
+            "V Sivankutty",
+            "Manohar Lal Khattar",
+            "Shivraj Singh Chouhan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the research consultant to Satyajit Ray for Shatranj Ke Khiladi, and also the biographer of Wajid Ali Shah?",
+        "a": "Kaukub Quder Sajjad Ali Meerza",
+        "options": [
+            "Wajid Ali Shah",
+            "Talat Fatima",
+            "Kaukub Quder Sajjad Ali Meerza",
+            "H.D. Love",
+            "Eyles Irwin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the President of the Electronic Industries Association of India (ELCINA) mentioned in the news?",
+        "a": "Sasikumar Gendham",
+        "options": [
+            "Atul Lall",
+            "T.R.B. Rajaa",
+            "Sasikumar Gendham",
+            "V Sivankutty",
+            "Chandrababu Naidu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the preface of the poem 'St. Thomas\u2019s Mount' dated Jan 1, 1773, written?",
+        "a": "Fort St. George",
+        "options": [
+            "Madras",
+            "England",
+            "Fort St. George",
+            "Erembore",
+            "Calcutta"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The new aqueduct on the Chambal river in Rajasthan is being constructed at which location in Bundi district?",
+        "a": "Guhata",
+        "options": [
+            "Pipalda Samel",
+            "Navnera",
+            "Guhata",
+            "Digod",
+            "Mej"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which region did Andhra Pradesh seek to establish a Makhana Development Board?",
+        "a": "Kolleru region",
+        "options": [
+            "Tirupati",
+            "Visakhapatnam",
+            "Kolleru region",
+            "Amaravati",
+            "Vijayawada"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which district of Odisha is the anganwadi located that has not been functioning for nearly three months?",
+        "a": "Kendrapara",
+        "options": [
+            "Rajnagar",
+            "Ghadiamal",
+            "Nuagaon",
+            "Kendrapara",
+            "Bundi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did Wajid Ali Shah spend the last three decades of his life after coming to the city?",
+        "a": "Calcutta",
+        "options": [
+            "Lucknow",
+            "London",
+            "Calcutta",
+            "Fort William",
+            "Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city is Google planning to build its largest AI hub outside the U.S.?",
+        "a": "Visakhapatnam",
+        "options": [
+            "Hyderabad",
+            "Bengaluru",
+            "Visakhapatnam",
+            "Chennai",
+            "Mumbai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "From which office was the bag containing gold ornaments and cash allegedly stolen?",
+        "a": "Urban Development and Town Planning Minister Byrathi Suresh's office",
+        "options": [
+            "Defence Ministry",
+            "Jal Shakti Ministry",
+            "Urban Development and Town Planning Minister Byrathi Suresh's office",
+            "Agriculture Ministry",
+            "Railway Ministry"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city hosted the 15th edition of Source India-Electronics Supply Chain?",
+        "a": "Chennai",
+        "options": [
+            "Bengaluru",
+            "Hyderabad",
             "Chennai",
             "Mumbai",
-            "Bengaluru",
-            "Delhi",
-            "Hyderabad"
+            "Pune"
         ],
-        "cat": "Science"
+        "cat": "Where"
     },
     {
-        "q": "Which article of the Constitution deals with the Annual Financial Statement (Budget)?",
-        "a": "Article 112",
+        "q": "The aqueduct on the Chambal river will connect Pipalda Samel village in Kota district\u2019s Digod tehsil at one end and which other place on the other?",
+        "a": "Guhata",
         "options": [
-            "Article 110",
-            "Article 112",
-            "Article 280",
-            "Article 360",
-            "Article 108"
+            "Navnera",
+            "Mej river",
+            "Guhata",
+            "Galwa",
+            "Isarda"
         ],
-        "cat": "Polity"
+        "cat": "Where"
     },
     {
-        "q": "What is the full form of 'UPI' in digital payments?",
-        "a": "Unified Payments Interface",
+        "q": "In which city did Eyles Irwin arrive in 1768 and later become Land Surveyor?",
+        "a": "Madras",
         "options": [
-            "Unified Payments Interface",
-            "Union Pay India",
-            "Universal Payment ID",
-            "United Payment Interface",
-            "Unique Payment Identity"
+            "London",
+            "Calcutta",
+            "Madras",
+            "Fort St. George",
+            "Erembore"
         ],
-        "cat": "Banking"
+        "cat": "Where"
     },
     {
-        "q": "National Youth Day is celebrated on?",
-        "a": "12 January",
+        "q": "In which historical location are many of Wajid Ali Shah's love letters preserved in Kolkata?",
+        "a": "Fort William",
         "options": [
-            "12 January",
-            "15 January",
-            "10 January",
-            "25 January",
-            "28 February"
+            "Victoria Memorial Hall",
+            "Lucknow",
+            "Fort William",
+            "Calcutta Museum",
+            "National Library"
         ],
-        "cat": "Dates"
+        "cat": "Where"
     },
     {
-        "q": "Who is the Chairman of SEBI?",
-        "a": "Madhabi Puri Buch",
+        "q": "Which two meteorological offices are mentioned for temperature comparison in Madras?",
+        "a": "Meenambakkam and Nungambakkam",
         "options": [
-            "Ajay Tyagi",
-            "Madhabi Puri Buch",
-            "U.K. Sinha",
-            "Debasish Panda",
-            "Ashish Chauhan"
+            "Tambaram and Alandur",
+            "Meenambakkam and Nungambakkam",
+            "Chennai and Sriperumbudur",
+            "Hosur and Coimbatore",
+            "Trichy and Pondy"
         ],
-        "cat": "Appointments"
+        "cat": "Where"
     },
     {
-        "q": "What does 'G' stand for in 'GDP'?",
-        "a": "Gross",
+        "q": "In which year was the poem 'St. Thomas\u2019s Mount' published anonymously in England?",
+        "a": "1774",
         "options": [
-            "Growth",
-            "Gross",
-            "Global",
-            "General",
-            "Goods"
+            "1773",
+            "1775",
+            "1774",
+            "1776",
+            "1772"
         ],
-        "cat": "Economy"
+        "cat": "When"
     },
     {
-        "q": "Which is the largest Public Sector Bank in India?",
-        "a": "State Bank of India",
+        "q": "The draft 'Defence Acquisition Procedure (DAP)-2026' was uploaded on the Defence Ministry website on which date?",
+        "a": "February 10, 2026",
         "options": [
-            "Punjab National Bank",
-            "Bank of Baroda",
-            "State Bank of India",
-            "Canara Bank",
-            "Union Bank"
+            "February 12, 2026",
+            "February 8, 2026",
+            "February 10, 2026",
+            "March 3, 2026",
+            "February 5, 2026"
         ],
-        "cat": "Banking"
+        "cat": "When"
     },
     {
-        "q": "When is 'World Environment Day' celebrated?",
-        "a": "5 June",
+        "q": "When is the construction work for the aqueduct on the Chambal river expected to be completed?",
+        "a": "June 2028",
         "options": [
-            "5 June",
-            "22 April",
-            "16 September",
-            "5 July",
-            "1 May"
+            "May 2028",
+            "July 2028",
+            "June 2028",
+            "April 2028",
+            "August 2028"
         ],
-        "cat": "Dates"
+        "cat": "When"
+    },
+    {
+        "q": "In which financial year did Andhra Pradesh achieve a reduction in chemical fertiliser usage by 2.28 per cent?",
+        "a": "2024\u201325",
+        "options": [
+            "2023\u201324",
+            "2025\u201326",
+            "2024\u201325",
+            "2022\u201323",
+            "2026\u201327"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was Sharmistha Sethy appointed as a helper-cum-cook at the Nuagaon anganwadi?",
+        "a": "November 20, 2025",
+        "options": [
+            "October 20, 2025",
+            "December 20, 2025",
+            "November 20, 2025",
+            "November 15, 2025",
+            "November 25, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did Nawab Wajid Ali Shah, the last emperor of Awadh, die?",
+        "a": "1887",
+        "options": [
+            "1885",
+            "1889",
+            "1887",
+            "1880",
+            "1890"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Google announce its plans to build a massive one-gigawatt AI data centre campus in Visakhapatnam?",
+        "a": "October 2025",
+        "options": [
+            "September 2025",
+            "November 2025",
+            "October 2025",
+            "August 2025",
+            "December 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "By which year does the electronics manufacturing industry aim to hit $500 billion?",
+        "a": "2030",
+        "options": [
+            "2028",
+            "2032",
+            "2030",
+            "2029",
+            "2031"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The memorandum of agreement for the Parvati-Kalisindh-Chambal link project was signed between Rajasthan and Madhya Pradesh governments on which date?",
+        "a": "December 17, 2024",
+        "options": [
+            "November 17, 2024",
+            "January 17, 2025",
+            "December 17, 2024",
+            "December 7, 2024",
+            "December 27, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the foundation stone for the Alluri Sitharama Raju Greenfield International Airport at Bhogapuram initially laid by the TDP government?",
+        "a": "2019",
+        "options": [
+            "2018",
+            "2020",
+            "2019",
+            "2017",
+            "2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason Eyles Irwin wrote the pastoral poem 'St. Thomas\u2019s Mount'?",
+        "a": "Fascinated by natural beauty and historic associations of the Mount",
+        "options": [
+            "To gain recognition in England",
+            "To criticize the East India Company",
+            "Fascinated by natural beauty and historic associations of the Mount",
+            "To document the cyclone of 1768",
+            "To get land from the Company"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the overarching goal that DAP-2026 intends to achieve for the nation by 2047?",
+        "a": "Weave the security of the nation and technological growth in a single thread and create the canvas for Viksit Bharat-2047",
+        "options": [
+            "Increase defence exports by 50%",
+            "Reduce defence imports to zero",
+            "Weave the security of the nation and technological growth in a single thread and create the canvas for Viksit Bharat-2047",
+            "Focus solely on indigenous design",
+            "Replace DAP-2020 without further changes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of the new 2.3-km-long aqueduct on the Chambal river?",
+        "a": "To facilitate the supply of drinking and irrigation water from the revised Parvati-Kalisindh-Chambal link project",
+        "options": [
+            "To generate electricity",
+            "To create a new tourist attraction",
+            "To facilitate the supply of drinking and irrigation water from the revised Parvati-Kalisindh-Chambal link project",
+            "To provide a new route for public transport only",
+            "To connect only two villages"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Chandrababu Naidu's concern regarding Karnataka's move to increase the height of the Almatti dam?",
+        "a": "It would adversely affect downstream water availability to Andhra Pradesh",
+        "options": [
+            "It would increase power generation in Karnataka",
+            "It would lead to flooding in Karnataka",
+            "It would adversely affect downstream water availability to Andhra Pradesh",
+            "It would benefit Andhra Pradesh",
+            "It would solve inter-state disputes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the alleged reason cited by Sharmistha Sethy for the villagers boycotting the anganwadi centre?",
+        "a": "Caste prejudice",
+        "options": [
+            "Lack of facilities",
+            "Poor quality of food",
+            "Caste prejudice",
+            "Insufficient remuneration for staff",
+            "Building in disrepair"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Wajid Ali Shah's original intention for coming to Calcutta?",
+        "a": "To take a ship to London to submit a petition",
+        "options": [
+            "To settle permanently",
+            "To write his famous poems",
+            "To meet British officials",
+            "To take a ship to London to submit a petition",
+            "To avoid exile"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What term did the YSR Congress Party (YSRCP) use to accuse the current government of taking credit for projects laid down during Y.S. Jagan Mohan Reddy\u2019s tenure?",
+        "a": "'Credit chori'",
+        "options": [
+            "'Vote chori'",
+            "'Policy chori'",
+            "'Credit chori'",
+            "'Scheme chori'",
+            "'Data chori'"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the nature of the crime committed by Antony, the watch-and-ward staff member?",
+        "a": "Theft",
+        "options": [
+            "Vandalism",
+            "Extortion",
+            "Theft",
+            "Fraud",
+            "Assault"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary focus of the next phase of competitiveness for India's electronics manufacturing sector, as per Atul Lall?",
+        "a": "Deeper localisation, strong component ecosystems and continued investment in technology and skills",
+        "options": [
+            "Increasing exports to 100%",
+            "Reducing all imports",
+            "Deeper localisation, strong component ecosystems and continued investment in technology and skills",
+            "Focusing only on design-led manufacturing",
+            "Achieving $1 trillion in revenue"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the 'Rakshakavacham' scheme?",
+        "a": "To provide financial security to private sector workers",
+        "options": [
+            "To provide free healthcare to government employees",
+            "To promote education for private sector workers",
+            "To provide financial security to private sector workers",
+            "To offer housing loans to workers",
+            "To reduce unemployment in the private sector"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is a key objective of DAP-2026 regarding indigenous design and IPR?",
+        "a": "'Atmanirbharbta' with a focus on indigenous designing and retention of IPR",
+        "options": [
+            "To increase foreign collaboration in design",
+            "To export more IPR",
+            "To reduce indigenous design efforts",
+            "'Atmanirbharbta' with a focus on indigenous designing and retention of IPR",
+            "To standardize IPR globally"
+        ],
+        "cat": "Why"
     }
 ]
