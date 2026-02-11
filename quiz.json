@@ -1,0 +1,122 @@
+[
+    {
+        "q": "What is the current Repo Rate fixed by RBI?",
+        "a": "6.50%",
+        "options": [
+            "6.25%",
+            "6.50%",
+            "6.75%",
+            "6.00%",
+            "6.35%"
+        ],
+        "cat": "Banking"
+    },
+    {
+        "q": "Who is the current Governor of RBI?",
+        "a": "Shaktikanta Das",
+        "options": [
+            "Urjit Patel",
+            "Raghuram Rajan",
+            "Shaktikanta Das",
+            "M.D. Patra",
+            "Nirmala Sitharaman"
+        ],
+        "cat": "Appointments"
+    },
+    {
+        "q": "Where is the Headquarters of ISRO located?",
+        "a": "Bengaluru",
+        "options": [
+            "Chennai",
+            "Mumbai",
+            "Bengaluru",
+            "Delhi",
+            "Hyderabad"
+        ],
+        "cat": "Science"
+    },
+    {
+        "q": "Which article of the Constitution deals with the Annual Financial Statement (Budget)?",
+        "a": "Article 112",
+        "options": [
+            "Article 110",
+            "Article 112",
+            "Article 280",
+            "Article 360",
+            "Article 108"
+        ],
+        "cat": "Polity"
+    },
+    {
+        "q": "What is the full form of 'UPI' in digital payments?",
+        "a": "Unified Payments Interface",
+        "options": [
+            "Unified Payments Interface",
+            "Union Pay India",
+            "Universal Payment ID",
+            "United Payment Interface",
+            "Unique Payment Identity"
+        ],
+        "cat": "Banking"
+    },
+    {
+        "q": "National Youth Day is celebrated on?",
+        "a": "12 January",
+        "options": [
+            "12 January",
+            "15 January",
+            "10 January",
+            "25 January",
+            "28 February"
+        ],
+        "cat": "Dates"
+    },
+    {
+        "q": "Who is the Chairman of SEBI?",
+        "a": "Madhabi Puri Buch",
+        "options": [
+            "Ajay Tyagi",
+            "Madhabi Puri Buch",
+            "U.K. Sinha",
+            "Debasish Panda",
+            "Ashish Chauhan"
+        ],
+        "cat": "Appointments"
+    },
+    {
+        "q": "What does 'G' stand for in 'GDP'?",
+        "a": "Gross",
+        "options": [
+            "Growth",
+            "Gross",
+            "Global",
+            "General",
+            "Goods"
+        ],
+        "cat": "Economy"
+    },
+    {
+        "q": "Which is the largest Public Sector Bank in India?",
+        "a": "State Bank of India",
+        "options": [
+            "Punjab National Bank",
+            "Bank of Baroda",
+            "State Bank of India",
+            "Canara Bank",
+            "Union Bank"
+        ],
+        "cat": "Banking"
+    },
+    {
+        "q": "When is 'World Environment Day' celebrated?",
+        "a": "5 June",
+        "options": [
+            "5 June",
+            "22 April",
+            "16 September",
+            "5 July",
+            "1 May"
+        ],
+        "cat": "Dates"
+    }
+]
