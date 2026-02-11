@@ -5,117 +5,114 @@ import google.generativeai as genai
 import time
 
 # --- CONFIGURATION ---
-# API Key GitHub Secrets se aayegi
+# GitHub Secrets se API Key
 API_KEY = os.environ.get("GEMINI_API_KEY")
-
-# Aapki News File ka Raw Link (2.json)
-NEWS_SOURCE_URL = "https://raw.githubusercontent.com/GOLutheGhosT-4444/Today-Current-Affairs/refs/heads/main/2.json"
+NEWS_SOURCE = "https://raw.githubusercontent.com/GOLutheGhosT-4444/Today-Current-Affairs/refs/heads/main/2.json"
 OUTPUT_FILE = "quiz.json"
 
-# --- 1. FETCH NEWS DATA ---
+# --- 1. FETCH DATA ---
 def fetch_news():
-    print(f"📥 Fetching news from: {NEWS_SOURCE_URL}")
+    print(f"📥 Fetching Raw Data from: {NEWS_SOURCE}")
     try:
-        response = requests.get(NEWS_SOURCE_URL)
+        response = requests.get(NEWS_SOURCE)
         response.raise_for_status()
         
         try:
             data = response.json()
-            # Saari news ka content combine karein context ke liye
-            combined_text = ""
+            # Combine content for context
+            text_data = ""
             for item in data:
                 content = item.get('content', '') or item.get('summary', '')
                 if len(content) > 50:
-                    combined_text += content + "\n---\n"
+                    text_data += f"- {content}\n"
             
-            print(f"✅ News fetched successfully! Length: {len(combined_text)} chars")
-            return combined_text
+            print(f"✅ Data Loaded. Total Chars: {len(text_data)}")
+            return text_data
         except json.JSONDecodeError:
-            print("❌ Error: 2.json is not valid JSON. Trying to read as raw text.")
+            print("⚠️ JSON Error. Using Raw Text.")
             return response.text
             
     except Exception as e:
-        print(f"❌ Network Error: {e}")
+        print(f"❌ Error Fetching Data: {e}")
         return None
 
-# --- 2. GENERATE PROFESSIONAL QUESTIONS ---
-def generate_quiz(news_text):
+# --- 2. GENERATE POWERFUL QUESTIONS ---
+def generate_questions(news_text):
     if not API_KEY:
-        print("❌ Error: GEMINI_API_KEY not found in environment variables.")
-        return None
+        print("❌ Error: GEMINI_API_KEY Missing!")
+        return []
 
-    if not news_text or len(news_text) < 100:
-        print("❌ Not enough news data to generate quiz.")
-        return None
-
-    print("🤖 Sending data to Gemini AI for Question Generation...")
-    
     genai.configure(api_key=API_KEY)
-    
-    # Use 'gemini-1.5-flash' for speed and large context
     model = genai.GenerativeModel('gemini-1.5-flash')
 
-    # --- PROMPT ENGINEERING (THE SECRET SAUCE) ---
+    print("🧠 Starting AI Generation (Target: 60 Questions)...")
+
+    # Prompt Engineering: The Brain of the Script
     prompt = f"""
-    You are a Senior Question Setter for IBPS PO and SBI PO Banking Exams. 
-    Analyze the provided news text and generate 10-15 High-Level Multiple Choice Questions (MCQs).
+    You are a Ruthless Banking Exam Paper Setter (IBPS/SBI PO Level).
+    I need exactly 60 One-Liner MCQs based on the news text provided below.
 
-    CONTEXT DATA:
-    {news_text[:12000]} 
+    ### STRICT QUESTION CRITERIA (The 5 Pillars):
+    Generate questions ONLY related to these 5 categories:
+    1. **Amount:** (Budget, GDP, Loans, Penalties, Deal Value) - *Most Important*
+    2. **Who (Kisne):** (Appointments, Resignations, Award Winners, Partners)
+    3. **Where (Kha):** (Summit Venues, HQs, Inauguration Places)
+    4. **When (Kab):** (Target Years, Days celebrated, Deadlines)
+    5. **Why (Kyo):** (Themes of days, Purpose of schemes, Motto)
 
-    STRICT GUIDELINES:
-    1. **Difficulty:** Hard/Professional. Focus on economic figures, RBI guidelines, exact dates, and tricky appointments.
-    2. **Options:** Must be very confusing. 
-       - If the answer is "6.5%", options should be ["6.25%", "6.5%", "6.65%", "6.4%"].
-       - Include "None of these" as an option in 20% of questions.
-    3. **Format:** Output MUST be a raw JSON Array. Do not use Markdown (```json).
-    4. **Structure:**
-       [
-         {{
-           "q": "Question text here?",
-           "a": "Correct Answer",
-           "options": ["Option A", "Option B", "Correct Answer", "Option D", "Option E"],
-           "cat": "Category (e.g., Banking, Economy, National)"
-         }}
-       ]
-    5. Ensure the "a" (answer) is exactly present in the "options" list.
+    ### STRICT OPTION CRITERIA (Confusing Levels):
+    - Create exactly 5 Options for each question.
+    - **One** must be correct.
+    - **Four** must be extreme distractors.
+    - *Example (Amount):* If Answer is "Rs 500 Cr", Options: ["Rs 510 Cr", "Rs 490 Cr", "Rs 500 Cr", "Rs 505 Cr", "Rs 495 Cr"]
+    - *Example (Date):* If Answer is "24 Jan", Options: ["23 Jan", "25 Jan", "24 Jan", "22 Jan", "21 Jan"]
+    - *Example (Name):* If Answer is "Amit Shah", Options: ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "Piyush Goyal", "J.P. Nadda"]
+
+    ### OUTPUT FORMAT:
+    - Return a RAW JSON Array.
+    - Structure: {{"q": "Question", "a": "Correct Answer", "options": ["A", "B", "C", "D", "E"], "cat": "Category"}}
+    - Generate 60 items. (Items 51-60 will be used as backup buffer).
+
+    ### NEWS DATA:
+    {news_text[:25000]}
     """
 
     try:
-        response = model.generate_content(prompt)
+        # High token limit for 60 questions
+        response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
         
-        # Clean the response (Remove markdown if AI adds it)
-        clean_text = response.text.replace("```json", "").replace("```", "").strip()
+        # Parse JSON
+        quiz_data = json.loads(response.text)
         
-        # Validate JSON
-        quiz_data = json.loads(clean_text)
-        print(f"✅ Generated {len(quiz_data)} professional questions.")
+        # Validation: Check count
+        count = len(quiz_data)
+        print(f"⚡ AI Generated {count} Questions.")
+        
+        if count < 10:
+            print("⚠️ Warning: Low question count. News might be too short.")
+
         return quiz_data
 
     except Exception as e:
-        print(f"❌ AI Generation Error: {e}")
-        print("Raw Response:", response.text if 'response' in locals() else "No response")
-        return None
+        print(f"❌ AI Error: {e}")
+        return []
 
-# --- 3. SAVE TO FILE ---
-def save_file(data):
-    if data:
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4)
-        print(f"💾 Quiz saved to {OUTPUT_FILE}")
-    else:
+# --- 3. SAVE DATA ---
+def save_quiz(data):
+    if not data:
         print("⚠️ No data to save.")
+        return
 
-# --- MAIN EXECUTION ---
+    # Shuffle Questions 1-50 (Keep 51-60 as buffer at end)
+    # Strategy: Hum pure 60 save karenge, Frontend logic lagayega usage par.
+    
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
+    print(f"💾 Saved {len(data)} High-Quality Questions to {OUTPUT_FILE}")
+
+# --- EXECUTION ---
 if __name__ == "__main__":
-    news_content = fetch_news()
-    if news_content:
-        quiz_json = generate_quiz(news_content)
-        if quiz_json:
-            save_file(quiz_json)
-        else:
-            # Fallback: Create a dummy file so workflow doesn't fail completely
-            print("⚠️ Generating fallback empty JSON")
-            save_file([])
-    else:
-        print("❌ Process failed at fetching stage.")
+    news = fetch_news()
+    if news:
+        questions = generate_questions(news)
+        save_quiz(questions)
