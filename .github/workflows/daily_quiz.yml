@@ -1,39 +1,60 @@
 name: Generate Daily AI Quiz
 
 on:
-  workflow_dispatch:      # Ye line Sabse Zaroori hai (Button kaam karne ke liye)
   schedule:
-    - cron: '30 2 * * *'  # Rozana subah 8:00 AM IST apne aap chalega
+    - cron: '30 2 * * *'  # Rozana Subah 8:00 AM IST (02:30 UTC)
+  workflow_dispatch:      # Ye Button dabane par chalne ke liye zaroori hai
 
 permissions:
-  contents: write         # JSON file save karne ki permission
+  contents: write         # Repository me file save karne ki permission
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Code Checkout
       - name: Checkout Code
         uses: actions/checkout@v3
 
+      # Step 2: Python Setup
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
+      # Step 3: Install Libraries
       - name: Install Dependencies
         run: |
           pip install google-generativeai requests
 
+      # Step 4: Run Python Script (Make sure script name matches)
       - name: Run Quiz Generator Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python gen_quiz.py
+        run: python gen_pro_quiz.py
 
-      - name: Commit and Push Quiz JSON
+      # Step 5: Verify, Commit & Push (Error Fix Here)
+      - name: Verify and Push Changes
         run: |
+          # 1. Debug: List files to see if quiz.json exists
+          ls -la
+
+          # 2. Configure Git User
           git config --global user.name "AI Quiz Bot"
           git config --global user.email "bot@github.com"
-          git add quiz.json
-          # Ye check karega: Agar quiz.json me koi change hai tabhi commit karega
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 New Quiz Generated" && git push)
+
+          # 3. Check if file exists
+          if [ -f "quiz.json" ]; then
+            echo "✅ File quiz.json found. Proceeding to commit."
+            
+            git add quiz.json
+            
+            # 4. Commit only if there are changes (Prevents crash if data is same)
+            git commit -m "🤖 Quiz Updated [$(date)]" || echo "⚠️ No changes to commit, skipping push."
+            
+            git push
+          else
+            echo "❌ CRITICAL ERROR: quiz.json was not created by the python script."
+            exit 1 # Fail the workflow so you get an email alert
+          fi
