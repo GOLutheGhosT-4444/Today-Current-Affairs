@@ -2,7 +2,6 @@ name: Daily News Bot
 
 on:
   
-  schedule:
    schedule:
   - cron: '30 1 * * *'
   
