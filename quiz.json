@@ -1,722 +1,842 @@
 [
     {
-        "q": "The first canto of Eyles Irwin\u2019s poem 'St. Thomas\u2019s Mount' contains how many verses?",
-        "a": "220",
+        "q": "Which of the following associations associated with bank employees in Karnataka are expected to stay away from work during the nationwide general strike?",
+        "a": "All India Bank Employees Association (AIBEA) and Bank Employees Federation of India (BEFI)",
         "options": [
-            "225",
-            "215",
-            "220",
-            "230",
-            "210"
+            "All India Bank Officers' Confederation (AIBOC)",
+            "National Organisation of Bank Workers (NOBW)",
+            "Indian National Bank Employees Federation (INBEF)",
+            "All India Bank Employees Association (AIBEA) and Bank Employees Federation of India (BEFI)",
+            "Bharatiya Mazdoor Sangh (BMS)"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What was the approximate age of Eyles Irwin when he wrote the poem 'St. Thomas\u2019s Mount'?",
-        "a": "Not yet 20",
+        "q": "In which state were banking services likely to be affected by the nationwide general strike, while public transport operations were expected to continue without major disruption?",
+        "a": "Karnataka",
         "options": [
-            "Not yet 25",
-            "Not yet 30",
-            "Not yet 20",
-            "Not yet 18",
-            "Not yet 22"
+            "Kerala",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Karnataka",
+            "Andhra Pradesh"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "Eyles Irwin obtained how many acres of land in the village of 'Erembore' from the East India Company?",
-        "a": "Eleven",
+        "q": "What was the percentage of candidates provided job opportunities under the PM-DAKSH scheme between 2021 and 2024?",
+        "a": "44%",
         "options": [
-            "Ten",
-            "Twelve",
-            "Eleven",
-            "Nine",
-            "Thirteen"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total estimated cost of the ambitious Parvati-Kalisindh-Chambal link project?",
-        "a": "\u20b990,000 crore",
-        "options": [
-            "\u20b989,000 crore",
-            "\u20b991,000 crore",
-            "\u20b990,000 crore",
-            "\u20b988,000 crore",
-            "\u20b992,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The construction work for the first phase of the Chambal river aqueduct is taken up at what cost?",
-        "a": "\u20b92,230 crore",
-        "options": [
-            "\u20b92,200 crore",
-            "\u20b92,250 crore",
-            "\u20b92,230 crore",
-            "\u20b92,220 crore",
-            "\u20b92,240 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated cost of Polavaram Phase II for which Andhra Pradesh sought financial support?",
-        "a": "\u20b932,000 crore",
-        "options": [
-            "\u20b931,000 crore",
-            "\u20b933,000 crore",
-            "\u20b932,000 crore",
-            "\u20b930,000 crore",
-            "\u20b934,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Andhra Pradesh sought an immediate release of how much amount under the PM-PRANAM scheme?",
-        "a": "\u20b9216 crore",
-        "options": [
-            "\u20b9210 crore",
-            "\u20b9220 crore",
-            "\u20b9216 crore",
-            "\u20b9215 crore",
-            "\u20b9218 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much Central assistance did Andhra Pradesh seek under Swachh Bharat Mission (Urban) 2.0?",
-        "a": "\u20b9105 crore",
-        "options": [
-            "\u20b9100 crore",
-            "\u20b9110 crore",
-            "\u20b9105 crore",
-            "\u20b9102 crore",
-            "\u20b9108 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the monthly remuneration received by Sharmistha Sethy as a helper-cum-cook at the anganwadi?",
-        "a": "\u20b95,000",
-        "options": [
-            "\u20b94,500",
-            "\u20b95,500",
-            "\u20b95,000",
-            "\u20b94,800",
-            "\u20b95,200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total estimated cost of Google's AI data centre campus project in Visakhapatnam over five years?",
-        "a": "$15 billion",
-        "options": [
-            "$14 billion",
-            "$16 billion",
-            "$15 billion",
-            "$13 billion",
-            "$17 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much gold jewellery, in grams, was stolen from the Urban Development and Town Planning Minister's office?",
-        "a": "300 gm",
-        "options": [
-            "290 gm",
-            "310 gm",
-            "300 gm",
-            "280 gm",
-            "320 gm"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the amount of cash stolen from the Urban Development and Town Planning Minister's office?",
-        "a": "\u20b91.5 lakh",
-        "options": [
-            "\u20b91.4 lakh",
-            "\u20b91.6 lakh",
-            "\u20b91.5 lakh",
-            "\u20b91.3 lakh",
-            "\u20b91.7 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the target for the electronics manufacturing industry to hit by 2030, in USD?",
-        "a": "$500 billion",
-        "options": [
-            "$450 billion",
-            "$550 billion",
-            "$500 billion",
-            "$480 billion",
-            "$520 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage share did Tamil Nadu account for in India's total electronics exports during FY 2025?",
-        "a": "41%",
-        "options": [
-            "40%",
             "42%",
-            "41%",
-            "39%",
+            "46%",
+            "44%",
+            "45%",
             "43%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total value of Tamil Nadu's overall exports in 2023-24?",
-        "a": "$43.5 billion",
+        "q": "What is the minimum employment rate required for training institutes under PM-DAKSH Short Term Training Courses to avoid forfeiture of training cost?",
+        "a": "70%",
         "options": [
-            "$40.0 billion",
-            "$45.0 billion",
-            "$43.5 billion",
-            "$42.0 billion",
-            "$44.5 billion"
+            "65%",
+            "75%",
+            "70%",
+            "60%",
+            "80%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is mentioned as India\u2019s first Ramsar Award winner in the news text?",
-        "a": "Jayshree Vencatesan",
+        "q": "What percentage of the training cost per candidate is forfeited if training institutes fail to meet the required employment rate under PM-DAKSH?",
+        "a": "30%",
         "options": [
-            "Sharmistha Sethy",
-            "Talat Fatima",
-            "Jayshree Vencatesan",
-            "Deepali Mishra",
-            "Byrathi Suresh"
+            "25%",
+            "35%",
+            "30%",
+            "20%",
+            "40%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many candidates were trained under the PM-DAKSH scheme between 2021 and 2024?",
+        "a": "1.5 lakh",
+        "options": [
+            "1.4 lakh",
+            "1.6 lakh",
+            "1.5 lakh",
+            "1.55 lakh",
+            "1.45 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which of the following corporations is NOT mentioned as extending loan facilities and assistance to eligible youth for employability and entrepreneurship under the Department?",
+        "a": "National Minorities Finance & Development Corporation (NMFDC)",
+        "options": [
+            "National Scheduled Castes Finance and Development Corporation (NSFDC)",
+            "National Backward Classes Finance & Development Corporation (NBCFDC)",
+            "National Safai Karamcharis Finance & Development Corporation (NSKFDC)",
+            "National Minorities Finance & Development Corporation (NMFDC)",
+            "All mentioned are corporations under the Department"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Union Defence Minister mentioned in the context of DAP-2026?",
-        "a": "Rajnath Singh",
+        "q": "What was the placement rate for trained candidates under the National Scheduled Castes Finance and Development Corporation (NSFDC) between 2021 and 2024?",
+        "a": "49.8%",
         "options": [
-            "Ashwini Vaishnaw",
-            "Rajnath Singh",
-            "Shivraj Singh Chouhan",
-            "C.R. Patil",
-            "Manohar Lal Khattar"
+            "48.8%",
+            "50.8%",
+            "49.8%",
+            "49.5%",
+            "50.1%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Rajasthan Water Resources Minister who inspected the Chambal aqueduct construction work?",
-        "a": "Suresh Singh Rawat",
+        "q": "What was the placement rate for trained candidates under the National Backward Classes Finance & Development Corporation (NBCFDC) between 2021 and 2024?",
+        "a": "48.9%",
         "options": [
-            "Rajnath Singh",
-            "Shivraj Singh Chouhan",
-            "Suresh Singh Rawat",
-            "N. Chandrababu Naidu",
-            "V Sivankutty"
+            "47.9%",
+            "49.9%",
+            "48.9%",
+            "48.5%",
+            "49.2%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Union Jal Shakti Minister with whom A.P. CM Chandrababu Naidu met to discuss water issues?",
-        "a": "C.R. Patil",
+        "q": "What was the placement rate for candidates trained under the National Safai Karamcharis Finance & Development Corporation (NSKFDC)?",
+        "a": "23%",
         "options": [
-            "Shivraj Singh Chouhan",
-            "Ashwini Vaishnaw",
-            "C.R. Patil",
-            "Manohar Lal Khattar",
-            "Rajnath Singh"
+            "21%",
+            "25%",
+            "23%",
+            "22%",
+            "24%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Dalit woman whose appointment as a helper-cum-cook allegedly led to the boycott of an anganwadi in Odisha?",
-        "a": "Sharmistha Sethy",
+        "q": "Which of the following states saw less than 40% of candidates placed under the PM-DAKSH scheme?",
+        "a": "Rajasthan, Tripura, and Jharkhand",
         "options": [
-            "Deepali Mishra",
-            "Jayshree Vencatesan",
-            "Sharmistha Sethy",
-            "Talat Fatima",
-            "Naveen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who translated the biography of Wajid Ali Shah, titled 'Wajid Ali Shah: A Cultural and Literary Legacy,' from Urdu to English?",
-        "a": "Talat Fatima",
-        "options": [
-            "Kaukub Quder Sajjad Ali Meerza",
-            "Satyajit Ray",
-            "Talat Fatima",
-            "H.D. Love",
-            "Eyles Irwin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Information Technology Minister of Andhra Pradesh, credited by TDP for the Google deal?",
-        "a": "Nara Lokesh",
-        "options": [
-            "Y.S. Jagan Mohan Reddy",
-            "N. Chandrababu Naidu",
-            "Nara Lokesh",
-            "Kinjarapu Rammohan Naidu",
-            "C.R. Patil"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the complainant who reported the theft of a bag from the Urban Development and Town Planning Minister's office?",
-        "a": "Naveen",
-        "options": [
-            "Antony",
-            "Byrathi Suresh",
-            "Naveen",
-            "V Sivankutty",
-            "Rajnath Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the State Industries Minister of Tamil Nadu who spoke at the 15th edition of Source India-Electronics Supply Chain?",
-        "a": "T.R.B. Rajaa",
-        "options": [
-            "Sasikumar Gendham",
-            "Atul Lall",
-            "T.R.B. Rajaa",
-            "V Sivankutty",
-            "N. Chandrababu Naidu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who launched 'Rakshakavacham', a new accident insurance scheme for private sector workers?",
-        "a": "V Sivankutty",
-        "options": [
-            "Rajnath Singh",
-            "T.R.B. Rajaa",
-            "V Sivankutty",
-            "Manohar Lal Khattar",
-            "Shivraj Singh Chouhan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the research consultant to Satyajit Ray for Shatranj Ke Khiladi, and also the biographer of Wajid Ali Shah?",
-        "a": "Kaukub Quder Sajjad Ali Meerza",
-        "options": [
-            "Wajid Ali Shah",
-            "Talat Fatima",
-            "Kaukub Quder Sajjad Ali Meerza",
-            "H.D. Love",
-            "Eyles Irwin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the President of the Electronic Industries Association of India (ELCINA) mentioned in the news?",
-        "a": "Sasikumar Gendham",
-        "options": [
-            "Atul Lall",
-            "T.R.B. Rajaa",
-            "Sasikumar Gendham",
-            "V Sivankutty",
-            "Chandrababu Naidu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where was the preface of the poem 'St. Thomas\u2019s Mount' dated Jan 1, 1773, written?",
-        "a": "Fort St. George",
-        "options": [
-            "Madras",
-            "England",
-            "Fort St. George",
-            "Erembore",
-            "Calcutta"
+            "Bihar, Odisha, and West Bengal",
+            "Rajasthan, Gujarat, and Maharashtra",
+            "Madhya Pradesh, Uttar Pradesh, and Haryana",
+            "Rajasthan, Tripura, and Jharkhand",
+            "Karnataka, Kerala, and Tamil Nadu"
         ],
         "cat": "Where"
     },
     {
-        "q": "The new aqueduct on the Chambal river in Rajasthan is being constructed at which location in Bundi district?",
-        "a": "Guhata",
+        "q": "In which fiscal year was the Pradhan Mantri Dakshata Aur Kushalata Sampanna Hitgrahi (PM-DAKSH) Yojana launched?",
+        "a": "2020-21",
         "options": [
-            "Pipalda Samel",
-            "Navnera",
-            "Guhata",
-            "Digod",
-            "Mej"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which region did Andhra Pradesh seek to establish a Makhana Development Board?",
-        "a": "Kolleru region",
-        "options": [
-            "Tirupati",
-            "Visakhapatnam",
-            "Kolleru region",
-            "Amaravati",
-            "Vijayawada"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which district of Odisha is the anganwadi located that has not been functioning for nearly three months?",
-        "a": "Kendrapara",
-        "options": [
-            "Rajnagar",
-            "Ghadiamal",
-            "Nuagaon",
-            "Kendrapara",
-            "Bundi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did Wajid Ali Shah spend the last three decades of his life after coming to the city?",
-        "a": "Calcutta",
-        "options": [
-            "Lucknow",
-            "London",
-            "Calcutta",
-            "Fort William",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city is Google planning to build its largest AI hub outside the U.S.?",
-        "a": "Visakhapatnam",
-        "options": [
-            "Hyderabad",
-            "Bengaluru",
-            "Visakhapatnam",
-            "Chennai",
-            "Mumbai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which office was the bag containing gold ornaments and cash allegedly stolen?",
-        "a": "Urban Development and Town Planning Minister Byrathi Suresh's office",
-        "options": [
-            "Defence Ministry",
-            "Jal Shakti Ministry",
-            "Urban Development and Town Planning Minister Byrathi Suresh's office",
-            "Agriculture Ministry",
-            "Railway Ministry"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city hosted the 15th edition of Source India-Electronics Supply Chain?",
-        "a": "Chennai",
-        "options": [
-            "Bengaluru",
-            "Hyderabad",
-            "Chennai",
-            "Mumbai",
-            "Pune"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The aqueduct on the Chambal river will connect Pipalda Samel village in Kota district\u2019s Digod tehsil at one end and which other place on the other?",
-        "a": "Guhata",
-        "options": [
-            "Navnera",
-            "Mej river",
-            "Guhata",
-            "Galwa",
-            "Isarda"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did Eyles Irwin arrive in 1768 and later become Land Surveyor?",
-        "a": "Madras",
-        "options": [
-            "London",
-            "Calcutta",
-            "Madras",
-            "Fort St. George",
-            "Erembore"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which historical location are many of Wajid Ali Shah's love letters preserved in Kolkata?",
-        "a": "Fort William",
-        "options": [
-            "Victoria Memorial Hall",
-            "Lucknow",
-            "Fort William",
-            "Calcutta Museum",
-            "National Library"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which two meteorological offices are mentioned for temperature comparison in Madras?",
-        "a": "Meenambakkam and Nungambakkam",
-        "options": [
-            "Tambaram and Alandur",
-            "Meenambakkam and Nungambakkam",
-            "Chennai and Sriperumbudur",
-            "Hosur and Coimbatore",
-            "Trichy and Pondy"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which year was the poem 'St. Thomas\u2019s Mount' published anonymously in England?",
-        "a": "1774",
-        "options": [
-            "1773",
-            "1775",
-            "1774",
-            "1776",
-            "1772"
+            "2019-20",
+            "2021-22",
+            "2020-21",
+            "2022-23",
+            "2018-19"
         ],
         "cat": "When"
     },
     {
-        "q": "The draft 'Defence Acquisition Procedure (DAP)-2026' was uploaded on the Defence Ministry website on which date?",
-        "a": "February 10, 2026",
+        "q": "What is the main purpose of the PM-DAKSH Yojana?",
+        "a": "To provide skills through good quality institutions for employment to its target group.",
         "options": [
-            "February 12, 2026",
-            "February 8, 2026",
+            "To offer financial assistance for higher education",
+            "To provide skills through good quality institutions for employment to its target group",
+            "To promote entrepreneurship among urban youth",
+            "To establish new training centers across India",
+            "To facilitate international job placements"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "With which scheme of the Ministry of Skill Development and Entrepreneurship has PM-DAKSH been merged from 2024-25 onwards?",
+        "a": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "options": [
+            "Pradhan Mantri Rojgar Yojana (PMRY)",
+            "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+            "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+            "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+            "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many out of 25 states trained no candidates under NSKFDC in 2023-24?",
+        "a": "16",
+        "options": [
+            "14",
+            "18",
+            "16",
+            "15",
+            "17"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the Union Minister of Agriculture & Farmers\u2019 Welfare and Rural Development who attended the Janpratinidhi Sammelan in Agartala?",
+        "a": "Shivraj Singh Chouhan",
+        "options": [
+            "Narendra Singh Tomar",
+            "Piyush Goyal",
+            "Shivraj Singh Chouhan",
+            "Amit Shah",
+            "Smriti Irani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The 'Viksit Bharat \u2013 Guarantee for Rozgar and Ajeevika Mission (Gramin)' (VB\u2013G RAM G) was launched in which city?",
+        "a": "Agartala",
+        "options": [
+            "Guwahati",
+            "Imphal",
+            "Shillong",
+            "Agartala",
+            "Kohima"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date was the 'Viksit Bharat \u2013 Guarantee for Rozgar and Ajeevika Mission (Gramin)' (VB\u2013G RAM G) launched in Agartala?",
+        "a": "February 11, 2026",
+        "options": [
             "February 10, 2026",
-            "March 3, 2026",
-            "February 5, 2026"
+            "February 12, 2026",
+            "February 11, 2026",
+            "January 11, 2026",
+            "March 11, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the construction work for the aqueduct on the Chambal river expected to be completed?",
-        "a": "June 2028",
+        "q": "What did Union Minister Shivraj Singh Chouhan describe Tripura as, indicating its importance in rural development?",
+        "a": "Dhanalakshmi hub",
         "options": [
-            "May 2028",
-            "July 2028",
-            "June 2028",
-            "April 2028",
-            "August 2028"
+            "Vidyalakshmi hub",
+            "Rajyalakshmi hub",
+            "Dhanalakshmi hub",
+            "Krishilakshmi hub",
+            "Udyoglakshmi hub"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "In which financial year did Andhra Pradesh achieve a reduction in chemical fertiliser usage by 2.28 per cent?",
-        "a": "2024\u201325",
+        "q": "Who highlighted the central government\u2019s commitment to strengthening the rural economy during the VB-G RAM G launch event?",
+        "a": "Tripura Chief Minister Dr. Manik Saha",
         "options": [
-            "2023\u201324",
-            "2025\u201326",
-            "2024\u201325",
-            "2022\u201323",
-            "2026\u201327"
+            "Union Minister Shivraj Singh Chouhan",
+            "Prime Minister Narendra Modi",
+            "Tripura Chief Minister Dr. Manik Saha",
+            "The Finance Minister of Tripura",
+            "The Speaker of Tripura Assembly"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the 20-year-old Dalit woman whose appointment as helper-cum-cook triggered a boycott of the Anganwadi centre in Odisha?",
+        "a": "Sharmista Sethy",
+        "options": [
+            "Priyanka Devi",
+            "Radhika Murmu",
+            "Sunita Paswan",
+            "Sharmista Sethy",
+            "Kavita Biswal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Anganwadi centre boycott incident took place in which block of Kendrapara district, Odisha?",
+        "a": "Rajnagar block",
+        "options": [
+            "Pattamundai block",
+            "Marsaghai block",
+            "Aul block",
+            "Rajnagar block",
+            "Mahakalapada block"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "For approximately how long had the Anganwadi centre in Odisha\u2019s Kendrapara district not been functioning due to the boycott?",
+        "a": "Nearly three months",
+        "options": [
+            "Nearly one month",
+            "Nearly six months",
+            "Nearly three months",
+            "Nearly two months",
+            "Nearly four months"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date was Sharmistha Sethy appointed as a helper-cum-cook at the Nuagaon anganwadi?",
+        "q": "What was stated as the root cause for the boycott of the Anganwadi centre in Nuagaon village after Sharmista Sethy's appointment?",
+        "a": "Casteism",
+        "options": [
+            "Lack of infrastructure",
+            "Casteism",
+            "Disagreement over food menu",
+            "Political rivalry",
+            "Protest against government policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "When was Sharmista Sethy appointed as the lone candidate for helper-cum-cook in the Anganwadi centre?",
         "a": "November 20, 2025",
         "options": [
             "October 20, 2025",
             "December 20, 2025",
             "November 20, 2025",
-            "November 15, 2025",
-            "November 25, 2025"
+            "November 10, 2025",
+            "December 10, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Nawab Wajid Ali Shah, the last emperor of Awadh, die?",
-        "a": "1887",
+        "q": "Who is the scientist at the CSIR-National Chemical Laboratory, Pune, who wrote the article on antimicrobial resistance?",
+        "a": "Anu Raghunathan",
         "options": [
-            "1885",
-            "1889",
-            "1887",
-            "1880",
-            "1890"
+            "Rita Sharma",
+            "Priya Singh",
+            "Anu Raghunathan",
+            "Meena Kapoor",
+            "Deepa Verma"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to the article, antimicrobial resistance (AMR) is described as a logical consequence of what?",
+        "a": "Using antibiotics at scale",
+        "options": [
+            "Over-prescription by doctors",
+            "Using antibiotics at scale",
+            "Poor patient compliance",
+            "Lack of new drug development",
+            "Environmental pollution"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The author of the article on Antimicrobial Resistance (AMR) is associated with which laboratory in Pune?",
+        "a": "CSIR-National Chemical Laboratory",
+        "options": [
+            "National Institute of Virology",
+            "Agharkar Research Institute",
+            "CSIR-National Chemical Laboratory",
+            "Indian Institute of Science Education and Research",
+            "National Centre for Cell Science"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "India\u2019s National Action Plan on Antimicrobial Resistance correctly recognizes the complexity of AMR through which framework?",
+        "a": "'One Health' framework",
+        "options": [
+            "'Public Health First' framework",
+            "'Rapid Response' framework",
+            "'One Health' framework",
+            "'Community Engagement' framework",
+            "'Integrated Surveillance' framework"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the approximate worth of the advanced computing systems and high-performance workstations equipping the new AI-based research and innovation laboratory at Anna University?",
+        "a": "Rs. 1 crore",
+        "options": [
+            "Rs. 90 lakh",
+            "Rs. 1.1 crore",
+            "Rs. 1 crore",
+            "Rs. 1.05 crore",
+            "Rs. 95 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who formally donated the Vaidharma Laboratory to the Electronics and Communications Engineering (ECE) Department of College of Engineering, Guindy (CEG)?",
+        "a": "Sundar Vaidhiyanathan",
+        "options": [
+            "V. Kumaresan",
+            "P. Hariharan",
+            "Sundar Vaidhiyanathan",
+            "M.A. Bhagyaveni",
+            "An alumnus from 1980 batch"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The state-of-the-art Artificial Intelligence-based research and innovation laboratory was inaugurated at which university?",
+        "a": "Anna University",
+        "options": [
+            "Madras University",
+            "VIT",
+            "Anna University",
+            "Bharathiar University",
+            "SRM Institute of Science and Technology"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The newly inaugurated Vaidharma Laboratory at Anna University is expected to enhance students\u2019 technical competencies and prepare them for global career opportunities in which domain?",
+        "a": "AI-driven domains",
+        "options": [
+            "Biotechnology research",
+            "Renewable energy solutions",
+            "Aerospace engineering",
+            "AI-driven domains",
+            "Civil infrastructure development"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The press conference by Samajwadi Party president Akhilesh Yadav on the U.P. Budget 2026\u201327 was held in which city?",
+        "a": "Lucknow",
+        "options": [
+            "Varanasi",
+            "Prayagraj",
+            "Kanpur",
+            "Lucknow",
+            "Agra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date was the Samajwadi Party National president Akhilesh Yadav's press conference regarding the U.P. Budget 2026\u201327?",
+        "a": "February 11, 2026",
+        "options": [
+            "February 10, 2026",
+            "February 12, 2026",
+            "February 11, 2026",
+            "January 11, 2026",
+            "March 11, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Google announce its plans to build a massive one-gigawatt AI data centre campus in Visakhapatnam?",
-        "a": "October 2025",
+        "q": "Who is the Samajwadi Party National president who criticized the U.P. Budget 2026\u201327 as a 'farewell budget'?",
+        "a": "Akhilesh Yadav",
         "options": [
-            "September 2025",
-            "November 2025",
-            "October 2025",
-            "August 2025",
-            "December 2025"
+            "Mulayam Singh Yadav",
+            "Mayawati",
+            "Akhilesh Yadav",
+            "Ajay Rai",
+            "Priyanka Gandhi Vadra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What term did Akhilesh Yadav use to describe the U.P. Budget 2026\u201327, implying the BJP government's impending departure?",
+        "a": "Farewell budget",
+        "options": [
+            "Development budget",
+            "Transformative budget",
+            "Farewell budget",
+            "Growth budget",
+            "People's budget"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which political party's president demanded a white paper on the projects and proposals sanctioned and implemented in previous budgets in Uttar Pradesh?",
+        "a": "Congress",
+        "options": [
+            "Samajwadi Party",
+            "Bahujan Samaj Party",
+            "Congress",
+            "Aam Aadmi Party",
+            "Rashtriya Lok Dal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the local activist and AAP leader whose arrest contributed to the protest against the Ken-Betwa river linking project in Chhatarpur?",
+        "a": "Amit Bhatnagar",
+        "options": [
+            "Arvind Kejriwal",
+            "Sanjay Singh",
+            "Amit Bhatnagar",
+            "Manish Sisodia",
+            "Raghav Chadha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The protest against the Ken-Betwa river linking project and the arrest of a local activist took place in which district of Madhya Pradesh?",
+        "a": "Chhatarpur",
+        "options": [
+            "Panna",
+            "Sagar",
+            "Damoh",
+            "Chhatarpur",
+            "Tikamgarh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date was the Ken-Betwa link project (KBLP) flagged off by Prime Minister Narendra Modi?",
+        "a": "December 25, 2024",
+        "options": [
+            "December 25, 2023",
+            "January 26, 2025",
+            "December 25, 2024",
+            "August 15, 2024",
+            "October 2, 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "By which year does the electronics manufacturing industry aim to hit $500 billion?",
-        "a": "2030",
+        "q": "What is the primary objective of the Ken-Betwa link project (KBLP) as part of the National Perspective Plan?",
+        "a": "To transfer excess water from the Ken river basin to the Betwa river basin.",
         "options": [
-            "2028",
-            "2032",
+            "To generate hydroelectric power",
+            "To provide irrigation to drought-prone areas only",
+            "To transfer excess water from the Ken river basin to the Betwa river basin",
+            "To improve navigation in both rivers",
+            "To enhance tourism along the river banks"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the Chhatarpur Superintendent of Police who commented on the Ken-Betwa project protests?",
+        "a": "Agam Jain",
+        "options": [
+            "Vikram Singh",
+            "Rakesh Kumar",
+            "Agam Jain",
+            "Suresh Patel",
+            "Anil Yadav"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many suggestions did the Haryana government\u2019s Voice Feedback Portal receive from citizens across the State for the budget slated to be presented later this month?",
+        "a": "Over 11,000",
+        "options": [
+            "Over 10,000",
+            "Over 12,000",
+            "Over 11,000",
+            "Over 9,000",
+            "Over 13,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Chief Minister of Haryana who launched the AI-based Voice Feedback Portal?",
+        "a": "Nayab Singh Saini",
+        "options": [
+            "Manohar Lal Khattar",
+            "Nayab Singh Saini",
+            "Bhupinder Singh Hooda",
+            "Dushyant Chautala",
+            "Anil Vij"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date was the Artificial Intelligence (AI)-based Voice Feedback Portal launched by the Haryana Chief Minister?",
+        "a": "January 6",
+        "options": [
+            "January 1",
+            "January 10",
+            "January 6",
+            "December 25",
+            "February 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What did the Haryana government aim to achieve by inviting suggestions from citizens through the AI-based initiative for the State budget 2026-27?",
+        "a": "Making the State budget a 'People\u2019s Budget'",
+        "options": [
+            "To enhance transparency in financial reporting",
+            "To reduce the budget deficit",
+            "To make the State budget a 'People\u2019s Budget'",
+            "To increase public participation in policy-making only",
+            "To digitize government services"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Approximately how many suggestions were received from all mediums for the Haryana budget consultation process?",
+        "a": "More than 15,000",
+        "options": [
+            "More than 12,000",
+            "More than 18,000",
+            "More than 15,000",
+            "More than 14,000",
+            "More than 16,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which city was the Haryana government's 'Vision-2047' document unveiled by Union Home Minister Amit Shah?",
+        "a": "Panchkula",
+        "options": [
+            "Chandigarh",
+            "Gurugram",
+            "Faridabad",
+            "Panchkula",
+            "Rohtak"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the amount of the loan Kochi Metro Rail Limited (KMRL) was permitted to seek from the Asian Infrastructure Investment Bank (AIIB) for the second phase of the Kochi metro?",
+        "a": "\u20b91,016.24 crore",
+        "options": [
+            "\u20b9990.50 crore",
+            "\u20b91,020.75 crore",
+            "\u20b91,016.24 crore",
+            "\u20b91,010.80 crore",
+            "\u20b91,000.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "From which international funding agency was Kochi Metro Rail Limited (KMRL) permitted to seek a loan for the second phase of the Kochi metro?",
+        "a": "Asian Infrastructure Investment Bank (AIIB)",
+        "options": [
+            "World Bank",
+            "International Monetary Fund (IMF)",
+            "Asian Development Bank (ADB)",
+            "Asian Infrastructure Investment Bank (AIIB)",
+            "Japan International Cooperation Agency (JICA)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the expected completion month and year for the second phase of the Kochi metro, according to KMRL?",
+        "a": "December 2026",
+        "options": [
+            "March 2027",
+            "June 2026",
+            "December 2026",
+            "September 2027",
+            "January 2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the revised estimated cost for the 11.2-km Kochi metro extension from Jawaharlal Nehru stadium to Kakkanad, for which the State Cabinet accorded administrative sanction in March 2023?",
+        "a": "\u20b91,957.05 crore",
+        "options": [
+            "\u20b91,950.00 crore",
+            "\u20b91,960.50 crore",
+            "\u20b91,957.05 crore",
+            "\u20b91,945.00 crore",
+            "\u20b91,965.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the total project cost (excluding land, R&R, PPP) for Kochi Metro Phase II is expected to come from loans from bilateral/multilateral agencies?",
+        "a": "60%",
+        "options": [
+            "55%",
+            "65%",
+            "60%",
+            "50%",
+            "70%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the founder and chancellor of Vellore Institute of Technology (VIT) who stated that over 11,000 students received scholarships?",
+        "a": "G. Viswanathan",
+        "options": [
+            "K. Pitchandi",
+            "M. K. Stalin",
+            "G. Viswanathan",
+            "N. Chandrababu Naidu",
+            "Anand Mahindra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the total worth of scholarships distributed by VIT under its various flagship schemes for over 15 years?",
+        "a": "Over \u20b913 crore",
+        "options": [
+            "Over \u20b910 crore",
+            "Over \u20b915 crore",
+            "Over \u20b913 crore",
+            "Over \u20b912 crore",
+            "Over \u20b914 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the primary purpose of VIT's 'Higher Education for All Foundation'?",
+        "a": "To bridge the gap in enrollment ratio between northern districts and the rest of the State.",
+        "options": [
+            "To establish new VIT campuses across India",
+            "To provide free education to all students",
+            "To bridge the gap in enrollment ratio between northern districts and the rest of the State",
+            "To promote research in higher education",
+            "To offer scholarships to international students"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Three new high-level bridges were opened across which river in Tiruvannamalai, fulfilling the long-standing demand of residents?",
+        "a": "Cheyyar",
+        "options": [
+            "Cauvery",
+            "Vaigai",
+            "Cheyyar",
+            "Palar",
+            "Adyar"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the Gross Enrollment Ratio (GER) of Tamil Nadu mentioned in the news text, which is above the national average?",
+        "a": "47%",
+        "options": [
+            "42%",
+            "50%",
+            "47%",
+            "45%",
+            "49%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the national average Gross Enrollment Ratio (GER) mentioned in the context of higher education?",
+        "a": "28%",
+        "options": [
+            "25%",
+            "30%",
+            "28%",
+            "27%",
+            "29%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many students received scholarships worth \u20b928 lakh at the STARS event organized by VIT in Tiruvannamalai?",
+        "a": "242",
+        "options": [
+            "230",
+            "250",
+            "242",
+            "240",
+            "245"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the value of scholarships distributed to 242 meritorious students at the STARS event organized by VIT in Tiruvannamalai?",
+        "a": "\u20b928 lakh",
+        "options": [
+            "\u20b925 lakh",
+            "\u20b930 lakh",
+            "\u20b928 lakh",
+            "\u20b927 lakh",
+            "\u20b929 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The newly inaugurated bridges in Tiruvannamalai were constructed across Cheyyar, which is a tributary of which other river?",
+        "a": "Then Pennai",
+        "options": [
+            "Cauvery",
+            "Vaigai",
+            "Then Pennai",
+            "Palar",
+            "Adyar"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Who is the Deputy Speaker of Tamil Nadu Legislative Assembly who distributed scholarships at the VIT STARS event?",
+        "a": "K. Pitchandi",
+        "options": [
+            "M. Appavu",
+            "J. Jayakumar",
+            "K. Pitchandi",
+            "Duraimurugan",
+            "S. Regupathy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which city did the brainstorming session for Haryana's budget, attended by secretaries and experts, take place to align with 'Vision-2047'?",
+        "a": "Gurugram",
+        "options": [
+            "Panchkula",
+            "Chandigarh",
+            "Faridabad",
+            "Gurugram",
+            "Rohtak"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the maximum number of suggestions concerning local self-governance or municipalities and panchayats received by Haryana's Voice Feedback Portal?",
+        "a": "750",
+        "options": [
+            "700",
+            "800",
+            "750",
+            "725",
+            "775"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the target year for the 'Vision-2047' document unveiled by Union Home Minister Amit Shah, with which Haryana's budget targets are to be aligned?",
+        "a": "2047",
+        "options": [
             "2030",
-            "2029",
-            "2031"
+            "2035",
+            "2047",
+            "2040",
+            "2050"
         ],
         "cat": "When"
     },
     {
-        "q": "The memorandum of agreement for the Parvati-Kalisindh-Chambal link project was signed between Rajasthan and Madhya Pradesh governments on which date?",
-        "a": "December 17, 2024",
+        "q": "What was the number of pre-budget meetings conducted by the Haryana Chief Minister in January as part of the consultation process?",
+        "a": "12",
         "options": [
-            "November 17, 2024",
-            "January 17, 2025",
-            "December 17, 2024",
-            "December 7, 2024",
-            "December 27, 2024"
+            "10",
+            "14",
+            "12",
+            "11",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "When did the Union government approve the second phase of the Kochi metro project?",
+        "a": "September 2022",
+        "options": [
+            "August 2022",
+            "October 2022",
+            "September 2022",
+            "September 2021",
+            "August 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the foundation stone for the Alluri Sitharama Raju Greenfield International Airport at Bhogapuram initially laid by the TDP government?",
-        "a": "2019",
+        "q": "When did the State Cabinet accord administrative sanction for the revised estimate of the Kochi metro extension to Kakkanad?",
+        "a": "March 2023",
         "options": [
-            "2018",
-            "2020",
-            "2019",
-            "2017",
-            "2021"
+            "February 2023",
+            "April 2023",
+            "March 2023",
+            "March 2022",
+            "February 2024"
         ],
         "cat": "When"
-    },
-    {
-        "q": "What was the primary reason Eyles Irwin wrote the pastoral poem 'St. Thomas\u2019s Mount'?",
-        "a": "Fascinated by natural beauty and historic associations of the Mount",
-        "options": [
-            "To gain recognition in England",
-            "To criticize the East India Company",
-            "Fascinated by natural beauty and historic associations of the Mount",
-            "To document the cyclone of 1768",
-            "To get land from the Company"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the overarching goal that DAP-2026 intends to achieve for the nation by 2047?",
-        "a": "Weave the security of the nation and technological growth in a single thread and create the canvas for Viksit Bharat-2047",
-        "options": [
-            "Increase defence exports by 50%",
-            "Reduce defence imports to zero",
-            "Weave the security of the nation and technological growth in a single thread and create the canvas for Viksit Bharat-2047",
-            "Focus solely on indigenous design",
-            "Replace DAP-2020 without further changes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose of the new 2.3-km-long aqueduct on the Chambal river?",
-        "a": "To facilitate the supply of drinking and irrigation water from the revised Parvati-Kalisindh-Chambal link project",
-        "options": [
-            "To generate electricity",
-            "To create a new tourist attraction",
-            "To facilitate the supply of drinking and irrigation water from the revised Parvati-Kalisindh-Chambal link project",
-            "To provide a new route for public transport only",
-            "To connect only two villages"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was Chandrababu Naidu's concern regarding Karnataka's move to increase the height of the Almatti dam?",
-        "a": "It would adversely affect downstream water availability to Andhra Pradesh",
-        "options": [
-            "It would increase power generation in Karnataka",
-            "It would lead to flooding in Karnataka",
-            "It would adversely affect downstream water availability to Andhra Pradesh",
-            "It would benefit Andhra Pradesh",
-            "It would solve inter-state disputes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the alleged reason cited by Sharmistha Sethy for the villagers boycotting the anganwadi centre?",
-        "a": "Caste prejudice",
-        "options": [
-            "Lack of facilities",
-            "Poor quality of food",
-            "Caste prejudice",
-            "Insufficient remuneration for staff",
-            "Building in disrepair"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was Wajid Ali Shah's original intention for coming to Calcutta?",
-        "a": "To take a ship to London to submit a petition",
-        "options": [
-            "To settle permanently",
-            "To write his famous poems",
-            "To meet British officials",
-            "To take a ship to London to submit a petition",
-            "To avoid exile"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What term did the YSR Congress Party (YSRCP) use to accuse the current government of taking credit for projects laid down during Y.S. Jagan Mohan Reddy\u2019s tenure?",
-        "a": "'Credit chori'",
-        "options": [
-            "'Vote chori'",
-            "'Policy chori'",
-            "'Credit chori'",
-            "'Scheme chori'",
-            "'Data chori'"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the nature of the crime committed by Antony, the watch-and-ward staff member?",
-        "a": "Theft",
-        "options": [
-            "Vandalism",
-            "Extortion",
-            "Theft",
-            "Fraud",
-            "Assault"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary focus of the next phase of competitiveness for India's electronics manufacturing sector, as per Atul Lall?",
-        "a": "Deeper localisation, strong component ecosystems and continued investment in technology and skills",
-        "options": [
-            "Increasing exports to 100%",
-            "Reducing all imports",
-            "Deeper localisation, strong component ecosystems and continued investment in technology and skills",
-            "Focusing only on design-led manufacturing",
-            "Achieving $1 trillion in revenue"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the 'Rakshakavacham' scheme?",
-        "a": "To provide financial security to private sector workers",
-        "options": [
-            "To provide free healthcare to government employees",
-            "To promote education for private sector workers",
-            "To provide financial security to private sector workers",
-            "To offer housing loans to workers",
-            "To reduce unemployment in the private sector"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is a key objective of DAP-2026 regarding indigenous design and IPR?",
-        "a": "'Atmanirbharbta' with a focus on indigenous designing and retention of IPR",
-        "options": [
-            "To increase foreign collaboration in design",
-            "To export more IPR",
-            "To reduce indigenous design efforts",
-            "'Atmanirbharbta' with a focus on indigenous designing and retention of IPR",
-            "To standardize IPR globally"
-        ],
-        "cat": "Why"
     }
 ]
