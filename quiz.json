@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the estimated cost of the new sports complex currently under construction in Tirupattur?",
-        "a": "\u20b915 crore",
+        "q": "What is the total capital cost approved for the rehabilitation and upgradation of the Ghoti-Trimbak (Mokhada)-Jawhar-Manor-Palghar section of NH-160A in Maharashtra?",
+        "a": "\u20b93,320.38 crore",
         "options": [
-            "\u20b916 crore",
-            "\u20b914 crore",
-            "\u20b915 crore",
-            "\u20b913 crore",
-            "\u20b917 crore"
+            "\u20b93,310.38 crore",
+            "\u20b93,320.38 crore",
+            "\u20b93,330.38 crore",
+            "\u20b93,325.38 crore",
+            "\u20b93,315.38 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of West Bengal's state-run schools have internet penetration, according to the Union Minister Dharmendra Pradhan?",
-        "a": "16%",
+        "q": "What is the approved capital cost for the construction of 4-lane sections of Dhamasiya-Bitada/Movi and Nasarpore-Malotha in Gujarat?",
+        "a": "\u20b94,583.64 crore",
         "options": [
-            "15%",
-            "17%",
-            "16%",
-            "18%",
-            "19%"
+            "\u20b94,573.64 crore",
+            "\u20b94,583.64 crore",
+            "\u20b94,593.64 crore",
+            "\u20b94,580.64 crore",
+            "\u20b94,588.64 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the national average internet penetration in state-run schools, as cited by Union Minister Dharmendra Pradhan?",
-        "a": "70%",
+        "q": "What is the total capital cost for the widening of National Highway-167 from Gudebellur to Mahabubnagar in Telangana?",
+        "a": "\u20b93,175.08 crore",
         "options": [
-            "65%",
-            "75%",
-            "70%",
-            "68%",
-            "72%"
+            "\u20b93,165.08 crore",
+            "\u20b93,170.08 crore",
+            "\u20b93,175.08 crore",
+            "\u20b93,180.08 crore",
+            "\u20b93,185.08 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much central funds did West Bengal reportedly lose by not implementing the National Education Policy (NEP)?",
+        "q": "What was the total expenditure incurred by the Tamil Nadu government when it transferred funds to 1.31 crore women under the Kalaignar Magalir Urimai Thogai scheme?",
+        "a": "\u20b96,550 crore",
+        "options": [
+            "\u20b96,500 crore",
+            "\u20b96,550 crore",
+            "\u20b96,600 crore",
+            "\u20b96,450 crore",
+            "\u20b96,525 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much amount was transferred to each woman beneficiary of the Kalaignar Magalir Urimai Thogai scheme, including special summer assistance?",
+        "a": "\u20b95,000",
+        "options": [
+            "\u20b94,000",
+            "\u20b95,000",
+            "\u20b96,000",
+            "\u20b94,500",
+            "\u20b95,500"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much amount is due to Tamil Nadu under the Samagra Shiksha scheme for 2024-25 and 2025-26, according to Finance Minister Thangam Thennarasu?",
+        "a": "\u20b93,548 crore",
+        "options": [
+            "\u20b93,500 crore",
+            "\u20b93,548 crore",
+            "\u20b93,600 crore",
+            "\u20b93,450 crore",
+            "\u20b93,524 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated revenue loss to Tamil Nadu this year due to the rate rationalisation of the Goods and Services Tax?",
         "a": "\u20b910,000 crore",
         "options": [
             "\u20b99,500 crore",
-            "\u20b910,000 crore",
             "\u20b910,500 crore",
-            "\u20b99,800 crore",
+            "\u20b910,000 crore",
+            "\u20b99,000 crore",
             "\u20b911,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated number of teacher-less schools in West Bengal, according to the Union Minister?",
-        "a": "Around 4,000",
+        "q": "What is the annual assistance provided to farmers under the Pradhan Mantri Kisan Samman Nidhi scheme?",
+        "a": "\u20b96,000 a year",
         "options": [
-            "Around 3,800",
-            "Around 4,200",
-            "Around 4,000",
-            "Around 3,900",
-            "Around 4,100"
+            "\u20b95,000 a year",
+            "\u20b96,000 a year",
+            "\u20b97,000 a year",
+            "\u20b96,500 a year",
+            "\u20b95,500 a year"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many apartments in the Model School Road in Sholinganallur reportedly lack a functional stormwater drain system?",
-        "a": "Nearly 7,000",
+        "q": "What was the initial assistance amount announced under Maharashtra's Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "\u20b91,500",
         "options": [
-            "Nearly 6,800",
-            "Nearly 7,200",
-            "Nearly 7,000",
-            "Nearly 6,900",
-            "Nearly 7,100"
+            "\u20b91,000",
+            "\u20b91,500",
+            "\u20b92,000",
+            "\u20b91,200",
+            "\u20b91,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated total number of apartments along the OMR stretch?",
-        "a": "One lakh",
+        "q": "What is the eventually proposed increased assistance under Maharashtra's Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "\u20b92,100",
         "options": [
-            "95,000",
-            "1,05,000",
-            "One lakh",
-            "98,000",
-            "1,02,000"
+            "\u20b92,000",
+            "\u20b92,100",
+            "\u20b92,200",
+            "\u20b92,050",
+            "\u20b92,150"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the range of potential water connection charges cited by residents after the Nemmeli Desalination Plant project?",
-        "a": "\u20b980,000",
+        "q": "How much amount was transferred to each of the 75 lakh women beneficiaries under Bihar's Mukhyamantri Mahila Rojgar Yojana?",
+        "a": "\u20b910,000",
         "options": [
-            "\u20b975,000",
-            "\u20b985,000",
-            "\u20b980,000",
-            "\u20b978,000",
-            "\u20b982,000"
+            "\u20b98,000",
+            "\u20b910,000",
+            "\u20b912,000",
+            "\u20b99,000",
+            "\u20b911,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the length of the stretch from Thiruvanmiyur to Akkarai currently undergoing widening into six lanes?",
-        "a": "8.8 km to 10.5 km",
+        "q": "What is the total amount approved by the Haryana Government for upgrading regulatory infrastructure in the National Capital Region (NCR)?",
+        "a": "\u20b953.21 crore",
         "options": [
-            "8.5 km to 10.2 km",
-            "8.8 km to 10.5 km",
-            "9.0 km to 10.7 km",
-            "8.7 km to 10.4 km",
-            "8.9 km to 10.6 km"
+            "\u20b950.21 crore",
+            "\u20b953.21 crore",
+            "\u20b956.21 crore",
+            "\u20b952.21 crore",
+            "\u20b954.21 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the typical cab fare residents currently spend to reach Kilambakkam, as mentioned in the news?",
-        "a": "\u20b9600",
+        "q": "How many new Mobile Food Testing Laboratory (MFTL) vans will be deployed in NCR areas by the Haryana Government?",
+        "a": "28",
         "options": [
-            "\u20b9580",
-            "\u20b9620",
-            "\u20b9600",
-            "\u20b9590",
-            "\u20b9610"
+            "25",
+            "28",
+            "30",
+            "27",
+            "29"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the planned seating capacity of the spectator's gallery in the new Tirupattur sports complex?",
-        "a": "Over 3,500",
+        "q": "What is the nominal charge for on-the-spot food testing per sample by MFTL vans in Haryana?",
+        "a": "\u20b920",
         "options": [
-            "Over 3,400",
-            "Over 3,600",
-            "Over 3,500",
-            "Over 3,300",
-            "Over 3,700"
+            "\u20b910",
+            "\u20b920",
+            "\u20b930",
+            "\u20b915",
+            "\u20b925"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many separate tracks will the new Tirupattur sports facility have for 400 metres athletics training?",
-        "a": "Eight",
+        "q": "How many state-of-the-art food testing laboratories will be established in phases by the Haryana Government?",
+        "a": "8",
         "options": [
-            "Six",
-            "Ten",
-            "Eight",
-            "Seven",
-            "Nine"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the seating capacity of the open-air theatre planned for the Tirupattur sports complex?",
-        "a": "Around 200 persons",
-        "options": [
-            "Around 180 persons",
-            "Around 220 persons",
-            "Around 200 persons",
-            "Around 190 persons",
-            "Around 210 persons"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many million users must a social media platform have to require a user declaration and technical verification for AI-generated content?",
-        "a": "More than five million",
-        "options": [
-            "More than four million",
-            "More than six million",
-            "More than five million",
-            "More than 4.5 million",
-            "More than 5.5 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How often will users now have to receive a reminder of social media platforms\u2019 terms and conditions, according to the IT Rules amendment?",
-        "a": "At least once every 3 (three) months",
-        "options": [
-            "At least once every 2 months",
-            "At least once every 4 months",
-            "At least once every 3 (three) months",
-            "At least once every 6 months",
-            "At least once every month"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the amount of the research, development, and innovation fund announced by the Centre to help accelerate entrepreneurs to Technology Readiness Level (TRL) 4?",
-        "a": "\u20b91-lakh crore",
-        "options": [
-            "\u20b990,000 crore",
-            "\u20b91,10,000 crore",
-            "\u20b91-lakh crore",
-            "\u20b995,000 crore",
-            "\u20b91,05,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What fund has the Prime Minister announced for supporting deep tech start-ups?",
-        "a": "\u20b910,000-crore",
-        "options": [
-            "\u20b99,500-crore",
-            "\u20b910,500-crore",
-            "\u20b910,000-crore",
-            "\u20b99,800-crore",
-            "\u20b910,200-crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the allocation to the Health Department in the Andhra Pradesh Budget 2026\u201327?",
-        "a": "\u20b919,264 crore",
-        "options": [
-            "\u20b919,164 crore",
-            "\u20b919,364 crore",
-            "\u20b919,264 crore",
-            "\u20b919,200 crore",
-            "\u20b919,300 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What were the revised estimates for the Health Department in Andhra Pradesh for 2025\u201326?",
-        "a": "\u20b917,637.24 crore",
-        "options": [
-            "\u20b917,537.24 crore",
-            "\u20b917,737.24 crore",
-            "\u20b917,637.24 crore",
-            "\u20b917,600.00 crore",
-            "\u20b917,650.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of their total budget did the National Health Policy-2017 suggest State governments spend on health by 2020?",
-        "a": "More than 8 per cent",
-        "options": [
-            "More than 7 per cent",
-            "More than 9 per cent",
-            "More than 8 per cent",
-            "More than 7.5 per cent",
-            "More than 8.5 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the Andhra Pradesh government's health allocation as a percentage of the total Budget for 2026-27?",
-        "a": "5.81 per cent",
-        "options": [
-            "5.71 per cent",
-            "5.91 per cent",
-            "5.81 per cent",
-            "5.75 per cent",
-            "5.85 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much was allocated for the Dr. NTR Vaidya Seva Trust in Andhra Pradesh for 2026-27?",
-        "a": "\u20b94,000 crore",
-        "options": [
-            "\u20b93,800 crore",
-            "\u20b94,200 crore",
-            "\u20b94,000 crore",
-            "\u20b93,900 crore",
-            "\u20b94,100 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What are the outstanding dues payable to network hospitals in Andhra Pradesh for the current financial year?",
-        "a": "\u20b93,000 crore",
-        "options": [
-            "\u20b92,800 crore",
-            "\u20b93,200 crore",
-            "\u20b93,000 crore",
-            "\u20b92,900 crore",
-            "\u20b93,100 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many students had an FIR registered against them following a protest on the Osmania University campus?",
-        "a": "10",
-        "options": [
+            "5",
             "8",
-            "12",
             "10",
-            "9",
-            "11"
+            "7",
+            "9"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many total wrestlers participated in the 'Maati Ka Bal - Dangal' event in Jamui?",
-        "a": "188",
+        "q": "What is the total project cost for the renovation of 11 Chinese fishing nets at Fort Kochi beachfront?",
+        "a": "\u20b92.40 crore",
         "options": [
-            "180",
-            "190",
-            "188",
-            "185",
-            "192"
+            "\u20b92.00 crore",
+            "\u20b92.40 crore",
+            "\u20b92.80 crore",
+            "\u20b92.20 crore",
+            "\u20b92.60 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the president of the Neelangarai Residents\u2019 Welfare Association, mentioned in the news regarding water supply issues?",
-        "a": "Gomathinayagam",
+        "q": "How much outstanding payment to a team of workers for preparatory renovation work of Chinese fishing nets was mentioned in the news?",
+        "a": "Just over \u20b95 lakh",
         "options": [
-            "Harsha Koda",
-            "T.R. Subhash",
-            "Gomathinayagam",
-            "Kathiravan Duraisamy",
-            "M.K. Stalin"
+            "Just over \u20b93 lakh",
+            "Just over \u20b94 lakh",
+            "Just over \u20b95 lakh",
+            "Just over \u20b96 lakh",
+            "Just over \u20b97 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the record amount allocated to the defence sector in this year's Union Budget, as stated by PM Modi?",
+        "a": "\u20b97.85 lakh crore",
+        "options": [
+            "\u20b97.50 lakh crore",
+            "\u20b97.85 lakh crore",
+            "\u20b98.00 lakh crore",
+            "\u20b97.75 lakh crore",
+            "\u20b97.90 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Deputy Prime Minister of the United Kingdom leading the UK delegation to the AI Impact Summit?",
+        "a": "David Lammy",
+        "options": [
+            "Rishi Sunak",
+            "David Lammy",
+            "Kanishka Narayan",
+            "Boris Johnson",
+            "Theresa May"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who inaugurated the overhead tank under the Nemmeli Desalination Plant project?",
-        "a": "Chief Minister M.K. Stalin",
+        "q": "Who is the first Indian-origin MP from Wales, also serving as the UK AI Minister?",
+        "a": "Kanishka Narayan",
         "options": [
-            "Harsha Koda",
-            "Gomathinayagam",
-            "Chief Minister M.K. Stalin",
-            "E.V. Velu",
-            "K. Sivasoundaravalli"
+            "David Lammy",
+            "Priti Patel",
+            "Kanishka Narayan",
+            "Alok Sharma",
+            "Sadiq Khan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the District Sports Officer of Tirupattur, who stated that the new sports facility would be ready in 2026?",
-        "a": "R. Jayakumari",
+        "q": "Who inaugurated the India AI Impact Expo 2026 at Bharat Mandapam?",
+        "a": "Prime Minister Narendra Modi",
         "options": [
-            "K. Sivasoundaravalli",
-            "E.V. Velu",
-            "R. Jayakumari",
-            "B. Santhosh",
-            "M.K. Stalin"
+            "President Droupadi Murmu",
+            "Prime Minister Narendra Modi",
+            "Union Minister Amit Shah",
+            "Union Minister Piyush Goyal",
+            "Chief Minister M.K. Stalin"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Union Education Minister who criticized the Mamata Banerjee government regarding education and NEP implementation?",
-        "a": "Dharmendra Pradhan",
+        "q": "Which committee approved the road projects worth more than \u20b911,000 crore in Maharashtra, Telangana, and Gujarat?",
+        "a": "Cabinet Committee on Economic Affairs (CCEA)",
         "options": [
-            "Mamata Banerjee",
-            "Bratya Basu",
-            "Dharmendra Pradhan",
-            "Samrat Choudhary",
-            "Suresh Gopi"
+            "Union Cabinet",
+            "Ministry of Road Transport and Highways",
+            "Cabinet Committee on Economic Affairs (CCEA)",
+            "NITI Aayog",
+            "Ministry of Finance"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the State Education Minister of West Bengal who refuted the charges made by the Union Minister?",
-        "a": "Bratya Basu",
+        "q": "Who is the Chief Minister of Tamil Nadu who transferred funds to women under the Kalaignar Magalir Urimai Thogai scheme?",
+        "a": "M.K. Stalin",
         "options": [
-            "Dharmendra Pradhan",
-            "Mamata Banerjee",
-            "Bratya Basu",
-            "E.V. Velu",
-            "Shreyasi Singh"
+            "Edappadi K. Palaniswami",
+            "M.K. Stalin",
+            "J. Jayalalithaa",
+            "K. Palaniswami",
+            "O. Panneerselvam"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who inaugurated the 'Maati Ka Bal - Dangal' state-level wrestling event in Jamui?",
-        "a": "Deputy Chief Minister Samrat Choudhary",
+        "q": "Who is the Tamil Nadu Finance Minister who highlighted concerns about funds due from the Centre and GST revenue loss?",
+        "a": "Thangam Thennarasu",
         "options": [
-            "Sports Minister Shreyasi Singh",
-            "Vishal Singh",
-            "Deputy Chief Minister Samrat Choudhary",
-            "Vishwanath Singh",
-            "D.K. Shivakumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the President of the Wrestling Association of Bihar?",
-        "a": "Vishal Singh",
-        "options": [
-            "Samrat Choudhary",
-            "Shreyasi Singh",
-            "Vishal Singh",
-            "Vishwanath Singh",
-            "Santhosh Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was conferred with the 'Bihar Kesari' title in 1975, to whom the mace was presented?",
-        "a": "Vishwanath Singh",
-        "options": [
-            "Samrat Choudhary",
-            "Shreyasi Singh",
-            "Vishal Singh",
-            "Vishwanath Singh",
-            "Santhosh Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Deputy Chief Minister of Karnataka who spoke about 'water guarantee' and irrigation projects?",
-        "a": "D.K. Shivakumar",
-        "options": [
-            "Krishna Byre Gowda",
-            "H.K. Patil",
-            "D.K. Shivakumar",
-            "G. Parameshwara",
-            "Satish Jarkiholi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Union Minister of State for Science and Technology who inaugurated the Research, Industry, Startup, and Entrepreneurship Conclave 2026 in Chennai?",
-        "a": "Jitendra Singh",
-        "options": [
-            "M. Ravichandran",
-            "N. Kalaiselvi",
-            "Jitendra Singh",
-            "P. Thanikaivelan",
-            "K.J. Sreeram"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Secretary of the Ministry of Earth Sciences, present at the CSIR conclave in Chennai?",
-        "a": "M. Ravichandran",
-        "options": [
-            "Jitendra Singh",
-            "N. Kalaiselvi",
-            "M. Ravichandran",
-            "K. Ramesha",
-            "P. Thanikaivelan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the President of the A.P. Speciality Hospitals Association, mentioned in the context of outstanding dues?",
-        "a": "Dr. Vijay Kumar",
-        "options": [
-            "Kameswara Rao",
-            "D. Jayadheer Babu",
-            "Dr. Vijay Kumar",
-            "N. Kalaiselvi",
-            "M. Ravichandran"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Union Minister of State for Petroleum, Natural Gas, and Tourism who inaugurated the multi-level car parking facility at Kollam railway station?",
-        "a": "Suresh Gopi",
-        "options": [
-            "Samrat Choudhary",
-            "D.K. Shivakumar",
-            "Suresh Gopi",
-            "Jitendra Singh",
+            "M.K. Stalin",
+            "Thangam Thennarasu",
+            "Udhayanidhi Stalin",
+            "K.N. Nehru",
             "E.V. Velu"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who lodged the complaint based on which an FIR was registered against students protesting at Osmania University?",
-        "a": "Raza Khan",
+        "q": "Who is the AIADMK general secretary who assured an increase in monthly assistance for women if elected to power?",
+        "a": "Edappadi K. Palaniswami",
         "options": [
-            "Prof. Kalyani Laxmi",
-            "Raza Khan",
-            "OU Police Officer",
-            "An ailing mother",
-            "A student leader"
+            "M.K. Stalin",
+            "O. Panneerselvam",
+            "Edappadi K. Palaniswami",
+            "Sasikala",
+            "T.T.V. Dhinakaran"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Director of Campus Hostels for Women at Osmania University, whose removal was sought by protesting students?",
-        "a": "Prof. Kalyani Laxmi",
+        "q": "Who is the Additional Chief Secretary for Health and Family Welfare Department in Haryana, who shared details about upgrading food safety infrastructure?",
+        "a": "Sumita Misra",
         "options": [
-            "Raza Khan",
-            "Prof. Kalyani Laxmi",
-            "D.K. Shivakumar",
-            "Shreyasi Singh",
-            "K. Sivasoundaravalli"
+            "Rajesh Kumar",
+            "Anil Vij",
+            "Sumita Misra",
+            "P.K. Das",
+            "Devender Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where are the residents located who have been waiting for more than 15 years for basic civic amenities like piped water supply and underground sewage connections?",
-        "a": "Old Mahabalipuram Road (OMR)",
+        "q": "Who is the President of the Fort Kochi Chinese Net Owners\u2019 Association, expressing concern over renovation delays?",
+        "a": "Sebastian Kurishinkal",
         "options": [
-            "Sholinganallur",
-            "Kodungaiyur",
-            "Old Mahabalipuram Road (OMR)",
-            "Nemmeli",
-            "Velachery"
+            "John Varghese",
+            "Sebastian Kurishinkal",
+            "Antony Joseph",
+            "K.J. George",
+            "Thomas Mathew"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Where is the sports complex, costing \u20b915 crore, being constructed in Tamil Nadu?",
-        "a": "Tirupattur",
+        "q": "Which space agency's debris, including a Payload Fairing, was reportedly found near L. Kunahandhoo in Maldives?",
+        "a": "ISRO",
         "options": [
-            "Chennai",
-            "Coimbatore",
-            "Tirupattur",
-            "Madurai",
-            "Salem"
+            "NASA",
+            "ESA",
+            "Roscosmos",
+            "ISRO",
+            "CNSA"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "In which city was the teachers\u2019 conference addressed by Union Education Minister Dharmendra Pradhan held?",
-        "a": "Kolkata",
+        "q": "Who is the chairman of the Bangladesh Nationalist Party (BNP) mentioned in the news text?",
+        "a": "Tarique Rahman",
         "options": [
+            "Sheikh Hasina",
+            "Khaleda Zia",
+            "Tarique Rahman",
+            "Hussain Muhammad Ershad",
+            "Kamal Hossain"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which UN Chief made a statement calling India a 'very successful' emerging economy and the right place to host the AI summit?",
+        "a": "UN Chief Guterres",
+        "options": [
+            "UN Chief Guterres",
+            "UN Chief Antonio",
+            "UN Chief Moon",
+            "UN Chief Annan",
+            "UN Chief Boutros"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where is the AI Impact Summit, featuring the U.K. delegation, set to start on Monday (February 16, 2026)?",
+        "a": "New Delhi",
+        "options": [
+            "London",
             "Bengaluru",
-            "Delhi",
-            "Kolkata",
+            "New Delhi",
             "Mumbai",
             "Hyderabad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the two-day state-level wrestling event 'Maati Ka Bal - Dangal' commenced?",
-        "a": "Jamui\u2019s Sri Krishna Singh Memorial Stadium",
+        "q": "Which venue in New Delhi hosted the inauguration of the India AI Impact Expo 2026 by Prime Minister Narendra Modi?",
+        "a": "Bharat Mandapam",
         "options": [
-            "Patna",
-            "Muzaffarpur",
-            "Jamui\u2019s Sri Krishna Singh Memorial Stadium",
-            "Gaya",
-            "Bhagalpur"
+            "Vigyan Bhawan",
+            "India Habitat Centre",
+            "Bharat Mandapam",
+            "Pragati Maidan",
+            "Rashtrapati Bhavan"
         ],
         "cat": "Where"
     },
     {
-        "q": "The rally to distribute title deeds to beneficiaries, coinciding with the Congress government completing 1,000 days, was held in which city of Karnataka?",
-        "a": "Haveri",
+        "q": "To which city, besides Delhi, will UK AI Minister Kanishka Narayan travel to explore India-U.K. collaboration in breakthrough tech?",
+        "a": "Bengaluru",
         "options": [
-            "Bengaluru",
-            "Mysuru",
-            "Haveri",
-            "Mangaluru",
-            "Hubballi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the Centre for Scientific and Industrial Research (CSIR) organize the Research, Industry, Startup, and Entrepreneurship Conclave 2026?",
-        "a": "Chennai",
-        "options": [
+            "Mumbai",
+            "Chennai",
             "Bengaluru",
             "Hyderabad",
+            "Pune"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state is the Ghoti-Trimbak (Mokhada)-Jawhar-Manor-Palghar section of NH-160A located, for which road projects were approved?",
+        "a": "Maharashtra",
+        "options": [
+            "Gujarat",
+            "Telangana",
+            "Maharashtra",
+            "Madhya Pradesh",
+            "Karnataka"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state are the Dhamasiya-Bitada/Movi and Nasarpore-Malotha sections of NH-56 located, for which 4-lane construction was approved?",
+        "a": "Gujarat",
+        "options": [
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Gujarat",
+            "Maharashtra",
+            "Uttar Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state is the widening of National Highway-167 from Gudebellur to Mahabubnagar approved?",
+        "a": "Telangana",
+        "options": [
+            "Andhra Pradesh",
+            "Karnataka",
+            "Telangana",
+            "Kerala",
+            "Tamil Nadu"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did Tamil Nadu Chief Minister M.K. Stalin interact with beneficiaries of the Kalaignar Magalir Urimai Thogai scheme?",
+        "a": "Chennai",
+        "options": [
+            "Madurai",
+            "Coimbatore",
             "Chennai",
-            "Mumbai",
-            "Kolkata"
+            "Trichy",
+            "Salem"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the new multi-level car parking facility inaugurated by Union Minister Suresh Gopi?",
-        "a": "Kollam railway station",
+        "q": "Which district food laboratory in Haryana is being modernised with the approved funds for upgrading regulatory infrastructure?",
+        "a": "Karnal",
         "options": [
-            "Thiruvananthapuram railway station",
-            "Kochi railway station",
-            "Kollam railway station",
-            "Palakkad railway station",
-            "Kottayam railway station"
+            "Ambala",
+            "Hisar",
+            "Gurugram",
+            "Karnal",
+            "Faridabad"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which university campus did students stage a protest demanding the removal of the Director of Campus Hostels for Women?",
-        "a": "Osmania University",
+        "q": "Where are the Chinese fishing nets that are subject to a decade-old renovation project by Kerala Tourism located?",
+        "a": "Fort Kochi beach",
         "options": [
-            "Hyderabad Central University",
-            "Jawaharlal Nehru University",
-            "Osmania University",
-            "Delhi University",
-            "Anna University"
+            "Kovalam beach",
+            "Alleppey backwaters",
+            "Fort Kochi beach",
+            "Varkala beach",
+            "Bekal Fort"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which specific area in Chennai\u2019s IT corridor is mentioned as a major contributor through property and sales taxes, yet lacks commensurate infrastructure investment?",
-        "a": "Sholinganallur",
+        "q": "Near which uninhabited island in Maldives was the debris of an ISRO launch vehicle reportedly found?",
+        "a": "L. Kunahandhoo",
         "options": [
-            "OMR",
-            "Velachery",
-            "Kodungaiyur",
-            "Sholinganallur",
-            "Neelangarai"
+            "Mal\u00e9",
+            "Addu Atoll",
+            "L. Kunahandhoo",
+            "Haa Alifu Atoll",
+            "Kaafu Atoll"
         ],
         "cat": "Where"
     },
     {
-        "q": "The proposal to expand waste-to-energy capacity is being revisited for which dumpyard?",
-        "a": "Kodungaiyur dumpyard",
+        "q": "In which Police Commissionerate limits were prohibitory orders imposed under Section 163 of BNSS for municipal elections?",
+        "a": "Karimnagar Police Commissionerate",
         "options": [
-            "Pallikaranai dumpyard",
-            "Perungudi dumpyard",
-            "Kodungaiyur dumpyard",
-            "Nungambakkam dumpyard",
-            "Tirusulam dumpyard"
+            "Hyderabad Police Commissionerate",
+            "Warangal Police Commissionerate",
+            "Karimnagar Police Commissionerate",
+            "Cyberabad Police Commissionerate",
+            "Rachakonda Police Commissionerate"
         ],
         "cat": "Where"
     },
     {
-        "q": "When are the recently notified IT Rules, requiring labelling of AI-generated content, scheduled to come into effect?",
-        "a": "February 20",
+        "q": "On which date is the AI Impact Summit set to start in New Delhi?",
+        "a": "February 16, 2026",
         "options": [
-            "February 15",
-            "February 25",
-            "February 20",
-            "March 1",
-            "March 5"
+            "February 15, 2026",
+            "February 16, 2026",
+            "February 17, 2026",
+            "February 14, 2026",
+            "February 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the target year for the completion of the new sports complex in Tirupattur?",
-        "a": "2026",
+        "q": "When will the India AI Impact Expo 2026, inaugurated by PM Modi, open for all visitors?",
+        "a": "February 17, 2026",
         "options": [
-            "2025",
-            "2027",
-            "2026",
+            "February 16, 2026",
+            "February 17, 2026",
+            "February 18, 2026",
+            "February 19, 2026",
+            "February 20, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the duration of the India AI Impact Summit 2026 in New Delhi?",
+        "a": "February 16-20, 2026",
+        "options": [
+            "February 15-19, 2026",
+            "February 16-20, 2026",
+            "February 17-21, 2026",
+            "February 14-18, 2026",
+            "February 13-17, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did Tamil Nadu CM M.K. Stalin interact with beneficiaries of the KMUT scheme in Chennai?",
+        "a": "February 14, 2026",
+        "options": [
+            "February 13, 2026",
+            "February 14, 2026",
+            "February 15, 2026",
+            "February 16, 2026",
+            "February 12, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Pradhan Mantri Kisan Samman Nidhi scheme come into being?",
+        "a": "February 2019",
+        "options": [
+            "January 2019",
+            "February 2019",
+            "March 2019",
+            "April 2019",
+            "December 2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Mahayuti government in Maharashtra roll out its women-centric scheme after Lok Sabha elections?",
+        "a": "June 2024",
+        "options": [
+            "May 2024",
+            "June 2024",
+            "July 2024",
+            "April 2024",
+            "August 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year were the Assembly elections held in Madhya Pradesh, where the Ladli Behna Yojana played a major role?",
+        "a": "2023",
+        "options": [
+            "2022",
+            "2023",
             "2024",
-            "2028"
+            "2021",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "Since which year have there been repeated budgetary allocations for stormwater and drainage projects by the Tamil Nadu government and GCC?",
-        "a": "2016",
+        "q": "What is the target completion month and year for the Clean Street Food Hub at Gandhi Ground, Ambala Cantt, Haryana?",
+        "a": "February 2026",
         "options": [
-            "2015",
-            "2017",
-            "2016",
-            "2014",
-            "2018"
+            "January 2026",
+            "February 2026",
+            "March 2026",
+            "December 2025",
+            "April 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Approximately how long ago was the overhead tank under the Nemmeli Desalination Plant project inaugurated by Chief Minister M.K. Stalin?",
-        "a": "About 10 days ago",
+        "q": "On which date was the ISRO launch vehicle debris, specifically a PLF, found near L. Kunahandhoo, Maldives?",
+        "a": "February 12, 2026",
         "options": [
-            "About 7 days ago",
-            "About 14 days ago",
-            "About 10 days ago",
-            "About 5 days ago",
-            "About 12 days ago"
+            "February 10, 2026",
+            "February 11, 2026",
+            "February 12, 2026",
+            "February 13, 2026",
+            "February 14, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "From when will the carrying capacity of three MEMU trains in Kerala be permanently increased?",
-        "a": "February 23 onwards",
+        "q": "When did the LVM3-M6 / BlueBird Block-2 Mission, a dedicated commercial mission, launch?",
+        "a": "December 19, 2025",
         "options": [
-            "February 20 onwards",
-            "February 25 onwards",
-            "February 23 onwards",
-            "March 1 onwards",
-            "February 21 onwards"
+            "December 15, 2025",
+            "December 19, 2025",
+            "December 20, 2025",
+            "December 10, 2025",
+            "December 25, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary reason stated by MeitY for introducing the requirement to label AI-generated content?",
-        "a": "To counter deepfakes, misinformation, and other unlawful content.",
+        "q": "The prohibitory orders in Karimnagar Police Commissionerate limits were in force from 6 a.m. on February 16, 2026, until when?",
+        "a": "6 a.m. on February 17, 2026",
         "options": [
-            "To promote AI development",
-            "To increase social media engagement",
-            "To counter deepfakes, misinformation, and other unlawful content.",
-            "To encourage users to create more AI content",
-            "To regulate online advertising"
+            "6 p.m. on February 16, 2026",
+            "6 a.m. on February 17, 2026",
+            "6 p.m. on February 17, 2026",
+            "6 a.m. on February 18, 2026",
+            "Midnight on February 16, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "According to the British government, what is the primary focus of the U.K. during the AI Impact Summit in New Delhi?",
+        "a": "Championing how artificial intelligence can supercharge growth, unlock new jobs, improve public services and deliver benefits for people around the globe.",
+        "options": [
+            "Restricting AI development to developed nations",
+            "Promoting military applications of AI",
+            "Championing how artificial intelligence can supercharge growth, unlock new jobs, improve public services and deliver benefits for people around the globe.",
+            "Developing exclusive AI technologies for UK only",
+            "Discussing AI's negative impact on job markets"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason cited by the government for revisiting the takedown timelines for content on social media platforms?",
-        "a": "Previous limits allowed a lot of damage to be done.",
+        "q": "What are the three Sutras anchoring India's approach to cooperation in the field of AI at the AI Impact Summit?",
+        "a": "People, planet and progress",
         "options": [
-            "To align with international standards",
-            "To reduce platform workload",
-            "Previous limits allowed a lot of damage to be done.",
-            "To simplify reporting procedures",
-            "To promote free speech"
+            "Profit, power and prestige",
+            "People, planet and progress",
+            "Policies, partnerships and protocols",
+            "Preparation, planning and perfection",
+            "Protection, prosperity and peace"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core reason why West Bengal reportedly lost Central funds under the Samagra Shiksha Mission?",
-        "a": "By not implementing the National Education Policy (NEP).",
+        "q": "What is the purpose of the AI for Development (AI4D) programme, under which new initiatives like the African Language Hub are announced?",
+        "a": "To ensure that developing countries benefit fully from the AI revolution.",
         "options": [
-            "Due to siphoning off midday meal funds",
-            "By not having enough teacher-less schools",
-            "By not implementing the National Education Policy (NEP).",
-            "Due to low internet penetration",
-            "By adopting its own State Education Policy"
+            "To limit AI access to developed nations",
+            "To ensure that developing countries benefit fully from the AI revolution.",
+            "To promote military AI applications",
+            "To create a global AI regulatory body",
+            "To fund AI research in specific regions only"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the 'Maati Ka Bal: Dangal' wrestling competition in Jamui, as stated by Deputy Chief Minister Samrat Choudhary?",
-        "a": "To promote social and cultural unity.",
+        "q": "What is the main objective of the road project on NH-160A in Maharashtra, proposed in line with PM GatiShakti principles?",
+        "a": "To connect six PM GatiShakti Economic Nodes, one Social Node, and eight Logistics Nodes in Maharashtra.",
         "options": [
-            "To identify new wrestling talent only",
-            "To promote social and cultural unity.",
-            "To showcase modern sports facilities",
-            "To attract international tourists",
-            "To raise funds for sports development"
+            "To build a new industrial corridor",
+            "To reduce agricultural transport costs",
+            "To connect six PM GatiShakti Economic Nodes, one Social Node, and eight Logistics Nodes in Maharashtra.",
+            "To provide direct access to ports",
+            "To develop new tourism routes"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific issue regarding stormwater drains did the Alliance of Resident Welfare Associations call on the GCC to allocate funds for in the interim Budget?",
-        "a": "Technical audit and rectification of stormwater drains.",
+        "q": "What is the stated purpose of the construction of 4-lane sections of Dhamasiya-Bitada/Movi and Nasarpore-Malotha in Gujarat?",
+        "a": "To cut travel time by 40%.",
         "options": [
-            "Expansion to new areas",
-            "Decoration and beautification",
-            "Technical audit and rectification of stormwater drains.",
-            "Complete removal of all drains",
-            "Construction of new mega-drains"
+            "To increase the speed limit to 120 km/h",
+            "To improve connectivity with Rajasthan only",
+            "To cut travel time by 40%.",
+            "To bypass major cities",
+            "To facilitate trade with Pakistan"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of the Kalaignar Magalir Urimai Thogai (KMUT) scheme in Tamil Nadu?",
+        "a": "A universal basic income scheme for poor women.",
+        "options": [
+            "An unemployment benefit scheme",
+            "A housing subsidy scheme",
+            "A universal basic income scheme for poor women.",
+            "A scholarship program for girls",
+            "A scheme for free healthcare for women"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason behind the imposition of prohibitory orders under Section 163 of BNSS in Karimnagar Police Commissionerate limits?",
+        "a": "In view of the indirect elections to the posts of Mayor and Deputy Mayor, Chairperson and deputy Chairpersons of the municipal bodies.",
+        "options": [
+            "To control a law and order situation",
+            "To facilitate a public rally",
+            "In view of the indirect elections to the posts of Mayor and Deputy Mayor, Chairperson and deputy Chairpersons of the municipal bodies.",
+            "To manage a religious procession",
+            "To prevent a natural disaster"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core aim of India's AI Impact Summit, according to the Ministry of Electronics and Information Technology (MeitY)?",
+        "a": "To democratise artificial intelligence for the Global South.",
+        "options": [
+            "To secure AI technology for India",
+            "To privatise AI development",
+            "To democratise artificial intelligence for the Global South.",
+            "To create a military AI alliance",
+            "To centralise AI research globally"
         ],
         "cat": "Why"
     }
