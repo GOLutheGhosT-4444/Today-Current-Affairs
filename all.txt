@@ -8892,3 +8892,1060 @@ The Ministry of Information and Broadcasting on Sunday released a traffic adviso
 India will host the Artificial Intelligence Impact Summit 2026 starting Monday in New Delhi, bringing together global stakeholders to chart the course for inclusive, responsible and resilient AI development. Prime Minister Narendra Modi is scheduled to inaugurate the India AI Impact Expo 2026 at 5 pm today at Bharat Mandapam. The gathering will be the first major international AI summit hosted in the Global South.
 Latest Blogs
 ==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 09:25:22 +0530
+TITLE: Bill Gates skips keynote address at India AI summit amid Epstein files controversy
+LINK: https://www.thehindu.com/sci-tech/technology/bill-gates-skips-keynote-address-at-india-ai-summit-amid-epstein-files-controversy/article70650292.ece
+--------------------
+Microsoft co-founder Bill Gates. File
+| Photo Credit: Reuters
+Bill Gates ‌will not appear at the India ​AI Impact Summit on ⁠Thursday (February 18, 2026) to deliver his keynote address, dealing another blow to an event already ‌marred by organisational lapses, a robot snafu and delegate ‌complaints over VIP traffic disruptions.
+No reason ‌was ⁠given. But the Gates ⁠Foundation said the billionaire will not deliver his address “to ensure the focus remains on the ​AI Summit’s ‌key priorities”.
+“After careful consideration, and to ensure the focus remains on the AI Summit’s key priorities, Mr. Gates will not be delivering his keynote address. The Gates Foundation remains fully committed to our work in India to advance our shared health and development goals,” the foundation said in a statement.
+The cancellation comes after the U.S. Department of Justice released emails last month that included ‌communication between late financier and convicted ​sex offender Jeffrey Epstein and the foundation’s staff.
+The documents ⁠indicate Gates and Epstein met repeatedly after Epstein’s prison term to discuss ‌expanding Gates’ philanthropic efforts. Gates has said the relationship was confined to philanthropy-related discussions and that it was a mistake for him to meet with Epstein.
+The Gates ‌Foundation, the philanthropic organisation started by Microsoft ​co-founder Bill Gates and his then-wife in 2000, is one ⁠of the world’s biggest funders of ⁠global health initiatives. Bill Gates is chair and a board member ‌of the foundation.
+technology (general)
+/
+summit
+/
+India
+/
+Artificial Intelligence
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 09:15:54 +0530
+TITLE: US tech giants announce India deals at AI summit
+LINK: https://www.thehindu.com/sci-tech/technology/us-tech-giants-announce-india-deals-at-ai-summit/article70650213.ece
+--------------------
+Nvidia, the world’s most valuable company, said it was teaming up with three Indian cloud computing providers [File]
+| Photo Credit: REUTERS
+Google said it would build new subsea cables from India and chip titan Nvidia unveiled tie-ups with computing firms on Wednesday as tech giants rushed to announce deals and investments at a global AI conference in New Delhi.
+This week's AI Impact Summit is the fourth annual gathering to discuss how to govern the fast-evolving technology, and also an opportunity for India to raise its profile in the booming sector.
+"India's going to have an extraordinary trajectory with AI and we want to be a partner," Google CEO Sundar Pichai told reporters as the US firm unveiled a plan to boost connectivity to the South Asian country.
+New direct undersea connections from India to Singapore, South Africa and Australia will be constructed, it said, touting faster connections as demand for computing power, including AI, ramps up.
+It is part of Google's $15 billion investment announced in October to construct its largest AI data centre hub outside the United States, in Visakhapatnam, a port city in the southeastern state of Andhra Pradesh.
+Also on Wednesday, the California-based Nvidia, the world's most valuable company, said it was teaming up with three Indian cloud computing providers to provide advanced processors for data centres that can train and run AI systems.
+Dozens of world leaders and ministerial delegations are in New Delhi for the summit to discuss the opportunities and threats, from job losses to misinformation, that AI poses.
+Last year India leapt to third place, overtaking South Korea and Japan, in an annual global ranking of AI competitiveness calculated by Stanford University researchers.
+But despite its plans for large-scale infrastructure and grand ambitions for innovation, experts say the country has a long way to go before it can rival the United States and China.
+The AI conference has brought a flurry of deals, with IT minister Ashwini Vaishnaw saying Tuesday that India expects more than $200 billion in investments over the next two years, including roughly $90 billion already committed.
+Mumbai cloud and data centre provider L&T said Wednesday it was teaming up with Nvidia to build what it touted as "India's largest gigawatt-scale AI factory".
+"We are laying the foundation for world-class AI infrastructure that will power India's growth," said Nvidia boss Jensen Huang in a statement that did not put a figure on the investment.
+Nvidia is also working with other Indian AI infrastructure players such as Yotta, which announced a $2 billion deal with the US company that will provide it with 20,000 top-end AI processors.
+Nvidia's Huang is not attending the AI summit but other top US tech figures joining include OpenAI's Sam Altman, Meta chief AI officer Alexandr Wang and Microsoft founder Bill Gates.
+Microsoft said it was investing $50 billion this decade to boost AI adoption in developing countries, while US artificial intelligence startup Anthropic and Indian IT giant Infosys said they would build AI agents for the telecoms industry.
+Indian Prime Minister Narendra Modi and other world leaders including French President Emmanuel Macron and Brazil's Luiz Inacio Lula da Silva are expected to deliver a statement at the end of the week about how they plan to address concerns raised by AI technology.
+But experts say the broad focus of the event and vague promises made at previous global AI summits in France, South Korea and Britain mean that concrete commitments are unlikely.
+Nick Patience, practice lead for AI at tech research group Futurum, told AFP that nonbinding declarations could still "set the tone for what acceptable AI governance looks like".
+But "the largest AI companies deploy capabilities at a pace that makes 18-month legislative cycles look glacial," Patience said.
+"So it's a case of whether governments can converge fast enough to create meaningful guardrails before de facto standards are set by the companies themselves."
+technology (general)
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 08:57:49 +0530
+TITLE: AI In Focus: The 2026 AI Impact Summit put in perspective
+LINK: https://www.thehindu.com/sci-tech/technology/ai-in-focus-analysis-opinion-package-collection/article70650240.ece
+--------------------
+As India hosts the 2026 AI Impact Summit in New Delhi, experts call for applying technology for social good, proper guardrails for military AI and an appropriate system for AI governance.
+Here is a collection of Opinion articles sharing insights into these topics and more.
+Artificial Intelligence
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 07:59:23 +0530
+TITLE: Gujarat unveils ₹4.08 lakh crore budget for tourism, AI, sports infrastructure
+LINK: https://www.thehindu.com/news/national/gujarat/gujarat-unveils-408-lakh-crore-budget-for-tourism-ai-sports-infrastructure/article70648471.ece
+--------------------
+Bihar Finance Minister Kanubhai Desai announces the State budget on February 18, 2026. | Photo: Screen grab via X/@PTI_News.
+Gujarat Finance Minister Kanubhai Desai on Wednesday (February 18, 2026) tabled the State Budget for the financial year 2026–27 in the State Assembly, focusing on digital governance, tourism promotion, and creation of sports infrastructure ahead of the 2030 Commonwealth Games.
+With a total outlay of ₹4,08,053 crore, the budget is the largest ever presented in the State’s history. It focuses on regional growth, welfare initiatives, and sector-specific investments.
+The announcement came weeks after the Union Budget was presented on February 1, amid keen interest over the State’s fiscal priorities and development roadmap for the coming year. In a notable visual departure, the budget document cover features Kansari Devi, a tribal goddess, illustrated in the traditional Warli art style.
+The Budget, with an estimated surplus of ₹974 crore and no new taxes, continued the 5% tax rebate for electric vehicles. This fiscal year, ₹63,184 crore was allotted to the Education department, followed by ₹33,504 crore to the Urban Development department and ₹29,709 crore to the Roads and Buildings department. The total outlay increased by 10.2% (₹3,70,250 crore) to ₹4,08,053 crore over the previous financial year, Mr. Desai said.
+On the sports front, the Budget outlines an ambitious roadmap to develop Ahmedabad as an “Olympic Ready City” in the run-up to the 2030 Commonwealth Games, which Gujarat will host. A total of ₹1,278 crore has been proposed for Games-related infrastructure, including international-standard sports complexes and stadiums, as well as improved urban transport connectivity around key venues.
+The sports department has been allocated ₹1,331 crore overall. Of this, ₹500 crore will be used for developing Ahmedabad as an Olympic-ready destination and for the Sardar Vallabhbhai Patel (SVP) Sports Enclave. Additionally, ₹165 crore has been set aside for building and upgrading sports complexes in districts across the State.
+The Budget also provides ₹100 crore each for developing Olympic-level sports infrastructure at Karai and for establishing a Para High Performance Centre in Gandhinagar, along with ₹90 crore for constructing a world-class hockey stadium.
+Tourism and sports infrastructure emerged as key pillars of the State Budget, with substantial allocations aimed at boosting Gujarat’s global profile.
+Read | Centre approves road projects worth over ₹11,000 crore in Maharashtra, Gujarat and Telangana
+Declaring 2026 as ‘Gujarat Tourism Year’, the Finance Minister said the State intends to secure a stronger presence on national and international tourism maps. To support this push, ₹236 crore has been allocated for upgrading infrastructure in and around the Statue of Unity, which the government said has become a major global attraction while generating employment, particularly for tribal communities.
+Further, ₹300 crore has been proposed under the Ambaji Corridor Masterplan for the comprehensive development of the Ambaji pilgrimage centre. An additional ₹447 crore has been earmarked for constructing iconic bus stations at Somnath and Ambaji and for developing a multi-modal transport hub at Somnath.
+Reaffirming its focus on long-term growth, the Finance Minister said the government remains committed to creating world-class infrastructure that supports economic expansion while advancing Gujarat’s cultural and sporting ambitions on the global stage.
+The Budget estimates an overall surplus of ₹974 crore, reflecting what the government described as prudent fiscal management.
+In a push towards technology-driven governance, over ₹850 crore has been allocated for Artificial Intelligence and digital governance initiatives. The government plans to establish a Gujarat Unified Digital Stack to integrate and deliver citizen services through a single platform. In addition, a Data Fusion Centre and a Centre of Excellence will be set up to leverage AI for enhancing safety and security mechanisms.
+Digital “lake and air-watch systems” will be introduced for monitoring air and water quality.
+On the taxation front, the Minister proposed extending the 5% rebate on Motor Vehicle Tax for electric vehicles for another year. The continuation of the incentive is expected to provide relief of ₹210 crore to citizens and further encourage the adoption of electric mobility in the State.
+The Finance Minister said the Budget has been structured around five key pillars — social security, human resource development, infrastructure expansion, economic growth and green growth — to provide a balanced framework for the State’s progress.
+He stated that the overarching objective of these focus areas is to fast-track Gujarat’s transformation into a developed state by 2047, aligning policy priorities with long-term developmental goals.
+Gujarat
+/
+Artificial Intelligence
+/
+tourism
+/
+power (infrastructure)
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 00:54:47 +0530
+TITLE: T.N. Climate Summit ends with emphasis on tackling forest fire
+LINK: https://www.thehindu.com/news/national/tamil-nadu/tn-climate-summit-ends-with-emphasis-on-tackling-forest-fire/article70649086.ece
+--------------------
+Chief Minister M.K. Stalin at the Tamil Nadu Climate Summit 4.0 in the city on Wednesday.
+| Photo Credit: Special Arrangement
+The two-day Tamil Nadu Climate Summit 4.0 brought together global institutions, national experts, State departments, field officers, and community partners to take stock of Tamil Nadu’s five-year climate journey.
+With the Day two of the Summit opening with a session titled “Voices from the Field – Strengthening Climate Resilient Ecosystems”, which was science-driven and field-informed, one of the segments focused on forest-fire preparedness in a “warming world”.
+The discussion circled around India’s leadership at the Seventh United Nations Environment Assembly (UNEA-7), where it piloted and secured adoption of a resolution calling for strengthened international collaboration on wildfires. The “Tamil Nadu experience” was presented as a model of anticipatory governance: the government has established a State-Level Command and Control Centre in Chennai, complemented by district-level control rooms to monitor forest fires through real-time data streams, satellite inputs and rapid-response coordination.
+The government’s decentralised, yet integrated architecture, ensures scientific monitoring, early detection, and minimal response time. The session highlighted investments in first-responder training, capacity building, modern fire-fighting equipment and mobility infrastructure.
+The Summit also touched upon “Biodiversity and Climate Change”, which brought into focus the accelerating loss of biodiversity due to habitat fragmentation, urbanisation, pollution and climate variability.
+The dialogue then moved towards circularity and the green economy, anchoring climate action in resource efficiency and waste transformation.
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 02:06:26 +0530
+TITLE: Fishermen take oath to oppose coastal projects
+LINK: https://www.thehindu.com/news/cities/chennai/fishermen-take-oath-to-oppose-coastal-projects/article70648913.ece
+--------------------
+On ‘Sindhanai Sirpi’ Singaravelar’s 167th birth anniversary on Wednesday, fishermen from hamlets in and around the city, took an oath to oppose projects like Blue Economy and TN Shore as they do not seem to ‘bother’ about the welfare of the fisher community.
+“These projects only aim at economic development through tourism, ports, ship building activities, and assistance for large fishing companies. We are being side-lined. These projects do not speak about long-term measures for issues like rising sea-level and coastal erosion. Fishing hamlets are the first to get affected in the event of any natural disaster on the coast. There are no systems in place for our safety,” said fishing community leader K. Bharathi.
+Kabaddi Maran, a community leader, said that both Central and State governments were vying with each other to make money out of the coast in the name of economic development. Artisanal fishermen and even those with mechanised boats were suffering due to dwindling catch. The governments were not bothered about the welfare of fishermen, he charged.
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 08:15:26 +0530
+TITLE: ​Troubled waters: On the Great Nicobar Project
+LINK: https://www.thehindu.com/opinion/editorial/troubled-waters-on-the-great-nicobar-project/article70648264.ece
+--------------------
+Proponents of the controversial Great Nicobar Project will be enthused by an order from the Kolkata bench of the National Green Tribunal (NGT) ruling that all environmental safeguards are in place, that the potential impact of this gargantuan project on resident native populations of the region is duly accounted for, and the project’s “strategic utility” is reason enough for the government to not be fully transparent with what it shares in the public domain. But the dominant narrative around the project mirrors the classic development versus environment conflict of a pristine Pandora being ravaged for the greed of far-away mainlanders. The Great Nicobar Island Project (GNIP) envisages a trans-shipment port, an international airport, township development, and a 450 Megavolt-Amperes (MVA) gas and solar-based power plant. In the early 20th century, the British Phosphate Commissioners (a joint venture of the U.K., Australia, and New Zealand) began large-scale phosphate mining for fertilizer on Nauru and Banaba in the Pacific Ocean. By 1945, the island had been so physically devastated by strip mining that it was deemed uninhabitable. The native Banabans were forcibly relocated to Rabi Island in Fiji, over 2,000 kilometres away. Today, Banaba is a desolate landscape of jagged limestone “pinnacles” and the displaced population is fighting for the rehabilitation of its homeland. These serve as historical precedents for why economic logic alone cannot dictate actions in remote territories. Though accorded an environment and preliminary forest clearance by the Union Environment Ministry, concerns about the potential loss of biodiversity, tree-felling, and impact on resident tribes prompted the NGT to order a review of the environmental aspects of the project.
+Independent scientists and environmentalist groups have said that the felling of tracts of pristine tropical forest — nearly nine lakh trees across 130 sq.km — for this project would significantly harm the biodiversity of the region and constitute an irreparable loss. This is not counting the disturbance to leatherback turtle nesting grounds and the assault on the corals. There was also the contested matter of whether the community rights of the local Shompen and the Nicobarese tribes were fully settled under the requirements of the Forest Rights Act. Recently, members of the Tribal Council said they were being coerced to sign “surrender certificates” that implied their consent to large parts of their land being diverted for the project. The NGT order essentially rubber-stamps the government’s appraisal process without independently examining the concerns raised. It only imposes faith that the government will be a conscientious executor of the project. Whether the Great Nicobar Project is a ‘net good’ can only be judged by future generations, but the lack of a process that offers a fair appraisal of independent concerns bodes ill for the present.
+environmental issues
+/
+Andaman and Nicobar Islands
+/
+Fiji
+/
+tribals
+/
+government
+/
+fertiliser
+/
+United Kingdom
+/
+Australia
+/
+New Zealand
+/
+history
+/
+mining
+/
+forests
+/
+laws
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 23:41:55 +0530
+TITLE: Govt. to further simplify process of deleting private lands from 22A list
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/govt-to-further-simplify-process-of-deleting-private-lands-from-22a-list/article70648247.ece
+--------------------
+The Andhra Pradesh government would further simplify the process of removing eligible private lands from the 22A prohibited list to benefit the poor and prevent inconvenience to genuine landowners, Revenue, Registration and Stamps Minister Anagani Satya Prasad informed the Assembly on Wednesday.
+Replying to questions from TDP MLA Kolikapudi Srinivasa Rao and BJP MLA P. Vishnu Kumar Raju, the Minister said a memo had already been issued permitting deletion of five categories of private lands from the prohibited list.
+Speaker Ch. Ayyanna Patrudu noted that 22A land issues persist across the State and stressed effective implementation of guidelines.
+The Minister said a team, comprising the Special Chief Secretary (Revenue) and senior officials, was periodically reviewing the matter. Chief Minister N. Chandrababu Naidu ha directed that 22A issues be resolved in a manner beneficial to the poor, while protecting public interest. A special drive involving in-charge Ministers and District Collectors would be launched to expedite eligible deletions.
+On alleged encroachment of government land in Ramannapalem village of Tiruvuru mandal, he said the matter was under court litigation. Regarding assigned lands to ex-servicemen in Visakhapatnam, he clarified they could be sold after 10 years, but water bodies must be protected in line with court orders.
+Meanwhile, R&B Minister B.C. Janardhan Reddy said tree removal during road expansion was being carried out strictly as per norms. Under the leadership of Mr. Naidu and Deputy Chief Minister K. Pawan Kalyan, the government was prioritising environmental conservation, avenue plantations and translocation of large trees, wherever feasible.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 23:03:24 +0530
+TITLE: Kerala government moves Supreme Court after High Court stalls public survey
+LINK: https://www.thehindu.com/news/national/kerala/kerala-government-moves-supreme-court-after-high-court-stalls-public-survey/article70648867.ece
+--------------------
+Image used for representational purpose only.
+| Photo Credit: Shashi Shekhar Kashyap
+The Kerala government moved the Supreme Court on Wednesday (February 18, 2026) against a State High Court decision to keep in abeyance the ‘Nava Keralam Citizen Response Programme’, a public outreach and development feedback initiative to obtain suggestions from the public on development and welfare measures.
+The special leave petition filed by the State government, represented by advocate C.K. Sasi, submitted that the High Court intruded into matters of public policy not only to stall a programme approved by the council of Ministers of the State but further to set aside consequential financial sanction and budgetary proceedings.
+“The High Court interfered with the government’s power to implement governance and development outreach programmes and seriously prejudiced the ability of the State to take policy decisions involving public expenditure and thus disturbed the constitutional balance between the executive and judiciary,” the petition submitted.
+The Kerala government said the programme was envisaged as a time-bound statewide exercise to be conducted from January 2026 to February 2026 for collection of public opinion and suggestions regarding development and welfare schemes through a multi-level mechanism involving State, district and local-level coordination, as well as volunteers drawn from the Social Volunteer Force portal.
+The State submitted that approximately ₹20 crores under the Budget head ‘Special PR Campaign’’ was set aside for the conduct of the programme. The financial sanction for the programme was done by the State’s Information and Public Relations Department in October last year and proceedings detailing the tentative budgetary allocation and expenditure components were issued subsequently in November 2025..
+The High Court’s intervention was on the basis of a writ petition alleging that the programme violated the Rules of Business framed under Article 166(3) of the Constitution in as much as the subject matter of the programme relating to collection of development inputs and evaluation of welfare schemes fell within the domain of departments, and not the Information and Public Relations Department.
+The writ petitioners had contended that the allocation of ₹20 crore amounted to diversion or misuse of public funds and required legislative sanction under Articles 202 to 205 of the Constitution.
+The State had countered that the programme had received Cabinet approval and that administrative and financial sanction had been granted along with detailed budgetary proceedings.
+It had argued that the Information and Public Relations Department was competent to implement the programme. “The High Court failed to appreciate that the Rules of Business are internal executive instructions intended for convenient transaction of governmental business and are directory in nature. Non-compliance with such internal allocation of business does not ipso facto render executive action void,” the appeal in the apex court argued.
+The High Court had failed to appreciate that the provisions of the Kerala Budget Manual and other internal fiscal norms were executive guidelines without statutory force, and cannot be treated as mandatory provisions whose alleged violation would invalidate governmental action, the petition said.
+It said that internal fiscal instructions cannot be elevated to the status of enforceable law by the court in judicial review.
+judiciary (system of justice)
+/
+Supreme Court
+/
+law enforcement
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 08:35:37 +0530
+TITLE: India adds its name to list of countries criticising Israel’s unilateral measures on West Bank
+LINK: https://www.thehindu.com/news/national/india-adds-its-name-to-list-of-countries-criticising-israels-unilateral-measures-on-west-bank/article70648900.ece
+--------------------
+Palestinian Ambassador to the U.N., Riyad H. Mansour, is flanked by diplomats of other countries as he reads out a statement. Source: Palestinian Mission to U.N.
+India has added its name to the list of countries criticising Israel for its unilateral measures on the West Bank. India had not joined the original group of 85 countries that announced the statement on Tuesday (February 17, 2026)
+The statement was endorsed by the League of Arab States; the European Union; BRICS founder members Russia, China, Brazil, and South Africa; India’s Quad partners Australia and Japan; and neighbouring countries, including Bangladesh, the Maldives, Mauritius, and Pakistan. It came just ahead of a UN meeting on the issue and the U.S.-led Board of Peace meeting in Washington on Thursday.
+The joint statement was issued at a “stakeout” on Tuesday (February 17, 2026), and it was read out by the Palestinian Ambassador to the UN, flanked by diplomats from dozens of countries that co-signed the document.
+Just in- India adds name to list of countries criticising Israel for unilateral measures on West Bank. India had not joined the original group of 85 countries that announced the statement on Tuesday, signs onto statement 24hrs later. https://t.co/A8wstsvxYJ
+“We strongly condemn unilateral Israeli decisions and measures aimed at expanding Israel’s unlawful presence in the West Bank,” Palestinian Ambassador to the UN Riyad Mansour said.
+“We underline in this regard our strong opposition to any form of annexation,” Mr. Mansour said, adding that the statement rejected all measures “aimed at altering the demographic composition, character and status of the Palestinian territory occupied since 1967, including East Jerusalem”.
+Over the past few months, following the ceasefire in Gaza, the Israeli Knesset has passed a number of plans to tighten its control over land in the Palestinian West Bank’s “A” and “B” Areas, which have been administered by the Palestinian Authority since the Oslo Accords (1993-1995). Among the measures are the removal of restrictions on the acquisition of land by outsiders and the checking of documentation for those currently living on the land, which is seen as a precursor to occupying and annexing the territory, as Israeli settlers have done elsewhere.
+“Such measures violate international law, undermine the ongoing efforts for peace and stability in the region, run counter to the Comprehensive Plan and jeopardise the prospect of reaching a peace agreement ending the conflict,” the statement said.
+Prior to the development, the absence of India’s name in the statement drew strong criticism from diplomats on social media. Former Ambassador to Iran K.C. Singh called it “regrettable that India has chosen Israeli corner so blatantly” and questioned whether the move was also linked to help India’s ties with the U.S.
+“Strategic autonomy was meant to expand India’s choices, not shrink its moral vocabulary. If autonomy turns into avoidance of normative positions altogether, it starts looking less like independence and more like hedging,” wrote former Foreign Secretary Nirupama Menon Rao, referring to India’s normal positions on the Israel-Palestine conflict.
+On January 31, External Affairs Minister S. Jaishankar had hosted a meeting of the League of Arab States and met Palestinian Foreign Minister Varsen Aghabekian Shahin. It is unclear whether Mr. Jaishankar discussed Mr. Modi’s upcoming visit to Israel, his first since July 2017, and whether Mr. Modi was also planning a trip to Palestine subsequently as he had in February 2018.
+The visit to Israel has been under discussion for some weeks and comes after Israel Prime Minister Benjamin Netanyahu put off his visit to India last November, reportedly for security reasons. Mr. Modi’s travel to Israel will also come weeks after the release of the “Epstein files” in the U.S., where the late American investor and convicted sex offender Jeffery Epstein had claimed in correspondence with a Qatari interlocutor that Mr. Modi “danced and sang” at the behest of U.S. President Donald Trump (in his previous tenure), an allegation the External Affairs Ministry denied strongly.
+Israel
+/
+Israel-Palestine Conflict
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:36:13 +0530
+TITLE: Centre to bring 1,954 border villages under development scheme
+LINK: https://www.thehindu.com/news/national/centre-to-bring-border-villages-under-development-scheme/article70648203.ece
+--------------------
+Kibithu, one of the eastern most villages in Arunachal Pradesh, is very close to the Line of Actual Control with China, which is being developed under the Vibrant Village Programme. File
+| Photo Credit: The Hindu
+The second phase of the Vibrant Village Programme (VVP) will cover 1,954 strategic villages along the land borders with Pakistan, Nepal, Bangladesh, Bhutan, and Myanmar in 15 States and two Union Territories, according to the Ministry of Home Affairs (MHA).
+The VVP was launched in 2023, originally to assist development in villages along the China border. The VVP-II was cleared by the Union Cabinet in April 2025.
+On February 20, Home Minister Amit Shah is likely to launch the VVP-II programme at Nathanpur village in Assam’s Cachar district along the Bangladesh border.
+The Ministry said that often, residents of the border villages may resort to illicit activities, petty crimes, connive in trans-border crimes, and are prone to migrating to urban areas, creating a vacuum that leads to demographic changes and illegal migration. “The VVP programme envisages ensuring assimilation of the border population with the nation, and inculcate them as eyes and ears of the border guarding forces (BGFs), create better living conditions and adequate livelihood opportunities, and wean away the border population from inimical activities,” the Ministry said.
+The government also plans “culturally sensitive” border-specific outreach activities to engage with communities who live near international borders to build trust, provide information, and encourage cooperation “These activities will foster a positive relationship between border guarding agencies and local population, and promote a sense of shared responsibility in border management,” the MHA said in its guidelines shared with the States.
+While VVP-I was aimed at villages along the China border, the phase two with a total outlay of ₹6,839 crore shall be implemented in select strategic villages in Arunachal Pradesh, Assam, Bihar, Gujarat, Jammu and Kashmir, Ladakh, Manipur, Meghalaya, Mizoram, Nagaland, Punjab, Rajasthan, Sikkim, Tripura, Uttarakhand, Uttar Pradesh and West Bengal till the financial year 2028-29. It is proposed that ₹3 crore will be spent in each village.
+The Ministry said the main objective of the VVP-II is to meet the developmental needs and well-being of the border population, as wells as promote diverse livelihood opportunities to ensure economic and cultural assimilation with the nation’s overall growth story. “In these villages, opportunities for professional growth, social cohesion and national integration would be enhanced to ensure that border regions are not left behind in the country’s development journey and would be developed as growth centres,” the MHA said.
+The strategy includes saturation of existing schemes of the government to eligible individual beneficiaries and households, strengthen basic infrastructure and create enabling infrastructure and capacities to increase livelihood opportunities.
+The purpose of the outreach activities would be to ﻿build trust between border control agencies and local communities by providing clear and accurate information about border security procedures, immigration laws, encourage active participation from border communities in reporting suspicious activities and contributing to overall security efforts.
+India
+/
+social conditions
+/
+development
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:21:30 +0530
+TITLE: Nearly 2,000 security personnel launch anti-Maoist operation along Chhattisgarh-Telangana border
+LINK: https://www.thehindu.com/news/national/nearly-2000-security-personnel-launch-anti-maoist-operation-along-chhattisgarh-telangana-border/article70648621.ece
+--------------------
+Image used for representational purpose only.
+| Photo Credit: Getty Images/iStockphoto
+Around 2,000 security personnel, led by the Central Reserve Police Force (CRPF), launched an operation on Tuesday (February 17, 2026) along the Chhattisgarh-Telangana border to track down senior Maoist commanders, a senior CRPF official said on Wednesday (February 18, 2026).
+The operation, codenamed “KGH-2”, is underway in the Nambi and Korgotalu Hills region and forms part of the Union Government’s declared objective of eradicating Left-Wing Extremism (LWE) from the country by March 2026.
+According to the official, the number of politburo and central committee members of the banned Communist Party of India (Maoist)—the highest decision-making body—has come down to four from 20 in January 2025.
+Security forces are searching for four senior leaders: Ganapati, Devuji, Malla Raja Reddy and Misir Besra. In the ongoing operation, security personnel are looking for central committee member Devji alias Chetan and junior cadre Kesa Sodhi, the official said.
+The CRPF is the lead force in implementing government schemes in Maoist-affected areas. Recently, the Chhattisgarh Government designated CRPF company locations in interior areas as “Integrated Centres” for implementing the “Niyad Nellanar Yojna”, a multi-dimensional developmental initiative.
+According to the CRPF, the number of districts categorised as Maoist-affected declined from 18 at the beginning of 2025 to eight by year-end.
+The paramilitary force said targeting Maoist leadership is part of its broader combat strategy aimed at weakening the organisation’s operational capabilities. In 2025, 12 senior Maoist leaders were neutralised, and five others surrendered amid intensified operations.
+In all, 370 Maoists were killed in operations conducted by the CRPF, 1,175 ultras or their sympathisers were apprehended, and 2,391 extremists surrendered.
+“As part of the combat strategy, CRPF has identified the strongholds of Maoists, and it was decided to establish launch pads/FOBs with the intention to disrupt supply chains and the launching of operations. In 2025, 61 forward operating bases were established in core areas, including 32 in Chhattisgarh, 9 in Jharkhand, 4 in Odisha, 4 in Maharashtra, 11 in Madhya Pradesh and one in Telangana,” CRPF said.
+law enforcement
+/
+crime
+/
+police
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:19:53 +0530
+TITLE: A.P. SIPB approves 27 projects with investments of ₹29,021 crore
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/ap-sipb-approves-27-projects-withinvestments-of-29021-crore/article70648785.ece
+--------------------
+Chief Minister N. Chandrababu Naidu chairing the 15th State Investment Promotion Board meeting in Amaravati on Wednesday.
+| Photo Credit: Special Arrangement
+The 15th State Investment Promotion Board (SIPB) meeting held under the chairmanship of Chief Minister N. Chandrababu Naidu at the Secretariat on Wednesday approved 27 projects with an investment of ₹29,021 crore, taking the total investments approved so far to ₹9,03,726 crore.
+Mr. Naidu made it clear that the Speed of Doing Business policy should be the guiding principle in all matters related to industrial projects. He emphasised that mega projects by reputed companies such as Google, ArcelorMittal and BPCL were in the pipeline and instructed officials to ensure that they faced no hurdles from the government.   Approvals should be cancelled if any company fails to start work, he told the Ministers’ Committee.
+Mr. Naidu said the government was ready to offer special incentives to attract more semiconductor projects and suggested that a proposal to give additional incentives for projects being set up on private lands should be examined. He said tourism should be developed in Visakhapatnam, Amaravati, and Tirupati regions in a cluster-based approach.
+Mr. Naidu noted that value addition in aquaculture would help revive exports to the U.S.A. and boost dairy, poultry, livestock, and meat exports.
+The officials must introduce a warehousing policy and prepare an action plan for setting up electric vehicle charging stations on a large-scale, he said.
+Ministers Nara Lokesh, Anagani Satya Prasad, T.G. Bharat, P. Narayana, K. Atchannaidu, Gottipati Ravi Kumar, B.C. Janardhan Reddy, Kandula Durgesh and Vasamsetti Subhash, Chief Secretary K. Vijayanand and other senior officials were present.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:11:02 +0530
+TITLE: VIT organises GST 2.0 Summit to strengthen tax compliance
+LINK: https://www.thehindu.com/news/national/tamil-nadu/vit-organises-gst-20-summit-to-strengthen-tax-compliance/article70647294.ece
+--------------------
+The Vellore Institute of Technology (VIT), Vellore, in association with Vellore chapter of Southern India Regional Council of Institute of Chartered Accountants of India organised GST 2.0 Summit on its campus in Vellore on Wednesday.
+| Photo Credit: Special Arrangement
+The Vellore Institute of Technology (VIT), Vellore, in association with Vellore chapter of Southern India Regional Council of the Institute of Chartered Accountants of India (ICAI), organised GST 2.0 Summit on its campus in Vellore on Wednesday.
+According to a press release, the summit titled ‘Navigating Compliances and Empowering Growth’, was aimed at creating awareness about recent developments in Goods and Services Tax (GST) and promoting sound compliance practices among students, professionals, and industry representatives.
+More than 100 industry professionals and 1,100 students in Vellore and surrounding districts participated. The summit served as a powerhouse of insights, connecting students with domain experts and strengthening Vellore’s academic and industrial ecosystem.
+The event was inaugurated by P. Rajendra Kumar, Chairman, GST and Indirect Taxes Committee, Institute of Chartered Accountants of India (ICAI), New Delhi, in the presence of D. P. Suresh, Assistant Commissioner, GST and Central Excise, ICAI (Vellore).
+Special sessions were also conducted on career opportunities in taxation and finance, offering students practical exposure to professional pathways in indirect taxation, the release said.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:10:00 +0530
+TITLE: Congress slams tax on disability pension, seeks rollback of policy
+LINK: https://www.thehindu.com/news/national/congress-slams-tax-on-disability-pension-seeks-rollback-of-policy/article70648760.ece
+--------------------
+“As per the Finance Bill 2026, the income tax exemption was granted to only those personnel who were wounded in action and were invalided out from service on receiving a bodily disability,” Chairman of Ex-Serviceman Department AICC Col. Rohit Chaudhary (retd.) said. File photo: AICC via PTI
+The Congress on Wednesday (February 18, 2026) criticised the government’s move to levy income tax on disability pensions of disabled armed forces personnel, calling it an “insult” to soldiers’ sacrifice and warning of its impact on morale.
+Addressing a press conference, AICC Ex-Servicemen Department chairman Col. (retired) Rohit Chaudhry, along with Col. (retired) S.P. Singh of the Indian Ex-Servicemen League, said that as per the Finance Bill 2026, the income tax exemption was granted to only those personnel who were wounded in action and were invalided out from service on receiving a bodily disability.
+Through this clause, the government had removed the income tax exemption from the recipients of disability pension who got bodily injuries during action and were retained in service and also from those who had got the disability attributable to or aggravated due to military service conditions.
+The ex-servicemen community urged the government to retain full tax exemption on disability pensions and withdraw the new disability policy introduced in 2023, Col. Chaudhry said.
+The party demanded restoration of the status quo under the Income Tax Acts of 1922 and 1961, which kept such pensions tax-exempt.
+He said that under both the 1922 and 1961 Income Tax Acts, disability pensions for personnel injured in action or whose disabilities were attributable to or aggravated by service conditions were kept outside the tax net, whether they were invalided out or retained in service.
+He alleged that the government had been attempting to tax such pensions since 2016 and had now restricted the exemption, under the Finance Bill 2026, only to those invalided out after being wounded in action.
+He said the move would bring under taxation personnel who continued in service despite injuries or those whose disabilities were linked to harsh service conditions.
+Referring to the 2023 disability policy, he said the renaming of disability pension as “impairment relief” had effectively made it taxable for new pensioners.
+Citing the example of Field Marshal Sam Manekshaw, who rose to the top despite being wounded in battle, Col. Chaudhry said retaining injured soldiers had long been part of military tradition and morale building.
+The Congress claimed the decision could affect nearly two lakh disabled soldiers and warned of nationwide protests, beginning at Jantar Mantar on March 1, if the move was not reversed.
+Indian National Congress
+/
+state budget and tax
+/
+taxes and duties
+/
+disabled
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:06:42 +0530
+TITLE: Ernakulam District Panchayat Budget to give thrust to welfare measures
+LINK: https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-budget-to-give-thrust-to-welfare-measures/article70648131.ece
+--------------------
+The Ernakulam District Panchayat’s upcoming Budget is expected to focus on welfare initiatives and addressing the needs of marginalised and disadvantaged communities.
+District panchayat president K.G. Radhakrishnan said the Budget would prioritise sectors such as education, geriatric care, agriculture, and palliative care, with special attention to the elderly, differently abled, Scheduled Caste communities, and transgender persons.
+In the case of differently abled people, focus will be given to formulating programmes and training methodologies to make them self-sufficient.
+Agriculture is another area that will get special focus, said Mr. Radhakrishnan. “When we consider agriculture, we also need to focus on developing value-added products. We are considering identifying one product from each panchayat and promoting it. For instance, we could take the case of Vazhakkulam in Manjalloor panchayat and promote pineapple. Or, there could be panchayats that have ample production of paddy, and this can be promoted. We will focus on one panchayat and one product, brand it that way and focus on value-added products from there,” said Mr. Radhakrishnan.
+Special focus will be given to the development of Scheduled Caste communities. In the case of schools, focus will be on ensuring quality education. “We need to make these plans considering the changing environment and technology and equip classrooms with technological tools designed for the present times,” he added.
+Mental health and geriatric health will be given primary importance, he said. The key focus will be on creating recreational spaces for the elderly. “We need to create public spaces where they can engage and relax. A large majority of the elderly are facing loneliness and social isolation, and it has to be addressed,” he added.
+Farm tourism is another area that is likely to get adequate focus in the Budget.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 22:00:15 +0530
+TITLE: Madras High Court denies interim relief to political parties de-registered for not contesting elections in last six years
+LINK: https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-interim-relief-to-political-parties-de-registered-for-not-contesting-elections-in-last-six-years/article70647885.ece
+--------------------
+The judges agreed with senior counsel G. Rajagopalan, representing the ECI, that the balance of convenience was actually in favour of the ECI and not in favour of the petitioners.
+The Madras High Court on Wednesday refused to stay the orders passed by the Election Commission of India (ECI) recently for de-registering a host of political parties which had not contested either the Legislative Assembly or Parliamentary elections in the last six years.
+Chief Justice Manindra Mohan Shrivastava and Justice G. Arul Murugan said no interim order could be passed in favour of the de-registered political parties since it would amount to allowing their writ petitions and permitting them to contest the upcoming Assembly election in Tamil Nadu.
+The judges agreed with senior counsel G. Rajagopalan, representing the ECI, that the balance of convenience was actually in favour of the ECI and not in favour of the petitioners which had admittedly not contested any of the elections conducted by the commission in the last six years.
+Tamizhaga Makkal Munnetra Kazhagam, Manithaneya Makkal Katchi, Manithaneya Jananayaga Katchi and a few others had filed the writ petitions challenging their de-registration. The petitioners had questioned the authority of the ECI to de-register them in the absence of a statutory power to do so.
+Agreeing that the batch of cases argued by senior counsel N.L. Rajah, S. Prabakaran, P. Wilson, R. Srinivas and others had raised “a serious issue of constitutional importance,” the judges directed the High Court Registry to list the main writ petitions for final hearing in the second week of March 2026.
+The petitioners had attacked the de-registration orders on the prime ground that Section 29A of the Representation of the People Act of 1951 speaks only about registration of political parties with the ECI but there was no corresponding provision for de-registration of those parties.
+Therefore, once the parties get registered, they could not be de-registered by the ECI by invoking Section 21 of the General Clauses Act of 1897, they argued. They relied upon the Supreme Court’s verdict in Indian National Congress versus Institute of Social Welfare (2002) to support their argument.
+In that judgement, the Supreme Court had held that parties could be de-registered only in extreme circumstances such as they having obtained registration through fraud or forgery or if they ceased to have faith and allegiance to the Constitution or to the principles of socialism, secularism and so on.
+However, the ECI contended that the 2002 judgement was rendered before the commission issued elaborate guidelines, by exercising its powers under Article 324 of the Constitution, in 2014 requiring every other political party to contest elections, conducted by the commission, in a block period of six years.
+Mr. Rajagopalan said, after 2014, the ECI had made it mandatory for every new political party to incorporate in its constitution that it shall contest elections within five years of its registrationd and that it would agree for de-registration if it fails to contest the elections within a block period of six years. He said, the guidelines were issued after the Income Tax department had brought to the notice of the ECI that many registered political parties had been receiving public donations and claiming tax benefits without actually contesting any elections and remaining to be political parties just on paper.
+The petitioners had also challenged the de-registration orders on the grounds that their members had contested Assembly and Parliamentary elections under the symbols belonging to other parties and that their direct participation in the local body polls had not been taken into consideration by ECI.
+However, the ECI claimed that the participation in elections conducted by the commission alone would be taken into consideration and said, though the show cause notices to the petitioners had been issued by the Chief Electoral Officers, the de-registration orders had been passed by the ECI secretary.
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 06:47:24 +0530
+TITLE: Modi to address AI summit on February 19; key leaders to attend
+LINK: https://www.thehindu.com/sci-tech/technology/pm-address-ai-summit-on-february-19-world-leaders-gather/article70648563.ece
+--------------------
+Prime Minister Narendra Modi with Union Minister of Information Technology Ashwini Vaishnaw during the India AI Impact Summit, at Bharat Mandapam in New Delhi on February 18, 2026. Photo: PMO via PTI Photo
+Prime Minister Narendra Modi will address the AI Impact Summit on Thursday (February 19, 2026), joined by fellow world leaders and senior tech executives. Mr. Modi’s address will be followed by keynote presentations  by OpenAI CEO Sam Altman, Google DeepMind CEO Dennis Hassabis, and Reliance Industries Limited, chairman and managing director, Mukesh Ambani. The keynote speakers include Gates Foundation Chair Bill Gates, and Microsoft president Brad Smith.
+India AI Summit 2026 Day 3 Highlights
+The event has drawn strong crowds, and has been positioned for months as India’s flagship AI event by the government. It follows similar multilateral summits in the U.K., France, and South Korea. President of France Emmanuel Macron will be in attendance, as will Spanish President Pedro Sánchez Pérez-Castejón, and Sri Lankan President Anura Kumara Dissanayake.
+The AI Impact Summit’s expo has been extended by one day, to Saturday (February 21, 2026), so that attendees can visit with more flexible security arrangements after all the multilateral events at the venue wind up, IT Secretary S. Krishnan said in a press conference on Wednesday (February 18, 2026). Students and professionals, who have not been able to attend on the weekdays, would be able to come easily, Mr. Krishnan said.
+Over 400 exhibitors, from startups, large corporate firms and government entities to researchers, have their own booths at the summit.
+The summit has attracted massive crowds over the first three days, which led to acute inconvenience on Monday (February 16, 2026), when large parts of the venue were closed for public access. Three days in, attendance remains strong, leading to this extension. It is unclear if all exhibitors will be able to stay back through Saturday (February 21, 2026).
+The expo will be closed on Thursday (February 19, 2026) in view of the plenary session with Prime Minister Narendra Modi and other world leaders. It will reopen on Friday (February 20, 2026).
+Artificial Intelligence
+/
+politics
+/
+diplomacy
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 06:29:50 +0530
+TITLE: Simultaneous polls panel weighs bar on no-confidence motions in final year of government’s term
+LINK: https://www.thehindu.com/news/national/simultaneous-polls-panel-weighs-bar-on-no-confidence-motions-in-final-year-of-governments-term/article70648147.ece
+--------------------
+P. P. Chaudhary, senior advocate and politician who has served as a Member of Parliament in the Lok Sabha, representing Pali constituency in Rajasthan during The Hindu Mind Function, in New Delhi.
+| Photo Credit: Sushil Kumar Verma
+The Joint Parliamentary Committee (JPC) examining the Bill on simultaneous elections is considering a provision that would bar the introduction of a no-confidence motion against an incumbent government if only one year of its term remains, committee chairperson and BJP MP P.P. Chaudhary said on Wednesday (February 18, 2026).
+He was speaking at The Hindu Mind, a conversation series featuring leading newsmakers.
+The Constitution (129th Amendment) Bill, 2024 enabling simultaneous elections was introduced in the Lok Sabha on December 17, 2024, and immediately referred to the committee. The panel has held 16 meetings in Delhi so far and travelled across the country, with six former Chief Justices of India sharing their views on the legislation.
+Explaining key provisions of the Bill, Mr. Chaudhary said that if enacted before the 2029 general elections, the first sitting of the new Lok Sabha would become the “appointed date.” State Assembly terms beginning thereafter would be truncated to align with the 2034 Lok Sabha polls. This one-time synchronisation, he argued, would not violate the federal structure, contrary to the concerns raised by critics.
+The pros and cons of simultaneous elections | Explained
+Mr. Chaudhary said the panel was deliberating whether to introduce a time bar on moving a no-confidence motion. “We are actively considering introducing a provision that would bar the moving of a no-confidence motion if the incumbent government has only one year left in its term,” he said, noting that several States had similar restrictions for Panchayati Raj institutions.
+However, such provisions vary widely across States. Under the Tamil Nadu Panchayats Act, 1994, for instance, a no-confidence motion cannot be moved in the last year of the term against certain panchayat office-bearers. In contrast, the Karnataka High Court ruled on February 9 that there should be no embargo on moving a no-confidence motion in the final year, emphasising the need to prevent misuse of office during the remaining tenure.
+“When grassroots democracy has such a provision, why can’t we adopt it for the Lok Sabha and State Assemblies?” Mr. Chaudhary asked.
+While Mr. Chaudhary  maintained that such a restriction was legally plausible, he acknowledged that the final decision must be a political one. “We will also consult the political parties on the issue,” he added.
+Mr. Chaudhary conceded that there were infirmities in the current formulation of the Bill, and noted that addressing these gaps was precisely what the panel was attempting to do. For instance, during the deliberations so far, several members had pointed out that the Election Commission had been vested with unfettered powers under the proposed law.
+Section 82 A(5) of the new Bill states that “if the Election Commission is of the opinion that the elections to any Legislative Assembly cannot be conducted along with the general election to the House of the People, it may make a recommendation to the President, to declare by an order, that the election to that Legislative Assembly may be conducted at a later date.” Members argued that by not specifying a deadline for the Election Commission, the provision effectively grants the poll panel “arbitrary and unregulated powers.”
+This apprehension, Mr. Chaudhary acknowledged, was valid, and the panel was deliberating on how to alter the clause. “Prima facie, I am also of the view that the apprehension is correct and we will have to think about it,” the BJP MP said, adding that it was ultimately for the members to decide on the matter.
+The panel, he said, could consider introducing an oversight mechanism. At the same time, he emphasised that the Election Commission was a constitutional body, and there was no reason to distrust its intentions or functioning.
+politics
+/
+election
+/
+national government
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:26:25 +0530
+TITLE: BSNL pensioners discuss welfare, legal developments during conference
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/bsnl-pensioners-discuss-welfare-legal-developments-during-conference/article70648661.ece
+--------------------
+Members of the All India BSNL Pensioners' Welfare Association participate in a conference in Vijayawada on Wednesday.
+| Photo Credit: G.N. RAO
+Around 500 people from across the State attended the circle conference of the All India BSNL Pensioners’ Welfare Association (AIBSNLPWA), held in Vijayawada on Wednesday (February 18).
+AIBSNLPWA national president D. Gopala Krishnan, general secretary V. Vara Prasad and others spoke on organisational matters, pensioners’ welfare and legal developments.​
+Mr. Gopala Krishnan pointed out that following the pension revision implemented in 2007, the next revision has been due since January 1, 2017. ​Referring to the judgment of the Principal Bench, Central Administrative Tribunal, Delhi, September 2023, which directed that pension revision be granted on a par with Central government employees, Mr. Gopala Krishnan said pension revision should be implemented from January 1, 2017, taking the judgment as the guiding benchmark. ​
+Mr. Vara Prasad said the issue of pension revision has not been included in the Terms of Reference of the 8th Central Pay Commission (8th CPC). ​He cautioned that the absence of clarity regarding the date of effect may adversely impact pensioners who retired prior to 2026.​
+Through the conference, the members urged the government to amend the Terms of Reference to include pension revision for former pensioners and to clearly specify 01-01-2026 as the date of implementation.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:22:24 +0530
+TITLE: BRS flays Congress for holding Telangana government’s performance review in Delhi
+LINK: https://www.thehindu.com/news/national/telangana/brs-flays-congress-for-holding-telangana-governments-performance-review-in-delhi/article70648653.ece
+--------------------
+T. Harish Rao
+| Photo Credit: SIDDHANT THAKUR
+Bharat Rashtra Samithi (BRS) senior MLA and former Minister T. Harish Rao slammed the Congress top leadership for the scheduled review of the Telangana government’s two-year performance at the AICC headquarters in New Delhi on Thursday (February 19) calling it ‘a direct affront to Telangana’s pride and the very idea of self-governance’.
+Taking strong objection to the meeting scheduled to be chaired by the Leader of the Opposition in the Lok Sabha Rahul Gandhi and attended by Chief Minister A. Revanth Reddy, his Cabinet colleagues, TPCC president B. Mahesh Kumar Goud and other senior party leaders from the State, he wrote an open letter on Wednesday.
+Addressed to the All India Congress Committee (AICC) and tagged to senior leaders Rahul Gandhi, Priyanka Gandhi and other AICC functionaries, the BRS Legislature Party deputy floor leader said Telangana was formed after a prolonged struggle for self-rule and self-respect, not to function as ‘a remote-controlled State or as a political outpost’ answerable to periodic approvals from Delhi.
+Mr. Rao demanded that the Congress leadership first examine its own failure to implement the party’s six-guarantees made during the election campaign in 2023 claiming that 90 % of the guarantees remain unfulfilled even after more than two years.
+Alleging that the Congress government had failed to honour key promises made to the farming community, including the ₹2 lakh crop loan waiver, enhanced Rythu Bharosa, crop bonus and crop insurance, he said that partial implementation and exclusions had left farmers disillusioned. He also pointed to unfulfilled commitments.
+On social justice, Mr. Harish Rao said the promised enhancement of reservations for SCs and STs and related procurement benefits had not materialised. He further alleged that several welfare schemes launched by the BRS government were being diluted or discontinued.
+He also levelled serious allegations of corruption against the State government and warned that Telangana society would not tolerate external control.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:21:44 +0530
+TITLE: Works on bridge across Vasista to begin soon: Union Minister B. Srinivas Varma
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/works-on-bridge-across-vasista-to-begin-soon-union-minister-b-srinivas-varma/article70648462.ece
+--------------------
+Union Minister of State for Steel and Heavy Industries Bhupathiraju Srinivas Varma and Narsapuram MLA Bommidi Nayakar at a press conference in Bhimavaram on Wednesday.
+| Photo Credit: BY ARRANGEMENT
+Union Minister of State for Steel and Heavy Industries Bhupathiraju Srinivas Varma on Wednesday announced that the works of the bridge proposed across Vasista, a branch of the Godavari river, would begin soon.
+The one-kilometre-long bridge connects Narsapuram town in West Godavari district to Sakhinetipalli Lanka in Dr. B. R. Ambedkara Konaseema district. At present, people from these two districts cross the river by punt.
+Proposed in 2008, the bhumi puja was performed for the bridge by all the successive Chief Ministers of united Andhra Pradesh. However, the construction of the bridge, which is part of the National Highway-216 project was halted after private landowners moved the court over the land acquisition for the highway road.
+Speaking to newsmen at a press conference on Wednesday, Mr. Srinivas Varma said: “All the legal hurdles to speed up the bridge across Vasista branch have been cleared. Once commissioned, the entire region of Konaseema, West Godavari and erstwhile Krishna districts will have better connectivity”.
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 00:59:13 +0530
+TITLE: T.N. Minister distributes project completion certificates to students
+LINK: https://www.thehindu.com/news/national/tamil-nadu/minister-distributes-project-completion-certificates-to-students-of-north-chennai-government-schools/article70647456.ece
+--------------------
+About 2,500 students successfully completed two projects and received their certificates from Education Minister Anbil Mahesh Poyyamozhi.
+| Photo Credit: Special Arrangement
+About 2,500 students of 10 government and aided schools in north Chennai successfully completed two projects on energy management at schools and homes, and designing and building a functional foldable house model, as part of the north Chennai Project-based Learning Programme.
+The students received their completion certificates from School Education Minister Anbil Mahesh Poyyamozhi on Wednesday.
+For the first project, the students used data analysis to map energy consumption at schools and homes and drew up a practicable plan to reduce waste using real applications of Data Science and AI. For the second project, the students used physics and engineering concepts to build working physical prototypes of a foldable house that are rapidly deployable to suit low-income and disaster-prone communities.
+Throughout the project cycle, the students were mentored by experts from IIT Madras, Illinois Institute of Technology, KREA University, and industry professionals. The programme is part of the CSR initiative of Kamarajar Port and Rhapsody Music Foundation.
+The students were already thinking differently, asking questions, making decisions with data and building things with their hands, according to Anil Srinivasan, Founder, Rhapsody Music Foundation.
+The programme will continue through 2026 with more projects before a final showcase event, a press release stated.
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:01:05 +0530
+TITLE: Higher Education Minister R. Bindu inaugurates major college infrastructure projects across State
+LINK: https://www.thehindu.com/news/national/kerala/higher-education-minister-r-bindu-inaugurates-major-college-infrastructure-projects-across-state/article70648388.ece
+--------------------
+Higher Education Minister R. Bindu at a newly-developed building at University College, Thiruvananthapuram, on Wednesday
+Higher Education Minister R. Bindu has said that the State is making remarkable strides in the higher education sector through infrastructure development and comprehensive curriculum reforms.
+She was speaking after inaugurating the renovated AR Centre (Oriental Block) at University College, Thiruvananthapuram, and several newly completed buildings in colleges across the State here on Wednesday.
+According to the Minister, the government has invested ₹6,000 crore over the past four years for infrastructure development in the higher education sector. The implementation of four-year undergraduate programmes has brought transformative changes in both the content and approach to education. Moreover, the revised curriculum has been designed to enhance employability skills and foster research aptitude among students.
+Emphasising the concept of ‘work while studying’, she said campuses must empower students to become entrepreneurs and job creators. Besides, under the ‘Scholar Connect’ scheme, students are being provided opportunities to interact with diaspora experts working abroad.
+Dr. Bindu said that development works worth ₹22 crore, sanctioned by the Kerala Infrastructure Investment Fund Board (KIIFB), have been completed at the University College. The heritage Oriental Block was renovated without compromising its architectural legacy, alongside the construction of a new Language Block and a Laboratory Block.
+Infrastructure development works undertaken at Government Victoria College, Palakkad; Kodiyeri Balakrishnan Memorial Government College, Thalassery; Government Arts and Science College, Chelakkara; Government Arts and Science College, Pathirippala; Government Arts and Science College, Kulathoor; MMS Government Arts and Science College Malayinkeezhu; Government Arts and Science College, Karunagappally; and Government Arts and Science College, Mankada were also inaugurated.
+University College Principal Santhosh Kumar K.R. presided over the function.
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 09:07:08 +0530
+TITLE: Karnataka Man Kills Wife Over Loan Dispute, Buries Body In House Compound
+LINK: https://www.news18.com/india/karnataka-man-kills-wife-over-loan-dispute-buries-body-in-house-compound-ws-kl-9916595.html
+--------------------
+In a shocking incident, a man allegedly killed his wife and buried her inside their house compound in Devarahipparagi town of Vijayapura district in Karnataka, with the crime coming to light 24 days later.
+According to the police, the deceased has been identified as Sarojini Ratnakar (45), while the accused as Prabhu Ratnakar (46).
+Prabhu had allegedly taken loans in Sarojini’s name, which often led to disputes between the couple. On the night of January 23, the two were reportedly involved in a heated argument. The following day, January 24, Prabhu allegedly killed Sarojini by hitting her on the head with an iron rod.
+Later, he is said to have buried her body within the house premises and fabricated a story claiming that she had left home and not returned. He even lodged a missing complaint at the Devarahipparagi police station and joined her parental family in the search for her.
+During the course of the investigation, the police grew suspicious of Prabhu and summoned him for questioning. During sustained interrogation, he reportedly confessed, leading to the revelation of the truth behind the case.
+Police later exhumed the body following due legal procedure. After conducting the post-mortem examination, the body was handed over to the family.
+Following a complaint lodged by Sarojini’s mother, a case has been registered against Prabhu. Further investigation into the incident is underway.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 09:15:09 +0530
+TITLE: Bill Gates Not To Deliver Keynote Address At India AI Summit Today
+LINK: https://www.news18.com/india/bill-gates-to-not-deliver-keynote-address-at-india-ai-summit-today-9916579.html
+--------------------
+Bill Gates will not deliver his scheduled keynote address at the ongoing AI Summit in Delhi today, organisers said on Thursday, citing the need to keep the focus on the event’s key priorities. Follow Live Updates
+In a statement, it was announced that the Gates Foundation will instead be represented by Ankur Vora, President of the Africa and India Offices, who is set to speak later today at the summit.
+Microsoft co-founder Bill Gates’ participation in the AI summit became a subject of speculation on Tuesday amid conflicting reports. Government sources had initially indicated that he would not attend, but a spokesperson for the Gates Foundation later said he was indeed participating.
+pic.twitter.com/tGJtEQS97E— Gates Foundation India (@BMGFIndia) February 19, 2026
+Gates had been listed among global tech leaders, policymakers, founders and innovators on the official website of the AI Impact Summit, which began in the national capital on February 16.
+However, his name briefly disappeared from the key participants’ list on Wednesday morning, triggering confusion.
+Gates was scheduled to deliver a keynote address today, with a 12-minute speaking slot at 11:50 am at Bharat Mandapam, where several global leaders and industry heads are expected to participate.
+Union Minister for Information & Broadcasting and Electronics & Information Technology Ashwini Vaishnaw, who is leading the AI summit, did not give a direct response when asked about Gates’ participation during a scheduled press conference.
+The India AI Impact Summit 2026 has brought together participating nations and global institutions, highlighting India’s emphasis on multilateral cooperation and leveraging artificial intelligence to tackle global challenges while fostering shared growth.
+India is hosting the summit from February 16 to 20, structured around three core pillars, or ‘Sutras’: People, Planet and Progress. The prime minister inaugurated the India AI Impact Expo 2026 at Bharat Mandapam in New Delhi on Monday.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 08:28:49 +0530
+TITLE: ‘Report Unruly Passengers’: DGCA  Adopts ‘Zero Tolerance’ Policy Towards In-Flight Misconduct
+LINK: https://www.news18.com/india/report-unruly-passengers-dgca-adopts-zero-tolerance-policy-towards-in-flight-misconduct-9916544.html
+--------------------
+Unruly flyers, beware. India has adopted a “no tolerance" or “zero tolerance" policy with immediate effect for misbehaviour or indiscipline during air travel. The  Directorate General of Civil Aviation (DGCA) has instructed the airlines to report such passengers.
+The aviation regulator said the move is aimed at ensuring the safety of aircraft, people and property, and at maintaining good order and discipline on board.
+The DGCA has also issued draft rules on how airlines must handle such passengers on aircraft.
+Under the changes proposed by DGCA chief Faiz Ahmed Kidwai, airlines will now be required to put in place procedures to deal with unruly passengers both at the airport and on board the aircraft. The SOP on this will be communicated throughout the organisation and especially to all employees who are in direct contact with passengers, both on the ground and on the aircraft.
+The draft also states that the “no-fly rules" will apply to all passengers during the period of air travel to or from India. This means that this rule is not just limited to Indian carriers and airports, the rules will also apply to unruly passengers travelling on foreign airlines on flights to and from India, if those carriers report the matter.
+The draft classifies unruly conduct into four categories:
+Level 1: Unruly behaviour such as physical gestures, verbal harassment and disruptive drunken conduct.
+Level 2: Physically abusive actions including pushing, kicking, hitting, grabbing, inappropriate touching or sexual harassment.
+Level 3: Life-threatening behaviour, including damage to aircraft operating systems and serious physical violence such as choking, eye gouging or attempted murder.
+Level 4: Attempted or actual breach of the flight crew compartment.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 07:24:10 +0530
+TITLE: VVIP Movement For AI Summit To Disrupt Delhi Traffic Today: Check Diversions, Alternate Routes
+LINK: https://www.news18.com/cities/new-delhi-news/vvip-movement-for-ai-summit-to-disrupt-delhi-traffic-today-check-diversions-alternate-routes-ws-l-9916453.html
+--------------------
+The Delhi Traffic Police has released a traffic advisory for Thursday, February 19, outlining restrictions and route diversions across central Delhi due to the AI Impact Summit 2026 at Bharat Mandapam.
+According to the advisory, special traffic arrangements will be in place from 7:30 am to 10:00 am and again from 5:00 pm to 9:00 pm, owing to multiple VVIP movements scheduled at Bharat Mandapam, the airport, and other key locations.
+In a post on X, the Delhi Traffic Police advised the commuters to plan their journeys in advance, avoid affected stretches, and follow directions of traffic personnel on duty.
+Traffic AdvisorySpecial traffic arrangements will be in place on 19 Feb, 2026 from 07:30–10:00 AM & 05:00–09:00 PM in view of AI Impact Summit–2026.
+Commuters are advised to plan their journeys in advance, avoid affected stretches, and follow directions of traffic personnel… pic.twitter.com/DWW8mfq8RM
+— Delhi Traffic Police (@dtptraffic) February 18, 2026
+Traffic restrictions will impact several key stretches across central Delhi, including major roads such as Sardar Patel Marg, Janpath, Akbar Road and Teen Murti Marg.
+Important diplomatic and high-security routes like Shanti Path, Satya Marg and Africa Avenue will also see regulations.
+Additionally, parts of Mathura Road, Subrahmaniam Bharti Marg, Prithvi Raj Road and Dr. Zakir Hussain Marg are expected to face diversions, along with connecting stretches near Lodhi Flyover and Kautilya Marg.
+Commuters using these corridors are likely to experience delays and are advised to plan alternate routes accordingly.
+To ease congestion during the restrictions, commuters have been advised to use alternate routes including San Martin Marg, Panchsheel Marg, and APJ Abdul Kalam Marg.
+Key corridors such as Aurobindo Marg, Lodhi Road, Ring Road, and Barapullah Road are also recommended to help divert traffic from affected stretches.
+Other suggested routes include Tilak Marg, Ferozshah Road, Rafi Marg, Sansad Marg, and K Kamraj Marg, along with South Avenue Road and Vandematram Marg.
+Motorists are encouraged to plan their journeys in advance and opt for these alternative roads to minimise delays and ensure smoother travel.
+“Commuters have been urged to cooperate with authorities and avoid the affected routes wherever possible. They are advised to plan their journeys in advance and factor in additional travel time to account for potential delays," the advisory said.
+“Motorists should strictly follow the directions of traffic personnel deployed on duty, adhere to traffic regulations, and maintain proper lane discipline to ensure smooth and safe movement for all road users," it added.
+The AI Impact Summit 2026, set to conclude on February 20, is being framed as a key platform aimed at amplifying the voices of developing nations in shaping global AI governance.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 09:15:19 +0530
+TITLE: AI Summit 2026 India LIVE: Prime Minister Modi To Welcome World Leaders At Bharat Mandapam Shortly
+LINK: https://www.news18.com/india/ai-summit-2026-live-updates-new-delhi-pm-narendra-modi-niti-aayog-tech-leaders-day-4-liveblog-ws-l-9916413.html
+--------------------
+AI Summit 2026 India Live Updates: New Delhi is preparing for a key moment in its technology journey as the India AI Impact Summit 2026 moves towards its formal inauguration. The opening ceremony at Bharat Mandapam on Thursday is expected to set the tone for how India wants to shape the global conversation on artificial intelligence in the years ahead. Prime Minister Narendra Modi’s address will be the focal point, with a clear emphasis on India’s plans for responsible and inclusive AI.
+After a week of discussions, exhibitions, and closed-door meetings, the summit now enters its most visible phase. Leaders, policymakers, and technology executives from across the world are gathering for the opening session, where the focus will shift from dialogue to direction. The event is being seen as a chance for India to present its vision for using AI not just for economic growth, but also for public good.
+Prime Minister Narendra Modi to welcome world leaders at Bharat Mandapam and a family photo will b e taken at around 9.15 AM The PM will participate in the Opening Ceremony of India AI Impact Summit 2026, which will start at around 9.40 AM. He will then address the ceremony around 10.25 AM.
+#WATCH | #IndiaAIImpactSummit2026 | Prime Minister Narendra Modi to welcome world leaders at Bharat Mandapam and a family photo will be taken at around 9.15 AM
+The PM will participate in the Opening Ceremony of India AI Impact Summit 2026, which will start at around 9.40 AM.… pic.twitter.com/yvMQTCG47X
+— ANI (@ANI) February 19, 2026
+Bill Gates will not deliver the keynote address at the India AI Summit today, organisers confirmed, marking a change in the previously announced speaking schedule for the event.
+pic.twitter.com/tGJtEQS97E
+— Gates Foundation India (@BMGFIndia) February 19, 2026
+Prime Minister Narendra Modi will hold bilateral and side-line meetings with various heads of state at Bharat Mandapam at 7:00 PM, focusing on discussions and diplomatic engagement.
+On the sidelines of the AI Summit in Delhi, Prime Minister Narendra Modi on Thursday will hold a closed-door CEO roundtable with global technology leaders, including Sam Altman and Sundar Pichai, to discuss innovation and cooperation.
+PM Modi met Pichai on Wednesday also.
+On Thursday, PM Modi will attend the Opening Ceremony of the India AI Impact Summit 2026 at around 9:40 a.m. The event will also be addressed by the President of France, the UN Secretary-General and top industry leaders from across the world.
+At 11 a.m., the Prime Minister will visit the India AI Impact Expo 2026 and tour various country pavilions with other leaders.
+He will then join the Leaders’ Plenary at noon to discuss AI governance, infrastructure and international cooperation.
+From 5:30 p.m., he will take part in a CEO roundtable on investment, research collaboration, supply chains and AI deployment.
+After the India AI Impact Summit, Delhi is likely to push for a more democratised use of artificial intelligence. The focus will be on affordability and wider access to the technology. Government officials say this approach is aimed at countering the trend in the West, where AI development is concentrated in the hands of a few companies and individuals.
+A senior government official told The Indian Express that the move is in line with India’s G20 narrative. The official said Delhi wants to assert its position in the Global South and show that it speaks in the interest of the region.
+Prime Minister Narendra Modi will participate in the opening ceremony of the India AI Impact Summit 2026 on Thursday morning.
+India AI Summit 2026 Day 4 Live Updates: Over the past week, Bharat Mandapam has turned into a major meeting point for the global tech community. With more than 2.5 lakh visitors and participants from over 60 countries, the scale of the summit reflects India’s growing importance in the AI ecosystem. The presence of heads of state and leading technology companies has further underlined the summit’s political and economic weight. The discussions so far have focused heavily on how AI can be used to solve real-world problems, especially in developing economies. From language tools to climate applications, the emphasis has been on practical solutions that can reach large populations.
+India AI Summit 2026 Day 4 Live Updates: The morning will begin with Prime Minister Narendra Modi welcoming world leaders at Bharat Mandapam, followed by the formal opening ceremony. Speakers will include French President Emmanuel Macron and UN Secretary-General António Guterres, reflecting the summit’s global significance.
+His keynote address is expected to outline India’s approach to what the government calls “Sovereign AI,” a framework that focuses on building domestic capabilities while working with global partners. The speech is likely to highlight areas such as digital infrastructure, access to computing power, and the use of AI in sectors like agriculture, healthcare, and governance.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 00:49:21 +0530
+TITLE: Handshakes, Headlines & PM Modi's High-Stakes Keynote: Thursday’s Big Script At India AI Summit
+LINK: https://www.news18.com/tech/handshakes-headlines-and-pm-modis-high-stakes-keynote-thursdays-big-script-at-india-ai-summit-9916384.html
+--------------------
+In a historic display of India’s technological and diplomatic prowess, the capital prepares for the crowning moment of the India AI Impact Summit 2026. Following a week of high-level deliberations and the vibrant AI Impact Expo, the formal inauguration by Prime Minister Narendra Modi on Thursday at Bharat Mandapam is set to be a global spectacle, cementing New Delhi’s role as the “capital of the Global South" in the artificial intelligence era.
+The morning will begin with a powerful visual of global unity at the iconic Bharat Mandapam.
+09:15 AM: Prime Minister Narendra Modi will personally welcome heads of state and world leaders, followed by a Family Photo—a symbolic image representing the unified global front on AI governance.
+09:40 AM: The Opening Ceremony of the India AI Impact Summit 2026 will commence, featuring addresses from high-profile leaders including French President Emmanuel Macron and UN Secretary-General António Guterres.
+10:25 AM: Prime Minister Modi will deliver his keynote address, setting the definitive roadmap for “Sovereign AI" and inclusive technology.
+The atmosphere at Bharat Mandapam has been nothing short of electric. Transformed into a futuristic hub, the venue has hosted over 2.5 lakh visitors and delegates from more than 60 nations. The architectural brilliance of the convention centre, illuminated with AI-themed light installations, provides a fitting backdrop for what is being called the “G20 moment" of the tech world.
+The scale of the event is a testament to India’s burgeoning influence. With over 20 heads of state and 500 global AI leaders—including CEOs from OpenAI, Anthropic, and Microsoft—the summit has transcended being a mere tech conference. It is a declaration of India’s intent to bridge the digital divide. The theme, “Sarvajana Hitaya, Sarvajana Sukhaya" (Welfare for all, happiness of all), resonates through the halls, where the focus remains on using AI for social empowerment, agriculture, and sustainable development.
+World leaders have been effusive in their praise for India’s distinctive approach to technology. UN Secretary-General António Guterres lauded India as a “very successful emerging economy" and the “perfect host," emphasising that the world needs India to ensure AI doesn’t become a privilege of the few. President Alar Karis of Estonia, a global digital pioneer himself, remarked that India’s Digital Public Infrastructure (DPI) is now the global benchmark for how modern states should operate.
+The summit has successfully showcased that India is not just a consumer of AI but a primary innovator. From the launch of 12 indigenous foundation models tailored for Indian languages to the democratisation of high-end computing resources, the “India Way" is being viewed as the blueprint for the Global South. As leaders gather for the family photo tomorrow morning, they aren’t just standing with a tech hub; they are standing with a nation that has successfully married ancient wisdom with frontier technology.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 23:01:18 +0530
+TITLE: From Kashmiri Girda To Rajma Gilawat, PM Modi’s AI Summit Dinner Celebrates India’s Culinary Map
+LINK: https://www.news18.com/india/from-kashmiri-girda-to-rajma-gilawat-pm-modis-ai-summit-dinner-celebrates-indias-culinary-map-ws-kl-9916340.html
+--------------------
+The India AI Impact Summit 2026 is underway at Delhi’s Bharat Mandapam, where prominent world leaders, policymakers and innovators have gathered to discuss the future of artificial intelligence. PM Modi hosted a special dinner in New Delhi for the visiting heads of state.
+The summit, held from February 16–20, follows the UK’s first AI Summit in 2023 and France’s 2025 edition, which highlighted major global investments in AI. It is the first major global AI event hosted in the Global South.
+The menu for the high-profile dinner has been curated by chefs from the ITC group, which has been entrusted with catering all official events at Bharat Mandapam. The dinner showcases the depth and diversity of India’s culinary traditions.
+Full Menu Of PM Modi’s Dinner
+The evening coincided with the festival of Shishir Ritu, described in the menu note as “a season marking a gentle end of the winter dew and quiet indulgence. A season that arrives with an abundance of harvest, hope and harmony."
+The multi-course menu at the exquisite dinner began with a starter titled “Varnila", comprising baby spinach crisp, yoghurt sphere, tamarind date chutney, cilantro relish with old Delhi masala, and a Jowar Crisp.
+The main courses included Sasya, which is a tribute to the mountains of Uttarakhand. This comprises of GI-tagged Munsyari rajma gilawat, pahadi rice and jhangora (barnyard millet) pulao, kumaoni aloo and subz ke gutke and a silky tomato-anari sauce.
+A selection of Indian breads followed, including Taftaan, a leavened bread topped with melon seeds, and Kashmiri Girda, which refers to a popular Kashmiri bread baked fresh every morning.
+Dessert was presented as “Nisarga ‘Natures Creation’", comprising Rasmalai Tres Leches with Winterberry preserve. The menu described it as moist and creamy ‘chena’ cake sponge soaked in sweetened milk, paired with winter berry compote and perched on pearl millet streusel.
+Beverages served at the gala included Kashmiri Kahwa, filter coffee and Darjeeling tea, along with Indian Rose and Mishri Gulkand Chocolate Leaf.
+PM Modi Welcomes World Leaders
+Earlier today, PM Modi welcomed a host of world leaders to the venue as part of the India AI Impact Summit 2026, including French President Emmanuel Macron, Spanish President Pedro Sanchez, Estonia President Alar Karis, UN Secretary General António Guterres and Dutch PM Dick Schoof.
+The summit, organised under the IndiaAI Mission, focuses on People, Planet and Progress. It features 12 indigenous foundation models in 22 Indian languages and pavilions from France, Japan, the UK and others. The Prime Minister is scheduled to deliver the inaugural address on February 19.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:50:43 +0530
+TITLE: 'We Want Our Allies, Including India, To Leverage US AI Infrastructure': White House Policy Advisor
+LINK: https://www.news18.com/india/india-can-leverage-us-innovation-to-build-ai-tools-us-house-ai-policy-advisor-ws-l-9916027.html
+--------------------
+Speaking at the AI Impact Summit, US House Select Committee on Artificial Intelligence Policy Advisor Srinivas Krishna on Saturday said India can leverage American innovation to build artificial intelligence tools that directly benefit its citizens.
+Speaking at a special session on the sidelines of the AI-India Impact Summit in New Delhi, Krishna described India as a “vibrant" democracy and highlighted the shared strengths of the two countries in technology and research.
+“All the leading model companies are based in the US. It’s like you’ve built billions of dollars between this year and next year, that just keeps vertical on the GPUs, on advanced AI chips, Nvidia and TPUs are really the only game in town for everyone," Krishna said. He added that while the US has advanced AI infrastructure, India can emerge as a key partner in applying AI for public good.
+Delhi | India AI Impact Summit : Sriram Krishnan, Senior White House Policy Advisor on Artificial Intelligence, says, “…We want to make sure that the world uses the American AI stack…We also want the world to use our AI model…We want all our allies, including India, to… pic.twitter.com/u1tpf74wFS— ANI (@ANI) February 18, 2026
+“I think the question is, how do you bring AI to make everyone the quality of life as citizens? And, for example, the way we are trying to do it, I just give you one example in education," he said.
+Krishna noted that AI applications can extend beyond sectors like healthcare and be embedded in broader civic systems. “When people talk about what a country like India should do, I think about how do you use AI leverage, all of this investment leverage, all of the innovation happening in America, which we think is the best in class, and then build, you know, the services, the tools, which you utilize for your citizens," he added.
+Referring to India’s AI Action Plan, Krishna outlined three focus areas: accelerating innovation, building AI infrastructure, and leading internationally in AI governance and policy.
+He also emphasised the need for open scientific collaboration between the two countries. “We want to make sure we unlock the Cernis of the world, the open ways of the world, the blocks of the world, the anthropics of the world," he said, underlining the importance of shared research and discovery.
+Krishna pointed to the TRUST (Transforming the Relationship Utilizing Strategic Technologies) initiative as a framework to deepen US-India collaboration in areas such as artificial intelligence, semiconductors, quantum computing, biotechnology and space.
+As part of future cooperation, he said both countries are working on a roadmap under the US-India initiative on Critical and Emerging Technology (iCET), focusing on joint development in AI, semiconductor supply chains, defence technologies and advanced materials.
+“So a lot of scientific discovery is going to change, and we are only getting started. So I think it’s time of great excitement, and I think all of us should feel lucky that we’re living through this," Krishna said.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 20:08:40 +0530
+TITLE: ‘Modi Opened The Doors For India’: Serbian President Vučić Hails PM’s Statecraft
+LINK: https://www.news18.com/india/modi-opened-the-doors-for-india-serbian-president-vucic-hails-pms-charisma-statecraft-ws-l-9915350.html
+--------------------
+Serbian President Aleksandar Vučić, in an exclusive conversation with CNN-News18’s Rahul Shivshankar, praised PM Narendra Modi for turning India into a decisive global voice.
+Hailing India’s foreign policy, he said, “…At the end, all doors, gates are opened…That is serious statecraft."
+Listing the ways in which PM Modi turned India into a decisive global voice, Serbian President Vučić said, “He is a very charismatic and hardworking leader. He is well-known across the world. India became visible in the world because of him. He is overwhelmingly present and dominant."
+Hailing the foreign policy of India, the Serbian President said, “When you speak to PM Modi, you speak to him and the India state, without being influenced by other powers."
+According to Vučić, the third major reason is PM Modi’s contribution to India’s progress. “Not only in overall economy, but specific areas such as IT sector, digitised economy and AI."
+Vučić said he first met Modi in Ahmedabad in Gujarat for a special conference in 2017. “What I saw not only in Modi’s behaviour, but his eyes was that he was committed to his country. He takes care of everything. He is committed to details. He is a control freak in a positive sense because he cares," the Serbian President said.
+#BreakingNews | How is the world looking at India’s contribution towards AI? What PM Modi has done different to put India as a rising global voice?WATCH @RShivshankar in EXCLUSIVE conversation with President Of Serbia @predsednikrs #NationAt5 #IndiaAI #GlobalAILeader… pic.twitter.com/oigC0vfNcM
+— News18 (@CNNnews18) February 18, 2026
+“Strategic autonomy gives you respect," he said.
+Recounting the economic pressure, political isolation and attempts to weaken Serbia, the President said, “In the end, Narendra Modi opened all gates. We are not isolated. It was not the case 2-3 years ago…"
+“There are tonnes of players in the world who want a weaker contender from India…Of course. There will always be attempts to weaken strong competitors. Why would others prefer a strong India? They would rather face a weaker one," he said.
+That is why PM Modi is dedicated towards strengthening the military of India, political position of India in world and working on economic progress…He signed a Free Trade Agreement (FTA) with the European Union (EU), with the United States (US), at the same time, he did not spoil his relation with Russia, while being cautious with China. Always keeping calm and stable is great politics…"
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 18:00:47 +0530
+TITLE: AAP Sarpanch Shot Dead At Wedding In Punjab, BJP Slams Bhagwant Mann Govt Over Law And Order
+LINK: https://www.news18.com/india/aap-sarpanch-shot-dead-at-a-wedding-in-punjab-bjp-slams-bhagwant-mann-govt-over-law-and-order-ws-l-9914990.html
+--------------------
+In a daylight attack in Punjab’s Tarn Taran district, an Aam Aadmi Party (AAP) sarpanch was shot dead during a wedding function on Wednesday, sparking fresh outrage over the state’s law and order situation.
+According to police and eyewitness accounts, two unidentified motorcycle-borne gunmen suddenly entered the marriage palace where the sarpanch, Harbrinder Singh alias Happy, was attending a ceremony with relatives. Without warning, they opened indiscriminate fire on him from close range, killing him on the spot and critically injuring his cousin, who was rushed to a nearby hospital.
+Senior officers reached the scene soon after the incident, cordoned off the area and launched a manhunt for the attackers. Forensic teams are scanning CCTV footage from the venue and surrounding areas as part of the investigation. Police have stated that the motive remains unclear, although preliminary investigations are underway.
+The brazen shooting comes amid heightened tensions in the state. It follows several high-profile attacks on politicians in recent weeks, prompting criticism from opposition leaders who have blamed the ruling AAP government for a deteriorating security climate.
+BJP leader Jaiveer Shergill condemned the incident on social media, saying, “Another day, another broad daylight murder in Punjab. AAP sarpanch shot dead in a wedding function in Tarn Taran, Punjab! Punjab is witnessing a non-stop naked dance of lawlessness & death!" He demanded action, adding that “Punjab needs to be saved from criminals & AAP!"
+Another day , Another broad daylight murder in Punjab-Murder AAP Sarpanch shot dead in a wedding function in Tarn Taran, Punjab !Punjab is witnessing a non-stop naked dance of lawlessness & death !
+Punjab needs to be saved from criminals & AAP!
+— Jaiveer Shergill (@JaiveerShergill) February 18, 2026
+Additonally,
+Punjab Congress and the Leader of Opposition, Partap Singh Bajwa also reacted sharply to the incident, calling it a “cold-blooded murder" that exposes what he described as a collapse of law and order in the state. In a post on X, Bajwa alleged that under Chief Minister Bhagwant Mann and the AAP government, gangsters are roaming freely while the administration remains focused on public relations. He claimed that border districts are increasingly turning into crime zones and said Punjab is paying a heavy price for what he termed the government’s “bloody badlaav" (change).
+The cold-blooded murder of a sitting Sarpanch at a wedding in Tarn Taran exposes the shocking collapse of law & order in Punjab.Under @BhagwantMann and @AAPPunjab government, gangsters roam free while the government stays busy with PR. Border districts are turning into crime… pic.twitter.com/azghxrxHtX
+— Partap Singh Bajwa (@Partap_Sbajwa) February 18, 2026
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 21:32:28 +0530
+TITLE: 'Exhibitors Must Not Display Items That Are Not Theirs': Govt Official Amid Galgotias Robodog Row
+LINK: https://www.news18.com/india/exhibitors-must-not-display-items-centre-amid-galgotias-chinese-robodog-display-at-ai-summit-9914448.html
+--------------------
+The Centre issued a stern warning to all exhibitors after the Galgotias University sparked a major controversy at the high-profile India AI Impact Summit 2026 in New Delhi by allegedly presenting a Chinese robodog as its own.
+Following the controversy, IT Secretary S Krishnan said the government does not want any exhibitor to showcase items that are not their own. “We do not want such exhibits to continue," he said, after organisers asked Galgotias University to vacate its stall.
+This came after the Greater Noida-based Galgotias University faced intense criticism after reports suggested that the Unitree Go2 robotic dog was displayed under the name “Orion," prompting allegations that imported technology was being presented as indigenously developed.
+A clip went viral showing Galgotias’ Professor Neha Singh introducing the Robodog as ‘Orion’ and saying it was developed by the Centre of Excellence of the institution. Shiv Sena (UBT) MP Priyanka Chaturvedi said the incident brought significant damage to the country and the AI Summit.
+Congress leader and Leader of Opposition in Lok Sabha Rahul Gandhi described the event as a “disorganised PR spectacle" where Indian data is being showcased alongside Chinese products.
+Krishnan said the government would not tolerate exhibits misrepresented as original creations. “We want genuine and actual work to be reflected in the way that people exhibit in expos. The idea is not to sort of use this as an opportunity in any other fashion. We don’t want the controversy surrounding the exhibits presented here. So I think it’s essential that a code is followed there. Misinformation cannot be encouraged," he added.
+Abhishek Singh, Additional Secretary in Ministry of Electronics and Information Technology, said the intention is not to stifle innovation but it should not be misleading. The controversy “should not overshadow the kind of effort that the others have put in," he said.
+Galgotias Asked To Vacate AI Summit
+Later, authorities asked the Galgotias University to vacate the AI Impact Summit Expo following the allegations. The staff and students of Galgotias University vacated their stall, and power was reportedly cut off at the Galgotias University pavilion after the institution was asked to leave the venue.
+Government sources said the Centre has taken the matter seriously and that a clear message has been conveyed to all exhibitors regarding compliance and transparency at the summit.
+However, the university defended itself by saying that it had never claimed to have built the device. “Galgotias has not built this robodog, nor have we claimed to do so," it said in a statement.
+“We at Galgotias, faculty and students, are deeply pained by the propaganda campaign against our university. We would like to clearly state that the robotic programming is part of our endeavour to make students learn AI programming and develop & deploy real world skills using globally available tools and resources, given developing AI talent is need of an hour," the university in another statement.
+The India AI Impact Summit, billed as a flagship event in the Global South, is underway in Delhi and is expected to host at least 20 heads of state and governments, including French President Emmanuel Macron and Brazilian President Luiz Inácio Lula da Silva. Prime Minister Narendra Modi will address the event on Thursday.
+(with inputs from PTI)
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 16:13:05 +0530
+TITLE: Ram Temple Fuels Ayodhya’s Economic Surge: Study Projects Rs 4 Lakh Crore Tourism Revenue
+LINK: https://www.news18.com/india/ram-temple-fuels-ayodhyas-economic-surge-study-projects-rs-4-lakh-crore-tourism-revenue-9913403.html
+--------------------
+The construction and consecration of the Ram Janmabhoomi Temple in January 2024 has significantly reshaped Ayodhya’s economic landscape, leading a surge in tourism, investment and job creation, according to a new study by Indian Institute of Management Lucknow (IIM Lucknow).
+The report, titled “Economic Renaissance of Ayodhya," examined the transformation of the temple town following the consecration of the grand temple. The report also described how faith-led infrastructure has become a durable growth driver, helping Ayodhya pivot from a low-capacity pilgrimage town to a high-footfall tourism hub.
+The study has been authored by Venkataramanaiah Saddikuti of IIM Lucknow, KV Raju, Professor Emeritus at Chanakya University and economic advisor to the Uttar Pradesh government, and Gopika Varma of Indian Institute of Management Rohtak.
+According to the study, more than 11 crore (110 million) devotees visited Ayodhya within the first six months after the consecration. Annual footfall is now projected at 5–6 crore, placing the city among India’s leading religious tourism destinations.
+Before the temple’s construction, Ayodhya’s economy revolved around small-scale pilgrimage activity. Annual visitor numbers were modest, hospitality capacity was limited, national hotel chains had negligible presence, and the absence of an airport constrained connectivity. Employment opportunities were limited, leading to youth migration.
+Post-consecration, redevelopment and capacity expansion projects worth approximately Rs 85,000 crore are underway, spanning roads, railways, urban renewal and airport expansion. These investments have helped crowd in private capital and expand the services sector.
+Tourism-led economic activity is projected to generate Rs 20,000–25,000 crore in tax revenues over the medium term. The study estimated that tourism spending in Uttar Pradesh could cross Rs 4 lakh crore, with Ayodhya contributing a significant share.
+“The scale of the economic turnaround surprised us. When we began the study, we did not anticipate such a sharp enrichment of the region. The temple has acted as a catalyst, and infrastructure has converted footfall into sustained economic activity," professor Saddikuti told Moneycontrol. “This is not a one-off spike. We are seeing repeat visitation, longer stays and higher spend per visitor, which is what makes the model durable," he added.
+It is noteworthy that after assuming office in 2017, Chief Minister Yogi Adityanath accelerated the temple economy framework, coupling temple development with modern infrastructure expansion in Ayodhya, thereby opening pathways for broader economic prosperity.
+The report further highlighted rapid employment growth across hospitality, construction, transport and services. Around 6,000 micro, small and medium enterprises (MSMEs) have been newly set up or revived in and around Ayodhya. Over the next four to five years, tourism expansion is expected to generate approximately 1.2 lakh direct and indirect jobs.
+Small retailers and street vendors report daily earnings rising from Rs 400–500 earlier to as much as Rs 2,500. Real estate prices near the temple precinct have risen five to ten times, attracting investors from across India.
+Between February 2020 and February 2025, the Ram Temple Trust remitted around Rs 400 crore in taxes, including approximately Rs 270 crore in GST, indicating growing formalisation and compliance, the authors noted.
+Daily footfall of over two lakh pilgrims has sustained demand for hospitality and allied services. More than 150 new hotels and homestays have opened in the city. Major hotel chains, including Taj Hotels, Marriott International and Wyndham Hotels & Resorts, have announced expansion plans in Ayodhya.
+Online travel platforms have reported up to fourfold growth in bookings. Tour operators said that pilgrims are increasingly combining visits to Ayodhya with trips to Varanasi, indicating the emergence of a broader spiritual tourism circuit.
+Professor Saddikuti said that the Ram temple is shaping India’s emerging “temple economy" playbook, comparable to redevelopment-led tourism growth seen around Kashi Vishwanath Temple and Mahakaleshwar Temple.
+“If connectivity, crowd management and last-mile services keep pace, Ayodhya can anchor a multi-city spiritual tourism circuit with measurable economic spillovers," he said.
+Under the guidance of Prime Minister Narendra Modi and the leadership of Uttar Pradesh Chief Minister Yogi Adityanath, the temple-led development framework has gained academic validation, the report noted.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 16:18:33 +0530
+TITLE: Lights Off, Pack Up: Galgotias University Leaves AI Summit Amid Chinese Robodog Row
+LINK: https://www.news18.com/india/power-cut-stall-vacated-galgotia-university-leaves-ai-summit-amid-chinese-robodog-row-ws-l-9913267.html
+--------------------
+Electrical power to the Galgotias University stall at the India AI Impact Summit 2026 in Delhi was cut after it was asked to vacate the high-profile summit amid controversy over the display of a Chinese robotic dog.
+The staff and students of Galgotias University vacated their stall and power was reportedly cut off at the Galgotias University pavilion after the institution was asked to leave the venue. The university faced heavy criticism for allegedly claiming a Chinese Unitree robodog as its own.
+VIDEO | Delhi: Power has reportedly been cut off at the Galgotias University pavilion at the AI Summit after it was asked to vacate the expo following a row over the display of a robotic dog.(Full video available on PTI Videos – https://t.co/n147TvrpG7) pic.twitter.com/j5rOrSWfF0
+— Press Trust of India (@PTI_News) February 18, 2026
+#WATCH | Delhi | Galgotias University staff and officials vacate their stall at India AI Impact Summit expo, following row over display of Chinese-made robodog.As per sources, the govt had asked Galgotias University to vacate the stall at the expo. pic.twitter.com/cqN5vBcgcN
+— ANI (@ANI) February 18, 2026
+Earlier, top government sources told CNN-News18 that authorities became aware of Galgotias University’s claims regarding the Chinese-made robotic dog and took immediate action by asking it to vacate the venue. Sources added that the government has taken the matter seriously and that a clear message has been conveyed to all exhibitors regarding compliance and transparency at the summit.
+What’s The Matter?
+Galgotias University faced intense criticism after reports suggested that the Unitree Go2 robotic dog was displayed under the name “Orion," prompting allegations that imported technology was being presented as indigenously developed. A clip went viral showing Galgotias’ Professor Neha Singh introducing the Robodog as ‘Orion’ and saying it was developed by the Centre of Excellence of the institution.
+Political leaders also slammed the university for causing “national embarrassment" and shame by displaying Chinese-made AI robots at a high-profile tech summit hosted by India. Facing intense backlash, the university issued an official clarification, saying it had never claimed to have built the device. “Galgotias has not built this robodog, nor have we claimed to do so," it said.
+Galgotias University also came under scrutiny over a ‘soccer drone‘ it claimed to have built from scratch. However, several social media users identified it as the Striker V3 ARF, a soccer drone developed by South Korea’s Helsel Group for drone sports. The model is reportedly available for purchase in India for around Rs 40,000.
+Galgotias University strikes again.This is the Helsel Striker V3 soccer drone, made in South Korea.
+But they shamelessly claimed that it was innovated at Galgotias University and presented it at the AI Summit in Delhi.
+I have no words.
+pic.twitter.com/D1HZWzh2ai
+— Mohit Chauhan (@mohitlaws) February 18, 2026
+Additionally, the university faced fresh ridicule over a drone model entirely made of thermocol at the international summit. “Cancel this university’s UGC accreditation, they are ruining lives of its students," a user wrote.
+My dudes at Galgotia literally brought a thermocol made Drone in an international AI summit 😭Cancel this university’s UGC accreditation man , they are ruining lives of its students.pic.twitter.com/9YNggvQWYT
+— Roshan Rai (@RoshanKrRaii) February 18, 2026
+“We at Galgotias, faculty and students, are deeply pained by the propaganda campaign against our university. We would like to clearly state that the robotic programming is part of our endeavour to make students learn AI programming and develop & deploy real world skills using globally available tools and resources, given developing AI talent is need of an hour," the university in another statement.
+Later, Galgotias University Registrar Nitin Kumar Gaur said the confusion stemmed from the use of the words “develop" and “development." He clarified that the university did not develop the robot but had worked on its development for academic and research purposes.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 17:22:13 +0530
+TITLE: Green Light For Rs 80,000-Crore Great Nicobar Mega Project: NGT’s ‘Balanced Approach’ Explained
+LINK: https://www.news18.com/explainers/nod-for-rs-80000-crore-great-nicobar-mega-infra-project-ngts-balanced-approach-explained-ws-kl-9913347.html
+--------------------
+The National Green Tribunal (NGT) recently cleared the Rs 80,000-crore Great Nicobar Island mega infrastructure project, stating there were “adequate safeguards" in place.
+The tribunal’s special six-member bench, headed by Chairperson Justice Prakash Shrivastava, refused to interfere with the environmental clearance (EC) originally granted in November 2022, citing the project’s strategic national importance.
+The NGT’s decision followed a report from a High-Powered Committee (HPC), which was formed in 2023 to address earlier deficiencies in the clearance process.
+The project, spearheaded by the Andaman and Nicobar Islands Integrated Development Corporation (ANIIDCO), includes an International Container Transshipment Terminal (ICTT), a greenfield international airport, a power plant, and a township.
+The Great Nicobar Island (GNI) project, officially known as the ‘Holistic Development of Great Nicobar Island’, aims to transform India’s southernmost island into a major global maritime and strategic hub.
+The project spans 166 sq km (about 10% of the island) and includes four primary pillars:
+International Container Transshipment Terminal (ICTT): Located at Galathea Bay, this deep-sea port is the centerpiece. It aims to capture global trade passing through the Malacca Strait, reducing India’s reliance on foreign ports like Colombo and Singapore.
+Greenfield International Airport: A dual-use facility for both civilian tourism and military logistics, capable of handling wide-body aircraft.
+Integrated Township: Designed to support a future population of over 3.5 lakh people, up from the current 8,000.
+Gas & Solar Power Plant: A 450-MVA hybrid plant to provide energy self-sufficiency for the new infrastructure.
+The island is just 40 nautical miles from one of the world’s busiest shipping lanes, Malacca Strait, where 40% of global trade passes. It serves as India’s “first line of defence," providing a forward base to monitor naval movements in the Indo-Pacific, particularly countering regional influence from other powers. Currently, 75% of India’s transshipment cargo is handled outside the country. This project aims to bring that revenue and logistical control back to India.
+The project is being implemented in phases, with the first phase of the port targeted for completion by 2028.
+The tribunal on February 16 emphasised a “balanced approach," ruling that the project’s significance for national security and trade near the Malacca Strait outweighed the grounds for halting it.
+Relying on Zoological Survey of India (ZSI) findings, the NGT noted no major reefs are in the direct project footprint but mandated the translocation of approximately 16,000 coral colonies found nearby. Directives were issued to ensure no loss of sandy beaches, which are critical nesting grounds for the Leatherback sea turtle and the Nicobar megapode.
+The tribunal concluded that the project does not fall within prohibited Island Coastal Regulation Zone (ICRZ-IA) areas, dismissing petitioners’ claims of regulatory violations.
+The NGT noted that the government must adhere to welfare conditions for the Shompen (a Particularly Vulnerable Tribal Group) and Nicobarese communities, though local leaders have alleged coercion in land surrender.
+While the NGT has disposed of environmental clearance challenges, the project remains under scrutiny:
+Calcutta High Court: Forest clearance for the project is still being argued.
+Environmentalists and political figures, including Jairam Ramesh, have termed the ruling “deeply disappointing," warning of “disastrous ecological impacts" such as the felling of over 10 million trees and the displacement of indigenous tribes.
+With Agency Inputs
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 15:18:59 +0530
+TITLE: Mamata Banerjee Fact-Checked: What Bangladesh Election Data Shows On Minority Representation | Exclusive
+LINK: https://www.news18.com/india/mamata-banerjee-fact-checked-what-bangladesh-election-data-shows-on-minority-representation-exclusive-ws-kl-9913122.html
+--------------------
+Indian intelligence sources have rejected West Bengal Chief Minister Mamata Banerjee’s recent remarks citing Bangladesh’s elections in her criticism of the Election Commission of India, saying she does not have complete data about how the neighbouring country’s polls were conducted.
+Addressing the media after polls in the neighbouring country, Banerjee had said: “The election in Bangladesh was concluded peacefully. Everybody thought there will be violence. But it was done peacefully. But while India is a democratic county, its Election Commission with its ‘threat culture’, will bulldoze democracy."
+However, sources familiar with internal assessments told CNN-News18 that the picture emerging from Bangladesh’s parliamentary elections is far more complex, and troubling, particularly with regard to minority participation and representation.
+‘Deliberate Playbook’
+Intelligence inputs indicate that violence and intimidation targeting Hindus and other minorities continued for over a year, particularly in politically sensitive and border districts. Officials describe what they term a “deliberate playbook" by certain political actors aimed at inciting anti-minority sentiment, including attacks and pressure tactics designed to discourage participation.
+In several constituencies, especially in volatile regions such as Bagerhat and Gopalganj, rejections and withdrawals of minority candidates were reportedly higher, pointing to security concerns. Sources allege that in some pockets, minorities were “systematically pushed out of the system" through a mix of administrative hurdles and intimidation.
+Representation Gap In Candidate Numbers
+Data from the Bangladesh parliamentary election shows that of 2,034 candidates contesting 299 seats, only 80 were from Hindu minority backgrounds. That represents approximately 3.9 per cent of the total candidate pool, even though Hindus comprise about 8 per cent of Bangladesh’s population—effectively half their demographic share.
+In several constituencies where Hindu voters account for 15-20 per cent of the electorate, major political parties reportedly did not nominate Hindu candidates.
+Many Hindu aspirants are said to have filed nominations in significant numbers, including in minority-heavy constituencies such as Khulna-1, where eight Hindu nominees initially entered the race. However, some nomination papers were rejected on multiple grounds, while others were allegedly withdrawn under pressure.
+Most of the 80 Hindu candidates were fielded by smaller leftist parties with limited vote share. Only two to three Hindu candidates are believed to have won seats, all on tickets from the Bangladesh Nationalist Party (BNP). No major mainstream party is seen to have significantly exceeded proportional representation for Hindu candidates.
+War Of Words
+Banerjee’s comments, suggesting that India should look at how Bangladesh conducted its polls, sparked immediate backlash from the BJP and drew a firm response from the Election Commission, which defended the country’s electoral processes.
+Intelligence sources now argue that selective comparisons overlook ground realities in Bangladesh, including minority underrepresentation and reported intimidation.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 14:27:15 +0530
+TITLE: News18 Afternoon Digest: Galgotias University Asked To Vacate AI Summit Amid Row; Dwarka Crash & More
+LINK: https://www.news18.com/india/news18-afternoon-digest-galgotias-university-asked-to-vacate-ai-summit-amid-row-dwarka-crash-more-ws-l-9912235.html
+--------------------
+In today’s afternoon digest, News18 brings you the latest updates on AI Impact Summit 2026, the row over the display of a Chinese robot by Galgotias University, and more.
+Galgotias University Asked To Vacate AI Summit Expo Over China-Made Robodog Row: Sources
+‘Fun Reel Crushed His Manchester Dream’: Mother Of Dwarka Crash Victim Demands Justice
+‘It Can’t Be Clearer’: Expert Says India Struck Pakistan’s Nuclear Depot During Op Sindoor
+Emmanuel Macron’s Mumbai Jog Decoded By Harsh Goenka: Why It Matters To You
+‘Rumours Have Now Come True’: Gaurav Gogoi Alleges Bhupen Borah Leaked Congress’s Internal Info
+‘He’s Nowhere Close To…’: Babar Azam Slammed, Comparison With Virat Kohli Branded ‘Unfair’
+Kiara Advani Mourns Father-In-Law Sunil Malhotra’s Loss In Emotional Note: ‘You Welcomed Me With Open Arms…’
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 13:33:28 +0530
+TITLE: Too Noisy? Mumbai’s Melody Road Sparks Backlash Days After Launch
+LINK: https://www.news18.com/india/too-noisy-mumbais-melody-road-sparks-backlash-days-after-launch-9912240.html
+--------------------
+Mumbai’s newly opened melody road on the Coastal Road is facing backlash just two days after its inauguration. Residents of Breach Candy have written to Municipal Commissioner Bhushan Gagrani, calling the constant musical vibrations a major disturbance. A copy of the complaint has also been sent to the Maharashtra Chief Minister’s Office.
+The local residents’ forum, representing over 650 families, said the tune plays daily from 6am to midnight, adding to the existing traffic noise. They have demanded that the BMC discontinue the musical stretch. The civic body is yet to respond.
+The musical stretch is designed to play the tune ‘Jai Ho’ when vehicles strike precision rumble strips at the correct speed. It was meant to reward safe driving. However, residents in nearby densely populated neighbourhoods say it has become a constant disturbance.
+In their letter, the Breach Candy ALM and the Breach Candy Residents Forum said the amplified sound enters homes as a constant, muffled but intrusive background noise. Many residents are keeping windows shut. Senior citizens have reportedly expressed serious discomfort.
+Residents said the northbound side of the road is meant for fast-moving traffic. They argue that drivers are getting distracted by listening to the music instead of focusing on the road. Some drivers are slowing down suddenly to hear the tune, which could lead to high-speed crashes or pile-ups.
+The community said Mumbai already faces constant horn-honking and engine noise. They believe adding amplified music is unnecessary and worsens the noise problem.
+They also pointed out that the music plays near schools and hospitals, where peace and quiet are important for health and learning. The letter said residents are increasingly fatigued from raising serious civic concerns while avoidable and non-essential interventions receive attention. It added that the deafening noise from speeding supercars on the Coastal Road remains unaddressed.
+Residents have urged the civic administration to immediately review and discontinue the music initiative, calling it disruptive to daily life in the neighbourhood.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 13:19:05 +0530
+TITLE: 'Rumours Have Now Come True': Gaurav Gogoi Alleges Bhupen Borah Leaked Congress's Internal Info
+LINK: https://www.news18.com/india/gaurav-gogoi-slams-bhupen-borah-congress-resignation-joining-bjp-former-assam-congress-chief-ws-l-9912086.html
+--------------------
+Assam Congress president Gaurav Gogoi on Wednesday launched a sharp attack on former state Congress chief Bhupen Borah, questioning his decision to move towards the Bharatiya Janata Party (BJP) soon after resigning from the party and alleging that recent developments have validated long-standing suspicions within the Congress about internal information leaks.
+Reacting to Borah’s statements and his impending entry into the BJP, Gogoi said Congress leaders had earlier been troubled by how confidential discussions within the party were allegedly reaching individuals close to Chief Minister Himanta Biswa Sarma.
+“We always wondered how confidential details of our meetings were leaked to a particular journalist linked to Himanta Biswa Sarma. We tried our best not to believe in these rumours and speculation, but now these rumours have come to light, and it is true," Gogoi said.
+He further accused Borah of quickly aligning with the BJP leadership after stepping down from the Congress, saying the timing of the move has raised serious political questions.
+“A day after leaving the Congress party, Bhupen Borah has no qualms about joining the BJP and surrendering to Himanta Biswa Sarma. Why, within a day of resignation, did you join Himanta Biswa Sarma?" Gogoi asked.
+Gogoi also dismissed Borah’s criticism of the Congress as a justification for switching sides.
+“All of this is just an excuse to join the BJP. When someone joins the BJP, they are given a script, and they have to read that script," he said.
+Gogoi added that people across Assam were questioning Borah’s decision to join the BJP instead of another opposition party if he was dissatisfied within the Congress.
+“The people of Assam are thinking that if you are facing difficulties in the Congress party, then why don’t you join some other party that is fighting against the BJP? There are other parties too that are fighting against the BJP. Why did you shake hands with Himanta Biswa Sarma within just one day of resigning?" he said.
+The political row comes after Borah resigned from Congress earlier this week, triggering a major churn in Assam politics.
+Borah claimed that the state Congress unit is no longer functioning under Gogoi’s effective leadership and alleged that Dhubri MP Rakibul Hussain has become the party’s “sole base", while describing Gogoi as merely the “face of the party".
+Borah also said that the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, spoke to him at length after he submitted his resignation letter, recalling their long political association.
+Senior Congress leaders, including the party’s central leadership, had reached out to persuade him to reconsider his decision, though Borah maintained that he needed time to reflect after more than three decades in the party.
+Meanwhile, Chief Minister Himanta Biswa Sarma announced that Borah would formally join the BJP on February 22 after meeting him at his residence, publicly welcoming the former Congress leader and stating that the BJP’s doors remain open to him.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 13:11:55 +0530
+TITLE: India AI Impact Summit Expo Extended By A Day, To Continue Till February 21
+LINK: https://www.news18.com/india/india-ai-impact-summit-expo-extended-by-a-day-to-continue-till-february-21-timings-extended-delhi-expo-summit-9912170.html
+--------------------
+The government has extended the India AI Impact Summit 2026 Expo by an additional day, allowing the exhibition to remain open to the public on Saturday, February 21, in view of the large public turnout and to ensure a smoother and more comfortable experience for visitors.
+According to an official announcement, the Expo timings have already been extended till 8 pm, reflecting the growing enthusiasm among delegates and the general public attending the event at Bharat Mandapam.
+However, the Expo will remain closed to the public on Thursday, February 19, due to access-restricted events and heightened security arrangements at the venue.
+As per PTI reports, delegates attending the conference will face restricted access on Wednesday and Thursday owing to VIP movements and security protocols.
+Participants would be required to vacate the convention area by 4:30 pm as the Prime Minister is scheduled to host a dinner for state guests and business leaders later in the evening.
+Digital India Managing Director and CEO Akhil Kumar told reporters that the Expo area has drawn significant interest, prompting organisers to extend operating hours.
+“Delegates can move to the expo area after vacating the convention area. Exit will be only through Gate 4 throughout the day," Kumar said, adding that entry arrangements have been streamlined with Gate 4 designated for vehicle drop-offs and Gate 10 operational for Metro arrivals between 8 am and 4:30 pm.
+Officials also cautioned that intermittent traffic restrictions may be experienced between 4 pm and 11 pm in and around the ITPO area during summit days due to security arrangements.
+The Expo extension comes amid a major achievement for the IndiaAI Impact Summit 2026, which has entered the Guinness World Records for recording the highest number of student pledges for the responsible use of artificial intelligence within 24 hours.
+Guinness World Records adjudicator Pravin Patel announced that a total of 2,50,946 pledges were received during the summit, significantly surpassing the target of 5,000.
+Union Minister Ashwini Vaishnaw credited the initiative to Prime Minister Narendra Modi’s vision, saying outreach efforts to schools and colleges played a crucial role.
+“It was the vision of Honourable Prime Minister Narendra Modi because of which we reached out to schools and colleges for the pledge for responsible use of AI," Vaishnaw said.
+The Prime Minister is scheduled to inaugurate the main summit on February 19, with restricted entry expected during the morning inaugural session.
+Officials said the Expo area would open for all delegates from 11 am onward that day, including access to the media centre in Hall 1.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 12:42:15 +0530
+TITLE: On Cam: Pedestrian Suffers Serious Injuries After Crane Runs Over Him In Karnataka’s Udupi
+LINK: https://www.news18.com/india/on-cam-pedestrian-suffers-serious-injuries-after-crane-runs-over-him-in-karnatakas-udupi-ws-el-9912020.html
+--------------------
+A man walking along the roadside in Perampalli village in Karnataka’s Udupi was run over by a crane in broad daylight. The accident took place in front of the Herga Agricultural Service Cooperative Society. The pedestrian sustained serious injuries and was rushed to a nearby private hospital for treatment.
+According to preliminary reports, the crane driver allegedly swerved the vehicle to avoid an oncoming car and, in the process, ran over the man walking alone along the roadside. The horrific incident was captured on CCTV.
+In the video, the man can be seen coming under the vehicles of the crane. The footage shows the driver halting his vehicle for a brief moment after the man was run over but he soon resumed his journey without checking on the man. A few moments later, the pedestrian managed to regain his senses, visibly struggling to get up. It is to be noted that the vehicle was moving in a moderate speed when the accident occurred.
+The driver reportedly fled the scene immediately after the accident. So far, no arrests have been made as
+authorities continue to examine the footage to trace the driver.
+Crane Crushes Man To Death In Rajasthan
+Earlier in January, an elderly farmer, Kailash Gurjar (56), was crushed to death by a speeding crane on the service road of the Jaipur-Agra National Highway in Dausa, Rajasthan. According to police, Gurjar was walking home from Manpur Chauraha Market when the crane hit him from behind, and its wheels ran over his body. He was declared dead on the spot. The driver fled, and authorities launched a search based on a complaint filed by Gurjar’s son.
+Residents in both areas have raised concerns over the reckless operation of cranes and other heavy vehicles. Along busy service roads and near industrial units, large vehicles frequently move at high speeds, posing serious risks to pedestrians. Locals have demanded stricter enforcement of traffic rules and accountability for drivers of such heavy machinery to prevent any untoward incident in the future.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 12:34:20 +0530
+TITLE: Google CEO Sundar Pichai Meets PM Modi On Sidelines Of AI Impact Summit 2026
+LINK: https://www.news18.com/india/google-ceo-sundar-pichai-meets-pm-modi-at-ai-impact-summit-2026-in-delhi-9911960.html
+--------------------
+Amid the sidelines of the Global AI Impact Summit 2026, Google CEO Sundar Pichai on Wednesday met Prime Minister Narendra Modi in the national capital.
+Pichai arrived in New Delhi to attend the India AI Impact Summit 2026 and is set to deliver the keynote address on February 20 at the event.
+#WATCH | #IndiaAIImpactSummit2026 | Prime Minister Narendra Modi meets Google CEO Sundar Pichai in Delhi.(Source: DD News) pic.twitter.com/JNjMaOa0ux
+— ANI (@ANI) February 18, 2026
+Following his arrival in India, the Google CEO took to X and wrote, “Nice to be back in India for the AI Impact Summit – a very warm welcome as always and the papers looked great too."
+The India AI Impact Summit — the first global AI summit to be hosted in the Global South — aims to reflect on the transformative potential of AI aligning with the national vision of “Sarvajana Hitaya, Sarvajana Sukhaya" (welfare for all, happiness for all) and the global principle of AI for Humanity.
+Talking about the summit, Prime Minister Modi spoke about the growing impact of Artificial Intelligence (AI) on the IT industry and the government’s strategy to strengthen the sector.
+“India’s IT sector has been the backbone of our services exports and a key driver of economic growth. AI presents both a tremendous opportunity and a challenge for this sector. AI market projections show India’s IT sector could reach $400 billion by 2030, driven by new waves of AI-enabled outsourcing and domain-specific automation," he said.
+The Summit will have participation of more than 110 countries, 30 International organizations, including about 20 HoS/HoG level participation, about 45 Ministers.
+(With agency inputs)
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 12:22:02 +0530
+TITLE: PM Modi Holds Bilateral Talks With Spanish President Sanchez On Sidelines Of AI Summit 2026
+LINK: https://www.news18.com/india/pm-modi-holds-bilateral-talks-with-spanish-president-sanchez-on-sidelines-of-ai-summit-2026-9911954.html
+--------------------
+Prime Minister Narendra Modi on Wednesday met with Spanish President Pedro Sánchez Pérez-Castejón at Hyderabad House in New Delhi amid high-level engagements at the ongoing India AI Impact Summit 2026.
+The meeting between the two leaders followed President Sanchez’s arrival in the national capital to participate in the prestigious summit, being held at Bharat Mandapam. The Spanish President was warmly welcomed at the airport by Minister of State for Skills Development and Entrepreneurship Jayant Singh.
+Extending greetings to President Sanchez, Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal wrote in a post on ‘X’, “Welcome, President of Spain, Mr. Pedro Sanchez Perez-Castejon @sanchezcastejon for the India-AI Impact Summit. Warmly received by Minister of State for Skills Development and Entrepreneurship @jayantrld.
+“The visit of President Sanchez will add further impetus to the ongoing celebrations of India-Spain Dual Year of Culture, Tourism and AI", he added.
+In a separate post, Randhir Jaiswal stated that PM Modi and President Sanchez discussed a wide range of topics, involving trade and economy, digital, innovation, health, climate action, and more.
+“PM @narendramodi held bilateral meeting with President @sanchezcastejon of Spain during his visit to New Delhi to attend the AI Impact Summit 2026. Both leaders discussed a wide range of issues aimed at deepening India-Spain partnership", the post read.
+PM @narendramodi held bilateral meeting with President @sanchezcastejon of Spain during his visit to New Delhi to attend the AI Impact Summit 2026.Both leaders discussed a wide range of issues aimed at deepening India-Spain partnership.
+Key areas discussed include trade and… pic.twitter.com/KAjmZucYBz
+— Randhir Jaiswal (@MEAIndia) February 18, 2026
+“Key areas discussed include trade and economy, digital, innovation, health, climate action and education among others. PM conveyed his appreciation for Spain’s consistent support for strong India-EU relations", it added.
+AI IMPACT SUMMIT 2026
+The AI Impact Summit 2026 — being held at Bharat Mandapam in New Delhi — commenced on February 16 and will conclude on February 20.
+As the first global AI summit hosted in the Global South, it is being famed as a platform to strengthen the nation’s position in the AI governance.
+The summit focuses on AI’s transformative potential, falling in line with India’s national vision of “Sarvajana Hitaya, Sarvajana Sukhaya" (welfare for all, happiness for all). The prestigious summit features participation from more than 110 countries and 30 international organisations.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 13:37:06 +0530
+TITLE: What Is Galgotias? Location, Fame, Key Alumni As Robodog Fiasco Boots University From Delhi AI Summit
+LINK: https://www.news18.com/education-career/what-is-galgotias-location-fame-alumni-amid-robodog-fiasco-at-delhi-ai-summit-aa-ws-l-9911669.html
+--------------------
+Big technology events are often seen as a stage to show what the future looks like. Universities, startups and companies bring their latest ideas in a hope to impress experts and policymakers.  That is what happened at the India AI Impact Summit 2026 in Delhi where Galgotias University found itself in the middle of a debate.
+Government sources said on Wednesday, February 18, that the university had been asked to vacate the expo venue immediately. The move came after questions were raised about a robotic dog displayed at the summit.
+What Sparked Galgotias University’s Robotic Dog Controversy?
+The issue began when a robotic dog named “ORION" was presented at the summit. A video showed a faculty member demonstrating the robot which caught widespread attention online. Soon after, social media users claimed that the device looked exactly like the Unitree Go2, a commercially available robotic dog made by a Chinese company.
+This led to accusations that the university was presenting an imported product as its own innovation. The controversy grew because the display was linked to the university’s larger Rs 350 crore AI ecosystem investment.
+How Did The University Respond?
+As the debate picked up pace online, the university issued a clarification. It said that it had never “claimed" to have built the robotic dog. According to the statement, the device was purchased from China-based Unitree for academic purposes and student learning.
+“The recently acquired robodog from Unitree is one such step in that journey. It is not merely a machine on display; it is a classroom in motion. Our students are experimenting with it, testing its limits and, in the process, expanding their own knowledge. Let us be clear: Galgotias has not built this robodog, nor have we ever claimed to. Let us be clear – Galgotias has not built this robodog, neither have we claimed. But what we are building are minds that will soon design, engineer, and manufacture such technologies right here in Bharat," the statement read which was shared by the university’s official X (formerly Twitter) handle.
+pic.twitter.com/cgBbhld876— Galgotias University (@GalgotiasGU) February 17, 2026
+What Were The Broader Criticisms?
+The controversy did not remain limited to just the robot. Critics began questioning how projects are selected for display at national-level technology events. Concerns about whether imported, off-the-shelf products should be showed at such summits were also raised.
+The debate also extended to government-backed innovation funding and patent support.
+What Is Galgotias University’s AI Ecosystem Investment?
+At the centre of the discussion is the university’s announcement of investing over Rs 350 crore in building an AI ecosystem. This has been described as the largest investment of its kind by a private university in India.
+The investment was made with an aim to create strong infrastructure for AI education, research and real-world applications.
+What Are The Core Infrastructure And Key Components Of University’s AI Push?
+A high-end computing setup powered by NVIDIA’s DGX H200 supercomputing platform is the major part of its AI push. It is designed to handle large-scale AI model training across areas like data science, machine learning and computer vision.
+The campus also houses Centres of Excellence focused on applied research, patents and startup support. Students and researchers are given access to high-performance computing tools for interdisciplinary projects. The curriculum is reportedly aligned with industry needs and supported by enterprise-level technology.
+What About The Strategic Goals?
+Dhruv Galgotia, CEO of Galgotias University, has stated that the long-term goal is to help position India as a global leader in AI. He said that the emphasisis is on building real national capability in advanced technologies.
+What Is Galgotias University Famous For?
+Galgotias University is a private institution that is located in Greater Noida. It is known for its engineering and technology programs.
+The university has over 20,000 students and 80,000 alumni worldwide. In engineering, it has been ranked in the 101–150 band in the National Institutional Ranking Framework (NIRF) ankings.
+Why Is Galgotias University Popular?
+The university attracts a large number of students because of its industry connections and NAAC A+ accreditation. Tech giants like Infosys, TCS, Amazon, Google and Cisco are known to hire from the campus.
+Who Are Some Notable Alumni?
+Several graduates have built successful careers in technology and business. Some former students now work at global companies such as Google and Cisco. There are also entrepreneurs among its alumni, including founders and CEOs in the tech and startup space.
+What Are The Best Courses Offered?
+The university’s strongest programs are in technology. B.Tech in Computer Science and Engineering especially with AI and machine learning specialisations, remains one of the most sought-after courses.
+Apart from engineering, it also offers MBA and core engineering branches like Mechanical and Civil.
+What Are Galgotias University’s AI Contributions?
+Beyond the current controversy, the university positions itself as a major private investor in AI education in India. The Rs 350 crore ecosystem includes advanced labs in areas such as semiconductors and drone intelligence.
+Students and startups associated with the university were also showcased at the AI Impact Summit 2026. Despite the debate around the robotic dog, the institution continues to project itself as a serious player in India’s growing AI landscape.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 14:54:12 +0530
+TITLE: Galgotias University Asked To Vacate AI Summit Expo Over China-Made Robodog Row: Sources
+LINK: https://www.news18.com/india/galgotias-university-asked-to-vacate-ai-summit-expo-over-china-made-robodog-row-sources-9911746.html
+--------------------
+Galgotias University has been asked to vacate the Delhi AI Summit expo venue immediately, government sources said on Wednesday, amid the controversy over the display of a Chinese-made robotic dog at the ongoing event in the national capital.
+The development comes a day after the university issued a clarification stating that the robotic dog showcased at the summit was procured from China-based Unitree and that it had “never claimed" to have built the device.
+Top government sources said authorities became aware of Galgotias University’s claims regarding the Chinese-made robotic dog and took immediate action. The university was instructed to vacate the venue the same day.
+Sources added that the government has taken the matter seriously and that a clear message has been conveyed to all exhibitors regarding compliance and transparency at the summit.
+Later, power was also cut off at the Galgotias University pavilion at the AI Summit after after the government directive came.
+VIDEO | Delhi: Power has reportedly been cut off at the Galgotias University pavilion at the AI Summit after it was asked to vacate the expo following a row over the display of a robotic dog.(Full video available on PTI Videos – https://t.co/n147TvrpG7) pic.twitter.com/j5rOrSWfF0
+— Press Trust of India (@PTI_News) February 18, 2026
+They also alleged that sections of the opposition were attempting to politicise the issue, claiming they were unsettled by the success of the first-ever AI Summit in India.
+The institution had faced criticism after reports suggested that the Unitree Go2 robotic dog was displayed under the name “Orion," prompting allegations that imported technology was being presented as indigenously developed.
+In its earlier statement, the university had said, “Let us be clear, Galgotias has not built this robodog, nor have we claimed to do so. What we are building are minds that will soon design, engineer and manufacture such technologies in Bharat." It also maintained that the device was acquired for academic purposes and used as a learning tool for students.
+The controversy triggered a social media backlash, with several users accusing the institution of misrepresenting the origin of the AI-powered robotic dog. Responding to the criticism, Galgotias University had said it routinely brings global technologies to campus to expose students to cutting-edge innovation and that its focus remains on fostering indigenous capabilities in the long run.
+Government sources, however, indicated that following the episode, the university has now been directed to vacate the AI Summit expo space. The AI Impact Summit, which brings together policymakers, industry leaders and innovators, continues at Bharat Mandapam under heightened scrutiny.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Thu, 19 Feb 2026 08:07:37 +0530
+TITLE: Chhatrapati Shivaji Maharaj Jayanti 2026: Banks, Schools & Offices Open Or Closed In Mumbai On February 19?
+LINK: https://www.news18.com/india/chhatrapati-shivaji-maharaj-jayanti-2026-whats-open-closed-mumbai-february-19-aa-ws-kl-9911650.html
+--------------------
+Chhatrapati Shivaji Maharaj Jayanti is observed every year on February 19 to mark the birth anniversary of Chhatrapati Shivaji Maharaj. He was the founder of the Maratha Empire and is remembered as one of India’s most respected rulers. Known for his courage and strong leadership, he fought several battles and built a powerful kingdom.
+He was crowned as the “Chhatrapati (Emperor)" in 1674. His ideas, leadership style, and words still inspire people across the country. In Maharashtra, the day is celebrated with pride, and many events are organised to honour his legacy.
+February 19 is a public holiday in Maharashtra. In Mumbai, several services and offices remain closed for the day, while some essential services continue to function. Residents and visitors should plan their schedules accordingly.
+Public transport in Mumbai, including buses, local trains, and taxis, will operate normally. Commuters can travel without worrying about service disruptions. Metro services are also expected to run as per their regular schedule.
+Essential services such as hospitals, clinics, pharmacies and emergency services will remain open. Medical staff and emergency responders will be available throughout the day to handle any urgent needs.
+All government offices in Mumbai will stay closed on February 19 in observance of the holiday. This includes municipal offices and other state-run departments.
+Banks across Maharashtra will also not operate, as per the Reserve Bank of India’s holiday calendar. Customers are advised to complete important banking work in advance or use online banking services where possible.
+Government-run schools and colleges will remain closed. Private educational institutions may decide independently whether to declare a holiday, so students and parents should check with their respective schools or colleges.
+Private offices and businesses may follow different schedules. Some companies may close to mark the occasion, while others may continue operations. It is best to confirm with the concerned workplace.
+Across the city, cultural events, processions and local programmes are usually held to celebrate the life and achievements of Chhatrapati Shivaji Maharaj. Devotees of Chhatrapati Shivaji Maharaj join processions and rallies held in his honour, with dhol beats and music filling the streets of cities like Mumbai, Pune, Nashik and Kolhapur.
+Many also visit important forts connected to his life, including those at Shivneri, Raigad and Pratapgad, to pay their respects and remember his legacy.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 10:26:16 +0530
+TITLE: Lost & Found Within 24 Hours: Startup Devices Stolen From AI Impact Summit In Delhi Recovered
+LINK: https://www.news18.com/india/startup-devices-neosapien-stolen-from-india-ai-impact-summit-in-delhi-recovered-within-24-hours-9911538.html
+--------------------
+Hours after Delhi Police registered an FIR in connection with the alleged theft of AI wearable devices during the ongoing India AI Impact Summit, the Bengaluru-based AI startup founder confirmed that the devices have been recovered — nearly 24 hours after he first flagged the incident.
+The start-up founder on Tuesday alleged that the company’s wearable devices were stolen from inside a “high-security zone" at the India AI Impact Summit, being held at Bharat Mandapam in the national capital.
+Two individuals have been identified who were present at the AI Summit to work. They are investigating whether this is a case of theft or if the wearables were mistakenly taken away, India Today reported, citing police sources.
+Giving an update on the theft incident, Dhananjay Yadav, founder of NeoSapien, took to social media and informed that the devices were traced swiftly following police action.
+“Just wanted to update everyone, our devices have been recovered. Huge thanks to Delhi Police for the superfast response and support. Truly grateful for all the messages, help, and encouragement we’ve received over the last two days, it means a lot to me," he wrote in a post on X.
+Just wanted to update everyone, our devices have been recovered.Huge thanks to Delhi Police for the super fast response and support.
+Truly grateful for all the messages, help, and encouragement we’ve received over the last two days, it means a lot to me🙏.
+— Dhananjay Yadav (@imDhananjay) February 17, 2026
+In a shocking incident, the founder of NeoSapien on Tuesday claimed that a theft occurred during the India AI Impact Summit after exhibitors were asked to vacate their stalls ahead of Prime Minister Narendra Modi’s visit.
+“Day 1 of the AI Impact Summit turned to be a pain for us," Dhananjay Yadav wrote on X. “I came genuinely excited… it was the first time the summit was being hosted in India, and I wanted to show up personally to support the ecosystem and the government’s push."
+He said that at around 12 noon, security personnel arrived to sanitise and cordon off the area ahead of the Prime Minister’s scheduled visit at 2 pm. “I explained that we’re building India’s first patented AI wearable at NeoSapien and requested a chance to showcase it," he said.
+Yadav further highlighted “lack of co-ordination between the security" and said that while one officer allegedly allowed him to stay, another group later ordered him and his team to leave immediately.
+“I asked: ‘Should we take our wearables?’ They said, others are leaving even laptops behind, security will take care. Trusting them, I left. Hoping that the wearables will be safe, and if I am lucky, it might catch the eye of PM Modi," he wrote, adding that the gates were closed from 12 pm to 6 pm — “much, much longer than expected."
+When they were allowed back in, he claimed, the devices were gone.
+“Later we found out that our wearables were stolen," he wrote. “Only to see our wearables disappear inside a high-security zone. If only security and official entourage had access, how did this happen? This is extremely disappointing."
+Day 1 of the AI Impact Summit turned to be a pain for us.I came genuinely excited, it was the first time the summit was being hosted in India, and I wanted to show up personally to support the ecosystem and the government’s push.
+But what happened next was shocking.
+At 12… pic.twitter.com/9gVygparq0
+— Dhananjay Yadav (@imDhananjay) February 16, 2026
+Following the complaint, Delhi Police registered an FIR in connection with the reported theft. Delhi Police managed to recover the stolen goods within a little over 24 hours.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 18 Feb 2026 09:54:08 +0530
+TITLE: RSS Chief Mohan Bhagwat Renews Call For United Hindu Society, Backs Three-Child Policy
+LINK: https://www.news18.com/india/rss-chief-mohan-bhagwat-renews-call-for-united-hindu-society-backs-three-child-policy-9911565.html
+--------------------
+Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat on Tuesday reiterated that Hindu families should consider having at least three children. He was addressing a social-harmony meeting at Saraswati Shishu Mandir in Lucknow.
+Bhagwat expressed concern over what he described as a declining Hindu population and called for uniting and empowering Hindu society. He said there is no threat but vigilance is necessary.
+“There is a need to unite and empower Hindus. There is no threat to us but vigilance is necessary," Bhagwat said.
+Bhagwat said Hindu families should consider at least three children. He cited scientific opinions that societies with an average fertility rate below three could disappear in the future.
+He said newly married couples should be made aware of this. According to him, the purpose of marriage is to carry forward creation, not merely to fulfil personal desires.
+Raising concerns over infiltration, Bhagwat said infiltrators should be detected, deleted and deported, and not given employment.
+He stressed that lack of harmony leads to discrimination and said all citizens share one country and one motherland. He described Sanatan thought as a philosophy of harmony and said differences must be addressed through understanding and practice.
+Responding to a question on UGC guidelines, Bhagwat said laws must be obeyed and flawed laws can be changed through constitutional means.
+He said caste divisions should not cause conflict and called for uplifting the disadvantaged with a sense of belonging. Bhagwat added that India would guide the world in the near future and that many global problems have solutions in the country’s civilisational ethos.
+He also cautioned that some elements in the United States and China are working against India’s social harmony and called for vigilance and mutual trust.
+Latest Blogs
+==================================================
