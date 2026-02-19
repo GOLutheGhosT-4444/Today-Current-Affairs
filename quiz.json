@@ -1,722 +1,854 @@
 [
     {
-        "q": "What is Odisha's target for increasing its contribution to national Gross Domestic Product (GDP)?",
-        "a": "5%",
+        "q": "What is the primary reason stated for Bill Gates not delivering his keynote address at the India AI Impact Summit?",
+        "a": "To ensure the focus remains on the AI Summit\u2019s key priorities.",
         "options": [
-            "4%",
-            "3%",
-            "5%",
-            "6%",
-            "4.5%"
+            "Due to health concerns.",
+            "To avoid questions about past associations.",
+            "To ensure the focus remains on the AI Summit\u2019s key priorities.",
+            "Scheduling conflict with another global event.",
+            "Lack of adequate security arrangements."
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "What average annual growth rate does Odisha aim to achieve?",
-        "a": "9.5%",
+        "q": "In which year was the Gates Foundation, co-founded by Bill Gates, established?",
+        "a": "2000",
         "options": [
-            "9%",
-            "8.5%",
-            "9.5%",
-            "10%",
-            "8%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What per capita income does Odisha target to achieve by 2047?",
-        "a": "Rs 32 lakh",
-        "options": [
-            "Rs 30 lakh",
-            "Rs 31 lakh",
-            "Rs 32 lakh",
-            "Rs 33 lakh",
-            "Rs 32.5 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To what percentage does Odisha aim to reduce multidimensional poverty by 2047?",
-        "a": "5%",
-        "options": [
-            "4%",
-            "6%",
-            "5%",
-            "7%",
-            "4.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the approved investment for the Rameshwar\u2013Paradip Coastal Highway?",
-        "a": "\u20b98,300 crore",
-        "options": [
-            "\u20b98,290 crore",
-            "\u20b98,310 crore",
-            "\u20b98,300 crore",
-            "\u20b98,295 crore",
-            "\u20b98,305 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the investment for the 6-lane access-controlled Greenfield Capital Region Ring Road (Bhubaneswar Bypass)?",
-        "a": "\u20b98,308 crore",
-        "options": [
-            "\u20b98,298 crore",
-            "\u20b98,318 crore",
-            "\u20b98,308 crore",
-            "\u20b98,303 crore",
-            "\u20b98,313 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the country's total iron ore production did Odisha contribute in 2024\u201325?",
-        "a": "Over 61%",
-        "options": [
-            "Over 60%",
-            "Over 62%",
-            "Over 61%",
-            "Over 60.5%",
-            "Over 61.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many operational steel plants does Odisha currently have?",
-        "a": "55",
-        "options": [
-            "54",
-            "56",
-            "55",
-            "53",
-            "57"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total installed capacity of steel in Odisha in Million Tonnes Per Annum (MTPA)?",
-        "a": "45.62 MTPA",
-        "options": [
-            "45.52 MTPA",
-            "45.72 MTPA",
-            "45.62 MTPA",
-            "45.57 MTPA",
-            "45.67 MTPA"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the country\u2019s total installed steel capacity does Odisha account for?",
-        "a": "Nearly 23%",
-        "options": [
-            "Nearly 22%",
-            "Nearly 24%",
-            "Nearly 23%",
-            "Nearly 22.5%",
-            "Nearly 23.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is Odisha's target contribution to the national target of 300 million tonnes of steel by 2030?",
-        "a": "100 million tonnes",
-        "options": [
-            "90 million tonnes",
-            "110 million tonnes",
-            "100 million tonnes",
-            "95 million tonnes",
-            "105 million tonnes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Maoist cadres were neutralised in Odisha in the last 5 years?",
-        "a": "48",
-        "options": [
-            "47",
-            "49",
-            "48",
-            "46",
-            "50"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many persons were booked by Vellore North police over the chariot incident?",
-        "a": "27",
-        "options": [
-            "26",
-            "28",
-            "27",
-            "25",
-            "29"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many persons were injured when the temple chariot toppled during the Mayana Kollai festival?",
-        "a": "7",
-        "options": [
-            "6",
-            "8",
-            "7",
-            "5",
-            "9"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the reported height of the temple chariots during the Mayana Kollai festival in Vellore?",
-        "a": "60 feet",
-        "options": [
-            "50 feet",
-            "65 feet",
-            "60 feet",
-            "55 feet",
-            "62 feet"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many jobs does Opella Healthcare expect to create within the next year with its Hyderabad GCC expansion?",
-        "a": "Up to 500",
-        "options": [
-            "Up to 400",
-            "Up to 600",
-            "Up to 500",
-            "Up to 450",
-            "Up to 550"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many jobs is Vaksindo Animal Health's new BSL-3 vaccine manufacturing facility expected to generate?",
-        "a": "About 300",
-        "options": [
-            "About 200",
-            "About 400",
-            "About 300",
-            "About 250",
-            "About 350"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To how many employees does Tredence Inc. plan to grow its workforce in Telangana by 2027?",
-        "a": "Over 2,200",
-        "options": [
-            "Over 2,000",
-            "Over 2,300",
-            "Over 2,200",
-            "Over 2,100",
-            "Over 2,250"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated investment for Rx Propellant's new large-format Life Sciences campus in Genome Valley?",
-        "a": "\u20b91,000 crore",
-        "options": [
-            "\u20b9990 crore",
-            "\u20b91,010 crore",
-            "\u20b91,000 crore",
-            "\u20b9995 crore",
-            "\u20b91,005 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many jobs are likely to be generated by Rx Propellant's Life Sciences campus project?",
-        "a": "5,000",
-        "options": [
-            "4,000",
-            "6,000",
-            "5,000",
-            "4,500",
-            "5,500"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In how many locations did the Congress government allegedly sanction government land for Congress Bhavans?",
-        "a": "31",
-        "options": [
-            "30",
-            "32",
-            "31",
-            "29",
-            "33"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the market value of the 4,404 sq. m. CA site in Chickballapur that was allocated for \u20b920.42 lakh?",
-        "a": "\u20b94.08 crore",
-        "options": [
-            "\u20b93.98 crore",
-            "\u20b94.18 crore",
-            "\u20b94.08 crore",
-            "\u20b94.03 crore",
-            "\u20b94.13 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the market value of the 613 sq. m. government land in Badami sanctioned for \u20b91.22 lakh?",
-        "a": "\u20b924.52 lakh",
-        "options": [
-            "\u20b924.42 lakh",
-            "\u20b924.62 lakh",
-            "\u20b924.52 lakh",
-            "\u20b924.47 lakh",
-            "\u20b924.57 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the market value of the land in Mandya sanctioned for \u20b97.28 lakh?",
-        "a": "\u20b91.45 crore",
-        "options": [
-            "\u20b91.35 crore",
-            "\u20b91.55 crore",
-            "\u20b91.45 crore",
-            "\u20b91.40 crore",
-            "\u20b91.50 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "At what rate per acre was land allotted to Chanakya University, compared to its market value of \u20b910 crore per acre?",
-        "a": "\u20b950 lakh per acre",
-        "options": [
-            "\u20b940 lakh per acre",
-            "\u20b960 lakh per acre",
-            "\u20b950 lakh per acre",
-            "\u20b945 lakh per acre",
-            "\u20b955 lakh per acre"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total budget allocated for 2026\u201327 in Andhra Pradesh?",
-        "a": "\u20b93.32 lakh crore",
-        "options": [
-            "\u20b93.31 lakh crore",
-            "\u20b93.33 lakh crore",
-            "\u20b93.32 lakh crore",
-            "\u20b93.315 lakh crore",
-            "\u20b93.325 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the debt inherited by the TDP-led coalition government in Andhra Pradesh?",
-        "a": "\u20b99,75,000 crore",
-        "options": [
-            "\u20b99,74,000 crore",
-            "\u20b99,76,000 crore",
-            "\u20b99,75,000 crore",
-            "\u20b99,74,500 crore",
-            "\u20b99,75,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What were the pending liabilities inherited by the TDP-led coalition government in Andhra Pradesh?",
-        "a": "\u20b91,35,000 crore",
-        "options": [
-            "\u20b91,34,000 crore",
-            "\u20b91,36,000 crore",
-            "\u20b91,35,000 crore",
-            "\u20b91,34,500 crore",
-            "\u20b91,35,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated annual cost to the State exchequer for increasing old-age pensions to \u20b94,000 per month in Andhra Pradesh?",
-        "a": "Around \u20b927,000 crore",
-        "options": [
-            "Around \u20b926,000 crore",
-            "Around \u20b928,000 crore",
-            "Around \u20b927,000 crore",
-            "Around \u20b926,500 crore",
-            "Around \u20b927,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the allocation for the Amaravati project in the Andhra Pradesh budget?",
-        "a": "\u20b96,000 crore",
-        "options": [
-            "\u20b95,900 crore",
-            "\u20b96,100 crore",
-            "\u20b96,000 crore",
-            "\u20b95,950 crore",
-            "\u20b96,050 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many people attended the India AI Impact Summit on its opening day?",
-        "a": "More than 70,000",
-        "options": [
-            "More than 60,000",
-            "More than 80,000",
-            "More than 70,000",
-            "More than 65,000",
-            "More than 75,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the anticipated investment for the H-125 helicopter programme in Vemagal?",
-        "a": "Exceed \u20b91,000 crore",
-        "options": [
-            "Exceed \u20b9990 crore",
-            "Exceed \u20b91,010 crore",
-            "Exceed \u20b91,000 crore",
-            "Exceed \u20b9995 crore",
-            "Exceed \u20b91,005 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many H125 light helicopters are planned to be manufactured over the next 20 years at the Vemagal facility?",
-        "a": "500",
-        "options": [
-            "400",
-            "600",
-            "500",
-            "450",
-            "550"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much has been earmarked as revolving funds and micro-credit support for mangrove conservation committees under the TN-SHORE scheme?",
-        "a": "\u20b91.7 crore",
-        "options": [
-            "\u20b91.6 crore",
-            "\u20b91.8 crore",
-            "\u20b91.7 crore",
-            "\u20b91.65 crore",
-            "\u20b91.75 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the announced cost for purchasing 12,087 buses for Tamil Nadu's public transport system?",
-        "a": "\u20b96,121 crore",
-        "options": [
-            "\u20b96,120 crore",
-            "\u20b96,122 crore",
-            "\u20b96,121 crore",
-            "\u20b96,119 crore",
-            "\u20b96,121.5 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who inaugurated the roundtable discussion on Kerala\u2019s development at the C. Achutha Menon Centre?",
-        "a": "K.N. Balagopal",
-        "options": [
-            "K.N. Balagopalan",
-            "K.N. Balakrishnan",
-            "K.N. Balagopal",
-            "K.N. Gopalakrishnan",
-            "K.P. Balagopal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who addressed the Odisha State Assembly's Budget session on February 17, 2026?",
-        "a": "Hari Babu Kambhampati",
-        "options": [
-            "Hari Babu Kambar",
-            "Hari Babu Kambampati",
-            "Hari Babu Kambhampati",
-            "Hari Krishna Kambhampati",
-            "Hari Babu Kambhapatri"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the SP (Vellore) who stated that strict action would be taken against those violating laws in the chariot incident?",
-        "a": "N.U. Sivaraman",
-        "options": [
-            "N.V. Sivaraman",
-            "M.U. Sivaraman",
-            "N.U. Sivaraman",
-            "N.U. Sivaram",
-            "N.K. Sivaraman"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In whose presence were projects announced on Day One of BioAsia 2026 in Hyderabad?",
-        "a": "A. Revanth Reddy",
-        "options": [
-            "K. Chandrashekar Rao",
-            "A. Revant Reddy",
-            "A. Revanth Reddy",
-            "A. Revanth Rai",
-            "A. Revanth Varma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Technology Officer and co-founder of Tredence Inc.?",
-        "a": "Sumit Mehra",
-        "options": [
-            "Sunil Mehra",
-            "Sameer Mehra",
-            "Sumit Mehra",
-            "Suman Mehra",
-            "Suresh Mehra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who accused the Congress government of illegally sanctioning government land at throwaway prices for Congress Bhavans?",
-        "a": "Chalavadi Narayanaswamy",
-        "options": [
-            "Chalavadi Narayanaswami",
-            "Chalawadi Narayanaswamy",
-            "Chalavadi Narayanaswamy",
-            "Chalavadi Narayanamurthy",
-            "Chandravadi Narayanaswamy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was credited by MLA K. Murali Mohan for the allocation of significant funds to mango farmers?",
-        "a": "N. Chandrababu Naidu",
-        "options": [
-            "N. Chandrababu Naidu",
-            "Y.S. Jagan Mohan Reddy",
-            "Pawan Kalyan",
-            "N. Chandrababu Naidoo",
-            "N. Chandrasekhar Naidu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the chief guest at the second convocation ceremony of AIIMS, Mangalagiri?",
-        "a": "Anupriya Patel",
-        "options": [
-            "Anupriya Patell",
-            "Anupriya Patil",
-            "Anupriya Patel",
-            "Anuprita Patel",
-            "Anupriya Prasad"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was present at the inauguration of India's first private-sector helicopter Final Assembly Line for the Airbus H125 at Vemagal?",
-        "a": "Rajnath Singh",
-        "options": [
-            "Amit Shah",
-            "Nirmala Sitharaman",
-            "Rajnath Singh",
-            "Piyush Goyal",
-            "Ajit Doval"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who represented France at the inauguration of the Airbus H125 FAL in Vemagal, along with PM Narendra Modi?",
-        "a": "Catherine Vautrin",
-        "options": [
-            "Catherine Vautrin",
-            "Catherine Vautrine",
-            "Catharine Vautrin",
-            "Christine Vautrin",
-            "Caroline Vautrin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where was the roundtable discussion on Kerala\u2019s development held?",
-        "a": "C. Achutha Menon Centre",
-        "options": [
-            "C. Achutha Menon Convention Centre",
-            "C. Achutha Menon Foundation",
-            "C. Achutha Menon Centre",
-            "C. Achutha Menon Hall",
-            "C. Achutha Menon Institute"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The second convocation ceremony of which AIIMS institute was held on February 17, 2026?",
-        "a": "AIIMS, Mangalagiri",
-        "options": [
-            "AIIMS, Vijayawada",
-            "AIIMS, Guntur",
-            "AIIMS, Mangalagiri",
-            "AIIMS, Visakhapatnam",
-            "AIIMS, Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What was the venue for the India AI Impact Summit?",
-        "a": "Bharat Mandapam",
-        "options": [
-            "Pragati Maidan",
-            "India Expo Centre",
-            "Bharat Mandapam",
-            "Vigyan Bhawan",
-            "India International Centre"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was India\u2019s first private-sector helicopter Final Assembly Line for the Airbus H125 inaugurated?",
-        "a": "Vemagal in Karnataka",
-        "options": [
-            "Vengal in Karnataka",
-            "Vemagal in Kerala",
-            "Vemagal in Karnataka",
-            "Vemgal in Andhra Pradesh",
-            "Vemagal in Tamil Nadu"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did Chief Minister M.K. Stalin lay the foundation for the International Dugong Conservation Centre?",
-        "a": "Thanjavur",
-        "options": [
-            "Chennai",
-            "Rameswaram",
-            "Thanjavur",
-            "Kochi",
-            "Karaikal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "By which year does Odisha target to raise its per capita income to Rs 32 lakh?",
-        "a": "2047",
-        "options": [
-            "2045",
-            "2048",
-            "2047",
-            "2046",
-            "2049"
+            "1998",
+            "2002",
+            "2000",
+            "1995",
+            "2005"
         ],
         "cat": "When"
     },
     {
-        "q": "By which year is Odisha positioning itself to contribute 100 million tonnes of steel towards the national target?",
-        "a": "2030",
+        "q": "Which major global tech company is referred to as the 'world's most valuable company' in the news text?",
+        "a": "Nvidia",
         "options": [
-            "2029",
-            "2031",
-            "2030",
-            "2028",
-            "2032"
+            "Google",
+            "Microsoft",
+            "Apple",
+            "Amazon",
+            "Nvidia"
         ],
-        "cat": "When"
+        "cat": "Who"
     },
     {
-        "q": "In which year was the Odisha State Road Policy implemented?",
-        "a": "2025",
+        "q": "Where is Google planning to construct its largest AI data centre hub outside the United States?",
+        "a": "Visakhapatnam, Andhra Pradesh",
+        "options": [
+            "New Delhi",
+            "Bengaluru, Karnataka",
+            "Mumbai, Maharashtra",
+            "Visakhapatnam, Andhra Pradesh",
+            "Hyderabad, Telangana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the total investment announced by Google in October for its AI data centre hub outside the United States?",
+        "a": "$15 billion",
+        "options": [
+            "$10 billion",
+            "$20 billion",
+            "$15 billion",
+            "$12 billion",
+            "$18 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which country leapt to third place in an annual global ranking of AI competitiveness, according to Stanford University researchers?",
+        "a": "India",
+        "options": [
+            "United States",
+            "China",
+            "South Korea",
+            "Japan",
+            "India"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the expected total investment in India's AI sector over the next two years, as stated by IT minister Ashwini Vaishnaw?",
+        "a": "More than $200 billion",
+        "options": [
+            "More than $100 billion",
+            "More than $150 billion",
+            "More than $200 billion",
+            "More than $250 billion",
+            "More than $300 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of investment has already been committed to India's AI sector out of the total expected over the next two years?",
+        "a": "Approximately $90 billion",
+        "options": [
+            "Approximately $50 billion",
+            "Approximately $70 billion",
+            "Approximately $90 billion",
+            "Approximately $110 billion",
+            "Approximately $130 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Mumbai-based cloud and data centre provider is teaming up with Nvidia to build 'India's largest gigawatt-scale AI factory'?",
+        "a": "L&T",
+        "options": [
+            "Yotta",
+            "Reliance Jio",
+            "Tata Communications",
+            "Wipro",
+            "L&T"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the deal value announced by Yotta with Nvidia for top-end AI processors?",
+        "a": "$2 billion",
+        "options": [
+            "$1 billion",
+            "$3 billion",
+            "$2 billion",
+            "$1.5 billion",
+            "$2.5 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many top-end AI processors will Yotta receive through its deal with Nvidia?",
+        "a": "20,000",
+        "options": [
+            "10,000",
+            "15,000",
+            "20,000",
+            "25,000",
+            "30,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the investment announced by Microsoft this decade to boost AI adoption in developing countries?",
+        "a": "$50 billion",
+        "options": [
+            "$30 billion",
+            "$40 billion",
+            "$50 billion",
+            "$60 billion",
+            "$70 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Indian IT giant announced a partnership with US artificial intelligence startup Anthropic to build AI agents for the telecoms industry?",
+        "a": "Infosys",
+        "options": [
+            "TCS",
+            "Wipro",
+            "Infosys",
+            "HCLTech",
+            "Tech Mahindra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which world leader, other than Indian Prime Minister Narendra Modi, is expected to deliver a statement at the end of the AI conference regarding AI technology concerns?",
+        "a": "French President Emmanuel Macron",
+        "options": [
+            "US President Joe Biden",
+            "UK Prime Minister Rishi Sunak",
+            "French President Emmanuel Macron",
+            "German Chancellor Olaf Scholz",
+            "Canadian Prime Minister Justin Trudeau"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to the news, which year is the India AI Impact Summit being hosted in New Delhi?",
+        "a": "2026",
         "options": [
             "2024",
-            "2026",
             "2025",
+            "2026",
             "2023",
             "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the India AI Impact Summit scheduled to conclude?",
-        "a": "February 20",
+        "q": "Who presented the State Budget for the financial year 2026\u201327 in the Gujarat State Assembly?",
+        "a": "Kanubhai Desai",
         "options": [
-            "February 19",
-            "February 21",
-            "February 20",
-            "February 22",
-            "February 18"
+            "Bhupendra Patel",
+            "Nitin Patel",
+            "Kanubhai Desai",
+            "Vijay Rupani",
+            "Anagani Satya Prasad"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When was the Gujarat State Budget for the financial year 2026\u201327 tabled in the State Assembly?",
+        "a": "February 18, 2026",
+        "options": [
+            "February 1, 2026",
+            "January 18, 2026",
+            "March 18, 2026",
+            "February 18, 2026",
+            "April 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "For how many years was the defence cooperation agreement between India and France renewed?",
-        "a": "10 years",
+        "q": "What is the total outlay of Gujarat's State Budget for the financial year 2026\u201327?",
+        "a": "\u20b94,08,053 crore",
         "options": [
-            "9 years",
-            "11 years",
-            "10 years",
-            "8 years",
-            "12 years"
+            "\u20b93,70,250 crore",
+            "\u20b94,08,000 crore",
+            "\u20b94,08,053 crore",
+            "\u20b94,08,100 crore",
+            "\u20b94,10,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage was the total outlay of Gujarat's budget increased by over the previous financial year?",
+        "a": "10.2%",
+        "options": [
+            "5%",
+            "8.5%",
+            "10.2%",
+            "12%",
+            "15.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated surplus for Gujarat's State Budget for the financial year 2026\u201327?",
+        "a": "\u20b9974 crore",
+        "options": [
+            "\u20b9500 crore",
+            "\u20b9750 crore",
+            "\u20b9974 crore",
+            "\u20b91,200 crore",
+            "\u20b91,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the percentage of tax rebate continued for electric vehicles in Gujarat's State Budget?",
+        "a": "5%",
+        "options": [
+            "2%",
+            "3%",
+            "5%",
+            "7%",
+            "10%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much relief is the continuation of the 5% tax rebate on Motor Vehicle Tax for electric vehicles expected to provide to citizens in Gujarat?",
+        "a": "\u20b9210 crore",
+        "options": [
+            "\u20b9150 crore",
+            "\u20b9180 crore",
+            "\u20b9210 crore",
+            "\u20b9240 crore",
+            "\u20b9270 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which department received the highest allocation of \u20b963,184 crore in Gujarat's State Budget?",
+        "a": "Education department",
+        "options": [
+            "Urban Development department",
+            "Roads and Buildings department",
+            "Health department",
+            "Education department",
+            "Sports department"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the allocation for the Urban Development department in Gujarat's State Budget?",
+        "a": "\u20b933,504 crore",
+        "options": [
+            "\u20b929,709 crore",
+            "\u20b930,000 crore",
+            "\u20b933,504 crore",
+            "\u20b935,000 crore",
+            "\u20b940,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Gujarat aims to develop Ahmedabad as an 'Olympic Ready City' in the run-up to which Commonwealth Games?",
+        "a": "2030 Commonwealth Games",
+        "options": [
+            "2026 Commonwealth Games",
+            "2028 Commonwealth Games",
+            "2030 Commonwealth Games",
+            "2032 Commonwealth Games",
+            "2034 Commonwealth Games"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary aim of the roundtable discussion on Kerala\u2019s development?",
-        "a": "To create a blueprint for the State\u2019s development",
+        "q": "What is the total amount proposed for Games-related infrastructure for the 2030 Commonwealth Games in Gujarat?",
+        "a": "\u20b91,278 crore",
         "options": [
-            "To review past projects",
-            "To finalize current policies",
-            "To create a blueprint for the State\u2019s development",
-            "To discuss inter-state relations",
-            "To attract foreign investments"
+            "\u20b91,000 crore",
+            "\u20b91,150 crore",
+            "\u20b91,278 crore",
+            "\u20b91,331 crore",
+            "\u20b91,400 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the overall allocation for the sports department in Gujarat's State Budget?",
+        "a": "\u20b91,331 crore",
+        "options": [
+            "\u20b91,278 crore",
+            "\u20b91,300 crore",
+            "\u20b91,331 crore",
+            "\u20b91,350 crore",
+            "\u20b91,400 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much has been allocated for developing Ahmedabad as an Olympic-ready destination and for the Sardar Vallabhbhai Patel (SVP) Sports Enclave?",
+        "a": "\u20b9500 crore",
+        "options": [
+            "\u20b9100 crore",
+            "\u20b9165 crore",
+            "\u20b9500 crore",
+            "\u20b9600 crore",
+            "\u20b9750 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which year has been declared as 'Gujarat Tourism Year' by the Finance Minister?",
+        "a": "2026",
+        "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What amount has been allocated for upgrading infrastructure in and around the Statue of Unity in Gujarat?",
+        "a": "\u20b9236 crore",
+        "options": [
+            "\u20b9100 crore",
+            "\u20b9200 crore",
+            "\u20b9236 crore",
+            "\u20b9300 crore",
+            "\u20b9447 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount has been proposed under the Ambaji Corridor Masterplan for the comprehensive development of the Ambaji pilgrimage centre?",
+        "a": "\u20b9300 crore",
+        "options": [
+            "\u20b9200 crore",
+            "\u20b9250 crore",
+            "\u20b9300 crore",
+            "\u20b9350 crore",
+            "\u20b9400 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total allocation for Artificial Intelligence and digital governance initiatives in Gujarat's State Budget?",
+        "a": "Over \u20b9850 crore",
+        "options": [
+            "Over \u20b9500 crore",
+            "Over \u20b9650 crore",
+            "Over \u20b9850 crore",
+            "Over \u20b91,000 crore",
+            "Over \u20b91,200 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the overarching objective of Gujarat's budget focus areas, aligning policy priorities with long-term developmental goals?",
+        "a": "To fast-track Gujarat\u2019s transformation into a developed state by 2047.",
+        "options": [
+            "To become the leading industrial state by 2030.",
+            "To achieve 100% literacy by 2035.",
+            "To fast-track Gujarat\u2019s transformation into a developed state by 2047.",
+            "To double farmers' income by 2028.",
+            "To host the Olympic Games by 2040."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the Odisha State Road Policy, 2025?",
-        "a": "To create a high-quality road network for seamless movement of people and goods",
+        "q": "Who inaugurated the Tamil Nadu Climate Summit 4.0?",
+        "a": "Chief Minister M.K. Stalin",
         "options": [
-            "To impose road taxes",
-            "To reduce traffic congestion in cities",
-            "To create a high-quality road network for seamless movement of people and goods",
-            "To privatize road construction",
-            "To introduce toll plazas"
+            "Prime Minister Narendra Modi",
+            "Union Environment Minister Bhupender Yadav",
+            "Chief Minister M.K. Stalin",
+            "President Droupadi Murmu",
+            "United Nations Secretary-General Ant\u00f3nio Guterres"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where is the State-Level Command and Control Centre for monitoring forest fires established in Tamil Nadu?",
+        "a": "Chennai",
+        "options": [
+            "Coimbatore",
+            "Madurai",
+            "Chennai",
+            "Tiruchirappalli",
+            "Salem"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which international assembly did India pilot and secure adoption of a resolution calling for strengthened international collaboration on wildfires?",
+        "a": "Seventh United Nations Environment Assembly (UNEA-7)",
+        "options": [
+            "Fifth United Nations Environment Assembly (UNEA-5)",
+            "Sixth United Nations Environment Assembly (UNEA-6)",
+            "Seventh United Nations Environment Assembly (UNEA-7)",
+            "Eighth United Nations Environment Assembly (UNEA-8)",
+            "Ninth United Nations Environment Assembly (UNEA-9)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the birth anniversary milestone celebrated for \u2018Sindhanai Sirpi\u2019 Singaravelar on Wednesday?",
+        "a": "167th",
+        "options": [
+            "150th",
+            "160th",
+            "167th",
+            "170th",
+            "175th"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason for fishermen protesting against projects like Blue Economy and TN Shore?",
+        "a": "They do not seem to 'bother' about the welfare of the fisher community.",
+        "options": [
+            "They cause excessive pollution.",
+            "They are only focused on deep-sea mining.",
+            "They do not seem to 'bother' about the welfare of the fisher community.",
+            "They interfere with international fishing rights.",
+            "They raise fishing permit fees excessively."
         ],
         "cat": "Why"
     },
     {
-        "q": "What does Section 125(a) of the Bharatiya Nyaya Sanhita (BNS), 2023, primarily punish?",
-        "a": "Rash or negligent acts that endanger human life or personal safety",
+        "q": "What is the power generation capacity of the gas and solar-based power plant envisioned in the Great Nicobar Island Project?",
+        "a": "450 Megavolt-Amperes (MVA)",
         "options": [
-            "Acts of theft and robbery",
-            "Acts of public nuisance",
-            "Rash or negligent acts that endanger human life or personal safety",
-            "Acts of defamation",
-            "Acts of trespassing"
+            "100 MVA",
+            "250 MVA",
+            "450 MVA",
+            "600 MVA",
+            "750 MVA"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many trees are expected to be felled across how many square kilometers for the Great Nicobar Project?",
+        "a": "Nine lakh trees across 130 sq.km",
+        "options": [
+            "Five lakh trees across 50 sq.km",
+            "Seven lakh trees across 100 sq.km",
+            "Nine lakh trees across 130 sq.km",
+            "Ten lakh trees across 150 sq.km",
+            "Twelve lakh trees across 200 sq.km"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which tribal communities are mentioned as potentially being affected by the Great Nicobar Project?",
+        "a": "Shompen and Nicobarese tribes",
+        "options": [
+            "Jarawa and Sentinelese tribes",
+            "Onges and Great Andamanese tribes",
+            "Shompen and Nicobarese tribes",
+            "Koya and Gond tribes",
+            "Bhil and Santal tribes"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Revenue, Registration and Stamps Minister of Andhra Pradesh?",
+        "a": "Anagani Satya Prasad",
+        "options": [
+            "N. Chandrababu Naidu",
+            "K. Pawan Kalyan",
+            "Anagani Satya Prasad",
+            "Kolikapudi Srinivasa Rao",
+            "P. Vishnu Kumar Raju"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary objective of the Andhra Pradesh government regarding the 22A prohibited list of lands?",
+        "a": "To simplify the process of removing eligible private lands from the list.",
+        "options": [
+            "To expand the list to include more government lands.",
+            "To digitize all land records in the state.",
+            "To increase the tax revenue from prohibited lands.",
+            "To simplify the process of removing eligible private lands from the list.",
+            "To allocate more prohibited lands to ex-servicemen."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why will Tamil Nadu formulate State-level determined contributions by 2030?",
-        "a": "To cut its carbon emissions",
+        "q": "Which court did the Kerala government move against a State High Court decision regarding the 'Nava Keralam Citizen Response Programme'?",
+        "a": "Supreme Court",
         "options": [
-            "To increase industrial output",
-            "To enhance agricultural productivity",
-            "To cut its carbon emissions",
-            "To boost tourism revenue",
-            "To improve public health services"
+            "Kerala High Court",
+            "Madras High Court",
+            "Supreme Court",
+            "Delhi High Court",
+            "Bombay High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did the Kerala government move the Supreme Court regarding the 'Nava Keralam Citizen Response Programme'?",
+        "a": "February 18, 2026",
+        "options": [
+            "January 18, 2026",
+            "February 1, 2026",
+            "February 18, 2026",
+            "March 18, 2026",
+            "April 18, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the estimated amount set aside under the Budget head \u2018Special PR Campaign\u2019 for Kerala's 'Nava Keralam Citizen Response Programme'?",
+        "a": "Approximately \u20b920 crores",
+        "options": [
+            "Approximately \u20b95 crores",
+            "Approximately \u20b910 crores",
+            "Approximately \u20b920 crores",
+            "Approximately \u20b930 crores",
+            "Approximately \u20b940 crores"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "When were the proceedings detailing the tentative budgetary allocation and expenditure components for the 'Nava Keralam Citizen Response Programme' issued?",
+        "a": "November 2025",
+        "options": [
+            "August 2025",
+            "September 2025",
+            "October 2025",
+            "November 2025",
+            "December 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which advocate represented the Kerala State government in the Supreme Court regarding the 'Nava Keralam Citizen Response Programme'?",
+        "a": "C.K. Sasi",
+        "options": [
+            "K. Bharathi",
+            "Kabaddi Maran",
+            "C.K. Sasi",
+            "Anagani Satya Prasad",
+            "Kolikapudi Srinivasa Rao"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary purpose of the 'Nava Keralam Citizen Response Programme'?",
+        "a": "To obtain suggestions from the public on development and welfare measures.",
+        "options": [
+            "To conduct a statewide census.",
+            "To promote tourism in Kerala.",
+            "To obtain suggestions from the public on development and welfare measures.",
+            "To streamline administrative processes within departments.",
+            "To train government officials in public relations."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason for India asking France to increase \"indigenous content\" in Rafale, during the 6th India-France Annual Defence Dialogue?",
-        "a": "To strengthen bilateral defence partnership and boost indigenous manufacturing",
+        "q": "Which country recently added its name to the list of countries criticising Israel for unilateral measures on the West Bank?",
+        "a": "India",
         "options": [
-            "To reduce the cost of Rafale jets",
-            "To reduce reliance on foreign components",
-            "To strengthen bilateral defence partnership and boost indigenous manufacturing",
-            "To increase export opportunities for Rafale",
-            "To modernize the Rafale fleet"
+            "United States",
+            "United Kingdom",
+            "China",
+            "India",
+            "Japan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Palestinian Ambassador to the U.N. who read out the joint statement criticising Israel?",
+        "a": "Riyad H. Mansour",
+        "options": [
+            "Mahmoud Abbas",
+            "Ismail Haniyeh",
+            "Riyad H. Mansour",
+            "Saeb Erekat",
+            "Nabil Abu Rudeineh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When did India officially sign onto the statement criticising Israel, after initially not joining the original group of 85 countries?",
+        "a": "24 hours after the original statement on February 17, 2026",
+        "options": [
+            "On February 16, 2026",
+            "On February 17, 2026 (same day)",
+            "24 hours after the original statement on February 17, 2026",
+            "48 hours after the original statement",
+            "On February 20, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who is the External Affairs Minister of India mentioned in connection with a meeting with Palestinian Foreign Minister Varsen Aghabekian Shahin?",
+        "a": "S. Jaishankar",
+        "options": [
+            "Narendra Modi",
+            "Amit Shah",
+            "S. Jaishankar",
+            "Rajnath Singh",
+            "Nirmala Sitharaman"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When did External Affairs Minister S. Jaishankar host a meeting of the League of Arab States and meet Palestinian Foreign Minister Varsen Aghabekian Shahin?",
+        "a": "January 31",
+        "options": [
+            "January 15",
+            "January 20",
+            "January 31",
+            "February 5",
+            "February 10"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the first phase of the Vibrant Village Programme (VVP) launched?",
+        "a": "2023",
+        "options": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the second phase of the Vibrant Village Programme (VVP-II) cleared by the Union Cabinet?",
+        "a": "April 2025",
+        "options": [
+            "January 2025",
+            "February 2025",
+            "March 2025",
+            "April 2025",
+            "May 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Where is Home Minister Amit Shah likely to launch the VVP-II programme?",
+        "a": "Nathanpur village in Assam\u2019s Cachar district",
+        "options": [
+            "Kibithu, Arunachal Pradesh",
+            "Leh, Ladakh",
+            "Nathanpur village in Assam\u2019s Cachar district",
+            "Gangtok, Sikkim",
+            "Imphal, Manipur"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "How many strategic villages will the second phase of the Vibrant Village Programme (VVP-II) cover?",
+        "a": "1,954",
+        "options": [
+            "1,500",
+            "1,750",
+            "1,954",
+            "2,000",
+            "2,250"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is one of the primary objectives of the Vibrant Village Programme (VVP) as stated by the Ministry of Home Affairs?",
+        "a": "To ensure assimilation of the border population with the nation and inculcate them as eyes and ears of the border guarding forces.",
+        "options": [
+            "To construct new international trade routes along the borders.",
+            "To relocate border populations to urban centers.",
+            "To establish military bases in all border villages.",
+            "To ensure assimilation of the border population with the nation and inculcate them as eyes and ears of the border guarding forces.",
+            "To promote cross-border cultural exchanges."
         ],
         "cat": "Why"
+    },
+    {
+        "q": "Which state's Finance Minister is Kanubhai Desai?",
+        "a": "Gujarat",
+        "options": [
+            "Bihar",
+            "Maharashtra",
+            "Rajasthan",
+            "Gujarat",
+            "Madhya Pradesh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When was the Union Budget presented, as mentioned in the context of Gujarat's State Budget?",
+        "a": "February 1",
+        "options": [
+            "January 15",
+            "January 31",
+            "February 1",
+            "February 18",
+            "March 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What artistic style features the tribal goddess Kansari Devi on the cover of Gujarat's budget document?",
+        "a": "Warli art style",
+        "options": [
+            "Madhubani art style",
+            "Patachitra art style",
+            "Warli art style",
+            "Gond art style",
+            "Tanjore art style"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the allocation proposed for building and upgrading sports complexes in districts across Gujarat?",
+        "a": "\u20b9165 crore",
+        "options": [
+            "\u20b990 crore",
+            "\u20b9100 crore",
+            "\u20b9120 crore",
+            "\u20b9165 crore",
+            "\u20b9200 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Where in Gujarat is a Para High Performance Centre planned to be established with an allocation of \u20b9100 crore?",
+        "a": "Gandhinagar",
+        "options": [
+            "Ahmedabad",
+            "Rajkot",
+            "Surat",
+            "Gandhinagar",
+            "Vadodara"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What amount is allocated for constructing a world-class hockey stadium in Gujarat?",
+        "a": "\u20b990 crore",
+        "options": [
+            "\u20b950 crore",
+            "\u20b975 crore",
+            "\u20b990 crore",
+            "\u20b9100 crore",
+            "\u20b9120 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much has been earmarked for constructing iconic bus stations at Somnath and Ambaji and for developing a multi-modal transport hub at Somnath?",
+        "a": "\u20b9447 crore",
+        "options": [
+            "\u20b9236 crore",
+            "\u20b9300 crore",
+            "\u20b9400 crore",
+            "\u20b9447 crore",
+            "\u20b9500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What type of systems will be introduced for monitoring air and water quality in Gujarat, under digital governance initiatives?",
+        "a": "Digital \u201clake and air-watch systems\u201d",
+        "options": [
+            "Satellite-based monitoring systems",
+            "Drone surveillance systems",
+            "Digital \u201clake and air-watch systems\u201d",
+            "Ground-based sensor networks",
+            "Manual inspection protocols"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the Chief Minister of Andhra Pradesh mentioned in the context of resolving 22A land issues?",
+        "a": "N. Chandrababu Naidu",
+        "options": [
+            "Y.S. Jagan Mohan Reddy",
+            "N. Chandrababu Naidu",
+            "K. Pawan Kalyan",
+            "Anagani Satya Prasad",
+            "B.C. Janardhan Reddy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the R&B Minister of Andhra Pradesh mentioned in the context of tree removal during road expansion?",
+        "a": "B.C. Janardhan Reddy",
+        "options": [
+            "N. Chandrababu Naidu",
+            "K. Pawan Kalyan",
+            "Anagani Satya Prasad",
+            "B.C. Janardhan Reddy",
+            "Ch. Ayyanna Patrudu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When did Israel Prime Minister Benjamin Netanyahu put off his visit to India?",
+        "a": "Last November",
+        "options": [
+            "Last January",
+            "Last March",
+            "Last July",
+            "Last November",
+            "Last December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the original Vibrant Village Programme (VVP) primarily launched to assist development in villages along the China border?",
+        "a": "2023",
+        "options": [
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025"
+        ],
+        "cat": "When"
     }
 ]
