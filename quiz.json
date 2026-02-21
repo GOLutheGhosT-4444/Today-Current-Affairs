@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the reported population of Karnataka, as per the official data cited by KSTOA for 2025-26?",
-        "a": "6.8 crore",
+        "q": "What is the estimated recurring loss of GDP due to frequent elections, as estimated by N.K. Singh and Prachi Mishra?",
+        "a": "\u20b97 lakh crore",
         "options": [
-            "6.5 crore",
-            "6.8 crore",
-            "7.0 crore",
-            "7.2 crore",
-            "6.3 crore"
+            "\u20b970,000 crore",
+            "\u20b97 lakh crore",
+            "\u20b970 lakh crore",
+            "\u20b97 crore",
+            "\u20b9700 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many income tax filers are there in Karnataka, according to KSTOA data for 2025-26?",
-        "a": "53.6 lakh",
+        "q": "What percentage of India's GDP is estimated as a recurring loss due to frequent elections?",
+        "a": "1.6%",
         "options": [
-            "50.0 lakh",
-            "52.5 lakh",
-            "53.6 lakh",
-            "55.0 lakh",
-            "51.5 lakh"
+            "1.2%",
+            "2.1%",
+            "1.6%",
+            "0.6%",
+            "3.2%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of Karnataka's own tax revenue comes from GST, as stated by KSTOA?",
-        "a": "44%",
+        "q": "What was the Indian Union Budget in 2014, as mentioned by P.P. Chaudhary?",
+        "a": "\u20b918 lakh crore",
         "options": [
-            "40%",
-            "42%",
-            "44%",
-            "46%",
-            "48%"
+            "\u20b91.8 lakh crore",
+            "\u20b918 lakh crore",
+            "\u20b9180 lakh crore",
+            "\u20b98 lakh crore",
+            "\u20b981 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many vehicles are registered in Karnataka, according to KSTOA?",
-        "a": "More than 3 crore",
+        "q": "What was the recently passed Indian Union Budget, according to P.P. Chaudhary?",
+        "a": "\u20b955 lakh crore",
         "options": [
-            "More than 2.5 crore",
-            "More than 3 crore",
-            "More than 3.5 crore",
-            "More than 4 crore",
-            "More than 2 crore"
+            "\u20b945 lakh crore",
+            "\u20b955 lakh crore",
+            "\u20b965 lakh crore",
+            "\u20b950 lakh crore",
+            "\u20b960 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total financial support allocated to local bodies in Kerala since 2021?",
-        "a": "Over \u20b970,000 crore",
+        "q": "What is the estimated cost of EVMs that P.P. Chaudhary suggested 'should not be an issue' for procurement?",
+        "a": "\u20b910,000 or \u20b915,000 crore",
         "options": [
-            "Over \u20b965,000 crore",
-            "Over \u20b970,000 crore",
-            "Over \u20b975,000 crore",
-            "Over \u20b960,000 crore",
-            "Over \u20b980,000 crore"
+            "\u20b91,000-\u20b91,500 crore",
+            "\u20b910,000-\u20b915,000 crore",
+            "\u20b9100-\u20b9150 crore",
+            "\u20b91 lakh-\u20b91.5 lakh crore",
+            "\u20b95,000-\u20b97,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much amount has been provided for road works in Kerala in the past five years?",
-        "a": "\u20b98,867 crore",
+        "q": "How much money does the Mukhyamantri Majhi Ladki Bahin Yojana provide via Direct Benefit Transfer to eligible women?",
+        "a": "\u20b91,500",
         "options": [
-            "\u20b98,500 crore",
-            "\u20b98,867 crore",
-            "\u20b99,000 crore",
-            "\u20b99,200 crore",
-            "\u20b98,300 crore"
+            "\u20b91,000",
+            "\u20b91,500",
+            "\u20b92,000",
+            "\u20b92,500",
+            "\u20b9500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount was allocated for anganwadi buildings in Kerala in the past five years?",
-        "a": "\u20b91,187 crore",
+        "q": "What is the annual income threshold for a family to be eligible for the Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "Below \u20b92.5 lakh",
         "options": [
-            "\u20b91,000 crore",
-            "\u20b91,187 crore",
-            "\u20b91,250 crore",
-            "\u20b91,300 crore",
-            "\u20b91,100 crore"
+            "Below \u20b91.5 lakh",
+            "Below \u20b92.5 lakh",
+            "Below \u20b93.5 lakh",
+            "Below \u20b94.5 lakh",
+            "Below \u20b95 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many works were completed in the first phase of the Chief Minister\u2019s local road construction project in Kerala, at what cost?",
-        "a": "4,912 works at \u20b9980 crore",
+        "q": "What was the estimated annual cost of the Mukhyamantri Majhi Ladki Bahin Yojana to the Maharashtra government?",
+        "a": "\u20b946,000 crore",
         "options": [
-            "4,500 works at \u20b9900 crore",
-            "4,912 works at \u20b9980 crore",
-            "5,000 works at \u20b91,000 crore",
-            "4,700 works at \u20b9950 crore",
-            "5,200 works at \u20b91,020 crore"
+            "\u20b936,000 crore",
+            "\u20b946,000 crore",
+            "\u20b956,000 crore",
+            "\u20b926,000 crore",
+            "\u20b966,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost of projects currently underway in the second phase of the Chief Minister\u2019s local road construction project in Kerala?",
-        "a": "\u20b9939 crore",
+        "q": "According to Supriya Sule, what was the estimated amount of \"fraud\" in the Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "\u20b94,800 crore",
         "options": [
-            "\u20b9900 crore",
-            "\u20b9939 crore",
-            "\u20b9950 crore",
-            "\u20b9920 crore",
-            "\u20b9960 crore"
+            "\u20b9480 crore",
+            "\u20b94,800 crore",
+            "\u20b948,000 crore",
+            "\u20b948 lakh crore",
+            "\u20b94.8 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many local bodies in Kerala have been declared solid waste-free, as stated by CM Pinarayi Vijayan?",
-        "a": "1,027",
+        "q": "How many men reportedly benefited from the Mukhyamantri Majhi Ladki Bahin Yojana, according to Supriya Sule?",
+        "a": "14,000",
         "options": [
-            "950",
-            "1,000",
-            "1,027",
-            "1,050",
-            "980"
+            "1,400",
+            "14,000",
+            "140,000",
+            "140",
+            "4,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the sanctioned amount by the government for each model autism complex to be set up in Kerala?",
-        "a": "\u20b92.7 crore",
+        "q": "How many applications did the Maharashtra government receive for the Mukhyamantri Majhi Ladki Bahin Yojana in July, the first month after its launch?",
+        "a": "1.5 crore",
         "options": [
-            "\u20b92.5 crore",
-            "\u20b92.7 crore",
-            "\u20b92.8 crore",
-            "\u20b92.6 crore",
-            "\u20b92.9 crore"
+            "1.0 crore",
+            "1.5 crore",
+            "2.0 crore",
+            "2.5 crore",
+            "0.5 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current estimated economy of Hyderabad, as mentioned by Minister D. Sridhar Babu?",
-        "a": "$80-billion",
+        "q": "How many beneficiaries were reported in December 2025 for the Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "1.57 crore",
         "options": [
-            "$75-billion",
-            "$80-billion",
-            "$85-billion",
-            "$70-billion",
-            "$90-billion"
+            "1.07 crore",
+            "1.57 crore",
+            "2.07 crore",
+            "2.57 crore",
+            "0.57 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Telangana aspires to become an economy of what value by 2047?",
-        "a": "$3 trillion",
+        "q": "Who is the BJP MP and chairperson of the JPC examining the Bill on simultaneous elections?",
+        "a": "P.P. Chaudhary",
         "options": [
-            "$2 trillion",
-            "$2.5 trillion",
-            "$3 trillion",
-            "$3.5 trillion",
-            "$4 trillion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many datasets (and their size) from government departments are publicly usable through Telangana Data Exchange (TGDeX)?",
-        "a": "1,084 datasets (500 GB)",
-        "options": [
-            "1,000 datasets (450 GB)",
-            "1,084 datasets (500 GB)",
-            "1,100 datasets (550 GB)",
-            "1,050 datasets (480 GB)",
-            "1,150 datasets (520 GB)"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many seats did the NDA win in the 2025 Bihar State Assembly elections out of a total of 243 members?",
-        "a": "202",
-        "options": [
-            "195",
-            "200",
-            "202",
-            "205",
-            "198"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the current President of the Swiss Confederation mentioned in the news text?",
-        "a": "Guy Parmelin",
-        "options": [
-            "Narendra Modi",
-            "Guy Parmelin",
-            "Jacob Helberg",
-            "Michael Kratsios",
-            "S. Krishnan"
+            "Ram Nath Kovind",
+            "N.K. Singh",
+            "P.P. Chaudhary",
+            "Eknath Shinde",
+            "Sobhana K. Nair"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the U.S. Under Secretary of State for Economic Affairs visiting India for the AI Impact Summit?",
-        "a": "Jacob Helberg",
+        "q": "Who moderated the conversation with P.P. Chaudhary at The Hindu MIND event?",
+        "a": "Sobhana K. Nair",
         "options": [
-            "Michael Kratsios",
-            "Guy Parmelin",
-            "Jacob Helberg",
-            "S. Krishnan",
-            "Nezar Patria"
+            "P.P. Chaudhary",
+            "Gita Gopinath",
+            "Sobhana K. Nair",
+            "Ram Nath Kovind",
+            "N.K. Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who led the U.S. delegation to the India AI Impact Summit?",
-        "a": "Michael Kratsios",
+        "q": "Who chaired the 8-member high-level panel on simultaneous elections, referred to as the Kovind Committee?",
+        "a": "Ram Nath Kovind",
         "options": [
-            "Jacob Helberg",
-            "Michael Kratsios",
-            "Guy Parmelin",
-            "Narendra Modi",
-            "S. Krishnan"
+            "P.P. Chaudhary",
+            "N.K. Singh",
+            "Ram Nath Kovind",
+            "Gita Gopinath",
+            "Eknath Shinde"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current IT Secretary mentioned extending the AI Impact Summit expo?",
-        "a": "S. Krishnan",
+        "q": "Which former Finance Commissioner, along with Prachi Mishra, presented a paper to the Ram Nath Kovind Committee on the economic impact of frequent elections?",
+        "a": "N.K. Singh",
         "options": [
-            "P. Rajeeve",
-            "M.K. Stalin",
-            "S. Krishnan",
-            "Pinarayi Vijayan",
-            "D. Sridhar Babu"
+            "Gita Gopinath",
+            "N.K. Singh",
+            "P.P. Chaudhary",
+            "Amol Shinde",
+            "Sobhana K. Nair"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Energy and Finance Minister of Bihar, whose election is challenged in Patna High Court?",
-        "a": "Bijendra Prasad Yadav",
+        "q": "Which economics professor, along with N.K. Singh, estimated the recurring loss of GDP due to frequent elections?",
+        "a": "Prachi Mishra",
         "options": [
-            "Prem Kumar",
-            "Jibesh Kumar Mishra",
-            "Bijendra Prasad Yadav",
-            "Chetan Anand",
-            "Akhauri Onkar Nath"
+            "Gita Gopinath",
+            "Prachi Mishra",
+            "Sobhana K. Nair",
+            "Supriya Sule",
+            "Radhika Kamble"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who filed the petition against Bihar Assembly Speaker Prem Kumar in the Patna High Court?",
-        "a": "Akhauri Onkar Nath",
+        "q": "Which former IMF chief economist has acknowledged the economic impact of frequent elections?",
+        "a": "Gita Gopinath",
         "options": [
-            "Minnatullah Rahmani",
-            "Rishi Mishra",
-            "Akhauri Onkar Nath",
-            "Amod Kumar Singh",
-            "Siddharth Prasad"
+            "Prachi Mishra",
+            "N.K. Singh",
+            "Gita Gopinath",
+            "Sobhana K. Nair",
+            "Supriya Sule"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the CPI(M) leader who delivered a lecture on the impact of India-US trade relations?",
-        "a": "Prakash Karat",
+        "q": "Who was the Chief Minister of Maharashtra when the Mukhyamantri Majhi Ladki Bahin Yojana was launched?",
+        "a": "Eknath Shinde",
         "options": [
-            "S. Satish",
-            "Prakash Karat",
-            "C.M. Dinesh Mani",
-            "N. Anilkumar",
-            "Deepa K. Rajan"
+            "Devendra Fadnavis",
+            "Uddhav Thackeray",
+            "Ajit Pawar",
+            "Eknath Shinde",
+            "Sharad Pawar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which student from Kerala wrote a letter to Tamil Nadu CM M.K. Stalin appreciating the free bus travel scheme for women?",
-        "a": "Durga Ranjith",
+        "q": "Who was the head of the CM Welfare Cell when the Mukhyamantri Majhi Ladki Bahin Yojana was launched?",
+        "a": "Amol Shinde",
         "options": [
-            "Durga Prasad",
-            "Durga Kumari",
-            "Durga Ranjith",
-            "Ranjith Kumar",
-            "Priya Ranjith"
+            "Eknath Shinde",
+            "Devendra Fadnavis",
+            "Amol Shinde",
+            "Supriya Sule",
+            "Radhika Kamble"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the AIADMK leader that filed a petition against Tamil Nadu CM M.K. Stalin regarding alleged corrupt practices?",
-        "a": "Saidai S Duraisamy",
+        "q": "Which Nationalist Congress Party (SP) MP called the Mukhyamantri Majhi Ladki Bahin Yojana a \"\u20b94,800 crore fraud\"?",
+        "a": "Supriya Sule",
         "options": [
-            "Kapil Sibal",
-            "Saidai S Duraisamy",
-            "J.K. Maheshwari",
-            "Vijay Bishnoi",
-            "Prem Kumar"
+            "Amol Shinde",
+            "Eknath Shinde",
+            "Supriya Sule",
+            "Radhika Kamble",
+            "Pragati Nakti"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the president of the Karnataka State Travel Operators\u2019 Association (KSTOA)?",
-        "a": "K. Radhakrishna Holla",
+        "q": "Which community in West Bengal has a significant presence in border districts and is applying for citizenship under the CAA?",
+        "a": "Matua community",
         "options": [
-            "Siddaramaiah",
-            "Ramalinga Reddy",
-            "K. Radhakrishna Holla",
-            "M.B. Rajesh",
-            "V. Sivankutty"
+            "Santhal community",
+            "Gond community",
+            "Matua community",
+            "Bhil community",
+            "Munda community"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Vice Minister for Communications and Digital Affairs from Indonesia, leading a delegation to the India AI Impact Summit?",
-        "a": "Nezar Patria",
+        "q": "Who is the current municipal chairperson of Tadipatri?",
+        "a": "J.C. Prabhakar Reddy",
         "options": [
-            "D. Sridhar Babu",
-            "Nezar Patria",
-            "Guy Parmelin",
-            "Jacob Helberg",
-            "Michael Kratsios"
+            "J.C. Asmit Reddy",
+            "Jayaprakash Devaraj",
+            "J.C. Prabhakar Reddy",
+            "Anand Mohan",
+            "Ravi Shankar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Higher Education in Tamil Nadu who announced the university-level single-window system for Ph.D admissions?",
-        "a": "Govi. Chezhiaan",
+        "q": "Which central ministry notified the empowered committee for fast-tracking CAA applications in West Bengal?",
+        "a": "Union Ministry of Home Affairs (MHA)",
         "options": [
-            "M.K. Stalin",
-            "Govi. Chezhiaan",
-            "P. Rajeeve",
-            "V. Sivankutty",
-            "M.B. Rajesh"
+            "Ministry of External Affairs",
+            "Ministry of Finance",
+            "Ministry of Law and Justice",
+            "Ministry of Home Affairs",
+            "Ministry of Defence"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the president of Telangana Jagruti, who announced the launch of her proposed political party?",
-        "a": "Kalvakuntla Kavitha",
+        "q": "Where was The Hindu MIND event, where P.P. Chaudhary had a conversation with Sobhana K. Nair, moderated?",
+        "a": "New Delhi",
         "options": [
-            "Kalvakuntla Kiran",
-            "Kalvakuntla Saritha",
-            "Kalvakuntla Kavitha",
-            "Kalvakuntla Padma",
-            "Kalvakuntla Deepa"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where is the Global AI Impact Summit being held?",
-        "a": "National Capital (Delhi)",
-        "options": [
-            "Bengaluru",
-            "Hyderabad",
             "Mumbai",
-            "Delhi",
-            "Chennai"
+            "Chennai",
+            "Bengaluru",
+            "Kolkata",
+            "New Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where were the petitions challenging the elections of Bihar Assembly members filed?",
-        "a": "Patna High Court",
+        "q": "Which Indian state's tourism sector accounts for 43% of its revenue and is significantly disrupted by elections held in April-May?",
+        "a": "Uttarakhand",
         "options": [
-            "Bihar Supreme Court",
-            "Ranchi High Court",
-            "Patna High Court",
-            "Allahabad High Court",
-            "Kolkata High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which constituency did Akhauri Onkar Nath contest and lose against Prem Kumar?",
-        "a": "Gaya town",
-        "options": [
-            "Supaul",
-            "Jale",
-            "Nabinagar",
-            "Gaya town",
-            "Goh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which constituency is Bijendra Prasad Yadav a nine-term MLA?",
-        "a": "Supaul",
-        "options": [
-            "Gaya town",
-            "Jale",
-            "Supaul",
-            "Nabinagar",
-            "Aurangabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The public hearing for the Aluva-Alangad road development's rehabilitation package was completed in which two villages?",
-        "a": "Aluva West village and Kadangallur village",
-        "options": [
-            "Aluva East and Kadangallur",
-            "Aluva West and Kadangallur",
-            "Aluva South and Ernakulam",
-            "Aluva North and Kochi",
-            "Aluva Central and Kalamassery"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The seminar on impacts of India-US trade relations, organised by EMS Research Centre, implies a location in which Indian state?",
-        "a": "Kerala",
-        "options": [
-            "Tamil Nadu",
-            "Karnataka",
+            "Himachal Pradesh",
             "Kerala",
+            "Goa",
+            "Uttarakhand",
+            "Rajasthan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Radhika Kamble, a beneficiary struggling with the Ladki Bahin Yojana, resides in which locality of Mumbai?",
+        "a": "Sangam Nagar",
+        "options": [
+            "Bandra",
+            "Dadar",
+            "Juhu",
+            "Sangam Nagar",
+            "Worli"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Mukhyamantri Majhi Ladki Bahin Yojana was modeled on a similar scheme in which Indian state?",
+        "a": "Madhya Pradesh",
+        "options": [
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Karnataka"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which region of Maharashtra did the Mukhyamantri Majhi Ladki Bahin Yojana help buffer the shock of floods in 2025?",
+        "a": "Marathwada",
+        "options": [
+            "Vidarbha",
+            "Konkan",
+            "Khandesh",
+            "Marathwada",
+            "Western Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The pilot 'Mukhyamantri Mahila Sashaktikaran Abhiyaan' was launched in how many districts of Maharashtra?",
+        "a": "Two districts",
+        "options": [
+            "One district",
+            "Two districts",
+            "Three districts",
+            "Four districts",
+            "Five districts"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "A new empowered committee for fast-tracking CAA applications has been notified specifically for which Indian state?",
+        "a": "West Bengal",
+        "options": [
+            "Assam",
+            "Kerala",
+            "West Bengal",
+            "Tamil Nadu",
+            "Punjab"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Matua community, with roots in Bangladesh, has a considerable presence in border districts of which Indian state?",
+        "a": "West Bengal",
+        "options": [
             "Bihar",
-            "Telangana"
+            "Odisha",
+            "Tripura",
+            "West Bengal",
+            "Meghalaya"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court reserved judgment on a petition filed against Tamil Nadu CM M.K. Stalin concerning which constituency's 2011 Assembly election?",
-        "a": "Kolathur constituency",
+        "q": "Which municipality signed an MoU with Arjas Steel Private Limited for the utilisation of recycled wastewater?",
+        "a": "Tadipatri Municipality",
         "options": [
-            "Madurai constituency",
-            "Chennai Central constituency",
-            "Kolathur constituency",
-            "Thirumangalam constituency",
-            "Dharmapuri constituency"
+            "Tirupati Municipality",
+            "Vijayawada Municipality",
+            "Guntur Municipality",
+            "Tadipatri Municipality",
+            "Anantapur Municipality"
         ],
         "cat": "Where"
     },
     {
-        "q": "The valedictory ceremony of Local Self-Government Day, inaugurated by CM Pinarayi Vijayan, was held at which ground?",
-        "a": "Mangattuparamba KAP Battalion ground",
+        "q": "The Citizenship Amendment Act (CAA) facilitates citizenship to undocumented people from Pakistan, Afghanistan, and which other country?",
+        "a": "Bangladesh",
         "options": [
-            "Thalassery Engineering College ground",
-            "Koyilandy Al-Mubarak Kalari ground",
-            "Mangattuparamba KAP Battalion ground",
-            "Kathirur Gurukul Memorial Kalari ground",
-            "Ponniyathangam festival ground"
+            "Sri Lanka",
+            "Nepal",
+            "Myanmar",
+            "Bangladesh",
+            "Bhutan"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Ponniyathangam festival, featuring Kalaripayattu performances, was held in which district?",
-        "a": "Kannur",
+        "q": "Which states opposed the Citizenship Amendment Act (CAA), thereby influencing the MHA's decision to bypass state government involvement in committee formation?",
+        "a": "West Bengal, Tamil Nadu, and Kerala",
         "options": [
-            "Kochi",
-            "Thrissur",
-            "Kannur",
-            "Kozhikode",
-            "Palakkad"
+            "Gujarat, Maharashtra, and Goa",
+            "West Bengal, Tamil Nadu, and Kerala",
+            "Uttar Pradesh, Bihar, and Rajasthan",
+            "Karnataka, Andhra Pradesh, and Telangana",
+            "Punjab, Haryana, and Himachal Pradesh"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which police station was a case registered against a dermatologist for allegedly spreading misinformation about Nandini milk?",
-        "a": "Malleshwaram police",
+        "q": "The photograph of women tying rakhis to then Maharashtra CM Eknath Shinde after the launch of the \"Mukhyamantri Majhi Ladki Bahin\" scheme was taken at which location in Mumbai?",
+        "a": "Vidhan Bhavan",
         "options": [
-            "Jayanagar police",
-            "Basavanagudi police",
-            "Malleshwaram police",
-            "Indiranagar police",
-            "Koramangala police"
+            "Gateway of India",
+            "Marine Drive",
+            "Chhatrapati Shivaji Terminus",
+            "Vidhan Bhavan",
+            "Bandra-Worli Sea Link"
         ],
         "cat": "Where"
     },
     {
-        "q": "Under which scheme are model autism complexes being set up in all 14 districts of Kerala?",
-        "a": "STARS (Strengthening Teaching-Learning and Results for States) scheme",
+        "q": "From which year to which year were elections held simultaneously for the Lok Sabha and all State Assemblies in India?",
+        "a": "1951 to 1967",
         "options": [
-            "Sarva Shiksha Abhiyan",
-            "Rashtriya Madhyamik Shiksha Abhiyan",
-            "STARS (Strengthening Teaching-Learning and Results for States) scheme",
-            "Samagra Shiksha Abhiyan",
-            "Inclusive Education for Disabled at Secondary Stage"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Kalvakuntla Kavitha announced her proposed political party would be launched and she would prefer to contest from which constituency?",
-        "a": "Siddipet",
-        "options": [
-            "Hyderabad",
-            "Karimnagar",
-            "Siddipet",
-            "Warangal",
-            "Nizamabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which dates was Under Secretary of State Jacob Helberg scheduled to visit India for the AI Impact Summit?",
-        "a": "February 20-21",
-        "options": [
-            "February 18-19",
-            "February 20-21",
-            "February 22-23",
-            "February 19-20",
-            "February 21-22"
+            "1947 to 1960",
+            "1951 to 1967",
+            "1965 to 1975",
+            "1970 to 1980",
+            "1980 to 1990"
         ],
         "cat": "When"
     },
     {
-        "q": "The AI Impact Summit's expo was extended by one day, to which date in 2026?",
-        "a": "February 21, 2026 (Saturday)",
+        "q": "India aspires to become a developed nation by which year?",
+        "a": "2047",
         "options": [
+            "2030",
+            "2035",
+            "2040",
+            "2047",
+            "2050"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "If the Bill on simultaneous elections is enacted in 2028, in which year are general elections expected to be held?",
+        "a": "2029",
+        "options": [
+            "2027",
+            "2028",
+            "2029",
+            "2030",
+            "2031"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Mukhyamantri Majhi Ladki Bahin Yojana launched by the Maharashtra government?",
+        "a": "June 28, 2024",
+        "options": [
+            "July 28, 2023",
+            "June 28, 2024",
+            "May 28, 2025",
+            "April 28, 2022",
+            "August 28, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the first payments to beneficiaries of the Mukhyamantri Majhi Ladki Bahin Yojana begin?",
+        "a": "August 2024",
+        "options": [
+            "July 2024",
+            "August 2024",
+            "September 2024",
+            "October 2024",
+            "June 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month and year did Nationalist Congress Party (SP) MP Supriya Sule make remarks about the Mukhyamantri Majhi Ladki Bahin Yojana being a fraud?",
+        "a": "June 2025",
+        "options": [
+            "June 2024",
+            "July 2024",
+            "June 2025",
+            "July 2025",
+            "August 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the government order for the 'Mukhyamantri Mahila Sashaktikaran Abhiyaan' modified and the scheme reintroduced?",
+        "a": "October 6, 2023",
+        "options": [
+            "October 6, 2022",
+            "November 6, 2023",
+            "October 6, 2023",
+            "September 6, 2024",
+            "August 6, 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Union Ministry of Home Affairs (MHA) notify the new empowered committee for fast-tracking CAA applications in West Bengal?",
+        "a": "February 20, 2026",
+        "options": [
+            "January 20, 2026",
             "February 20, 2026",
-            "February 21, 2026",
-            "February 22, 2026",
-            "February 23, 2026",
-            "February 19, 2026"
+            "March 20, 2026",
+            "December 20, 2025",
+            "November 20, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "The Bihar State Assembly elections, mentioned in the context of petitions, were held in which year?",
-        "a": "2025",
+        "q": "When did the MHA notify the Citizenship Amendment Rules, 2024, enabling the implementation of the CAA?",
+        "a": "March 11, 2024",
         "options": [
-            "2020",
-            "2023",
-            "2025",
-            "2026",
-            "2024"
+            "February 11, 2024",
+            "March 11, 2024",
+            "April 11, 2024",
+            "January 11, 2024",
+            "December 11, 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "The State government\u2019s rehabilitation policy for land acquisition in Kerala, mentioned for Aluva-Alangad road development, was from which year?",
-        "a": "2017",
+        "q": "The Citizenship Amendment Act (CAA) was passed in which year?",
+        "a": "2019",
         "options": [
-            "2015",
+            "2014",
             "2016",
-            "2017",
-            "2018",
-            "2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did CPI(M) leader Prakash Karat deliver a lecture on the impact of India-US trade relations?",
-        "a": "February 19, 2026 (Thursday)",
-        "options": [
-            "February 18, 2026",
-            "February 19, 2026",
-            "February 20, 2026",
-            "February 17, 2026",
-            "February 21, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Madras High Court dismiss the allegations raised by Saidai S Duraisamy against M.K. Stalin?",
-        "a": "2017",
-        "options": [
-            "2011",
-            "2015",
-            "2017",
             "2019",
+            "2020",
             "2021"
         ],
         "cat": "When"
     },
     {
-        "q": "The Karnataka State Travel Operators\u2019 Association (KSTOA) submitted suggestions ahead of which budget?",
-        "a": "2026\u201327 Budget",
+        "q": "To be eligible for citizenship under CAA, undocumented people must have entered India on or before which date?",
+        "a": "December 31, 2014",
         "options": [
-            "2025\u201326 Budget",
-            "2026\u201327 Budget",
-            "2027\u201328 Budget",
-            "2024\u201325 Budget",
-            "2023\u201324 Budget"
+            "December 31, 2012",
+            "December 31, 2014",
+            "December 31, 2016",
+            "December 31, 2010",
+            "December 31, 2018"
         ],
         "cat": "When"
     },
     {
-        "q": "The additional 3% cess on commercial vehicles in Karnataka, which KSTOA demanded to reconsider, was imposed in which budget?",
-        "a": "2025-26 Budget",
+        "q": "In which year did the Matuas begin migrating from Bangladesh?",
+        "a": "1947",
         "options": [
-            "2024-25 Budget",
-            "2025-26 Budget",
-            "2026-27 Budget",
-            "2023-24 Budget",
-            "2022-23 Budget"
+            "1937",
+            "1947",
+            "1957",
+            "1967",
+            "1971"
         ],
         "cat": "When"
     },
     {
-        "q": "Since which year has Kerala significantly enhanced financial support to local bodies?",
-        "a": "2021",
+        "q": "What is the primary economic reason highlighted by P.P. Chaudhary for needing simultaneous polls?",
+        "a": "To prevent wastage of manpower and avoid disruption of investment.",
         "options": [
-            "2019",
-            "2020",
-            "2021",
-            "2022",
-            "2018"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did the Malleshwaram police register a case against the dermatologist for spreading misinformation about Nandini milk?",
-        "a": "February 19",
-        "options": [
-            "February 17",
-            "February 18",
-            "February 19",
-            "February 20",
-            "February 21"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is Pax Silica primarily focused on, as a U.S.-led effort?",
-        "a": "Artificial intelligence and supply chain security",
-        "options": [
-            "Space exploration and robotics",
-            "Cybersecurity and data privacy",
-            "Artificial intelligence and supply chain security",
-            "Renewable energy and climate change",
-            "Biotechnology and healthcare innovation"
+            "To reduce political party spending",
+            "To increase voter turnout",
+            "To prevent wastage of manpower and avoid disruption of investment",
+            "To simplify election logistics",
+            "To ensure longer campaigning periods"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the constitutional remedy available to candidates who wish to challenge election results, as mentioned by advocate Amit Prakash?",
-        "a": "Election petitions",
+        "q": "What is the main objective of the Constitution (129th Amendment) Bill, 2024, related to simultaneous elections?",
+        "a": "To synchronise all elections and ensure that synchronisation is maintained thereafter.",
         "options": [
-            "Public interest litigations",
-            "Habeas corpus writs",
-            "Election petitions",
-            "Quo warranto applications",
-            "Mandamus petitions"
+            "To increase the power of the Election Commission",
+            "To reduce the number of political parties",
+            "To make the Prime Minister directly elected",
+            "To synchronise all elections and ensure that synchronisation is maintained thereafter",
+            "To abolish State Assembly elections"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for filing election petitions in Patna High Court, primarily cited by candidates?",
-        "a": "Alleged discrepancies in affidavits or violation of Representation of the People Act",
+        "q": "The 'remainder term' principle, under consideration for simultaneous elections, aims to achieve what?",
+        "a": "To deter political instability since representatives would risk returning to office for only two or three years.",
         "options": [
-            "Lack of voter turnout",
-            "Alleged discrepancies in affidavits or violation of Representation of the People Act",
-            "Rejection of nomination papers",
-            "Low campaigning budgets",
-            "Absence of polling stations"
+            "To allow governments to fall freely",
+            "To ensure longer terms for all representatives",
+            "To simplify the election process",
+            "To deter political instability since representatives would risk returning to office for only two or three years",
+            "To increase the frequency of elections"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the criticism made by CPI(M) leader Prakash Karat regarding the Indo-US trade agreement?",
-        "a": "An onslaught on the sovereignty of India, leading to flooding of US products.",
+        "q": "What is the stated purpose of the Mukhyamantri Majhi Ladki Bahin Yojana, as per the policy document?",
+        "a": "To promote women\u2019s economic independence, improve their health and nutrition, and strengthen their decisive role in the family.",
         "options": [
-            "Promotion of fair trade practices",
-            "An onslaught on the sovereignty of India, leading to flooding of US products.",
-            "Benefit to local industries",
-            "Increase in Indian exports to US",
-            "Strengthening of bilateral investment"
+            "To provide housing for women",
+            "To offer free education to girls",
+            "To promote women\u2019s economic independence, improve their health and nutrition, and strengthen their decisive role in the family",
+            "To give jobs to women",
+            "To provide loans for women entrepreneurs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of Durga Ranjith's letter to Tamil Nadu CM M.K. Stalin?",
-        "a": "Appreciating the free bus travel scheme for women in Tamil Nadu",
+        "q": "Which of the following is NOT a condition for non-qualification for the Mukhyamantri Majhi Ladki Bahin Yojana?",
+        "a": "Belonging to a family with more than two children.",
         "options": [
-            "Requesting a scholarship",
-            "Complaining about bus services",
-            "Appreciating the free bus travel scheme for women in Tamil Nadu",
-            "Inviting CM to a function",
-            "Seeking financial aid"
+            "Family member with government employment",
+            "Family paying taxes",
+            "Family owning a car",
+            "Receiving similar amounts from other government schemes",
+            "Belonging to a family with more than two children"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main allegation made by Saidai S Duraisamy against M.K. Stalin in the election petition?",
-        "a": "Corrupt practices ahead of the 2011 Assembly election",
+        "q": "What was the reason cited for the increase in Matua community applications under the CAA in West Bengal?",
+        "a": "The announcement of the Special Intensive Revision (SIR) of electoral rolls.",
         "options": [
-            "Misuse of public funds",
-            "Conflict of interest",
-            "Corrupt practices ahead of the 2011 Assembly election",
-            "Ineffective governance",
-            "Failure to deliver promises"
+            "Increased government awareness campaigns",
+            "The announcement of the Special Intensive Revision (SIR) of electoral rolls",
+            "New economic incentives",
+            "Changes in local political leadership",
+            "Easier document verification"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary objective of the Karnataka State Travel Operators\u2019 Association (KSTOA) in its pre-Budget suggestions?",
-        "a": "Seeking road tax rationalisation, withdrawal of 3% cess, and enhanced infrastructure support",
+        "q": "Why did the MHA notify committees headed by Central government functionaries for CAA implementation, bypassing state government involvement?",
+        "a": "To bypass the role of State government in implementing the law, as it was opposed by many States.",
         "options": [
-            "Demanding higher fuel subsidies",
-            "Seeking road tax rationalisation, withdrawal of 3% cess, and enhanced infrastructure support",
-            "Protesting against traffic regulations",
-            "Requesting new vehicle models",
-            "Advocating for reduced toll charges only"
+            "To reduce administrative costs",
+            "To streamline the application process",
+            "To bypass the role of State government in implementing the law, as it was opposed by many States",
+            "To increase central government control",
+            "To ensure faster processing"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main goal of setting up model autism complexes in Kerala, as stated by Minister V. Sivankutty?",
-        "a": "To prioritise individual learning and therapy of the differently abled.",
+        "q": "What is the main purpose of the Memorandum of Understanding (MoU) between Tadipatri Municipality and Arjas Steel Private Limited?",
+        "a": "Utilisation of recycled wastewater from the municipal sewage treatment plant (STP) for industrial purposes.",
         "options": [
-            "To provide general education facilities",
-            "To promote sports for autistic children",
-            "To prioritise individual learning and therapy of the differently abled.",
-            "To establish vocational training centers",
-            "To offer medical treatment only"
+            "To build a new steel plant",
+            "To develop urban infrastructure",
+            "To utilise recycled wastewater from the municipal sewage treatment plant (STP) for industrial purposes",
+            "To provide employment opportunities",
+            "To enhance local tourism"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is Telangana's core growth strategy for taking AI technology to the grassroots level?",
-        "a": "Sustainability",
+        "q": "One of the objectives of the STP recycled wastewater utilisation project in Tadipatri is to promote what?",
+        "a": "Water conservation",
         "options": [
-            "Profit maximization",
-            "Technological dominance",
-            "Sustainability",
-            "Global expansion",
-            "Local market capture"
+            "Industrial expansion",
+            "Agricultural growth",
+            "Public transportation",
+            "Water conservation",
+            "Energy production"
         ],
         "cat": "Why"
     },
     {
-        "q": "India signed a joint statement condemning Israel's plans for West Bank settlements. Why was India's initial decision not to sign seen as surprising?",
-        "a": "Given India\u2019s traditional support for a Palestinian state and past criticism of Israel\u2019s settlement policy.",
+        "q": "What was the core idea behind Maharashtra's 'Shasan Aplya Daari' scheme, which inspired the Ladki Bahin Yojana?",
+        "a": "To approach people with government schemes to increase the number of beneficiaries.",
         "options": [
-            "It was expected due to strong ties with Israel.",
-            "It was due to a conflict with the UN Secretary-General.",
-            "Given India\u2019s traditional support for a Palestinian state and past criticism of Israel\u2019s settlement policy.",
-            "It was a strategic move to secure trade deals.",
-            "India rarely participates in such joint statements."
+            "To centralise government services",
+            "To digitise all public records",
+            "To approach people with government schemes to increase the number of beneficiaries",
+            "To provide doorstep delivery of goods",
+            "To reduce government expenditure"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is a key concern raised regarding Section 82 A(5) of the Constitution (129th Amendment) Bill, 2024?",
+        "a": "The Election Commission's \"opinion\" for delaying elections may not be based on objective criteria.",
+        "options": [
+            "It gives too little power to the EC",
+            "It reduces the role of the President",
+            "It requires a public referendum",
+            "The Election Commission's \"opinion\" for delaying elections may not be based on objective criteria",
+            "It removes judicial review"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to P.P. Chaudhary, what problem do frequent elections cause for government school teachers?",
+        "a": "Their frequent deployment for training and election duties disrupts teaching.",
+        "options": [
+            "They receive lower salaries during election periods",
+            "They have to travel long distances",
+            "They are given too many holidays",
+            "Their frequent deployment for training and election duties disrupts teaching",
+            "They are forced to work overtime"
         ],
         "cat": "Why"
     }
