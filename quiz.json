@@ -1,722 +1,722 @@
 [
     {
-        "q": "What is the estimated cost range for the 'Holistic Development of Great Nicobar Island' project?",
-        "a": "\u20b980,000-90,000 crore",
+        "q": "What is the estimated worth of the 8,107.03 acres of temple land retrieved from private encroachers by the HR&CE Department over the past five years?",
+        "a": "\u20b98,436 crore",
         "options": [
-            "\u20b970,000-80,000 crore",
-            "\u20b985,000-95,000 crore",
-            "\u20b980,000-90,000 crore",
-            "\u20b975,000-85,000 crore",
-            "\u20b990,000-100,000 crore"
+            "\u20b98,430 crore",
+            "\u20b98,440 crore",
+            "\u20b98,436 crore",
+            "\u20b98,432 crore",
+            "\u20b98,438 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much forest land (in square kilometres) is required to be diverted for the Great Nicobar Island Project?",
-        "a": "130.75 square kilometres",
+        "q": "How much additional allocation has the West Bengal State government made in the budget for the Banglar Yuba Sathi scheme?",
+        "a": "\u20b95,000 crore",
         "options": [
-            "125.75 square kilometres",
-            "135.75 square kilometres",
-            "130.75 square kilometres",
-            "120.75 square kilometres",
-            "140.75 square kilometres"
+            "\u20b95,100 crore",
+            "\u20b94,900 crore",
+            "\u20b95,000 crore",
+            "\u20b95,050 crore",
+            "\u20b94,950 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By which year is the Great Nicobar Island Project projected to be fully implemented?",
-        "a": "2052",
+        "q": "What is the monthly assistance amount provided to eligible youths under the Banglar Yuba Sathi scheme?",
+        "a": "\u20b91,500",
         "options": [
-            "2048",
-            "2055",
-            "2052",
-            "2045",
-            "2060"
+            "\u20b91,400",
+            "\u20b91,600",
+            "\u20b91,500",
+            "\u20b91,450",
+            "\u20b91,550"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "Which entity proposed the integrated infrastructure development plan for the Great Nicobar Island?",
-        "a": "Andaman and Nicobar Islands Integrated Development Corporation Limited (ANIIDCO)",
+        "q": "What is the revised monthly allowance for women from the general category under the Lakshmir Bhandar scheme after the budget increase?",
+        "a": "\u20b91,500",
         "options": [
-            "National Green Tribunal (NGT)",
-            "Ministry of Environment, Forest and Climate Change",
-            "Andaman and Nicobar Islands Integrated Development Corporation Limited (ANIIDCO)",
-            "Zoological Survey of India (ZSI)",
-            "Expert Appraisal Committee (EAC)"
+            "\u20b91,400",
+            "\u20b91,600",
+            "\u20b91,500",
+            "\u20b91,450",
+            "\u20b91,550"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the revised monthly allowance for women from the reserved category under the Lakshmir Bhandar scheme after the budget increase?",
+        "a": "\u20b91,700",
+        "options": [
+            "\u20b91,600",
+            "\u20b91,800",
+            "\u20b91,700",
+            "\u20b91,650",
+            "\u20b91,750"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the yearly burden on the State exchequer due to the hike in the Lakshmir Bhandar scheme?",
+        "a": "\u20b915,000 crore",
+        "options": [
+            "\u20b914,000 crore",
+            "\u20b916,000 crore",
+            "\u20b915,000 crore",
+            "\u20b914,500 crore",
+            "\u20b915,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many women are expected to be covered by the Lakshmir Bhandar scheme in West Bengal after the latest budget?",
+        "a": "2.42 crore",
+        "options": [
+            "2.40 crore",
+            "2.44 crore",
+            "2.42 crore",
+            "2.41 crore",
+            "2.43 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By how much has the monthly remuneration of contractual staff (civic volunteers, village police, green police) been increased in West Bengal?",
+        "a": "\u20b91,000",
+        "options": [
+            "\u20b9900",
+            "\u20b91,100",
+            "\u20b91,000",
+            "\u20b9950",
+            "\u20b91,050"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the starting salary of a civic police volunteer in Jhargram district when they began work in 2013?",
+        "a": "\u20b92,800",
+        "options": [
+            "\u20b92,700",
+            "\u20b92,900",
+            "\u20b92,800",
+            "\u20b92,750",
+            "\u20b92,850"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the current monthly salary earned by a civic police volunteer in Jhargram district?",
+        "a": "\u20b910,000",
+        "options": [
+            "\u20b99,500",
+            "\u20b910,500",
+            "\u20b910,000",
+            "\u20b99,800",
+            "\u20b910,200"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many new bypass roads are being laid in Tiruvannamalai district, covering a total distance of 8.8 km?",
+        "a": "3",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total estimated cost of the bypass road project in Tiruvannamalai district?",
+        "a": "\u20b990 crore",
+        "options": [
+            "\u20b985 crore",
+            "\u20b995 crore",
+            "\u20b990 crore",
+            "\u20b988 crore",
+            "\u20b992 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many gold medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
+        "a": "12",
+        "options": [
+            "10",
+            "14",
+            "12",
+            "11",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many silver medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
+        "a": "25",
+        "options": [
+            "20",
+            "30",
+            "25",
+            "23",
+            "27"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many bronze medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
+        "a": "49",
+        "options": [
+            "45",
+            "50",
+            "49",
+            "47",
+            "51"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many total medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
+        "a": "86",
+        "options": [
+            "80",
+            "90",
+            "86",
+            "84",
+            "88"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cost allocated for the installation of the 184 feet tall Lord Murugan statue at Arulmigu Subramaniyaswamy temple at Marudhamalai?",
+        "a": "\u20b9110 crore",
+        "options": [
+            "\u20b9100 crore",
+            "\u20b9120 crore",
+            "\u20b9110 crore",
+            "\u20b9105 crore",
+            "\u20b9115 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cost allocated for the installation of the 180 feet tall Lord Murugan statue at Arulmigu Velayudhaswamy temple at Thindal?",
+        "a": "\u20b930 crore",
+        "options": [
+            "\u20b925 crore",
+            "\u20b935 crore",
+            "\u20b930 crore",
+            "\u20b928 crore",
+            "\u20b932 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cost allocated for the installation of the 114 feet tall Lord Murugan statue at Arulmigu Subramaniyaswamy temple at Timiri?",
+        "a": "\u20b96.83 crore",
+        "options": [
+            "\u20b96.50 crore",
+            "\u20b97.00 crore",
+            "\u20b96.83 crore",
+            "\u20b96.75 crore",
+            "\u20b96.90 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total renovation fund earmarked for 10,000 temples (5,000 in Adi Dravida/tribal habitations and 5,000 in rural areas)?",
+        "a": "\u20b9212 crore",
+        "options": [
+            "\u20b9200 crore",
+            "\u20b9220 crore",
+            "\u20b9212 crore",
+            "\u20b9210 crore",
+            "\u20b9215 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many countries participated in the India AI Impact Summit - 2026?",
+        "a": "13",
+        "options": [
+            "10",
+            "15",
+            "13",
+            "12",
+            "14"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cost of constructing the Vallalar International Centre in Vadalur?",
+        "a": "\u20b999.90 crore",
+        "options": [
+            "\u20b999.00 crore",
+            "\u20b9100.00 crore",
+            "\u20b999.90 crore",
+            "\u20b999.50 crore",
+            "\u20b999.70 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the age of former Union Railway Minister Mukul Roy at the time of his death?",
+        "a": "71",
+        "options": [
+            "68",
+            "75",
+            "71",
+            "70",
+            "72"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the former Union Railway Minister who recently passed away in Kolkata?",
+        "a": "Mukul Roy",
+        "options": [
+            "Mukul Sharma",
+            "Subhranshu Roy",
+            "Mamata Banerjee",
+            "Pankaj Kumar Sharma",
+            "Suvendu Adhikari"
         ],
         "cat": "Who"
     },
     {
-        "q": "The Great Nicobar Island is strategically located how many kilometers from the Malacca Strait?",
-        "a": "40 km",
+        "q": "Who saved a passenger's life at Kacheguda railway station by assisting him to board a moving train?",
+        "a": "Constable Pankaj Kumar Sharma",
         "options": [
-            "30 km",
-            "50 km",
-            "40 km",
-            "60 km",
-            "70 km"
+            "Subhranshu Roy",
+            "Mukul Roy",
+            "Constable Pankaj Kumar Sharma",
+            "Suresh Gopi",
+            "Sanjay Roy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the West Bengal Finance Minister who tabled the budget for 2026-27 and announced the Banglar Yuba Sathi scheme?",
+        "a": "Chandrima Bhattacharya",
+        "options": [
+            "Mamata Banerjee",
+            "Sashi Panja",
+            "Anjali Shaw",
+            "Chandrima Bhattacharya",
+            "Sampa Bhattacharya"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Minister for Industries and Women and Child Development who has been regular at the Yuva Sathi registration camps?",
+        "a": "Sashi Panja",
+        "options": [
+            "Mamata Banerjee",
+            "Chandrima Bhattacharya",
+            "Sashi Panja",
+            "Anjali Shaw",
+            "Suman Mondal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Leader of the Opposition in the West Bengal Assembly who criticized the Banglar Yuba Sathi scheme?",
+        "a": "Suvendu Adhikari",
+        "options": [
+            "Sashi Panja",
+            "Mamata Banerjee",
+            "Suvendu Adhikari",
+            "Mukul Roy",
+            "Abhirup Sarkar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the economist quoted in the news explaining the connotations of economic development and welfare schemes?",
+        "a": "Abhirup Sarkar",
+        "options": [
+            "Biswanath Chakraborty",
+            "Nazrul Islam",
+            "Abhirup Sarkar",
+            "Sanjay Roy",
+            "Suman Mondal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Chief Justice of India who directed the West Bengal government to clarify the 'source of authority' for civic volunteer employment?",
+        "a": "D.Y. Chandrachud",
+        "options": [
+            "Sanjay Roy",
+            "Nazrul Islam",
+            "D.Y. Chandrachud",
+            "Biswanath Chakraborty",
+            "Sanjoy Poria"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Police Commissioner from Warangal who won a bronze medal in table tennis at the State-Level Police Games?",
+        "a": "Sunpreet Singh",
+        "options": [
+            "Tulsi Das",
+            "Jitender Reddy",
+            "Madhusudhan",
+            "Sunpreet Singh",
+            "Srinivas"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the president of Bharata Chaitanya Yuvajana Party (BCYP) who announced an indefinite fast if BC demands are not met?",
+        "a": "Bode Ramachandra Yadav",
+        "options": [
+            "Suraj Mandal",
+            "B.P. Mandal",
+            "Bode Ramachandra Yadav",
+            "Palla Srinivasa Rao",
+            "PVN Madhav"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Union Minister for Heavy Industries and Steel who criticized Chief Minister Siddaramaiah regarding Vokkaliga politics?",
+        "a": "H.D. Kumaraswamy",
+        "options": [
+            "H.D. Deve Gowda",
+            "Siddaramaiah",
+            "S.M. Krishna",
+            "H.D. Kumaraswamy",
+            "Mallikarjun Kharge"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Minister for Public Works and Highways who laid the foundation stone for new bypass roads in Tiruvannamalai district?",
+        "a": "E.V. Velu",
+        "options": [
+            "K. Tharpagaraj",
+            "K. Murali",
+            "P. Gnanavelu",
+            "E.V. Velu",
+            "S. Ebenezar Anburaj"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Union Minister of Commerce whom the Samyukt Kisan Morcha urged the President to dismiss?",
+        "a": "Piyush Goyal",
+        "options": [
+            "Narendra Modi",
+            "Droupadi Murmu",
+            "Suresh Gopi",
+            "Piyush Goyal",
+            "K. Karunakaran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the State president of the West Bengal Civic Police Association (WBCPA) who remains under suspension since 2014?",
+        "a": "Sanjoy Poria",
+        "options": [
+            "Sanjay Roy",
+            "Anish Khan",
+            "Biswanath Chakraborty",
+            "Nazrul Islam",
+            "Sanjoy Poria"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which city did former Union Railway Minister Mukul Roy pass away?",
+        "a": "Kolkata",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the projected number of jobs to be generated by the Great Nicobar Island Project upon full implementation?",
-        "a": "Over 1.28 lakh",
+        "q": "Where was Constable Pankaj Kumar Sharma on duty when he saved a passenger's life?",
+        "a": "Kacheguda railway station",
         "options": [
-            "Over 1.18 lakh",
-            "Over 1.38 lakh",
-            "Over 1.28 lakh",
-            "Over 1.08 lakh",
-            "Over 1.48 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "On what specific date were the environmental and Coastal Regulation Zone (CRZ) clearances granted for the Great Nicobar Island Project?",
-        "a": "November 11, 2022",
-        "options": [
-            "October 22, 2022",
-            "November 11, 2022",
-            "December 11, 2022",
-            "May 11, 2021",
-            "April 3, 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary reason the NGT formed a High-Powered Committee (HPC) for the Great Nicobar project after initial litigation?",
-        "a": "To revisit \"unanswered deficiencies\" regarding coral conservation, environmental data, and zoning violations",
-        "options": [
-            "To assess the project's financial viability",
-            "To determine the strategic importance",
-            "To revisit \"unanswered deficiencies\" regarding coral conservation, environmental data, and zoning violations",
-            "To survey the tribal habitations",
-            "To evaluate the construction timeline"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many coral colonies were initially identified in the vicinity of the Great Nicobar Island Project?",
-        "a": "20,668",
-        "options": [
-            "18,668",
-            "22,668",
-            "20,668",
-            "19,668",
-            "21,668"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many identified coral colonies are planned for translocation for the Great Nicobar Island Project?",
-        "a": "16,150",
-        "options": [
-            "15,150",
-            "17,150",
-            "16,150",
-            "14,150",
-            "18,150"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is one of the major components of the Great Nicobar Island Project related to power generation?",
-        "a": "A 450 MVA gas and solar-based power plant",
-        "options": [
-            "A 250 MVA hydro-based power plant",
-            "A 450 MVA gas and solar-based power plant",
-            "A 300 MVA wind-based power plant",
-            "A 500 MVA thermal power plant",
-            "A 100 MVA nuclear power plant"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which committee advises the Centre on environmental clearances and found the Great Nicobar project designed not to disturb tribal habitation?",
-        "a": "Expert Appraisal Committee (EAC)",
-        "options": [
-            "High-Powered Committee (HPC)",
-            "National Green Tribunal (NGT)",
-            "Expert Appraisal Committee (EAC)",
-            "Zoological Survey of India (ZSI)",
-            "National Centre for Sustainable Coastal Management (NCSCM)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What key principle did the NGT adopt in its final order regarding the Great Nicobar project, balancing environmental safeguards and national security?",
-        "a": "A 'balanced approach'",
-        "options": [
-            "A 'strict compliance' approach",
-            "A 'prioritizing environment' approach",
-            "A 'balanced approach'",
-            "A 'national security first' approach",
-            "A 'economic development focus' approach"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which bay on Great Nicobar Island was a major point of contention due to concerns about destruction of nesting grounds for species like the Leatherback Sea Turtle?",
-        "a": "Galathea Bay",
-        "options": [
-            "Campbell Bay",
-            "Indira Point",
-            "Galathea Bay",
-            "Trinket Bay",
-            "Car Nicobar Bay"
+            "Howrah railway station",
+            "Sealdah railway station",
+            "Kacheguda railway station",
+            "Chennai Central",
+            "Delhi Junction"
         ],
         "cat": "Where"
     },
     {
-        "q": "According to the NGT, why was one-season baseline data deemed sufficient for the Great Nicobar project's EIA?",
-        "a": "Islands are not classified as a \"high erosion\" stretch.",
+        "q": "The Banglar Yuba Sathi registration camp at Geetanjali Stadium is located in which part of Kolkata?",
+        "a": "East Kolkata",
         "options": [
-            "The project area is small.",
-            "Islands are not classified as a \"high erosion\" stretch.",
-            "Multi-season data was too expensive to collect.",
-            "The environmental impact was deemed negligible.",
-            "Only marine data was required."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the current National President of the Samajwadi Party mentioned in the news?",
-        "a": "Akhilesh Yadav",
-        "options": [
-            "Mulayam Singh Yadav",
-            "Dimple Yadav",
-            "Akhilesh Yadav",
-            "Shivpal Singh Yadav",
-            "Ram Gopal Yadav"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the primary reason Akhilesh Yadav accused the BJP government of \"playing\" with his security?",
-        "a": "Withdrawal of National Security Guard (NSG) cover",
-        "options": [
-            "Unpaid security bills",
-            "Reduction in vehicle convoy",
-            "Withdrawal of National Security Guard (NSG) cover",
-            "Denial of Z-plus security",
-            "Harassment by local police"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The news report about Akhilesh Yadav's security concerns was published on which date?",
-        "a": "February 22, 2026",
-        "options": [
-            "February 21, 2026",
-            "February 22, 2026",
-            "March 1, 2026",
-            "February 15, 2026",
-            "January 22, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which Congress leader was also mentioned by Akhilesh Yadav as having his SPG protection removed and being made to vacate his official residence?",
-        "a": "Rahul Gandhi",
-        "options": [
-            "Sonia Gandhi",
-            "Priyanka Gandhi Vadra",
-            "Rahul Gandhi",
-            "Mallikarjun Kharge",
-            "Shashi Tharoor"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Akhilesh Yadav made his statements to reporters during his day-long visit to which city?",
-        "a": "Jhansi",
-        "options": [
-            "Prayagraj",
-            "Lucknow",
-            "Jhansi",
-            "Varanasi",
-            "Ayodhya"
+            "North Kolkata",
+            "South Kolkata",
+            "East Kolkata",
+            "West Kolkata",
+            "Central Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which institution launched an online Bachelor of Science programme on Management and Data Science?",
-        "a": "IIT Madras",
+        "q": "Where was the 4th State-Level Police Games and Sports Meet hosted?",
+        "a": "Cyberabad Police Commissionerate",
         "options": [
-            "IIT Bombay",
-            "IIT Delhi",
-            "IIT Madras",
-            "IIT Kharagpur",
-            "IIT Kanpur"
+            "Warangal Commissionerate",
+            "Hyderabad City Police",
+            "Cyberabad Police Commissionerate",
+            "Ranga Reddy District Police",
+            "Khammam Police"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "When is the first batch of the IIT Madras BS in Management and Data Science course scheduled to commence?",
-        "a": "June 2026",
+        "q": "The BC Simha Garjana, where Bode Ramachandra Yadav addressed, was held near which town in Guntur district?",
+        "a": "Mangalagiri",
         "options": [
-            "May 2026",
-            "June 2026",
-            "July 2026",
-            "August 2025",
-            "April 2026"
+            "Guntur City",
+            "Vijayawada",
+            "Tenali",
+            "Mangalagiri",
+            "Chirala"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Who is the Director of IIT Madras who stated that \"Entry (to the course) is relatively easy but the exit is extremely hard\"?",
-        "a": "V. Kamakoti",
+        "q": "In which district is the Arulmigu Subramaniyaswamy temple at Marudhamalai, where a 184 feet tall Lord Murugan statue is being installed?",
+        "a": "Coimbatore district",
         "options": [
-            "Prathap Haridoss",
-            "Gangapriya Chakraverti",
-            "V. Kamakoti",
-            "Rajiv C. Lochan",
-            "K. VijayRaghavan"
+            "Erode district",
+            "Ranipet district",
+            "Coimbatore district",
+            "Madurai district",
+            "Thanjavur district"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "What is a key objective of the IIT Madras BS in Management and Data Science program?",
-        "a": "To equip learners with expertise in business decision making, quantitative thinking, and data-driven problem solving.",
+        "q": "Which temple received the 'UNESCO Asia and Pacific Award for Cultural Heritage' for its renovation in Kumbakonam?",
+        "a": "Tukkatchi Arulmigu Aabatsagayeswarar Temple",
         "options": [
-            "To focus solely on programming skills.",
-            "To equip learners with expertise in business decision making, quantitative thinking, and data-driven problem solving.",
-            "To provide advanced research capabilities in AI.",
-            "To train students for traditional management roles without data focus.",
-            "To prepare students exclusively for government jobs."
+            "Arulmigu Subramaniyaswamy temple",
+            "Arulmigu Velayudhaswamy temple",
+            "Tukkatchi Arulmigu Aabatsagayeswarar Temple",
+            "Brihadeeswarar Temple",
+            "Meenakshi Amman Temple"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "What is the last date for submission of applications for the IIT Madras BS in Management and Data Science course mentioned in the news?",
-        "a": "May 31",
+        "q": "The new bypass roads funded under CMRDP 2025-26 are being laid in which district?",
+        "a": "Tiruvannamalai district",
         "options": [
-            "June 30",
-            "May 31",
-            "July 15",
-            "April 30",
-            "August 15"
+            "Vellore district",
+            "Krishnagiri district",
+            "Tiruvannamalai district",
+            "Salem district",
+            "Dharmapuri district"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Who is the India Site Head and Managing Director, Ford Motor Company, who spoke at the launch of the IIT Madras program?",
-        "a": "Gangapriya Chakraverti",
+        "q": "Where was the India AI Impact Summit - 2026 held?",
+        "a": "Delhi",
         "options": [
-            "Rajiv C. Lochan",
-            "Prathap Haridoss",
-            "Gangapriya Chakraverti",
-            "V. Kamakoti",
-            "Anand Mahindra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "According to V. Kamakoti, what necessitated the democratisation of education, which online courses like the IIT Madras BS program address?",
-        "a": "The presence of 50 million students in higher education in India today.",
-        "options": [
-            "Lack of physical infrastructure for traditional degrees.",
-            "The high cost of offline education.",
-            "The presence of 50 million students in higher education in India today.",
-            "The demand for solely online degrees.",
-            "To reduce the workload on faculty members."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who are the two Irula snake catchers who were awarded the Padma Shri in 2023?",
-        "a": "Masi Sadayan and Vadivel Gopal",
-        "options": [
-            "Suresh Vadivel and Thangarasu Masi",
-            "Masi Sadayan and Vadivel Gopal",
-            "D. Sneha and Masi Sadayan",
-            "Vadivel Gopal and Suresh Vadivel",
-            "Thangarasu Masi and D. Sneha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which year were Masi Sadayan and Vadivel Gopal awarded the Padma Shri?",
-        "a": "2023",
-        "options": [
-            "2022",
-            "2024",
-            "2023",
-            "2021",
-            "2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Where were the sons of the Padma Shri awardees provided jobs?",
-        "a": "Ekalaiva Model Residential School at Kumili near Kalavai",
-        "options": [
-            "Tiruporur",
-            "Chengalpattu",
-            "Ekalaiva Model Residential School at Kumili near Kalavai",
-            "Chenneri village",
+            "Visakhapatnam",
+            "Bengaluru",
+            "Mumbai",
+            "Delhi",
             "Chennai"
         ],
         "cat": "Where"
     },
     {
-        "q": "What was the primary reason the government provided jobs to the sons of the Irula snake catchers?",
-        "a": "Their fathers were too old to be given government employment.",
+        "q": "Which seaport project did Union Minister Suresh Gopi request Prime Minister Narendra Modi to allot to Kerala in 2014?",
+        "a": "Vizhinjam International Seaport",
         "options": [
-            "To honor the fathers' Padma Shri awards directly.",
-            "Their fathers were too old to be given government employment.",
-            "To encourage snake catching as a profession.",
-            "To fulfill a political promise.",
-            "To promote traditional trades."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reported daily earning of the sons if they worked as construction laborers?",
-        "a": "\u20b9650/day",
-        "options": [
-            "\u20b9500/day",
-            "\u20b9700/day",
-            "\u20b9650/day",
-            "\u20b9800/day",
-            "\u20b9600/day"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who handed over the appointment orders to Suresh Vadivel and Thangarasu Masi?",
-        "a": "Collector D. Sneha",
-        "options": [
-            "Chief Minister M.K. Stalin",
-            "Finance Minister Thangam Thennarasu",
-            "Collector D. Sneha",
-            "P.W.C. Davidar",
-            "V. Kamakoti"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date did Chief Minister M.K. Stalin launch the second phase of the SimpleGov initiative in Tamil Nadu?",
-        "a": "February 13",
-        "options": [
-            "February 10",
-            "February 13",
-            "February 15",
-            "January 13",
-            "March 13"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the retired IAS officer serving as the Advisor for the SimpleGov initiative in Tamil Nadu?",
-        "a": "P.W.C. Davidar",
-        "options": [
-            "M.K. Stalin",
-            "Thangam Thennarasu",
-            "P.W.C. Davidar",
-            "D. Sneha",
-            "U.V. Arivazhagu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which year was the SimpleGov initiative originally instituted by the Tamil Nadu government?",
-        "a": "2023",
-        "options": [
-            "2022",
-            "2024",
-            "2023",
-            "2021",
-            "2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the core aim of the SimpleGov initiative by the Tamil Nadu government?",
-        "a": "To systematically simplify rules, procedures, approvals and service delivery mechanisms.",
-        "options": [
-            "To increase government revenue.",
-            "To systematically simplify rules, procedures, approvals and service delivery mechanisms.",
-            "To expand the number of government services.",
-            "To privatize government services.",
-            "To centralize all government operations."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many government services were simplified, digitized, and process re-engineered in the second phase of the SimpleGov initiative?",
-        "a": "55",
-        "options": [
-            "45",
-            "60",
-            "55",
-            "50",
-            "65"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "When was the first phase of the SimpleGov initiative, involving 10 government services, launched by the Chief Minister?",
-        "a": "May 2025",
-        "options": [
-            "May 2024",
-            "May 2025",
-            "May 2023",
-            "October 2025",
-            "January 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For individuals, what is the primary identity document made mandatory in most cases under the SimpleGov initiative?",
-        "a": "Aadhaar",
-        "options": [
-            "PAN card",
-            "Voter ID",
-            "Aadhaar",
-            "Driving License",
-            "Passport"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the Union Minister for Consumer Affairs, Food and Public Distribution, and New and Renewable Energy, who inaugurated the Global Alumni Meet?",
-        "a": "Pralhad Joshi",
-        "options": [
-            "Eshwar B. Khandre",
-            "Sharanabasappa Darshanapur",
-            "Pralhad Joshi",
-            "Surender Pal Singh Saluja",
-            "Shashil G. Namoshi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Global Alumni Meet inaugurated by Pralhad Joshi was held at which college?",
-        "a": "Poojya Doddappa Appa College of Engineering in Kalaburagi city",
-        "options": [
-            "IIT Madras",
-            "Kingston Engineering College",
-            "Poojya Doddappa Appa College of Engineering in Kalaburagi city",
-            "Hyderabad Karnataka Education Society",
-            "Anna University"
+            "Kochi Port",
+            "Tuticorin Port",
+            "Vizhinjam International Seaport",
+            "Mangaluru Port",
+            "Paradip Port"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did Union Minister Pralhad Joshi inaugurate the Global Alumni Meet?",
-        "a": "February 21",
+        "q": "When did former Union Railway Minister Mukul Roy pass away?",
+        "a": "February 23, 2026",
         "options": [
-            "February 20",
-            "February 21",
-            "February 22",
-            "March 21",
-            "January 21"
+            "February 22, 2026",
+            "February 24, 2026",
+            "February 23, 2026",
+            "February 21, 2026",
+            "February 25, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is India's reported expenditure on Research and Development (R&D)?",
-        "a": "\u20b91.27 lakh crore",
+        "q": "In which year was the Trinamool Congress (TMC) party formed, of which Mukul Roy was a founder member?",
+        "a": "1998",
         "options": [
-            "\u20b91.07 lakh crore",
-            "\u20b91.37 lakh crore",
-            "\u20b91.27 lakh crore",
-            "\u20b91.17 lakh crore",
-            "\u20b91.47 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the annual patent application filings in India, as mentioned by Pralhad Joshi?",
-        "a": "92,000",
-        "options": [
-            "85,000",
-            "95,000",
-            "92,000",
-            "88,000",
-            "100,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the main objective of the India AI Mission, which has an investment of \u20b910,300 crore?",
-        "a": "To strengthen computing infrastructure, data access, skilling, and governance frameworks.",
-        "options": [
-            "To replace human workers with AI.",
-            "To strengthen computing infrastructure, data access, skilling, and governance frameworks.",
-            "To develop autonomous weapons systems.",
-            "To monitor public online activities.",
-            "To create a national AI-powered surveillance network."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How much has been allocated in the Union Budget 2026-27 for the India Semiconductor Mission (ISM) 2.0?",
-        "a": "\u20b940,000 crore",
-        "options": [
-            "\u20b935,000 crore",
-            "\u20b945,000 crore",
-            "\u20b940,000 crore",
-            "\u20b930,000 crore",
-            "\u20b950,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year was the Hyderabad Karnataka Education (HKE) Society, which founded the Poojya Doddappa Appa College of Engineering, established?",
-        "a": "1958",
-        "options": [
-            "1950",
-            "1960",
-            "1958",
-            "1965",
-            "1948"
+            "1995",
+            "2000",
+            "1998",
+            "1997",
+            "1999"
         ],
         "cat": "When"
     },
     {
-        "q": "According to Pralhad Joshi, what should educational institutions focus on beyond just degrees?",
-        "a": "Imparting quality skills.",
+        "q": "When was the budget for the year 2026-27, announcing the Banglar Yuba Sathi scheme, tabled by West Bengal Finance Minister Chandrima Bhattacharya?",
+        "a": "February 5, 2026",
         "options": [
-            "Increasing student enrollment.",
-            "Imparting quality skills.",
-            "Promoting political ideologies.",
-            "Reducing course fees.",
-            "Expanding campus infrastructure."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the visionary lauded for establishing the HKE Society six decades ago?",
-        "a": "Mahadevappa Rampure",
-        "options": [
-            "Eshwar B. Khandre",
-            "Sharanabasappa Darshanapur",
-            "Mahadevappa Rampure",
-            "Surender Pal Singh Saluja",
-            "Shashil G. Namoshi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Kingston Engineering College, which received autonomous status, is located near which town in Vellore district?",
-        "a": "Katpadi",
-        "options": [
-            "Vellore Cantonment",
-            "Chennai",
-            "Katpadi",
-            "Ranipet",
-            "Tirupattur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which two bodies conferred autonomous status upon Kingston Engineering College?",
-        "a": "UGC and Anna University, Chennai",
-        "options": [
-            "AICTE and MHRD",
-            "UGC and Anna University, Chennai",
-            "State Government and Central Government",
-            "NAAC and NBA",
-            "IIT Madras and Vellore University"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Until which year has Kingston Engineering College been conferred with autonomous status?",
-        "a": "2035",
-        "options": [
-            "2030",
-            "2032",
-            "2035",
-            "2028",
-            "2040"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the college chairman and Vellore MP mentioned in the context of Kingston Engineering College receiving autonomous status?",
-        "a": "D.M. Kathir Anand",
-        "options": [
-            "U.V. Arivazhagu",
-            "M.K. Stalin",
-            "D.M. Kathir Anand",
-            "Pralhad Joshi",
-            "Thangam Thennarasu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What quantity of ganja (in kg) was seized by the Government Railway Police in the Tirupathi - Chikkamagaluru Express?",
-        "a": "21 kg",
-        "options": [
-            "18 kg",
-            "25 kg",
-            "21 kg",
-            "20 kg",
-            "22 kg"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the suspect arrested in connection with the ganja seizure at Katpadi railway station?",
-        "a": "Mohammed Aseem",
-        "options": [
-            "Suresh Vadivel",
-            "Thangarasu Masi",
-            "Mohammed Aseem",
-            "Vadivel Gopal",
-            "Masi Sadayan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "At which railway station was the ganja consignment seized by the GRP?",
-        "a": "Katpadi railway station",
-        "options": [
-            "Vellore Cantonment",
-            "Chennai Central",
-            "Katpadi railway station",
-            "Tirupathi",
-            "Chikkamagaluru"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What was the reason cited for Mohammed Aseem buying ganja from drug peddlers in Andhra Pradesh?",
-        "a": "To sell in retail to individuals and workers",
-        "options": [
-            "Personal consumption",
-            "For medicinal purposes",
-            "To sell in retail to individuals and workers",
-            "For agricultural use",
-            "To export to other countries"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who presented the Tamil Nadu Interim Budget in the Assembly on February 17, 2026?",
-        "a": "Thangam Thennarasu",
-        "options": [
-            "M.K. Stalin",
-            "P.W.C. Davidar",
-            "Thangam Thennarasu",
-            "D. Sneha",
-            "U.V. Arivazhagu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date was the Tamil Nadu Interim Budget for 2026-27 presented in the Assembly?",
-        "a": "February 17, 2026",
-        "options": [
+            "February 1, 2026",
             "February 10, 2026",
-            "February 17, 2026",
-            "February 20, 2026",
-            "March 17, 2026",
-            "January 17, 2026"
+            "February 5, 2026",
+            "February 3, 2026",
+            "February 7, 2026"
         ],
         "cat": "When"
+    },
+    {
+        "q": "What is the target year for the completion of the new bypass roads project in Tiruvannamalai district?",
+        "a": "End of 2026",
+        "options": [
+            "End of 2025",
+            "End of 2027",
+            "End of 2026",
+            "Mid-2027",
+            "Mid-2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Samyukt Kisan Morcha (SKM) send a letter to President Droupadi Murmu urging dismissal of Union Commerce Minister Piyush Goyal?",
+        "a": "February 22, 2026",
+        "options": [
+            "February 20, 2026",
+            "February 24, 2026",
+            "February 22, 2026",
+            "February 21, 2026",
+            "February 23, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did Mukul Roy resign from his Rajya Sabha membership?",
+        "a": "October 11, 2017",
+        "options": [
+            "October 10, 2017",
+            "October 12, 2017",
+            "October 11, 2017",
+            "October 9, 2017",
+            "October 13, 2017"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the Banglar Yuba Sathi scheme announced in West Bengal?",
+        "a": "To provide cash incentive for unemployed youths",
+        "options": [
+            "To provide housing for the poor",
+            "To offer free education to graduates",
+            "To provide cash incentive for unemployed youths",
+            "To support farmers with subsidies",
+            "To boost small businesses"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main objective of the Lakshmir Bhandar scheme in West Bengal?",
+        "a": "Direct cash transfer social welfare scheme for women",
+        "options": [
+            "To provide scholarships for girls",
+            "To empower women through skill development",
+            "Direct cash transfer social welfare scheme for women",
+            "To offer free healthcare to women",
+            "To ensure women's representation in politics"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Supreme Court direct the West Bengal government to clarify the 'source of authority' for civic volunteer employment?",
+        "a": "Concerns over employing political acolytes and sympathizers as unverified civic volunteers in sensitive areas",
+        "options": [
+            "To investigate salary discrepancies",
+            "To review their work conditions",
+            "Concerns over employing political acolytes and sympathizers as unverified civic volunteers in sensitive areas",
+            "To regularize their positions",
+            "To increase their training budget"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the five main demands placed by Bode Ramachandra Yadav before the government for Backward Classes (BCs)?",
+        "a": "Immediate enactment of a BC Protection Act",
+        "options": [
+            "Increased funding for private schools",
+            "Abolition of all reservations",
+            "Immediate enactment of a BC Protection Act",
+            "Prioritizing upper-caste welfare",
+            "Reduction of agricultural subsidies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason cited for the Samyukt Kisan Morcha's demand to dismiss Union Commerce Minister Piyush Goyal?",
+        "a": "Allegedly betraying the nation's confidence by entering into a bilateral trade agreement with the United States detrimental to farmers",
+        "options": [
+            "Mismanagement of agricultural funds",
+            "Failure to address farmer protests",
+            "Allegedly betraying the nation's confidence by entering into a bilateral trade agreement with the United States detrimental to farmers",
+            "Reducing minimum support prices",
+            "Imposing new taxes on agricultural produce"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason for the protest by BJP and TDP leaders against the Congress party in Visakhapatnam?",
+        "a": "For staging a demonstration during the India AI Impact Summit - 2026",
+        "options": [
+            "For criticizing the Prime Minister",
+            "For not supporting local industries",
+            "For staging a demonstration during the India AI Impact Summit - 2026",
+            "For opposing infrastructure projects",
+            "For raising fuel prices"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of laying three new bypass roads in Tiruvannamalai district?",
+        "a": "To help heavy vehicles and long distance buses skip congested towns",
+        "options": [
+            "To promote tourism",
+            "To provide direct access to temples",
+            "To help heavy vehicles and long distance buses skip congested towns",
+            "To connect remote villages to the city center",
+            "To create new job opportunities for locals"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main wish of Union Minister Suresh Gopi regarding his work at the Guruvayur temple?",
+        "a": "To be the chairman of the Guruvayoor Devaswom Board",
+        "options": [
+            "To serve as a priest",
+            "To manage temple finances",
+            "To be the chairman of the Guruvayoor Devaswom Board",
+            "To become a lifelong devotee",
+            "To oversee temple renovations"
+        ],
+        "cat": "Why"
     }
 ]
