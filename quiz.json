@@ -1,721 +1,781 @@
 [
     {
-        "q": "What is the estimated worth of the 8,107.03 acres of temple land retrieved from private encroachers by the HR&CE Department over the past five years?",
-        "a": "\u20b98,436 crore",
+        "q": "What was the highest-ever ridership recorded on the Namo Bharat RRTS corridor on its first full day of operations?",
+        "a": "1 lakh commuters",
         "options": [
-            "\u20b98,430 crore",
-            "\u20b98,440 crore",
-            "\u20b98,436 crore",
-            "\u20b98,432 crore",
-            "\u20b98,438 crore"
+            "95,000 commuters",
+            "1.1 lakh commuters",
+            "1 lakh commuters",
+            "80,000 commuters",
+            "1.2 lakh commuters"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much additional allocation has the West Bengal State government made in the budget for the Banglar Yuba Sathi scheme?",
-        "a": "\u20b95,000 crore",
+        "q": "What is the total length of the Delhi-Meerut corridor of the Namo Bharat Regional Rapid Transit System (RRTS)?",
+        "a": "82-km",
         "options": [
-            "\u20b95,100 crore",
-            "\u20b94,900 crore",
-            "\u20b95,000 crore",
-            "\u20b95,050 crore",
-            "\u20b94,950 crore"
+            "78-km",
+            "85-km",
+            "82-km",
+            "90-km",
+            "75-km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the monthly assistance amount provided to eligible youths under the Banglar Yuba Sathi scheme?",
-        "a": "\u20b91,500",
+        "q": "What is the designed speed capacity of the Namo Bharat RRTS system?",
+        "a": "up to 180 kmph",
         "options": [
-            "\u20b91,400",
-            "\u20b91,600",
-            "\u20b91,500",
-            "\u20b91,450",
-            "\u20b91,550"
+            "up to 160 kmph",
+            "up to 190 kmph",
+            "up to 180 kmph",
+            "up to 150 kmph",
+            "up to 200 kmph"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the revised monthly allowance for women from the general category under the Lakshmir Bhandar scheme after the budget increase?",
-        "a": "\u20b91,500",
+        "q": "Approximately how many voters were alleged to have been deleted during the Special Intensive Revision (SIR) exercise in Bihar?",
+        "a": "65 lakh",
         "options": [
-            "\u20b91,400",
-            "\u20b91,600",
-            "\u20b91,500",
-            "\u20b91,450",
-            "\u20b91,550"
+            "60 lakh",
+            "70 lakh",
+            "65 lakh",
+            "55 lakh",
+            "75 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the revised monthly allowance for women from the reserved category under the Lakshmir Bhandar scheme after the budget increase?",
-        "a": "\u20b91,700",
+        "q": "What is the maximum age until which the Chief Election Commissioner will hold office, whichever is earlier than the six-year term length?",
+        "a": "65 years",
         "options": [
-            "\u20b91,600",
-            "\u20b91,800",
-            "\u20b91,700",
-            "\u20b91,650",
-            "\u20b91,750"
+            "60 years",
+            "62 years",
+            "65 years",
+            "68 years",
+            "70 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the yearly burden on the State exchequer due to the hike in the Lakshmir Bhandar scheme?",
-        "a": "\u20b915,000 crore",
+        "q": "What is the minimum number of Rajya Sabha members required to sign a motion for an investigation into misbehaviour or incapacity by an Election Commission member?",
+        "a": "50 members",
         "options": [
-            "\u20b914,000 crore",
-            "\u20b916,000 crore",
-            "\u20b915,000 crore",
-            "\u20b914,500 crore",
-            "\u20b915,500 crore"
+            "45 members",
+            "55 members",
+            "50 members",
+            "60 members",
+            "40 members"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many women are expected to be covered by the Lakshmir Bhandar scheme in West Bengal after the latest budget?",
-        "a": "2.42 crore",
+        "q": "How many families are expected to receive free quarterly food kits under the 'Meri Rasoi Yojna' in Punjab?",
+        "a": "40 lakh",
         "options": [
-            "2.40 crore",
-            "2.44 crore",
-            "2.42 crore",
-            "2.41 crore",
-            "2.43 crore"
+            "35 lakh",
+            "45 lakh",
+            "40 lakh",
+            "50 lakh",
+            "30 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much has the monthly remuneration of contractual staff (civic volunteers, village police, green police) been increased in West Bengal?",
-        "a": "\u20b91,000",
+        "q": "What was the total compounding fine imposed on two groups of sheep herders for illegal grazing in Kawal Tiger Reserve?",
+        "a": "\u20b910 lakh",
         "options": [
-            "\u20b9900",
-            "\u20b91,100",
-            "\u20b91,000",
-            "\u20b9950",
-            "\u20b91,050"
+            "\u20b98 lakh",
+            "\u20b912 lakh",
+            "\u20b910 lakh",
+            "\u20b99 lakh",
+            "\u20b911 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the starting salary of a civic police volunteer in Jhargram district when they began work in 2013?",
-        "a": "\u20b92,800",
+        "q": "Approximately how many small contractors are affected by the non-payment of dues for works completed under the 'Mana Ooru\u2013Mana Badi' programme?",
+        "a": "about 1,500",
         "options": [
-            "\u20b92,700",
-            "\u20b92,900",
-            "\u20b92,800",
-            "\u20b92,750",
-            "\u20b92,850"
+            "about 1,200",
+            "about 1,800",
+            "about 1,500",
+            "about 1,000",
+            "about 2,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current monthly salary earned by a civic police volunteer in Jhargram district?",
-        "a": "\u20b910,000",
+        "q": "How many first-time legislators were elected on the Congress ticket in Karnataka?",
+        "a": "38",
         "options": [
-            "\u20b99,500",
-            "\u20b910,500",
-            "\u20b910,000",
-            "\u20b99,800",
-            "\u20b910,200"
+            "35",
+            "40",
+            "38",
+            "32",
+            "42"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many new bypass roads are being laid in Tiruvannamalai district, covering a total distance of 8.8 km?",
-        "a": "3",
+        "q": "What is the length of the first phase of Hyderabad Metro Rail, which the State government has decided to take over?",
+        "a": "69 km",
         "options": [
-            "2",
-            "4",
-            "3",
-            "5",
-            "6"
+            "65 km",
+            "72 km",
+            "69 km",
+            "60 km",
+            "75 km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total estimated cost of the bypass road project in Tiruvannamalai district?",
-        "a": "\u20b990 crore",
+        "q": "How many private hospitals are empanelled under Telangana's new health and insurance coverage scheme for government staff?",
+        "a": "652",
         "options": [
-            "\u20b985 crore",
-            "\u20b995 crore",
-            "\u20b990 crore",
-            "\u20b988 crore",
-            "\u20b992 crore"
+            "600",
+            "700",
+            "652",
+            "550",
+            "750"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many gold medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
-        "a": "12",
+        "q": "What percentage of basic salary will be deducted from employees for Telangana's new health and insurance coverage scheme?",
+        "a": "1.5%",
         "options": [
-            "10",
-            "14",
-            "12",
-            "11",
-            "13"
+            "1%",
+            "2%",
+            "1.5%",
+            "0.5%",
+            "2.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many silver medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
-        "a": "25",
+        "q": "What is the total corpus expected to be accumulated from employee deductions and government contributions for Telangana's health and insurance coverage scheme?",
+        "a": "\u20b91,056 crore",
         "options": [
-            "20",
-            "30",
-            "25",
-            "23",
-            "27"
+            "\u20b91,000 crore",
+            "\u20b91,100 crore",
+            "\u20b91,056 crore",
+            "\u20b9950 crore",
+            "\u20b91,200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many bronze medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
-        "a": "49",
+        "q": "How many MLAs and MLCs will participate in the Andhra Pradesh Legislature Sports-2026?",
+        "a": "156",
         "options": [
-            "45",
-            "50",
-            "49",
-            "47",
-            "51"
+            "140",
+            "160",
+            "156",
+            "130",
+            "170"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many total medals did the Warangal Commissionerate win at the 4th State-Level Police Games and Sports Meet?",
-        "a": "86",
+        "q": "What is the honorarium decided for Non-NIS Diploma coaches in Andhra Pradesh?",
+        "a": "\u20b921,500",
         "options": [
-            "80",
-            "90",
-            "86",
-            "84",
-            "88"
+            "\u20b920,000",
+            "\u20b922,000",
+            "\u20b921,500",
+            "\u20b925,000",
+            "\u20b918,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost allocated for the installation of the 184 feet tall Lord Murugan statue at Arulmigu Subramaniyaswamy temple at Marudhamalai?",
-        "a": "\u20b9110 crore",
+        "q": "For how many months have the workers of Heavy Engineering Corporation (HEC) in Ranchi not received their salary, as mentioned by BMS leaders?",
+        "a": "32 months",
         "options": [
-            "\u20b9100 crore",
-            "\u20b9120 crore",
-            "\u20b9110 crore",
-            "\u20b9105 crore",
-            "\u20b9115 crore"
+            "24 months",
+            "36 months",
+            "32 months",
+            "28 months",
+            "40 months"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost allocated for the installation of the 180 feet tall Lord Murugan statue at Arulmigu Velayudhaswamy temple at Thindal?",
-        "a": "\u20b930 crore",
+        "q": "How many workers are employed in the Heavy Engineering Corporation (HEC) in Ranchi, as mentioned by BMS leaders?",
+        "a": "about 3,500",
         "options": [
-            "\u20b925 crore",
-            "\u20b935 crore",
-            "\u20b930 crore",
-            "\u20b928 crore",
-            "\u20b932 crore"
+            "about 3,000",
+            "about 4,000",
+            "about 3,500",
+            "about 2,500",
+            "about 4,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost allocated for the installation of the 114 feet tall Lord Murugan statue at Arulmigu Subramaniyaswamy temple at Timiri?",
-        "a": "\u20b96.83 crore",
+        "q": "Who formally inaugurated the complete 82-km Delhi-Meerut corridor of the Namo Bharat RRTS?",
+        "a": "Prime Minister Narendra Modi",
         "options": [
-            "\u20b96.50 crore",
-            "\u20b97.00 crore",
-            "\u20b96.83 crore",
-            "\u20b96.75 crore",
-            "\u20b96.90 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total renovation fund earmarked for 10,000 temples (5,000 in Adi Dravida/tribal habitations and 5,000 in rural areas)?",
-        "a": "\u20b9212 crore",
-        "options": [
-            "\u20b9200 crore",
-            "\u20b9220 crore",
-            "\u20b9212 crore",
-            "\u20b9210 crore",
-            "\u20b9215 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many countries participated in the India AI Impact Summit - 2026?",
-        "a": "13",
-        "options": [
-            "10",
-            "15",
-            "13",
-            "12",
-            "14"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the cost of constructing the Vallalar International Centre in Vadalur?",
-        "a": "\u20b999.90 crore",
-        "options": [
-            "\u20b999.00 crore",
-            "\u20b9100.00 crore",
-            "\u20b999.90 crore",
-            "\u20b999.50 crore",
-            "\u20b999.70 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the age of former Union Railway Minister Mukul Roy at the time of his death?",
-        "a": "71",
-        "options": [
-            "68",
-            "75",
-            "71",
-            "70",
-            "72"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the former Union Railway Minister who recently passed away in Kolkata?",
-        "a": "Mukul Roy",
-        "options": [
-            "Mukul Sharma",
-            "Subhranshu Roy",
-            "Mamata Banerjee",
-            "Pankaj Kumar Sharma",
-            "Suvendu Adhikari"
+            "Chief Minister of Delhi",
+            "Union Railway Minister",
+            "Prime Minister Narendra Modi",
+            "President of India",
+            "NCRTC Chairman"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who saved a passenger's life at Kacheguda railway station by assisting him to board a moving train?",
-        "a": "Constable Pankaj Kumar Sharma",
+        "q": "Which corporation recorded the highest-ever ridership for the Namo Bharat RRTS on its first full day of operations?",
+        "a": "NCRTC (National Capital Region Transport Corporation)",
         "options": [
-            "Subhranshu Roy",
-            "Mukul Roy",
-            "Constable Pankaj Kumar Sharma",
-            "Suresh Gopi",
-            "Sanjay Roy"
+            "Indian Railways",
+            "Delhi Metro Rail Corporation",
+            "NCRTC (National Capital Region Transport Corporation)",
+            "Uttar Pradesh Metro Rail Corporation",
+            "Ministry of Housing and Urban Affairs"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the West Bengal Finance Minister who tabled the budget for 2026-27 and announced the Banglar Yuba Sathi scheme?",
-        "a": "Chandrima Bhattacharya",
+        "q": "Which Supreme Court case in 2023 held that the Chief Justice of India should be included in the selection committee for Election Commissioners?",
+        "a": "Anoop Baranwal versus Union of India",
         "options": [
-            "Mamata Banerjee",
-            "Sashi Panja",
-            "Anjali Shaw",
-            "Chandrima Bhattacharya",
-            "Sampa Bhattacharya"
+            "T. N. Seshan versus Union of India",
+            "Vineet Narain versus Union of India",
+            "Anoop Baranwal versus Union of India",
+            "Jaya Thakur versus Union of India",
+            "Kesavananda Bharati versus State of Kerala"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Industries and Women and Child Development who has been regular at the Yuva Sathi registration camps?",
-        "a": "Sashi Panja",
+        "q": "Who among the following is stated to be a member of the selection committee for appointing election commissioners as per the 2023 Act?",
+        "a": "Prime Minister",
         "options": [
-            "Mamata Banerjee",
-            "Chandrima Bhattacharya",
-            "Sashi Panja",
-            "Anjali Shaw",
-            "Suman Mondal"
+            "Chief Justice of India",
+            "Speaker of Lok Sabha",
+            "Prime Minister",
+            "President of India",
+            "Attorney General of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Leader of the Opposition in the West Bengal Assembly who criticized the Banglar Yuba Sathi scheme?",
-        "a": "Suvendu Adhikari",
+        "q": "Who can remove other election commissioners, according to Article 324(5) of the Constitution?",
+        "a": "The President on the advice of the CEC",
         "options": [
-            "Sashi Panja",
-            "Mamata Banerjee",
-            "Suvendu Adhikari",
-            "Mukul Roy",
-            "Abhirup Sarkar"
+            "The Parliament",
+            "The Supreme Court",
+            "The President on the advice of the CEC",
+            "The Prime Minister",
+            "The Chief Justice of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the economist quoted in the news explaining the connotations of economic development and welfare schemes?",
-        "a": "Abhirup Sarkar",
+        "q": "Which Supreme Court case in 1995 validated the permanent multi-member status of the Election Commission?",
+        "a": "T. N. Seshan versus Union of India",
         "options": [
-            "Biswanath Chakraborty",
-            "Nazrul Islam",
-            "Abhirup Sarkar",
-            "Sanjay Roy",
-            "Suman Mondal"
+            "Indira Gandhi versus Raj Narain",
+            "Anoop Baranwal versus Union of India",
+            "Vineet Narain versus Union of India",
+            "T. N. Seshan versus Union of India",
+            "Minerva Mills versus Union of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the Chief Justice of India who directed the West Bengal government to clarify the 'source of authority' for civic volunteer employment?",
-        "a": "D.Y. Chandrachud",
+        "q": "Under whose banner did members take out a rally to mark International Mother Language Day, urging conservation of Tamil language?",
+        "a": "World Tamil Conservation Collective",
         "options": [
-            "Sanjay Roy",
-            "Nazrul Islam",
-            "D.Y. Chandrachud",
-            "Biswanath Chakraborty",
-            "Sanjoy Poria"
+            "Tamil Nadu Government",
+            "Dravida Munnetra Kazhagam",
+            "World Tamil Conservation Collective",
+            "UNESCO",
+            "Central Institute of Indian Languages"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Police Commissioner from Warangal who won a bronze medal in table tennis at the State-Level Police Games?",
-        "a": "Sunpreet Singh",
+        "q": "Who is the Chief Minister of Punjab who announced the 'Meri Rasoi Yojna'?",
+        "a": "Bhagwant Mann",
         "options": [
-            "Tulsi Das",
-            "Jitender Reddy",
-            "Madhusudhan",
-            "Sunpreet Singh",
-            "Srinivas"
+            "Sukhbir Badal",
+            "Arvind Kejriwal",
+            "Charanjit Singh Channi",
+            "Bhagwant Mann",
+            "Amarinder Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the president of Bharata Chaitanya Yuvajana Party (BCYP) who announced an indefinite fast if BC demands are not met?",
-        "a": "Bode Ramachandra Yadav",
+        "q": "Who is the current District Forest Officer of Adilabad who issued a statement regarding the illegal grazing fine?",
+        "a": "Prashanth Bajirao Patil",
         "options": [
-            "Suraj Mandal",
-            "B.P. Mandal",
-            "Bode Ramachandra Yadav",
-            "Palla Srinivasa Rao",
-            "PVN Madhav"
+            "Jadhav Karan Singh",
+            "Jadhav Rama",
+            "Prashanth Bajirao Patil",
+            "A local villager",
+            "The Forest Minister"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Union Minister for Heavy Industries and Steel who criticized Chief Minister Siddaramaiah regarding Vokkaliga politics?",
-        "a": "H.D. Kumaraswamy",
+        "q": "Who launched the 'Mana Ooru\u2013Mana Badi' programme to improve infrastructure in government schools?",
+        "a": "Previous BRS government",
         "options": [
-            "H.D. Deve Gowda",
+            "Current Congress government",
+            "Previous BJP government",
+            "Previous BRS government",
+            "Ministry of Education",
+            "Local Municipal Corporation"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Minister of Karnataka who is purportedly being pushed for a Cabinet reshuffle?",
+        "a": "Siddaramaiah",
+        "options": [
+            "D.K. Shivakumar",
+            "Mallikarjun Kharge",
+            "Rahul Gandhi",
             "Siddaramaiah",
-            "S.M. Krishna",
-            "H.D. Kumaraswamy",
-            "Mallikarjun Kharge"
+            "H.C. Mahadevappa"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Public Works and Highways who laid the foundation stone for new bypass roads in Tiruvannamalai district?",
-        "a": "E.V. Velu",
+        "q": "Who heads the high-power committee constituted in Telangana to suggest concrete measures for providing effective health treatment?",
+        "a": "Health Minister C. Damodar Narasimha",
         "options": [
-            "K. Tharpagaraj",
-            "K. Murali",
-            "P. Gnanavelu",
-            "E.V. Velu",
-            "S. Ebenezar Anburaj"
+            "Chief Minister",
+            "Chief Secretary",
+            "Health Minister C. Damodar Narasimha",
+            "Nori Dattatreyudu",
+            "Srinath Reddy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Union Minister of Commerce whom the Samyukt Kisan Morcha urged the President to dismiss?",
-        "a": "Piyush Goyal",
+        "q": "Who is the Chairman of the Sports Authority of A.P. (SAAP) who addressed the media regarding the Legislature Sports-2026?",
+        "a": "A. Ravi Naidu",
         "options": [
-            "Narendra Modi",
-            "Droupadi Murmu",
-            "Suresh Gopi",
-            "Piyush Goyal",
-            "K. Karunakaran"
+            "Ch. Ayyanna Patrudu",
+            "N. Chandrababu Naidu",
+            "K. Pawan Kalyan",
+            "A. Ravi Naidu",
+            "N. Lokesh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the State president of the West Bengal Civic Police Association (WBCPA) who remains under suspension since 2014?",
-        "a": "Sanjoy Poria",
+        "q": "Which political figure is expected to inaugurate the Andhra Pradesh Legislature Sports-2026?",
+        "a": "Assembly Speaker Ch. Ayyanna Patrudu",
         "options": [
-            "Sanjay Roy",
-            "Anish Khan",
-            "Biswanath Chakraborty",
-            "Nazrul Islam",
-            "Sanjoy Poria"
+            "Chief Minister N. Chandrababu Naidu",
+            "Deputy Chief Minister K. Pawan Kalyan",
+            "HRD Minister N. Lokesh",
+            "Assembly Speaker Ch. Ayyanna Patrudu",
+            "SAAP Chairman A. Ravi Naidu"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which city did former Union Railway Minister Mukul Roy pass away?",
-        "a": "Kolkata",
+        "q": "Which AP Sports Academy has been named after NTR?",
+        "a": "Kakinada Academy",
         "options": [
+            "Visakhapatnam Academy",
+            "Tirupati Academy",
+            "Kakinada Academy",
+            "Guntur Academy",
+            "Hyderabad Academy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organization decided to launch protests against the labour policies of the Union and State governments on February 25, 2026?",
+        "a": "RSS-backed Bharatiya Mazdoor Sangh (BMS)",
+        "options": [
+            "Indian National Trade Union Congress",
+            "Centre of Indian Trade Unions",
+            "All India Trade Union Congress",
+            "RSS-backed Bharatiya Mazdoor Sangh (BMS)",
+            "All India United Trade Union Centre"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who are the two BMS leaders mentioned as talking to reporters in New Delhi regarding the protests?",
+        "a": "Pawan Kumar and Ravindra Himte",
+        "options": [
+            "Ashok Singh and Ram Lal",
+            "Suresh Prasad and Rajeev Sharma",
+            "Pawan Kumar and Ravindra Himte",
+            "Vijay Sharma and Anil Gupta",
+            "Rajesh Kumar and Manoj Sinha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The newly inaugurated 5-km stretch of Namo Bharat RRTS between Sarai Kale Khan and New Ashok Nagar is located in which city?",
+        "a": "Delhi",
+        "options": [
+            "Ghaziabad",
+            "Meerut",
             "Delhi",
-            "Mumbai",
-            "Kolkata",
+            "Sahibabad",
+            "Modinagar"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state did the Aam Aadmi Party government announce the 'Meri Rasoi Yojna'?",
+        "a": "Punjab",
+        "options": [
+            "Haryana",
+            "Delhi",
+            "Uttar Pradesh",
+            "Punjab",
+            "Rajasthan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "From which region of Gujarat were the sheep herders who illegally grazed in Kawal Tiger Reserve?",
+        "a": "Kutch region",
+        "options": [
+            "Saurashtra region",
+            "North Gujarat",
+            "Central Gujarat",
+            "Kutch region",
+            "South Gujarat"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which district of Telangana is the Kawal Tiger Reserve located where illegal grazing occurred?",
+        "a": "Adilabad district",
+        "options": [
+            "Nagarkurnool district",
+            "Bhadradri Kothagudem district",
+            "Adilabad district",
+            "Warangal district",
+            "Nizamabad district"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Doctors in Government Medical Colleges across which state carried out an indefinite strike, entering its eighth day on Monday?",
+        "a": "Kerala",
+        "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Kerala",
+            "Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city's Metro Rail first phase operation and maintenance will be completely taken over by the State government?",
+        "a": "Hyderabad",
+        "options": [
+            "Bengaluru",
             "Chennai",
+            "Vijayawada",
+            "Hyderabad",
+            "Visakhapatnam"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "A fruit market with international standards is planned to be set up at Koheda, on the outskirts of which city?",
+        "a": "Hyderabad",
+        "options": [
+            "Bengaluru",
+            "Chennai",
+            "Vijayawada",
+            "Hyderabad",
+            "Visakhapatnam"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city will the Andhra Pradesh Legislature Sports-2026 competitions be primarily held?",
+        "a": "Vijayawada",
+        "options": [
+            "Visakhapatnam",
+            "Kakinada",
+            "Tirupati",
+            "Guntur",
+            "Vijayawada"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where is the Heavy Engineering Corporation (HEC), whose workers have not received salary for 32 months, located?",
+        "a": "Ranchi",
+        "options": [
+            "Bokaro",
+            "Jamshedpur",
+            "Ranchi",
+            "Dhanbad",
+            "Asansol"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state were activists protesting against the Special Intensive Revision (SIR) at Freedom Park on February 7?",
+        "a": "Bengaluru",
+        "options": [
+            "Chennai",
+            "Hyderabad",
+            "Mumbai",
+            "Delhi",
             "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Constable Pankaj Kumar Sharma on duty when he saved a passenger's life?",
-        "a": "Kacheguda railway station",
-        "options": [
-            "Howrah railway station",
-            "Sealdah railway station",
-            "Kacheguda railway station",
-            "Chennai Central",
-            "Delhi Junction"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Banglar Yuba Sathi registration camp at Geetanjali Stadium is located in which part of Kolkata?",
-        "a": "East Kolkata",
-        "options": [
-            "North Kolkata",
-            "South Kolkata",
-            "East Kolkata",
-            "West Kolkata",
-            "Central Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the 4th State-Level Police Games and Sports Meet hosted?",
-        "a": "Cyberabad Police Commissionerate",
-        "options": [
-            "Warangal Commissionerate",
-            "Hyderabad City Police",
-            "Cyberabad Police Commissionerate",
-            "Ranga Reddy District Police",
-            "Khammam Police"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The BC Simha Garjana, where Bode Ramachandra Yadav addressed, was held near which town in Guntur district?",
-        "a": "Mangalagiri",
-        "options": [
-            "Guntur City",
-            "Vijayawada",
-            "Tenali",
-            "Mangalagiri",
-            "Chirala"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which district is the Arulmigu Subramaniyaswamy temple at Marudhamalai, where a 184 feet tall Lord Murugan statue is being installed?",
-        "a": "Coimbatore district",
-        "options": [
-            "Erode district",
-            "Ranipet district",
-            "Coimbatore district",
-            "Madurai district",
-            "Thanjavur district"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which temple received the 'UNESCO Asia and Pacific Award for Cultural Heritage' for its renovation in Kumbakonam?",
-        "a": "Tukkatchi Arulmigu Aabatsagayeswarar Temple",
-        "options": [
-            "Arulmigu Subramaniyaswamy temple",
-            "Arulmigu Velayudhaswamy temple",
-            "Tukkatchi Arulmigu Aabatsagayeswarar Temple",
-            "Brihadeeswarar Temple",
-            "Meenakshi Amman Temple"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The new bypass roads funded under CMRDP 2025-26 are being laid in which district?",
-        "a": "Tiruvannamalai district",
-        "options": [
-            "Vellore district",
-            "Krishnagiri district",
-            "Tiruvannamalai district",
-            "Salem district",
-            "Dharmapuri district"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the India AI Impact Summit - 2026 held?",
-        "a": "Delhi",
-        "options": [
-            "Visakhapatnam",
-            "Bengaluru",
-            "Mumbai",
-            "Delhi",
-            "Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which seaport project did Union Minister Suresh Gopi request Prime Minister Narendra Modi to allot to Kerala in 2014?",
-        "a": "Vizhinjam International Seaport",
-        "options": [
-            "Kochi Port",
-            "Tuticorin Port",
-            "Vizhinjam International Seaport",
-            "Mangaluru Port",
-            "Paradip Port"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When did former Union Railway Minister Mukul Roy pass away?",
+        "q": "On what date did the Namo Bharat RRTS record its highest-ever ridership, marking its first full day of operations?",
         "a": "February 23, 2026",
         "options": [
             "February 22, 2026",
             "February 24, 2026",
             "February 23, 2026",
-            "February 21, 2026",
-            "February 25, 2026"
+            "March 1, 2026",
+            "February 21, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the Trinamool Congress (TMC) party formed, of which Mukul Roy was a founder member?",
-        "a": "1998",
-        "options": [
-            "1995",
-            "2000",
-            "1998",
-            "1997",
-            "1999"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the budget for the year 2026-27, announcing the Banglar Yuba Sathi scheme, tabled by West Bengal Finance Minister Chandrima Bhattacharya?",
-        "a": "February 5, 2026",
-        "options": [
-            "February 1, 2026",
-            "February 10, 2026",
-            "February 5, 2026",
-            "February 3, 2026",
-            "February 7, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the target year for the completion of the new bypass roads project in Tiruvannamalai district?",
-        "a": "End of 2026",
-        "options": [
-            "End of 2025",
-            "End of 2027",
-            "End of 2026",
-            "Mid-2027",
-            "Mid-2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Samyukt Kisan Morcha (SKM) send a letter to President Droupadi Murmu urging dismissal of Union Commerce Minister Piyush Goyal?",
+        "q": "When did Prime Minister Narendra Modi formally inaugurate the complete 82-km Delhi-Meerut corridor and the new Meerut Metro link?",
         "a": "February 22, 2026",
         "options": [
-            "February 20, 2026",
-            "February 24, 2026",
-            "February 22, 2026",
+            "February 23, 2026",
             "February 21, 2026",
-            "February 23, 2026"
+            "February 22, 2026",
+            "March 1, 2026",
+            "February 15, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did Mukul Roy resign from his Rajya Sabha membership?",
-        "a": "October 11, 2017",
+        "q": "In which year was the Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Office and Terms of Office) Act passed?",
+        "a": "2023",
         "options": [
-            "October 10, 2017",
-            "October 12, 2017",
-            "October 11, 2017",
-            "October 9, 2017",
-            "October 13, 2017"
+            "2020",
+            "2021",
+            "2023",
+            "2024",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of the Banglar Yuba Sathi scheme announced in West Bengal?",
-        "a": "To provide cash incentive for unemployed youths",
+        "q": "When was the Election Commission of India permanently made a multi-member commission after drawing strength from clause (2) of Article 324?",
+        "a": "October 1, 1993",
         "options": [
-            "To provide housing for the poor",
-            "To offer free education to graduates",
-            "To provide cash incentive for unemployed youths",
-            "To support farmers with subsidies",
-            "To boost small businesses"
+            "1989",
+            "1990",
+            "October 1, 1993",
+            "1995",
+            "1997"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is International Mother Language Day observed, which was marked by a rally for Tamil language conservation?",
+        "a": "February 21",
+        "options": [
+            "January 26",
+            "February 14",
+            "February 21",
+            "March 8",
+            "April 22"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When are the upcoming Assembly elections in Punjab due?",
+        "a": "early 2027",
+        "options": [
+            "late 2026",
+            "early 2027",
+            "mid-2027",
+            "late 2027",
+            "early 2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When does the second lap of the Budget Session, where the government assured BMS of amendments to Labour Codes, begin?",
+        "a": "March 9",
+        "options": [
+            "February 28",
+            "March 1",
+            "March 9",
+            "March 15",
+            "April 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the deadline set by the Telangana government for completing the takeover process of the Hyderabad Metro Rail first phase?",
+        "a": "March 31",
+        "options": [
+            "February 28",
+            "April 15",
+            "March 31",
+            "May 1",
+            "June 30"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the Judges (Inquiry) Act, which deals with investigation into misbehaviour or incapacity by a commission member, enacted?",
+        "a": "1968",
+        "options": [
+            "1965",
+            "1970",
+            "1968",
+            "1972",
+            "1962"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the temporary multi-member status of the Election Commission, initially introduced in 1989, abolished?",
+        "a": "1990",
+        "options": [
+            "1988",
+            "1991",
+            "1990",
+            "1992",
+            "1993"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the Namo Bharat RRTS system, as mentioned in the text?",
+        "a": "Significantly reducing travel time between Delhi and key urban centres",
+        "options": [
+            "Promoting tourism",
+            "Enhancing freight transport",
+            "Significantly reducing travel time between Delhi and key urban centres",
+            "Boosting regional commerce",
+            "Providing an alternative to air travel"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main objective of the Lakshmir Bhandar scheme in West Bengal?",
-        "a": "Direct cash transfer social welfare scheme for women",
+        "q": "What was the alleged purpose of the Special Intensive Revision (SIR) in Bihar, as challenged in the Supreme Court?",
+        "a": "To delete voters in order to target minorities",
         "options": [
-            "To provide scholarships for girls",
-            "To empower women through skill development",
-            "Direct cash transfer social welfare scheme for women",
-            "To offer free healthcare to women",
-            "To ensure women's representation in politics"
+            "To update addresses of voters",
+            "To register new voters",
+            "To delete voters in order to target minorities",
+            "To simplify electoral rolls",
+            "To conduct a census"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court direct the West Bengal government to clarify the 'source of authority' for civic volunteer employment?",
-        "a": "Concerns over employing political acolytes and sympathizers as unverified civic volunteers in sensitive areas",
+        "q": "What constitutional provision forms the bedrock of democracy, as stated in the context of voter deletion during SIR?",
+        "a": "Adult franchise as provided in Article 326",
         "options": [
-            "To investigate salary discrepancies",
-            "To review their work conditions",
-            "Concerns over employing political acolytes and sympathizers as unverified civic volunteers in sensitive areas",
-            "To regularize their positions",
-            "To increase their training budget"
+            "Right to Education",
+            "Right to Information",
+            "Adult franchise as provided in Article 326",
+            "Freedom of Press",
+            "Right to Assemble"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the five main demands placed by Bode Ramachandra Yadav before the government for Backward Classes (BCs)?",
-        "a": "Immediate enactment of a BC Protection Act",
+        "q": "What is the primary reason why the procedure to remove the Chief Election Commissioner is designed to be complex and rigorous?",
+        "a": "To ensure its independence from any possible arbitrary action by the government",
         "options": [
-            "Increased funding for private schools",
-            "Abolition of all reservations",
-            "Immediate enactment of a BC Protection Act",
-            "Prioritizing upper-caste welfare",
-            "Reduction of agricultural subsidies"
+            "To save government funds",
+            "To ensure its independence from any possible arbitrary action by the government",
+            "To make it similar to other judicial appointments",
+            "To involve more parliamentary members",
+            "To allow for swift changes"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason cited for the Samyukt Kisan Morcha's demand to dismiss Union Commerce Minister Piyush Goyal?",
-        "a": "Allegedly betraying the nation's confidence by entering into a bilateral trade agreement with the United States detrimental to farmers",
+        "q": "What is the purpose of developing grassland in the Kawal Tiger Reserve?",
+        "a": "To increase the herbivorous population and prey base for tigers",
         "options": [
-            "Mismanagement of agricultural funds",
-            "Failure to address farmer protests",
-            "Allegedly betraying the nation's confidence by entering into a bilateral trade agreement with the United States detrimental to farmers",
-            "Reducing minimum support prices",
-            "Imposing new taxes on agricultural produce"
+            "To facilitate sheep grazing",
+            "To develop agricultural land",
+            "To increase the herbivorous population and prey base for tigers",
+            "To create tourist attractions",
+            "To reduce forest fire risk"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for the protest by BJP and TDP leaders against the Congress party in Visakhapatnam?",
-        "a": "For staging a demonstration during the India AI Impact Summit - 2026",
+        "q": "What is the stated purpose of the 'Mana Ooru\u2013Mana Badi' programme launched by the previous BRS government?",
+        "a": "To improve infrastructure and basic amenities in government schools",
         "options": [
-            "For criticizing the Prime Minister",
-            "For not supporting local industries",
-            "For staging a demonstration during the India AI Impact Summit - 2026",
-            "For opposing infrastructure projects",
-            "For raising fuel prices"
+            "To provide free textbooks",
+            "To offer scholarships to students",
+            "To improve infrastructure and basic amenities in government schools",
+            "To recruit new teachers",
+            "To promote adult literacy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of laying three new bypass roads in Tiruvannamalai district?",
-        "a": "To help heavy vehicles and long distance buses skip congested towns",
+        "q": "Why is the Karnataka Chief Minister reportedly pushing for a Cabinet reshuffle?",
+        "a": "To send a signal that he is firmly in the saddle",
         "options": [
-            "To promote tourism",
-            "To provide direct access to temples",
-            "To help heavy vehicles and long distance buses skip congested towns",
-            "To connect remote villages to the city center",
-            "To create new job opportunities for locals"
+            "To accommodate more opposition members",
+            "To reduce the size of the cabinet",
+            "To send a signal that he is firmly in the saddle",
+            "To prepare for early elections",
+            "To fulfill a pre-election promise"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main wish of Union Minister Suresh Gopi regarding his work at the Guruvayur temple?",
-        "a": "To be the chairman of the Guruvayoor Devaswom Board",
+        "q": "What is the primary benefit intended for employees under Telangana's new health and insurance coverage scheme?",
+        "a": "Free treatment and other services at empanelled private hospitals",
         "options": [
-            "To serve as a priest",
-            "To manage temple finances",
-            "To be the chairman of the Guruvayoor Devaswom Board",
-            "To become a lifelong devotee",
-            "To oversee temple renovations"
+            "Cash bonuses for good performance",
+            "Free foreign travel",
+            "Free treatment and other services at empanelled private hospitals",
+            "Housing subsidies",
+            "Access to exclusive government facilities"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the objective behind establishing a new directorate of secondary health in Telangana?",
+        "a": "To recommend measures for improving facilities and installing latest equipment in State-run hospitals",
+        "options": [
+            "To manage medical college admissions",
+            "To regulate private hospitals",
+            "To recommend measures for improving facilities and installing latest equipment in State-run hospitals",
+            "To oversee public health campaigns",
+            "To conduct medical research"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key demands of the Bharatiya Mazdoor Sangh (BMS) in their protests against the government?",
+        "a": "To withdraw the draft Electricity (Amendment) Bill",
+        "options": [
+            "To increase working hours",
+            "To privatize more industries",
+            "To withdraw the draft Electricity (Amendment) Bill",
+            "To reduce minimum wage",
+            "To ban trade unions"
         ],
         "cat": "Why"
     }
