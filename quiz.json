@@ -1,758 +1,758 @@
 [
     {
-        "q": "What percentage share of States in the divisible pool does the Sixteenth Finance Commission retain?",
-        "a": "41%",
+        "q": "Kerala Finance Minister K.N. Balagopal envisions the State's budget size will soon reach which of the following amounts?",
+        "a": "\u20b92 trillion",
         "options": [
-            "39%",
-            "41%",
-            "43%",
+            "\u20b91.9 trillion",
+            "\u20b92.1 trillion",
+            "\u20b92 trillion",
+            "\u20b91.8 trillion",
+            "\u20b92.05 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year did C. Achutha Menon present modern Kerala\u2019s first budget?",
+        "a": "1957",
+        "options": [
+            "1955",
+            "1956",
+            "1957",
+            "1958",
+            "1959"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who was the Finance Minister of the first Communist government in Kerala in 1957?",
+        "a": "C. Achutha Menon",
+        "options": [
+            "K.N. Balagopal",
+            "E.M.S. Namboodiripad",
+            "T.M. Thomas Isaac",
+            "Pinarayi Vijayan",
+            "C. Achutha Menon"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Kerala Budget on February 3, 2023, was presented at the Assembly in which city?",
+        "a": "Thiruvananthapuram",
+        "options": [
+            "Kochi",
+            "Kozhikode",
+            "Palakkad",
+            "Thiruvananthapuram",
+            "Thrissur"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was noted as the greatest concern for both the people and the government in C. Achutha Menon's 1957 budget speech?",
+        "a": "Food problem",
+        "options": [
+            "Unemployment",
+            "Industrial growth",
+            "Infrastructure development",
+            "Food problem",
+            "Healthcare access"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the real GSDP growth rate for the Kerala economy in 2023-24 (Quick Estimates)?",
+        "a": "6.5%",
+        "options": [
+            "6.2%",
+            "6.8%",
+            "6.5%",
+            "7.0%",
+            "6.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to C. Achutha Menon's 1957 speech, what factors contributed to unemployment being an acute problem in Kerala?",
+        "a": "Density of population, scarcity of arable land, and dearth of industries",
+        "options": [
+            "Lack of education and migration",
+            "Rapid industrialization and skill mismatch",
+            "Density of population, scarcity of arable land, and dearth of industries",
+            "Low per capita income and poor health indicators",
+            "Strong trade unions and political instability"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Kerala's per capita GSDP in 2023-24?",
+        "a": "\u20b91,76,072",
+        "options": [
+            "\u20b91,75,072",
+            "\u20b91,77,072",
+            "\u20b91,76,072",
+            "\u20b91,76,572",
+            "\u20b91,75,572"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to the 2011 Census, what percentage of Kerala's population lived in urban areas?",
+        "a": "47.7%",
+        "options": [
+            "45.7%",
+            "48.7%",
+            "47.7%",
+            "47.0%",
+            "46.5%"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who established the Centre for Development Studies (CDS) in 1971?",
+        "a": "K.N. Raj",
+        "options": [
+            "K.P. Kannan",
+            "T.M. Thomas Isaac",
+            "C. Achutha Menon",
+            "K.N. Raj",
+            "P. Bhaskaranunni"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the estimated average foreign remittance inflow to Kerala during the 1980-85 period?",
+        "a": "\u20b9530 crore",
+        "options": [
+            "\u20b9500 crore",
+            "\u20b9550 crore",
+            "\u20b9530 crore",
+            "\u20b9520 crore",
+            "\u20b9540 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to the Kerala Migration Survey 2023 (KMS 2023), what were the remittance inflows in 2022-2023?",
+        "a": "\u20b91,90,734 crore",
+        "options": [
+            "\u20b91,90,000 crore",
+            "\u20b91,91,000 crore",
+            "\u20b91,90,734 crore",
+            "\u20b91,89,734 crore",
+            "\u20b91,91,734 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the attributed reason for the rise in remittance inflows to Kerala in 2018-2019?",
+        "a": "2018 Kerala floods for relief and reconstruction",
+        "options": [
+            "Post-pandemic recovery",
+            "General rise in migration numbers",
+            "2018 Kerala floods for relief and reconstruction",
+            "Increased job opportunities in Gulf countries",
+            "Favorable exchange rates"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the total number of Keralites living abroad in 2013, as stated in the text?",
+        "a": "2.4 million",
+        "options": [
+            "2.2 million",
+            "2.5 million",
+            "2.4 million",
+            "2.3 million",
+            "2.6 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Kerala's unemployment rate for persons aged 15 years and above in 2023-24, according to the Periodic Labour Force Survey?",
+        "a": "7.2%",
+        "options": [
+            "7.0%",
+            "7.5%",
+            "7.2%",
+            "6.8%",
+            "7.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year did Kerala rank 15th in the Ease of Doing Business index published by the Union government?",
+        "a": "2021",
+        "options": [
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "According to the State Planning Board, high rates of unemployment in Kerala, especially among the educated, have been identified as the visible face of what?",
+        "a": "Mismatch between economic growth and human development",
+        "options": [
+            "Lack of industrial investment",
+            "Strong trade-unionist legacy",
+            "Mismatch between economic growth and human development",
+            "Declining foreign remittances",
+            "Aging population"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What has traditionally been blamed for the perceived lack of industrial growth in Kerala?",
+        "a": "Strong trade-unionist legacy",
+        "options": [
+            "Insufficient natural resources",
+            "Poor infrastructure development",
+            "Strong trade-unionist legacy",
+            "Lack of government support",
+            "High labor costs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the growth rate of Kerala's tertiary sector in 2023-24?",
+        "a": "8.9%",
+        "options": [
+            "8.5%",
+            "9.0%",
+            "8.9%",
+            "8.7%",
+            "9.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the net area sown in Kerala in 2023-24?",
+        "a": "19.7 lakh hectares",
+        "options": [
+            "19.5 lakh hectares",
+            "19.8 lakh hectares",
+            "19.7 lakh hectares",
+            "19.6 lakh hectares",
+            "19.9 lakh hectares"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the area under wetland paddy in Kerala in 2023-24?",
+        "a": "1.79 lakh hectares",
+        "options": [
+            "1.75 lakh hectares",
+            "1.80 lakh hectares",
+            "1.79 lakh hectares",
+            "1.70 lakh hectares",
+            "1.82 lakh hectares"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What are some of the 'critical gaps' identified as plaguing Kerala's farm sector?",
+        "a": "Low productivity levels, fragmented production, underdeveloped post-harvest facilities, labor shortages, and weak research extension",
+        "options": [
+            "Over-reliance on cash crops",
+            "Excessive government intervention",
+            "Low productivity levels, fragmented production, underdeveloped post-harvest facilities, labor shortages, and weak research extension",
+            "Lack of farmer education",
+            "Climate change only"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the productivity of rice in Kerala (kg/hectare)?",
+        "a": "2,790 kg/hectare",
+        "options": [
+            "2,750 kg/hectare",
+            "2,800 kg/hectare",
+            "2,790 kg/hectare",
+            "2,780 kg/hectare",
+            "2,810 kg/hectare"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the length of Kerala's coastline?",
+        "a": "590-km",
+        "options": [
+            "580-km",
+            "600-km",
+            "590-km",
+            "595-km",
+            "585-km"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Kerala's marine fish production in 2023-24?",
+        "a": "5.81 lakh metric tonnes",
+        "options": [
+            "5.75 lakh MT",
+            "5.85 lakh MT",
+            "5.81 lakh MT",
+            "5.80 lakh MT",
+            "5.70 lakh MT"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What factors have placed Kerala's coastal communities under immense strain in recent decades?",
+        "a": "Severe coastal erosion, effects of climate change, and declining fish stocks",
+        "options": [
+            "Overfishing by foreign vessels",
+            "Lack of government support for fishermen",
+            "Severe coastal erosion, effects of climate change, and declining fish stocks",
+            "Disputes over fishing rights",
+            "New U.S. tariff policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the value of Kerala's seafood exports in 2023-24?",
+        "a": "\u20b97,231.84 crore",
+        "options": [
+            "\u20b97,200 crore",
+            "\u20b97,250 crore",
+            "\u20b97,231.84 crore",
+            "\u20b97,230 crore",
+            "\u20b97,240 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total value of goods shipped abroad from Kerala in 2019-20?",
+        "a": "\u20b971,865 crore",
+        "options": [
+            "\u20b971,000 crore",
+            "\u20b972,000 crore",
+            "\u20b971,865 crore",
+            "\u20b971,500 crore",
+            "\u20b972,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Kerala's share of the divisible pool under the 15th Finance Commission?",
+        "a": "1.92%",
+        "options": [
+            "1.90%",
+            "2.00%",
+            "1.92%",
+            "1.95%",
+            "1.88%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Left government has consistently blamed the BJP-led Union government's fiscal policies for the prolonged financial squeeze Kerala has been experiencing. What specific actions drew the State's ire?",
+        "a": "Trimming borrowing space by treating KIIFB/KSSPL borrowings as State debt and discontinuing GST compensation",
+        "options": [
+            "Reducing Central grants for social welfare schemes",
+            "Increasing interest rates on State loans",
+            "Trimming borrowing space by treating KIIFB/KSSPL borrowings as State debt and discontinuing GST compensation",
+            "Imposing new taxes on State revenues",
+            "Interfering in State industrial policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many lakh people benefit from a monthly social security and welfare fund board pension of \u20b91,600 in Kerala?",
+        "a": "60 lakh",
+        "options": [
+            "55 lakh",
+            "65 lakh",
+            "60 lakh",
+            "58 lakh",
+            "62 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total amount spent by the LDF government (current and previous administrations) on social security and welfare fund board pensions?",
+        "a": "\u20b973,654 crore",
+        "options": [
+            "\u20b973,000 crore",
+            "\u20b974,000 crore",
+            "\u20b973,654 crore",
+            "\u20b973,500 crore",
+            "\u20b973,800 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In his 2025-26 Budget, Finance Minister Balagopal noted the government spends more than what amount annually on social security and welfare fund board pensions alone?",
+        "a": "\u20b911,000 crore",
+        "options": [
+            "\u20b910,000 crore",
+            "\u20b912,000 crore",
+            "\u20b911,000 crore",
+            "\u20b910,500 crore",
+            "\u20b911,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of total revenue expenditure did salaries and pensions constitute in Kerala in 2022-23 and 2023-24?",
+        "a": "45%",
+        "options": [
             "40%",
-            "42%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the sanctioned outlay for the CCTNS 2.0 project as announced by the Chief Minister for 2024-25?",
-        "a": "\u20b9124.37 crore",
-        "options": [
-            "\u20b9123.37 crore",
-            "\u20b9124.37 crore",
-            "\u20b9125.37 crore",
-            "\u20b9122.37 crore",
-            "\u20b9126.37 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much additional revenue is the Kochi Corporation Budget expected to generate through proposed measures?",
-        "a": "\u20b930 crore",
-        "options": [
-            "\u20b925 crore",
-            "\u20b930 crore",
-            "\u20b935 crore",
-            "\u20b928 crore",
-            "\u20b932 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount was allocated in the Kochi Corporation Budget for the project related to its comprehensive parking policy?",
-        "a": "\u20b940 lakh",
-        "options": [
-            "\u20b935 lakh",
-            "\u20b940 lakh",
-            "\u20b945 lakh",
-            "\u20b938 lakh",
-            "\u20b942 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the initial amount of the traditional brand fraud involving accounts of a Haryana Government department at IDFC First Bank's Chandigarh branch?",
-        "a": "\u20b9590 crore",
-        "options": [
-            "\u20b9580 crore",
-            "\u20b9590 crore",
-            "\u20b9600 crore",
-            "\u20b9585 crore",
-            "\u20b9595 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What net amount did IDFC First Bank pay out to the relevant departments of the Haryana government following the fraud?",
-        "a": "\u20b9583 crore",
-        "options": [
-            "\u20b9578 crore",
-            "\u20b9583 crore",
-            "\u20b9588 crore",
-            "\u20b9581 crore",
-            "\u20b9585 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "According to Nomura's report, what percentage of FY26 profit does the fraud amount under reconciliation form for IDFC First Bank?",
-        "a": "28%",
-        "options": [
-            "25%",
-            "28%",
-            "30%",
-            "27%",
-            "29%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was IDFC First Bank's CET-1 ratio as of December 25, according to Nomura's report?",
-        "a": "14.23%",
-        "options": [
-            "14.13%",
-            "14.23%",
-            "14.33%",
-            "14.20%",
-            "14.25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By what percentage could the provisioning requirement for the fraud impact IDFC First Bank's 4QFY26 Profit Before Tax (PBT) in a worst-case scenario, as per Motilal Oswal?",
-        "a": "56%",
-        "options": [
             "50%",
-            "56%",
-            "60%",
-            "54%",
-            "58%"
+            "45%",
+            "42%",
+            "48%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was IDFC First Bank's stock closing price on Tuesday?",
-        "a": "\u20b970.97",
+        "q": "In which year was the GST regime introduced in India, deeply impacting Kerala's finances?",
+        "a": "2017",
         "options": [
-            "\u20b970.87",
-            "\u20b970.97",
-            "\u20b971.07",
-            "\u20b970.90",
-            "\u20b971.00"
+            "2016",
+            "2018",
+            "2017",
+            "2015",
+            "2019"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "What is the approximate percentage of pay that kilometre allowance constitutes for Loco Pilots and Train Managers in Southern Railway?",
-        "a": "30%",
+        "q": "What was Kerala's Own Tax Revenues (SOTR) in 2024-25?",
+        "a": "\u20b976,656 crore",
         "options": [
-            "25%",
-            "30%",
-            "35%",
-            "28%",
-            "32%"
+            "\u20b976,000 crore",
+            "\u20b977,000 crore",
+            "\u20b976,656 crore",
+            "\u20b976,500 crore",
+            "\u20b977,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many days did V.K. Sasikala claim to have been by Jayalalithaa's side in the hospital?",
-        "a": "72 days",
+        "q": "What were Kerala's non-tax revenues in 2024-25?",
+        "a": "\u20b916,568 crore",
         "options": [
-            "65 days",
-            "72 days",
-            "80 days",
-            "70 days",
-            "75 days"
+            "\u20b916,000 crore",
+            "\u20b917,000 crore",
+            "\u20b916,568 crore",
+            "\u20b916,400 crore",
+            "\u20b916,600 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who stated that the Sixteenth Finance Commission retains the share of States in the divisible pool at 41% but makes no recommendation on non-shareable cess and surcharge?",
-        "a": "C. Rangarajan",
+        "q": "What were the immediate liabilities amounting to, that T.M. Thomas Isaac's white paper blamed on the previous UDF government?",
+        "a": "\u20b910,000 crore",
+        "options": [
+            "\u20b99,000 crore",
+            "\u20b911,000 crore",
+            "\u20b910,000 crore",
+            "\u20b99,500 crore",
+            "\u20b910,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "KIIFB, a financial entity in Kerala, was originally established in which year?",
+        "a": "1999",
+        "options": [
+            "1995",
+            "2000",
+            "1999",
+            "1998",
+            "2001"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "KIIFB has so far approved how many projects?",
+        "a": "1,180",
+        "options": [
+            "1,170",
+            "1,190",
+            "1,180",
+            "1,175",
+            "1,185"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total worth of projects approved by KIIFB?",
+        "a": "\u20b989,941 crore",
+        "options": [
+            "\u20b989,000 crore",
+            "\u20b990,000 crore",
+            "\u20b989,941 crore",
+            "\u20b989,500 crore",
+            "\u20b990,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "As of July 31, 2025, how much has KIIFB disbursed to various projects?",
+        "a": "\u20b936,160 crore",
+        "options": [
+            "\u20b936,000 crore",
+            "\u20b937,000 crore",
+            "\u20b936,160 crore",
+            "\u20b936,200 crore",
+            "\u20b936,100 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who headed the 16th Finance Commission when Kerala presented its initial memorandum in December 2024?",
+        "a": "Arvind Panagariya",
         "options": [
             "N.K. Singh",
-            "C. Rangarajan",
-            "Arvind Subramanian",
-            "Raghuram Rajan",
-            "Urjit Patel"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Director of the Madras School of Economics (MSE)?",
-        "a": "N.R. Bhanumurthy",
-        "options": [
-            "C. Rangarajan",
-            "N.R. Bhanumurthy",
+            "Y.V. Reddy",
             "Arvind Panagariya",
-            "Bibek Debroy",
-            "S.P. Singh"
+            "Vijay Kelkar",
+            "Bibek Debroy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the General Secretary of the Southern Railway Mazdoor Union (SRMU) who took up the issue of kilometre allowance with the Railway Board?",
-        "a": "N. Kanniah",
+        "q": "In which month and year did Finance Minister Balagopal hand over a Supplementary Memorandum to the 16th Finance Commission in New Delhi?",
+        "a": "September 2025",
         "options": [
-            "Paul Maxwell Johnson",
-            "N. Kanniah",
-            "V.K. Krishna Menon",
-            "R.K. Mishra",
-            "Suresh Prabhu"
+            "August 2025",
+            "October 2025",
+            "September 2025",
+            "July 2025",
+            "November 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What were the two main developments in 2025 that prompted Kerala to draft a supplementary memorandum to the 16th Finance Commission?",
+        "a": "U.S. tariffs and GST tax structure revamp",
+        "options": [
+            "COVID-19 pandemic and floods",
+            "Declining remittances and unemployment",
+            "U.S. tariffs and GST tax structure revamp",
+            "Fiscal deficit and borrowing limits",
+            "Aging population and declining fertility"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Kerala feared that the GST rate rejig would sharply drop its annual revenues by what range?",
+        "a": "\u20b98,000 crore to \u20b910,000 crore",
+        "options": [
+            "\u20b97,000 crore to \u20b99,000 crore",
+            "\u20b99,000 crore to \u20b911,000 crore",
+            "\u20b98,000 crore to \u20b910,000 crore",
+            "\u20b96,000 crore to \u20b98,000 crore",
+            "\u20b910,000 crore to \u20b912,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Kerala urged the 16th Finance Commission to raise the share of States in the divisible tax pool from the present 41% to what percentage?",
+        "a": "50%",
+        "options": [
+            "45%",
+            "55%",
+            "50%",
+            "48%",
+            "52%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which month and year was the Vizhinjam International Seaport formally inaugurated by Prime Minister Narendra Modi?",
+        "a": "May 2025",
+        "options": [
+            "April 2025",
+            "June 2025",
+            "May 2025",
+            "July 2025",
+            "March 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who formally inaugurated the Vizhinjam International Seaport in May 2025?",
+        "a": "Prime Minister Narendra Modi",
+        "options": [
+            "Chief Minister Pinarayi Vijayan",
+            "Finance Minister K.N. Balagopal",
+            "Prime Minister Narendra Modi",
+            "Law and Industries Minister P. Rajeeve",
+            "Governor of Kerala"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who visited the Panipat refinery to take stock of the situation after stone-pelting incidents?",
-        "a": "Panipat SP Bhupender Singh",
-        "options": [
-            "Panipat SP Bhupender Singh",
-            "Panipat DSP Rajbir Singh",
-            "Haryana CM",
-            "CISF Chief",
-            "Local MLA"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current national president of Congress, who commented on the IYC protest at the AI Impact Summit 2026?",
-        "a": "Mallikarjun Kharge",
-        "options": [
-            "Rahul Gandhi",
-            "Mallikarjun Kharge",
-            "Priyanka Gandhi",
-            "Sonia Gandhi",
-            "Shashi Tharoor"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Minister set to launch the Crime and Criminal Tracking Network and Systems (CCTNS) 2.0 and Digital Fingerprint Collection System (DFCS)?",
-        "a": "M.K. Stalin",
-        "options": [
-            "M.K. Stalin",
-            "K. Palaniswami",
-            "Pinarayi Vijayan",
-            "Siddaramaiah",
-            "K. Chandrashekar Rao"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the LDF Parliamentary Party leader who expressed disappointment with the Kochi Corporation\u2019s Budget?",
-        "a": "V.A. Sreejith",
-        "options": [
-            "V.A. Sreejith",
-            "Pinarayi Vijayan",
-            "M.P. Rajeswari",
-            "Hibi Eden",
-            "K. Muraleedharan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who introduced a resolution in the Jammu and Kashmir Assembly for the return of power projects run by NHPC to J&K?",
-        "a": "Sajad Shaheen",
-        "options": [
-            "Sajad Shaheen",
-            "Omar Abdullah",
-            "Mehbooba Mufti",
-            "Farooq Abdullah",
-            "Ghulam Nabi Azad"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current BJP State president who wrote to CM Siddaramaiah seeking withdrawal of restrictions on journalists at Vidhana Soudha?",
-        "a": "B.Y. Vijayendra",
-        "options": [
-            "B.Y. Vijayendra",
-            "B.S. Yeddyurappa",
-            "Basavaraj Bommai",
-            "Pralhad Joshi",
-            "Tejasvi Surya"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who unveiled the new party flag with portraits of C.N. Annadurai, M.G. Ramachandran, and Jayalalithaa?",
-        "a": "V.K. Sasikala",
-        "options": [
-            "V.K. Sasikala",
-            "O. Panneerselvam",
-            "K. Palaniswami",
-            "J. Jayalalithaa",
-            "T.T.V. Dhinakaran"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who secured the first place in the men\u2019s athletics (100 m) under-50 category at the A.P. Legislators Sports Meet?",
-        "a": "Parvathipuram MLA B. Vijay Chandra",
-        "options": [
-            "Assembly Speaker Ch. Ayyanna Patrudu",
-            "Parvathipuram MLA B. Vijay Chandra",
-            "Deputy Speaker K. Raghurama Krishna Raju",
-            "TDP State president Palla Srinivasa Rao",
-            "SAAP Chairman A. Ravi Naidu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the former Chief Minister who spoke about the necessity of organising sports events for legislators, as recalled by Assembly Speaker Ch. Ayyanna Patrudu?",
-        "a": "late N.T. Rama Rao",
-        "options": [
-            "late N.T. Rama Rao",
-            "Y.S. Rajasekhara Reddy",
-            "N. Chandrababu Naidu",
-            "K. Rosaiah",
-            "K. Vijaya Bhaskara Reddy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where was the one-day conference on the report of the Sixteenth Finance Commission organised?",
-        "a": "Madras Institute of Development Studies (MIDS)",
-        "options": [
-            "Indian Institute of Management",
-            "Madras Institute of Development Studies",
-            "Presidency College",
-            "Anna University",
-            "IIT Madras"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city are fishermen planning to organise a human chain protest on March 2 against the expansion of the Blue Flag scheme?",
-        "a": "Chennai",
+        "q": "The Vizhinjam International Seaport is located in which coastal city of Kerala?",
+        "a": "Thiruvananthapuram",
         "options": [
             "Kochi",
-            "Visakhapatnam",
-            "Chennai",
-            "Puducherry",
-            "Thiruvananthapuram"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The workers' protest involving stone-pelting and vandalism of vehicles occurred at a refinery in which district of Haryana?",
-        "a": "Panipat",
-        "options": [
-            "Gurugram",
-            "Faridabad",
-            "Panipat",
-            "Rohtak",
-            "Sonipat"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the Indian Youth Congress workers stage a protest during the India AI Impact Summit 2026?",
-        "a": "Bharat Mandapam, New Delhi",
-        "options": [
-            "Parliament House",
-            "India Gate",
-            "Jantar Mantar",
-            "Bharat Mandapam",
-            "Red Fort"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The IDFC First Bank fraud, amounting to \u20b9590 crore, involved employees working at its branch in which city?",
-        "a": "Chandigarh",
-        "options": [
-            "Mumbai",
-            "Delhi",
-            "Bengaluru",
-            "Chandigarh",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where is the A.P. Legislators Sports Meet being held for its second edition this year?",
-        "a": "Indira Gandhi Municipal Corporation (IGMC) stadium, Vijayawada",
-        "options": [
-            "Gachibowli Stadium",
-            "Jawaharlal Nehru Stadium",
-            "Indira Gandhi Municipal Corporation (IGMC) stadium",
-            "Visakhapatnam International Cricket Stadium",
-            "Anantapur Sports Village"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Sixteenth Finance Commission conference was organized by MIDS in association with which other institution?",
-        "a": "Madras School of Economics (MSE)",
-        "options": [
-            "Chennai Mathematical Institute",
-            "Loyola College",
-            "Madras School of Economics (MSE)",
-            "Stella Maris College",
-            "IIT Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city is the Kochi Corporation Budget proposed, disappointing the Opposition LDF?",
-        "a": "Kochi",
-        "options": [
-            "Thiruvananthapuram",
-            "Thrissur",
             "Kozhikode",
-            "Kochi",
-            "Alappuzha"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The CCTNS 2.0 and Digital Fingerprint Collection System (DFCS) projects will be formally launched at all police station/First Information Report registering units across which Indian state?",
-        "a": "Tamil Nadu",
-        "options": [
-            "Kerala",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Tamil Nadu",
-            "Telangana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Muvattupuzha police registered a case after a woman from which district alleged that her husband pronounced triple talaq to her via SMS?",
-        "a": "Alappuzha",
-        "options": [
-            "Kottayam",
-            "Ernakulam",
-            "Thrissur",
             "Alappuzha",
-            "Kollam"
+            "Thiruvananthapuram",
+            "Thrissur"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Vande Bharat Express service was initially planned for extension from Katra to which city from March 1?",
-        "a": "Jammu Tawi",
+        "q": "Kerala has set an ambitious goal to achieve 100% renewable-energy use by which target year?",
+        "a": "2040",
         "options": [
-            "Srinagar",
-            "Udhampur",
-            "Jammu Tawi",
-            "Baramulla",
-            "Anantnag"
+            "2030",
+            "2035",
+            "2040",
+            "2045",
+            "2050"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Kerala aims to become net carbon-neutral by which target year?",
+        "a": "2050",
+        "options": [
+            "2040",
+            "2045",
+            "2050",
+            "2055",
+            "2060"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the foundation of Kerala's future as it strives to build a climate-resilient economy, as stated by CM Pinarayi Vijayan?",
+        "a": "Green jobs and sustainable livelihoods",
+        "options": [
+            "Heavy industrialization",
+            "Increased foreign investments",
+            "Green jobs and sustainable livelihoods",
+            "Boost in tourism sector",
+            "Expansion of IT industry"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to a LinkedIn report cited by Law and Industries Minister P. Rajeeve, how many Keralite professionals had returned home?",
+        "a": "40,000",
+        "options": [
+            "35,000",
+            "45,000",
+            "40,000",
+            "38,000",
+            "42,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Law and Industries Minister P. Rajeeve framed the return of Keralite professionals as an opportunity for what purpose?",
+        "a": "To tap their skills",
+        "options": [
+            "To reduce unemployment abroad",
+            "To increase foreign remittances",
+            "To tap their skills",
+            "To develop new industries",
+            "To boost population growth"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Kerala\u2019s year-on-year inflation rate for August 2025?",
+        "a": "9.04%",
+        "options": [
+            "8.90%",
+            "9.10%",
+            "9.04%",
+            "9.00%",
+            "8.95%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What factors have made building climate resilience impossible to postpone for Kerala?",
+        "a": "Back-to-back floods, natural disasters, and recurring health emergencies",
+        "options": [
+            "International climate agreements",
+            "Decreasing rainfall patterns",
+            "Back-to-back floods, natural disasters, and recurring health emergencies",
+            "Economic recession",
+            "Lack of public awareness"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the current Chief Minister of Odisha, who chaired the High-Level Clearance Authority (HLCA) meeting?",
+        "a": "Mohan Charan Majhi",
+        "options": [
+            "Naveen Patnaik",
+            "Jagan Mohan Reddy",
+            "Mohan Charan Majhi",
+            "Himanta Biswa Sarma",
+            "Bhupesh Baghel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Odisha government approved industrial investment proposals worth what total amount?",
+        "a": "\u20b944,241.97 crore",
+        "options": [
+            "\u20b944,000 crore",
+            "\u20b945,000 crore",
+            "\u20b944,241.97 crore",
+            "\u20b944,100 crore",
+            "\u20b944,300 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Bharat Forge Limited will invest how much in Dhenkanal to establish an automotive, aerospace, and defence components manufacturing unit?",
+        "a": "\u20b93,000 crore",
+        "options": [
+            "\u20b92,900 crore",
+            "\u20b93,100 crore",
+            "\u20b93,000 crore",
+            "\u20b92,950 crore",
+            "\u20b93,050 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "ASP Semicon Private Limited proposed an investment of what amount for a semiconductor memory chip module plant in Khordha?",
+        "a": "\u20b94,620 crore",
+        "options": [
+            "\u20b94,500 crore",
+            "\u20b94,700 crore",
+            "\u20b94,620 crore",
+            "\u20b94,600 crore",
+            "\u20b94,650 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "ASP Semicon Private Limited proposed to establish a semiconductor memory chip module plant in which district of Odisha?",
+        "a": "Khordha",
+        "options": [
+            "Dhenkanal",
+            "Nayagarh",
+            "Koraput",
+            "Kalahandi",
+            "Khordha"
         ],
         "cat": "Where"
     },
     {
-        "q": "The resolution seeking the return of power projects run by NHPC was introduced in the Assembly of which Union Territory/State?",
-        "a": "Jammu and Kashmir",
+        "q": "On which date did the Odisha High-Level Clearance Authority (HLCA) meeting, chaired by CM Mohan Charan Majhi, approve industrial proposals?",
+        "a": "February 25, 2026",
         "options": [
-            "Himachal Pradesh",
-            "Uttarakhand",
-            "Punjab",
-            "Jammu and Kashmir",
-            "Ladakh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date is the human chain protest planned by fishermen in Chennai against the Blue Flag scheme expansion?",
-        "a": "March 2",
-        "options": [
-            "February 28",
-            "March 1",
-            "March 2",
-            "March 3",
-            "March 5"
+            "January 25, 2026",
+            "March 25, 2026",
+            "February 25, 2026",
+            "February 20, 2026",
+            "March 1, 2026"
         ],
         "cat": "When"
-    },
-    {
-        "q": "The refinery workers' protest in Panipat, Haryana, occurred on which specific date?",
-        "a": "Monday (February 23, 2026)",
-        "options": [
-            "Sunday (February 22, 2026)",
-            "Monday (February 23, 2026)",
-            "Tuesday (February 24, 2026)",
-            "Wednesday (February 25, 2026)",
-            "Thursday (February 26, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When were four more Indian Youth Congress members arrested in connection with the 'shirtless' protest at the AI Impact Summit?",
-        "a": "Tuesday (February 24, 2026)",
-        "options": [
-            "February 20",
-            "February 21",
-            "February 22",
-            "February 24",
-            "February 23"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The government blocked five OTT platforms for streaming obscene content on which specific date?",
-        "a": "Tuesday (February 24, 2026)",
-        "options": [
-            "Monday (February 23, 2026)",
-            "Tuesday (February 24, 2026)",
-            "Wednesday (February 25, 2026)",
-            "Thursday (February 26, 2026)",
-            "Friday (February 27, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what specific date was the IDFC First Bank fraud initially disclosed?",
-        "a": "Sunday (February 22, 2026)",
-        "options": [
-            "Friday (February 20, 2026)",
-            "Saturday (February 21, 2026)",
-            "Sunday (February 22, 2026)",
-            "Monday (February 23, 2026)",
-            "Tuesday (February 24, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did IDFC First Bank pay out 100% of the principal and interest to the Haryana government departments after the fraud?",
-        "a": "Tuesday (February 25, 2026)",
-        "options": [
-            "February 22",
-            "February 23",
-            "February 24",
-            "February 25",
-            "February 26"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The A.P. Legislators Sports Meet is a three-day event that will conclude on which specific date?",
-        "a": "February 26",
-        "options": [
-            "February 25",
-            "February 26",
-            "February 27",
-            "February 28",
-            "March 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date was the Vande Bharat Express service initially announced to be extended from Srinagar to Jammu?",
-        "a": "March 1",
-        "options": [
-            "February 28",
-            "March 1",
-            "March 5",
-            "March 10",
-            "March 15"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "V.K. Sasikala announced her decision to launch a political party on which specific date?",
-        "a": "Tuesday (February 24, 2026)",
-        "options": [
-            "February 20",
-            "February 21",
-            "February 22",
-            "February 23",
-            "February 24"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The FIR in the Muvattupuzha triple talaq case was filed on which day of the week?",
-        "a": "Monday",
-        "options": [
-            "Saturday",
-            "Sunday",
-            "Monday",
-            "Tuesday",
-            "Wednesday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the proposed purpose of the 'grand bargain' recommended by the Sixteenth Finance Commission between the Centre and States?",
-        "a": "States would agree to a smaller share provided the Centre agreed to merge a large part of the cesses and surcharges in the regular taxes.",
-        "options": [
-            "To increase the Centre's share of taxes",
-            "To eliminate all cesses and surcharges",
-            "States would agree to a smaller share provided the Centre agreed to merge a large part of the cesses and surcharges in the regular taxes.",
-            "To establish uniform tax rates across states",
-            "To provide direct financial aid to states"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What new variable has been added by the Sixteenth Finance Commission in horizontal distribution?",
-        "a": "Contribution to GDP",
-        "options": [
-            "Population density",
-            "Contribution to GDP",
-            "Human Development Index",
-            "Forest cover",
-            "Area"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main reason fishermen in Chennai are planning a human chain protest on March 2?",
-        "a": "To urge the government to give up the plan to include Marina Loop Road and more beachfront in the Blue Flag scheme expansion.",
-        "options": [
-            "To demand higher subsidies",
-            "To protest against new fishing regulations",
-            "To urge the government to give up the plan to include Marina Loop Road and more beachfront in the Blue Flag scheme expansion.",
-            "To get better infrastructure for boats",
-            "To celebrate a traditional festival"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was one of the key demands of the protesting workers at the Panipat refinery?",
-        "a": "Fixed eight hours of duty",
-        "options": [
-            "Higher bonus payments",
-            "Fixed eight hours of duty",
-            "Access to luxury facilities",
-            "Shorter shifts",
-            "Immediate promotions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the stated purpose of blocking five OTT platforms by the Ministry of Information and Broadcasting?",
-        "a": "For streaming obscene content",
-        "options": [
-            "To promote local content",
-            "For streaming obscene content",
-            "To reduce internet usage",
-            "To support new startups",
-            "To regulate news channels"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The blocking of OTT platforms aligns with which section of the Information Technology Act, 2000?",
-        "a": "Section 69A",
-        "options": [
-            "Section 42B",
-            "Section 88C",
-            "Section 69A",
-            "Section 101D",
-            "Section 55F"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose of the Kochi Corporation\u2019s proposal to issue municipal bonds?",
-        "a": "To mobilise capital for comprehensive infrastructure development and sustainable growth",
-        "options": [
-            "To reduce existing debt",
-            "To finance local festivals",
-            "To mobilise capital for comprehensive infrastructure development and sustainable growth",
-            "To provide loans to citizens",
-            "To invest in international markets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the objective of constituting a sub-committee in Kochi Corporation's budget to increase own revenue?",
-        "a": "To oversee the initiative to increase the Corporation\u2019s own revenue by 10%",
-        "options": [
-            "To manage waste disposal",
-            "To oversee the initiative to increase the Corporation\u2019s own revenue by 10%",
-            "To promote tourism",
-            "To develop new housing projects",
-            "To streamline public transport"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary goal of the CCTNS 2.0 application developed for Tamil Nadu Police?",
-        "a": "To enhance operational efficiency in crime detection, investigation, supervision, and data-driven policing",
-        "options": [
-            "To simplify administrative tasks",
-            "To enhance operational efficiency in crime detection, investigation, supervision, and data-driven policing",
-            "To improve police housing",
-            "To facilitate communication with other states",
-            "To manage traffic flow"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Under which Act were Sections 3 and 4 invoked in the Muvattupuzha triple talaq case?",
-        "a": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
-        "options": [
-            "Indian Penal Code",
-            "Family Law Act",
-            "Bharatiya Nyaya Sanhita",
-            "Muslim Women (Protection of Rights on Marriage) Act, 2019",
-            "Special Marriage Act"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the Southern Railway administration initially propose withholding kilometre allowance and other allowances for February?",
-        "a": "Due to financial constraints, as expenditure had exceeded budgetary allocation",
-        "options": [
-            "To encourage staff to work overtime",
-            "Due to financial constraints, as expenditure had exceeded budgetary allocation",
-            "To fund new projects",
-            "To reduce staff numbers",
-            "As a disciplinary measure"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was one of the reasons highlighted by SRMU against withholding kilometre allowance?",
-        "a": "Likely to affect staff morale and operational efficiency",
-        "options": [
-            "Increase in train accidents",
-            "Reduction in passenger numbers",
-            "Likely to affect staff morale and operational efficiency",
-            "Decrease in punctuality",
-            "Rise in fuel costs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the stated purpose of organising the A.P. Legislators Sports Meet?",
-        "a": "To provide relief from the daily grind for legislators and maintain cordial relations",
-        "options": [
-            "To identify new sports talent",
-            "To raise funds for sports development",
-            "To provide relief from the daily grind for legislators and maintain cordial relations",
-            "To promote a specific sport",
-            "To prepare for national competitions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the core demand of the National Conference (NC) resolution introduced in the Jammu and Kashmir Assembly regarding power projects?",
-        "a": "Return of power projects run by NHPC to Jammu and Kashmir",
-        "options": [
-            "Increased funding for NHPC projects",
-            "Modernization of power projects",
-            "Return of power projects run by NHPC to Jammu and Kashmir",
-            "Relocation of power projects",
-            "Joint management with NHPC"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why does V.K. Sasikala claim she is returning to active politics?",
-        "a": "Remaining silent any longer would be a betrayal to the people of Tamil Nadu and her party workers.",
-        "options": [
-            "To contest the upcoming Assembly elections",
-            "To seek revenge on political rivals",
-            "To publish a new autobiography",
-            "Remaining silent any longer would be a betrayal to the people of Tamil Nadu and her party workers.",
-            "To join a national party"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary objective of the Digital Fingerprint Collection System (DFCS)?",
-        "a": "To enable digital collection, validation, and storage of fingerprint records.",
-        "options": [
-            "To track criminal movement across borders",
-            "To enable digital collection, validation, and storage of fingerprint records.",
-            "To enhance digital forensic capabilities only",
-            "To automate police attendance",
-            "To manage police vehicle fleets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did BJP State president B.Y. Vijayendra object to the DPAR\u2019s circular on journalist restrictions at Vidhana Soudha?",
-        "a": "He maintained that security can be tightened without hindering the media from doing their professional duties and called for transparency.",
-        "options": [
-            "He believed it was an unconstitutional act",
-            "He argued it would reduce public interest in government activities",
-            "He maintained that security can be tightened without hindering the media from doing their professional duties and called for transparency.",
-            "He wanted to expand the number of journalists allowed",
-            "He felt the restrictions were not strict enough"
-        ],
-        "cat": "Why"
     }
 ]
