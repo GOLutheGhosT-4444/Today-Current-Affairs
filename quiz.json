@@ -1,722 +1,794 @@
 [
     {
-        "q": "Ernakulam District Panchayat's presented Budget for 2026-27 envisages a total revenue of how much?",
-        "a": "\u20b9177,88,20,344",
+        "q": "According to Congress MLA Jignesh Mevani, approximately how many people belonging to a particular community were targeted for removal of names in Gujarat as part of a pre-planned strategy?",
+        "a": "14 lakh",
         "options": [
-            "\u20b9177,98,20,344",
-            "\u20b9177,88,20,344",
-            "\u20b9177,78,20,344",
-            "\u20b9177,80,20,344",
-            "\u20b9177,90,20,344"
+            "12 lakh",
+            "13 lakh",
+            "14 lakh",
+            "15 lakh",
+            "16 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed expenditure in the Ernakulam District Panchayat Budget for the financial year 2026-27?",
-        "a": "\u20b9163,13,02,500",
+        "q": "How many posts is the Karnataka government initiating recruitment for, with a quota for 101 Scheduled Castes?",
+        "a": "56,432",
         "options": [
-            "\u20b9163,03,02,500",
-            "\u20b9163,23,02,500",
-            "\u20b9163,13,02,500",
-            "\u20b9163,10,02,500",
-            "\u20b9163,15,02,500"
+            "55,432",
+            "56,432",
+            "57,432",
+            "58,432",
+            "59,432"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much amount has been allocated for the comprehensive development of the agricultural sector in the Ernakulam District Panchayat Budget 2026-27?",
-        "a": "\u20b918 crore",
+        "q": "What is the overall quota cap mentioned in the Government Order (GO) regarding recruitment in Karnataka?",
+        "a": "50%",
         "options": [
-            "\u20b917 crore",
-            "\u20b919 crore",
-            "\u20b918 crore",
-            "\u20b917.5 crore",
-            "\u20b918.5 crore"
+            "45%",
+            "48%",
+            "50%",
+            "52%",
+            "55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "An amount of \u20b915.60 crore has been allocated in the Ernakulam District Panchayat Budget 2026-27 for which sector's activities?",
-        "a": "Education sector",
+        "q": "What percentage of posts has been asked to be reserved for Scheduled Castes (SCs) in the Karnataka government's recruitment order, subject to court's final order?",
+        "a": "2%",
         "options": [
-            "Health sector",
-            "Agricultural sector",
-            "Education sector",
-            "Housing sector",
-            "Drinking water issues"
+            "1%",
+            "2%",
+            "3%",
+            "4%",
+            "5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the allocation for housing in the Ernakulam District Panchayat Budget 2026-27?",
-        "a": "\u20b918 crore",
+        "q": "What percentage of posts has been asked to be reserved for Scheduled Tribes (STs) in the Karnataka government's recruitment order, subject to court's final order?",
+        "a": "4%",
         "options": [
-            "\u20b917 crore",
-            "\u20b919 crore",
-            "\u20b918 crore",
-            "\u20b917.5 crore",
-            "\u20b918.5 crore"
+            "3%",
+            "4%",
+            "5%",
+            "6%",
+            "7%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much amount has been set apart for projects in the Health sector in the Ernakulam District Panchayat Budget 2026-27?",
-        "a": "\u20b916 crore",
+        "q": "The Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022, increased reservation for SCs from 15% to what new percentage?",
+        "a": "17%",
         "options": [
-            "\u20b915 crore",
-            "\u20b917 crore",
-            "\u20b916 crore",
-            "\u20b915.5 crore",
-            "\u20b916.5 crore"
+            "16%",
+            "17%",
+            "18%",
+            "19%",
+            "20%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the allocation for the comprehensive development of Scheduled Caste communities in the Ernakulam District Panchayat Budget 2026-27?",
-        "a": "\u20b913 crore",
+        "q": "Under the 2022 Act, what was the increase in reservation for STs, from 3% to what new percentage?",
+        "a": "7%",
         "options": [
-            "\u20b912 crore",
-            "\u20b914 crore",
-            "\u20b913 crore",
-            "\u20b912.5 crore",
-            "\u20b913.5 crore"
+            "5%",
+            "6%",
+            "7%",
+            "8%",
+            "9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Kochi Corporation's Budget for 2026-27 was initially presented with a surplus of how much?",
-        "a": "\u20b9132 crore",
+        "q": "In the overall 17% reservation for SCs, what percentage does The Karnataka Scheduled Castes (Sub-classification) Bill, 2025, provide for Dalit left communities?",
+        "a": "6%",
         "options": [
-            "\u20b9130 crore",
-            "\u20b9135 crore",
-            "\u20b9132 crore",
-            "\u20b9131 crore",
-            "\u20b9133 crore"
+            "4%",
+            "5%",
+            "6%",
+            "7%",
+            "8%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The State's first Dark Sky Park in Tamil Nadu was established at what cost?",
-        "a": "\u20b91 crore",
+        "q": "The Karnataka Scheduled Castes (Sub-classification) Bill, 2025, provides what percentage reservation for \"touchable\" castes like Bhovi, Lambani, Korama, and Koracha, along with 59 nomadic communities?",
+        "a": "5%",
         "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%",
+            "7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many bighas are proposed for excavation under the 'Flood mitigation by capacity augmentation of wetlands' project in Jorhat district?",
+        "a": "1,700 bighas",
+        "options": [
+            "1,500 bighas",
+            "1,600 bighas",
+            "1,700 bighas",
+            "1,800 bighas",
+            "1,900 bighas"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many acres does 1,700 bighas equate to, regarding the flood mitigation project excavation?",
+        "a": "561 acres",
+        "options": [
+            "550 acres",
+            "561 acres",
+            "570 acres",
+            "580 acres",
+            "590 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed length of the stretch from the KSRTC bus stand to the railway station to be developed as a gender-inclusive, age-friendly, disability-friendly, and safe corridor in Kozhikode?",
+        "a": "1.6-km",
+        "options": [
+            "1.2-km",
+            "1.4-km",
+            "1.6-km",
+            "1.8-km",
+            "2.0-km"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much amount has been set aside in the Kozhikode Corporation Budget for the pre-monsoon drive?",
+        "a": "\u20b93 crore",
+        "options": [
+            "\u20b92.5 crore",
+            "\u20b92.8 crore",
+            "\u20b93 crore",
+            "\u20b93.2 crore",
+            "\u20b93.5 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much amount has been allocated in the Kozhikode Corporation Budget for the construction of 63 houses for extremely poor people in Nellikode and Beypore?",
+        "a": "\u20b92.52 crore",
+        "options": [
+            "\u20b92.40 crore",
+            "\u20b92.45 crore",
+            "\u20b92.52 crore",
+            "\u20b92.55 crore",
+            "\u20b92.60 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many houses are proposed to be constructed for extremely poor people in Nellikode and Beypore with the allocated budget?",
+        "a": "63",
+        "options": [
+            "58",
+            "60",
+            "63",
+            "65",
+            "68"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much amount has been allocated in the Kozhikode Corporation Budget for identifying a dignified and sustainable source of income for the Haritha Karma Sena?",
+        "a": "\u20b990 lakh",
+        "options": [
+            "\u20b970 lakh",
+            "\u20b980 lakh",
             "\u20b990 lakh",
-            "\u20b91.1 crore",
-            "\u20b91 crore",
-            "\u20b995 lakh",
-            "\u20b91.05 crore"
+            "\u20b9100 lakh",
+            "\u20b9110 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people are allowed at a time in the Tamil Nadu Dark Sky Park to ensure safety and protection of the landscape?",
-        "a": "20",
+        "q": "How many modern toilets are proposed to be constructed in different parts of Kozhikode city according to the budget?",
+        "a": "18",
         "options": [
             "15",
-            "25",
-            "20",
+            "16",
             "18",
+            "20",
             "22"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many new cases of cervical cancer are reported annually among women in India?",
-        "a": "80,000",
+        "q": "How many selected houses will implement the Responsible Tourism project in Kozhikode?",
+        "a": "100",
         "options": [
-            "70,000",
-            "90,000",
-            "80,000",
-            "75,000",
-            "85,000"
+            "80",
+            "90",
+            "100",
+            "110",
+            "120"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many explosive cartridges were found near the main gate of Hutti Gold Mines?",
-        "a": "16",
+        "q": "What is the total estimated worth of projects Prime Minister Narendra Modi will inaugurate and lay foundation stones for during his Tamil Nadu visit?",
+        "a": "More than \u20b94,000 crore",
         "options": [
-            "15",
-            "17",
-            "16",
-            "14",
-            "18"
+            "More than \u20b93,500 crore",
+            "More than \u20b94,000 crore",
+            "More than \u20b94,500 crore",
+            "More than \u20b95,000 crore",
+            "More than \u20b93,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Deputy Foreign Minister of Japan who spoke at the foreign policy conclave in Shillong?",
-        "a": "Horii Iwao",
+        "q": "What is the specific value of projects related to National Highways Authority, Railways, and Prasar Bharati that PM Modi will participate in the foundation stone-laying ceremony for?",
+        "a": "Around \u20b94,400 crore",
         "options": [
-            "Sanae Takaichi",
-            "Toshimitsu Motegi",
-            "Horii Iwao",
-            "Shinzo Abe",
-            "Fumio Kishida"
+            "Around \u20b94,200 crore",
+            "Around \u20b94,300 crore",
+            "Around \u20b94,400 crore",
+            "Around \u20b94,500 crore",
+            "Around \u20b94,600 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cash prize associated with the Beacon Award bagged by Farook College's magazine 'Chuttu'?",
+        "a": "\u20b910,000",
+        "options": [
+            "\u20b95,000",
+            "\u20b97,500",
+            "\u20b910,000",
+            "\u20b912,500",
+            "\u20b915,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the value of the ITF W35 Kalaburagi-2026 women\u2019s tennis tournament?",
+        "a": "USD 30,000",
+        "options": [
+            "USD 20,000",
+            "USD 25,000",
+            "USD 30,000",
+            "USD 35,000",
+            "USD 40,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who delivered the ruling in the Gujarat Assembly, clarifying that members could discuss supplementary demands and administrative lapses of the state machinery but not ECI's statutory duties?",
+        "a": "Speaker Shankar Chaudhary",
+        "options": [
+            "Arjun Modhwadia",
+            "Ramanlal Vora",
+            "Speaker Shankar Chaudhary",
+            "Kirit Patel",
+            "Kanubhai Desai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Japan's first female Prime Minister mentioned in the news text?",
-        "a": "Sanae Takaichi",
+        "q": "Who is the Finance Minister of Gujarat who responded to the concerns about Form 7, stating that field verification is mandatory before name deletion?",
+        "a": "Kanubhai Desai",
         "options": [
-            "Yuriko Koike",
-            "Sanae Takaichi",
-            "Tomomi Inada",
-            "Seiko Noda",
-            "Masako Owada"
+            "Arjun Modhwadia",
+            "Ramanlal Vora",
+            "Kanubhai Desai",
+            "Shankar Chaudhary",
+            "Amit Chavda"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who presented the Budget for the financial year 2026-27 for the Ernakulam district panchayat?",
-        "a": "Cintra Jacob",
+        "q": "Which department issued the Government Order (GO) regarding the recruitment process in Karnataka without internal reservation?",
+        "a": "Department of Personnel and Administrative Reforms",
         "options": [
-            "K.G. Radhakrishnan",
-            "V.K. Minimol",
-            "Cintra Jacob",
-            "Deepak Joy",
-            "P.S. Shibu"
+            "Department of Social Welfare",
+            "Department of Finance",
+            "Department of Personnel and Administrative Reforms",
+            "Department of Law and Justice",
+            "Department of Education"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who presided over the Ernakulam district panchayat Budget presentation?",
-        "a": "K.G. Radhakrishnan",
+        "q": "Who is the convener of the Committee for Internal Reservation for Social Justice, which threatened a protest on March 11?",
+        "a": "Basavaraj Kowthal",
         "options": [
-            "Cintra Jacob",
-            "K.G. Radhakrishnan",
-            "V.A. Sreejith",
-            "Deepak Joy",
-            "P.S. Shibu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who presented the Kochi Corporation\u2019s Budget for 2026-27?",
-        "a": "Deepak Joy",
-        "options": [
-            "V.K. Minimol",
-            "V.A. Sreejith",
-            "Deepak Joy",
-            "P.S. Shibu",
-            "Cintra Jacob"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who inaugurated Tamil Nadu's first Dark Sky Park at Ariyur Shola Reserve Forest?",
-        "a": "R.S. Rajakannappan",
-        "options": [
-            "Supriya Sahu",
-            "Srinivas R. Reddy",
-            "R.S. Rajakannappan",
-            "Rakesh Kumar Dogra",
+            "K.H. Muniyappa",
+            "R.B. Thimmapur",
+            "Basavaraj Kowthal",
+            "Rahul Gandhi",
             "M.K. Stalin"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is slated to launch a nationwide Human Papillomavirus (HPV) vaccination campaign from Ajmer?",
-        "a": "Narendra Modi",
+        "q": "Who is the Raijor Dal leader served a notice by the police for allegedly instigating villagers against the flood mitigation project?",
+        "a": "Debanga Sourav Gogoi",
         "options": [
-            "Narendra Modi",
-            "Amit Shah",
-            "Jagat Prakash Nadda",
-            "Mansukh Mandaviya",
-            "S. Jaishankar"
+            "Akhil Gogoi",
+            "Debanga Sourav Gogoi",
+            "Suren Phukan",
+            "Bipul Bora",
+            "Pranjal Saikia"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of Kerala who commented on the discharge of Arvind Kejriwal and Manish Sisodia in the liquor policy case?",
-        "a": "Pinarayi Vijayan",
+        "q": "Who is the president of the Bidar Nagarika Sanmarga Samiti (BNSS)?",
+        "a": "Abdul Khadeer",
         "options": [
-            "M.K. Stalin",
-            "Basavaraj Bommai",
-            "Pinarayi Vijayan",
-            "Siddaramaiah",
-            "E.K. Nayanar"
+            "Basavaraj Malge",
+            "Ashok Wadgave",
+            "Suresh Chanashetti",
+            "Abdul Khadeer",
+            "Arun Kulkarni"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who launched the State Action Plan for Prevention and Control of Snakebite Envenoming (SAPSE) and State Action Plan for Rabies Elimination (SAPRE) in Karnataka?",
-        "a": "Dinesh Gundu Rao",
+        "q": "Who presented the annual Budget of the Kozhikode Corporation?",
+        "a": "Deputy Mayor S. Jayasree",
         "options": [
-            "Siddaramaiah",
-            "Basavaraj Bommai",
-            "Dinesh Gundu Rao",
-            "K. Sudhakar",
-            "B.S. Yeddyurappa"
+            "Mayor A.K. Sasi",
+            "Deputy Mayor S. Jayasree",
+            "Finance Minister K.N. Balagopal",
+            "Corporation Commissioner",
+            "Haritha Karma Sena Chief"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of Telangana who met with recently surrendered CPI (Maoist) leaders?",
-        "a": "A. Revanth Reddy",
+        "q": "Who is the current Tamil Nadu BJP president mentioned inspecting the convention grounds ahead of PM Modi's visit?",
+        "a": "Nainar Nagenthran",
         "options": [
-            "K. Chandrashekar Rao",
+            "K. Annamalai",
+            "L. Murugan",
+            "Piyush Goyal",
+            "Nainar Nagenthran",
+            "M.K. Stalin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was adjudged Best Editor for the Farook College magazine 'Chuttu' which won the Beacon Award?",
+        "a": "Aslam E.T.",
+        "options": [
+            "Aslam E.T.",
+            "Mohammed Shafeeq",
+            "Fathima N.",
+            "Arun Kulkarni",
+            "S. Jayasree"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which cultural organisation instituted the Beacon Award for college magazines?",
+        "a": "Beacon Calicut",
+        "options": [
+            "Kozhikode Arts Council",
+            "Beacon Calicut",
+            "Farook College Literary Club",
+            "Malayalam Literary Society",
+            "Calicut Cultural Forum"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the working president of BRS who alleged that the A. Revanth Reddy Government had pushed Hyderabad into abyss?",
+        "a": "K.T. Rama Rao",
+        "options": [
             "A. Revanth Reddy",
-            "N. Chandrababu Naidu",
-            "Y.S. Jagan Mohan Reddy",
-            "K. T. Rama Rao"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who bagged a bronze medal in floristry at the \u2018Indiaskills 2025-26\u2019 regional competition in Hyderabad?",
-        "a": "Valluru Honeygrace",
-        "options": [
-            "S.L.B. Sankar Sharma",
-            "Jishnu Dev Verma",
-            "Valluru Honeygrace",
-            "Padma M.R.",
-            "Supriya Shrinate"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who inaugurated the 'GI on Wheels' initiative launched by TGSRTC in Hyderabad?",
-        "a": "Jishnu Dev Verma",
-        "options": [
-            "A. Revanth Reddy",
             "K. Chandrashekar Rao",
-            "Jishnu Dev Verma",
-            "P.S. Shibu",
-            "Deepak Joy"
+            "K.T. Rama Rao",
+            "Dasoju Sravan",
+            "Karne Prabhakar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Japan's Deputy Foreign Minister Horii Iwao spoke at a foreign policy conclave in which city of Meghalaya?",
-        "a": "Shillong",
+        "q": "Who is the State Information Commissioner for Karnataka Information Commission's Kalaburagi Bench?",
+        "a": "B. Venkata Singh",
         "options": [
-            "Tura",
-            "Jowai",
-            "Shillong",
-            "Cherrapunji",
-            "Nongpoh"
+            "B. Venkata Singh",
+            "Fouzia Taranum",
+            "Sharan Prakash Patil",
+            "Priyank Kharge",
+            "Arun Kulkarni"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which university is collaborating with APSCHE and Commissionerate of Collegiate Education for the FDP on AI?",
+        "a": "Andhra University, Visakhapatnam",
+        "options": [
+            "Osmania University",
+            "Jawaharlal Nehru Technological University",
+            "Andhra University, Visakhapatnam",
+            "Sri Venkateswara University",
+            "Kakatiya University"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which district of eastern Assam is the flood mitigation project, leading to protests, being undertaken?",
+        "a": "Jorhat district",
+        "options": [
+            "Guwahati district",
+            "Dibrugarh district",
+            "Jorhat district",
+            "Kamrup district",
+            "Sibsagar district"
         ],
         "cat": "Where"
     },
     {
-        "q": "The G20 summit, on the sidelines of which PM Modi met Japan's PM Sanae Takaichi, was held in which country?",
-        "a": "South Africa",
+        "q": "In which city was a consultative meeting organised by the Bidar Nagarika Sanmarga Samiti (BNSS) on curbing social evils?",
+        "a": "Bidar",
         "options": [
-            "India",
-            "Japan",
-            "South Africa",
-            "Brazil",
-            "Indonesia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "External Affairs Minister S. Jaishankar hosted his Japanese counterpart Toshimitsu Motegi at which venue?",
-        "a": "Hyderabad House",
-        "options": [
-            "Vigyan Bhawan",
-            "Rashtrapati Bhavan",
-            "Hyderabad House",
-            "Parliament House",
-            "7, Lok Kalyan Marg"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Ernakulam District Panchayat Budget proposes to convert a heritage building in which town into an agricultural museum?",
-        "a": "Aluva",
-        "options": [
-            "Kochi",
-            "Thrissur",
-            "Aluva",
-            "Kottayam",
-            "Muvattupuzha"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Tamil Nadu's first Dark Sky Park was launched at which reserve forest?",
-        "a": "Ariyur Shola Reserve Forest",
-        "options": [
-            "Mudumalai Tiger Reserve",
-            "Anaimalai Tiger Reserve",
-            "Ariyur Shola Reserve Forest",
-            "Kalakkad Mundanthurai Tiger Reserve",
-            "Sathyamangalam Tiger Reserve"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Dark Sky Park is located in which district of Tamil Nadu?",
-        "a": "Namakkal",
-        "options": [
-            "Salem",
-            "Erode",
-            "Namakkal",
-            "Dindigul",
-            "Karur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Prime Minister Narendra Modi will launch the nationwide HPV vaccination campaign from which city?",
-        "a": "Ajmer",
-        "options": [
-            "Jaipur",
-            "Udaipur",
-            "Ajmer",
-            "Jodhpur",
-            "Pushkar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the \u2018Indiaskills 2025-26\u2019 regional competition conducted, where Valluru Honeygrace won a bronze medal?",
-        "a": "Hyderabad",
-        "options": [
+            "Kalaburagi",
             "Bengaluru",
-            "Chennai",
-            "Hyderabad",
-            "Visakhapatnam",
-            "Amaravati"
+            "Mysuru",
+            "Bidar",
+            "Mangaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "The 'GI on Wheels' initiative was launched by TGSRTC in which city?",
-        "a": "Hyderabad",
+        "q": "In which city is the KSRTC bus stand to railway station stretch being developed as a gender-inclusive, age-friendly, disability-friendly, and safe corridor?",
+        "a": "Kozhikode",
         "options": [
-            "Warangal",
-            "Karimnagar",
-            "Hyderabad",
-            "Secunderabad",
-            "Nizamabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Hutti Gold Mines, where explosive cartridges were found, are located in which district?",
-        "a": "Raichur",
-        "options": [
-            "Ballari",
-            "Koppal",
-            "Raichur",
-            "Gadag",
-            "Vijayapura"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The 100% Bicycle Literacy Campaign was launched at Government College for Women in which city of Kerala?",
-        "a": "Thiruvananthapuram",
-        "options": [
+            "Thiruvananthapuram",
             "Kochi",
             "Kozhikode",
-            "Thiruvananthapuram",
-            "Thrissur",
-            "Kannur"
+            "Kannur",
+            "Thrissur"
         ],
         "cat": "Where"
     },
     {
-        "q": "The NCERT asked for the banned textbook to be returned to the Publication Division of the Department of Education in Social Sciences in which city?",
-        "a": "New Delhi",
+        "q": "Which temple in Madurai will Prime Minister Narendra Modi visit for the first time during his tour?",
+        "a": "Thiruparankundram Murugan Temple",
         "options": [
-            "Mumbai",
-            "Bengaluru",
-            "New Delhi",
-            "Chennai",
-            "Kolkata"
+            "Meenakshi Amman Temple",
+            "Ramanathaswamy Temple",
+            "Kapaleeshwarar Temple",
+            "Thiruparankundram Murugan Temple",
+            "Nellaiappar Temple"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did Japan's Deputy Foreign Minister Horii Iwao speak at the foreign policy conclave in Shillong?",
-        "a": "February 27, 2026",
+        "q": "Where will the Committee for Internal Reservation for Social Justice hold an indefinite fast if their demands are not met?",
+        "a": "In front of Cabinet Minister\u2019s offices in districts",
         "options": [
-            "February 26, 2026",
-            "February 28, 2026",
-            "February 27, 2026",
-            "March 1, 2026",
-            "January 16, 2026"
+            "Freedom Park, Bengaluru",
+            "Vidhana Soudha, Bengaluru",
+            "In front of Cabinet Minister\u2019s offices in districts",
+            "High Court of Karnataka",
+            "Tumakuru"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Prime Minister Narendra Modi travelled to Japan on which dates in 2025?",
-        "a": "August 29-30",
+        "q": "The penalties for RTI non-compliance were imposed by which bench of the Karnataka Information Commission?",
+        "a": "Kalaburagi Bench",
         "options": [
-            "August 28-29",
-            "August 30-31",
-            "August 29-30",
-            "September 1-2",
-            "August 27-28"
+            "Bengaluru Bench",
+            "Mysuru Bench",
+            "Mangaluru Bench",
+            "Hubballi Bench",
+            "Kalaburagi Bench"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "The Ernakulam district panchayat Budget for the financial year 2026-27 was presented on which day?",
-        "a": "Friday, February 27",
+        "q": "Where will the Faculty Development Programme (FDP) on 'Discipline-Specific Applications of Artificial Intelligence (AI)' for faculty members from Andhra Pradesh take place?",
+        "a": "Executive Education Cell, School of Management Studies, University of Hyderabad",
         "options": [
-            "Saturday, February 28",
-            "Thursday, February 26",
-            "Friday, February 27",
-            "Monday, March 1",
-            "Wednesday, February 25"
+            "Andhra University, Visakhapatnam",
+            "Jawaharlal Nehru Technological University, Kakinada",
+            "University of Delhi",
+            "Executive Education Cell, School of Management Studies, University of Hyderabad",
+            "Indian Institute of Technology, Hyderabad"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "The 'Mission 2030' project, proposed in the Ernakulam District Panchayat Budget, targets which year for grading educational institutions?",
-        "a": "2030",
-        "options": [
-            "2028",
-            "2032",
-            "2030",
-            "2029",
-            "2031"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The project for the Dark Sky Park in Tamil Nadu was announced in the Legislative Assembly on which date?",
-        "a": "June 25, 2024",
-        "options": [
-            "June 24, 2024",
-            "June 26, 2024",
-            "June 25, 2024",
-            "July 1, 2024",
-            "May 25, 2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The nationwide HPV vaccination campaign is set to be launched on which date?",
+        "q": "On what date did Congress and AAP MLAs raise concerns in the Gujarat Assembly regarding electoral roll irregularities?",
         "a": "February 28, 2026",
         "options": [
             "February 27, 2026",
             "March 1, 2026",
             "February 28, 2026",
-            "March 2, 2026",
-            "February 29, 2026"
+            "February 29, 2026",
+            "March 5, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Karnataka has set a target of achieving zero human deaths due to dog-mediated rabies by which year?",
-        "a": "2030",
+        "q": "Within how many days have authorities/departments been asked to initiate recruitment notifications by the Karnataka government?",
+        "a": "30 days",
         "options": [
-            "2028",
-            "2032",
-            "2030",
-            "2029",
-            "2031"
+            "15 days",
+            "20 days",
+            "30 days",
+            "45 days",
+            "60 days"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did Karnataka declare snakebite envenoming cases and deaths notifiable under the Karnataka Epidemic Diseases Act, 2020?",
-        "a": "February 2024",
+        "q": "In which month and year did the High Court of Karnataka restrain the State government from making recruitments based on the revised sub-classification notification?",
+        "a": "October 2025",
         "options": [
-            "March 2024",
-            "January 2024",
-            "February 2024",
-            "April 2024",
-            "December 2023"
+            "September 2025",
+            "October 2025",
+            "November 2025",
+            "December 2025",
+            "August 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "The National Action Plan for Prevention and Control of Snakebite Envenoming (NAPSE) was launched by the Union government in which month and year?",
-        "a": "March 2024",
+        "q": "On what date was the order fixed for the 100 points roster prevailing prior to the December 28, 2022, order, according to the GO?",
+        "a": "June 20, 1995",
         "options": [
-            "February 2024",
-            "April 2024",
-            "March 2024",
-            "January 2024",
-            "May 2024"
+            "June 10, 1995",
+            "June 15, 1995",
+            "June 20, 1995",
+            "July 20, 1995",
+            "August 20, 1995"
         ],
         "cat": "When"
     },
     {
-        "q": "The 100% Bicycle Literacy Campaign at Government College for Women, Vazhuthacaud, aims to achieve its goal by which year?",
-        "a": "2026",
+        "q": "On which date is the Committee for Internal Reservation for Social Justice threatening a protest if internal reservation is not included in the recruitment?",
+        "a": "March 11",
         "options": [
-            "2025",
-            "2027",
-            "2026",
-            "2024",
-            "2028"
+            "March 1",
+            "March 5",
+            "March 8",
+            "March 11",
+            "March 15"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court registered a suo motu case in relation to the controversial NCERT textbook on which day?",
-        "a": "February 25, 2026",
+        "q": "On what date did the villagers submit a memorandum to the Jorhat District Commissioner demanding a halt to excavation activities?",
+        "a": "January 20",
         "options": [
-            "February 24, 2026",
-            "February 26, 2026",
-            "February 25, 2026",
-            "February 27, 2026",
-            "February 28, 2026"
+            "January 10",
+            "January 15",
+            "January 20",
+            "February 10",
+            "February 20"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year was Rabies declared a notifiable disease in Karnataka?",
-        "a": "December 2022",
+        "q": "On what date was Debanga Sourav Gogoi asked to appear at the police station in Teok?",
+        "a": "March 1",
         "options": [
-            "November 2022",
-            "January 2023",
-            "December 2022",
-            "February 2023",
-            "October 2022"
+            "February 27",
+            "February 28",
+            "March 1",
+            "March 3",
+            "March 5"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of Japan's support for connectivity plans linking Northeast India to the Bay of Bengal and the Indian Ocean?",
-        "a": "To make Northeast India a \"powerful engine of growth\" and gateway to Southeast Asia",
+        "q": "For how many days will Prime Minister Narendra Modi be on his visit to Tamil Nadu?",
+        "a": "Two-day",
         "options": [
-            "To promote cultural exchange only",
-            "To establish military bases",
-            "To make Northeast India a \"powerful engine of growth\" and gateway to Southeast Asia",
-            "To develop exclusive trade routes for Japan",
-            "To monitor geopolitical movements in the region"
+            "One-day",
+            "Two-day",
+            "Three-day",
+            "Four-day",
+            "Five-day"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date will the Beacon Awards be presented at Kozhikode Town Hall?",
+        "a": "March 5",
+        "options": [
+            "March 1",
+            "March 3",
+            "March 5",
+            "March 7",
+            "March 10"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which article of the Constitution was cited by Gujarat Forest and Environment Minister Arjun Modhwadia to contend that ECI matters cannot be discussed in the State Assembly?",
+        "a": "Article 324",
+        "options": [
+            "Article 323",
+            "Article 324",
+            "Article 325",
+            "Article 326",
+            "Article 320"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the overarching policy of Japan under which it will work on an \"Industrial Value Chain\" connecting the Bay of Bengal to the Northeast?",
-        "a": "Free and Open Indo-Pacific (FOIP) policy",
+        "q": "What is the primary purpose of Form 7 applications mentioned in the context of electoral roll revision?",
+        "a": "Deletion of names from voter lists",
         "options": [
-            "Belt and Road Initiative",
-            "Quad Initiative",
-            "Free and Open Indo-Pacific (FOIP) policy",
-            "Look East Policy",
-            "Act East Policy"
+            "Addition of new voters",
+            "Correction of voter details",
+            "Deletion of names from voter lists",
+            "Transfer of voter registration",
+            "Update of address"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary aim of converting a heritage building in Aluva into an agricultural museum, as proposed in the Ernakulam District Panchayat Budget?",
-        "a": "To preserve old agricultural equipment, display traditional seeds, and provide practical learning",
+        "q": "What is the primary reason for the protest threatened by the Committee for Internal Reservation for Social Justice in Karnataka?",
+        "a": "Non-inclusion of internal reservation in the recruitment process",
         "options": [
-            "To generate revenue from tourism",
-            "To preserve old agricultural equipment, display traditional seeds, and provide practical learning",
-            "To serve as a new administrative office",
-            "To host cultural festivals",
-            "To store modern farming tools"
+            "Delay in recruitment",
+            "Increase in overall quota",
+            "Non-inclusion of internal reservation in the recruitment process",
+            "Reduction in reservation for STs",
+            "Changes to the 100 points roster"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Opposition Left Democratic Front (LDF) boycott the Kochi Corporation\u2019s Budget for 2026-27?",
-        "a": "They alleged amendments reduced the surplus to a deficit, violating the Municipal Act.",
+        "q": "What is the primary reason cited by villagers for opposing the flood mitigation project in Jorhat district?",
+        "a": "Alleged lack of public hearing, environmental impact assessment, or social impact assessment",
         "options": [
-            "They demanded more funds for their wards.",
-            "They were protesting against the Mayor.",
-            "They alleged amendments reduced the surplus to a deficit, violating the Municipal Act.",
-            "They wanted the Budget presentation postponed.",
-            "They sought foreign funding for local projects."
+            "Insufficient compensation",
+            "Relocation issues",
+            "Alleged lack of public hearing, environmental impact assessment, or social impact assessment",
+            "Disagreement on project design",
+            "Fear of increased flooding"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the fundamental characteristic of a Dark Sky Park, as described in the news?",
-        "a": "A protected landscape with minimal artificial light pollution for clear observation of celestial bodies",
+        "q": "What is the main objective resolved by the Bidar Nagarika Sanmarga Samiti (BNSS) during their consultative meeting?",
+        "a": "To work towards making the district addiction-free and to curb begging and social discord",
         "options": [
-            "A dense forest with varied wildlife",
-            "A protected landscape with minimal artificial light pollution for clear observation of celestial bodies",
-            "A research facility for space exploration",
-            "A trekking destination with challenging trails",
-            "An area designated for solar power generation"
+            "To promote cultural activities",
+            "To improve infrastructure",
+            "To work towards making the district addiction-free and to curb begging and social discord",
+            "To encourage economic development",
+            "To enhance educational facilities"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary aim of the nationwide Human Papillomavirus (HPV) vaccination campaign?",
-        "a": "To protect 14-year-old girls from cervical cancer.",
+        "q": "Kozhikode is India's first UNESCO City of which status?",
+        "a": "City of Literature",
         "options": [
-            "To eradicate all types of cancer.",
-            "To protect 14-year-old girls from cervical cancer.",
-            "To boost the immune system of the general population.",
-            "To provide free health check-ups.",
-            "To address infectious diseases in children."
+            "City of Music",
+            "City of Crafts",
+            "City of Literature",
+            "City of Design",
+            "City of Gastronomy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What classification has the World Health Organisation (WHO) given to snakebite?",
-        "a": "Neglected Tropical Disease",
+        "q": "What is the specific purpose of the \"Aananda Vandi\" initiative mentioned in the Kozhikode Budget?",
+        "a": "Offering pleasure trips for senior citizens",
         "options": [
-            "Communicable Disease",
-            "Lifestyle Disease",
-            "Neglected Tropical Disease",
-            "Zoonotic Disease",
-            "Autoimmune Disease"
+            "Transportation for students",
+            "Ambulance service",
+            "Offering pleasure trips for senior citizens",
+            "Goods transport",
+            "Mobile library service"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the objective of the State Action Plan for Prevention and Control of Snakebite Envenoming (SAPSE) and State Action Plan for Rabies Elimination (SAPRE) in Karnataka?",
-        "a": "To ensure no life is lost due to delay in treatment or lack of access to medicines for snakebite and rabies.",
+        "q": "What is one of the key visions aligned with the Faculty Development Programme on AI organized by APSCHE?",
+        "a": "Viksit Bharat 2047",
         "options": [
-            "To increase healthcare infrastructure in rural areas.",
-            "To ensure no life is lost due to delay in treatment or lack of access to medicines for snakebite and rabies.",
-            "To promote traditional healing methods.",
-            "To conduct research on venomous snakes.",
-            "To encourage pet ownership."
+            "Digital India 2030",
+            "Startup India 2025",
+            "Viksit Bharat 2047",
+            "Make in India 2028",
+            "Skill India 2040"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the 'Bicycle Literacy Campaign' at Government College for Women, Vazhuthacaud?",
-        "a": "To achieve 100% bicycle literacy among students and teachers, enhancing independence and sustainability.",
+        "q": "What is the primary reason cited by the Union Food Ministry for temporarily discontinuing rice fortification?",
+        "a": "Until a more effective mechanism for delivery of nutrients to beneficiaries is identified",
         "options": [
-            "To organize bicycle races.",
-            "To promote cycling as a sport.",
-            "To achieve 100% bicycle literacy among students and teachers, enhancing independence and sustainability.",
-            "To reduce traffic congestion around the college.",
-            "To introduce a new mode of transport for faculty."
+            "Budgetary constraints",
+            "Lack of public acceptance",
+            "Until a more effective mechanism for delivery of nutrients to beneficiaries is identified",
+            "Supply chain issues",
+            "Environmental concerns"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court ban a Class 8 Social Science textbook?",
-        "a": "It had a section on \"corruption\" in the judiciary, deemed inappropriate.",
+        "q": "Approximately how many faculty members will be trained in the University of Hyderabad for the FDP on AI?",
+        "a": "200",
         "options": [
-            "It contained historically inaccurate information.",
-            "It had a section on \"corruption\" in the judiciary, deemed inappropriate.",
-            "It promoted a particular political ideology.",
-            "It failed to meet educational standards.",
-            "It was found to be plagiarized."
+            "150",
+            "175",
+            "200",
+            "225",
+            "250"
         ],
-        "cat": "Why"
+        "cat": "Amount"
     },
     {
-        "q": "What was the Chief Minister A. Revanth Reddy's assurance to the surrendered CPI (Maoist) leaders?",
-        "a": "To provide adequate security and rehabilitation benefits to live with dignity.",
+        "q": "What was the penalty imposed on Shivakumar Doddamani, Panchayat Development Officer of Tadar Gram Panchayat, for failing to furnish information under RTI Act?",
+        "a": "\u20b910,000",
         "options": [
-            "To provide them with government jobs immediately.",
-            "To grant them political asylum.",
-            "To provide adequate security and rehabilitation benefits to live with dignity.",
-            "To help them form a new political party.",
-            "To send them back to their villages without support."
+            "\u20b95,000",
+            "\u20b97,500",
+            "\u20b910,000",
+            "\u20b912,000",
+            "\u20b915,000"
         ],
-        "cat": "Why"
+        "cat": "Amount"
     },
     {
-        "q": "What is the purpose of the \"GI on Wheels\" initiative launched by the Telangana State Road Transport Corporation (TGSRTC)?",
-        "a": "To transform public buses into mobile galleries displaying GI-recognised handicrafts.",
+        "q": "What was the total penalty imposed on Ismail, Secretary of Saidapur Gram Panchayat, across two separate cases for RTI non-compliance?",
+        "a": "\u20b920,000",
         "options": [
-            "To promote bus travel in the state.",
-            "To display modern art on buses.",
-            "To transform public buses into mobile galleries displaying GI-recognised handicrafts.",
-            "To introduce new bus routes.",
-            "To educate passengers on road safety."
+            "\u20b910,000",
+            "\u20b915,000",
+            "\u20b920,000",
+            "\u20b925,000",
+            "\u20b930,000"
         ],
-        "cat": "Why"
+        "cat": "Amount"
+    },
+    {
+        "q": "How much compensation was Yankanagouda directed to pay to the appellant for delay in providing RTI information?",
+        "a": "\u20b93,000",
+        "options": [
+            "\u20b91,000",
+            "\u20b92,000",
+            "\u20b93,000",
+            "\u20b94,000",
+            "\u20b95,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many cases in total were the penalties related to for failing to furnish information under the RTI Act by the Karnataka Information Commission?",
+        "a": "5",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Faculty Development Programme on 'Discipline-Specific Applications of Artificial Intelligence (AI)' for faculty members in Andhra Pradesh will be a how many-day event?",
+        "a": "Five-day",
+        "options": [
+            "Three-day",
+            "Four-day",
+            "Five-day",
+            "Six-day",
+            "Seven-day"
+        ],
+        "cat": "When"
     }
 ]
