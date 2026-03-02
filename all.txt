@@ -18219,3 +18219,425 @@ Day 2 of the News18 Rising Bharat Summit 2026 is set to begin shortly.
 Day 2 of the News18 Rising Bharat Summit 2026 features an impressive roster of key attendees from diverse fields. Sports icons such as cricketers Mithali Raj, MD Shami, and Yuzvendra Chahal will be present, alongside political leaders like Delhi Chief Minister Rekha Gupta. The summit also welcomes distinguished defence and security figures, including General Sir Nick Carter, former Chief of the Defence Staff of the UK, and India’s Defence Secretary Rajesh Kumar Singh. From the technology and entrepreneurship space, Sarvam AI co-founder Pratyush Kumar will participate, representing India’s growing innovation ecosystem. This convergence of leaders from government, defense, sports, and industry underscores the summit’s focus on collaboration and shared vision in shaping India’s future.
 Latest Blogs
 ==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 09:00:04 +0530
+TITLE: BRS MLA Kaushik Reddy alleges misuse of Govt vehicles by Karimnagar CP
+LINK: https://www.thehindu.com/news/national/telangana/brs-mla-kaushik-reddy-alleges-misuse-of-govt-vehicles-by-karimnagar-cp/article70692649.ece
+--------------------
+BRS MLA Padi Kaushik Reddy showing pictures of Govt. vehicles used by private persons.
+| Photo Credit: Special Arrangement
+HYDERABAD
+Bharat Rashtra Samithi (BRS) MLA from Huzurabad Padi Kaushik Reddy has accused the Karimnagar Commissioner of Police Gaush Alam of misusing his position by allowing the use of a vehicle allotted to him (TS-09-PA-4195) by private persons in Hyderabad for the last eight months.
+Addressing a press conference here on Sunday, he said the CP had also allotted two drivers from one constable posted in Karimnagar, one town police station, and one armed reserve constable as drivers for the SUV (Innova) for private use in Hyderabad. The government vehicle was being used by the father of the Karimnagar CP’s close friend and an IRS officer.
+Further, he alleged that the CP’s brother was also driving another government vehicle (TS-09-PA-5601) and two women constables were working for the CP’s wife, who was doing an outsourced job in Karimnagar. He demanded that the DGP inquire into the misuse of government vehicles.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 23:03:19 +0530
+TITLE: Will leverage tech to crack down on market manipulators, says SEBI chief
+LINK: https://www.thehindu.com/business/markets/will-leverage-tech-to-crack-down-on-market-manipulators-says-sebi-chief/article70691965.ece
+--------------------
+SEBI Chairman Tuhin Kanta Pandey during an interview with The Hindu at SEBI Bhavan in Mumbai.
+| Photo Credit: EMMANUAL YOGINI
+The Securities and Exchange Board of India (SEBI) will enhance surveillance and enforcement on market manipulators and cyber fraudsters through technology and use Artificial Intelligence (AI) to widen the reach of its investor awareness programmes, its Chairman Tuhin Kanta Pandey told The Hindu in an interview. He said SEBI aims to have “optimum regulation” in the capital market without “irritating” the stakeholders – exchanges, investors, brokers – such that “the market functions with integrity”.
+The SEBI chief said that ever since he assumed charge last year, SEBI has rolled out 58 initiatives to ease business processes in the capital market, nine broad initiatives to make the market investor-centric and educate investors to make better choices. SEBI has made four changes to strengthen the framework regulating market intermediaries such as exchanges. It has introduced 13 measures to develop the capital market and six regulations to cool down speculation and stabilise the equity derivatives segment, he said.
+A lot of SEBI’s initiatives were technology-driven, said Mr. Pandey, highlighting the development of SEBI Check, a tool within the UPI interface that identifies registered intermediaries for investors before they make a payment. The tool is expected to rein in fraudulent brokers or traders who promise unreal gains to investors and dupe them.
+The SEBI chief urged investors to be safe and be proactive while using these tools to identify cyber frauds. “If someone is approaching, people should say that ‘you are a fraud as your account does not show SEBI Check. I will lodge an FIR against you’,” he said, adding that people need to visit their broker’s office or bank branches at least once before making an investment.
+He said SEBI is planning to run campaigns to popularise these tools as part of investor education initiatives. The market regulator has collaborated with Bengaluru-based AI company SARVAM to widen the reach of such efforts.
+“We have also done a pilot AI campaign with SARVAM where they have reached out to about 3,85,000 people through calls, and these calls were made through an AI process in multiple languages to explain about the SEBI Check tool,” he said.
+Mr. Pandey inherited a correcting stock market in which retail investors may not be able to make returns they saw during the post-Covid rally. With the markets falling amid sustained selling by foreign investors and geopolitical uncertainly, he said the SEBI’s role was to make sure that there were no major instabilities and some market participants “do not act too smart”.
+The SEBI chief said returns were contingent on multiple factors, and gains should not be judged based on one period alone. “People have always compounded their wealth over a period of time (through) disciplined and long investing,” he said, adding that the Indian markets were stable and the economy was growing.
+Speaking on the widespread speculation in options trading (a derivative instrument which is used to protect investors from crashing stocks leading to losses), he said that this was limited to short duration options. With some stakeholders proposing many ideas, including restricting “unsuitable” players from the market to ensure stability, Mr. Pandey said there were no signs of instability in the markets. “Market stability is inherent. Now we don’t see any sign of market instability. So, there cannot be scaremongering. There is no need of panic,” he said.
+Mr. Pandey warned investors against financial influencers who were “conning” investors by promising returns on options. He said people must be careful of such “swindlers” who operate through WhatsApp groups, adding that SEBI is monitoring such activities.
+Last year, SEBI took action against many market manipulators and mis-sellers. Avadhut Sathe, for example, who ran an “unregistered investment advisory” in the name of an academy, and Jane Street, an American hedge fund which allegedly manipulated a significant portion of the options market, were the prominent ones. They were served interim orders and investigations on both the cases are underway. Both have approached the Securities Appellate Tribunals and one of their rationales for this was that the market regulator was charging them of “manipulative intent” when they were just carrying on regular trading/teaching operations.
+While Mr. Pandey refused to comment on individual cases that were sub-judice, he expressed confidence that in recent days, SEBI had 80% to 90% success rate in the tribunal cases and much higher rate in the Supreme Court, and that principles of natural justice should apply.
+He also responded to criticisms that SEBI was the legislative, executive and the judiciary, that surfaced when enforcement action was taken. He said this was a standard regulatory model all over and any other model would make it impossible to keep up with a fast-paced market.
+Mr. Pandey said SEBI was studying the possibilities of rejuvenating the agri-commodities market. “Two working groups were created in agriculture to look at all kinds of problems, which were faced by the commodity side of agriculture. And they have given reports to me (last week), and it will go to committee process,” he said, adding that the proposal to change provisions that have been “static long time” and “making the market inefficient” will be put out for public consultation.
+SEBI is also set to focus on deepening the corporate bonds market, he said.
+Mr. Pandey said SEBI will study the impact of regulations and make policy writing is more scientific. A committee under the Chief Economic Adviser V. Anantha Nageswaran will meet soon to discuss this, he said.
+financial markets
+==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 09:01:21 +0530
+TITLE: Chief Minister to inaugurate Critical Care Block in Jawadhu Hills
+LINK: https://www.thehindu.com/news/national/tamil-nadu/chief-minister-to-inaugurate-critical-care-block-in-jawadhu-hills/article70692046.ece
+--------------------
+Along with health officials, Collector V.R. Subbulaxmi inspected the new health facility.
+| Photo Credit: Special Arrangement
+Chief Minister M.K. Stalin will virtually inaugurate the first ₹20 crore District Critical Care Block (CCB) facility at the foothills of Jawadhu Hills in Anaicut village on the outskirts of Vellore Corporation limits this month .
+Along with health officials, Collector V.R. Subbulaxmi inspected the new health facility.  The new facility has been built within Government Taluk Hospital near Amirthi Zoological Park as it can be easily accessible for tribals in the hills. “Snake bites remain a key health challenge in the hills. Currently, treatment is available only at Vellore Medical College Hospital, around 20 km away from the hills,” R. Pandithurai, a tribal said.
+Health officials said that the new single-storey facility, which will cover around 5,000 sq.ft, has 50 beds with separate wards for maternity, newborn care, and in-patients. It also has an Intensive Care Unit (ICU), which has 10 beds, X-ray and scanning facilities.
+Three surgical theatres with ultrasound units are also part of the facility. Apart from accident victims, the new facility will treat patients for burn injuries, snake bites, cardiac related problems, and paediatrics.
+Apart from a spacious out-patient ward that can accommodate around 100 persons, the new facility also has an antenatal care unit. On an average, the new facility will cover at least 2.5 lakh persons, mostly tribals in the hills and rural areas.
+Residents said that at present, Anaicut region at the foothills of Jawadhu do not have private clinics. They have to depend on government health care centres, which do not have adequate facilities. The region also lacks a government facility that provides specialist care for neurology, cardiology, orthopedics, dermatology, and ophthalmology.
+Health officials said that the new facility will bridge the gap in providing specialist care  in the region. Similar facilities are also coming up in 17 spots that have a sizable tribal population in the State.
+==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 00:21:17 +0530
+TITLE: Government conspiring to destroy education system in Telangana: Praveen Kumar
+LINK: https://www.thehindu.com/news/national/telangana/government-conspiring-to-destroy-education-system-in-telangana-praveen-kumar/article70692578.ece
+--------------------
+BRS leader R.S. Praveen Kumar showing pics of education infrastructure developed by the previous government under the leadership of K. Chandrasekhar Rao in Hyderabad on Sunday.
+| Photo Credit: By Arrangement
+HYDERABAD
+Former IPS officer and BRS general secretary R. S. Praveen Kumar alleged that the State government is conspiring to destroy the education system in Telangana. He criticised the recent report of the State Education Commission led by A. Murali on education policy.
+Addressing a press conference, he said the report blamed teachers for the flaws in the education system. He added that its findings had hurt the self-esteem of 1.7 lakh teachers in the State and pointed out that it is the Pay Revision Commission that decides the pay structure of teachers, not the Education Commission.
+Accusing Mr. Murali of preparing the report against the teaching community, the BRS leader questioned how he could conclude that the education system had been destroyed during the 10-year rule of K. Chandrashekhar Rao without reviewing the existing system.
+The BRS leader alleged that Chief Minister Revanth Reddy had got the Education Commission report prepared with the intention of avoiding an increase in teachers’ salaries, while the previous government had significantly enhanced the pay of teachers and other employees. He also objected to the Commission’s recommendation to conduct tests for teacher promotions, saying no such system exists for other departments.
+He further criticised the recommendation to scrap Telangana EAPCET, saying it would benefit students studying in corporate colleges and disadvantage those from rural areas, as corporate college students are more likely to secure higher Intermediate marks and gain admission into engineering colleges. He also opposed the recommendation to phase out the existing residential education system.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 23:01:26 +0530
+TITLE: BJP begins campaign for Bengal Assembly elections with Parivartan Yatras
+LINK: https://www.thehindu.com/news/national/west-bengal/bjp-begins-campaign-for-bengal-assembly-elections-with-parivartan-yatras/article70692222.ece
+--------------------
+Union Minister JP Nadda being felicitated during a public meeting after BJP's 'Parivartan Yatra', in Nadia, West Bengal on March 1, 2026.
+| Photo Credit: PTI
+The Bharatiya Janata Party (BJP) leadership on Sunday (March 1, 2026) began its campaign for West Bengal Assembly elections with four Parivartan Yatras (March for change) starting from four corners of the State.
+BJP national president Nitin Nabin along with State BJP president Samik Bhattacharya flagged off a Parivartan Yatra from Cooch Behar in north Bengal. Party leaders alleged that north Bengal remained neglected despite repeated promises by the Trinamool Congress government and that the administrative functioning in Uttar Kanya, the secretariat for north Bengal, remained ineffective. The BJP leadership promised equal regional development, infrastructure expansion and administrative accountability for people of north Bengal. Mr. Nabin said that the Parivartan Yatras launched across the State would cover a distance of about 5,000 km with a promise of ‘new Bengal’ for the people of the State.
+Former BJP president and Union Minister J.P. Nadda along with BJP MP and Union Minister of State Sukanta Majumdar flagged off another Parivartan Yatra from Krishnanagar in Nadia. Speaking at the launch of the yatra, Mr. Nadda said industries in different sectors from coal to steel to heavy industries to jute mills had declined in the State during the Trinamool Congress regime. The Union Minister said that it was the responsibility of the people to remove a government under whose watch the rape and murder was committed at R.G. Kar Medical College and Hospital.
+Union Minister Dharmendra Pradhan and Leader of the Opposition Suvendu Adhikari flagged off another Parivartan Sankalpa Yatra from Garbeta in Paschim Medinipur. Mr. Pradhan targeted the Trinamool Congress government on several counts and said that the people of West Bengal had made up their minds to change the anti-poor, anti-women and corrupt government that supported infiltration across the border.
+Union Minister of Women and Child Development Annapurna Devi and Former Union Minister Smriti Irani addressed a gathering at Kulti in Asansol and flagged off another Parivartan Yatra that will cover the south western parts of the State. The Union Minister recalled incidents of crime against women, including the rape and murder of doctor at R.G. Kar Medical College and Hospital, and said that State had become a safe haven for criminals.
+On March 2, five more Parivartan Yatras will be flagged off in the State. The BJP leadership on February 27 launched a theme song and route march of the Parivartan Yatras in the State.
+All nine yatras will conclude with a public rally of Prime Minister Narendra Modi at Kolkata’s Brigade Parade Grounds. Union Home Minister Amit Shah is likely to join the Parivartan Yatra on Monday (March 2) and likely to address a public meeting at Raidighi in South 24 Parganas.
+With elections to the West Bengal Legislative Assembly likely to be announced in the next few days, the BJP leaders have flagged off the Parivartan Yatras with the slogan “Paltano Dorkar Chai BJP Sorkar (Need change and want BJP government)”.
+West Bengal
+/
+Kolkata
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 22:28:54 +0530
+TITLE: Amit Shah asks Punjab govt. to act against ‘religious conversions’
+LINK: https://www.thehindu.com/news/national/punjab/amit-shah-asks-punjab-govt-to-act-against-religious-conversions/article70692384.ece
+--------------------
+Union Home Minister Amit Shah and Maharashtra Chief Minister Devendra Fadnavis at the 'Hind-di-Chadar' Shri Guru Tegh Bahadur Sahib Ji 350th Shahidi Samagam, in Navi Mumbai on March 1, 2026.
+| Photo Credit: ANI
+Union Home Minister Amit Shah on Sunday (March 1, 2026) said religious conversions were taking place in Punjab, and appealed to the people and the State government led by Chief Minister Bhagwant Mann, to stop this practice which was driven by “greed”.
+Mr. Shah invoked the sacrifice of Guru Tegh Bahadur while addressing the ‘Hind-Di-Chadar’ commemoration event to mark the 350th martyrdom anniversary of Guru Tegh Bahadur in Kharghar, Navi Mumbai.
+“Today, it has been said here that religious conversion is taking place in Punjab. Guru Tegh Bahadur sacrificed himself to save others’ religions. They faced atrocities, but we today prefer to convert because of some greed. Then, we cannot be called followers of our great leaders. The Punjab government and Punjab society should stop religious conversions,” Mr. Shah said.
+Had Guru Tegh Bahadur not sacrificed himself to save the Hindu religion, “there would not have been a single Hindu left in the world”, Mr. Shah said.
+Some people had earlier objected to this statement, he said, adding that “everybody should accept this truth”.
+Paying homage, the senior Bharatiya Janata Party (BJP) leader said the Guru faced grave injustice and atrocities and fought against enemies far more powerful than him. “His sacrifice inspired and gave courage to Hindus to continue their fight,” he added.
+Guru Nanak had emphasised chanting God’s name, prayer, and sharing meals, underlining togetherness, which later provided moral strength in resisting Mughal invaders, Mr. Shah said.
+He also referred to Mughal ruler Aurangzeb, claiming that when atrocities were inflicted in Jammu and Kashmir, Kashmiri Pandits sought protection from the Guru, and continue to hold him in high regard.
+“Guru Tegh Bahadur had said that if Aurangzeb can convert me, then all the people will get converted. Aurangzeb accepted it as a challenge,” Mr. Shah said.
+“He inflicted atrocities and killed Guru Tegh Bahadur’s companions, but the Guru never budged. Finally, Guru Tegh Bahadur sacrificed himself, but he did not give up. His sacrifice inspired people to fight against Aurangzeb,” the Minister said.
+The followers of ‘Sanatan Dharma’ across the world were grateful to the Sikh guru, he said. “Traditions established by 10 Sikh Gurus are worth emulation by the world,” Mr. Shah said.
+==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 06:38:40 +0530
+TITLE: MHA cautions States against possible violence in the wake of U.S.-Israel military strikes against Iran
+LINK: https://www.thehindu.com/news/national/mha-cautions-states-against-possible-violence-in-the-wake-of-us-israel-military-strikes-against-iran/article70692234.ece
+--------------------
+Kashmiri Shia Muslims stage a protest outside the United Nations office in Sonwar following the Iran's Supreme Leader Ayatollah Khamenei's killing in a US-Israel strike, in Srinagar on March 1, 2026
+| Photo Credit: ANI
+The Union Ministry of Home Affairs (MHA) has cautioned States against “possible violence” and “sporadic protests” in India in the wake of a joint military operations by the United States and Israel against Iran, a senior government official told The Hindu.
+Thousands of people took to the streets across the country to protest the killing of Iranian Supreme Leader Ayatollah Ali Khamenei in military strikes by the U.S.-Israel alliance on February 28.
+Iran-Israel conflict updates on March 1, 2026
+Demonstrations were held in Uttar Pradesh, Jammu and Kashmir, Ladakh, Karnataka, and Delhi, among others, by Shia groups.
+In a communication sent to Chief Secretaries and Director(s) General of Police on February 28, the MHA asked States to keep a watch on protests and demonstrations by “affiliates of both pro- and anti-Iranian regime” at the embassies and consulate offices of Iran, the U.S., and Israel, the official said.
+It also asked States to identify “pro-Iran radical preachers giving inflammatory sermons and provoking violent actions.”
+The States have been asked to monitor the social media activities of “pro-Iran extremists and the global terrorist groups (GTG) handles”, and enhance the watch on “pro-Iran student organisations and socio-political organisations.”
+According to the MHA, the likely targets of the Shiite militia groups, as well as the global terror groups such as the Islamic State and Al Qaeda, may include the U.S. and Israeli embassies and consulates in India and their staff, delegations, business persons, resorts, business establishments, tourist sites frequented by westerners, synagogues, Chhabad Houses, kosher shops, and Jewish community centres, among others. It added that “similarly, there could be targeting of Embassy/Consulates/cultural centres of Iran”.
+The MHA asked States to sensitise security personnel regarding the threat perception, and need to augment security arrangements, particularly in and around the embassies and consulates, and also tourist locations frequented by Israeli, American, and Iranian visitors. It suggested CCTV coverage and checking of locations for the presence of Improvised Explosives Devices (IEDs) and explosive substances.
+“It is also requested to take adequate measures, including security arrangements at the sites mentioned above and other vulnerable locations to prevent any untoward incident and to maintain law and order, peace, and public tranquility. A watch may also be kept on social media to curb the spread of misinformation and requisite action may be taken in this regard,” the MHA said.
+Israel
+/
+Iran
+==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 09:06:51 +0530
+TITLE: DMK Ministers competing among themselves to indulge in scams: PM Modi
+LINK: https://www.thehindu.com/news/national/tamil-nadu/tn-ministers-competing-among-themselves-to-indulge-in-scams-modi/article70692264.ece
+--------------------
+Prime Minister Narendra Modi addressing a public meeting in Madurai on Sunday.
+| Photo Credit: G. Moorthy
+BJP leader and Prime Minister Narendra Modi on Sunday alleged that Ministers in Tamil Nadu were in stiff competition among themselves to indulge in scams.
+Sharing the dais with the BJP’s allies, including AIADMK leader Edappadi K. Palaniswami at a NDA public meeting in Madurai, Mr. Modi charged, “Usually, Ministers compete among themselves for good governance. But, DMK Ministers were competing in scams... and were snatching the money from the poor, youth and farmers. Such a corrupt government has no moral right to continue.”
+Contending that the NDA would give a clean and efficient government, he sought the ouster of the “corrupt and anti-people” DMK government.
+Prime Minister Narendra Modi joins NDA leaders to cheer party workers at a public meeting organised by NDA in Madurai on Sunday.
+| Photo Credit:
+G. Moorthy
+“The DMK Mayor (in Madurai) had to resign due to corruption. The DMK was busy in making money for itself while pushing the problems to the people,” Mr. Modi said. While six lakh homes were completed under the Prime Minister’s Housing Scheme, three lakh houses could not be completed in Tamil Nadu because of the failure of the DMK in conducting the survey. “DMK’s petty politics has delayed the opportunity for the poor to live with dignity,” he alleged.
+According to him, the DMK government exemplified corruption as opposed to the Kamaraj rule that was an example for honesty. Calling the DMK’s governance inefficient, he said Madurai city was at the bottom of the chart among similar cities in the country with regard to cleanliness.
+He levelled charges of corruption in various departments right from transfers to government jobs and contracts for sand mining and in Tasmac liquor bottle sale, which he said, ranged from ₹365 crore to ₹40,0000 crore.
+“After 25 long years, the DMK got a full majority to rule the state in 2021. However, the Dravidian party failed to deliver good governance. It looted the State and brought mafia-style politics to Madurai,” he alleged.
+Taking a jibe at the Congress, Mr Modi said angered by Tamil Nadu rejecting the party for six decades, it “took revenge” by handing over Katchatheevu to Sri Lanka and by bringing in an ordinance to ban Jallikattu. He charged that the DMK had remained silent at the time. Mr. Modi took credit for having lifted the ban on Jallikattu.
+Referring to the Pamban Bridge, he said the old rail bridge structure had worn out, forcing trains to move slowly across the sea bridge. It should have been replaced earlier, but the DMK and the Congress, which were in power for 10 years from 2004 (UPA regimes), failed to act, he alleged.
+After the NDA came to power, the work was expedited and trains were now moving faster on the bridge, he said. “The DMK and the Congress did nothing for Tamil Nadu but talked big,” he alleged.
+Accusing the DMK government of failing to curb crimes against women, Mr. Modi said families were being destroyed by a growing drug mafia. “The NDA government that will be elected will ensure safety, dignity and empowerment of women,” he added.
+Recalling that the Centre had recently signed a trade agreement with the European Union, the Prime Minister said it would create golden opportunities for the youth, farmers and entrepreneurs of Tamil Nadu.
+He said the textile industry, electronics and manufacturing sectors, and seafood exporters would gain access to global markets. Factories would expand, and farmers and workers would get new job opportunities. Tamil Nadu products would have greater scope to compete globally.
+“For all these to happen, Tamil Nadu needs a government focused on people’s welfare. The NDA will provide a stable and people-oriented government,” the Prime Minister added.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 22:46:00 +0530
+TITLE: Kerala Chief Minister’s moment with young landslide survivor takes political turn
+LINK: https://www.thehindu.com/news/national/kerala/kerala-chief-ministers-moment-with-young-landslide-survivor-takes-political-turn/article70692209.ece
+--------------------
+Kerala Chief Minister Pinarayi Vijayan with a child during the inauguration of the first phase of the Wayanad model township for landslide survivors on Elston Estate in Kalpetta on Sunday.
+| Photo Credit: -
+A heartwarming moment between Kerala Chief Minister Pinarayi Vijayan and a three-year-old girl during the inauguration of the township for landslide survivors in Wayanad became a focal point for political debate on Sunday.
+Communist Party of India (Marxist) [CPI(M)] leaders leveraged the interaction to target Prime Minister Narendra Modi, comparing his previous interaction with the child.
+The child was identified as Nysa, who gained national attention after Mr. Modi’s interaction with her during his visit to a hospital in the hill district soon after the Mundakkai-Chooralmala landslides.
+One of the youngest survivors of the tragedy, Nysa had lost her father, siblings and home to the disaster that had ravaged Wayanad on July 30, 2024.
+The video of the  exchanges between the child and the Mr. Modi had gone viral on social media platforms and widely carried by the national media.
+Nysa and her mother also got a home when the Mr. Vijayan handed over keys of houses to 178 survivors at the newly constructed township.
+Soon after television channels aired visuals of Mr. Vijayan’s interaction, MP John Brittas and General Education Minister V. Sivankutty hailed the gesture on their social media handles.
+Mr. Brittas, in his Facebook post, shared the videos of both the Prime Minister and the Chief Minister with the child and said one person had left after his “show,” and the other has implemented what he promised.
+The MP alleged that the Prime Minister, who took the child in his arms and pampered her during his visit, refused to give anything to her or her family later. The Chief Minister held the girl in his lap and pampered her after fulfilling his promises, he pointed out.
+In his Facebook post, Mr. Sivankutty also took a dig at Mr. Modi, saying, “What was seen in the reel then and what is being seen in real today.” “The Left government says only what it can do and it does what it says,” the senior leader posted.
+Senior CPI(M) leader K.K. Shailaja also shared the photo of Mr. Vijayan with Nysa and described the township inauguration as a “new chapter” in the history of survival.
+The township inauguration also witnessed Congress’ Kalpetta legislator T. Siddique being heckled and booed by a crowd during his speech.
+There was also booing when his name was mentioned during the welcome address. Reacting to the incident, Mr. Siddique said it was staged by the CPI(M) workers, who protested against him.
+Noting that everyone worked along with the government for the rehabilitation of the landslide survivors, he said he would continue to work for them in the future as well.
+During his speech, Revenue Minister K. Rajan apparently took a dig at Mr. Siddique and the Congress, saying that the Left government is not the one that merely lays a single stone and leaves, but it places stone upon stone and build further.
+==================================================
+
+==================================================
+DATE: Mon, 02 Mar 2026 06:44:25 +0530
+TITLE: Work on beach circuit project linking Kuzhipilly, Cherai and Munambam begins
+LINK: https://www.thehindu.com/news/national/kerala/297-crore-beach-circuit-project-to-link-kuzhipilly-cherai-and-munambam/article70692153.ece
+--------------------
+Infrastructure works have begun at Cherai beach as part of the Vypeen beach circuit project.
+| Photo Credit: File photo for representational purpose only
+Kerala Tourism has entrusted the Ernakulam District Tourism Promotion Council (DTPC) with the task of executing a ₹2.97 crore beach circuit on Vypeen island, linking Kuzhipilly, Cherai, and Munambam beaches.
+The long-awaited circuit was initially proposed in 2017 as part of a broader plan to promote beach tourism in Ernakulam district. The three beaches are being developed as part of a ₹4.50 crore project aimed at augmenting infrastructure at a total of nine beaches along a 25-km corridor, from Puthu Vypeen at one end to Munambam on the Ernakulam–Thrissur border, tourism sources said.
+They attributed the delay to issues related to obtaining Coastal Regulation Zone (CRZ) clearances and other technical reasons. Once completed, the project is expected to significantly enhance the experience for tourists visiting beaches in Ernakulam district, especially as sea incursion has reduced the appeal of Fort Kochi beach.
+As part of developing the beach circuit, the Kerala Electrical and Allied Engineering Company (KEL), which will execute the project, will renovate the existing infrastructure. In addition, toilets, rain shelters, snack kiosks and a children’s play area will be constructed. Work at Cherai beach began a week ago, it is learnt.
+Tourists, including those from other States, continue to throng Cherai beach despite sea erosion caused by factors such as climate change, said Lijo Jose, secretary of Ernakulam DTPC. “Being a recently developed beach, Kuzhipilly stands out due to the many casuarina trees along the beachfront and a floating bridge. It has thus become a popular spot for photo shoots. Members of the local community and the panchayat have been wholeheartedly extending their cooperation to ensure the upkeep of the beach,” he said.
+Munambam, as the name suggests, is an estuary. Apart from watersports activities, the walkway, Chinese fishing nets and the harbour here attract a large number of visitors. Once infrastructure is augmented, the beach circuit is expected to revitalise these destinations and bring a new vibrancy. Walkways will also be illuminated as part of the project. The works covering the three beaches are expected to be completed by February 2027. To ensure the safety of visitors, lifeguards have already been deployed at Munambam and Cherai, along with lifesaving equipment, Mr. Jose added.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 21:07:46 +0530
+TITLE: NLCIL signs MoA with IISC Bengaluru for project on innovation in mining
+LINK: https://www.thehindu.com/news/national/tamil-nadu/nlcil-signs-moa-with-iisc-bengaluru-for-project-on-innovation-in-mining/article70691532.ece
+--------------------
+NLC India Ltd. (NLCIL) has entered into a memorandum of agreement (MoA) with Indian Institute of Science, Bengaluru for project on innovation in mining.
+The MoA was signed by Neeraj Kumar, Chief General Manager and Unit Head, Centre for Advanced Research and Development (CARD) on behalf of NLCIL and Pikee Priya, Assistant Professor from the Materials Engineering Department, IISC, Bengaluru.
+According to a press note, in line with its vision to foster impkactful R&D, NLCIL, through CARD has initiated structured coolborations with premier academic institutions, resulting in the signign of MoAs with IISC, IITs, NITs and State Universities.
+The MoA with IISC, Bengaluru marks a significant milestone by addressing a critical mining requirement through indigenous material development.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:57:39 +0530
+TITLE: Andhra Pradesh achieves record GST collection in February 2026
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-achieves-record-gst-collection-in-february-2026/article70691836.ece
+--------------------
+The Government of Andhra Pradesh has recorded its highest-ever February Net GST collection, reaching ₹3,061 crore in 2026. This marks a 5.45% growth compared to February 2025, signalling a robust economic trajectory despite significant tax cuts introduced under the GST 2.0.
+Commissioner of State Taxes Babu A, in a release on Sunday, said the revenue growth wis particularly notable as it followed the September 2025 implementation of rate reductions on consumer essentials, pharmaceuticals, and cement, alongside the total withdrawal of GST on life and medical insurance.
+Mr. Babu attributed this resilience to increased consumption driven by lower rates and a sophisticated, AI-powered compliance net.
+With a cumulative growth of 5.86% for the 2025-26 fiscal year, Andhra Pradesh was currently outperforming several neighboring States, including Karnataka (5.70%), Telangana (4.57%), and Tamil Nadu (3.10%).
+A key driver for this success had been the aggressive use of AI-powered data analytics to identify ineligible Input Tax Credits (ITC). This led to an IGST settlement of ₹1,810 crore, a 7.24% increase over the previous year. Furthermore, Professional Tax collections saw a massive surge of 31.97%, reflecting an expanding taxpayer base.
+AP also pioneered a performance-based transfer policy, deploying high-performing officers to high-stakes revenue zones. Officials state that this “meritocracy-first” approach, combined with strict enforcement against defaulters, successfully reversed early-year slowdowns, positioning Andhra Pradesh as a national leader in fiscal mobilisation, he added.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 23:04:12 +0530
+TITLE: 92 people have called Karnataka government seeking help
+LINK: https://www.thehindu.com/news/national/karnataka/about-200-persons-have-called-karnataka-government-seeking-help/article70692070.ece
+--------------------
+As many as three legislators are among the Kannadigas believed to be stuck in West Asia with cancellation of flights to Bengaluru and Mangaluru even as the State government is coordinating with the Ministry of External Affairs to bring those stranded back safely.
+The State Emergency Operations Centre, which has been receiving calls seeking help, has a list of 92 people that is constantly getting updated.
+While 37 flights to and from Kempegowda International Airport in Bengaluru were cancelled owing to escalation of tension in West Asia on Sunday, 11 flights to and from Mangalauru International Airport remained cancelled. The airspace in 11 West Asian countries have been closed till Monday.
+On Sunday, Karnataka also witnessed protests in multiple places against the U.S.-Israel attack on Iran that killed supreme leader Ayatollah Ali Khamenei.
+The protests were held at Johnson Market in Bengaluru and Alipur in Chickballapur district, near here. Chief Minister Siddaramaiah and Deputy Chief Minister D.K. Shivakumar have condemned the attack on Iran.
+The State government has appointed the Resident Commissioner of Karnataka in Delhi to coordinate with the Ministry of External Affairs to ensure the safe return of Kannadigas stranded in West Asia and requiring help.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:52:52 +0530
+TITLE: KTR assures Musi project victims of raising issue in Assembly
+LINK: https://www.thehindu.com/news/national/telangana/ktr-assures-musi-project-victims-of-raising-issue-in-assembly/article70692150.ece
+--------------------
+BRS working president K.T. Rama Rao interacting with victims of the Musi Riverfront project in Hyderabad on Sunday.
+| Photo Credit: By Arrangement
+HYDERABAD
+The Bharat Rashtra Samithi (BRS) would raise the issue of people identified to be displaced as part of the Musi Riverfront project, planned by the Congress Government and would exert pressure on the government against demolishing the homes, working president of the party K.T. Rama Rao said during a visit to some areas on Sunday.
+He, along with party leaders, took out a protest march along with the residents and interacted with them in Hydershah Kot and K.K. Nagar areas, including the Madhu Park Ridge apartments.
+Speaking to the residents at Rajiv Gruhakalpa, Mr. Rama Rao said there was a need to build pressure on the government not to demolish even one home and it was possible with a united fight by the families likely to be displaced, their neighbours and others. He alleged that Chief Minister A. Revanth Reddy was running a “bulldozer raj”.
+He accused the government of resorting to real estate business by displacing people along the Musi in the name of the riverfront project and selling the reclaimed land to the realtors. He asked them to wage a battle against the government to protect their homes for the next two years and the next government of BRS would ensure that their homes were not touched.
+He accused the Congress national leadership of keeping silent on the ‘Bulldozer Raj’ in Telangana in lieu of the funding being made by Mr. Revanth Reddy. The BRS leader said the Congress Government had unveiled a major scam in the name of Musi riverfront project to help kin and followers get the contracts of real estate business in the reclaimed areas.
+He pointed out that it was the previous Congress Government that had given permissions to Madhu Park Ridge. He also questioned why the government was keeping silent on the palatial homes, villas and farmhouses of the Congress leaders in the buffer zones of water bodies.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:51:50 +0530
+TITLE: Left parties condemn military action by U.S. and Israel on Iran
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/left-parties-condemn-military-action-by-us-and-israel-on-iran/article70691382.ece
+--------------------
+Ten Left parties condemned the joint military action by the United States and Israel on Iran, calling it a grave violation of international law and Iranian sovereignty.
+In a joint press statement, the parties denounced the attack on Iranian territory, including strikes near the residence of Supreme Leader Ayatollah Khamenei and on civilian targets such as schools.
+The statement was issued by V. Srinivas Rao of the CPI(M), G. Eshwaiah of the CPI, P. Prasad of the Communist Party of India (Marxist–Leninist) New Democracy, B. Bangarraju of the Communist Party of India (Marxist–Leninist) Liberation, Katam Nagabhushanam of the Yuvajana Shramika Rythu Communist Party (United), Jasti Kishore Babu of the Communist Party of India (Marxist–Leninist), B.S. Amarnath of the Socialist Unity Centre of India (Communist), P.V. Sundararama Raju of the All India Forward Bloc, and Janaki Ramulu of the Revolutionary Socialist Party, along with Y. Ramakrishna representing CPI (ML) New Democracy.
+They criticised Prime Minister Narendra Modi’s recent visit to Israel, alleging that India’s stance represents a complete 360-degree reversal from the previous Indian governments’ traditional support for Palestinian rights.
+The joint attack on Iran occurred in days after the Prime Minister’s visit, suggesting a link between India’s foreign policy orientation and the ongoing conflict, they alleged.
+The Left leaders demanded that the Government of India formally condemn the strikes on Iran. They called on peace-loving citizens to oppose what they consider a shift in Indian policy, and urged global solidarity with the Iranian people against “imperialist aggression.”
+They described the bombing as an act of imperialist aggression, highlighting the killing of innocent children and civilians as evidence of extreme disregard for human life. They stated that the attacks violate the United Nations Charter and multiple global agreements, urging democratic forces and citizens to reject such actions.
+The leaders condemned Israel’s continuing military operations in Gaza, asserting that despite announcements of a ceasefire, attacks had persisted against Palestinian civilians.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:48:33 +0530
+TITLE: CM moving around with a crowbar in hand, says Ramchander Rao; BJP chief accuses govt. of violating court orders in Khammam demolition drive
+LINK: https://www.thehindu.com/news/national/telangana/cm-moving-around-with-a-crowbar-in-hand-says-ramchander-rao-bjp-chief-accuses-govt-of-violating-court-orders-in-khammam-demolition-drive/article70691768.ece
+--------------------
+Telangana BJP president N. Ramchander Rao interacting with people ‘displaced’ due to demolitions at Velugumatla in Khammam on Sunday.
+| Photo Credit: SPECIAL ARRANGEMENT
+Telangana BJP president N. Ramchander Rao accused the Congress government of demolishing houses belonging to poor families across the State by “bypassing legal procedures for the sake of real estate interests”.
+During his one-day tour of Khammam district on Sunday, Mr. Rao visited Velugumatla and interacted with displaced families, whose houses had been demolished. He alleged that Chief Minister A. Revanth Reddy was “moving around with a crowbar in hand” and supervising the demolition of homes despite court orders directing the authorities to maintain status quo.
+Calling the demolitions ‘inhuman’, he said that nearly 1,800 people from 600 labourer households had been rendered homeless. The houses, constructed with their hard-earned savings near the Collectorate office, were razed in violation of High Court stay orders, which he described as “atrocious and shameful”.
+Mr. Rao also alleged that the government harboured malafide intentions, as real estate prices in the area had surged following the establishment of the collectorate office and the proposal of a highway project. He claimed that the poor were being pushed out because the land had become valuable.
+He further said that despite multiple status quo orders and explicit court instructions against evictions, revenue officials had issued eviction notices—a “heinous act”, according to him. The former MLC rejected the Government’s claim that the houses were built on the basis of fake documents or illegal allotments, reportedly unearthed during an inquiry by the Bhoodan Board and Revenue Department.
+The BJP chief demanded that the government correct its ‘mistake’ by constructing houses for the displaced families at the same site under the Indiramma Housing scheme. He asserted that the party would stand by the oustees against what he termed the “Crowbar Government” until justice was served.
+In a separate development, BJP Deputy Floor leader Payal Shankar announced that the party has decided to take up a mass contact programme with farmers, starting from Adilabad to highlight the demand for taking up the farm insurance programme from March 7 to 15. The objective is to gather 10 lakh signatures and put it before the government during the next Assembly session.
+He criticised the Government for failing to implement the Centre’s crop insurance scheme despite promising to do so during the elections. The scheme, he said, had earlier been neglected by the BRS Government as well, he said while addressing a press conference at the State BJP office.
+Although the Congress Government had announced ₹3,000 crore for the scheme in its first year, not a single rupee had been released, leaving farmers facing harsh climatic conditions and poor yields without relief. Save for cotton farmers, who are being supported by the Cotton Corporation of India (CCI), others have been under a lot of distress due to pressure from bankers and lack of support from the government.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:39:54 +0530
+TITLE: Government failed to ensure MSP for farmers, alleges YSRCP
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/government-failed-to-ensure-msp-for-farmers-alleges-ysrcp/article70691410.ece
+--------------------
+YSRCP leader M.V.S. Nagi Reddy.
+| Photo Credit: File Photo
+The YSRCP has accused the NDA government of neglecting farmers’ issues and making false declarations in the Assembly.
+Speaking to the media at the party central office at Tadepalli on Sunday, YSRCP general secretary (Agriculture and Farmers’ Welfare) M.V.S. Nagi Reddy alleged that the government failed to ensure remunerative prices for farmers, particularly chickpea (Bengal gram) cultivators.
+Mr. Nagi Reddy said the government was insensitive to the distress of chickpea farmers, as prices had sharply declined due to reduced import duties. While the Minimum Support Price (MSP) for chickpea was announced at ₹5,800 per quintal, farmers would still incur losses without an additional ₹1,000 bonus. The State government failed to exert pressure on the Centre to reinstate higher import tariffs, he said.
+According to him, chickpea cultivation had been undertaken in about 3.72 lakh hectares this Rabi season, with production expected to exceed seven lakh tonnes. However, procurement had not yet commenced, and farmers were reportedly selling at significantly lower prices in markets such as Kurnool and Adoni, where rates had fallen to around ₹5,089 and ₹4,939 per quintal, respectively.
+Raising concerns about maize farmers, he said maize cultivation covered over 4.37 lakh hectares this season, largely in Rayalaseema. Despite an MSP of ₹2,400 per quintal last Kharif season, farmers reportedly sold maize at around ₹1,400.
+The YSRCP leader criticised delays in completing the e-crop registration process, stating that procurement linked to central allocations of 94,500 tonnes at ₹8,775 per quintal had not begun. He alleged that the government’s inaction was forcing farmers to sell produce below MSP.
+The YSRCP leader accused the Agriculture Minister of making misleading statements in the Assembly regarding free electricity supply and agricultural procurement. He asserted that free power to horticulture crops and nurseries was introduced during the previous regime and that agricultural power supply was streamlined to daytime.
+“Instead of making grand announcements in the Assembly, the government must act on the ground,” Mr. Nagi Reddy said, urging immediate steps to secure additional procurement approvals from the Centre and protect farmers from financial distress.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 22:18:32 +0530
+TITLE: Vice-President inaugurates centenary celebrations
+LINK: https://www.thehindu.com/news/national/kerala/vice-president-inaugurates-centenary-celebrations/article70691845.ece
+--------------------
+Vice-President C.P. Radhakrishnan being felicitated during the inauguration of the centenary celebrations of St. Stephen’s Higher Secondary School, Pathanapuram, in Kollam on Sunday.
+| Photo Credit: ANI
+Education must go beyond textbooks and cultivate critical thinking, empathy, resilience, and integrity, Vice President C.P. Radhakrishnan has said here on Sunday. Inaugurating the centenary celebrations of St. Stephen’s Higher Secondary School in Pathanapuram, he added that the completion of 100 years is a remarkable milestone achieved by very few institutions. The Vice-President urged students to say no to drugs and described substance abuse as one of the biggest curses afflicting society. “The campaign against drug use must become a mass movement cutting across religions, languages, and political parties,” he said.
+The Vice-President observed that the India of 2047 will be shaped by the ideas and initiatives of today’s students. He called upon them to seek not just personal success but also to create a positive impact on society. Describing the centenary as a time of renewal, he expressed hope that as the school enters its second century, it will embrace modern educational advancements while remaining rooted in its moral and cultural foundations. Highlighting Kerala’s strong emphasis on education and social development, the Vice-President noted that institutions like St. Stephen’s Higher Secondary School have significantly contributed to the State’s educational reputation.
+The Vice-President also paid floral tributes at the holy tomb of the Four Metropolitans located at Mount Tabor Dayara in Pathanapuram. The centenary celebrations were attended by Governor Rajendra Vishwanath Arlekar; Union Minister of State for Petroleum and Natural Gas & Tourism Suresh Gopi; Transport Minister K.B. Ganesh Kumar; Finance Minister K.N. Balagopal; Kodikunnil Suresh, MP; Catholicos of the East, Baselios Marthoma Mathews III Metropolitan and others.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:31:14 +0530
+TITLE: V-P launches remote-controlled drone-based tranquillizer system in Thrissur
+LINK: https://www.thehindu.com/news/national/kerala/v-p-launches-remote-controlled-drone-based-tranquillizer-system-in-thrissur/article70691975.ece
+--------------------
+In a significant step toward safer wildlife management, Vice-President (V-P) C. P. Radhakrishnan on Sunday launched a remote-controlled drone-based tranquillizer system designed to sedate rogue elephants and dangerous wild animals from a safe distance.
+The innovative system, conceptualised by veterinary expert Dr P. B. Giridas, was unveiled at a function held at Devamatha School in Thrissur. The project, named Gajasthram, is financially supported by the Lakshmi Charitable Trust chaired by Thrissur MP and Union Minister Suresh Gopi.
+The drone is equipped with a capture gun, tranquillizer syringe and medication, all operated remotely. Capable of functioning from a distance of up to 500 metres, the system ensures enhanced safety for wildlife experts, assisting personnel and the public during high-risk operations.
+Integrated with a mobile-linked GPS system and camera, the device enables precision targeting and real-time monitoring. Officials said the technology would be particularly effective in dense forest regions and geographically challenging terrains where controlling wild animals is difficult.
+Dr. Giridas, a member of the Central Elephant Care and Management  Committee and an experienced elephant-darting expert, has been actively involved in tranquillization operations for nearly three decades.
+Mr. Gopi expressed confidence that the system would be highly beneficial for Forest department experts and government elephant squad personnel engaged in wildlife control operations.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:30:12 +0530
+TITLE: Universal Health Scheme a sham, alleges APCC president Y. S. Sharmila
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/universal-health-scheme-a-sham-alleges-apcc-president-y-s-sharmila/article70691891.ece
+--------------------
+The decision to link Aarogyasri with private insurance must be withdrawn immediately, demands APCC president Y.S. Sharmila.
+| Photo Credit: File Photo
+APCC president Y.S. Sharmila on Sunday alleged that the State government’s claim on the Universal Health Scheme to provide free insurance to about 5 crore people was a sham.
+“The claim of ₹2.5 lakh health insurance is a blatant fraud. This is a conspiracy to kill Aarogyasri,” she posted on X. She accused the TDP-led coalition government of preparing the ground for privatising the health scheme.
+Ms. Sharmila argued that private insurance would bring burden and not benefit, and accused Chief Minister N. Chandrababu Naidu of derailing the Aarogyasri scheme, which, she said, was the lifeline of the poor.
+“When the government is unwilling to allocate ₹4,000 crore annually towards Aarogyasri payments, where will it find thousands of crores to pay in advance to the insurance companies, what does ₹2.5 lakh insurance coverage mean, and why should expenses beyond that be paid by the NTR Vaidya Seva Trust?” she questioned.
+The APCC chief pointed out that States that implemented private insurance were shifting back to the government trust model, and demanded that the State government spell out its intent behind introducing private insurance. She said Mr. Naidu should explain what benefit would come from replacing Aarogyasri with private insurance.
+“Aarogyasri, a brainchild of former Chief Minister Y.S. Rajasekhara Reddy, is the life-saving scheme for the poor. The decision to link Aarogyasri with private insurance must be withdrawn immediately,” she demanded. She said the government should run the scheme under the trust model and also demanded immediate release of the pending dues of ₹3,000 crore to hospitals.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:28:30 +0530
+TITLE: Ernakulam district panchayat to launch job portal for women
+LINK: https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-to-launch-job-portal-for-women/article70691636.ece
+--------------------
+The Ernakulam district panchayat will shortly launch a job portal where people can select women workers ranging from domestic help and drivers to professionals with technical expertise.
+The project, Anganamitra, is designed to financially empower women by providing employment opportunities. Around 5,000 women will be enrolled in the list in the first phase.
+“The project aims to ensure financial independence for women. The idea is to bring the job seekers as well as job providers to a platform. The women will be registered on the portal, and an app will be developed to facilitate this. Any woman above the age of 18 and willing to work can enrol,” said K.G. Radhakrishnan, president of the local body.
+The job portal will connect women job seekers with individuals and companies offering employment opportunities. The portal will feature the job profiles of the women, along with the ratings they receive for their work. The panchayat will provide ID cards and uniforms for the women.
+Kudumbashree will run the project. Tenders will be floated for developing the app, he said.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:27:39 +0530
+TITLE: Phase I of Wayanad township inaugurated, keys handed over to 178 families
+LINK: https://www.thehindu.com/news/national/kerala/phase-i-of-wayanad-township-inaugurated-keys-handed-over-to-178-families/article70691966.ece
+--------------------
+Chief Minister Pinarayi Vijayan handing over the keys to a flat to five year old Naisa, one of the survivors of the Mundakkai-Chooralmala landslides disaster in Wayanad district in August 2024.
+| Photo Credit: Special Arrangement
+Hailing the reconstruction efforts in landslides-hit Wayanad as the latest instance of the ‘Kerala model,’ where people beyond all religious differences come together to support each other in distress, Chief Minister Pinarayi Vijayan on Sunday inaugurated the first phase of the Kalpetta township, built for the survivors of the Mundakkai-Chooralmala landslides in July 2024. Keys to houses were handed over to 178 families.
+Five-year-old Naisa, who lost her father and two siblings in the landslides, was one of the beneficiaries who received the keys from the Chief Minister. A video of her interaction with Mr. Vijayan on stage went viral on social media, with the CPI(M) online handles drawing a picture of contrast between the State government’s fulfilling of its promise and the Union government’s stand in denying relief to the victims. Young Naisa was seen with Prime Minister Narendra Modi in another viral video during his visit to Wayanad after the landslides.
+“We cannot compensate for many losses. But through compassion, we can help people slowly recover from that loss. That is the characteristic of humanity. That is what we saw in the Mundakkai-Chooralmala survival. The world once again saw the Kerala model of love, compassion, and reciprocity. There were many obstacles, from propaganda to denial of Central assistance, from attempts to mislead the survivors and calls not to contribute to the relief fund. Some media outlets also tried to destroy the rehabilitation project by fabricating lies. But it became a reality due to the unity and support of the people,” said Mr. Vijayan.
+Speaking on the efforts taken by the government for the victims, he said that ₹6,000 has been provided as monthly rent for all disaster survivors. An amount of ₹17.2 crore was spent for livelihood support, while ₹2 crore was spent to provide assistance to 21 children who lost their parents in the disaster. In addition, 858 families are also being provided with food coupons of ₹1,000 per month. The Chief Minister’s Distress Relief Fund received an assistance of ₹773.98 crore for the project.
+He said that the State government had decided to fully assume the loan arrears of 555 disaster victims in various banks, amounting to ₹18.75 crore, with the Union government abdicating its responsibility. The township is testament to the work ethic of the Uralungal Labour Contract Society which deployed thousands of workers to complete the work with precise planning and extreme efficiency.
+Along with the houses, the township includes public facilities such as a community hall, disaster shelter, football ground, disaster memorial, shops, material collection facility, water reservoir, sewage treatment plants, underground electricity distribution network, drainage system, a water tank with a capacity of 9.5 lakh litres, and a solar power plant in each house with a capacity of 2 Kilowatt. The township, which is planned in five zones, is built in 35 clusters of 8-10 houses. Each cluster has a spacious green space courtyard. A separate title deed will be issued for the individual owners.
+He said that the construction of houses for the remaining beneficiaries is nearing completion and the keys are expected to be handed over before the next monsoon. Revival plan for entrepreneurs and business establishments that lost their lives in the disaster is also being implemented.
+Revenue Minister K. Rajan, who presided over the function, said that the township is an example of the Left Democratic Front (LDF) government’s approach which goes beyond just making declarations and laying foundation stones.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 22:23:08 +0530
+TITLE: Pattissery dam project inaugurated in Idukki
+LINK: https://www.thehindu.com/news/national/kerala/pattissery-dam-project-inaugurated-in-idukki/article70691805.ece
+--------------------
+Water Resources Minister Roshy Augustine at the Pattissery dam in Kanthalloor after its inauguration on Sunday.
+| Photo Credit: SPECIAL ARRANGEMENT
+The Pattissery dam is set to spark an agricultural revolution in the Kanthalloor region, Water Resources Minister Roshi Augustine has said. While inaugurating the completion of the major irrigation project at Kanthalloor in Idukki district on Sunday, Mr. Augustine stated that the dam would secure both drinking water and irrigation for local farming during the summer months. He also revealed that administrative sanction for a new project, the “Lower Chattam Munnar” dam, will be granted soon.
+According to officials, the Pattissery dam is part of the Chenkalar project located in the Kanthalloor panchayat. The Water Resources Department completed the construction for ₹60.34 crore. The dam has a total storage capacity of one million cubic metres and is expected to provide irrigation to 240 hectares across the Kanthalloor and Keezhanthur areas. Officials noted that while the project faced numerous hurdles during development, construction is now finally complete.
+Beyond agriculture, the project is expected to boost tourism in the Anchunad hills.
+The newly-inaugurated Pattissery dam in Kanthalloor in Idukki.
+| Photo Credit:
+SPECIAL ARRANGEMENT
+Construction began in 2014 but was met with immediate resistance from Tamil Nadu due to the dam’s proximity to the border. Work eventually resumed after these legal and diplomatic hurdles were resolved. Officials highlighted that the Pattissery dam is one of the most significant irrigation projects constructed on the Kerala-Tamil Nadu border since the State’s formation. Water from the Mannavan Shola will be stored in the new reservoir.
+The project’s initial estimate was ₹24 crore. However, work was halted twice by the contractor, who demanded a revised budget. The estimate was subsequently updated twice before construction could reach completion.
+Kanthalloor village is renowned for its tourism and cool-season vegetable farming. The new dam is expected to provide a significant boost to the local agricultural economy. Meanwhile, sources indicated that the project was officially inaugurated before the reservoir had been filled.
+The ceremony was attended by Water Resources Department Chief Engineer Suja Graison, Irrigation Chief Engineer Benoy Tomy George, and Mechanical Chief Engineer Bejoy K., among others.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:09:58 +0530
+TITLE: Escalation in West Asia can disrupt global oil markets and affect India’s economy, says CPI leader Narayana
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/escalation-in-west-asia-can-disrupt-global-oil-markets-and-affect-indias-economy-says-cpi-leader-narayana/article70691314.ece
+--------------------
+India must safeguard its energy security and economic interests, says CPI National Executive member K. Narayana.
+| Photo Credit: File Photo
+Communist Party of India (CPI) National Executive member  K. Narayana on Sunday criticised the foreign policy of the United States under President Donald Trump, alleging that it reflected “authoritarian and destabilising tendencies.”
+Mr. Narayana called upon the international community to collectively oppose unilateral actions targeting sovereign nations.
+Addressing the media in Vijayawada on Sunday, Mr. Narayana said countries such as Iraq, Venezuela and Iran had faced severe consequences for pursuing policies independent of U.S. interests. Referring to the removal of former Iraqi President Saddam Hussein, he argued that allegations over weapons of mass destruction had led to prolonged instability in the region.
+He expressed concern over rising tensions involving Iran and the growing strategic alignment between the US and Israel. He cautioned that any escalation in West Asia could disrupt global oil markets and adversely affect India’s economy.
+Urging Prime Minister Narendra Modi to pursue an independent foreign policy, he said India must safeguard its energy security and economic interests. He warned that strained relations with Iran could impact crude oil imports, potentially leading to higher fuel prices and increased cost of living domestically.
+The CPI leader also raised concerns about trade measures imposed by the U.S., stating that higher tariffs on Indian goods could hinder India’s growth ambitions. He emphasised that geopolitical instability in the Gulf region might affect millions of Indian workers and reduce foreign exchange inflows.
+Calling for balanced diplomacy, rooted in peace and mutual respect, Mr. Narayana said the CPI supports efforts to maintain global stability and opposes policies that intensify international tensions.
+==================================================
+
+==================================================
+DATE: Sun, 01 Mar 2026 20:08:20 +0530
+TITLE: Work to lay concrete for two new Kaiga units launched
+LINK: https://www.thehindu.com/news/national/karnataka/work-to-lay-concrete-for-two-new-kaiga-units-launched/article70691758.ece
+--------------------
+A view of the Kaiga atomic power station in Karwar where concreting work for two new units began on Sunday.
+| Photo Credit: SPECIAL ARRANGEMENT
+Atomic Energy Commission Chairman Ajit Kumar Mohanty launched concreting work for the construction of the fifth and sixth nuclear power units at Kaiga in Uttara Kannada on Sunday.
+He said that 10 units of indigenous technology PHW (Pressurised Heavy Water) reactor type are being built at various nuclear power plants in the country.
+Out of these, two units of 700 MW capacity of PHW type are being built at Kaiga. With this technology, the PHW used once in the reactor will be re-used several times. These two units are being built at a cost of around ₹21,000 crore.
+Dr. Mohanty launched the work by pressing a button. Later, he performed a puja to mark the commencement of the work. This is considered a significant milestone in the construction of nuclear power generation units.
+A time limit of 59 months has been given to complete the unit construction work. Megha Infra Ltd. is the main contractor.
+The Kaiga Nuclear Power Plant has four units of 220 MW capacity. The construction work of the fifth and sixth units was started in 2025 itself. Rods have been attached to the foundation to build the reactor. Concreting has now started. After the commissioning of these two units, the power generation capacity of the Kaiga Nuclear Power Plant will be 2280 MW.
+NPCL Chairman Bhuvan Chandra Pathak said that nuclear power plants are producing over 85 million units per day in the country and there are significant revenue earnings.
+“The Kaiga Nuclear Power Plant has achieved significant milestones. We have begun the work of concreting units five and six after obtaining permission from the Atomic Energy Regulatory Board. This is a significant milestone,” he said.
+Kaiga plant Director B. Vinod Kumar, Director of the fifth and sixth units Suresh Kulkarni and others were present, according to a release.
+==================================================
