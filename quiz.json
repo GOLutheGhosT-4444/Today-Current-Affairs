@@ -1,722 +1,962 @@
 [
     {
-        "q": "What is the allocated budget for the first District Critical Care Block (CCB) facility at Anaicut village?",
-        "a": "\u20b920 crore",
+        "q": "Former Union Minister K.P. Unnikrishnan, who recently passed away, was a senior leader of which political party?",
+        "a": "Congress",
         "options": [
-            "\u20b920 crore",
-            "\u20b922 crore",
-            "\u20b918 crore",
-            "\u20b920.5 crore",
-            "\u20b919.5 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which BRS MLA accused the Karimnagar Commissioner of Police of misusing government vehicles?",
-        "a": "Padi Kaushik Reddy",
-        "options": [
-            "Padi Kaushik Reddy",
-            "R.S. Praveen Kumar",
-            "Gaush Alam",
-            "K. Chandrashekhar Rao",
-            "Revanth Reddy"
+            "BJP",
+            "CPI(M)",
+            "TMC",
+            "BJD",
+            "Congress"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where is the first District Critical Care Block (CCB) facility being virtually inaugurated?",
-        "a": "Anaicut village",
-        "options": [
-            "Anaicut village",
-            "Vellore Medical College Hospital",
-            "Amirthi Zoological Park",
-            "Jawadhu Hills",
-            "Kalpetta"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which month is the District Critical Care Block (CCB) facility in Anaicut village scheduled for virtual inauguration?",
-        "a": "This month",
-        "options": [
-            "This month",
-            "Next month",
-            "Last month",
-            "Two months later",
-            "Last year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the SEBI Check tool within the UPI interface?",
-        "a": "To identify registered intermediaries for investors before they make a payment",
-        "options": [
-            "To identify registered intermediaries for investors before they make a payment",
-            "To track market manipulators",
-            "To educate investors about options trading",
-            "To monitor WhatsApp groups for financial influencers",
-            "To sanction unregistered investment advisories"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the total area (in sq.ft) that the new single-storey District Critical Care Block facility will cover?",
-        "a": "5,000 sq.ft",
-        "options": [
-            "5,000 sq.ft",
-            "5,100 sq.ft",
-            "4,900 sq.ft",
-            "5,050 sq.ft",
-            "4,950 sq.ft"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the current Chairman of the Securities and Exchange Board of India (SEBI)?",
-        "a": "Tuhin Kanta Pandey",
-        "options": [
-            "Tuhin Kanta Pandey",
-            "V. Anantha Nageswaran",
-            "Avadhut Sathe",
-            "Gaush Alam",
-            "Nitin Nabin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where did SEBI Chairman Tuhin Kanta Pandey give an interview to The Hindu?",
-        "a": "SEBI Bhavan in Mumbai",
-        "options": [
-            "SEBI Bhavan in Mumbai",
-            "Bengaluru",
-            "Hyderabad",
-            "Kolkata",
-            "Navi Mumbai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When did the landslides in Mundakkai-Chooralmala, Wayanad, which affected Nysa and other survivors, occur?",
-        "a": "July 30, 2024",
-        "options": [
-            "July 30, 2024",
-            "July 29, 2024",
-            "August 1, 2024",
-            "July 25, 2024",
-            "August 5, 2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the main objective of SEBI's collaboration with Bengaluru-based AI company SARVAM?",
-        "a": "To widen the reach of investor education initiatives",
-        "options": [
-            "To widen the reach of investor education initiatives",
-            "To conduct market surveillance",
-            "To develop new trading algorithms",
-            "To monitor cyber fraudsters",
-            "To implement new regulatory frameworks"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many initiatives has SEBI rolled out to ease business processes in the capital market since last year?",
-        "a": "58",
-        "options": [
-            "58",
-            "60",
-            "55",
-            "57",
-            "59"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who led the State Education Commission whose report was criticized by BRS general secretary R.S. Praveen Kumar?",
-        "a": "A. Murali",
-        "options": [
-            "A. Murali",
-            "R. S. Praveen Kumar",
-            "K. Chandrasekhar Rao",
-            "Revanth Reddy",
-            "Padi Kaushik Reddy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The BJP's Parivartan Yatras in West Bengal will conclude with a public rally of Prime Minister Narendra Modi in which city?",
-        "a": "Kolkata",
-        "options": [
-            "Kolkata",
-            "Cooch Behar",
-            "Krishnanagar",
-            "Garbeta",
-            "Asansol"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date did the BJP leadership launch a theme song and route march for the Parivartan Yatras in West Bengal?",
-        "a": "February 27",
-        "options": [
-            "February 27",
-            "March 1",
-            "March 2",
-            "February 28",
-            "March 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary reason cited by Union Home Minister Amit Shah for Guru Tegh Bahadur's sacrifice?",
-        "a": "To save others' religions",
-        "options": [
-            "To save others' religions",
-            "To establish Sikhism",
-            "To fight against the British",
-            "To unite various communities",
-            "To spread the message of peace"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many people were reached by the pilot AI campaign with SARVAM to explain the SEBI Check tool?",
-        "a": "3,85,000",
-        "options": [
-            "3,85,000",
-            "3,80,000",
-            "3,90,000",
-            "3,84,000",
-            "3,86,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which former IPS officer and BRS general secretary criticized the State Education Commission's report?",
-        "a": "R.S. Praveen Kumar",
-        "options": [
-            "R.S. Praveen Kumar",
-            "Padi Kaushik Reddy",
-            "Gaush Alam",
-            "A. Murali",
-            "K. Chandrasekhar Rao"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which city did Union Home Minister Amit Shah address the \u2018Hind-Di-Chadar\u2019 commemoration event?",
-        "a": "Navi Mumbai",
-        "options": [
-            "Navi Mumbai",
-            "Punjab",
-            "Srinagar",
-            "Delhi",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The MHA's communication cautioning States against 'possible violence' and 'sporadic protests' was sent on which date?",
-        "a": "February 28",
-        "options": [
-            "February 28",
-            "March 1",
-            "March 2",
-            "February 27",
-            "March 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the purpose of the \u2018Hind-Di-Chadar\u2019 commemoration event addressed by Union Home Minister Amit Shah?",
-        "a": "To mark the 350th martyrdom anniversary of Guru Tegh Bahadur",
-        "options": [
-            "To mark the 350th martyrdom anniversary of Guru Tegh Bahadur",
-            "To discuss religious conversions in Punjab",
-            "To pay homage to Guru Nanak",
-            "To commemorate Mughal ruler Aurangzeb's defeat",
-            "To promote national unity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many beds does the Intensive Care Unit (ICU) within the new Critical Care Block facility in Anaicut have?",
-        "a": "10 beds",
-        "options": [
-            "10 beds",
-            "12 beds",
-            "8 beds",
-            "11 beds",
-            "9 beds"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which Chief Minister virtually inaugurated the first District Critical Care Block (CCB) facility in Anaicut village?",
-        "a": "M.K. Stalin",
-        "options": [
-            "M.K. Stalin",
-            "Pinarayi Vijayan",
-            "Narendra Modi",
-            "Revanth Reddy",
-            "Devendra Fadnavis"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where will similar critical care facilities, as seen in Anaicut, be coming up in the State?",
-        "a": "17 spots with a sizable tribal population",
-        "options": [
-            "17 spots with a sizable tribal population",
-            "All district headquarters",
-            "Coastal areas only",
-            "Northern districts only",
-            "Urban centers primarily"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "How long has the government vehicle allotted to the Karimnagar CP reportedly been used by private persons in Hyderabad?",
-        "a": "Last eight months",
-        "options": [
-            "Last eight months",
-            "Last six months",
-            "Last year",
-            "Last three months",
-            "Last ten months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "According to Prime Minister Modi, what was the reason for the DMK Mayor in Madurai to resign?",
-        "a": "Corruption",
-        "options": [
-            "Corruption",
-            "Inefficient governance",
-            "Health reasons",
-            "Political differences",
-            "Public demand"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many broad initiatives has SEBI introduced to make the market investor-centric and educate investors?",
-        "a": "9",
-        "options": [
-            "9",
-            "10",
-            "8",
-            "7",
-            "11"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Chief Economic Adviser leading a committee to discuss making policy writing more scientific at SEBI?",
-        "a": "V. Anantha Nageswaran",
-        "options": [
-            "V. Anantha Nageswaran",
-            "Tuhin Kanta Pandey",
-            "Avadhut Sathe",
-            "Lijo Jose",
-            "Sukanta Majumdar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which location is mentioned as the secretariat for north Bengal, whose administrative functioning was alleged to be ineffective by BJP leaders?",
-        "a": "Uttar Kanya",
-        "options": [
-            "Uttar Kanya",
-            "Cooch Behar",
-            "Krishnanagar",
-            "Garbeta",
-            "Asansol"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "As per the news, when did Prime Minister Narendra Modi address a public meeting in Madurai?",
-        "a": "Sunday",
-        "options": [
-            "Sunday",
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the underlying objective of SEBI studying the possibilities of rejuvenating the agri-commodities market?",
-        "a": "To address problems faced by the commodity side of agriculture",
-        "options": [
-            "To address problems faced by the commodity side of agriculture",
-            "To increase investor participation in commodities",
-            "To control price volatility in agriculture",
-            "To integrate agri-commodities with the equity market",
-            "To establish new agricultural exchanges"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the total number of beds available in the new Critical Care Block facility in Anaicut?",
-        "a": "50 beds",
-        "options": [
-            "50 beds",
-            "45 beds",
-            "55 beds",
-            "48 beds",
-            "52 beds"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who flagged off the Parivartan Yatra from Cooch Behar in north Bengal?",
-        "a": "Nitin Nabin along with Samik Bhattacharya",
-        "options": [
-            "Nitin Nabin along with Samik Bhattacharya",
-            "J.P. Nadda along with Sukanta Majumdar",
-            "Dharmendra Pradhan and Suvendu Adhikari",
-            "Annapurna Devi and Smriti Irani",
-            "Amit Shah and Devendra Fadnavis"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which district are the beaches of Kuzhipilly, Cherai, and Munambam located, part of the new beach circuit project?",
-        "a": "Ernakulam District",
-        "options": [
-            "Ernakulam District",
-            "Thrissur District",
-            "Wayanad District",
-            "Kozhikode District",
-            "Kottayam District"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When was the Vypeen beach circuit project initially proposed by Kerala Tourism?",
-        "a": "2017",
-        "options": [
-            "2017",
-            "2018",
-            "2016",
-            "2019",
-            "2015"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the slogan adopted by the BJP for their Parivartan Yatras in West Bengal?",
-        "a": "\u201cPaltano Dorkar Chai BJP Sorkar (Need change and want BJP government)\u201d",
-        "options": [
-            "\u201cPaltano Dorkar Chai BJP Sorkar (Need change and want BJP government)\u201d",
-            "\u201cPoriborton Chai\u201d",
-            "\u201cSonar Bangla\u201d",
-            "\u201cAmra Notun Bangla Ghorbo\u201d",
-            "\u201cBJP Ele Bangla Banchbe\u201d"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the estimated cost of the Vypeen beach circuit project entrusted to Ernakulam DTPC?",
-        "a": "\u20b92.97 crore",
-        "options": [
-            "\u20b92.97 crore",
-            "\u20b93.00 crore",
-            "\u20b92.90 crore",
-            "\u20b92.95 crore",
-            "\u20b93.02 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who handed over the keys of houses to 178 landslide survivors at the newly constructed township in Wayanad?",
-        "a": "Pinarayi Vijayan",
-        "options": [
-            "Pinarayi Vijayan",
-            "Narendra Modi",
-            "K. Rajan",
-            "T. Siddique",
-            "John Brittas"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The \u2018Hind-Di-Chadar\u2019 event, marking Guru Tegh Bahadur's martyrdom anniversary, took place in which locality of Navi Mumbai?",
-        "a": "Kharghar",
-        "options": [
-            "Kharghar",
-            "Vashi",
-            "Panvel",
-            "Nerul",
-            "Belapur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which specific date were protests held across India following the killing of Iranian Supreme Leader Ayatollah Ali Khamenei?",
-        "a": "March 1, 2026",
+        "q": "On which date did former Union Minister K.P. Unnikrishnan pass away?",
+        "a": "March 3, 2026",
         "options": [
             "March 1, 2026",
-            "February 28, 2026",
             "March 2, 2026",
             "March 3, 2026",
-            "February 27, 2026"
+            "March 4, 2026",
+            "March 5, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is one of the key health challenges in the Jawadhu Hills that the new Critical Care Block aims to address?",
-        "a": "Snake bites",
+        "q": "What was the age of former Union Minister K.P. Unnikrishnan when he passed away?",
+        "a": "89",
         "options": [
-            "Snake bites",
-            "Malaria",
-            "Dengue",
-            "Tuberculosis",
-            "Cardiac problems"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many surgical theatres are part of the new District Critical Care Block facility?",
-        "a": "Three",
-        "options": [
-            "Three",
-            "Two",
-            "Four",
-            "Five",
-            "One"
+            "85",
+            "90",
+            "89",
+            "92",
+            "87"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Collector of Vellore who inspected the new health facility?",
-        "a": "V.R. Subbulaxmi",
+        "q": "For how many consecutive years did K.P. Unnikrishnan represent one Lok Sabha Constituency, a rare distinction in Kerala's political history?",
+        "a": "25 years",
         "options": [
-            "V.R. Subbulaxmi",
-            "M.K. Stalin",
-            "R. Pandithurai",
-            "Lijo Jose",
-            "Annapurna Devi"
+            "20 years",
+            "30 years",
+            "25 years",
+            "15 years",
+            "22 years"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "The new Critical Care Block is built within which existing hospital near Amirthi Zoological Park?",
-        "a": "Government Taluk Hospital",
+        "q": "K.P. Unnikrishnan represented which Lok Sabha Constituency for the longest period in Kerala's political history?",
+        "a": "Vadakara",
         "options": [
-            "Government Taluk Hospital",
-            "Vellore Medical College Hospital",
-            "District Hospital",
-            "Anaicut Primary Health Centre",
-            "Private Clinic"
+            "Thrissur",
+            "Kollam",
+            "Vadakara",
+            "Ernakulam",
+            "Alappuzha"
         ],
         "cat": "Where"
     },
     {
-        "q": "The BJP's 'Parivartan Yatras' for West Bengal Assembly elections began on which specific date?",
+        "q": "As a Union Minister, K.P. Unnikrishnan led the evacuation of how many Indians from Kuwait during the Gulf War?",
+        "a": "Over 1.5 lakh",
+        "options": [
+            "Over 1 lakh",
+            "Over 2 lakh",
+            "Over 1.5 lakh",
+            "Over 0.5 lakh",
+            "Over 2.5 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which Union Cabinet did K.P. Unnikrishnan serve as a minister for Telecommunications, Shipping, and Surface Transport?",
+        "a": "V.P. Singh Cabinet",
+        "options": [
+            "Indira Gandhi Cabinet",
+            "Rajiv Gandhi Cabinet",
+            "V.P. Singh Cabinet",
+            "Narasimha Rao Cabinet",
+            "Atal Bihari Vajpayee Cabinet"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date was K.P. Unnikrishnan born?",
+        "a": "September 20, 1936",
+        "options": [
+            "October 20, 1936",
+            "September 10, 1936",
+            "September 20, 1936",
+            "August 20, 1936",
+            "November 20, 1936"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who is the Congress Parliamentary Party chairperson who recently criticized the Modi government's silence on the assassination of Iran's Supreme Leader?",
+        "a": "Sonia Gandhi",
+        "options": [
+            "Rahul Gandhi",
+            "Priyanka Gandhi Vadra",
+            "Sonia Gandhi",
+            "Mallikarjun Kharge",
+            "Shashi Tharoor"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Supreme Leader of Iran whose targeted assassination on March 1, 2026, was criticized by Sonia Gandhi?",
+        "a": "Ayatollah Seyed Ali Hosseini Khamenei",
+        "options": [
+            "Hassan Rouhani",
+            "Mahmoud Ahmadinejad",
+            "Ayatollah Seyed Ali Hosseini Khamenei",
+            "Ebrahim Raisi",
+            "Mohammad Javad Zarif"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date did Iran confirm the assassination of its Supreme Leader Ayatollah Seyed Ali Hosseini Khamenei?",
         "a": "March 1, 2026",
         "options": [
+            "February 29, 2026",
             "March 1, 2026",
-            "February 27, 2026",
             "March 2, 2026",
-            "February 28, 2026",
-            "March 3, 2026"
+            "March 3, 2026",
+            "February 28, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the criticism leveled by R.S. Praveen Kumar against the State Education Commission's recommendation to scrap Telangana EAPCET?",
-        "a": "It would benefit students studying in corporate colleges and disadvantage those from rural areas",
+        "q": "What did Sonia Gandhi demand when Parliament reconvenes for the second part of the Budget session regarding the assassination of Iran's Supreme Leader?",
+        "a": "Open debate on the government's silence",
         "options": [
-            "It would benefit students studying in corporate colleges and disadvantage those from rural areas",
-            "It would increase the burden on teachers",
-            "It would not improve the education system",
-            "It contradicts the previous government's policies",
-            "It would lead to lower enrolment rates"
+            "Imposition of sanctions",
+            "A joint parliamentary committee",
+            "Open debate on the government's silence",
+            "Diplomatic boycott",
+            "Immediate military action"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the budget for the broader project aimed at augmenting infrastructure at a total of nine beaches along a 25-km corridor in Ernakulam district?",
-        "a": "\u20b94.50 crore",
+        "q": "Which two countries were identified by Sonia Gandhi as having carried out the targeted strikes that assassinated Iran's Supreme Leader?",
+        "a": "United States and Israel",
         "options": [
-            "\u20b94.50 crore",
-            "\u20b94.00 crore",
-            "\u20b95.00 crore",
-            "\u20b94.40 crore",
-            "\u20b94.60 crore"
+            "United States and Russia",
+            "United States and China",
+            "United States and Israel",
+            "United Kingdom and Israel",
+            "Germany and United States"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "Which American hedge fund, mentioned in the text, allegedly manipulated a significant portion of the options market?",
-        "a": "Jane Street",
+        "q": "The targeted assassination of Ayatollah Seyed Ali Hosseini Khamenei occurred on the soil of which country?",
+        "a": "Iran",
         "options": [
-            "Jane Street",
-            "Avadhut Sathe Academy",
-            "SARVAM",
-            "Goldman Sachs",
-            "Citadel"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which city did PM Modi hold an NDA public meeting where he alleged corruption in Tamil Nadu government?",
-        "a": "Madurai",
-        "options": [
-            "Madurai",
-            "Chennai",
-            "Coimbatore",
-            "Salem",
-            "Tiruchirappalli"
+            "Iraq",
+            "Syria",
+            "Iran",
+            "Saudi Arabia",
+            "UAE"
         ],
         "cat": "Where"
     },
     {
-        "q": "How many years of rule by K. Chandrashekhar Rao did BRS leader R.S. Praveen Kumar allege were not reviewed by the Education Commission?",
-        "a": "10-year rule",
+        "q": "Sonia Gandhi mentioned Prime Minister Narendra Modi reiterated unequivocal support for the government of which leader during his visit to Israel?",
+        "a": "Benjamin Netanyahu",
         "options": [
-            "10-year rule",
-            "5-year rule",
-            "8-year rule",
-            "12-year rule",
-            "7-year rule"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What did Prime Minister Modi take credit for having lifted, stating that the DMK remained silent earlier?",
-        "a": "The ban on Jallikattu",
-        "options": [
-            "The ban on Jallikattu",
-            "The ban on Tasmac liquor sales",
-            "The ban on sand mining",
-            "The ban on corporate colleges",
-            "The ban on residential education"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many lakh homes could not be completed in Tamil Nadu under the Prime Minister\u2019s Housing Scheme due to the DMK's alleged failure in conducting the survey?",
-        "a": "Three lakh houses",
-        "options": [
-            "Three lakh houses",
-            "Two lakh houses",
-            "Four lakh houses",
-            "2.5 lakh houses",
-            "3.5 lakh houses"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the former Union Minister of Women and Child Development who addressed a gathering at Kulti in Asansol and flagged off a Parivartan Yatra?",
-        "a": "Smriti Irani",
-        "options": [
-            "Smriti Irani",
-            "Annapurna Devi",
-            "J.P. Nadda",
-            "Dharmendra Pradhan",
-            "Nitin Nabin"
+            "Isaac Herzog",
+            "Naftali Bennett",
+            "Benjamin Netanyahu",
+            "Yair Lapid",
+            "Golda Meir"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where did Kashmiri Shia Muslims stage a protest following the killing of Iranian Supreme Leader Ayatollah Khamenei?",
-        "a": "Outside the United Nations office in Sonwar, Srinagar",
+        "q": "Which article of the United Nations Charter prohibits the threat or use of force against the territorial integrity or political independence of any state, as cited by Sonia Gandhi?",
+        "a": "Article 2 (4)",
         "options": [
-            "Outside the United Nations office in Sonwar, Srinagar",
-            "Delhi",
-            "Bengaluru",
-            "Lucknow",
-            "Mumbai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which year did the DMK get a full majority to rule the state of Tamil Nadu, as mentioned by Prime Minister Modi?",
-        "a": "2021",
-        "options": [
-            "2021",
-            "2016",
-            "2020",
-            "2022",
-            "2011"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What did Prime Minister Modi allege about the Congress party's actions regarding Katchatheevu?",
-        "a": "They handed over Katchatheevu to Sri Lanka as \"revenge\" for Tamil Nadu rejecting the party for six decades",
-        "options": [
-            "They handed over Katchatheevu to Sri Lanka as \"revenge\" for Tamil Nadu rejecting the party for six decades",
-            "They developed Katchatheevu for tourism",
-            "They initiated talks to reclaim Katchatheevu",
-            "They opposed the transfer of Katchatheevu",
-            "They remained neutral on the Katchatheevu issue"
+            "Article 1 (1)",
+            "Article 2 (4)",
+            "Article 3 (2)",
+            "Article 4 (5)",
+            "Article 5 (1)"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the percentage of success rate SEBI has in tribunal cases, as stated by Mr. Pandey?",
-        "a": "80% to 90%",
+        "q": "Sonia Gandhi reiterated that India's foreign policy is anchored in the peaceful settlement of disputes, as reflected in which Article of the Constitution of India?",
+        "a": "Article 51",
         "options": [
-            "80% to 90%",
-            "70% to 80%",
-            "90% to 95%",
-            "75% to 85%",
-            "82% to 92%"
+            "Article 49",
+            "Article 50",
+            "Article 51",
+            "Article 52",
+            "Article 53"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which Indian ideal, meaning 'the world is one family', did Sonia Gandhi mention should imply a commitment to justice, restraint, and dialogue?",
+        "a": "Vasudhaiva Kutumbakam",
+        "options": [
+            "Satyameva Jayate",
+            "Ahimsa Paramo Dharma",
+            "Vasudhaiva Kutumbakam",
+            "Atithi Devo Bhava",
+            "Swaraj Mera Janmasiddh Adhikar Hai"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the news, which US President called on the Iranian public to seize control of their destiny and rise against the Islamic leadership in a previous attack context?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "George W. Bush",
+            "Donald Trump",
+            "Bill Clinton"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The by-election preparations have begun for which assembly constituency in north Tripura?",
+        "a": "Dharmanagar",
+        "options": [
+            "Agartala",
+            "Khowai",
+            "Udaipur",
+            "Dharmanagar",
+            "Belonia"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Whose demise caused the Dharmanagar assembly seat to become vacant, leading to a by-election?",
+        "a": "Biswabandhu Sen",
+        "options": [
+            "O. Bharathan",
+            "Chayan Bhattacharjya",
+            "Biswabandhu Sen",
+            "K.P. Unnikrishnan",
+            "M.K. Stalin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On which date did Assembly Speaker Biswabandhu Sen pass away, leading to the Dharmanagar by-election?",
+        "a": "December 26 last year",
+        "options": [
+            "November 26 last year",
+            "December 16 last year",
+            "December 26 last year",
+            "January 26 this year",
+            "February 26 this year"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the total number of voters in the Dharmanagar assembly constituency, according to the updated published roll?",
+        "a": "46,143",
+        "options": [
+            "45,143",
+            "46,143",
+            "47,143",
+            "48,143",
+            "49,143"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the tribal person mentioned as stating that snake bites remain a key health challenge in the Jawadhu Hills?",
-        "a": "R. Pandithurai",
+        "q": "Who was the Congress candidate defeated by Biswabandhu Sen in the February 2023 elections from Dharmanagar constituency?",
+        "a": "Chayan Bhattacharjya",
         "options": [
-            "R. Pandithurai",
-            "V.R. Subbulaxmi",
+            "Rahul Gandhi",
+            "O. Bharathan",
+            "Chayan Bhattacharjya",
+            "Bipin Pendyala",
+            "Rajeev Gupta"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Chief Minister urged the Union government to grant approval for archaeological excavations at eight locations in Tamil Nadu?",
+        "a": "M.K. Stalin",
+        "options": [
+            "Pinarayi Vijayan",
+            "K. Chandrashekar Rao",
             "M.K. Stalin",
-            "Lijo Jose",
-            "Padi Kaushik Reddy"
+            "Basavaraj Bommai",
+            "Naveen Patnaik"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which location on Vypeen island is mentioned as having many casuarina trees along the beachfront and a floating bridge?",
-        "a": "Kuzhipilly beach",
+        "q": "How many locations, including Keeladi, Adichanur, and Nagapattinam, has the Tamil Nadu government sought approval for archaeological excavations?",
+        "a": "Eight",
         "options": [
-            "Kuzhipilly beach",
-            "Cherai beach",
-            "Munambam beach",
-            "Fort Kochi beach",
-            "Puthu Vypeen"
+            "Six",
+            "Seven",
+            "Eight",
+            "Nine",
+            "Ten"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which of the following is one of the locations in Tamil Nadu where the Chief Minister sought approval for archaeological excavations?",
+        "a": "Keeladi",
+        "options": [
+            "Hampi",
+            "Fatehpur Sikri",
+            "Keeladi",
+            "Lothal",
+            "Rakhigarhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "For how many years did the DMK and Congress, as part of UPA regimes, fail to act on replacing the Pamban Bridge?",
-        "a": "10 years",
+        "q": "When were the proposals for archaeological excavations in Tamil Nadu initially submitted by the State government?",
+        "a": "July 2025",
         "options": [
-            "10 years",
-            "5 years",
-            "15 years",
-            "8 years",
-            "12 years"
+            "May 2025",
+            "June 2025",
+            "July 2025",
+            "August 2025",
+            "September 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary concern of the MHA regarding 'pro-Iran radical preachers'?",
-        "a": "Giving inflammatory sermons and provoking violent actions",
+        "q": "For how many months has the permission for archaeological excavations in Tamil Nadu been pending, as stated by CM M.K. Stalin in March 2026?",
+        "a": "8 months",
         "options": [
-            "Giving inflammatory sermons and provoking violent actions",
-            "Recruiting new members",
-            "Organizing protests peacefully",
-            "Engaging in political discourse",
-            "Publishing articles online"
+            "6 months",
+            "7 months",
+            "8 months",
+            "9 months",
+            "10 months"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the primary purpose stated by CM M.K. Stalin for seeking approval for archaeological excavations in Tamil Nadu?",
+        "a": "To highlight the antiquity of Tamil civilisation",
+        "options": [
+            "To attract tourism",
+            "To secure UNESCO heritage status",
+            "To boost local employment",
+            "To highlight the antiquity of Tamil civilisation",
+            "To discover new mineral resources"
         ],
         "cat": "Why"
+    },
+    {
+        "q": "What is the typical excavation season window in Tamil Nadu, as mentioned by CM M.K. Stalin?",
+        "a": "January to July",
+        "options": [
+            "March to September",
+            "January to July",
+            "April to October",
+            "February to August",
+            "June to December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the main reason for the non-cooperation movement by private schools in Chhattisgarh against the government?",
+        "a": "Demanding an increase in RTE reimbursement amount",
+        "options": [
+            "Protesting against fee caps",
+            "Demanding an increase in RTE reimbursement amount",
+            "Seeking better infrastructure grants",
+            "Opposing new curriculum",
+            "Advocating for teacher salary hike"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the chairman of the Chhattisgarh Private School Management Association (CPSMA) leading the non-cooperation movement?",
+        "a": "Rajeev Gupta",
+        "options": [
+            "Nilotpal Datta",
+            "Amit Shah",
+            "M.K. Stalin",
+            "Rajeev Gupta",
+            "Biswabandhu Sen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Under the provisions of the RTE Act, what percentage of seats in entry-level classes in private schools must be reserved for students from weaker sections?",
+        "a": "25%",
+        "options": [
+            "10%",
+            "15%",
+            "20%",
+            "25%",
+            "30%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Between which dates is the student registration and nodal verification process for RTE admissions currently ongoing in Chhattisgarh?",
+        "a": "February 16 and March 31",
+        "options": [
+            "January 1 to January 31",
+            "February 1 to February 28",
+            "February 16 and March 31",
+            "March 1 to March 15",
+            "April 1 to April 30"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for primary classes in Chhattisgarh?",
+        "a": "From \u20b97,000 to \u20b918,000",
+        "options": [
+            "From \u20b96,000 to \u20b917,000",
+            "From \u20b97,000 to \u20b918,000",
+            "From \u20b98,000 to \u20b919,000",
+            "From \u20b99,000 to \u20b920,000",
+            "From \u20b910,000 to \u20b921,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for secondary classes in Chhattisgarh?",
+        "a": "From \u20b911,500 to \u20b922,000",
+        "options": [
+            "From \u20b910,500 to \u20b921,000",
+            "From \u20b911,500 to \u20b922,000",
+            "From \u20b912,500 to \u20b923,000",
+            "From \u20b913,500 to \u20b924,000",
+            "From \u20b914,500 to \u20b925,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for high and higher secondary classes in Chhattisgarh?",
+        "a": "From \u20b915,000 to \u20b925,000",
+        "options": [
+            "From \u20b914,000 to \u20b924,000",
+            "From \u20b915,000 to \u20b925,000",
+            "From \u20b916,000 to \u20b926,000",
+            "From \u20b917,000 to \u20b927,000",
+            "From \u20b918,000 to \u20b928,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Since which year have the RTE reimbursement amounts in Chhattisgarh not been revised?",
+        "a": "2012",
+        "options": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many private schools are there in 33 districts of Chhattisgarh, as mentioned by the CPSMA chairman?",
+        "a": "6,844",
+        "options": [
+            "6,500",
+            "6,844",
+            "7,000",
+            "7,200",
+            "7,500"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total number of entry-level seats available in private schools across Chhattisgarh, as per the CPSMA chairman?",
+        "a": "19,886",
+        "options": [
+            "18,000",
+            "19,886",
+            "20,000",
+            "21,000",
+            "22,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which state was cited as an example by CPSMA chairman for providing \u20b925,000 at the primary level for RTE reimbursements?",
+        "a": "Delhi",
+        "options": [
+            "Maharashtra",
+            "Karnataka",
+            "Delhi",
+            "Gujarat",
+            "Rajasthan"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the increase in an MLA's salary in Chhattisgarh, as cited by the CPSMA chairman for comparison?",
+        "a": "From \u20b945,000 to \u20b91,60,000",
+        "options": [
+            "From \u20b940,000 to \u20b91,50,000",
+            "From \u20b945,000 to \u20b91,60,000",
+            "From \u20b950,000 to \u20b91,70,000",
+            "From \u20b935,000 to \u20b91,40,000",
+            "From \u20b955,000 to \u20b91,80,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Vice-President who released 13 books on Tamil heritage, culture, and architecture published by the Publication Division?",
+        "a": "C. P. Radhakrishnan",
+        "options": [
+            "Jagdeep Dhankhar",
+            "M. Venkaiah Naidu",
+            "C. P. Radhakrishnan",
+            "Hamid Ansari",
+            "Bhairon Singh Shekhawat"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many publications on Tamil heritage, culture, and architecture were released by the Publications Division, Ministry of Information and Broadcasting?",
+        "a": "13",
+        "options": [
+            "10",
+            "12",
+            "13",
+            "15",
+            "18"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Where was the event held for the release of 13 publications on Tamil scholars, heritage, and culture?",
+        "a": "Uprashtrapati Bhavan in New Delhi",
+        "options": [
+            "Rashtrapati Bhavan",
+            "Parliament House",
+            "Uprashtrapati Bhavan in New Delhi",
+            "Vigyan Bhavan",
+            "India Gate"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date were the 13 publications on Tamil heritage, culture, and architecture released?",
+        "a": "March 2, 2026",
+        "options": [
+            "March 1, 2026",
+            "March 2, 2026",
+            "March 3, 2026",
+            "February 29, 2026",
+            "March 4, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which Union Minister addressed the gathering during the release of publications on Tamil heritage and announced increased funds for Tamil Nadu?",
+        "a": "Ashwini Vaishnaw",
+        "options": [
+            "Nirmala Sitharaman",
+            "S. Jaishankar",
+            "Ashwini Vaishnaw",
+            "Piyush Goyal",
+            "Smriti Irani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many times more funds did the Modi government allocate to Tamil Nadu in the past 10 years compared to the UPA government, as stated by Union Minister Ashwini Vaishnaw?",
+        "a": "Nine times",
+        "options": [
+            "Five times",
+            "Seven times",
+            "Nine times",
+            "Ten times",
+            "Twelve times"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was cited by the Vice-President as a key initiative of PM Modi to protect and promote Tamil culture and heritage on global platforms?",
+        "a": "Announcement of establishing a Thiruvalluvar Chair at a university in Malaysia",
+        "options": [
+            "Starting a new Tamil TV channel",
+            "Reducing taxes on Tamil books",
+            "Announcement of establishing a Thiruvalluvar Chair at a university in Malaysia",
+            "Building a new cultural museum",
+            "Funding Tamil film industry"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Among the released publications, a book was specifically mentioned to be on which renowned Indian literary figure?",
+        "a": "Bankim Chandra Chatterjee",
+        "options": [
+            "Rabindranath Tagore",
+            "Mahatma Gandhi",
+            "Bankim Chandra Chatterjee",
+            "Sardar Vallabhbhai Patel",
+            "Swami Vivekananda"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the executive director of a private hospital in South Bengaluru who has been booked on charges of rape and criminal intimidation?",
+        "a": "Trivikram Rao",
+        "options": [
+            "Rajeev Gupta",
+            "Bipin Pendyala",
+            "Trivikram Rao",
+            "A. Yella Rao",
+            "Prashanth Nandella"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which police station registered an FIR against Trivikram Rao based on the complaint?",
+        "a": "Siddapura Police Station",
+        "options": [
+            "Jayanagar Police Station",
+            "Basavanagudi Police Station",
+            "Siddapura Police Station",
+            "Koramangala Police Station",
+            "M.G. Road Police Station"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "At which hotel in Bengaluru was the alleged rape incident stated to have occurred?",
+        "a": "The Oberoi, Bengaluru",
+        "options": [
+            "Taj West End",
+            "The Leela Palace",
+            "The Oberoi, Bengaluru",
+            "ITC Gardenia",
+            "Shangri-La"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Approximately how long before the complaint was lodged did the alleged rape incident occur?",
+        "a": "About a month earlier",
+        "options": [
+            "A week earlier",
+            "Two weeks earlier",
+            "About a month earlier",
+            "Two months earlier",
+            "Three months earlier"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who was the Chief Justice of the First Division Bench of the Madras High Court that set aside a single judge's order on the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme?",
+        "a": "Manindra Mohan Shrivastava",
+        "options": [
+            "G. Arul Murugan",
+            "P.S. Raman",
+            "S. Chithra",
+            "Manindra Mohan Shrivastava",
+            "M. Sathiyamoorthy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date was the single judge's order passed, which was later set aside by a Division Bench of the Madras High Court regarding the marriage assistance scheme?",
+        "a": "August 12, 2024",
+        "options": [
+            "July 12, 2024",
+            "August 12, 2024",
+            "September 12, 2024",
+            "August 2, 2024",
+            "August 22, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the income threshold proposed by the single judge for extending the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme, which was set aside by the Division Bench?",
+        "a": "Up to \u20b912,000 a month",
+        "options": [
+            "Up to \u20b98,000 a month",
+            "Up to \u20b910,000 a month",
+            "Up to \u20b912,000 a month",
+            "Up to \u20b914,000 a month",
+            "Up to \u20b915,000 a month"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the primary reason cited by the Advocate General for opposing the single judge's direction to expand the scope of the marriage assistance scheme?",
+        "a": "State would not be in a position to bear the financial burden",
+        "options": [
+            "Lack of administrative capacity",
+            "Scheme already outdated",
+            "State would not be in a position to bear the financial burden",
+            "Legal inconsistencies",
+            "Public opposition"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date was the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme (Thalikku Thangam scheme) discontinued?",
+        "a": "August 2, 2022",
+        "options": [
+            "July 2, 2022",
+            "August 2, 2022",
+            "September 2, 2022",
+            "August 12, 2022",
+            "July 22, 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "More than how many members of the Andhra Pradesh Bank Retirees\u2019 Federation participated in a dharna in Vijayawada?",
+        "a": "500",
+        "options": [
+            "300",
+            "400",
+            "500",
+            "600",
+            "700"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the basic pay index in 1986-87, as mentioned by the AP Bank Retirees\u2019 Federation?",
+        "a": "600 points",
+        "options": [
+            "500 points",
+            "700 points",
+            "600 points",
+            "800 points",
+            "650 points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "To how many points did the basic pay index rise in 2022, as per the Andhra Pradesh Bank Retirees\u2019 Federation?",
+        "a": "8,088 points",
+        "options": [
+            "7,500 points",
+            "8,088 points",
+            "8,500 points",
+            "9,000 points",
+            "7,800 points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Indian Banks\u2019 Association (IBA) related issue was demanded by the Andhra Pradesh Bank Retirees\u2019 Federation for dialogue?",
+        "a": "Resolve long-pending issues amicably",
+        "options": [
+            "Increase serving employee wages",
+            "Introduce new loan schemes",
+            "Resolve long-pending issues amicably",
+            "Change bank holidays",
+            "Appoint new board members"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the Home Minister of Andhra Pradesh who spoke at the Women\u2019s Safety Week rally in Vijayawada?",
+        "a": "Vangalapudi Anitha",
+        "options": [
+            "Rayapati Sailaja",
+            "S.V. Rajashekar Babu",
+            "Vangalapudi Anitha",
+            "G. Lakshmisha",
+            "N. Chandrababu Naidu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "By what percentage have crimes against women in Andhra Pradesh decreased, according to Home Minister Vangalapudi Anitha?",
+        "a": "4.4 per cent",
+        "options": [
+            "3.2 per cent",
+            "4.0 per cent",
+            "4.4 per cent",
+            "5.1 per cent",
+            "6.0 per cent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Where was the Women\u2019s Safety Week rally taken out from Satyanarayanapuram signal point to Sivaji Gate?",
+        "a": "Vijayawada",
+        "options": [
+            "Hyderabad",
+            "Visakhapatnam",
+            "Vijayawada",
+            "Guntur",
+            "Tirupati"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the Women\u2019s Safety Week celebrations take place in Vijayawada?",
+        "a": "March 02, 2026",
+        "options": [
+            "March 01, 2026",
+            "March 02, 2026",
+            "March 03, 2026",
+            "February 29, 2026",
+            "March 04, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who was the former Chief Minister recalled by Vangalapudi Anitha for introducing equal property rights for women to ensure their safety?",
+        "a": "late N.T. Rama Rao",
+        "options": [
+            "Y.S. Rajasekhara Reddy",
+            "K. Rosaiah",
+            "late N.T. Rama Rao",
+            "N. Chandrababu Naidu",
+            "Jagan Mohan Reddy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was unveiled by the Home Minister Vangalapudi Anitha during the Women\u2019s Safety Week rally?",
+        "a": "\u2018Shakti Team\u2019 brochure",
+        "options": [
+            "New police station",
+            "Women helpline number",
+            "\u2018Shakti Team\u2019 brochure",
+            "Safety app",
+            "Community policing initiative"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the General Secretary of the Andhra Pradesh Bank Retirees\u2019 Federation?",
+        "a": "A. Yella Rao",
+        "options": [
+            "Rajeev Gupta",
+            "Nilotpal Datta",
+            "A. Yella Rao",
+            "Prashanth Nandella",
+            "Bipin Pendyala"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organization will organize its 33rd annual summit with the theme \u2018Intelligence Everywhere: Leading the New Era of Transformation\u2019?",
+        "a": "Hyderabad Software Enterprises Association (HYSEA)",
+        "options": [
+            "NASSCOM",
+            "CII",
+            "Hyderabad Software Enterprises Association (HYSEA)",
+            "FICCI",
+            "ASSOCHAM"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the theme of the 33rd annual HYSEA summit?",
+        "a": "Intelligence Everywhere: Leading the New Era of Transformation",
+        "options": [
+            "Digitalization for Economic Growth",
+            "Sustainable Technology for Future",
+            "Intelligence Everywhere: Leading the New Era of Transformation",
+            "Innovation in Cloud Computing",
+            "Cybersecurity and Data Privacy"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date will the 33rd annual HYSEA summit be organized in Hyderabad?",
+        "a": "March 5",
+        "options": [
+            "March 1",
+            "March 3",
+            "March 5",
+            "March 7",
+            "March 9"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which Union Minister promised the implementation of the Seventh Pay Commission in West Bengal if the BJP was voted to power?",
+        "a": "Amit Shah",
+        "options": [
+            "Narendra Modi",
+            "Rajnath Singh",
+            "Amit Shah",
+            "Nitin Gadkari",
+            "S. Jaishankar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Within how many days of the BJP coming to power in West Bengal did Amit Shah promise the implementation of the Seventh Pay Commission?",
+        "a": "45 days",
+        "options": [
+            "30 days",
+            "45 days",
+            "60 days",
+            "75 days",
+            "90 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "From which location in South 24 Parganas did Union Home Minister Amit Shah flag off his party\u2019s Parivartan Yatra?",
+        "a": "Magrahat",
+        "options": [
+            "Kolkata",
+            "Howrah",
+            "Magrahat",
+            "Mathurapur",
+            "Diamond Harbour"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "By which date did a Supreme Court order direct the West Bengal government to pay 25% of the outstanding DA to its employees?",
+        "a": "March 31",
+        "options": [
+            "February 28",
+            "March 15",
+            "March 31",
+            "April 15",
+            "April 30"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the objective of Amit Shah's Parivartan Yatra, besides removing the Chief Minister?",
+        "a": "To free the State from infiltration, corruption, and syndicate raj",
+        "options": [
+            "To promote tourism",
+            "To boost agricultural production",
+            "To free the State from infiltration, corruption, and syndicate raj",
+            "To improve road infrastructure",
+            "To encourage foreign investment"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What age relaxation in the upper age limit for jobs was promised to the youth of West Bengal by Amit Shah if BJP forms the government?",
+        "a": "Five-year relaxation",
+        "options": [
+            "Two-year relaxation",
+            "Three-year relaxation",
+            "Four-year relaxation",
+            "Five-year relaxation",
+            "Six-year relaxation"
+        ],
+        "cat": "Amount"
     }
 ]
