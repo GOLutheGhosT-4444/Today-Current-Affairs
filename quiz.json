@@ -1,962 +1,938 @@
 [
     {
-        "q": "Former Union Minister K.P. Unnikrishnan, who recently passed away, was a senior leader of which political party?",
-        "a": "Congress",
+        "q": "What is the approximate value of the deal for 114 Rafale fighter jets from Dassault Aviation?",
+        "a": "Rs 3.25 lakh crore",
         "options": [
-            "BJP",
-            "CPI(M)",
-            "TMC",
-            "BJD",
-            "Congress"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On which date did former Union Minister K.P. Unnikrishnan pass away?",
-        "a": "March 3, 2026",
-        "options": [
-            "March 1, 2026",
-            "March 2, 2026",
-            "March 3, 2026",
-            "March 4, 2026",
-            "March 5, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the age of former Union Minister K.P. Unnikrishnan when he passed away?",
-        "a": "89",
-        "options": [
-            "85",
-            "90",
-            "89",
-            "92",
-            "87"
+            "Rs 1.50 lakh crore",
+            "Rs 3.25 lakh crore",
+            "Rs 5.00 lakh crore",
+            "Rs 8.75 lakh crore",
+            "Rs 2.10 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many consecutive years did K.P. Unnikrishnan represent one Lok Sabha Constituency, a rare distinction in Kerala's political history?",
-        "a": "25 years",
+        "q": "What is the authorized strength of fighter squadrons for the Indian Air Force?",
+        "a": "42 squadrons",
         "options": [
-            "20 years",
-            "30 years",
-            "25 years",
-            "15 years",
-            "22 years"
+            "25 squadrons",
+            "60 squadrons",
+            "42 squadrons",
+            "75 squadrons",
+            "30 squadrons"
         ],
         "cat": "Amount"
     },
     {
-        "q": "K.P. Unnikrishnan represented which Lok Sabha Constituency for the longest period in Kerala's political history?",
-        "a": "Vadakara",
+        "q": "How many of the 114 Rafale aircraft are slated to arrive in fly-away condition?",
+        "a": "18 aircraft",
         "options": [
-            "Thrissur",
-            "Kollam",
-            "Vadakara",
-            "Ernakulam",
-            "Alappuzha"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "As a Union Minister, K.P. Unnikrishnan led the evacuation of how many Indians from Kuwait during the Gulf War?",
-        "a": "Over 1.5 lakh",
-        "options": [
-            "Over 1 lakh",
-            "Over 2 lakh",
-            "Over 1.5 lakh",
-            "Over 0.5 lakh",
-            "Over 2.5 lakh"
+            "50 aircraft",
+            "18 aircraft",
+            "96 aircraft",
+            "114 aircraft",
+            "30 aircraft"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In which Union Cabinet did K.P. Unnikrishnan serve as a minister for Telecommunications, Shipping, and Surface Transport?",
-        "a": "V.P. Singh Cabinet",
-        "options": [
-            "Indira Gandhi Cabinet",
-            "Rajiv Gandhi Cabinet",
-            "V.P. Singh Cabinet",
-            "Narasimha Rao Cabinet",
-            "Atal Bihari Vajpayee Cabinet"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date was K.P. Unnikrishnan born?",
-        "a": "September 20, 1936",
-        "options": [
-            "October 20, 1936",
-            "September 10, 1936",
-            "September 20, 1936",
-            "August 20, 1936",
-            "November 20, 1936"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the Congress Parliamentary Party chairperson who recently criticized the Modi government's silence on the assassination of Iran's Supreme Leader?",
-        "a": "Sonia Gandhi",
-        "options": [
-            "Rahul Gandhi",
-            "Priyanka Gandhi Vadra",
-            "Sonia Gandhi",
-            "Mallikarjun Kharge",
-            "Shashi Tharoor"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Supreme Leader of Iran whose targeted assassination on March 1, 2026, was criticized by Sonia Gandhi?",
-        "a": "Ayatollah Seyed Ali Hosseini Khamenei",
-        "options": [
-            "Hassan Rouhani",
-            "Mahmoud Ahmadinejad",
-            "Ayatollah Seyed Ali Hosseini Khamenei",
-            "Ebrahim Raisi",
-            "Mohammad Javad Zarif"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date did Iran confirm the assassination of its Supreme Leader Ayatollah Seyed Ali Hosseini Khamenei?",
-        "a": "March 1, 2026",
-        "options": [
-            "February 29, 2026",
-            "March 1, 2026",
-            "March 2, 2026",
-            "March 3, 2026",
-            "February 28, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What did Sonia Gandhi demand when Parliament reconvenes for the second part of the Budget session regarding the assassination of Iran's Supreme Leader?",
-        "a": "Open debate on the government's silence",
-        "options": [
-            "Imposition of sanctions",
-            "A joint parliamentary committee",
-            "Open debate on the government's silence",
-            "Diplomatic boycott",
-            "Immediate military action"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which two countries were identified by Sonia Gandhi as having carried out the targeted strikes that assassinated Iran's Supreme Leader?",
-        "a": "United States and Israel",
-        "options": [
-            "United States and Russia",
-            "United States and China",
-            "United States and Israel",
-            "United Kingdom and Israel",
-            "Germany and United States"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The targeted assassination of Ayatollah Seyed Ali Hosseini Khamenei occurred on the soil of which country?",
-        "a": "Iran",
-        "options": [
-            "Iraq",
-            "Syria",
-            "Iran",
-            "Saudi Arabia",
-            "UAE"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Sonia Gandhi mentioned Prime Minister Narendra Modi reiterated unequivocal support for the government of which leader during his visit to Israel?",
-        "a": "Benjamin Netanyahu",
-        "options": [
-            "Isaac Herzog",
-            "Naftali Bennett",
-            "Benjamin Netanyahu",
-            "Yair Lapid",
-            "Golda Meir"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which article of the United Nations Charter prohibits the threat or use of force against the territorial integrity or political independence of any state, as cited by Sonia Gandhi?",
-        "a": "Article 2 (4)",
-        "options": [
-            "Article 1 (1)",
-            "Article 2 (4)",
-            "Article 3 (2)",
-            "Article 4 (5)",
-            "Article 5 (1)"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Sonia Gandhi reiterated that India's foreign policy is anchored in the peaceful settlement of disputes, as reflected in which Article of the Constitution of India?",
-        "a": "Article 51",
-        "options": [
-            "Article 49",
-            "Article 50",
-            "Article 51",
-            "Article 52",
-            "Article 53"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which Indian ideal, meaning 'the world is one family', did Sonia Gandhi mention should imply a commitment to justice, restraint, and dialogue?",
-        "a": "Vasudhaiva Kutumbakam",
-        "options": [
-            "Satyameva Jayate",
-            "Ahimsa Paramo Dharma",
-            "Vasudhaiva Kutumbakam",
-            "Atithi Devo Bhava",
-            "Swaraj Mera Janmasiddh Adhikar Hai"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the news, which US President called on the Iranian public to seize control of their destiny and rise against the Islamic leadership in a previous attack context?",
-        "a": "Donald Trump",
-        "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "George W. Bush",
-            "Donald Trump",
-            "Bill Clinton"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The by-election preparations have begun for which assembly constituency in north Tripura?",
-        "a": "Dharmanagar",
-        "options": [
-            "Agartala",
-            "Khowai",
-            "Udaipur",
-            "Dharmanagar",
-            "Belonia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Whose demise caused the Dharmanagar assembly seat to become vacant, leading to a by-election?",
-        "a": "Biswabandhu Sen",
-        "options": [
-            "O. Bharathan",
-            "Chayan Bhattacharjya",
-            "Biswabandhu Sen",
-            "K.P. Unnikrishnan",
-            "M.K. Stalin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On which date did Assembly Speaker Biswabandhu Sen pass away, leading to the Dharmanagar by-election?",
-        "a": "December 26 last year",
-        "options": [
-            "November 26 last year",
-            "December 16 last year",
-            "December 26 last year",
-            "January 26 this year",
-            "February 26 this year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the total number of voters in the Dharmanagar assembly constituency, according to the updated published roll?",
-        "a": "46,143",
-        "options": [
-            "45,143",
-            "46,143",
-            "47,143",
-            "48,143",
-            "49,143"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the Congress candidate defeated by Biswabandhu Sen in the February 2023 elections from Dharmanagar constituency?",
-        "a": "Chayan Bhattacharjya",
-        "options": [
-            "Rahul Gandhi",
-            "O. Bharathan",
-            "Chayan Bhattacharjya",
-            "Bipin Pendyala",
-            "Rajeev Gupta"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Chief Minister urged the Union government to grant approval for archaeological excavations at eight locations in Tamil Nadu?",
-        "a": "M.K. Stalin",
-        "options": [
-            "Pinarayi Vijayan",
-            "K. Chandrashekar Rao",
-            "M.K. Stalin",
-            "Basavaraj Bommai",
-            "Naveen Patnaik"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many locations, including Keeladi, Adichanur, and Nagapattinam, has the Tamil Nadu government sought approval for archaeological excavations?",
-        "a": "Eight",
-        "options": [
-            "Six",
-            "Seven",
-            "Eight",
-            "Nine",
-            "Ten"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which of the following is one of the locations in Tamil Nadu where the Chief Minister sought approval for archaeological excavations?",
-        "a": "Keeladi",
-        "options": [
-            "Hampi",
-            "Fatehpur Sikri",
-            "Keeladi",
-            "Lothal",
-            "Rakhigarhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When were the proposals for archaeological excavations in Tamil Nadu initially submitted by the State government?",
-        "a": "July 2025",
-        "options": [
-            "May 2025",
-            "June 2025",
-            "July 2025",
-            "August 2025",
-            "September 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how many months has the permission for archaeological excavations in Tamil Nadu been pending, as stated by CM M.K. Stalin in March 2026?",
-        "a": "8 months",
-        "options": [
-            "6 months",
-            "7 months",
-            "8 months",
-            "9 months",
-            "10 months"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the primary purpose stated by CM M.K. Stalin for seeking approval for archaeological excavations in Tamil Nadu?",
-        "a": "To highlight the antiquity of Tamil civilisation",
-        "options": [
-            "To attract tourism",
-            "To secure UNESCO heritage status",
-            "To boost local employment",
-            "To highlight the antiquity of Tamil civilisation",
-            "To discover new mineral resources"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the typical excavation season window in Tamil Nadu, as mentioned by CM M.K. Stalin?",
-        "a": "January to July",
-        "options": [
-            "March to September",
-            "January to July",
-            "April to October",
-            "February to August",
-            "June to December"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the main reason for the non-cooperation movement by private schools in Chhattisgarh against the government?",
-        "a": "Demanding an increase in RTE reimbursement amount",
-        "options": [
-            "Protesting against fee caps",
-            "Demanding an increase in RTE reimbursement amount",
-            "Seeking better infrastructure grants",
-            "Opposing new curriculum",
-            "Advocating for teacher salary hike"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the chairman of the Chhattisgarh Private School Management Association (CPSMA) leading the non-cooperation movement?",
-        "a": "Rajeev Gupta",
-        "options": [
-            "Nilotpal Datta",
-            "Amit Shah",
-            "M.K. Stalin",
-            "Rajeev Gupta",
-            "Biswabandhu Sen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Under the provisions of the RTE Act, what percentage of seats in entry-level classes in private schools must be reserved for students from weaker sections?",
-        "a": "25%",
+        "q": "What is the initial indigenous content target for the Rafale aircraft manufactured in India?",
+        "a": "30%",
         "options": [
             "10%",
-            "15%",
-            "20%",
+            "50%",
+            "30%",
+            "75%",
+            "45%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many fuselage sections per year will Tata Advanced Systems deliver from the fiscal year 2028?",
+        "a": "24 fuselages",
+        "options": [
+            "10 fuselages",
+            "24 fuselages",
+            "36 fuselages",
+            "50 fuselages",
+            "12 fuselages"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the additional integration cost incurred due to French vendor dependency for Mirage 2000 upgrades since 2011?",
+        "a": "over \u20ac1 billion",
+        "options": [
+            "over \u20ac500 million",
+            "over \u20ac1 billion",
+            "over \u20ac2 billion",
+            "over \u20ac100 million",
+            "over \u20ac5 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For how many Mirage 2000 aircraft did French vendor dependency add integration costs since 2011?",
+        "a": "50 aircraft",
+        "options": [
+            "20 aircraft",
+            "100 aircraft",
+            "50 aircraft",
+            "75 aircraft",
+            "10 aircraft"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the value of India's nearing deal to export Su-30MKI fighters to Armenia?",
+        "a": "$3 billion",
+        "options": [
+            "$1 billion",
+            "$5 billion",
+            "$3 billion",
+            "$500 million",
+            "$10 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What record amount was allocated to the Ministry of Defence in the Union Budget 2026-27?",
+        "a": "Rs. 7.85 lakh crore",
+        "options": [
+            "Rs. 5.00 lakh crore",
+            "Rs. 7.85 lakh crore",
+            "Rs. 10.20 lakh crore",
+            "Rs. 3.50 lakh crore",
+            "Rs. 6.15 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what percentage did the Union Budget 2026-27 allocation to the Ministry of Defence increase?",
+        "a": "over 15%",
+        "options": [
+            "over 5%",
+            "over 25%",
+            "over 15%",
+            "over 10%",
+            "over 30%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the capital outlay for the Ministry of Defence in 2026-27?",
+        "a": "Rs 2.19 lakh crore",
+        "options": [
+            "Rs 1.00 lakh crore",
+            "Rs 2.19 lakh crore",
+            "Rs 3.50 lakh crore",
+            "Rs 0.75 lakh crore",
+            "Rs 4.00 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately what percentage of the capital budget is earmarked for domestic procurement under Boosting Indigenous Defence Manufacturing?",
+        "a": "75%",
+        "options": [
+            "50%",
+            "75%",
+            "60%",
+            "90%",
+            "25%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of the capital budget is earmarked for domestic procurement in 2026-27?",
+        "a": "Rs. 1.39 lakh crore",
+        "options": [
+            "Rs. 0.50 lakh crore",
+            "Rs. 1.39 lakh crore",
+            "Rs. 2.00 lakh crore",
+            "Rs. 0.75 lakh crore",
+            "Rs. 2.50 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the value of defence production in the fiscal year 2024-25?",
+        "a": "Rs 1.51 lakh crore",
+        "options": [
+            "Rs 1.00 lakh crore",
+            "Rs 1.51 lakh crore",
+            "Rs 2.00 lakh crore",
+            "Rs 0.50 lakh crore",
+            "Rs 2.50 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage did the private sector's share in defence production rise to in FY 2024-25?",
+        "a": "23%",
+        "options": [
+            "10%",
+            "23%",
+            "35%",
+            "5%",
+            "15%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is China's estimated defence spending?",
+        "a": "$249 billion",
+        "options": [
+            "$100 billion",
+            "$249 billion",
+            "$50 billion",
+            "$500 billion",
+            "$150 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is India's defence budget as mentioned in the text?",
+        "a": "$93 billion",
+        "options": [
+            "$50 billion",
+            "$93 billion",
+            "$150 billion",
+            "$25 billion",
+            "$120 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What TruVal Rating did the Indian Air Force achieve in the World Directory of Modern Military Aircraft 2026 rankings?",
+        "a": "69.4",
+        "options": [
+            "50.0",
+            "69.4",
+            "80.0",
+            "45.0",
+            "75.0"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was received by Defence research and development in fiscal year 2026-27?",
+        "a": "Rs 29,100 crore",
+        "options": [
+            "Rs 10,000 crore",
+            "Rs 29,100 crore",
+            "Rs 50,000 crore",
+            "Rs 15,000 crore",
+            "Rs 5,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In advanced aerospace ecosystems like the United States and France, what is the domestic value capture in fighter aircraft programmes?",
+        "a": "exceeds 60%",
+        "options": [
+            "exceeds 30%",
+            "exceeds 60%",
+            "exceeds 90%",
+            "exceeds 10%",
+            "exceeds 45%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What has historically been India's indigenous value-add in major licensed production platforms?",
+        "a": "25\u201335%",
+        "options": [
+            "5\u201310%",
+            "25\u201335%",
+            "40\u201350%",
+            "60\u201370%",
+            "10\u201320%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the cost of building the viewpoint tower near Katpadi?",
+        "a": "\u20b91 crore",
+        "options": [
+            "\u20b950 lakh",
+            "\u20b91 crore",
+            "\u20b92 crore",
+            "\u20b910 lakh",
+            "\u20b95 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many visitors can the viewpoint tower near Katpadi accommodate at a time?",
+        "a": "80 visitors",
+        "options": [
+            "20 visitors",
+            "80 visitors",
+            "150 visitors",
+            "40 visitors",
+            "100 visitors"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the cost of building the new viewpoint tower in Palamarathur tribal hamlet?",
+        "a": "\u20b946 lakh",
+        "options": [
+            "\u20b910 lakh",
+            "\u20b946 lakh",
+            "\u20b91 crore",
+            "\u20b920 lakh",
+            "\u20b95 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many tribal habitations are there in the hills of Vellore and Tiruvannamalai districts?",
+        "a": "279",
+        "options": [
+            "100",
+            "279",
+            "500",
+            "50",
+            "1000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many flights were operated by Indian carriers on March 3 amid the West Asia crisis?",
+        "a": "24 flights",
+        "options": [
+            "10 flights",
+            "24 flights",
+            "58 flights",
+            "5 flights",
+            "40 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many flights were Emirates and Etihad operated from the Gulf in the last 24 hours (as of March 3, 2026)?",
+        "a": "9 flights",
+        "options": [
+            "3 flights",
+            "9 flights",
+            "15 flights",
+            "2 flights",
+            "20 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many flights are Indian carriers planning to operate on March 4 amid the West Asia crisis?",
+        "a": "58 flights",
+        "options": [
+            "20 flights",
+            "58 flights",
+            "100 flights",
+            "30 flights",
+            "75 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many flights by Indian carriers have been cancelled due to the ongoing West Asia situation till date?",
+        "a": "1,221 flights",
+        "options": [
+            "500 flights",
+            "1,221 flights",
+            "2,000 flights",
+            "100 flights",
+            "3,000 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many flights by foreign carriers have been cancelled due to the ongoing West Asia situation till date?",
+        "a": "388 flights",
+        "options": [
+            "100 flights",
+            "388 flights",
+            "500 flights",
+            "50 flights",
+            "700 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many international flights were cancelled by Indian carriers on Tuesday (March 3, 2026) since February 28?",
+        "a": "104 flights",
+        "options": [
+            "50 flights",
+            "104 flights",
+            "200 flights",
+            "25 flights",
+            "150 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many international flights were cancelled in the last three days due to the West Asia crisis?",
+        "a": "1,117 flights",
+        "options": [
+            "500 flights",
+            "1,117 flights",
+            "2,000 flights",
+            "100 flights",
+            "3,000 flights"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total number of posts involved in the State government's recruitment drive that triggered the internal reservation issue?",
+        "a": "56,432 posts",
+        "options": [
+            "10,000 posts",
+            "56,432 posts",
+            "100,000 posts",
+            "25,000 posts",
+            "5,000 posts"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the quota does the Karnataka Sub classification Bill seek to provide internal reservation in?",
+        "a": "17%",
+        "options": [
+            "5%",
+            "17%",
             "25%",
+            "10%",
             "30%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Between which dates is the student registration and nodal verification process for RTE admissions currently ongoing in Chhattisgarh?",
-        "a": "February 16 and March 31",
+        "q": "How many posts are SCs estimated to lose as per the Government Order without internal reservation?",
+        "a": "1,129 posts",
         "options": [
-            "January 1 to January 31",
-            "February 1 to February 28",
-            "February 16 and March 31",
-            "March 1 to March 15",
-            "April 1 to April 30"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for primary classes in Chhattisgarh?",
-        "a": "From \u20b97,000 to \u20b918,000",
-        "options": [
-            "From \u20b96,000 to \u20b917,000",
-            "From \u20b97,000 to \u20b918,000",
-            "From \u20b98,000 to \u20b919,000",
-            "From \u20b99,000 to \u20b920,000",
-            "From \u20b910,000 to \u20b921,000"
+            "500 posts",
+            "1,129 posts",
+            "2,000 posts",
+            "100 posts",
+            "3,000 posts"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for secondary classes in Chhattisgarh?",
-        "a": "From \u20b911,500 to \u20b922,000",
+        "q": "How many posts are STs estimated to lose as per the Government Order without internal reservation?",
+        "a": "2,258 posts",
         "options": [
-            "From \u20b910,500 to \u20b921,000",
-            "From \u20b911,500 to \u20b922,000",
-            "From \u20b912,500 to \u20b923,000",
-            "From \u20b913,500 to \u20b924,000",
-            "From \u20b914,500 to \u20b925,000"
+            "1,000 posts",
+            "2,258 posts",
+            "4,000 posts",
+            "500 posts",
+            "5,000 posts"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed increase in the RTE reimbursement amount per student/per year for high and higher secondary classes in Chhattisgarh?",
-        "a": "From \u20b915,000 to \u20b925,000",
+        "q": "What is the amount of the defamation suit filed by Assam CM Himanta Biswa Sarma against Gaurav Gogoi and others?",
+        "a": "\u20b9500-crore",
         "options": [
-            "From \u20b914,000 to \u20b924,000",
-            "From \u20b915,000 to \u20b925,000",
-            "From \u20b916,000 to \u20b926,000",
-            "From \u20b917,000 to \u20b927,000",
-            "From \u20b918,000 to \u20b928,000"
+            "\u20b9100-crore",
+            "\u20b9500-crore",
+            "\u20b91000-crore",
+            "\u20b950-crore",
+            "\u20b9250-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Since which year have the RTE reimbursement amounts in Chhattisgarh not been revised?",
-        "a": "2012",
+        "q": "What amount was earmarked for education in the Kannur district panchayat Budget 2026-27?",
+        "a": "\u20b935 crore",
         "options": [
-            "2010",
-            "2011",
-            "2012",
-            "2013",
-            "2014"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many private schools are there in 33 districts of Chhattisgarh, as mentioned by the CPSMA chairman?",
-        "a": "6,844",
-        "options": [
-            "6,500",
-            "6,844",
-            "7,000",
-            "7,200",
-            "7,500"
+            "\u20b910 crore",
+            "\u20b935 crore",
+            "\u20b950 crore",
+            "\u20b95 crore",
+            "\u20b920 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total number of entry-level seats available in private schools across Chhattisgarh, as per the CPSMA chairman?",
-        "a": "19,886",
+        "q": "What amount was earmarked for agriculture in the Kannur district panchayat Budget 2026-27?",
+        "a": "\u20b914 crore",
         "options": [
-            "18,000",
-            "19,886",
-            "20,000",
-            "21,000",
-            "22,000"
+            "\u20b95 crore",
+            "\u20b914 crore",
+            "\u20b925 crore",
+            "\u20b93 crore",
+            "\u20b910 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which state was cited as an example by CPSMA chairman for providing \u20b925,000 at the primary level for RTE reimbursements?",
-        "a": "Delhi",
+        "q": "What amount was allocated for infrastructure development in schools in the Kannur district panchayat Budget?",
+        "a": "\u20b910 crore",
         "options": [
-            "Maharashtra",
-            "Karnataka",
-            "Delhi",
-            "Gujarat",
-            "Rajasthan"
+            "\u20b92 crore",
+            "\u20b910 crore",
+            "\u20b920 crore",
+            "\u20b91 crore",
+            "\u20b95 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the increase in an MLA's salary in Chhattisgarh, as cited by the CPSMA chairman for comparison?",
-        "a": "From \u20b945,000 to \u20b91,60,000",
+        "q": "What amount was allocated for playground renovation and smart classrooms (each) in the Kannur district panchayat Budget?",
+        "a": "\u20b95 crore",
         "options": [
-            "From \u20b940,000 to \u20b91,50,000",
-            "From \u20b945,000 to \u20b91,60,000",
-            "From \u20b950,000 to \u20b91,70,000",
-            "From \u20b935,000 to \u20b91,40,000",
-            "From \u20b955,000 to \u20b91,80,000"
+            "\u20b91 crore",
+            "\u20b95 crore",
+            "\u20b910 crore",
+            "\u20b950 lakh",
+            "\u20b92 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the Vice-President who released 13 books on Tamil heritage, culture, and architecture published by the Publication Division?",
-        "a": "C. P. Radhakrishnan",
+        "q": "What amount was allocated for the purchase of laptops and desktops in the Kannur district panchayat Budget?",
+        "a": "\u20b95 crore",
         "options": [
-            "Jagdeep Dhankhar",
-            "M. Venkaiah Naidu",
-            "C. P. Radhakrishnan",
-            "Hamid Ansari",
-            "Bhairon Singh Shekhawat"
+            "\u20b91 crore",
+            "\u20b95 crore",
+            "\u20b910 crore",
+            "\u20b950 lakh",
+            "\u20b92 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was allocated for Lab modernisation in higher secondary schools in the Kannur district panchayat Budget?",
+        "a": "\u20b975 lakh",
+        "options": [
+            "\u20b910 lakh",
+            "\u20b975 lakh",
+            "\u20b91 crore",
+            "\u20b925 lakh",
+            "\u20b950 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was allotted to the Smile Comprehensive Education project in the Kannur district panchayat Budget?",
+        "a": "\u20b945 lakh",
+        "options": [
+            "\u20b910 lakh",
+            "\u20b945 lakh",
+            "\u20b91 crore",
+            "\u20b920 lakh",
+            "\u20b95 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was earmarked as the panchayat's share for the LIFE housing scheme in the Kannur district panchayat Budget?",
+        "a": "\u20b912 crore",
+        "options": [
+            "\u20b95 crore",
+            "\u20b912 crore",
+            "\u20b920 crore",
+            "\u20b91 crore",
+            "\u20b98 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What total amount was allocated for road works in the Kannur district panchayat Budget?",
+        "a": "\u20b925 crore",
+        "options": [
+            "\u20b95 crore",
+            "\u20b925 crore",
+            "\u20b950 crore",
+            "\u20b910 crore",
+            "\u20b92 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many children are estimated to require Cochlear Implant (CI) surgeries annually in Andhra Pradesh?",
+        "a": "1,000 children",
+        "options": [
+            "100 children",
+            "1,000 children",
+            "5,000 children",
+            "500 children",
+            "2,000 children"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is India's rank as the world's largest military spender in 2024, as noted by SIPRI?",
+        "a": "fifth",
+        "options": [
+            "first",
+            "tenth",
+            "fifth",
+            "second",
+            "third"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the current number of fighter squadrons operated by the Indian Air Force?",
+        "a": "29 squadrons",
+        "options": [
+            "15 squadrons",
+            "29 squadrons",
+            "40 squadrons",
+            "20 squadrons",
+            "35 squadrons"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was allocated for Scheduled Caste welfare in the Kannur district panchayat Budget?",
+        "a": "\u20b96.65 crore",
+        "options": [
+            "\u20b91 crore",
+            "\u20b96.65 crore",
+            "\u20b910 crore",
+            "\u20b93 crore",
+            "\u20b92 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount was allocated for Scheduled Tribe welfare in the Kannur district panchayat Budget?",
+        "a": "\u20b95 crore",
+        "options": [
+            "\u20b91 crore",
+            "\u20b95 crore",
+            "\u20b910 crore",
+            "\u20b92 crore",
+            "\u20b93 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is China's TruVal rating in the World Directory of Modern Military Aircraft 2026 rankings?",
+        "a": "63.8",
+        "options": [
+            "50.0",
+            "63.8",
+            "70.0",
+            "45.0",
+            "60.0"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the eventually targeted indigenous content for the Rafale aircraft to be manufactured in India?",
+        "a": "60%",
+        "options": [
+            "30%",
+            "60%",
+            "40%",
+            "80%",
+            "50%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the French President who recently visited India for the A.I. Summit?",
+        "a": "Emmanuel Macron",
+        "options": [
+            "Joe Biden",
+            "Angela Merkel",
+            "Emmanuel Macron",
+            "Justin Trudeau",
+            "Boris Johnson"
         ],
         "cat": "Who"
     },
     {
-        "q": "How many publications on Tamil heritage, culture, and architecture were released by the Publications Division, Ministry of Information and Broadcasting?",
-        "a": "13",
+        "q": "Which company has signed agreements with Dassault to manufacture four fuselage sections in Hyderabad?",
+        "a": "Tata Advanced Systems",
         "options": [
-            "10",
-            "12",
-            "13",
-            "15",
-            "18"
+            "Hindustan Aeronautics Limited",
+            "Reliance Defence",
+            "Tata Advanced Systems",
+            "Mahindra Aerospace",
+            "Larsen & Toubro"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "Where was the event held for the release of 13 publications on Tamil scholars, heritage, and culture?",
-        "a": "Uprashtrapati Bhavan in New Delhi",
+        "q": "Who is the professor and dean at O.P. Jindal Global University and Director of the Centre for New Economics Studies (CNES)?",
+        "a": "Deepanshu Mohan",
         "options": [
-            "Rashtrapati Bhavan",
-            "Parliament House",
-            "Uprashtrapati Bhavan in New Delhi",
-            "Vigyan Bhavan",
-            "India Gate"
+            "Raghuram Rajan",
+            "Arvind Subramanian",
+            "Deepanshu Mohan",
+            "Urjit Patel",
+            "Amartya Sen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who among the following Collector inaugurated the viewpoint tower near Katpadi?",
+        "a": "V.R. Subbulaxmi",
+        "options": [
+            "K. Muthusamy",
+            "V.R. Subbulaxmi",
+            "Anjaneya",
+            "R.B. Thimmapur",
+            "H.C. Mahadevappa"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the District Tourism Officer In-Charge (Vellore) mentioned in the news?",
+        "a": "K. Muthusamy",
+        "options": [
+            "V.R. Subbulaxmi",
+            "K. Muthusamy",
+            "L. Hanumanthaiah",
+            "Siddaramaiah",
+            "H.C. Mahadevappa"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Social Welfare Minister whose replacement was sought by the Dalit Left community?",
+        "a": "H.C. Mahadevappa",
+        "options": [
+            "K.H. Muniyappa",
+            "R.B. Thimmapur",
+            "H.C. Mahadevappa",
+            "Siddaramaiah",
+            "Dharmasena"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who did the Dalit Left community delegation, including Ministers K.H. Muniyappa and R.B. Thimmapur, meet regarding the reservation issue?",
+        "a": "Chief Minister Siddaramaiah",
+        "options": [
+            "Social Welfare Minister H.C. Mahadevappa",
+            "Prime Minister Narendra Modi",
+            "Chief Minister Siddaramaiah",
+            "Governor of Karnataka",
+            "Home Minister Amit Shah"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which two Congress MLAs recently joined the Raijor Dal, as mentioned in the news?",
+        "a": "Abdur Rashid Mandal and Sherman Ali Ahmed",
+        "options": [
+            "Gaurav Gogoi and Akhil Gogoi",
+            "Himanta Biswa Sarma and Akhil Gogoi",
+            "Abdur Rashid Mandal and Sherman Ali Ahmed",
+            "K.H. Muniyappa and R.B. Thimmapur",
+            "H.C. Mahadevappa and L. Hanumanthaiah"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Assam Chief Minister who projected the Raijor Dal as the BJP\u2019s principal rival in the 2031 Assembly elections?",
+        "a": "Himanta Biswa Sarma",
+        "options": [
+            "Sarbananda Sonowal",
+            "Tarun Gogoi",
+            "Himanta Biswa Sarma",
+            "Akhil Gogoi",
+            "Gaurav Gogoi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who presented the 2026-27 Budget of the Kannur district panchayat?",
+        "a": "T. Shabna",
+        "options": [
+            "Pinarayi Vijayan",
+            "T. Shabna",
+            "E. P. Jayarajan",
+            "V.R. Subbulaxmi",
+            "K. Muthusamy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Senior ENT Surgeon and HOD of Otorhinolaryngology at KIMS Hospital, who emphasized strengthening ear and hearing care services for children?",
+        "a": "Dr. T. Sai Balarama Krishna",
+        "options": [
+            "Dr. S.K.E. Appa Rao",
+            "Dr. S. Susruta",
+            "Dr. T. Sai Balarama Krishna",
+            "Dr. A.J. Sadashiva",
+            "Dr. H.N. Nagamohan Das"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The newly inaugurated Emergency Landing Facility for IAF Rafale jets is located in which district of Assam?",
+        "a": "Dibrugarh",
+        "options": [
+            "Guwahati",
+            "Dibrugarh",
+            "Jorhat",
+            "Kamrup",
+            "Cachar"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date were the 13 publications on Tamil heritage, culture, and architecture released?",
-        "a": "March 2, 2026",
+        "q": "In which city is Tata Advanced Systems manufacturing four fuselage sections for Dassault?",
+        "a": "Hyderabad",
         "options": [
-            "March 1, 2026",
-            "March 2, 2026",
-            "March 3, 2026",
-            "February 29, 2026",
-            "March 4, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which Union Minister addressed the gathering during the release of publications on Tamil heritage and announced increased funds for Tamil Nadu?",
-        "a": "Ashwini Vaishnaw",
-        "options": [
-            "Nirmala Sitharaman",
-            "S. Jaishankar",
-            "Ashwini Vaishnaw",
-            "Piyush Goyal",
-            "Smriti Irani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many times more funds did the Modi government allocate to Tamil Nadu in the past 10 years compared to the UPA government, as stated by Union Minister Ashwini Vaishnaw?",
-        "a": "Nine times",
-        "options": [
-            "Five times",
-            "Seven times",
-            "Nine times",
-            "Ten times",
-            "Twelve times"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was cited by the Vice-President as a key initiative of PM Modi to protect and promote Tamil culture and heritage on global platforms?",
-        "a": "Announcement of establishing a Thiruvalluvar Chair at a university in Malaysia",
-        "options": [
-            "Starting a new Tamil TV channel",
-            "Reducing taxes on Tamil books",
-            "Announcement of establishing a Thiruvalluvar Chair at a university in Malaysia",
-            "Building a new cultural museum",
-            "Funding Tamil film industry"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Among the released publications, a book was specifically mentioned to be on which renowned Indian literary figure?",
-        "a": "Bankim Chandra Chatterjee",
-        "options": [
-            "Rabindranath Tagore",
-            "Mahatma Gandhi",
-            "Bankim Chandra Chatterjee",
-            "Sardar Vallabhbhai Patel",
-            "Swami Vivekananda"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the executive director of a private hospital in South Bengaluru who has been booked on charges of rape and criminal intimidation?",
-        "a": "Trivikram Rao",
-        "options": [
-            "Rajeev Gupta",
-            "Bipin Pendyala",
-            "Trivikram Rao",
-            "A. Yella Rao",
-            "Prashanth Nandella"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which police station registered an FIR against Trivikram Rao based on the complaint?",
-        "a": "Siddapura Police Station",
-        "options": [
-            "Jayanagar Police Station",
-            "Basavanagudi Police Station",
-            "Siddapura Police Station",
-            "Koramangala Police Station",
-            "M.G. Road Police Station"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At which hotel in Bengaluru was the alleged rape incident stated to have occurred?",
-        "a": "The Oberoi, Bengaluru",
-        "options": [
-            "Taj West End",
-            "The Leela Palace",
-            "The Oberoi, Bengaluru",
-            "ITC Gardenia",
-            "Shangri-La"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Approximately how long before the complaint was lodged did the alleged rape incident occur?",
-        "a": "About a month earlier",
-        "options": [
-            "A week earlier",
-            "Two weeks earlier",
-            "About a month earlier",
-            "Two months earlier",
-            "Three months earlier"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who was the Chief Justice of the First Division Bench of the Madras High Court that set aside a single judge's order on the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme?",
-        "a": "Manindra Mohan Shrivastava",
-        "options": [
-            "G. Arul Murugan",
-            "P.S. Raman",
-            "S. Chithra",
-            "Manindra Mohan Shrivastava",
-            "M. Sathiyamoorthy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date was the single judge's order passed, which was later set aside by a Division Bench of the Madras High Court regarding the marriage assistance scheme?",
-        "a": "August 12, 2024",
-        "options": [
-            "July 12, 2024",
-            "August 12, 2024",
-            "September 12, 2024",
-            "August 2, 2024",
-            "August 22, 2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the income threshold proposed by the single judge for extending the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme, which was set aside by the Division Bench?",
-        "a": "Up to \u20b912,000 a month",
-        "options": [
-            "Up to \u20b98,000 a month",
-            "Up to \u20b910,000 a month",
-            "Up to \u20b912,000 a month",
-            "Up to \u20b914,000 a month",
-            "Up to \u20b915,000 a month"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the primary reason cited by the Advocate General for opposing the single judge's direction to expand the scope of the marriage assistance scheme?",
-        "a": "State would not be in a position to bear the financial burden",
-        "options": [
-            "Lack of administrative capacity",
-            "Scheme already outdated",
-            "State would not be in a position to bear the financial burden",
-            "Legal inconsistencies",
-            "Public opposition"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date was the Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme (Thalikku Thangam scheme) discontinued?",
-        "a": "August 2, 2022",
-        "options": [
-            "July 2, 2022",
-            "August 2, 2022",
-            "September 2, 2022",
-            "August 12, 2022",
-            "July 22, 2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "More than how many members of the Andhra Pradesh Bank Retirees\u2019 Federation participated in a dharna in Vijayawada?",
-        "a": "500",
-        "options": [
-            "300",
-            "400",
-            "500",
-            "600",
-            "700"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the basic pay index in 1986-87, as mentioned by the AP Bank Retirees\u2019 Federation?",
-        "a": "600 points",
-        "options": [
-            "500 points",
-            "700 points",
-            "600 points",
-            "800 points",
-            "650 points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To how many points did the basic pay index rise in 2022, as per the Andhra Pradesh Bank Retirees\u2019 Federation?",
-        "a": "8,088 points",
-        "options": [
-            "7,500 points",
-            "8,088 points",
-            "8,500 points",
-            "9,000 points",
-            "7,800 points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which Indian Banks\u2019 Association (IBA) related issue was demanded by the Andhra Pradesh Bank Retirees\u2019 Federation for dialogue?",
-        "a": "Resolve long-pending issues amicably",
-        "options": [
-            "Increase serving employee wages",
-            "Introduce new loan schemes",
-            "Resolve long-pending issues amicably",
-            "Change bank holidays",
-            "Appoint new board members"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the Home Minister of Andhra Pradesh who spoke at the Women\u2019s Safety Week rally in Vijayawada?",
-        "a": "Vangalapudi Anitha",
-        "options": [
-            "Rayapati Sailaja",
-            "S.V. Rajashekar Babu",
-            "Vangalapudi Anitha",
-            "G. Lakshmisha",
-            "N. Chandrababu Naidu"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "By what percentage have crimes against women in Andhra Pradesh decreased, according to Home Minister Vangalapudi Anitha?",
-        "a": "4.4 per cent",
-        "options": [
-            "3.2 per cent",
-            "4.0 per cent",
-            "4.4 per cent",
-            "5.1 per cent",
-            "6.0 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Where was the Women\u2019s Safety Week rally taken out from Satyanarayanapuram signal point to Sivaji Gate?",
-        "a": "Vijayawada",
-        "options": [
+            "Bengaluru",
             "Hyderabad",
-            "Visakhapatnam",
-            "Vijayawada",
-            "Guntur",
-            "Tirupati"
+            "Chennai",
+            "Mumbai",
+            "Pune"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did the Women\u2019s Safety Week celebrations take place in Vijayawada?",
-        "a": "March 02, 2026",
+        "q": "Which university is Deepanshu Mohan associated with, where he is a professor and dean?",
+        "a": "O.P. Jindal Global University",
         "options": [
-            "March 01, 2026",
-            "March 02, 2026",
-            "March 03, 2026",
-            "February 29, 2026",
-            "March 04, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who was the former Chief Minister recalled by Vangalapudi Anitha for introducing equal property rights for women to ensure their safety?",
-        "a": "late N.T. Rama Rao",
-        "options": [
-            "Y.S. Rajasekhara Reddy",
-            "K. Rosaiah",
-            "late N.T. Rama Rao",
-            "N. Chandrababu Naidu",
-            "Jagan Mohan Reddy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was unveiled by the Home Minister Vangalapudi Anitha during the Women\u2019s Safety Week rally?",
-        "a": "\u2018Shakti Team\u2019 brochure",
-        "options": [
-            "New police station",
-            "Women helpline number",
-            "\u2018Shakti Team\u2019 brochure",
-            "Safety app",
-            "Community policing initiative"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the General Secretary of the Andhra Pradesh Bank Retirees\u2019 Federation?",
-        "a": "A. Yella Rao",
-        "options": [
-            "Rajeev Gupta",
-            "Nilotpal Datta",
-            "A. Yella Rao",
-            "Prashanth Nandella",
-            "Bipin Pendyala"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which organization will organize its 33rd annual summit with the theme \u2018Intelligence Everywhere: Leading the New Era of Transformation\u2019?",
-        "a": "Hyderabad Software Enterprises Association (HYSEA)",
-        "options": [
-            "NASSCOM",
-            "CII",
-            "Hyderabad Software Enterprises Association (HYSEA)",
-            "FICCI",
-            "ASSOCHAM"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the theme of the 33rd annual HYSEA summit?",
-        "a": "Intelligence Everywhere: Leading the New Era of Transformation",
-        "options": [
-            "Digitalization for Economic Growth",
-            "Sustainable Technology for Future",
-            "Intelligence Everywhere: Leading the New Era of Transformation",
-            "Innovation in Cloud Computing",
-            "Cybersecurity and Data Privacy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date will the 33rd annual HYSEA summit be organized in Hyderabad?",
-        "a": "March 5",
-        "options": [
-            "March 1",
-            "March 3",
-            "March 5",
-            "March 7",
-            "March 9"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which Union Minister promised the implementation of the Seventh Pay Commission in West Bengal if the BJP was voted to power?",
-        "a": "Amit Shah",
-        "options": [
-            "Narendra Modi",
-            "Rajnath Singh",
-            "Amit Shah",
-            "Nitin Gadkari",
-            "S. Jaishankar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Within how many days of the BJP coming to power in West Bengal did Amit Shah promise the implementation of the Seventh Pay Commission?",
-        "a": "45 days",
-        "options": [
-            "30 days",
-            "45 days",
-            "60 days",
-            "75 days",
-            "90 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From which location in South 24 Parganas did Union Home Minister Amit Shah flag off his party\u2019s Parivartan Yatra?",
-        "a": "Magrahat",
-        "options": [
-            "Kolkata",
-            "Howrah",
-            "Magrahat",
-            "Mathurapur",
-            "Diamond Harbour"
+            "Delhi University",
+            "Jawaharlal Nehru University",
+            "O.P. Jindal Global University",
+            "Ambedkar University",
+            "Symbiosis International University"
         ],
         "cat": "Where"
     },
     {
-        "q": "By which date did a Supreme Court order direct the West Bengal government to pay 25% of the outstanding DA to its employees?",
-        "a": "March 31",
+        "q": "The viewpoint tower atop Sanjeevirayar Hills is located near Katpadi in which district?",
+        "a": "Vellore",
         "options": [
-            "February 28",
-            "March 15",
-            "March 31",
-            "April 15",
-            "April 30"
+            "Chennai",
+            "Madurai",
+            "Vellore",
+            "Coimbatore",
+            "Tiruvannamalai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which hills is the new viewpoint tower in Palamarathur tribal hamlet located?",
+        "a": "Jawadhu Hills",
+        "options": [
+            "Nilgiri Hills",
+            "Jawadhu Hills",
+            "Western Ghats",
+            "Eastern Ghats",
+            "Shivalik Hills"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When are the MiG-21 fighter jets scheduled to retire after 62 years of service?",
+        "a": "September 2025",
+        "options": [
+            "March 2024",
+            "September 2025",
+            "December 2026",
+            "June 2023",
+            "October 2027"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the objective of Amit Shah's Parivartan Yatra, besides removing the Chief Minister?",
-        "a": "To free the State from infiltration, corruption, and syndicate raj",
+        "q": "Operation Sindoor exposed vulnerabilities in regional beyond-visual-range engagement in which month and year?",
+        "a": "May 2025",
         "options": [
-            "To promote tourism",
-            "To boost agricultural production",
-            "To free the State from infiltration, corruption, and syndicate raj",
-            "To improve road infrastructure",
-            "To encourage foreign investment"
+            "January 2024",
+            "May 2025",
+            "July 2026",
+            "February 2023",
+            "August 2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The A.I. Summit where French President Emmanuel Macron committed to 'technology transfer' occurred in which year?",
+        "a": "2026",
+        "options": [
+            "2023",
+            "2026",
+            "2025",
+            "2024",
+            "2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Until what date and time did Air India extend the suspension of most flights to/from UAE, Saudi Arabia, Israel, and Qatar?",
+        "a": "23:59 hrs IST on 4 March 2026",
+        "options": [
+            "12:00 hrs IST on 1 March 2026",
+            "23:59 hrs IST on 4 March 2026",
+            "06:00 hrs IST on 5 March 2026",
+            "23:59 hrs IST on 10 March 2026",
+            "12:00 hrs IST on 2 March 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The next Cabinet meeting to discuss the internal reservation issue is scheduled for which day?",
+        "a": "Thursday",
+        "options": [
+            "Monday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the All India United Democratic Front (AIUDF) founded?",
+        "a": "2005",
+        "options": [
+            "1995",
+            "2005",
+            "2010",
+            "2000",
+            "2015"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the theme for World Hearing Day, as mentioned in the news?",
+        "a": "\"From Communities to Classrooms \u2013 Hearing Care for All Children.\"",
+        "options": [
+            "\"Hear for Life. Don't let hearing loss limit you.\"",
+            "\"Make Listening Safe.\"",
+            "\"From Communities to Classrooms \u2013 Hearing Care for All Children.\"",
+            "\"Hearing Care for All! Screen, Rehabilitate, Communicate.\"",
+            "\"Check Your Hearing!\""
         ],
         "cat": "Why"
     },
     {
-        "q": "What age relaxation in the upper age limit for jobs was promised to the youth of West Bengal by Amit Shah if BJP forms the government?",
-        "a": "Five-year relaxation",
+        "q": "What is the purpose of the fiscal expansion in the defence sector, as outlined in the text?",
+        "a": "To force global OEMs to establish Tier 2 and Tier 3 supplier networks in India.",
         "options": [
-            "Two-year relaxation",
-            "Three-year relaxation",
-            "Four-year relaxation",
-            "Five-year relaxation",
-            "Six-year relaxation"
+            "To solely reduce defence imports.",
+            "To privatize all defence public sector units.",
+            "To force global OEMs to establish Tier 2 and Tier 3 supplier networks in India.",
+            "To increase military spending without a clear industrial policy.",
+            "To focus exclusively on foreign procurement."
         ],
-        "cat": "Amount"
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary reason for France denying the sharing of critical source codes for Rafale jets?",
+        "a": "To limit India\u2019s autonomy in customising software systems and integrating sensors/radar.",
+        "options": [
+            "To ensure France maintains full control over its defence technology.",
+            "To reduce maintenance costs for India.",
+            "To allow for full technology transfer at a later stage.",
+            "To limit India\u2019s autonomy in customising software systems and integrating sensors/radar.",
+            "To encourage India to develop its own source codes."
+        ],
+        "cat": "Why"
     }
 ]
