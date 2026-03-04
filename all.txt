@@ -19140,3 +19140,439 @@ In Alipur, the flags may be at half-mast, but the spirit of resilience remains. 
 Scan the QR code to download the News18 app and enjoy a seamless news experience anytime, anywhere.
 Latest Blogs
 ==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 23:32:04 +0530
+TITLE: On India’s fighter jet acquisitions
+LINK: https://www.thehindu.com/news/national/on-indias-fighter-jet-acquisitions/article70699109.ece
+--------------------
+An IAF Rafale fighter jet takes off from the newly inaugurated Emergency Landing Facility on Moran Bypass in Dibrugarh district of Assam
+| Photo Credit: -
+India’s Defence Acquisition Council recently cleared the procurement of 114 Rafale fighter jets from Dassault Aviation. The deal is valued at approximately Rs 3.25 lakh crore.
+What followed was a recent visit of French President Emmanuel Macron to India for the A.I. Summit where he committed to ‘technology transfer’ which can significantly elevate the defence capabilities of New Delhi.
+Though, this comes with a caveat, reports suggest that France has firmly denied the sharing of the critical source codes which will greatly hamper India’s autonomy in customising the software systems and integrating sensors and radar systems.
+This will limit New Delhi’s attempt in indigenising the operations of the Indian Air Force squadron ‘Golden Arrows’. This might also not be the only hiccup India faces in re-positioning itself in the defence hierarchy.
+The Indian Air Force operates 29 fighter squadrons against an authorised strength of 42. The MiG-21 fighter jets retired in September 2025 after 62 years. Pakistan maintains around 25 squadrons. China fields around 65. Operation Sindoor in May 2025 exposed this vulnerability through the largest beyond-visual-range engagement in the region’s history.
+That reality underpins the Rafale procurement. Of the 114 aircraft, 18 will arrive in fly-away condition. The remaining 96 will be manufactured in India, with indigenous content targeted at 30% initially and 60% eventually.
+Tata Advanced Systems has signed agreements with Dassault to manufacture four fuselage sections in Hyderabad, delivering up to 24 fuselages annually from the fiscal year 2028.
+The question is whether assembly translates to autonomy. In defence aerospace, geoeconomic leverage is measurable.
+It lies in the proportion of domestic value-add, control over mission software, freedom to integrate third-party weapons, and autonomy over lifecycle upgrades all of which now seems to be in jeopardy. Assembly depth without design authority alters production geography but not bargaining power.
+France has positioned ‘Make in India’ as central to the partnership. But technology transfer faces a critical constraint. While Dassault will co-produce the airframe and Safran M88 engines, access to source codes for electronic warfare and radar systems remains restricted. This limits India’s ability to independently integrate indigenous weapons.
+Software defines modern warfare. Every modification without source code access requires bilateral clearance and outlays to foreign contractors.
+India’s experience with Mirage 2000 upgrades illustrates this, where French vendor dependency added over €1 billion in integration costs across 50 aircraft since 2011. Turkey’s TF-X KAAN programme illustrates the risks of partial transfer. Ankara secured airframe production rights but remains engine-dependent on foreign suppliers.
+Russia has reportedly offered unprecedented access to the Su-57 fighter aircraft’s source code in consultations for co-production.
+The United Aircraft Corporation has signalled willingness to provide greater source code access than Western partners typically offer, potentially enabling deeper avionics customisation. This represents a strategic hedge against Western technological gatekeeping, leveraging existing infrastructure from licensed Su-30MKI production.
+However, a hedge is credible only if the supplier possesses the technological and industrial depth to honour it. Russia’s aerospace industry operates under sanctions-induced supply constraints, and the Su-57’s engine programme remains in transition from AL-41F1 to Izdeliye 30.
+Whether “full source code access” extends to mission system architecture or only limited avionics layers remains unclear. A hedge that substitutes one dependency for another does not deepen autonomy.
+India is nearing a deal to export Su-30MKI fighters to Armenia valued at $3 billion. The Armenian variant will feature the indigenous Uttam AESA radar and Astra missiles. This marks India’s shift from licensee to modifier-exporter, signalling a new level of absorption maturity.
+India’s diversification across France, Russia, Israel, and the United States prevents supplier monopoly and strengthens negotiating leverage.
+Operation Sindoor validated India’s punitive airpower doctrine but exposed coordination complexities across Rafale, Su-30MKI, and Mirage 2000 platforms. The episode reinforced the primacy of software integration.
+This has accelerated emphasis on Integrated Air Command and Control Systems and Theatre Commands.
+Union Budget 2026-27 allocated a record Rs. 7.85 lakh crore to the Ministry of Defence, an increase of over 15%. Capital outlay surged by over 20% to Rs 2.19 lakh crore. Approximately 75% of the capital budget, Rs. 1.39 lakh crore, is earmarked for domestic procurement under the Boosting Indigenous Defence Manufacturingcategory.
+This fiscal expansion is industrial policy by design. The mandate forces global original equipment manufacturers to establish not just assembly lines but Tier 2 and Tier 3 supplier networks within India. Defence production reached Rs 1.51 lakh crore in the fiscal year 2024-25. The private sector’s share rose to 23%.
+Yet context matters. China’s defence spending is estimated at approximately $249 billion. India’s $93 billion budget necessitates an asymmetric strategy and qualitative superiority rather than numerical parity.
+The resurgence of Donald Trump adds transactional volatility. Delays in  engine deliveries underscore how American industrial bottlenecks directly impact Indian sovereign capabilities. Diversification of technology partners across France, Israel, and Russia is, thus, a geoeconomic necessity.
+The Indian Air Force achieved a TruVal Rating of 69.4 in the World Directory of Modern Military Aircraft 2026 rankings, placing it sixth globally. This surpasses China’s rating of 63.8. This ranking reflects combat power and operational readiness. It does not measure industrial power or technological sovereignty.
+As SIPRI notes, India is the world’s fifth largest military spender at $86.1 billion in 2024 and remains a top arms importer, pursuing import reduction policies
+The decisive metric is absorption capacity. Defence research and development received Rs 29,100 crore in fiscal year 2026-27 . Without doubling research intensity, co-development claims remain partial.
+Tier 2 and Tier 3 suppliers face capital constraints. In advanced aerospace ecosystems such as the United States and France, domestic value capture in fighter aircraft programmes exceeds 60%.
+In India, indigenous value-add in major licensed production platforms has historically ranged between 25–35%, concentrated in structural manufacturing rather than mission systems. Without deepening subsystem ownership, domestic content targets risk remaining assembly heavy.
+Micro, small, and medium enterprises lack the depth of certification and access to advanced materials. Aerospace manufacturing requires long cycle capital and quality compliance infrastructure. India risks becoming a Tier 0 assembler without deep-tier ecosystem capacity.
+Talent scarcity compounds infrastructure deficits. Demand for aerospace engineers is rising faster than the supply pipeline can keep up. Advanced manufacturing requires proficiency in artificial intelligence driven design, digital twins, and simulation capabilities. Industrial sovereignty ultimately depends on human capital sovereignty.
+The true geoeconomic asset is not airframes. It is a proprietary design architecture. Software defined warfare means source codes determine autonomy.
+Rafale integration dependency limits weapon customisation. Su-57 negotiations potentially bypass Western gatekeeping. Indigenous platforms like Tejas Mk2 and the Advanced Medium Combat Aircraft accumulate intellectual property over decades.
+India’s fighter jet moment is less about air dominance and more about industrial positioning. In an era of transactional geopolitics shaped by Trump’s return, strategic autonomy will not be measured by aircraft on the tarmac. It will be measured by who owns the code inside them.
+The 114 Rafale programme, Su-57 consultations, Armenia exports, and Tejas development signal structural ambition. Transformation depends on four conditions. First, doubling research and development intensity to match global norms.
+Second, building deep-tier aerospace supply chains with capital access and certification capability. Third, securing source code access through strategic negotiations or indigenous development. Fourth, scaling high-end technical human capital through formalised training programmes.
+As far as the source code of Rafales is concerned, if New Delhi remains dissatisfied with the API model offered by France, then it might be time to re-enact the GaN model again, reinforcing ‘Atmanirbhar Bharat’, which could be the first statement if not the first step, in attaining defence autonomy.
+The laboratory, not the runway, will determine whether India ascends the defence hierarchy or remains its most sophisticated customer in the medium to long term. The real question is whether India can rewire global aerospace production geography, or remain embedded within it on others’ terms. Weapons are instruments where Industrial capability is the objective to be built around greater defence-technological transfer and embeddedness requiring careful policy-nurturing and manoeuvre.
+Deepanshu Mohan is professor and dean, O.P. Jindal Global University and Director, Centre for New Economics Studies (CNES). Saksham Raj & Nagappan Arun contributed to this column and are both Research Analysts at Centre for New Economics Studies, O.P. Jindal Global University.
+Text and Context
+/
+The Hindu Explains
+/
+defence equipment
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 00:51:47 +0530
+TITLE: Two viewpoint towers in Katpadi, Jamunamarathur inaugurated
+LINK: https://www.thehindu.com/news/national/tamil-nadu/two-viewpoint-towers-in-katpadi-jamunamarathur-inaugurated/article70700059.ece
+--------------------
+Two new viewpoint towers atop Sanjeevirayar Hills near Katpadi and Jamunamarathur in Jawadhu Hills in Vellore and Tiruvannamalai districts were inaugurated on Tuesday to attract tourists and as part of environmental protection.
+Officials of the Department of Tourism, which executed the work, said that at present, Sanjeevirayar Hills in Brahmapuram village near Katpadi has an ancient Perumal temple where a large number of devotees from surrounding districts and Andhra Pradesh visit every day. Along with tourism officials, Collector V.R. Subbulaxmi opened the tower.
+The hills, which are around eight km  from the foothills, can be easily accessible due to the existing bitumen stretch. Bus services also ply to the hillock temple.
+Water and lighting facilities are also available at the temple premises. CCTV cameras are also installed for surveillance purposes. “The viewpoint tower atop Sanjeevirayar Hills can draw local visitors in Vellore and Ranipet as the hills are located on the border of the two districts. It can be a common tourist spot for them. Tourists from other places can also reach the tower easily,” K. Muthusamy, District Tourism Officer In-Charge (Vellore), told The Hindu.
+Spread over 1,500 sq ft, the viewpoint tower near Katpadi is built at a cost of ₹1 crore. It can accommodate at least 80 visitors at a time. Side walls have been built to a height of two metres with steel railings to prevent children from falling down the hillock. Visitors can view thick forests, wild species, and landmark spots like Thiruvalluvar University and VIT from the tower.
+At Tiruvannamalai, the new viewpoint tower, which was built at a cost of ₹46 lakh, is located in Palamarathur tribal hamlet, around three km from Jamunamarathur village in Jawadhu Hills. Located in the thick forests, the open viewpoint tower can be accessed through a pathway. It is located inside adventure tourist site premises, which is maintained by the Department of Tourism. It is also closer to the seasonal Bheeman falls on the hills.
+Forest officials said that such towers also help increase footfall of tourists in the hills, which have 279 tribal habitations. Home to the Indian gaur, the hills also have a large number of spotted deer, jackal, a tusker, and peacocks.
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 01:04:36 +0530
+TITLE: Indian airlines plan to operate 58 flights to West Asia on March 4: Govt
+LINK: https://www.thehindu.com/news/national/indian-airlines-plan-to-operate-58-flights-to-west-asia-on-march-4-govt/article70700968.ece
+--------------------
+Indians who were stranded in the West Asia due to flight disruptions amid the ongoing U.S.-Israel-Iran conflict, upon their arrival at Chhatrapati Shivaji Maharaj International Airport, in Mumbai, Tuesday, March 3, 2026.
+| Photo Credit: PTI
+The government on Tuesday (March 3, 2026) said airlines have undertaken calibrated adjustments to their schedules and plan to operate 58 flights on March 4 amid the West Asia crisis.
+"Special arrangements are being made to facilitate the movement of stranded passengers, with airlines deploying additional capacity where required and coordinating closely with foreign aviation authorities and Indian missions abroad to ensure safe and orderly passenger movement. A total of 24 flights are being operated by Indian carriers today. In addition, Emirates and Etihad have operated 9 flights from the Gulf in the last 24 hours," the Civil Aviation Ministry said in a statement.
+The Ministry said it was in continuous touch with airlines and closely monitoring airfares to ensure that there is no undue surge in ticket prices during this period.
+According to the Ministry, Indian carriers have undertaken calibrated adjustments to their schedules, with long-haul and ultra long-haul operations being progressively resumed through alternative routings that avoid restricted airspace.
+"Indian carriers are further planning 58 flights on 4th March, including 30 by IndiGo and 23 by Air India and Air India Express. Foreign carriers operating between India and the Gulf region are also undertaking limited operations, subject to operational and airspace considerations," it said.
+The escalating crisis in the West Asia involving the U.S., Israel, and Iran have significantly impacted flight operations as some airspaces are closed in the region.
+"Till date, 1,221 flights by Indian carriers and 388 flights by foreign carriers have been cancelled due to the ongoing situation," the Ministry said and added that it was closely monitoring the situation.
+As many as 104 international flights were cancelled by Indian carriers on Tuesday (March 3, 2026), as per figures provided by the Ministry since February 28.
+SpiceJet is operating special flights from Fujairah to Delhi, Mumbai and Kochi to support Indian nationals travelling home.Standing by when it matters!Jai Hind 🇮🇳#flyspicejet#spicejetpic.twitter.com/0wznG7hQgv
+In the last three days, as many as 1,117 international flights were cancelled due to the West Asia crisis.
+"All airlines have been advised to maintain transparent communication with passengers and ensure adherence to regulatory requirements concerning refunds, rescheduling and passenger assistance," it added.
+Air India Express will continue operating flights to and from Muscat on 4 March 2026, along with special additional flights to Delhi, Kochi, and Mumbai.Flights to and from Bahrain, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates remain suspended until 23:59 hrs IST… pic.twitter.com/rddsE78DhZ
+The Ministry is continuously coordinating with airlines, airport operators, regulatory authorities and the External Affairs Ministry to ensure safe operations, orderly restoration of services and facilitation of affected passengers.
+Meanwhile, Air India said on X, "In view of the continuing situation in the Middle East, Air India has extended the suspension of most flights to and from the UAE, Saudi Arabia, Israel and Qatar until 23:59 hrs IST on 4 March 2026".
+The airline also said it would continue to closely monitor and assess the evolving developments in the region.
+Travel AdvisoryWe understand how the ongoing situation has impacted travel plans, especially when they involve returning home or being with loved ones. Please know that we stand with you during this time and are going all in to support you with care, prudence, and…
+Israel-US strikes on Iran
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 00:46:19 +0530
+TITLE: Under pressure from the Dalit Left, recruitment GO likely to come up for discussion again in Karnataka Cabinet
+LINK: https://www.thehindu.com/news/national/karnataka/under-pressure-from-the-dalit-left-recruitment-go-likely-to-come-up-for-discussion-again-in-karnataka-cabinet/article70700472.ece
+--------------------
+The Dalit Left community has also sought replacement of Social Welfare Minister H.C. Mahadevappa, accusing him of being ‘biased’ against internal reservation.
+| Photo Credit: file photo
+Under pressure from Dalit Left community leaders, who have criticised a Government Order that has not provided for internal reservation for the recruitment of 56,432 posts, the State government is likely to discuss the reservation issue again during the next Cabinet meeting. The issue seems to have driven a wedge among the Dalit communities in the State.
+On Tuesday, a Dalit Left community delegation, including Cabinet Ministers K.H. Muniyappa and R.B. Thimmapur, met Chief Minister Siddaramaiah and is learnt to have exerted pressure for the withdrawal of the notification. It has also sought replacement of Social Welfare Minister H.C. Mahadevappa, accusing him of being “biased” against the internal reservation.
+Later in the evening, the two Ministers told prespersons that the matter would be discussed during the next Cabinet meeting on Thursday.
+Sources said that the two Ministers expressed their disappointment and disapproval of the GO that has asked recruitment authorities/department to stick to the reservation quota that existed before December 2022, which effectively means sticking to the 50% cap and without internal reservation. Sources said that the two Ministers told the Chief Minister that they were kept in the dark and were not told about internal reservation not being part of the GO. Among others present in the delegation were former MLC and KPCC SC cell head Dharmasena, former Minister Anjaneya, and former MP L. Hanumanthaiah.
+The Dalit Left community has been upset over the State government’s plan to recruit 56,432 posts, one of the biggest recruitment drives in recent decades, without implementing the internal reservation. This comes amid the Karnataka Sub classification Bill that seeks to provide internal reservation in 17% quota getting Governor’s assent. The community estimates that SCs and STs will lose 1,129 posts and 2,258 posts, respectively, as per the GO.
+In another development on Tuesday, a number of Dalit Left community organisations that met here decided to seek the resignation of Dr. Mahadevappa, and immediate withdrawal of the GO. A note issued after the meeting said that the government should reconsider recommendations of either the A.J. Sadashiva Commission or the H.N. Nagamohan Das Commission to ascertain backwardness. They also discussed the future action to exert pressure on the government not to hold recruitment without internal reservation.
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 00:01:32 +0530
+TITLE: Projecting a Muslim-centric Opposition
+LINK: https://www.thehindu.com/opinion/op-ed/projecting-a-muslim-centric-opposition/article70700870.ece
+--------------------
+Assam Chief Minister Himanta Biswa Sarma’s public statements are often brazen but layered. He recently projected the Raijor Dal as the Bharatiya Janata Party (BJP)’s principal rival in the 2031 Assembly elections, and suggested that the party, led by Akhil Gogoi, born out of the protests against the anti-Citizenship (Amendment) Act (CAA), will become a refuge for Muslim leaders. It is a calibrated narrative in the landscape of Assam’s Opposition politics.
+By naming the Raijor Dal as the BJP’s likely challenger five years hence, Mr. Sarma is shaping the perception of who matters. Being described as the ‘main rival’ by the Chief Minister elevates a young regional party above other Opposition players.
+It also sidelines the Congress and signals that the BJP does not see the grand old party as a long-term ideological threat in Assam.
+Editorial | Reining in a bigot: On the Assam Chief Minister’s incendiary rhetoric
+Mr. Sarma’s statement on the Raijor Dal becoming a shelter for Muslim leaders coincides with two Congress MLAs — Abdur Rashid Mandal and Sherman Ali Ahmed — joining the Raijor Dal. Both are Bengali-origin Muslims, from a community pejoratively referred to as the Miyas.
+This statement by the Chief Minister reinforces a narrative that Opposition parties in Assam are converging around Muslim consolidation. This is particularly significant due to the perception that the All India United Democratic Front (AIUDF) is losing its hold among Bengali Muslims in western, central, and southern Assam. Recent elections suggest that its appeal is waning. Born in 2005, the AIUDF positioned itself as the principal political voice of Bengali Muslims by penetrating Congress strongholds.
+Gauhati High Court issues notice to Himanta Biswa Sarma for ‘hate speech’
+Assam CM predicts minority tag for Assamese people after 2027 Census
+Assam CM Himanta files ₹500-crore defamation suit against Gaurav Gogoi, others
+Gaurav Gogoi threatens to sue Himanta, says CM is ‘trapped’
+In the context of the upcoming 2026 Assembly polls, two parallel narratives had gained traction. One, that Congress is increasingly dependent on Muslim votes to remain relevant in Assam. Two, that newer regional formations could absorb leaders and voters disillusioned with the AIUDF. By stating that Muslim leaders will switch over to the Raijor Dal, Mr. Sarma collapses these trends into a single storyline — that the anti-BJP space is being reshaped into a Muslim-heavy bloc, regardless of the party label. This serves the BJP’s broader strategy of polarisation without overt provocation. If the Congress is painted as a ‘Muslim party’ and the Raijor Dal as the next platform for Muslim consolidation, the BJP can position itself as the custodian of Assamese Hindu interests.
+The framing is not accidental. Mr. Gogoi built his political brand on Assamese nationalism, anti-corruption activism, and opposition to the CAA. His appeal cuts across communities. But by associating the Raijor Dal with Muslim leadership, Mr. Sarma attempts to reframe that party’s identity in the public imagination.
+There is also a tactical benefit in elevating Akhil Gogoi over the Congress, specifically its State president Gaurav Gogoi, Mr. Sarma’s bête noire. The former is a fiery politician with a strong street presence but limited organisational depth. By positioning the Raijor Dal as the main rival for 2031, the BJP effectively encourages a fragmentation of the Opposition vote in the near term.
+The Congress, struggling to keep its allies in good humour, is weakened when the narrative shifts from a BJP vs Congress contest to a more crowded Opposition field.
+Moreover, projecting the Raijor Dal as the future rival allows the BJP to argue that its dominance is so entrenched that only a new force can challenge it, and that too only five years from now.
+For the ‘Miyas’, the subtext is equally significant. If the AIUDF is losing ground and the Congress is perceived as unreliable, voters may look for alternatives that promise assertive representation without being pigeonholed as communal. While the Raijor Dal could attract such support, Mr Sarma’s pre-emptive branding complicates that possibility. By casting any shift of Muslim leaders toward the Raijor Dal as evidence of communal consolidation, he raises the political cost of that migration in a polarised environment.
+Whether this projection becomes self-fulfilling will depend on how Akhil Gogoi navigates the delicate balance between regional nationalism and inclusive politics.
+For now, Mr Sarma’s narrative accomplishes its goal: it divides potential coalitions, and ensures that the BJP remains the central axis around which Assam’s political debate revolves.
+Assam
+/
+islam
+/
+state politics
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 00:10:09 +0530
+TITLE: Thrust on education in Kannur district panchayat Budget
+LINK: https://www.thehindu.com/news/national/kerala/thrust-on-education-in-kannur-district-panchayat-budget/article70700269.ece
+--------------------
+The 2026-27 Budget of the Kannur district panchayat has earmarked ₹35 crore for education and ₹14 crore for agriculture with a strong thrust on women-friendly initiatives and social welfare measures across sectors.
+The Budget was presented by district panchayat vice-president T. Shabna.
+Highlighting sustained gains under earlier initiatives such as Mukulam and Smile projects, the Budget has allocated ₹10 crore for infrastructure development in schools, ₹5 crore each for playground renovation and smart classrooms, and ₹5 crore for the purchase of laptops and desktops.
+The other major allocations are ₹1 crore for auditorium construction, new buildings, and toilet units, and ₹50 lakh each for the construction of compound walls and purchase of furniture. Lab modernisation in higher secondary schools will receive ₹75 lakh, with ₹10 lakh for equipment purchase.
+The Smile Comprehensive Education project has been allotted ₹45 lakh, while ₹50 lakh has been set aside as the panchayat’s share for the Samagra Shiksha scheme. The ‘Vision Olympics’ sports promotion scheme has been allocated ₹50 lakh, while ₹20 lakh has been earmarked for yoga, karate and culinary training in schools.
+A ₹3 lakh has been set apart for the ‘Space’ project to provide a school experience to bedridden students.
+Agriculture
+To promote paddy cultivation, ₹2.3 crore has been earmarked. A sum of ₹50 lakh has been earmarked for solar hanging fencing along forest fringes to prevent wild animal incursions.
+The dairy sector will receive ₹2.53 crore.
+Health and Welfare
+The health sector has been allocated ₹11.16 crore. Of this, ₹7.8 crore is for the development of the Kannur District Hospital.
+A sum of ₹12 crore has been earmarked as the panchayat share for the LIFE housing scheme. Senior citizen welfare scheme accounts for ₹1.21 crore, including resting centres and cultural festivals.
+The Budget has earmarked ₹6.65 crore for Scheduled Caste welfare, while ₹5 crore has been allocated for Scheduled Tribe welfare.
+Road works received ₹25 crore: ₹15 crore for maintenance and ₹10 crore for macadam tarring. An amount of ₹1 crore has been set aside to identify land for an industrial park and ₹50 lakh for tourism development.
+A net-zero carbon emission reduction project has been allotted ₹10 lakh, while ₹2 crore has been set apart for a mobile septage treatment unit.
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 23:19:01 +0530
+TITLE: Experts Urge Early Hearing Detection to Prevent Childhood Hearing Loss
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/experts-urge-early-hearing-detection-to-prevent-childhood-hearing-loss/article70700639.ece
+--------------------
+Early detection of hearing difficulties, if any, in infants is vital to prevent future hearing problems. An estimated 1,000 children require Cochlear Implant (CI) surgeries in Andhra Pradesh, every year, says Dr. S.K.E. Appa Rao and Dr. S. Susruta of Susruta ENT Laser and Cochlear Implant Centre.
+The lack of awareness among people, delay in detection of the problem and the high cost of implants come in the way of parents approaching hospitals for treatment, the ENT specialists told the media on the occasion of World Hearing Day on Tuesday.
+“In the good old days, soon after the birth of a baby, grannies would clap to watch for the baby’s reaction. If the baby turned his/her head in the direction of the sound, or if they did not respond, a hearing problem would be suspected, and parents would take the baby for testing. An unborn baby can hear outside sounds/music right from the 6th week. Unfortunately, many modern young parents are not even aware of the good old practices and neither do they take their babies to an audiologist for scientific testing,” opines Dr. Appa Rao.
+On the contrary, many parents think that their parents or relatives started responding to sounds at a late age and the same could be the case with their children. Once a hearing problem is detected in a child, CI should be done at the earliest, preferably below three years of age for best results. Though the implants are expensive, the government is providing them free of cost to eligible children under various schemes.
+KIMS Hospital:
+Dr. T. Sai Balarama Krishna, senior ENT Surgeon and HOD of Otorhinolaryngology, KIMS Hospital, emphasised the urgent need for strengthening ear and hearing care services for children, in keeping with this year’s theme, “From Communities to Classrooms – Hearing Care for All Children.”
+Dr. Sai Balarama Krishna stated that hearing is fundamental to speech development, education, and social integration, and that unrecognised hearing impairment remains a significant but preventable cause of delayed learning among children. Early identification and timely intervention can prevent permanent disability and ensure normal language development and academic progress, he noted in a statement.
+Dr. Balarama Krishna stressed that parents and teachers should be vigilant for early warning signs such as delayed speech, inattentiveness in class, poor scholastic performance, and frequent requests for repetition. Unsafe practices such as self-medication and unscientific ear cleaning should be strictly avoided.
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 23:10:31 +0530
+TITLE: Karnataka HC directs State government to formulate policy for accurate content management on govt. websites
+LINK: https://www.thehindu.com/news/national/karnataka/karnataka-hc-directs-state-government-to-formulate-policy-for-accurate-content-management-on-govt-websites/article70700366.ece
+--------------------
+A view of High Court of Karnataka.
+As an “old and outdated information lacking statutory backing” retained by the Bengaluru Water Supply and Sewerage Board (BWSSB) on its website had lead to confusion over status of a facility, the High Court of Karnataka has directed the State government to formulate a comprehensive policy to ensure that all contents on official websites is accurate, current and consistent with the law.
+“Public authorities must recognise that any representation made on an official website carries weight and authority. Even if such material does not have statutory force, it influences public conduct. Inconsistent or outdated information can undermine public confidence and give rise to allegations of arbitrariness or unfairness,” the court observed.
+Justice Suraj Govindaraj issued the directions while dismissing a petition filed in 2016 by Jain International Residential School raising certain disputes over correctness of levy of water charges.
+The petitioner-school had also claimed concession in charges under classification as ‘educational institution’ relying on customer charter document upload on the BWSSB’s official website in this regard. However, the BWSSB had told the court that the it was “an outdated guidance document uploaded in 2005 without statutory force” and the court said that petitioner could not get benefit from non-statutory backed information uploaded on the website.
+Meanwhile, the court also directed the BWSSB to regularly review contents on its website, ensure accuracy of contents and remove or correct any outdated or misleading material without delay.
+With regard to dispute over computation of pro-rata water and sanitary charges, the court allowed the petitioner to file appeal before the statutory authorities as per the provisions of BWSSB Act, 1964, within sixty days while asking authorities to decide the appeal as per the law.
+When a statutory body publishes a customer charter or similar document on its official website, the public is entitled to assume that the contents correctly reflect the applicable legal position, the court said while pointing out that the distinction between a statutory regulation and an administrative document may be clear to lawyers, but it is not apparent to a layman. Therefore, the court said, “If the website contains information that does not strictly align with the statutory regulations, it can create genuine confusion.”
+The court emphasised the critical role official websites of the State government’s various departments, boards, corporations, the statutory authorities play in the modern governance landscape, while pointing out that for a large number of citizens the official websites are primary, and often only source of information.
+Directing the Secretary, e-Governance Department to formulate a policy in three months, the court said that it should have a system of prior legal vetting before uploading any documents related to statutory rights or obligations; prescribed fees, charges, classifications, penalties, or entitlements; or interpretations or explains of provision of an Act, Rules, or Regulations.
+The policy should state that every informational or explanatory document hosted on official websites carry a standardised disclaimer stating that in the event of any inconsistency, the relevant statutory provisions shall prevail, the court said.
+Besides, the policy should have provision for annual digital content audits by each department; certification by the head of the department that the website content is updated and consistent with current law; and a system of version control and archival tracking, the court said.
+The court also said that the policy should have facility to allow citizens to point out discrepancies, a designated officer responsible for website content in each department, a defined protocol for correction of errors; and timelines for rectification once discrepancies are noticed.
+INFO BOX
+* All statutory documents must undergo legal vetting before publication on official websites
+* Websites must clearly segregate binding regulations from explanatory material
+* Standardised disclaimer required stating statutory provisions prevail over online content
+* Annual digital content audits with certification by department heads are mandatory
+*Citizen complaint mechanism for reporting content discrepancies must be established
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 22:56:20 +0530
+TITLE: Govt. moves to help stranded Telugus in Bahrain, other Gulf nations
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/govt-moves-to-help-stranded-telugus-in-bahrain-other-gulf-nations/article70700586.ece
+--------------------
+Telugus in Bahrain are facing relatively greater distress compared to those in other Gulf countries, says president of APNRTS Vemuru Ravi Kumar.
+| Photo Credit: File Photo
+With tensions escalating between Israel and Iran, the Andhra Pradesh government has moved to assist Telugu people stranded in Bahrain and other Gulf nations.
+Chief Minister N. Chandrababu Naidu has directed the Andhra Pradesh Non-Resident Telugu Society (APNRTS) to ensure uninterrupted food supply and extend all possible support to expatriates facing hardship.
+The intervention follows reports that several Telugu workers in Bahrain were struggling to access food during daytime hours owing to restrictions associated with the Ramadan month.
+During a Zoom conference convened by Minister for NRI Empowerment Kondapalli Srinivas and APNRTS, more than 250 coordinators from conflict-affected Middle East and Gulf countries participated and briefed officials on the ground situation.
+APNRTS president Ravi Kumar Vemuru told The Hindu on Tuesday that Telugus in Bahrain were facing relatively greater distress compared to those in other Gulf countries.
+“In Saudi Arabia, Oman, Qatar and Kuwait, the situation is stable. However, in Bahrain, some buildings have reportedly been hit, prompting evacuations. Government shelters lack adequate food, and local NRT volunteers are stepping in to provide meals,” he said.
+Mr. Ravi Kumar added that panic triggered by misinformation was reported in Abu Dhabi, though no emergencies had been recorded there. “A significant concern is that many industrial plants, particularly in oil, government and civil works sectors, are shutting down. Some of the countries have classified oil and government sector services as ‘essential services,’ preventing the employees in these sectors from leaving the country,” he said.
+Another pressing issue was the soaring cost of airline tickets, making evacuation difficult. Many transit passengers were currently being accommodated by local Telugu associations.
+The APNRTS advised those unable to secure safe flights to consider Oman as a relatively safer transit point, though visa constraints remain a hurdle.
+The State government urged Ministry of External Affairs to negotiate with the Gulf nations, particularly Saudi Arabia, to facilitate transit visas for stranded workers, ensuring their safe passage if the conflict intensified further.
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 22:53:46 +0530
+TITLE: Teachers union slams government for delay in resolution of issues
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/teachers-union-slams-government-for-delay-in-resolution-of-issues/article70700513.ece
+--------------------
+Leaders of Andhra Pradesh Teachers Federation (APTF) demonstrated at district centres on Tuesday, registering protest against the government’s failure to initiate measures to address their long-pending issues.
+The federation’s State president G. Hrudaya Raju and secretary Y.S. Chiranjeevi in a press release said they were forced to protest, as their repeated pleas to the government failed to yield any results. They said the authorities concerned failed to raise their issues in the ongoing Assembly sessions.
+Mr. Hrudaya Raju participated in dharnas staged in Kurnool and Nandyal districts, while the federation’s honorary president A. Sadashiva Rao took part in the protest in Vizianagaram district. Mr. Chiranjeevi participated in the protest at Nellore and federation leader G. Satyanarayana took part in Krishna district.
+The protesting teachers demanded the immediate constitution of the 12th Pay Revision Commission and announcement of a 30 per cent interim relief, release of the four D.A. instalments pending since July 1, 2024, the D.A. arrears due from July 1, 2018, the 11th PRC arrears and payment of surrendered-leave arrears without delay.
+They also urged the authorities to provide compassionate appointments to children of teachers who died while serving in the Panchayati Raj Department, steps to ensure that teachers are not assigned non-teaching duties, exemption from Teacher Eligibility Test (TET) for in-service teachers, immediate payment of gratuity, leave-encashment and other arrears to retired teachers, filling up the vacant posts in higher secondary (Plus) schools, increase retirement age of teachers working in Gurukulas, societies and MTS from 60 to 62 years and regularisation of their services.
+Their other demands included implementtion of GPF for municipal teachers and inclusion of aided teachers under the EHS scheme, appointment of a committee to implement common service rules, implementation of the 57-memo and issuance of the related GO for OPS and convening of a meeting by the Education Minister to resolve issues of teachers working in municipal, Kasturba Gandhi Balika Vidyalayas (KGBVs) and Model Schools.
+Andhra Pradesh
+/
+Vijayawada
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 02:27:23 +0530
+TITLE: Rural jobs scheme workers flag glitches in monitoring app
+LINK: https://www.thehindu.com/news/national/workers-flag-glitches-in-job-scheme-app/article70699998.ece
+--------------------
+From March 1, 2026, the government has made facial recognition mandatory for marking attendance. File
+| Photo Credit: The Hindu
+Several workers enrolled under the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) have complained about glitches following the latest update to the National Mobile Monitoring System (NMMS), the mobile application used to record their attendance.
+From March 1, the government has made facial recognition mandatory for marking attendance, but several workers say the new feature is not functioning properly, making it difficult for them to register their presence.
+The Mazdoor Kisan Shakti Sangathan (MKSS) shared videos on social media showing MGNREGS workers in parts of Rajasthan struggling to mark attendance. Women workers complained that they were unable to download the muster rolls, while in other locations, the facial recognition system allegedly failed to authenticate users. They also said attempts to reach district and State officials had yielded no response.
+MKSS leader Nikhil Dey, one of the key authors of MGNREGA, questioned the efficacy of the NMMS. “In the two years since it became operational, no review has been held to assess how effective this system has been in curbing corruption. Creating technological barriers for workers hardly helps advance the government’s stated objective. Instead, the engineers who are supposed to supervise these sites should be held accountable for malpractices,” Mr. Dey said.
+Senior government officials, however, claimed that on Tuesday (March 3, 2026), over 22 lakh workers using the new facial recognition feature successfully recorded their attendance on NMMS. Facial recognition was introduced following the government’s e-KYC drive for MGNREGA workers, aimed at eliminating ineligible beneficiaries.
+Under the process, mates or supervisors take photographs of workers and upload them to the NMMS application, where they are matched against Aadhaar data. Officials said the additional verification layer was necessitated after the discovery that the NMMS platform had been “misused.”
+“This new update was rolled out only after prior preparation. In October last year, we began a pilot in three districts, which was later expanded to one district per State,” a senior official said, adding that exemptions are available in cases of technical difficulty. There has been no extensive outage, the official asserted, and the government is handholding workers through the transition.
+India
+/
+employment
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 22:19:44 +0530
+TITLE: Mother and Child Super Speciality Block inaugurated at Ernakulam MCH
+LINK: https://www.thehindu.com/news/national/kerala/mother-and-child-super-speciality-block-inaugurated-at-ernakulam-mch/article70700479.ece
+--------------------
+The new Super Speciality Block of Government Medical College Hospital at Kalamassery, Ernakulam.
+| Photo Credit: R.K. Nithin
+Health Minister Veena George has said that the State government has spent significantly to provide free treatment to the public.
+The Minister was virtually inaugurating the newly constructed Mother and Child Super Speciality Block, along with other projects, at the Government Medical College Hospital (MCH), Kalamassery, on Tuesday.
+The new block, which has 850 beds, was built at a cost of ₹285.31 crore with the aim of providing high-quality treatment to pregnant women and children, the Minister said.
+Along with the Mother and Child Super Speciality Block, an Indian Council of Medical Research-funded microbiology lab capable of Level 2 virology testing; 12 pay wards; a cosmetology clinic equipped with state-of-the-art equipment under the Dermatology department, set up in collaboration with BPCL; and a multi-parking shed were also inaugurated.
+The Minister said that many achievements had been made possible in government hospitals, including bone marrow transplant surgeries, innovative research in cancer treatment, liver transplantation, and free treatment for rare diseases for children up to the age of five years.
+Industries Minister P. Rajeeve presided. He also flagged off the new KSRTC bus service to Kalamassery Medical College Hospital on the Idukki-Kattappana route.
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 22:14:54 +0530
+TITLE: Left parties slam government’s silence on Iran attack, Khamenei killing
+LINK: https://www.thehindu.com/news/national/left-parties-slam-governments-silence-on-iran-attack-khamenei-killing/article70700278.ece
+--------------------
+CPI(M) leader Brinda Karat, with the party workers hold placards during a protest against the U.S. and Israeli attack on Iran, at Jantar Mantar in New Delhi on March 3, 2026.
+| Photo Credit: Shiv Kumar Pishpakar
+Left parties on Tuesday (March 3, 2026) protested at Delhi’s Jantar Mantar against the U.S.-Israel attack on Iran and the killing of Ayatollah Ali Khamenei, and accused the Centre of keeping silent on the issue.
+Protesters held up placards and raised slogans against the attack. They urged people to express solidarity with Iranians.
+“The silence of the government over (U.S. President Donald) Trump’s imperialist hooliganism, the attack on Iran... Why is Narendra Modi quiet,” asked CPI(M) leader Brinda Karat. “He held (Israel Prime Minister Benjamin) Netanyahu’s bloodied hands and said it is the voice of the people of India... How is this the voice of the people? You went to Israel to help a genocide,” she said.
+Ms. Karat said the attack on Iran came within 24 hours of Prime Minister Modi’s return from Israel. “Did you go there to give a stamp of approval,” she asked.
+“We are raising our voices against the bullying of the U.S. and Zionist Israel,” she said, adding that Mr. Modi should look at foreign relations from the perspective of national sovereignty. “You (Mr. Modi) have bowed to Trump, and (are) silent over the issue. This is pro-imperialist foreign policy,” she said.
+CPI(ML) Liberation general secretary Dipankar Bhattacharya said Indians do not want this war. “The war on Iran has been going on for the past four days. Talks were on, but the U.S. and Israel attacked Iran. We saw the 12-day war last year, and now it is clear, it is moving in the direction of being a regional war,” he said.
+“We demand that the government of India take steps to stop the war and restore peace... Modi ji was in Israel, the war started after he returned. It is our responsibility to ensure India has no role in this war,” Mr. Bhattacharya said.
+He said the war will “impact India” as many Indians work in West Asian countries. “Iran is an ancient civilisation with friendly and cultural relations. This has happened with Palestine, and now with Iran. It is clear Iran is ready to fight back,” he said, adding that the people of India stand with Iran.
+India
+/
+World
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 22:02:33 +0530
+TITLE: Union Minister requests new trains to Secunderabad and Tirupati from Srikakulam
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/union-minister-requests-new-trains-to-secunderabad-and-tirupati-from-srikakulam/article70700531.ece
+--------------------
+Union Minister for Civil Aviation K. Rammohan Naidu interacts with Railway Minister Ashwin Vaishnav in New Delhi on Tuesday.
+| Photo Credit: BY ARRANGEMENT
+Union Minister for Civil Aviation K. Rammohan Naidu on Tuesday has requested Railway Minister Ashwini Vaishnav to sanction new trains to Secunderabad and Tirupati from Srikakulam. He met Mr. Vaishnav in New Delhi and discussed various pending projects including the South Coast Railway Zone (SCoR) Zone works.
+He said that full-fledged operations of the new railway zone headquartered at Visakhapatnam and new trains would benefit North Andhra region in all aspects.  He also sought the halting of train at Mandasa, Pathapatnam, Harischandrapuram and other places in Srikakulam district. Mr. Vaishnav responded positively on the demand for the early completion of new railway over bridges, under bridges and other infrastructure. Mr. Rammohan Naidu said that air-rail connectivity integration in all States would benefit both air and rail travellers across the country.
+EOM
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 21:46:08 +0530
+TITLE: Andhra Pradesh ranks sixth in organ donation: Health Minister
+LINK: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-ranks-sixth-in-organ-donation-health-minister/article70699795.ece
+--------------------
+Health, Medical Education and Family Welfare Minister Satya Kumar Yadav has said that Andhra Pradesh has secured the sixth position in the country in organ donation, according to the National Organ and Tissue Transplant Organisation under the Union Ministry of Health and Family Welfare in its State-wise organ donation report for 2025.
+In a statement issued on Tuesday, the Minister attributed the achievement to sustained awareness campaigns conducted across the State under the Jeevandan scheme since its launch in 2015.
+The number of hospitals performing organ transplant surgeries has risen from three to nine. They include King George Hospital and VIMS in Visakhapatnam, Government General Hospitals in Guntur, Kurnool and Vijayawada, SVIMS in Tirupati, AIIMS in Mangalagiri, Padmavathi Children’s Hospital in Tirupati, and the Kidney Research Centre and Super Speciality Hospital in Palasa.
+At a review meeting, Jeevandan Trust coordinator K. Rambabu informed the Minister that necessary permissions have been granted to hospitals in Kakinada, Srikakulam, Vizianagaram, Ongole, Anantapur, Kadapa and Tirupati for organ retrieval and transportation from brain-dead patients. The Minister directed officials to further increase the number of transplants in government hospitals.
+Officials said that this year eight kidney transplants and one liver transplant have been performed using organs from brain-dead donors at government hospitals, including KGH and VIMS in Visakhapatnam, and the Government General Hospitals in Guntur and Kurnool. A heart transplant was also performed at a private hospital in Vijayawada.
+Organs retrieved from 18 brain-dead donors have helped 64 patients in the first two months of this year. In the corresponding period last year, 31 transplants were carried out with organs from 12 donors. In 2024, 30 transplants were performed with support from 10 brain-dead donors.
+Since the scheme began in 2015, as many as 1,200 patients have benefited from Jeevandan. In 2025 alone, 301 patients have received organ transplants so far.
+According to the Jeevandan Trust, many patients awaiting transplants are in the 20 to 50 age group. A total of 5,347 people are currently registered for various organ transplants, including 38 children below nine years.
+Under G.O. 95, the State government accords State honours to organ donors and provides financial assistance of ₹10,000 to their families. The Minister said the government is considering enhancing the assistance to ₹1 lakh.
+Andhra Pradesh
+/
+Vijayawada
+==================================================
+
+==================================================
+DATE: Wed, 04 Mar 2026 00:33:39 +0530
+TITLE: 3,000 sanitation workers remove waste after Pongala, separate squads retrieve bricks to be used for Corporation’s housing projects
+LINK: https://www.thehindu.com/news/national/kerala/3000-sanitation-workers-remove-waste-after-pongala-separate-squads-retrieve-bricks-to-be-used-for-corporations-housing-projects/article70700369.ece
+--------------------
+Over the past decade, the Thiruvananthapuram Corporation has put in place a system to swiftly clean up the major roads in the capital city after Attukal Pongala.
+After this year’s Pongala festival too the Corporation deployed around 3,000 sanitation workers on the roads to remove the waste materials while separate squads were used to remove the bricks to be used for the Corporation’s housing projects.
+Mayor V.V. Rajesh inaugurated the civic body’s cleanup drive. General Education Minister V. Sivankutty also oversaw the cleaning activities in various locations in the city. Although the cleanup drive started early in the afternoon, waste was not removed from several parts including the bypass area near Chacka, Fort and Vazhuthacaud even at night, unlike the previous years.
+The main thoroughfare from Secretariat to East Fort was washed down on Tuesday night. Although the Corporation had strictly enforced green protocol, paper cups and plates were seen strewn around at least in some areas.
+Regarding the Corporation’s plans to reuse the bricks used for Pongala for construction of houses for beneficiaries under various schemes, V.K. Prasanth, MLA, said that the plan was first implemented when he held the Mayor post. It is heartening that those who have opposed it back then are implementing the same idea when they got power in the Corporation, he said in a Facebook post. The CPI(M)’s online handles pointed out that when the LDF-led administration had announced similar plans in the previous years, people associated with the BJP had led a false campaign against it, urging devotees to break the used bricks.
+Meanwhile, Mr. Rajesh initiated a drive against illegal parking fee collection on Pongala day. Based on a tip-off, he carried out an inspection at the SMV School grounds, where the PTA president and a PTA executive member were allegedly collecting high parking fees. The Corporation filed a complaint against them with the Thampanoor Police.
+==================================================
+
+==================================================
+DATE: Tue, 03 Mar 2026 21:12:51 +0530
+TITLE: Tributes pour in for Former Union Minister K.P. Unnikrishnan
+LINK: https://www.thehindu.com/news/national/kerala/tributes-pour-in-for-former-union-minister-kp-unnikrishnan/article70700253.ece
+--------------------
+Leaders cutting across political lines paid glowing tributes to senior Congress leader and former Union Minister K.P. Unnikrishnan, who passed away here on Tuesday morning (March 3).
+Rahul Gandhi, Leader of the Opposition in the Lok Sabha, wrote on Facebook: “I am deeply saddened by the passing of K.P. Unnikrishnan, a senior Congress leader and former Union Minister. He devoted his life to public service with commitment and integrity. My heartfelt condolences to his family, friends, and the people of Kerala. He will be remembered with respect.”
+Chief Minister Pinarayi Vijayan said in a statement that Mr. Unnikrishnan was a staunch spokesperson of secular politics who tried to retain Nehruvian values in the Congress party. Mr. Vijayan said that Mr. Unnikrishnan was also opposed to the Sangh Parivar’s Hindutva politics and recalled his election victory from Vadakara in 1991 against a common candidate of the Congress and the BJP.
+V.D. Satheesan, Opposition leader, said that Mr. Unnikrishnan was always aligned with the socialist stream of thought, who was also a well-known journalist, orator, and writer.
+M.V. Govindan, State secretary of the Communist Party of India (Marxist), said that Mr. Unnikrishnan had played a key role in the evacuation of 1.5 lakh Indians during the Gulf war, when he was a Union Minister. His demise is happening at a time when West Asia is in the grip of tension again. Mr. Govindan said that the Indian rulers should emulate his work.
+Sunny Joseph, Kerala Pradesh Congress Committee president, said Mr. Unnikrishnan had focussed on the development of Malabar during his stint as a Union Minister. He utilised his rich experience as a journalist when he entered Parliament as a Lok Sabha member, Mr. Joseph added.
+==================================================
+
+==================================================
+DATE: Wed, 4 Mar 2026 07:42:42 +0530
+TITLE: 'We Were Confined To Our Rooms': Indians Evacuated From Dubai Recall Horror Amid West Asia Conflict
+LINK: https://www.news18.com/india/we-were-confined-to-our-rooms-indians-evacuated-from-dubai-recall-horror-amid-west-asia-conflict-ws-l-9941448.html
+--------------------
+Indian citizens arriving in New Delhi from Dubai recounted the panic and horror that gripped West Asia following the Iranian attacks on Gulf nations.
+Air India welcomed passengers and crew arriving from Dubai at Indira Gandhi International Airport, marking the first international arrival by an Indian carrier into the capital on Tuesday.
+“… I was stuck in Dubai since the 25th February… We were completely confined to our rooms for three days… All the major things were kept completely closed for two-three days… I have just one request to the Indian government, that maximum flights should be sent there so that people can get out…" a passenger, who arrived at Delhi’s Indira Gandhi International (IGI) Airport, told news agency ANI.
+#WATCH | Delhi: Amid the ongoing US-Israel vs Iran conflict, a passenger, who arrived at IGI Airport from Dubai, says, “… I was stuck in Dubai since the 25th February… We were completely confined to our rooms for three days… All the major things were kept completely closed… pic.twitter.com/IUuw1wEkp9— ANI (@ANI) March 4, 2026
+Another passenger said there had not been any explosions heard for the past 1-2 days. At the same time, he recalled there were multiple blasts heard on February 28 — the day Israel and the United States launched coordinated strikes on Iran.
+“I went to Dubai on 28th February, and on the same day, everything started. We were trying to get the flights from 2-3 days… There has been no such sound for the last 1-2 days, but before that, there were many blasts…" he said.
+#WATCH | Delhi: A passenger, who arrived at IGI Airport from Dubai, says, “I went to Dubai on 28th February, and on the same day, everything started. We were trying to get the flights from 2-3 days… There has been no such sound for the last 1-2 days, but before that, there were… pic.twitter.com/ktUEB9ASuv— ANI (@ANI) March 4, 2026
+A third passenger stated that the situation in the UAE remains under control, adding that there is currently no sense of panic in the country. “… I am coming from Fujairah, as from Dubai there was no flight… The situation in the UAE is under control… There is not that much panic situation in the UAE as of now because everything is under control under their government…" he told ANI.
+#WATCH | Kochi, Kerala: A passenger, who arrived at Cochin International Airport from Fujairah, says, “… I am coming from Fujairah, as from Dubai there was no flight… The situation in the UAE is under control… There is not that much panic situation in the UAE as of now… pic.twitter.com/qG9RnjDOxv— ANI (@ANI) March 4, 2026
+In a post on ‘X’, Air India announced it was pleased to welcome passengers and crew from Dubai aboard flight AI916D, highlighting it was the first Indian carrier to land in the national capital amid the unrest in the Middle East.
+Meanwhile, Dubai Airports also confirmed that limited operations resumed on the evening of March 2 at Dubai International Airport and Al Maktoum International Airport.
+MIDDLE EAST ON BOIL
+The disruption and airspace restrictions followed coordinated US and Israeli strikes on Iran on February 28, after which Tehran unleashed attacks against Gulf nations, calling them “legitimate targets", pushing the region into a renewed military conflict and triggering widespread flight cancellations.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Wed, 4 Mar 2026 08:46:36 +0530
+TITLE: Happy Holi 2026: Wishes, Images, Messages, Quotes, WhatsApp, Facebook And Instagram Status
+LINK: https://www.news18.com/lifestyle/events/happy-holi-2026-wishes-images-messages-quotes-whatsapp-facebook-instagram-status-aa-ws-l-9933451.html
+--------------------
+Happy Holi Wishes Images: Holi, the festival of colours, is one of the most joyful and widely celebrated festivals in India and across the world. It marks the arrival of spring and symbolises the victory of good over evil. The celebrations begin with Holika Dahan, the ceremonial bonfire that signifies the triumph of devotion and righteousness.
+This year, Holika Dahan was observed on March 2, and Holi is being celebrated today, on March 4. The unusual one-day gap happened because a lunar eclipse delayed the auspicious timing for the Holi rituals.
+On this vibrant occasion of Holi 2026, people are sharing heartfelt holi greetings, meaningful holi messages, and cheerful happy holi wishes for love with family and friends. From posting a colourful happy holi image to updating a festive happy holi status, exchanging warm wishes online has become a beautiful way to spread joy and celebrate together, no matter the distance.
+सभी देशवासियों को होली की अनंत शुभकामनाएं। रंग और उमंग से भरा यह त्योहार सबके लिए खुशियों की बहार लेकर आए। हर किसी के जीवन में सुख-समृद्धि और सफलता के रंगों की बौछार हो, यही कामना है।— Narendra Modi (@narendramodi) March 4, 2026
+Here are heartfelt Happy Holi Wishes for Love ones:
+Professional yet warm greetings:
+Holi will be celebrated on March 4, 2026, while Holika Dahan will be observed on March 3, 2026.
+Holi symbolises the victory of good over evil and celebrates the arrival of spring and new beginnings.
+Holika Dahan marks the burning of Holika and represents the triumph of devotion and righteousness over evil forces.
+People celebrate Holi by playing with colours (gulal), enjoying sweets like gujiya, sharing festive meals, and exchanging greetings with family and friends.
+Popular Holi delicacies include gujiya, thandai, malpua, dahi bhalla and various regional sweets and snacks.
+Yes, Holi is a gazetted public holiday observed across most states in India.
+Colours represent joy, positivity, unity and the vibrant spirit of spring.
+People usually wear white clothes to highlight the bright colours during celebrations.
+Use organic colours, stay hydrated, protect your eyes and skin, and celebrate responsibly.
+You can send heartfelt messages, WhatsApp status updates, Instagram captions, or personalised greetings expressing joy and positivity.
+Holi is more than just colours — it is about forgiveness, renewal, unity, and spreading happiness. Whether you are celebrating with family, friends, or colleagues, take a moment to share a thoughtful message and make someone smile.
+Happy Holi 2026! May your year be as vibrant and joyful as the colours of the festival.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Tue, 3 Mar 2026 22:14:17 +0530
+TITLE: Stolen Insulin Lantus Batch: Patients Told To Watch For Side Effects, Avoid Unauthorised Sellers
+LINK: https://www.news18.com/india/stolen-insulin-lantus-batch-patients-told-to-watch-for-side-effects-avoid-unauthorised-sellers-ws-l-9941298.html
+--------------------
+India’s drug regulator issued an alert after a consignment of insulin manufactured by French drugmaker Sanofi India was reported stolen, raising concerns about possible improper storage and patient safety, News18 learnt.
+In an official communication dated March 2, seen by News18, the Central Drugs Standard Control Organization (CDSCO) said it had been informed by Sanofi India Limited about the theft of Lantus SoloStar – insulin Glargine injection, especially its batch number 5F0347B.
+Insulin glargine is a long-acting basal insulin used in the management of Type 1 and Type 2 diabetes and is prescribed to thousands of patients daily to maintain stable blood glucose levels. In a country known as the diabetes capital of the world, where millions depend on uninterrupted insulin access, the integrity of such temperature-sensitive products becomes especially critical.
+The regulator, in the alert notice, mentioned that these r-DNA origin injectables are required to be stored between 2°C and 8°C.
+“The quality of the products may be compromised if the products are not handled in proper storage conditions since the formulations are supposed to be maintained at 2°C to 8°C failing which would impact the quality of the product and in turn impact the safety of the patients," the advisory stated.
+According to a Sanofi spokesperson, “patient safety is of paramount importance" to the company.
+“An FIR has already been lodged in this matter. In the interest of transparency, we are working closely with CDSCO and other stakeholders to address this issue. We uphold the highest ethical standards in all our operations and endeavours," the spokesperson said.
+The regulatory agency advised doctors and healthcare professionals to carefully prescribe the affected product and educate patients to report any “adverse drug reactions". Patients and consumers have been asked to procure the product only from authorized sources and ensure proper invoices are available at the time of purchase.
+State and UT drug controllers and CDSCO’s zonal and sub-zonal offices have been directed to keep strict vigil on the movement of the said batch in the market and initiate necessary actions.
+The matter is currently under police investigation. The consignment was stolen from Jagmohanpur, Keonjhar Road, Odisha, while it was being transported to the company’s Kolkata distributor.
+Latest Blogs
+==================================================
+
+==================================================
+DATE: Tue, 3 Mar 2026 17:06:57 +0530
+TITLE: Why Has Modi Govt Not Condemned Ayatollah Ali Khamenei's Assassination?
+LINK: https://www.news18.com/india/why-has-modi-govt-not-condemned-ayatollah-ali-khameneis-assassination-ws-l-9940664.html
+--------------------
+The death of Iran’s Supreme Leader Ayatollah Ali Khamenei on March 1, 2026, has now triggered a deeply political debate at home. The opposition has demanded that the Prime Minister Narendra Modi-led government issue a formal condolence statement on Khamenei’s assassination by the American-Israeli forces. No less than Congress leader Sonia Gandhi has written an article accusing the government of picking a side in the conflict.
+Critics of the opposition argue that when Muammar Gaddafi was killed in 2011 during a NATO-backed operation, the UPA government did not issue any high-profile political mourning statement. India had strong ties with Libya then; seven ministers, including former External Affairs Minister Pranab Mukherjee, had visited Tripoli between 2004 and 2007. Yet there was no moral grandstanding, no domestic political storm.
+US-Israel-Iran War News Today LIVE
+The same question is being raised about the execution of Saddam Hussein in 2006. There was no categorical condolence statement. The UPA was in power then as well.
+Also, a priority for India is the safety of over 8 million Indians living in the Middle East. PM Narendra Modi has been on the phone lines with various top leaders in the Gulf, impressing upon them the priority of keeping Indians safe. Strikes by Iran on civilian infrastructure in the Middle East impact the safety of Indians living in the region too. That is why India has condemned these actions by Iran.
+Supporters of the government argue that global reactions to Khamenei’s death were largely muted. With the exception of a handful of nations — Turkey, Pakistan, Iraq, North Korea and a few others — most major democratic powers did not issue formal condolences. The US, UK, France, Germany, Japan, Australia and even several Gulf states either remained silent or maintained a critical posture. Of the 57 OIC member states, fewer than ten formally condoled his passing.
+Equally relevant is Khamenei’s own record vis-à-vis India. Between 2017 and 2024, he publicly commented on India’s internal matters multiple times — on Kashmir, on Article 370, on the Delhi riots and on the Citizenship Amendment Act. Each time, India summoned the Iranian envoy, calling the remarks “misinformed" or “unacceptable."
+In March 2020, during the Delhi riots, Khamenei tweeted that India should “confront extremist Hindus" and warned of isolation from the “world of Islam." In 2019, after Article 370 was revoked, he urged India to adopt what he called a “just policy" on Kashmir. In September 2024, he placed India alongside Gaza and Myanmar in a widely viewed social media post.
+These were not neutral comments. They were seen in New Delhi as interference in sovereign affairs.
+Foreign policy practitioners argue that diplomacy cannot be selective. If a leader repeatedly intervenes in India’s domestic debates, public silence at the time of his death is not extraordinary — it may simply be strategic restraint.
+It shows a clear pattern: governments across political lines have often chosen pragmatism over performative diplomacy.
+In geopolitics, silence is sometimes not an absence of policy. It is policy. India seems to be following the same approach.
+A latest government statement on Tuesday evening said that India remains deeply concerned about the escalating conflict in Iran and the Gulf region, which began on February 28 and has since intensified and spread. Reiterating its earlier position, India has once again urged all sides to exercise restraint, avoid further escalation, and prioritise the safety of civilians.
+The statement makes it clear that India’s foremost priority is the safety and well-being of nearly one crore Indian citizens living and working in the Gulf. With reports of casualties and disruptions, the government has directed its embassies and consulates in the affected countries to remain in close contact with Indian nationals, issue regular advisories, and extend all necessary assistance to those impacted by the conflict.
+India has also underscored its critical economic stakes in the region. The Gulf is central to India’s energy supplies and trade routes, and any prolonged instability poses serious consequences for the Indian economy. The government has strongly opposed attacks on merchant shipping, especially after Indian nationals were affected in recent incidents.
+Calling for dialogue and diplomacy, India has reiterated its demand for an early end to hostilities, expressing grief over the loss of lives. The Prime Minister and the External Affairs Minister are in touch with regional leaders and key international partners, and the government has said it will continue to closely monitor developments and take decisions strictly in the national interest.
+Latest Blogs
+==================================================
