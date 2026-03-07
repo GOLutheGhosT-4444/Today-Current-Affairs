@@ -1,721 +1,793 @@
 [
     {
-        "q": "What was the total alleged misused amount under SCSP and TSP grants by the Karnataka government over three years?",
-        "a": "\u20b938,859 crore",
+        "q": "What is the total outlay of the Maharashtra State budget for 2026-27?",
+        "a": "\u20b97.69 lakh crore",
         "options": [
-            "\u20b938,000 crore",
+            "\u20b97.59 lakh crore",
+            "\u20b97.69 lakh crore",
+            "\u20b97.79 lakh crore",
+            "\u20b97.49 lakh crore",
+            "\u20b97.89 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the maximum crop loan waiver amount announced for farmers with arrears till September 30, 2025, in Maharashtra?",
+        "a": "\u20b92 lakh",
+        "options": [
+            "\u20b91.5 lakh",
+            "\u20b92.5 lakh",
+            "\u20b92 lakh",
+            "\u20b91 lakh",
+            "\u20b93 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many farmers are approximately expected to benefit from the loan waiver in Maharashtra?",
+        "a": "28-30 lakh",
+        "options": [
+            "20-22 lakh",
+            "24-26 lakh",
+            "28-30 lakh",
+            "32-34 lakh",
+            "36-38 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount will farmers regularly repaying their instalments receive under the 'Punyashlok Ahilyadevi Holkar Shetkari Karjmafi Yojana'?",
+        "a": "\u20b950,000",
+        "options": [
+            "\u20b945,000",
+            "\u20b955,000",
+            "\u20b950,000",
+            "\u20b940,000",
+            "\u20b960,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the target GDP for Maharashtra's agricultural economy by 2047, up from $55 billion?",
+        "a": "$500 billion",
+        "options": [
+            "$450 billion",
+            "$550 billion",
+            "$500 billion",
+            "$400 billion",
+            "$600 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated revenue deficit for Maharashtra State in the 2026-27 budget?",
+        "a": "\u20b940,500 crore",
+        "options": [
+            "\u20b939,500 crore",
+            "\u20b941,500 crore",
+            "\u20b940,500 crore",
             "\u20b938,500 crore",
-            "\u20b938,859 crore",
-            "\u20b939,000 crore",
-            "\u20b937,900 crore"
+            "\u20b942,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation under SCSP and TSP grants for 2023-24 in Karnataka?",
-        "a": "\u20b911,144 crore",
+        "q": "What percentage of the estimated Gross State Domestic Product (GSDP) for 2026-27 does Maharashtra's total Budget outlay represent?",
+        "a": "14.21%",
         "options": [
-            "\u20b911,000 crore",
-            "\u20b911,144 crore",
-            "\u20b911,200 crore",
-            "\u20b910,900 crore",
-            "\u20b911,500 crore"
+            "13.21%",
+            "15.21%",
+            "14.21%",
+            "14.11%",
+            "14.31%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation under SCSP and TSP grants for 2024-25 in Karnataka?",
-        "a": "\u20b914,282 crore",
+        "q": "What is the estimated Gross State Domestic Product (GSDP) for Maharashtra in 2026-27?",
+        "a": "\u20b954.13 lakh crore",
         "options": [
-            "\u20b914,000 crore",
-            "\u20b914,100 crore",
-            "\u20b914,282 crore",
-            "\u20b914,300 crore",
-            "\u20b913,900 crore"
+            "\u20b953.13 lakh crore",
+            "\u20b955.13 lakh crore",
+            "\u20b954.13 lakh crore",
+            "\u20b954.23 lakh crore",
+            "\u20b954.03 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation under SCSP and TSP grants for 2025-26 in Karnataka?",
-        "a": "\u20b913,433 crore",
+        "q": "How much was allocated for women and child development in Maharashtra's 2026-27 budget?",
+        "a": "\u20b924,231.28 crore",
         "options": [
-            "\u20b913,000 crore",
-            "\u20b913,433 crore",
-            "\u20b913,500 crore",
-            "\u20b913,300 crore",
-            "\u20b913,600 crore"
+            "\u20b923,231.28 crore",
+            "\u20b925,231.28 crore",
+            "\u20b924,231.28 crore",
+            "\u20b924,131.28 crore",
+            "\u20b924,331.28 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What additional amount is the Siddaramaiah-led government reportedly preparing to divert in the new budget?",
-        "a": "\u20b915,000 crore",
+        "q": "What was the allocation for women and child development in Maharashtra in the last year's budget?",
+        "a": "~\u20b931,000 crore",
         "options": [
-            "\u20b914,000 crore",
-            "\u20b914,500 crore",
-            "\u20b915,000 crore",
-            "\u20b915,500 crore",
-            "\u20b916,000 crore"
+            "~\u20b930,000 crore",
+            "~\u20b932,000 crore",
+            "~\u20b931,000 crore",
+            "~\u20b929,000 crore",
+            "~\u20b933,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What minimum amount has been demanded for each district for development work for Dalits in Karnataka?",
-        "a": "\u20b91,000 crore",
+        "q": "What is the expected investment for making Gadchiroli a new steel hub and developing a mining highway network in Maharashtra?",
+        "a": "\u20b9262,000 crore",
         "options": [
-            "\u20b9900 crore",
-            "\u20b9950 crore",
-            "\u20b91,000 crore",
-            "\u20b91,050 crore",
-            "\u20b91,100 crore"
+            "\u20b9252,000 crore",
+            "\u20b9272,000 crore",
+            "\u20b9262,000 crore",
+            "\u20b9260,000 crore",
+            "\u20b9265,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many members of the Kuwaiti army have been injured since Iran launched strikes across Gulf countries hosting US military bases?",
-        "a": "67",
+        "q": "How many new competency centres does the Maharashtra Global Competence Centre Policy aim to establish?",
+        "a": "400",
         "options": [
-            "60",
-            "65",
-            "67",
-            "70",
-            "75"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many US soldiers were killed in a drone strike on a military facility in Kuwait on Sunday?",
-        "a": "6",
-        "options": [
-            "4",
-            "5",
-            "6",
-            "7",
-            "8"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the estimated initial investment for the Upper Indravati Hydroelectric Project (UIHEP) as approved by the Planning Commission?",
-        "a": "\u20b9208.15 crore",
-        "options": [
-            "\u20b9200 crore",
-            "\u20b9205 crore",
-            "\u20b9208.15 crore",
-            "\u20b9210 crore",
-            "\u20b9215 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total expenditure for the Upper Indravati Hydroelectric Project (UIHEP) when it was completed?",
-        "a": "\u20b91,427 crore",
-        "options": [
-            "\u20b91,400 crore",
-            "\u20b91,425 crore",
-            "\u20b91,427 crore",
-            "\u20b91,430 crore",
-            "\u20b91,450 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many acres of land were acquired for the Upper Indravati Hydroelectric Project?",
-        "a": "32,530.87 acres",
-        "options": [
-            "32,000 acres",
-            "32,500 acres",
-            "32,530.87 acres",
-            "33,000 acres",
-            "31,900 acres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the estimated cost for a major high-level bridge between Kenduguda and Sikakuji Ghat?",
-        "a": "\u20b954 crore",
-        "options": [
-            "\u20b950 crore",
-            "\u20b952 crore",
-            "\u20b954 crore",
-            "\u20b956 crore",
-            "\u20b958 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount did the Western Odisha Development Council (WODC) allot in 2014-15 for the construction of a Bailey bridge?",
-        "a": "\u20b960 lakh",
-        "options": [
-            "\u20b950 lakh",
-            "\u20b955 lakh",
-            "\u20b960 lakh",
-            "\u20b965 lakh",
-            "\u20b970 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount did Damu Majhi receive for a dwelling unit under the Pradhan Mantri Awaas Yojana \u2013 Gramin?",
-        "a": "\u20b91.30 lakh",
-        "options": [
-            "\u20b91.00 lakh",
-            "\u20b91.20 lakh",
-            "\u20b91.30 lakh",
-            "\u20b91.40 lakh",
-            "\u20b91.50 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated cost for the construction of three new ITIs for which CM M.K. Stalin laid the foundation?",
-        "a": "\u20b927 crore",
-        "options": [
-            "\u20b925 crore",
-            "\u20b926 crore",
-            "\u20b927 crore",
-            "\u20b928 crore",
-            "\u20b929 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the project cost for the Outer Ring Road (ORR) being laid in Vellore?",
-        "a": "\u20b9102.83 crore",
-        "options": [
-            "\u20b9100 crore",
-            "\u20b9102 crore",
-            "\u20b9102.83 crore",
-            "\u20b9103 crore",
-            "\u20b9105 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the length of the Outer Ring Road (ORR) being constructed in Vellore?",
-        "a": "7.4 km",
-        "options": [
-            "7.0 km",
-            "7.2 km",
-            "7.4 km",
-            "7.6 km",
-            "7.8 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many vehicles reportedly use Katpadi Main Road every day?",
-        "a": "More than 17,000",
-        "options": [
-            "More than 15,000",
-            "More than 16,000",
-            "More than 17,000",
-            "More than 18,000",
-            "More than 19,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many crew members were estimated to be on board the vessel torpedoed by a US Navy submarine?",
-        "a": "180",
-        "options": [
-            "160",
-            "170",
-            "180",
-            "190",
-            "200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many sailors are reported dead from the torpedoed vessel?",
-        "a": "87",
-        "options": [
-            "80",
-            "85",
-            "87",
-            "90",
-            "95"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many survivors were rescued by the Sri Lanka Navy from the torpedoed vessel?",
-        "a": "32",
-        "options": [
-            "25",
-            "30",
-            "32",
-            "35",
-            "40"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many follower posts are allowed for DGPs and ADGPs under the revised orderly system in Karnataka Police?",
-        "a": "3",
-        "options": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the range of revised monthly orderly allowance payable to senior officers in Karnataka Police?",
-        "a": "\u20b913,930 to \u20b919,900",
-        "options": [
-            "\u20b910,000 to \u20b915,000",
-            "\u20b912,000 to \u20b917,000",
-            "\u20b913,930 to \u20b919,900",
-            "\u20b915,000 to \u20b920,000",
-            "\u20b911,000 to \u20b916,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many new follower posts in the Civil Police are created under the revised orderly system in Karnataka?",
-        "a": "373",
-        "options": [
+            "300",
+            "500",
+            "400",
             "350",
-            "360",
-            "373",
-            "380",
-            "390"
+            "450"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many villages (from undivided Koraput district and Kalahandi) were affected by the Upper Indravati Project?",
-        "a": "97",
+        "q": "What is the total outlay of the Karnataka State Budget for 2026-27 presented by Chief Minister Siddaramaiah?",
+        "a": "\u20b94.48-lakh crore",
         "options": [
-            "80",
-            "85",
-            "90",
-            "97",
-            "100"
+            "\u20b94.38-lakh crore",
+            "\u20b94.58-lakh crore",
+            "\u20b94.48-lakh crore",
+            "\u20b94.40-lakh crore",
+            "\u20b94.50-lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is Israel's Defence Minister who spoke about Netanyahu's goal to assassinate Iran's late Supreme Leader?",
-        "a": "Israel Katz",
+        "q": "How many posts does the Karnataka Budget propose to fill in total, including teaching positions?",
+        "a": "56,432",
         "options": [
-            "Benjamin Netanyahu",
-            "Ali Khamenei",
-            "Pete Hegseth",
-            "Israel Katz",
-            "Saud Al\u2011Atwan"
+            "55,432",
+            "57,432",
+            "56,432",
+            "56,000",
+            "56,500"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much budget was earmarked for education in Karnataka's 2026-27 budget?",
+        "a": "\u20b947,224 crore",
+        "options": [
+            "\u20b946,224 crore",
+            "\u20b948,224 crore",
+            "\u20b947,224 crore",
+            "\u20b947,000 crore",
+            "\u20b947,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the total budget was allocated for education in Karnataka's 2026-27 budget?",
+        "a": "~10%",
+        "options": [
+            "~8%",
+            "~12%",
+            "~10%",
+            "~9%",
+            "~11%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much has been allocated to upgrade 800 schools as Karnataka Public Schools?",
+        "a": "\u20b93,900 crore",
+        "options": [
+            "\u20b93,800 crore",
+            "\u20b94,000 crore",
+            "\u20b93,900 crore",
+            "\u20b93,850 crore",
+            "\u20b93,950 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the additional incentive provided for the most backward regions under Karnataka's new Industrial Policy 2025-30?",
+        "a": "5%",
+        "options": [
+            "4%",
+            "6%",
+            "5%",
+            "4.5%",
+            "5.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the fixed rate for acquisition of dry land under the revised consent rates for the UKP Stage-III project in Karnataka?",
+        "a": "\u20b930 lakh per acre",
+        "options": [
+            "\u20b928 lakh per acre",
+            "\u20b932 lakh per acre",
+            "\u20b930 lakh per acre",
+            "\u20b929 lakh per acre",
+            "\u20b931 lakh per acre"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the grant earmarked for schemes promoting sheep/goat and dairy farming in Karnataka in the current year?",
+        "a": "\u20b940 crore",
+        "options": [
+            "\u20b935 crore",
+            "\u20b945 crore",
+            "\u20b940 crore",
+            "\u20b938 crore",
+            "\u20b942 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cost for constructing permanent barracks for 1,000 personnel for bandobast duties at Suvarna Soudha, Belagavi?",
+        "a": "\u20b920 crore",
+        "options": [
+            "\u20b918 crore",
+            "\u20b922 crore",
+            "\u20b920 crore",
+            "\u20b919 crore",
+            "\u20b921 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated total investment in infrastructure projects within Greater Hyderabad limits by the Telangana government?",
+        "a": "\u20b924,500 crore",
+        "options": [
+            "\u20b923,500 crore",
+            "\u20b925,500 crore",
+            "\u20b924,500 crore",
+            "\u20b924,000 crore",
+            "\u20b925,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed length of the Regional Ring Road around Hyderabad?",
+        "a": "360-kilometre",
+        "options": [
+            "350-kilometre",
+            "370-kilometre",
+            "360-kilometre",
+            "355-kilometre",
+            "365-kilometre"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the alleged range of money collected for allotment of houses under the Indiramma Housing Scheme in Mulugu district?",
+        "a": "\u20b950,000 to \u20b91 lakh",
+        "options": [
+            "\u20b930,000 to \u20b980,000",
+            "\u20b960,000 to \u20b91.2 lakh",
+            "\u20b950,000 to \u20b91 lakh",
+            "\u20b940,000 to \u20b990,000",
+            "\u20b970,000 to \u20b91.3 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many candidates from Tamil Nadu who received coaching under the Naan Mudhalvan Scheme cleared the Civil Services Examination 2025?",
+        "a": "56",
+        "options": [
+            "50",
+            "60",
+            "56",
+            "52",
+            "58"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Karnataka's GSDP growth rate mentioned in the budget reactions?",
+        "a": "8.1%",
+        "options": [
+            "7.9%",
+            "8.3%",
+            "8.1%",
+            "8.0%",
+            "8.2%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of India's FDI inflows during 2025\u201326 was accounted for by Karnataka?",
+        "a": "26.7%",
+        "options": [
+            "25.7%",
+            "27.7%",
+            "26.7%",
+            "26.0%",
+            "27.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many crew members were on board the Iranian ship IRIS LAVAN docked at Kochi?",
+        "a": "183",
+        "options": [
+            "173",
+            "193",
+            "183",
+            "180",
+            "185"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many people from Andhra Pradesh are stranded in the Israel-Iran conflict affected region and ready to return home?",
+        "a": "~200",
+        "options": [
+            "~150",
+            "~250",
+            "~200",
+            "~180",
+            "~220"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who presented the Maharashtra State budget for 2026-27?",
+        "a": "Devendra Fadnavis",
+        "options": [
+            "Uddhav Thackeray",
+            "Eknath Shinde",
+            "Devendra Fadnavis",
+            "Ajit Pawar",
+            "Sharad Pawar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the US Defence Secretary who confirmed a US Navy submarine torpedoed a vessel?",
-        "a": "Pete Hegseth",
+        "q": "Who is the Deputy CM of Maharashtra mentioned in the news, responding to Budget criticism?",
+        "a": "Eknath Shinde",
         "options": [
-            "Benjamin Netanyahu",
-            "Israel Katz",
-            "Pete Hegseth",
-            "Saud Al\u2011Atwan",
-            "Ali Khamenei"
+            "Devendra Fadnavis",
+            "Uddhav Thackeray",
+            "Eknath Shinde",
+            "Ajit Pawar",
+            "Aditya Thackeray"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the BJP leader who alleged misuse of SCSP-TSP funds by the Karnataka government?",
-        "a": "Rajkumar Patil Telkur",
+        "q": "Who is the Shiv Sena (UBT) leader who criticized the Maharashtra Budget as 'contractor-friendly'?",
+        "a": "Uddhav Thackeray",
+        "options": [
+            "Eknath Shinde",
+            "Devendra Fadnavis",
+            "Uddhav Thackeray",
+            "Sanjay Raut",
+            "Aditya Thackeray"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the State President of the Democratic Youth Federation of India (DYFI) who criticised the Karnataka Budget?",
+        "a": "Lavitra Vastrad",
         "options": [
             "Siddaramaiah",
-            "Rajkumar Patil Telkur",
-            "Rahul Sinha",
-            "Babul Supriyo",
-            "S. Jothimani"
+            "H. D. Kumaraswamy",
+            "Lavitra Vastrad",
+            "B. Y. Vijayendra",
+            "R. Ashok"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former West Bengal Director General of Police nominated by TMC for Rajya Sabha?",
-        "a": "Rajeev Kumar",
+        "q": "Who is the current Chief Minister of Telangana who launched the Praja Palana \u2013 Pragati Pranalika program?",
+        "a": "A. Revanth Reddy",
         "options": [
-            "Babul Supriyo",
-            "Menaka Guruswamy",
-            "Koel Mallick",
-            "Rahul Sinha",
-            "Rajeev Kumar"
+            "K. Chandrashekar Rao",
+            "A. Revanth Reddy",
+            "K. T. Rama Rao",
+            "N. Chandrababu Naidu",
+            "Y. S. Jagan Mohan Reddy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Supreme Court lawyer nominated by TMC for Rajya Sabha, known for fighting for equal marriage rights?",
-        "a": "Menaka Guruswamy",
+        "q": "Who secured the All India second rank in the Civil Services Examination 2025 from Tamil Nadu?",
+        "a": "Rajeshwari Suve M.",
         "options": [
-            "Rajeev Kumar",
-            "Babul Supriyo",
-            "Menaka Guruswamy",
-            "Koel Mallick",
-            "Rahul Sinha"
+            "Srithi R.",
+            "A.R. Rajah Mohaideen",
+            "Rajeshwari Suve M.",
+            "Kiruthika M.",
+            "T. Sankara Saravanan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who laid the foundation stone for the Upper Indravati Hydroelectric Project (UIHEP) in 1978?",
-        "a": "Morarji Desai",
+        "q": "Who has been appointed as one of the AIADMK's organisation secretaries after rejoining the party?",
+        "a": "Vellamandi N. Natarajan",
         "options": [
-            "Indira Gandhi",
-            "Morarji Desai",
-            "Rajiv Gandhi",
-            "Narendra Modi",
-            "Jawaharlal Nehru"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the sarpanch of N. Podapadar gram panchayat mentioned in the news?",
-        "a": "Raisingh Majhi",
-        "options": [
-            "Dillip Das",
-            "Khagapati Nayak",
-            "Adhu Majhi",
-            "Raisingh Majhi",
-            "Sankar Harijan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Collector who laid the foundation stone for the Outer Ring Road in Vellore?",
-        "a": "V.R. Subbulaxmi",
-        "options": [
-            "D.M. Kathir Anand",
-            "S. Poovarasan",
-            "V.R. Subbulaxmi",
-            "K. Nagaraj",
-            "M.K. Stalin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Congress candidate nominated for its Rajya Sabha seat from Tamil Nadu?",
-        "a": "Christopher Manickam",
-        "options": [
-            "M.K. Stalin",
-            "Rahul Gandhi",
-            "K. Selvaperunthagai",
-            "Christopher Manickam",
-            "Tiruchi N. Siva"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Minister who launched the Tamil Nadu Women Entrepreneur Empowerment Scheme (TWEES)?",
-        "a": "M.K. Stalin",
-        "options": [
-            "N. Rangasamy",
-            "K. Palaniswami",
-            "M.K. Stalin",
             "O. Panneerselvam",
-            "J. Jayalalithaa"
+            "Edappadi K. Palaniswami",
+            "Vellamandi N. Natarajan",
+            "T.T.V. Dhinakaran",
+            "Sasikala"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the spokesperson for the Kuwaiti defense ministry mentioned in the news?",
-        "a": "Col Saud Al-Atwan",
+        "q": "Who is the Union Minister mentioned in the news who criticized the Karnataka Budget for increasing public debt?",
+        "a": "H. D. Kumaraswamy",
         "options": [
-            "Israel Katz",
-            "Pete Hegseth",
-            "Col Saud Al-Atwan",
-            "Ali Khamenei",
-            "Benjamin Netanyahu"
+            "R. Ashok",
+            "B. Y. Vijayendra",
+            "Siddaramaiah",
+            "H. D. Kumaraswamy",
+            "B. S. Yeddyurappa"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the AICC Secretary who was nominated for Rajya Sabha from Tamil Nadu?",
-        "a": "Christopher Manickam",
+        "q": "Who is Iran\u2019s Deputy Foreign Minister who spoke at the Raisina Dialogue in New Delhi?",
+        "a": "Dr Saeed Khatibzadeh",
         "options": [
-            "K. Selvaperunthagai",
-            "Girish Chodankar",
-            "Christopher Manickam",
-            "Rahul Gandhi",
-            "Tiruchi N. Siva"
+            "S. Jaishankar",
+            "Seyed Abbas Araghchi",
+            "Dr Saeed Khatibzadeh",
+            "Kirti Vardhan Singh",
+            "Vijitha Herath"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which city were explosions reported after Israeli military launched airstrikes targeting Hezbollah's infrastructure?",
-        "a": "Beirut",
+        "q": "Who is the Sri Lankan counterpart who had a phone call with Iran's Foreign Minister Seyed Abbas Araghchi and met with S. Jaishankar?",
+        "a": "Vijitha Herath",
         "options": [
-            "Jerusalem",
-            "Tehran",
-            "Beirut",
-            "Kuwait City",
-            "Galle"
+            "S. Jaishankar",
+            "Dr Saeed Khatibzadeh",
+            "Seyed Abbas Araghchi",
+            "Kirti Vardhan Singh",
+            "Vijitha Herath"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Additional Director (Competitive Exams), Government of Tamil Nadu, who mentioned the increase in civil services results?",
+        "a": "T. Sankara Saravanan",
+        "options": [
+            "Rajeshwari Suve M.",
+            "A.R. Rajah Mohaideen",
+            "Srithi R.",
+            "Kiruthika M.",
+            "T. Sankara Saravanan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the former Chennai Mayor whose academy provided free coaching to civil services aspirants?",
+        "a": "Saidai Duraisamy",
+        "options": [
+            "M. K. Stalin",
+            "Udhayanidhi Stalin",
+            "Saidai Duraisamy",
+            "T. Sankara Saravanan",
+            "Rajeshwari Suve M."
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which city is planned to be developed as the new steel hub in Maharashtra?",
+        "a": "Gadchiroli",
+        "options": [
+            "Nagpur",
+            "Pune",
+            "Gadchiroli",
+            "Mumbai",
+            "Aurangabad"
         ],
         "cat": "Where"
     },
     {
-        "q": "The injured sailors from the torpedoed vessel were admitted to hospitals in which city in Sri Lanka?",
-        "a": "Galle",
+        "q": "Where will an industrial park on 1,000 acres be set up in Karnataka to promote economic development?",
+        "a": "Belagavi district",
         "options": [
-            "Colombo",
-            "Kandy",
-            "Jaffna",
-            "Galle",
-            "Trincomalee"
+            "Vijayapura district",
+            "Ballari district",
+            "Belagavi district",
+            "Davangere district",
+            "Kalaburagi district"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which district is N. Podapadar panchayat located, where 16 villages are marooned?",
-        "a": "Kalahandi",
+        "q": "In which two districts will new industrial estates be established in Karnataka in 2026-27?",
+        "a": "Muddebihala, Vijayapura district, and Kampli, Ballari district",
         "options": [
-            "Koraput",
-            "Nabarangpur",
-            "Kalahandi",
-            "Rayagada",
-            "Mayurbhanj"
+            "Belagavi and Davangere",
+            "Muddebihala, Vijayapura district, and Kampli, Ballari district",
+            "Vijayapura and Kalaburagi",
+            "Hubballi and Mangaluru",
+            "Mysuru and Shivamogga"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which block of Kalahandi district does the Indravati river originate?",
-        "a": "Thuamul Rampur",
+        "q": "Where will Matsya Darshinis be established to promote fish consumption in Karnataka?",
+        "a": "Belagavi, Davangere, Hubballi, and Chikkamagaluru",
         "options": [
-            "Bhawanipatna",
-            "Junagarh",
-            "Mukhiguda",
-            "Thuamul Rampur",
-            "Lanjigarh"
+            "Bengaluru, Mysuru, Mangaluru, Hubballi",
+            "Belagavi, Davangere, Hubballi, and Chikkamagaluru",
+            "Udupi, Dakshina Kannada, Uttara Kannada, Bagalkot",
+            "Vijayapura, Kalaburagi, Raichur, Bidar",
+            "Shivamogga, Ballari, Chitradurga, Mandya"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which district was Khatiguda dam constructed on the Indravati reservoir?",
-        "a": "Nabarangpur",
+        "q": "Where will new police stations be established in Muddebihal and Yaragatti?",
+        "a": "Vijayapura and Belagavi District",
         "options": [
-            "Kalahandi",
-            "Koraput",
-            "Nabarangpur",
-            "Rayagada",
-            "Gajapati"
+            "Kalaburagi and Koppal",
+            "Bidar and Raichur",
+            "Chitradurga and Mandya",
+            "Vijayapura and Belagavi District",
+            "Davangere and Shivamogga"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Outer Ring Road (ORR) work in Vellore commenced at which village?",
-        "a": "Periyathur",
+        "q": "Where was the Eco-Hill Park inaugurated by Telangana Chief Minister A. Revanth Reddy?",
+        "a": "Kotwal Guda near Himayatsagar reservoir",
         "options": [
-            "Katpadi",
-            "Kal Pudur",
-            "Periyathur",
-            "Arambakkam",
-            "Karnampattu"
+            "Budwel",
+            "Rajendranagar",
+            "Gachibowli",
+            "Kotwal Guda near Himayatsagar reservoir",
+            "Shamirpet"
         ],
         "cat": "Where"
     },
     {
-        "q": "The foundation for the Upper Indravati Hydroelectric Project was laid at Mukhiguda of which district?",
-        "a": "Kalahandi",
+        "q": "Where will a new wrestling arena be constructed to encourage wrestlers in Karnataka?",
+        "a": "Belagundi in Belagavi",
         "options": [
-            "Koraput",
-            "Kalahandi",
-            "Nabarangpur",
-            "Rayagada",
-            "Ganjam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which Indian state is the Indravati reservoir located?",
-        "a": "Odisha",
-        "options": [
-            "Andhra Pradesh",
-            "Chhattisgarh",
-            "Telangana",
-            "Odisha",
-            "Madhya Pradesh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The press conference by BJP leader Rajkumar Patil Telkur regarding fund misuse was held in which city?",
-        "a": "Kalaburagi",
-        "options": [
-            "Bengaluru",
-            "Mysuru",
-            "Hubballi",
+            "Vijayapura",
             "Kalaburagi",
-            "Mangaluru"
+            "Belagundi in Belagavi",
+            "Mysuru",
+            "Hubballi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did TMC candidates file their nominations for the Rajya Sabha elections?",
-        "a": "State Legislative Assembly, Kolkata",
+        "q": "Where is Rajeshwari Suve M., who secured AIR 2 in Civil Services, currently a trainee Deputy Collector?",
+        "a": "Dindigul",
         "options": [
-            "Parliament House, Delhi",
-            "Chief Minister's Office, Kolkata",
-            "State Legislative Assembly, Kolkata",
-            "Election Commission Office, Delhi",
-            "Governor's House, Kolkata"
+            "Chennai",
+            "Madurai",
+            "Dindigul",
+            "Coimbatore",
+            "Salem"
         ],
         "cat": "Where"
     },
     {
-        "q": "Prime Minister Benjamin Netanyahu had set a goal to assassinate Iran\u2019s late Supreme Leader Ali Khamenei as early as which month last year?",
-        "a": "November",
+        "q": "Which city is the starting point for the 99-day special program, Praja Palana \u2013 Pragati Pranalika, by the Telangana government?",
+        "a": "Hyderabad",
         "options": [
-            "September",
-            "October",
-            "November",
-            "December",
-            "January"
+            "Warangal",
+            "Hyderabad",
+            "Karimnagar",
+            "Nalgonda",
+            "Adilabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city is the 'Raisina Dialogue' event held, where Iran\u2019s Deputy Foreign Minister spoke?",
+        "a": "New Delhi",
+        "options": [
+            "Mumbai",
+            "Bengaluru",
+            "Chennai",
+            "New Delhi",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where has the Iranian ship IRIS LAVAN been docked since March 4 due to technical issues?",
+        "a": "Kochi",
+        "options": [
+            "Vishakhapatnam",
+            "Mumbai",
+            "Chennai",
+            "Kochi",
+            "Goa"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where will fish markets be set up to address the need for well-equipped facilities in Karnataka?",
+        "a": "Uttara Kannada, Dakshina Kannada, Udupi, and Bagalkot",
+        "options": [
+            "Belagavi, Davangere, Hubballi, Chikkamagaluru",
+            "Bengaluru, Mysuru, Mangaluru, Dharwad",
+            "Uttara Kannada, Dakshina Kannada, Udupi, and Bagalkot",
+            "Vijayapura, Kalaburagi, Raichur, Bidar",
+            "Shivamogga, Ballari, Chitradurga, Mandya"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did Maharashtra Chief Minister Devendra Fadnavis present the State budget for 2026-27?",
+        "a": "Friday (March 6, 2026)",
+        "options": [
+            "Thursday (March 5, 2026)",
+            "Friday (March 6, 2026)",
+            "Saturday (March 7, 2026)",
+            "Wednesday (March 4, 2026)",
+            "Monday (March 2, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did BJP leader Rajkumar Patil Telkur make allegations during a press conference in Kalaburagi?",
-        "a": "March 5, 2026",
+        "q": "By which year does Maharashtra aim to raise the agricultural sector\u2019s GDP from $55 billion to $500 billion?",
+        "a": "2047",
         "options": [
-            "March 1, 2026",
-            "March 3, 2026",
-            "March 5, 2026",
-            "March 7, 2026",
-            "March 9, 2026"
+            "2030",
+            "2035",
+            "2047",
+            "2040",
+            "2050"
         ],
         "cat": "When"
     },
     {
-        "q": "Elections for 37 Rajya Sabha seats across 10 States will take place on which date?",
-        "a": "March 16",
+        "q": "When is the self-enumeration process for Census 2027 in Tamil Nadu scheduled to take place?",
+        "a": "July 17 and July 31 this year",
         "options": [
-            "March 10",
-            "March 12",
-            "March 14",
-            "March 16",
-            "March 18"
+            "June 1-15",
+            "August 1-15",
+            "July 17 and July 31 this year",
+            "September 1-15",
+            "October 1-15"
         ],
         "cat": "When"
     },
     {
-        "q": "Rajeev Kumar served as the Director General of Police, West Bengal, until which month of 2026?",
-        "a": "January",
+        "q": "When are the house listing operations for Census 2027 in Tamil Nadu scheduled to be conducted?",
+        "a": "August 1 to 30 this year",
         "options": [
-            "November",
-            "December",
-            "January",
-            "February",
-            "March"
+            "July 1-30",
+            "August 1 to 30 this year",
+            "September 1-30",
+            "October 1-30",
+            "November 1-30"
         ],
         "cat": "When"
     },
     {
-        "q": "The Upper Indravati Hydroelectric Project (UIHEP) foundation was laid in which year?",
-        "a": "1978",
+        "q": "When did O. Panneerselvam join the DMK, a day before Vellamandi N. Natarajan rejoined AIADMK?",
+        "a": "February 27",
         "options": [
-            "1970",
-            "1975",
-            "1978",
-            "1980",
-            "1985"
+            "February 25",
+            "February 27",
+            "February 28",
+            "March 1",
+            "March 5"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did the 16 island villages around Indravati reservoir begin to be connected with electricity?",
-        "a": "2016",
+        "q": "When did the US submarine sink the IRIS DENA near the Sri Lankan coast?",
+        "a": "Wednesday (March 4, 2026)",
         "options": [
-            "2010",
-            "2012",
-            "2014",
-            "2016",
-            "2018"
+            "Monday (March 2, 2026)",
+            "Tuesday (March 3, 2026)",
+            "Wednesday (March 4, 2026)",
+            "Thursday (March 5, 2026)",
+            "Friday (March 6, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "The Government Order for overhauling the orderly system in Karnataka Police is dated which year?",
-        "a": "January 12, 2026",
+        "q": "When did the Iranian ship IRIS LAVAN develop technical issues and dock at Kochi?",
+        "a": "March 4",
         "options": [
-            "January 12, 2024",
-            "January 12, 2025",
-            "January 12, 2026",
-            "March 8, 2017",
-            "March 8, 2026"
+            "March 1",
+            "March 2",
+            "March 3",
+            "March 4",
+            "March 5"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the target year for the completion of the Outer Ring Road (ORR) work in Vellore?",
-        "a": "2027",
+        "q": "What is the specific period for Karnataka's new Industrial Policy?",
+        "a": "2025-30",
         "options": [
-            "2026",
-            "2027",
-            "2028",
-            "2029",
-            "2030"
+            "2024-29",
+            "2025-30",
+            "2026-31",
+            "2023-28",
+            "2022-27"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary objective of the Tamil Nadu Women Entrepreneur Empowerment Scheme (TWEES)?",
-        "a": "To encourage one lakh women to take up entrepreneurship in five years.",
+        "q": "What is the purpose of the 'Punyashlok Ahilyadevi Holkar Shetkari Karjmafi Yojana'?",
+        "a": "To provide \u20b950,000 to farmers regularly repaying loan instalments.",
         "options": [
-            "To provide free education to women.",
-            "To offer housing loans to women.",
-            "To encourage one lakh women to take up entrepreneurship in five years.",
-            "To empower women in agricultural sector only.",
-            "To provide skill development for rural women."
+            "To provide new crop loans",
+            "To waive all farmer loans",
+            "To provide \u20b950,000 to farmers regularly repaying loan instalments.",
+            "To offer subsidies on farm equipment",
+            "To support agricultural exports"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of the Outer Ring Road (ORR) project in Vellore?",
-        "a": "To decongest areas around Katpadi railway station by diverting heavy vehicles.",
+        "q": "What is the purpose of the 'Rohith Vemula Act' announced by the Karnataka government?",
+        "a": "To prevent caste-based discrimination in educational institutions.",
         "options": [
-            "To provide better connectivity for pedestrians.",
-            "To attract more tourists to Vellore.",
-            "To decongest areas around Katpadi railway station by diverting heavy vehicles.",
-            "To reduce travel time for local residents only.",
-            "To construct a new highway for faster inter-state travel."
+            "To promote student union elections",
+            "To provide scholarships for SC/ST students",
+            "To prevent caste-based discrimination in educational institutions.",
+            "To establish centres of excellence",
+            "To improve public education infrastructure"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary objective of the Upper Indravati Hydroelectric Project (UIHEP)?",
-        "a": "To generate 600 megawatts of hydroelectricity and provide irrigation to 1.28 lakh hectares.",
+        "q": "What is the primary objective of the new Industrial Policy 2025-30 in Karnataka?",
+        "a": "To promote industrial development beyond Bengaluru.",
         "options": [
-            "To control floods in the region.",
-            "To provide drinking water to local villages.",
-            "To generate 600 megawatts of hydroelectricity and provide irrigation to 1.28 lakh hectares.",
-            "To promote fisheries in the reservoir.",
-            "To create a tourist destination."
+            "To increase FDI inflows to Bengaluru",
+            "To focus solely on IT sector growth",
+            "To promote industrial development beyond Bengaluru.",
+            "To reduce agricultural dependence",
+            "To establish more SEZs in urban areas"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of repealing Section 7C as called for by BJP leader Rajkumar Patil Telkur?",
-        "a": "To prevent the alleged misuse of dedicated SCSP-TSP funds.",
+        "q": "What is the 99-day special program launched by the Telangana government called?",
+        "a": "Praja Palana \u2013 Pragati Pranalika",
         "options": [
-            "To simplify administrative procedures.",
-            "To reduce taxes for marginalized communities.",
-            "To prevent the alleged misuse of dedicated SCSP-TSP funds.",
-            "To increase job opportunities for youth.",
-            "To streamline land acquisition processes."
+            "Mission Bhagiratha",
+            "Rythu Bandhu",
+            "Kanti Velugu",
+            "Praja Palana \u2013 Pragati Pranalika",
+            "Dalit Bandhu"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main aim of overhauling the orderly system in the Karnataka Police Department?",
-        "a": "Optimising manpower deployment and ensuring police personnel are utilized for core policing functions.",
+        "q": "According to DYFI, what could the work of upgrading the Agriculture Department\u2019s Raitha Call Centre using Artificial Intelligence provide?",
+        "a": "Employment to young people.",
         "options": [
-            "To reduce the overall police budget.",
-            "To provide more benefits to senior officers.",
-            "To reduce the workload of followers.",
-            "Optimising manpower deployment and ensuring police personnel are utilized for core policing functions.",
-            "To increase the number of police stations in the state."
+            "More agricultural output",
+            "Better crop yield predictions",
+            "Employment to young people.",
+            "Reduced government spending",
+            "Faster loan processing"
         ],
         "cat": "Why"
     }
