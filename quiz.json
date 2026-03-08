@@ -1,793 +1,721 @@
 [
     {
-        "q": "What is the total outlay of the Maharashtra State budget for 2026-27?",
-        "a": "\u20b97.69 lakh crore",
+        "q": "What percentage of employees at Kauvery Hospitals are women, as shared by Aravindan Selvaraj?",
+        "a": "70%",
         "options": [
-            "\u20b97.59 lakh crore",
-            "\u20b97.69 lakh crore",
-            "\u20b97.79 lakh crore",
-            "\u20b97.49 lakh crore",
-            "\u20b97.89 lakh crore"
+            "65%",
+            "70%",
+            "75%",
+            "60%",
+            "80%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the maximum crop loan waiver amount announced for farmers with arrears till September 30, 2025, in Maharashtra?",
-        "a": "\u20b92 lakh",
+        "q": "Tamil Nadu aims to become a $1 trillion economy by which target year, as mentioned by A.R. Unnikrishnan?",
+        "a": "2047",
         "options": [
-            "\u20b91.5 lakh",
-            "\u20b92.5 lakh",
-            "\u20b92 lakh",
-            "\u20b91 lakh",
-            "\u20b93 lakh"
+            "2045",
+            "2047",
+            "2050",
+            "2042",
+            "2035"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many farmers are approximately expected to benefit from the loan waiver in Maharashtra?",
-        "a": "28-30 lakh",
+        "q": "What is the total cost approved for the construction of two check dams across Palar and Ponnai rivers near Katpadi?",
+        "a": "\u20b969.52 crore",
         "options": [
-            "20-22 lakh",
-            "24-26 lakh",
-            "28-30 lakh",
-            "32-34 lakh",
-            "36-38 lakh"
+            "\u20b970.00 crore",
+            "\u20b968.90 crore",
+            "\u20b969.52 crore",
+            "\u20b969.00 crore",
+            "\u20b969.95 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount will farmers regularly repaying their instalments receive under the 'Punyashlok Ahilyadevi Holkar Shetkari Karjmafi Yojana'?",
-        "a": "\u20b950,000",
+        "q": "What is the total storage capacity of the check dam planned across the Palar river?",
+        "a": "10.27 mcft",
         "options": [
-            "\u20b945,000",
-            "\u20b955,000",
-            "\u20b950,000",
-            "\u20b940,000",
-            "\u20b960,000"
+            "10.00 mcft",
+            "10.50 mcft",
+            "10.27 mcft",
+            "10.30 mcft",
+            "10.20 mcft"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the target GDP for Maharashtra's agricultural economy by 2047, up from $55 billion?",
-        "a": "$500 billion",
+        "q": "How many hectares of farmland are expected to be irrigated by the two new check dams in the Vellore region?",
+        "a": "1,200 hectares",
         "options": [
-            "$450 billion",
-            "$550 billion",
-            "$500 billion",
-            "$400 billion",
-            "$600 billion"
+            "1,150 hectares",
+            "1,200 hectares",
+            "1,250 hectares",
+            "1,300 hectares",
+            "1,100 hectares"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated revenue deficit for Maharashtra State in the 2026-27 budget?",
-        "a": "\u20b940,500 crore",
+        "q": "What is the minimum speed limit planned for the new air-conditioned suburban train services on the Chennai-Arakkonam section?",
+        "a": "90 km/h",
         "options": [
-            "\u20b939,500 crore",
-            "\u20b941,500 crore",
-            "\u20b940,500 crore",
-            "\u20b938,500 crore",
-            "\u20b942,500 crore"
+            "85 km/h",
+            "95 km/h",
+            "90 km/h",
+            "80 km/h",
+            "100 km/h"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the estimated Gross State Domestic Product (GSDP) for 2026-27 does Maharashtra's total Budget outlay represent?",
-        "a": "14.21%",
+        "q": "How many languages is the TNExpat digital platform currently available in?",
+        "a": "Five",
         "options": [
-            "13.21%",
-            "15.21%",
-            "14.21%",
-            "14.11%",
-            "14.31%"
+            "Four",
+            "Six",
+            "Five",
+            "Three",
+            "Seven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated Gross State Domestic Product (GSDP) for Maharashtra in 2026-27?",
-        "a": "\u20b954.13 lakh crore",
+        "q": "Approximately how many global Fortune 500 companies are present in Tamil Nadu?",
+        "a": "Over 130",
         "options": [
-            "\u20b953.13 lakh crore",
-            "\u20b955.13 lakh crore",
-            "\u20b954.13 lakh crore",
-            "\u20b954.23 lakh crore",
-            "\u20b954.03 lakh crore"
+            "Over 100",
+            "Over 120",
+            "Over 130",
+            "Over 110",
+            "Over 140"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was allocated for women and child development in Maharashtra's 2026-27 budget?",
-        "a": "\u20b924,231.28 crore",
+        "q": "By how much has the price of a 14.2-kg domestic LPG cylinder been increased, as stated in the news?",
+        "a": "\u20b960",
         "options": [
-            "\u20b923,231.28 crore",
-            "\u20b925,231.28 crore",
-            "\u20b924,231.28 crore",
-            "\u20b924,131.28 crore",
-            "\u20b924,331.28 crore"
+            "\u20b955",
+            "\u20b960",
+            "\u20b965",
+            "\u20b950",
+            "\u20b970"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation for women and child development in Maharashtra in the last year's budget?",
-        "a": "~\u20b931,000 crore",
+        "q": "What is the current number of registered mechanised fishing boats at Sassoon Dock?",
+        "a": "1,560",
         "options": [
-            "~\u20b930,000 crore",
-            "~\u20b932,000 crore",
-            "~\u20b931,000 crore",
-            "~\u20b929,000 crore",
-            "~\u20b933,000 crore"
+            "1,500",
+            "1,600",
+            "1,560",
+            "1,550",
+            "1,570"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the expected investment for making Gadchiroli a new steel hub and developing a mining highway network in Maharashtra?",
-        "a": "\u20b9262,000 crore",
+        "q": "What is the proposed revised minimum wage range for Staff Nurse GNM/BSC/Registered ANM Special Grade in Kerala's private health sector?",
+        "a": "\u20b925,450 to \u20b930,800",
         "options": [
-            "\u20b9252,000 crore",
-            "\u20b9272,000 crore",
-            "\u20b9262,000 crore",
-            "\u20b9260,000 crore",
-            "\u20b9265,000 crore"
+            "\u20b925,000-\u20b930,000",
+            "\u20b926,000-\u20b931,000",
+            "\u20b925,450-\u20b930,800",
+            "\u20b924,000-\u20b929,000",
+            "\u20b925,500-\u20b930,900"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many new competency centres does the Maharashtra Global Competence Centre Policy aim to establish?",
-        "a": "400",
+        "q": "According to the International Maritime Organization (IMO), approximately how many seafarers are estimated to be onboard ships stranded in the Persian Gulf?",
+        "a": "~20,000",
         "options": [
-            "300",
-            "500",
-            "400",
-            "350",
-            "450"
+            "~15,000",
+            "~20,000",
+            "~25,000",
+            "~18,000",
+            "~22,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total outlay of the Karnataka State Budget for 2026-27 presented by Chief Minister Siddaramaiah?",
-        "a": "\u20b94.48-lakh crore",
+        "q": "Who is the current Vice-Chairwoman of the Confederation of Indian Industry (CII) Indian Women Network (IWN) Tamil Nadu?",
+        "a": "Amudhavalli Ranganathan",
         "options": [
-            "\u20b94.38-lakh crore",
-            "\u20b94.58-lakh crore",
-            "\u20b94.48-lakh crore",
-            "\u20b94.40-lakh crore",
-            "\u20b94.50-lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many posts does the Karnataka Budget propose to fill in total, including teaching positions?",
-        "a": "56,432",
-        "options": [
-            "55,432",
-            "57,432",
-            "56,432",
-            "56,000",
-            "56,500"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much budget was earmarked for education in Karnataka's 2026-27 budget?",
-        "a": "\u20b947,224 crore",
-        "options": [
-            "\u20b946,224 crore",
-            "\u20b948,224 crore",
-            "\u20b947,224 crore",
-            "\u20b947,000 crore",
-            "\u20b947,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the total budget was allocated for education in Karnataka's 2026-27 budget?",
-        "a": "~10%",
-        "options": [
-            "~8%",
-            "~12%",
-            "~10%",
-            "~9%",
-            "~11%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much has been allocated to upgrade 800 schools as Karnataka Public Schools?",
-        "a": "\u20b93,900 crore",
-        "options": [
-            "\u20b93,800 crore",
-            "\u20b94,000 crore",
-            "\u20b93,900 crore",
-            "\u20b93,850 crore",
-            "\u20b93,950 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the additional incentive provided for the most backward regions under Karnataka's new Industrial Policy 2025-30?",
-        "a": "5%",
-        "options": [
-            "4%",
-            "6%",
-            "5%",
-            "4.5%",
-            "5.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the fixed rate for acquisition of dry land under the revised consent rates for the UKP Stage-III project in Karnataka?",
-        "a": "\u20b930 lakh per acre",
-        "options": [
-            "\u20b928 lakh per acre",
-            "\u20b932 lakh per acre",
-            "\u20b930 lakh per acre",
-            "\u20b929 lakh per acre",
-            "\u20b931 lakh per acre"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the grant earmarked for schemes promoting sheep/goat and dairy farming in Karnataka in the current year?",
-        "a": "\u20b940 crore",
-        "options": [
-            "\u20b935 crore",
-            "\u20b945 crore",
-            "\u20b940 crore",
-            "\u20b938 crore",
-            "\u20b942 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the cost for constructing permanent barracks for 1,000 personnel for bandobast duties at Suvarna Soudha, Belagavi?",
-        "a": "\u20b920 crore",
-        "options": [
-            "\u20b918 crore",
-            "\u20b922 crore",
-            "\u20b920 crore",
-            "\u20b919 crore",
-            "\u20b921 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated total investment in infrastructure projects within Greater Hyderabad limits by the Telangana government?",
-        "a": "\u20b924,500 crore",
-        "options": [
-            "\u20b923,500 crore",
-            "\u20b925,500 crore",
-            "\u20b924,500 crore",
-            "\u20b924,000 crore",
-            "\u20b925,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the proposed length of the Regional Ring Road around Hyderabad?",
-        "a": "360-kilometre",
-        "options": [
-            "350-kilometre",
-            "370-kilometre",
-            "360-kilometre",
-            "355-kilometre",
-            "365-kilometre"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the alleged range of money collected for allotment of houses under the Indiramma Housing Scheme in Mulugu district?",
-        "a": "\u20b950,000 to \u20b91 lakh",
-        "options": [
-            "\u20b930,000 to \u20b980,000",
-            "\u20b960,000 to \u20b91.2 lakh",
-            "\u20b950,000 to \u20b91 lakh",
-            "\u20b940,000 to \u20b990,000",
-            "\u20b970,000 to \u20b91.3 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many candidates from Tamil Nadu who received coaching under the Naan Mudhalvan Scheme cleared the Civil Services Examination 2025?",
-        "a": "56",
-        "options": [
-            "50",
-            "60",
-            "56",
-            "52",
-            "58"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was Karnataka's GSDP growth rate mentioned in the budget reactions?",
-        "a": "8.1%",
-        "options": [
-            "7.9%",
-            "8.3%",
-            "8.1%",
-            "8.0%",
-            "8.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of India's FDI inflows during 2025\u201326 was accounted for by Karnataka?",
-        "a": "26.7%",
-        "options": [
-            "25.7%",
-            "27.7%",
-            "26.7%",
-            "26.0%",
-            "27.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many crew members were on board the Iranian ship IRIS LAVAN docked at Kochi?",
-        "a": "183",
-        "options": [
-            "173",
-            "193",
-            "183",
-            "180",
-            "185"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many people from Andhra Pradesh are stranded in the Israel-Iran conflict affected region and ready to return home?",
-        "a": "~200",
-        "options": [
-            "~150",
-            "~250",
-            "~200",
-            "~180",
-            "~220"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who presented the Maharashtra State budget for 2026-27?",
-        "a": "Devendra Fadnavis",
-        "options": [
-            "Uddhav Thackeray",
-            "Eknath Shinde",
-            "Devendra Fadnavis",
-            "Ajit Pawar",
-            "Sharad Pawar"
+            "Savitha Kesav Jagadeesan",
+            "Amudhavalli Ranganathan",
+            "Monisha Madhumita",
+            "K. Sunitha",
+            "A.R. Unnikrishnan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Deputy CM of Maharashtra mentioned in the news, responding to Budget criticism?",
-        "a": "Eknath Shinde",
+        "q": "Who stated that Tamil Nadu had completed all projects under RUSA-I?",
+        "a": "Armstrong Pame",
         "options": [
-            "Devendra Fadnavis",
-            "Uddhav Thackeray",
-            "Eknath Shinde",
-            "Ajit Pawar",
-            "Aditya Thackeray"
+            "Armstrong Pame",
+            "A. Louis Arockiaraj",
+            "M. Gautaman",
+            "L. Joseph Arockiasamy",
+            "Kaviarasan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Shiv Sena (UBT) leader who criticized the Maharashtra Budget as 'contractor-friendly'?",
-        "a": "Uddhav Thackeray",
+        "q": "Who virtually flagged off the works to build two check dams across Palar river in Vellore?",
+        "a": "Duraimurugan",
         "options": [
-            "Eknath Shinde",
-            "Devendra Fadnavis",
-            "Uddhav Thackeray",
-            "Sanjay Raut",
-            "Aditya Thackeray"
+            "D.M. Kathir Anand",
+            "V.R. Subbulaxmi",
+            "Duraimurugan",
+            "S. Ramkumar",
+            "V. Kandan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the State President of the Democratic Youth Federation of India (DYFI) who criticised the Karnataka Budget?",
-        "a": "Lavitra Vastrad",
+        "q": "Who is the President of the Arakkonam All Traders Association, quoted regarding the new AC train services?",
+        "a": "S. Ethiraj",
         "options": [
-            "Siddaramaiah",
-            "H. D. Kumaraswamy",
-            "Lavitra Vastrad",
-            "B. Y. Vijayendra",
-            "R. Ashok"
+            "S. Ethiraj",
+            "T.R.B. Rajaa",
+            "Paul Arun",
+            "M.H. Jawahirullah",
+            "Nitesh Rane"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Chief Minister of Telangana who launched the Praja Palana \u2013 Pragati Pranalika program?",
-        "a": "A. Revanth Reddy",
+        "q": "Who launched the TNExpat digital platform designed to help expatriates and international visitors in Tamil Nadu?",
+        "a": "T.R.B. Rajaa",
         "options": [
-            "K. Chandrashekar Rao",
-            "A. Revanth Reddy",
-            "K. T. Rama Rao",
-            "N. Chandrababu Naidu",
-            "Y. S. Jagan Mohan Reddy"
+            "T.R.B. Rajaa",
+            "Paul Arun",
+            "Savitha Kesav Jagadeesan",
+            "A.R. Unnikrishnan",
+            "Amudhavalli Ranganathan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who secured the All India second rank in the Civil Services Examination 2025 from Tamil Nadu?",
-        "a": "Rajeshwari Suve M.",
+        "q": "Who is the Minister for BC, EWS Welfare, Handlooms and Textiles, who inspected stalls at the Natural Farming workshop in Vijayawada?",
+        "a": "S. Savitha",
         "options": [
-            "Srithi R.",
-            "A.R. Rajah Mohaideen",
-            "Rajeshwari Suve M.",
-            "Kiruthika M.",
-            "T. Sankara Saravanan"
+            "K. Sunitha",
+            "S. Savitha",
+            "Doondi Rakesh",
+            "Nadendla Brahmam Chowdary",
+            "Bucchi Ram Prasad"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who has been appointed as one of the AIADMK's organisation secretaries after rejoining the party?",
-        "a": "Vellamandi N. Natarajan",
+        "q": "Who is the Tamil Nadu president of the Indian Association of Dermatologists, Venereologists, and Leprologists (IADVL), who made representations against quackery in aesthetics clinics?",
+        "a": "Kaviarasan",
         "options": [
-            "O. Panneerselvam",
-            "Edappadi K. Palaniswami",
-            "Vellamandi N. Natarajan",
-            "T.T.V. Dhinakaran",
-            "Sasikala"
+            "Benedit Regi",
+            "Kaviarasan",
+            "Monisha Madhumita",
+            "S. Ramkumar",
+            "Aravindan Selvaraj"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Union Minister mentioned in the news who criticized the Karnataka Budget for increasing public debt?",
-        "a": "H. D. Kumaraswamy",
+        "q": "Who urged the Union government to withdraw the recent increase in LPG cylinder prices?",
+        "a": "M.H. Jawahirullah",
         "options": [
-            "R. Ashok",
-            "B. Y. Vijayendra",
-            "Siddaramaiah",
-            "H. D. Kumaraswamy",
-            "B. S. Yeddyurappa"
+            "Duraimurugan",
+            "T.R.B. Rajaa",
+            "M.H. Jawahirullah",
+            "Pinarayi Vijayan",
+            "Nitesh Rane"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Iran\u2019s Deputy Foreign Minister who spoke at the Raisina Dialogue in New Delhi?",
-        "a": "Dr Saeed Khatibzadeh",
+        "q": "Which three Finnish companies signed an MoU with the Maharashtra Fisheries Development Corporation to modernize Sassoon Dock?",
+        "a": "Helvar, Mirasis, and River Recycle",
         "options": [
-            "S. Jaishankar",
-            "Seyed Abbas Araghchi",
-            "Dr Saeed Khatibzadeh",
-            "Kirti Vardhan Singh",
-            "Vijitha Herath"
+            "Nokia, Kone, UPM",
+            "Helvar, Mirasis, and River Recycle",
+            "W\u00e4rtsil\u00e4, Kemira, Stora Enso",
+            "Valmet, KONE, Fortum",
+            "Metso, Outokumpu, Tietoevry"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Sri Lankan counterpart who had a phone call with Iran's Foreign Minister Seyed Abbas Araghchi and met with S. Jaishankar?",
-        "a": "Vijitha Herath",
+        "q": "Which association is leading the nurses' strike in Kerala's private health sector, demanding a hike in basic pay?",
+        "a": "United Nurses\u2019 Association (UNA)",
         "options": [
-            "S. Jaishankar",
-            "Dr Saeed Khatibzadeh",
-            "Seyed Abbas Araghchi",
-            "Kirti Vardhan Singh",
-            "Vijitha Herath"
+            "Indian Nurses Association",
+            "National Nurses Federation",
+            "United Nurses\u2019 Association (UNA)",
+            "Kerala Nurses Union",
+            "Private Nurses Guild"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Additional Director (Competitive Exams), Government of Tamil Nadu, who mentioned the increase in civil services results?",
-        "a": "T. Sankara Saravanan",
+        "q": "Who is the current Iranian President mentioned in the news regarding Iran's promise not to attack neighbors?",
+        "a": "Masoud Pezeshkian",
         "options": [
-            "Rajeshwari Suve M.",
-            "A.R. Rajah Mohaideen",
-            "Srithi R.",
-            "Kiruthika M.",
-            "T. Sankara Saravanan"
+            "Ebrahim Raisi",
+            "Hassan Rouhani",
+            "Mahmoud Ahmadinejad",
+            "Masoud Pezeshkian",
+            "Ali Khamenei"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former Chennai Mayor whose academy provided free coaching to civil services aspirants?",
-        "a": "Saidai Duraisamy",
+        "q": "Who inaugurated the Perumbalam bridge in Kerala, fulfilling a long-cherished demand of the island residents?",
+        "a": "Pinarayi Vijayan",
         "options": [
-            "M. K. Stalin",
-            "Udhayanidhi Stalin",
-            "Saidai Duraisamy",
-            "T. Sankara Saravanan",
-            "Rajeshwari Suve M."
+            "Pinarayi Vijayan",
+            "V.R. Subbulaxmi",
+            "S. Savitha",
+            "Nitesh Rane",
+            "T.R.B. Rajaa"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which city is planned to be developed as the new steel hub in Maharashtra?",
-        "a": "Gadchiroli",
+        "q": "In which region of Nepal were ballot boxes from Dolphu and Mugugaun polling stations still being carried by people due to logistical challenges?",
+        "a": "Mugu",
         "options": [
-            "Nagpur",
-            "Pune",
-            "Gadchiroli",
-            "Mumbai",
-            "Aurangabad"
+            "Sankhuwasabha",
+            "Gorkha-1",
+            "Mugu",
+            "Kathmandu",
+            "Bhaktapur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will an industrial park on 1,000 acres be set up in Karnataka to promote economic development?",
-        "a": "Belagavi district",
+        "q": "At which college did Armstrong Pame attend the 101st College Day celebrations?",
+        "a": "Loyola College",
         "options": [
-            "Vijayapura district",
-            "Ballari district",
-            "Belagavi district",
-            "Davangere district",
-            "Kalaburagi district"
+            "Anna University",
+            "University of Madras",
+            "Loyola College",
+            "Presidency College",
+            "IIT Madras"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which two districts will new industrial estates be established in Karnataka in 2026-27?",
-        "a": "Muddebihala, Vijayapura district, and Kampli, Ballari district",
+        "q": "The two new check dams are being constructed across Palar and Ponnai rivers near which town in Vellore district?",
+        "a": "Katpadi",
         "options": [
-            "Belagavi and Davangere",
-            "Muddebihala, Vijayapura district, and Kampli, Ballari district",
-            "Vijayapura and Kalaburagi",
-            "Hubballi and Mangaluru",
-            "Mysuru and Shivamogga"
+            "Vellore",
+            "Arcot",
+            "Gudiyatham",
+            "Katpadi",
+            "Ambur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will Matsya Darshinis be established to promote fish consumption in Karnataka?",
-        "a": "Belagavi, Davangere, Hubballi, and Chikkamagaluru",
+        "q": "The test run of the AC suburban train for the Chennai-Arakkonam section was conducted between the railway shed in Avadi and which railway station?",
+        "a": "Arakkonam railway station",
         "options": [
-            "Bengaluru, Mysuru, Mangaluru, Hubballi",
-            "Belagavi, Davangere, Hubballi, and Chikkamagaluru",
-            "Udupi, Dakshina Kannada, Uttara Kannada, Bagalkot",
-            "Vijayapura, Kalaburagi, Raichur, Bidar",
-            "Shivamogga, Ballari, Chitradurga, Mandya"
+            "Chennai Central",
+            "Perambur",
+            "Ambattur",
+            "Arakkonam railway station",
+            "Tiruvallur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will new police stations be established in Muddebihal and Yaragatti?",
-        "a": "Vijayapura and Belagavi District",
+        "q": "Which country's citizens form the biggest expat community in Tamil Nadu?",
+        "a": "Korea",
         "options": [
-            "Kalaburagi and Koppal",
-            "Bidar and Raichur",
-            "Chitradurga and Mandya",
-            "Vijayapura and Belagavi District",
-            "Davangere and Shivamogga"
+            "Germany",
+            "United States",
+            "Japan",
+            "France",
+            "Korea"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the Eco-Hill Park inaugurated by Telangana Chief Minister A. Revanth Reddy?",
-        "a": "Kotwal Guda near Himayatsagar reservoir",
+        "q": "The 'Zero Tolerance to Sexual Violence' (ZeTo) campaign was launched at which specific location?",
+        "a": "Vanchi Square",
         "options": [
-            "Budwel",
-            "Rajendranagar",
-            "Gachibowli",
-            "Kotwal Guda near Himayatsagar reservoir",
-            "Shamirpet"
+            "Marina Beach",
+            "Fort St. George",
+            "Vanchi Square",
+            "Egmore Museum",
+            "Valluvar Kottam"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will a new wrestling arena be constructed to encourage wrestlers in Karnataka?",
-        "a": "Belagundi in Belagavi",
+        "q": "In which city was the workshop on Natural Farming for Economically Weaker Sections organized?",
+        "a": "Vijayawada",
         "options": [
-            "Vijayapura",
-            "Kalaburagi",
-            "Belagundi in Belagavi",
-            "Mysuru",
-            "Hubballi"
+            "Amaravati",
+            "Guntur",
+            "Visakhapatnam",
+            "Kurnool",
+            "Vijayawada"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is Rajeshwari Suve M., who secured AIR 2 in Civil Services, currently a trainee Deputy Collector?",
-        "a": "Dindigul",
+        "q": "Which Indian state government has recently issued an order governing the functioning of aesthetics, cosmetology, and hair transplant clinics for mandatory registration?",
+        "a": "Tamil Nadu",
+        "options": [
+            "Kerala",
+            "Karnataka",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city is Sassoon Dock, which is undergoing modernization with Finnish collaboration, located?",
+        "a": "Mumbai",
         "options": [
             "Chennai",
-            "Madurai",
-            "Dindigul",
-            "Coimbatore",
-            "Salem"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city is the starting point for the 99-day special program, Praja Palana \u2013 Pragati Pranalika, by the Telangana government?",
-        "a": "Hyderabad",
-        "options": [
-            "Warangal",
-            "Hyderabad",
-            "Karimnagar",
-            "Nalgonda",
-            "Adilabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city is the 'Raisina Dialogue' event held, where Iran\u2019s Deputy Foreign Minister spoke?",
-        "a": "New Delhi",
-        "options": [
+            "Kolkata",
+            "Visakhapatnam",
             "Mumbai",
-            "Bengaluru",
-            "Chennai",
-            "New Delhi",
-            "Kolkata"
+            "Mangaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where has the Iranian ship IRIS LAVAN been docked since March 4 due to technical issues?",
-        "a": "Kochi",
+        "q": "In which Indian state is the private health sector facing a nurses' strike over minimum wages?",
+        "a": "Kerala",
         "options": [
-            "Vishakhapatnam",
-            "Mumbai",
-            "Chennai",
-            "Kochi",
-            "Goa"
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Andhra Pradesh",
+            "Odisha"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will fish markets be set up to address the need for well-equipped facilities in Karnataka?",
-        "a": "Uttara Kannada, Dakshina Kannada, Udupi, and Bagalkot",
+        "q": "The Indian government is considering deploying Indian Navy ships to escort vessels stranded in which Gulf region?",
+        "a": "Persian Gulf",
         "options": [
-            "Belagavi, Davangere, Hubballi, Chikkamagaluru",
-            "Bengaluru, Mysuru, Mangaluru, Dharwad",
-            "Uttara Kannada, Dakshina Kannada, Udupi, and Bagalkot",
-            "Vijayapura, Kalaburagi, Raichur, Bidar",
-            "Shivamogga, Ballari, Chitradurga, Mandya"
+            "Gulf of Aden",
+            "Gulf of Oman",
+            "Persian Gulf",
+            "Gulf of Mannar",
+            "Red Sea"
         ],
         "cat": "Where"
     },
     {
-        "q": "When did Maharashtra Chief Minister Devendra Fadnavis present the State budget for 2026-27?",
-        "a": "Friday (March 6, 2026)",
+        "q": "The Perumbalam bridge in Kerala connects Perumbalam Island with Arookutty panchayat in which Assembly constituency?",
+        "a": "Aroor Assembly constituency",
         "options": [
-            "Thursday (March 5, 2026)",
-            "Friday (March 6, 2026)",
-            "Saturday (March 7, 2026)",
-            "Wednesday (March 4, 2026)",
-            "Monday (March 2, 2026)"
+            "Alappuzha Assembly",
+            "Cherthala Assembly",
+            "Kochi Assembly",
+            "Aroor Assembly constituency",
+            "Kayamkulam Assembly"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "By which year does A.R. Unnikrishnan state that the nation cannot be developed without women's participation?",
+        "a": "2047",
+        "options": [
+            "2035",
+            "2040",
+            "2047",
+            "2050",
+            "2030"
         ],
         "cat": "When"
     },
     {
-        "q": "By which year does Maharashtra aim to raise the agricultural sector\u2019s GDP from $55 billion to $500 billion?",
+        "q": "The check dams project across Palar and Ponnai rivers is funded under the Permanent Floods Restoration Scheme for which period?",
+        "a": "2025-26",
+        "options": [
+            "2024-25",
+            "2025-26",
+            "2026-27",
+            "2023-24",
+            "2027-28"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the first air-conditioned suburban train services between Chennai Beach-Chengalpattu railway stations begin their run?",
+        "a": "April 2025",
+        "options": [
+            "January 2025",
+            "March 2025",
+            "April 2025",
+            "May 2025",
+            "February 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The 'Zero Tolerance to Sexual Violence' (ZeTo) campaign was launched on which specific date mentioned in the news?",
+        "a": "March 7",
+        "options": [
+            "March 5",
+            "March 6",
+            "March 7",
+            "March 8",
+            "March 9"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The workshop on Natural Farming for Economically Weaker Sections in Vijayawada was held on which day?",
+        "a": "Saturday",
+        "options": [
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Thursday",
+            "Monday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Tamil Nadu government order for regulating aesthetics clinics is based on the National Medical Commission (NMC) guidelines issued on which date?",
+        "a": "September 20, 2022",
+        "options": [
+            "August 15, 2022",
+            "September 10, 2022",
+            "September 20, 2022",
+            "October 1, 2022",
+            "September 5, 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "From which date was the price of the 14.2-kg domestic LPG cylinder increased by \u20b960?",
+        "a": "March 7, 2026",
+        "options": [
+            "March 1, 2026",
+            "March 5, 2026",
+            "March 7, 2026",
+            "March 10, 2026",
+            "March 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Memorandum of Understanding (MoU) signed with three Finnish companies to modernize Sassoon Dock?",
+        "a": "March 7, 2026",
+        "options": [
+            "March 1, 2026",
+            "March 5, 2026",
+            "March 7, 2026",
+            "March 10, 2026",
+            "March 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The draft notification for revising minimum wages of employees in Kerala's private health sector states that the proposal will be taken up for consideration on or after how many months from its publication date?",
+        "a": "Two months",
+        "options": [
+            "One month",
+            "Two months",
+            "Three months",
+            "Four months",
+            "Six months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the original planned commencement month for the air-conditioned train services on the Chennai-Arakkonam section, as mentioned in the news?",
+        "a": "January 2026",
+        "options": [
+            "December 2025",
+            "January 2026",
+            "February 2026",
+            "March 2026",
+            "April 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Perumbalam bridge in Kerala was inaugurated by the Chief Minister on which day of the week?",
+        "a": "Saturday",
+        "options": [
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Thursday",
+            "Monday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the target year for the development of the nation that A.R. Unnikrishnan mentioned as dependent on women's participation?",
         "a": "2047",
         "options": [
             "2030",
             "2035",
-            "2047",
             "2040",
+            "2047",
             "2050"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the self-enumeration process for Census 2027 in Tamil Nadu scheduled to take place?",
-        "a": "July 17 and July 31 this year",
+        "q": "What is the primary purpose of platforms like Thaaragai, as stated by Amudhavalli Ranganathan?",
+        "a": "Bringing together leaders to create solutions that help more women succeed.",
         "options": [
-            "June 1-15",
-            "August 1-15",
-            "July 17 and July 31 this year",
-            "September 1-15",
-            "October 1-15"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When are the house listing operations for Census 2027 in Tamil Nadu scheduled to be conducted?",
-        "a": "August 1 to 30 this year",
-        "options": [
-            "July 1-30",
-            "August 1 to 30 this year",
-            "September 1-30",
-            "October 1-30",
-            "November 1-30"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did O. Panneerselvam join the DMK, a day before Vellamandi N. Natarajan rejoined AIADMK?",
-        "a": "February 27",
-        "options": [
-            "February 25",
-            "February 27",
-            "February 28",
-            "March 1",
-            "March 5"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the US submarine sink the IRIS DENA near the Sri Lankan coast?",
-        "a": "Wednesday (March 4, 2026)",
-        "options": [
-            "Monday (March 2, 2026)",
-            "Tuesday (March 3, 2026)",
-            "Wednesday (March 4, 2026)",
-            "Thursday (March 5, 2026)",
-            "Friday (March 6, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Iranian ship IRIS LAVAN develop technical issues and dock at Kochi?",
-        "a": "March 4",
-        "options": [
-            "March 1",
-            "March 2",
-            "March 3",
-            "March 4",
-            "March 5"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the specific period for Karnataka's new Industrial Policy?",
-        "a": "2025-30",
-        "options": [
-            "2024-29",
-            "2025-30",
-            "2026-31",
-            "2023-28",
-            "2022-27"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the purpose of the 'Punyashlok Ahilyadevi Holkar Shetkari Karjmafi Yojana'?",
-        "a": "To provide \u20b950,000 to farmers regularly repaying loan instalments.",
-        "options": [
-            "To provide new crop loans",
-            "To waive all farmer loans",
-            "To provide \u20b950,000 to farmers regularly repaying loan instalments.",
-            "To offer subsidies on farm equipment",
-            "To support agricultural exports"
+            "Promoting new businesses",
+            "Awarding women entrepreneurs",
+            "Bringing together leaders to create solutions that help more women succeed",
+            "Showcasing women's products",
+            "Networking for industry leaders"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the 'Rohith Vemula Act' announced by the Karnataka government?",
-        "a": "To prevent caste-based discrimination in educational institutions.",
+        "q": "What is the full form of RUSA, a scheme under which projects in Tamil Nadu institutions were funded?",
+        "a": "Rashtriya Uchchatar Shiksha Abhiyan",
         "options": [
-            "To promote student union elections",
-            "To provide scholarships for SC/ST students",
-            "To prevent caste-based discrimination in educational institutions.",
-            "To establish centres of excellence",
-            "To improve public education infrastructure"
+            "Regional University Scheme Alliance",
+            "Rashtriya Uchchatar Shiksha Abhiyan",
+            "Rural Urban Skill Advancement",
+            "Reformative University System Act",
+            "Rapid Upgradation of Schools and Academics"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary objective of the new Industrial Policy 2025-30 in Karnataka?",
-        "a": "To promote industrial development beyond Bengaluru.",
+        "q": "What is one of the main objectives of building the two check dams across Palar and Ponnai rivers near Katpadi?",
+        "a": "To help recharge groundwater in surrounding villages for irrigation.",
         "options": [
-            "To increase FDI inflows to Bengaluru",
-            "To focus solely on IT sector growth",
-            "To promote industrial development beyond Bengaluru.",
-            "To reduce agricultural dependence",
-            "To establish more SEZs in urban areas"
+            "To generate hydroelectric power",
+            "To prevent industrial pollution",
+            "To promote tourism",
+            "To help recharge groundwater in surrounding villages for irrigation",
+            "To facilitate river navigation"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the 99-day special program launched by the Telangana government called?",
-        "a": "Praja Palana \u2013 Pragati Pranalika",
+        "q": "What was the main reason cited by local commuters, including traders and office-goers, for demanding AC train services on the Chennai-Arakkonam route?",
+        "a": "Successful operation of similar services on Chennai Beach-Chengalpattu section.",
         "options": [
-            "Mission Bhagiratha",
-            "Rythu Bandhu",
-            "Kanti Velugu",
-            "Praja Palana \u2013 Pragati Pranalika",
-            "Dalit Bandhu"
+            "Reducing travel time significantly",
+            "Catering to a luxury segment",
+            "Successful operation of similar services on Chennai Beach-Chengalpattu section",
+            "Increase in tourist influx",
+            "Reducing carbon footprint"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to DYFI, what could the work of upgrading the Agriculture Department\u2019s Raitha Call Centre using Artificial Intelligence provide?",
-        "a": "Employment to young people.",
+        "q": "What is the key metric that Guidance Tamil Nadu aims to sharpen its focus on to further improve the quality of life for expats, viewing it as an important investor pitch?",
+        "a": "Ease of living",
         "options": [
-            "More agricultural output",
-            "Better crop yield predictions",
-            "Employment to young people.",
-            "Reduced government spending",
-            "Faster loan processing"
+            "Cost of living",
+            "Business opportunities",
+            "Ease of living",
+            "Cultural integration",
+            "Connectivity"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key policy demands of the 'Zero Tolerance to Sexual Violence' (ZeTo) campaign?",
+        "a": "Implementation of a zero-tolerance policy towards sexual violence and gender discrimination in all sectors.",
+        "options": [
+            "Increasing police presence",
+            "Implementation of a zero-tolerance policy towards sexual violence and gender discrimination in all sectors",
+            "Mandatory self-defense training",
+            "Providing free legal aid",
+            "Establishing new helplines"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary benefit of natural farming practices, as highlighted by Minister S. Savitha?",
+        "a": "Making agriculture both profitable and sustainable.",
+        "options": [
+            "Reducing water consumption",
+            "Increasing crop diversity",
+            "Making agriculture both profitable and sustainable",
+            "Promoting single crop cultivation",
+            "Enhancing aesthetic appeal of farms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main reason for the Tamil Nadu government's order for mandatory registration of aesthetics, cosmetology, and hair transplant clinics?",
+        "a": "To monitor the largely unregulated sector and enforce punitive action for violations.",
+        "options": [
+            "To increase state revenue",
+            "To promote medical tourism",
+            "To monitor the largely unregulated sector and enforce punitive action for violations",
+            "To attract foreign investment",
+            "To centralize medical records"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary focus of the tie-up with Finnish companies for the modernization of Sassoon Dock?",
+        "a": "Improving waste management, recycling of plastic waste and discarded fishing nets.",
+        "options": [
+            "Increasing fishing boat fleet size",
+            "Expanding the dock area",
+            "Improving waste management, recycling of plastic waste and discarded fishing nets",
+            "Developing new fish species",
+            "Creating a new tourism hub"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core demand of the United Nurses\u2019 Association (UNA) leading the strike in Kerala's private health sector?",
+        "a": "A basic pay of \u20b940,000 on par with the public health sector.",
+        "options": [
+            "Better working conditions",
+            "Increased annual leave",
+            "A basic pay of \u20b940,000 on par with the public health sector",
+            "Free medical insurance",
+            "Reduced working hours"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the Indian Navy's Operation Sankalp, mentioned in the context of Persian Gulf shipping?",
+        "a": "To ensure maritime security in the Gulf region.",
+        "options": [
+            "To conduct naval exercises",
+            "To rescue stranded seafarers",
+            "To ensure maritime security in the Gulf region",
+            "To survey new shipping routes",
+            "To provide humanitarian aid"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does Chief Minister Pinarayi Vijayan describe the Perumbalam bridge as, beyond being merely a development project?",
+        "a": "A symbol of his government\u2019s determination and will power.",
+        "options": [
+            "A symbol of economic growth",
+            "A gateway to new trade routes",
+            "A symbol of his government\u2019s determination and will power",
+            "A tourist attraction",
+            "A model for inter-state connectivity"
         ],
         "cat": "Why"
     }
