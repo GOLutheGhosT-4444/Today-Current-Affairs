@@ -1,722 +1,782 @@
 [
     {
-        "q": "What percentage of employees at Kauvery Hospitals are women, as shared by Aravindan Selvaraj?",
-        "a": "70%",
+        "q": "What percentage of the Hindu Dalit vote did the Congress secure in the 1996 Lok Sabha elections?",
+        "a": "34%",
         "options": [
+            "32%",
+            "36%",
+            "34%",
+            "30%",
+            "38%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the BJP's standalone share of Dalit support in the 2014 Lok Sabha elections?",
+        "a": "24%",
+        "options": [
+            "22%",
+            "26%",
+            "24%",
+            "20%",
+            "28%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Dalit support did the NDA secure in the 2014 Lok Sabha elections, rising from 15%?",
+        "a": "30%",
+        "options": [
+            "25%",
+            "35%",
+            "30%",
+            "20%",
+            "40%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the UPA's share of Dalit support in the 2014 Lok Sabha elections?",
+        "a": "20%",
+        "options": [
+            "18%",
+            "22%",
+            "20%",
+            "15%",
+            "25%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Dalit support did the NDA consolidate in 2019?",
+        "a": "41%",
+        "options": [
+            "39%",
+            "43%",
+            "41%",
+            "37%",
+            "45%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Dalit support did the NDA slip to in the 2024 Lok Sabha elections?",
+        "a": "36%",
+        "options": [
+            "35%",
+            "37%",
+            "36%",
+            "38%",
+            "34%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Dalit support did the Congress-led INDIA bloc climb to in 2024?",
+        "a": "32%",
+        "options": [
+            "30%",
+            "34%",
+            "32%",
+            "28%",
+            "36%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "To what percentage did Congress's Dalit support expand in Karnataka in 2023?",
+        "a": "63%",
+        "options": [
+            "61%",
             "65%",
-            "70%",
-            "75%",
-            "60%",
-            "80%"
+            "63%",
+            "59%",
+            "67%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Tamil Nadu aims to become a $1 trillion economy by which target year, as mentioned by A.R. Unnikrishnan?",
-        "a": "2047",
+        "q": "How many women took part in the night walk as part of the Nirbhaya Nisha project in Aluva?",
+        "a": "Over 200",
         "options": [
-            "2045",
-            "2047",
-            "2050",
-            "2042",
-            "2035"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total cost approved for the construction of two check dams across Palar and Ponnai rivers near Katpadi?",
-        "a": "\u20b969.52 crore",
-        "options": [
-            "\u20b970.00 crore",
-            "\u20b968.90 crore",
-            "\u20b969.52 crore",
-            "\u20b969.00 crore",
-            "\u20b969.95 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total storage capacity of the check dam planned across the Palar river?",
-        "a": "10.27 mcft",
-        "options": [
-            "10.00 mcft",
-            "10.50 mcft",
-            "10.27 mcft",
-            "10.30 mcft",
-            "10.20 mcft"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many hectares of farmland are expected to be irrigated by the two new check dams in the Vellore region?",
-        "a": "1,200 hectares",
-        "options": [
-            "1,150 hectares",
-            "1,200 hectares",
-            "1,250 hectares",
-            "1,300 hectares",
-            "1,100 hectares"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the minimum speed limit planned for the new air-conditioned suburban train services on the Chennai-Arakkonam section?",
-        "a": "90 km/h",
-        "options": [
-            "85 km/h",
-            "95 km/h",
-            "90 km/h",
-            "80 km/h",
-            "100 km/h"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many languages is the TNExpat digital platform currently available in?",
-        "a": "Five",
-        "options": [
-            "Four",
-            "Six",
-            "Five",
-            "Three",
-            "Seven"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many global Fortune 500 companies are present in Tamil Nadu?",
-        "a": "Over 130",
-        "options": [
+            "Over 150",
+            "Over 250",
+            "Over 200",
             "Over 100",
-            "Over 120",
-            "Over 130",
-            "Over 110",
-            "Over 140"
+            "Over 300"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much has the price of a 14.2-kg domestic LPG cylinder been increased, as stated in the news?",
-        "a": "\u20b960",
+        "q": "Approximately how many poll workers died in Indonesia's 2019 one-day election?",
+        "a": "Nearly 900",
         "options": [
-            "\u20b955",
-            "\u20b960",
-            "\u20b965",
-            "\u20b950",
-            "\u20b970"
+            "Nearly 800",
+            "Nearly 1000",
+            "Nearly 900",
+            "Nearly 700",
+            "Nearly 1100"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current number of registered mechanised fishing boats at Sassoon Dock?",
-        "a": "1,560",
+        "q": "Approximately how many poll workers suffered illnesses in Indonesia's 2024 elections?",
+        "a": "Nearly 15,000",
         "options": [
-            "1,500",
-            "1,600",
-            "1,560",
-            "1,550",
-            "1,570"
+            "Nearly 14,000",
+            "Nearly 16,000",
+            "Nearly 15,000",
+            "Nearly 13,000",
+            "Nearly 17,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed revised minimum wage range for Staff Nurse GNM/BSC/Registered ANM Special Grade in Kerala's private health sector?",
-        "a": "\u20b925,450 to \u20b930,800",
+        "q": "What is the maximum duration for which President's Rule can be extended during a national emergency with ECI certification, as per Article 356(5)?",
+        "a": "Three years",
         "options": [
-            "\u20b925,000-\u20b930,000",
-            "\u20b926,000-\u20b931,000",
-            "\u20b925,450-\u20b930,800",
-            "\u20b924,000-\u20b929,000",
-            "\u20b925,500-\u20b930,900"
+            "One year",
+            "Two years",
+            "Three years",
+            "Six months",
+            "Four years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to the International Maritime Organization (IMO), approximately how many seafarers are estimated to be onboard ships stranded in the Persian Gulf?",
-        "a": "~20,000",
+        "q": "As per Article 85, how often is Parliament required to meet?",
+        "a": "Every six months",
         "options": [
-            "~15,000",
-            "~20,000",
-            "~25,000",
-            "~18,000",
-            "~22,000"
+            "Every three months",
+            "Every year",
+            "Every six months",
+            "Every four months",
+            "Every two years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Vice-Chairwoman of the Confederation of Indian Industry (CII) Indian Women Network (IWN) Tamil Nadu?",
-        "a": "Amudhavalli Ranganathan",
+        "q": "What was the estimated combined Lok Sabha and State Assembly election spending in 2015-16, according to the Parliamentary Standing Committee?",
+        "a": "\u20b94,500 crore",
         "options": [
-            "Savitha Kesav Jagadeesan",
-            "Amudhavalli Ranganathan",
-            "Monisha Madhumita",
-            "K. Sunitha",
-            "A.R. Unnikrishnan"
+            "\u20b94,000 crore",
+            "\u20b95,000 crore",
+            "\u20b94,500 crore",
+            "\u20b93,500 crore",
+            "\u20b95,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The estimated combined Lok Sabha and State Assembly election spending (2015-16) represented what percentage of India's GDP?",
+        "a": "0.03%",
+        "options": [
+            "0.02%",
+            "0.04%",
+            "0.03%",
+            "0.05%",
+            "0.01%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the area of the renovated open auditorium at Government Boys Higher Secondary School in Vannivedu?",
+        "a": "357.23 sq.ft",
+        "options": [
+            "347.23 sq.ft",
+            "367.23 sq.ft",
+            "357.23 sq.ft",
+            "337.23 sq.ft",
+            "377.23 sq.ft"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total cost of renovating the open auditorium at Government Boys Higher Secondary School?",
+        "a": "\u20b99.70 lakh",
+        "options": [
+            "\u20b99.50 lakh",
+            "\u20b99.90 lakh",
+            "\u20b99.70 lakh",
+            "\u20b99.30 lakh",
+            "\u20b910.10 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many 'Lakhpati Didis' does the Union government aim to create nationwide?",
+        "a": "3 crore",
+        "options": [
+            "2 crore",
+            "4 crore",
+            "3 crore",
+            "1 crore",
+            "5 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many days of wage employment does the Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025, provide in a financial year?",
+        "a": "125 days",
+        "options": [
+            "100 days",
+            "120 days",
+            "125 days",
+            "110 days",
+            "130 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the cash prize for the winner of the logo design competition for the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) Act?",
+        "a": "\u20b950,000",
+        "options": [
+            "\u20b940,000",
+            "\u20b960,000",
+            "\u20b950,000",
+            "\u20b930,000",
+            "\u20b970,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which company announced the launch of Shakuntala Grants to support women researchers?",
+        "a": "Pixxel",
+        "options": [
+            "ISRO",
+            "ESA",
+            "Pixxel",
+            "MyGov",
+            "Escape Velocity Grants"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who stated that Tamil Nadu had completed all projects under RUSA-I?",
-        "a": "Armstrong Pame",
+        "q": "Who is the District Police Chief (Ernakulam rural) who announced the extension of the Pink Protection Project?",
+        "a": "K.S. Sudarshan",
         "options": [
-            "Armstrong Pame",
-            "A. Louis Arockiaraj",
-            "M. Gautaman",
-            "L. Joseph Arockiasamy",
-            "Kaviarasan"
+            "Saiji Jolly",
+            "Aditi Ravi",
+            "K.S. Sudarshan",
+            "Ravada A. Chandrasekhar",
+            "Pinarayi Vijayan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who virtually flagged off the works to build two check dams across Palar river in Vellore?",
-        "a": "Duraimurugan",
+        "q": "Who flagged off a night walk as part of the Nirbhaya Nisha project, alongside District Police Chief K.S. Sudarshan?",
+        "a": "Saiji Jolly",
         "options": [
-            "D.M. Kathir Anand",
-            "V.R. Subbulaxmi",
-            "Duraimurugan",
-            "S. Ramkumar",
-            "V. Kandan"
+            "Aditi Ravi",
+            "Saiji Jolly",
+            "J.U. Chandrakala",
+            "M. Mohana",
+            "S. Ilakkiya"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the President of the Arakkonam All Traders Association, quoted regarding the new AC train services?",
-        "a": "S. Ethiraj",
+        "q": "Who addressed the IIT talent pool assembled at the PanIIT Hyderabad summit?",
+        "a": "Eatala Rajendar",
         "options": [
-            "S. Ethiraj",
-            "T.R.B. Rajaa",
-            "Paul Arun",
-            "M.H. Jawahirullah",
-            "Nitesh Rane"
+            "Ponnam Prabhakar",
+            "R.V. Karnan",
+            "Eatala Rajendar",
+            "Lanka Dinakar",
+            "M.K. Stalin"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who launched the TNExpat digital platform designed to help expatriates and international visitors in Tamil Nadu?",
-        "a": "T.R.B. Rajaa",
+        "q": "Who chaired the High-Level Committee (2023-24) on the 'One Nation, One Election' proposal?",
+        "a": "Ram Nath Kovind",
         "options": [
-            "T.R.B. Rajaa",
-            "Paul Arun",
-            "Savitha Kesav Jagadeesan",
-            "A.R. Unnikrishnan",
-            "Amudhavalli Ranganathan"
+            "Dr. B.R. Ambedkar",
+            "M.K. Stalin",
+            "J.U. Chandrakala",
+            "Ram Nath Kovind",
+            "Justice Kurian Joseph"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for BC, EWS Welfare, Handlooms and Textiles, who inspected stalls at the Natural Farming workshop in Vijayawada?",
-        "a": "S. Savitha",
+        "q": "Who authored 'Federalist No. 52', emphasizing frequent elections for government accountability?",
+        "a": "James Madison",
         "options": [
-            "K. Sunitha",
-            "S. Savitha",
-            "Doondi Rakesh",
-            "Nadendla Brahmam Chowdary",
-            "Bucchi Ram Prasad"
+            "Alexander Hamilton",
+            "Dr. B.R. Ambedkar",
+            "James Madison",
+            "Thomas Jefferson",
+            "John Jay"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Tamil Nadu president of the Indian Association of Dermatologists, Venereologists, and Leprologists (IADVL), who made representations against quackery in aesthetics clinics?",
-        "a": "Kaviarasan",
+        "q": "Which committee, constituted by the Government of Tamil Nadu, recommended the withdrawal of the 'One Nation, One Election' Bill?",
+        "a": "Justice Kurian Joseph Committee",
         "options": [
-            "Benedit Regi",
-            "Kaviarasan",
-            "Monisha Madhumita",
-            "S. Ramkumar",
-            "Aravindan Selvaraj"
+            "Ram Nath Kovind Committee",
+            "Parliamentary Standing Committee",
+            "S.R. Bommai Committee",
+            "Justice Kurian Joseph Committee",
+            "Visakha Committee"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who urged the Union government to withdraw the recent increase in LPG cylinder prices?",
-        "a": "M.H. Jawahirullah",
+        "q": "Who inaugurated the renovated open auditorium at Government Boys Higher Secondary School in Vannivedu?",
+        "a": "Justice M. Nirmal Kumar",
         "options": [
-            "Duraimurugan",
-            "T.R.B. Rajaa",
-            "M.H. Jawahirullah",
+            "M. Satish Kumar",
+            "J.U. Chandrakala",
+            "Justice M. Nirmal Kumar",
+            "Asra Garg",
+            "M. Selvam"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who among the following is a noted alumnus of Government Boys Higher Secondary School, Vannivedu, who served as the Chief Election Commissioner of India?",
+        "a": "V.S. Sampath",
+        "options": [
+            "Sarvepalli Radhakrishnan",
+            "Mu. Varatharasanar",
+            "V.S. Sampath",
+            "V. Murugesan",
+            "M. Nirmal Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the NTR District Collector who stated that a nation can achieve development only when women achieve empowerment?",
+        "a": "G. Lakshmisha",
+        "options": [
+            "S. Ilakkiya",
+            "Lanka Dinakar",
+            "G. Lakshmisha",
+            "Saiji Jolly",
+            "Aditi Ravi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Scientific Secretary of ISRO who signed the agreement with ESA on Earth Observation Missions?",
+        "a": "M. Ganesh Pillai",
+        "options": [
+            "Simonetta Cheli",
+            "M. Ganesh Pillai",
+            "Chairman, ISRO",
+            "DG, ESA",
+            "P. Sibin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Director of Earth Observation Programme, ESA, who signed the agreement with ISRO?",
+        "a": "Simonetta Cheli",
+        "options": [
+            "M. Ganesh Pillai",
+            "Simonetta Cheli",
+            "Chairman, ISRO",
+            "DG, ESA",
+            "S. Thirupurasundari"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who operationalised the Nirbhaya Nisha project for Kerala Police at Manaveeyam Veedhi?",
+        "a": "Ravada A. Chandrasekhar",
+        "options": [
+            "K.S. Sudarshan",
             "Pinarayi Vijayan",
-            "Nitesh Rane"
+            "Ravada A. Chandrasekhar",
+            "Saiji Jolly",
+            "Aditi Ravi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which three Finnish companies signed an MoU with the Maharashtra Fisheries Development Corporation to modernize Sassoon Dock?",
-        "a": "Helvar, Mirasis, and River Recycle",
+        "q": "Who launched the pilot phase of the Nirbhaya Nisha project in Kerala?",
+        "a": "Chief Minister Pinarayi Vijayan",
         "options": [
-            "Nokia, Kone, UPM",
-            "Helvar, Mirasis, and River Recycle",
-            "W\u00e4rtsil\u00e4, Kemira, Stora Enso",
-            "Valmet, KONE, Fortum",
-            "Metso, Outokumpu, Tietoevry"
+            "K.S. Sudarshan",
+            "Ravada A. Chandrasekhar",
+            "Chief Minister Pinarayi Vijayan",
+            "Ponnam Prabhakar",
+            "G. Lakshmisha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which association is leading the nurses' strike in Kerala's private health sector, demanding a hike in basic pay?",
-        "a": "United Nurses\u2019 Association (UNA)",
+        "q": "Which organization launched the Sexual Harassment Incident Notification for Empowerment (SHINE) app for women employees?",
+        "a": "Indian Railways",
         "options": [
-            "Indian Nurses Association",
-            "National Nurses Federation",
-            "United Nurses\u2019 Association (UNA)",
-            "Kerala Nurses Union",
-            "Private Nurses Guild"
+            "Rural Development Ministry",
+            "Kerala Police",
+            "Indian Railways",
+            "GHMC",
+            "Election Commission of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Iranian President mentioned in the news regarding Iran's promise not to attack neighbors?",
-        "a": "Masoud Pezeshkian",
+        "q": "In which town was the Pink Protection Project services extended between 9 p.m. and 5 a.m.?",
+        "a": "Aluva town",
         "options": [
-            "Ebrahim Raisi",
-            "Hassan Rouhani",
-            "Mahmoud Ahmadinejad",
-            "Masoud Pezeshkian",
-            "Ali Khamenei"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who inaugurated the Perumbalam bridge in Kerala, fulfilling a long-cherished demand of the island residents?",
-        "a": "Pinarayi Vijayan",
-        "options": [
-            "Pinarayi Vijayan",
-            "V.R. Subbulaxmi",
-            "S. Savitha",
-            "Nitesh Rane",
-            "T.R.B. Rajaa"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which region of Nepal were ballot boxes from Dolphu and Mugugaun polling stations still being carried by people due to logistical challenges?",
-        "a": "Mugu",
-        "options": [
-            "Sankhuwasabha",
-            "Gorkha-1",
-            "Mugu",
-            "Kathmandu",
-            "Bhaktapur"
+            "Kochi",
+            "Thiruvananthapuram",
+            "Aluva town",
+            "Ernakulam",
+            "Walajah town"
         ],
         "cat": "Where"
     },
     {
-        "q": "At which college did Armstrong Pame attend the 101st College Day celebrations?",
-        "a": "Loyola College",
+        "q": "The Kochi city police organized various programmes for Nirbhaya Nisha from Ernakulam boat jetty to which location?",
+        "a": "Rainbow bridge at Marine Drive",
         "options": [
-            "Anna University",
-            "University of Madras",
-            "Loyola College",
-            "Presidency College",
-            "IIT Madras"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The two new check dams are being constructed across Palar and Ponnai rivers near which town in Vellore district?",
-        "a": "Katpadi",
-        "options": [
-            "Vellore",
-            "Arcot",
-            "Gudiyatham",
-            "Katpadi",
-            "Ambur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The test run of the AC suburban train for the Chennai-Arakkonam section was conducted between the railway shed in Avadi and which railway station?",
-        "a": "Arakkonam railway station",
-        "options": [
-            "Chennai Central",
-            "Perambur",
-            "Ambattur",
-            "Arakkonam railway station",
-            "Tiruvallur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country's citizens form the biggest expat community in Tamil Nadu?",
-        "a": "Korea",
-        "options": [
-            "Germany",
-            "United States",
-            "Japan",
-            "France",
-            "Korea"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The 'Zero Tolerance to Sexual Violence' (ZeTo) campaign was launched at which specific location?",
-        "a": "Vanchi Square",
-        "options": [
-            "Marina Beach",
-            "Fort St. George",
-            "Vanchi Square",
-            "Egmore Museum",
-            "Valluvar Kottam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the workshop on Natural Farming for Economically Weaker Sections organized?",
-        "a": "Vijayawada",
-        "options": [
-            "Amaravati",
-            "Guntur",
-            "Visakhapatnam",
-            "Kurnool",
+            "Aluva town",
+            "Manaveeyam Veedhi",
+            "Rainbow bridge at Marine Drive",
+            "Marine Drive",
             "Vijayawada"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which Indian state government has recently issued an order governing the functioning of aesthetics, cosmetology, and hair transplant clinics for mandatory registration?",
-        "a": "Tamil Nadu",
+        "q": "The PanIIT Hyderabad summit, addressed by Malkajgiri MP Eatala Rajendar, was held in which city?",
+        "a": "Hyderabad",
         "options": [
-            "Kerala",
-            "Karnataka",
-            "Tamil Nadu",
-            "Andhra Pradesh",
-            "Maharashtra"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city is Sassoon Dock, which is undergoing modernization with Finnish collaboration, located?",
-        "a": "Mumbai",
-        "options": [
+            "Bengaluru",
             "Chennai",
-            "Kolkata",
-            "Visakhapatnam",
+            "Hyderabad",
+            "Vijayawada",
+            "Mumbai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The renovated open auditorium, inaugurated by Justice M. Nirmal Kumar, is located in which village?",
+        "a": "Vannivedu",
+        "options": [
+            "Walajah",
+            "Ranipet",
+            "Vannivedu",
+            "Aluva",
+            "Vijayawada"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "International Women\u2019s Day programme, where NTR District Collector G. Lakshmisha participated, was organized in which city?",
+        "a": "Vijayawada",
+        "options": [
+            "Hyderabad",
+            "Amaravati",
+            "Vijayawada",
+            "Kochi",
+            "Bengaluru"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city was the State government directed the GHMC to address the issue of mosquito menace?",
+        "a": "Hyderabad",
+        "options": [
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad",
             "Mumbai",
-            "Mangaluru"
+            "Kochi"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Indian state is the private health sector facing a nurses' strike over minimum wages?",
-        "a": "Kerala",
+        "q": "The Nirbhaya Nisha project was flagged off by the State Police Chief at a function held at which venue?",
+        "a": "Manaveeyam Veedhi",
         "options": [
-            "Tamil Nadu",
-            "Karnataka",
-            "Kerala",
-            "Andhra Pradesh",
-            "Odisha"
+            "Aluva town",
+            "Marine Drive",
+            "Manaveeyam Veedhi",
+            "Ernakulam boat jetty",
+            "Walajah town"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Indian government is considering deploying Indian Navy ships to escort vessels stranded in which Gulf region?",
-        "a": "Persian Gulf",
+        "q": "The No-Plastic run, participated by over 500 people, was organized along the bank of which river?",
+        "a": "Krishna river",
         "options": [
-            "Gulf of Aden",
-            "Gulf of Oman",
-            "Persian Gulf",
-            "Gulf of Mannar",
-            "Red Sea"
+            "Ganga river",
+            "Yamuna river",
+            "Krishna river",
+            "Godavari river",
+            "Cauvery river"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Perumbalam bridge in Kerala connects Perumbalam Island with Arookutty panchayat in which Assembly constituency?",
-        "a": "Aroor Assembly constituency",
+        "q": "The No-Plastic run, aimed at creating awareness about plastic pollution, was organized in which city?",
+        "a": "Vijayawada",
         "options": [
-            "Alappuzha Assembly",
-            "Cherthala Assembly",
-            "Kochi Assembly",
-            "Aroor Assembly constituency",
-            "Kayamkulam Assembly"
+            "Hyderabad",
+            "Chennai",
+            "Vijayawada",
+            "Bengaluru",
+            "Kochi"
         ],
         "cat": "Where"
     },
     {
-        "q": "By which year does A.R. Unnikrishnan state that the nation cannot be developed without women's participation?",
-        "a": "2047",
+        "q": "In which year did the Congress hold a clear advantage among Hindu Dalits, securing 34% of the vote?",
+        "a": "1996",
         "options": [
-            "2035",
-            "2040",
-            "2047",
-            "2050",
+            "1994",
+            "1998",
+            "1996",
+            "1999",
+            "2000"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the Constitutional Court of Indonesia rule that national and local elections must be held separately from 2029?",
+        "a": "June 2025",
+        "options": [
+            "June 2024",
+            "June 2026",
+            "June 2025",
+            "June 2023",
+            "June 2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The High-Level Committee on 'One Nation, One Election' chaired by Ram Nath Kovind functioned during which period?",
+        "a": "2023-24",
+        "options": [
+            "2022-23",
+            "2024-25",
+            "2023-24",
+            "2021-22",
+            "2020-21"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the Government Boys Higher Secondary School at Vannivedu village originally built?",
+        "a": "1867",
+        "options": [
+            "1865",
+            "1869",
+            "1867",
+            "1860",
+            "1870"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Between which years did V. Murugesan, father of Justice M. Nirmal Kumar and an alumnus, do his initial years of schooling?",
+        "a": "1936 and 1942",
+        "options": [
+            "1934 and 1940",
+            "1938 and 1944",
+            "1936 and 1942",
+            "1930 and 1936",
+            "1940 and 1946"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Union government aims to create an additional 30 lakh 'Lakhpati Didis' in Andhra Pradesh within how many years?",
+        "a": "Two years",
+        "options": [
+            "One year",
+            "Three years",
+            "Two years",
+            "Five years",
+            "Four years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the last date for submitting entries for the logo design competition for the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) Act?",
+        "a": "March 20",
+        "options": [
+            "March 15",
+            "March 25",
+            "March 20",
+            "March 10",
+            "March 30"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the Viksit Bharat \u2014 Guarantee for Rozgar and Ajeevika Mission (Gramin) Act enacted?",
+        "a": "2025",
+        "options": [
+            "2024",
+            "2026",
+            "2025",
+            "2023",
+            "2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the agreement on \u2018ESA-ISRO Arrangement concerning Joint Calibration and Validation Activities and Scientific Studies for Earth Observation Missions\u2019 signed?",
+        "a": "March 4",
+        "options": [
+            "March 3",
+            "March 5",
+            "March 4",
+            "March 6",
+            "March 7"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the Shakuntala Grants launched by Pixxel?",
+        "a": "Supporting women researchers studying our planet",
+        "options": [
+            "Funding space missions",
+            "Promoting male scientists",
+            "Supporting women researchers studying our planet",
+            "Developing new technologies",
+            "Providing scholarships for engineers"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main objective of the 'Nirbhaya Nisha' project inaugurated in Ernakulam rural limits?",
+        "a": "To provide prompt police assistance and strengthen security for women commuting during late hours",
+        "options": [
+            "To increase police presence during daytime",
+            "To organize night walks for women",
+            "To provide prompt police assistance and strengthen security for women commuting during late hours",
+            "To promote tourism in Kerala",
+            "To fund women entrepreneurs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "One of the arguments made by supporters of India's 'One Nation, One Election' (ONOE) proposal is to reduce which of the following?",
+        "a": "Expenditure",
+        "options": [
+            "Voter turnout",
+            "Political party formation",
+            "Expenditure",
+            "Judicial oversight",
+            "International collaborations"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The renovation of the open auditorium at Vannivedu school was meant as a tribute to Justice M. Nirmal Kumar's late father, V. Murugesan, to mark what occasion?",
+        "a": "His centenary birthday celebrations",
+        "options": [
+            "His retirement from service",
+            "His academic achievement",
+            "His centenary birthday celebrations",
+            "His contribution to politics",
+            "His philanthropy"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose for which the RISE centre was established in the NTR district?",
+        "a": "To bring out the talent of rural women and mould them into entrepreneurs",
+        "options": [
+            "To provide agricultural training",
+            "To offer financial aid to farmers",
+            "To bring out the talent of rural women and mould them into entrepreneurs",
+            "To promote rural tourism",
+            "To organize cultural events"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The logo for the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) Act is sought to reflect the vision of which key aspect?",
+        "a": "Rural development and employment generation",
+        "options": [
+            "Urban infrastructure development",
+            "Digital India initiatives",
+            "Rural development and employment generation",
+            "Industrial growth",
+            "Educational reforms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main objective of the Sexual Harassment Incident Notification for Empowerment (SHINE) app launched by Indian Railways?",
+        "a": "To allow women employees to lodge complaints about sexual harassment at the workplace",
+        "options": [
+            "To provide general HR services",
+            "To facilitate leave applications",
+            "To allow women employees to lodge complaints about sexual harassment at the workplace",
+            "To offer training programs",
+            "To manage employee payroll"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Pink Protection Project services in Aluva town are extended between which hours?",
+        "a": "9 p.m. and 5 a.m.",
+        "options": [
+            "8 p.m. and 4 a.m.",
+            "10 p.m. and 6 a.m.",
+            "9 p.m. and 5 a.m.",
+            "7 p.m. and 3 a.m.",
+            "11 p.m. and 7 a.m."
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what occasion did Pixxel announce the launch of Shakuntala Grants?",
+        "a": "International Women\u2019s Day",
+        "options": [
+            "World Environment Day",
+            "National Science Day",
+            "International Women\u2019s Day",
+            "Earth Day",
+            "Children's Day"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the year when MGNREGA was replaced by the Viksit Bharat \u2013 Guarantee for Rozgar and Ajeevika Mission (Gramin) Act?",
+        "a": "2025",
+        "options": [
+            "2005",
+            "2015",
+            "2025",
+            "2020",
             "2030"
         ],
         "cat": "When"
     },
     {
-        "q": "The check dams project across Palar and Ponnai rivers is funded under the Permanent Floods Restoration Scheme for which period?",
-        "a": "2025-26",
+        "q": "What was the original length of the open auditorium in Vannivedu, which was extended to eight metres?",
+        "a": "Five metres",
         "options": [
-            "2024-25",
-            "2025-26",
-            "2026-27",
-            "2023-24",
-            "2027-28"
+            "Four metres",
+            "Six metres",
+            "Five metres",
+            "Three metres",
+            "Seven metres"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "When did the first air-conditioned suburban train services between Chennai Beach-Chengalpattu railway stations begin their run?",
-        "a": "April 2025",
+        "q": "How many jeeps, driven by women police personnel, were flagged off as part of the Nirbhaya Nisha project launch across Kerala?",
+        "a": "28",
         "options": [
-            "January 2025",
-            "March 2025",
-            "April 2025",
-            "May 2025",
-            "February 2025"
+            "20",
+            "30",
+            "28",
+            "25",
+            "32"
         ],
-        "cat": "When"
-    },
-    {
-        "q": "The 'Zero Tolerance to Sexual Violence' (ZeTo) campaign was launched on which specific date mentioned in the news?",
-        "a": "March 7",
-        "options": [
-            "March 5",
-            "March 6",
-            "March 7",
-            "March 8",
-            "March 9"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The workshop on Natural Farming for Economically Weaker Sections in Vijayawada was held on which day?",
-        "a": "Saturday",
-        "options": [
-            "Friday",
-            "Sunday",
-            "Saturday",
-            "Thursday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Tamil Nadu government order for regulating aesthetics clinics is based on the National Medical Commission (NMC) guidelines issued on which date?",
-        "a": "September 20, 2022",
-        "options": [
-            "August 15, 2022",
-            "September 10, 2022",
-            "September 20, 2022",
-            "October 1, 2022",
-            "September 5, 2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "From which date was the price of the 14.2-kg domestic LPG cylinder increased by \u20b960?",
-        "a": "March 7, 2026",
-        "options": [
-            "March 1, 2026",
-            "March 5, 2026",
-            "March 7, 2026",
-            "March 10, 2026",
-            "March 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Memorandum of Understanding (MoU) signed with three Finnish companies to modernize Sassoon Dock?",
-        "a": "March 7, 2026",
-        "options": [
-            "March 1, 2026",
-            "March 5, 2026",
-            "March 7, 2026",
-            "March 10, 2026",
-            "March 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The draft notification for revising minimum wages of employees in Kerala's private health sector states that the proposal will be taken up for consideration on or after how many months from its publication date?",
-        "a": "Two months",
-        "options": [
-            "One month",
-            "Two months",
-            "Three months",
-            "Four months",
-            "Six months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the original planned commencement month for the air-conditioned train services on the Chennai-Arakkonam section, as mentioned in the news?",
-        "a": "January 2026",
-        "options": [
-            "December 2025",
-            "January 2026",
-            "February 2026",
-            "March 2026",
-            "April 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Perumbalam bridge in Kerala was inaugurated by the Chief Minister on which day of the week?",
-        "a": "Saturday",
-        "options": [
-            "Friday",
-            "Sunday",
-            "Saturday",
-            "Thursday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the target year for the development of the nation that A.R. Unnikrishnan mentioned as dependent on women's participation?",
-        "a": "2047",
-        "options": [
-            "2030",
-            "2035",
-            "2040",
-            "2047",
-            "2050"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of platforms like Thaaragai, as stated by Amudhavalli Ranganathan?",
-        "a": "Bringing together leaders to create solutions that help more women succeed.",
-        "options": [
-            "Promoting new businesses",
-            "Awarding women entrepreneurs",
-            "Bringing together leaders to create solutions that help more women succeed",
-            "Showcasing women's products",
-            "Networking for industry leaders"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the full form of RUSA, a scheme under which projects in Tamil Nadu institutions were funded?",
-        "a": "Rashtriya Uchchatar Shiksha Abhiyan",
-        "options": [
-            "Regional University Scheme Alliance",
-            "Rashtriya Uchchatar Shiksha Abhiyan",
-            "Rural Urban Skill Advancement",
-            "Reformative University System Act",
-            "Rapid Upgradation of Schools and Academics"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the main objectives of building the two check dams across Palar and Ponnai rivers near Katpadi?",
-        "a": "To help recharge groundwater in surrounding villages for irrigation.",
-        "options": [
-            "To generate hydroelectric power",
-            "To prevent industrial pollution",
-            "To promote tourism",
-            "To help recharge groundwater in surrounding villages for irrigation",
-            "To facilitate river navigation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the main reason cited by local commuters, including traders and office-goers, for demanding AC train services on the Chennai-Arakkonam route?",
-        "a": "Successful operation of similar services on Chennai Beach-Chengalpattu section.",
-        "options": [
-            "Reducing travel time significantly",
-            "Catering to a luxury segment",
-            "Successful operation of similar services on Chennai Beach-Chengalpattu section",
-            "Increase in tourist influx",
-            "Reducing carbon footprint"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the key metric that Guidance Tamil Nadu aims to sharpen its focus on to further improve the quality of life for expats, viewing it as an important investor pitch?",
-        "a": "Ease of living",
-        "options": [
-            "Cost of living",
-            "Business opportunities",
-            "Ease of living",
-            "Cultural integration",
-            "Connectivity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the key policy demands of the 'Zero Tolerance to Sexual Violence' (ZeTo) campaign?",
-        "a": "Implementation of a zero-tolerance policy towards sexual violence and gender discrimination in all sectors.",
-        "options": [
-            "Increasing police presence",
-            "Implementation of a zero-tolerance policy towards sexual violence and gender discrimination in all sectors",
-            "Mandatory self-defense training",
-            "Providing free legal aid",
-            "Establishing new helplines"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary benefit of natural farming practices, as highlighted by Minister S. Savitha?",
-        "a": "Making agriculture both profitable and sustainable.",
-        "options": [
-            "Reducing water consumption",
-            "Increasing crop diversity",
-            "Making agriculture both profitable and sustainable",
-            "Promoting single crop cultivation",
-            "Enhancing aesthetic appeal of farms"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main reason for the Tamil Nadu government's order for mandatory registration of aesthetics, cosmetology, and hair transplant clinics?",
-        "a": "To monitor the largely unregulated sector and enforce punitive action for violations.",
-        "options": [
-            "To increase state revenue",
-            "To promote medical tourism",
-            "To monitor the largely unregulated sector and enforce punitive action for violations",
-            "To attract foreign investment",
-            "To centralize medical records"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary focus of the tie-up with Finnish companies for the modernization of Sassoon Dock?",
-        "a": "Improving waste management, recycling of plastic waste and discarded fishing nets.",
-        "options": [
-            "Increasing fishing boat fleet size",
-            "Expanding the dock area",
-            "Improving waste management, recycling of plastic waste and discarded fishing nets",
-            "Developing new fish species",
-            "Creating a new tourism hub"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the core demand of the United Nurses\u2019 Association (UNA) leading the strike in Kerala's private health sector?",
-        "a": "A basic pay of \u20b940,000 on par with the public health sector.",
-        "options": [
-            "Better working conditions",
-            "Increased annual leave",
-            "A basic pay of \u20b940,000 on par with the public health sector",
-            "Free medical insurance",
-            "Reduced working hours"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the Indian Navy's Operation Sankalp, mentioned in the context of Persian Gulf shipping?",
-        "a": "To ensure maritime security in the Gulf region.",
-        "options": [
-            "To conduct naval exercises",
-            "To rescue stranded seafarers",
-            "To ensure maritime security in the Gulf region",
-            "To survey new shipping routes",
-            "To provide humanitarian aid"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does Chief Minister Pinarayi Vijayan describe the Perumbalam bridge as, beyond being merely a development project?",
-        "a": "A symbol of his government\u2019s determination and will power.",
-        "options": [
-            "A symbol of economic growth",
-            "A gateway to new trade routes",
-            "A symbol of his government\u2019s determination and will power",
-            "A tourist attraction",
-            "A model for inter-state connectivity"
-        ],
-        "cat": "Why"
+        "cat": "Amount"
     }
 ]
