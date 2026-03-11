@@ -1,722 +1,770 @@
 [
     {
-        "q": "What is the estimated investment for the Polypropylene Unit at Kochi Refinery of BPCL, launched by PM Modi?",
-        "a": "\u20b95,500 crore",
+        "q": "What was the reported expenditure on food imports from abroad, according to Tanguturi Prakasam, in 1951?",
+        "a": "\u20b91,000 crore",
         "options": [
-            "\u20b95,490 crore",
-            "\u20b95,510 crore",
-            "\u20b95,500 crore",
-            "\u20b95,550 crore",
-            "\u20b95,450 crore"
+            "\u20b9900 crore",
+            "\u20b9950 crore",
+            "\u20b91,000 crore",
+            "\u20b91,050 crore",
+            "\u20b91,100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the capacity of the new Polypropylene Unit at Kochi Refinery in kilo tonnes per annum (KTPA)?",
-        "a": "400 KTPA",
+        "q": "What was the cost of establishing the oilpalm processing unit at Narmeta in Siddipet district?",
+        "a": "\u20b9300 crore",
         "options": [
-            "410 KTPA",
-            "390 KTPA",
-            "400 KTPA",
-            "405 KTPA",
-            "395 KTPA"
+            "\u20b9250 crore",
+            "\u20b9275 crore",
+            "\u20b9300 crore",
+            "\u20b9325 crore",
+            "\u20b9350 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost of the six-laning of the Thalapady-Chengala section of NH-66?",
-        "a": "\u20b92,650 crore",
+        "q": "What will be the initial crushing capacity per hour of the Narmeta oilpalm processing unit?",
+        "a": "30 tonnes",
         "options": [
-            "\u20b92,640 crore",
-            "\u20b92,660 crore",
-            "\u20b92,650 crore",
-            "\u20b92,655 crore",
-            "\u20b92,645 crore"
+            "20 tonnes",
+            "25 tonnes",
+            "30 tonnes",
+            "35 tonnes",
+            "40 tonnes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost of the six-laning of the Kozhikode Bypass from Vengalam to Ramanattukara?",
-        "a": "\u20b92,140 crore",
+        "q": "What is the total value of railway projects Prime Minister Narendra Modi will inaugurate and dedicate in Kochi?",
+        "a": "\u20b9142 crore",
         "options": [
-            "\u20b92,130 crore",
-            "\u20b92,150 crore",
-            "\u20b92,140 crore",
-            "\u20b92,145 crore",
-            "\u20b92,135 crore"
+            "\u20b9130 crore",
+            "\u20b9135 crore",
+            "\u20b9142 crore",
+            "\u20b9147 crore",
+            "\u20b9150 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total worth of developmental projects launched by PM Modi in Kochi?",
-        "a": "\u20b910,800 crore",
+        "q": "What is the cost of the Shoranur\u2013Nilambur road Railway Line Electrification Project?",
+        "a": "\u20b990 crore",
         "options": [
-            "\u20b910,790 crore",
-            "\u20b910,810 crore",
-            "\u20b910,800 crore",
-            "\u20b910,805 crore",
-            "\u20b910,795 crore"
+            "\u20b980 crore",
+            "\u20b985 crore",
+            "\u20b990 crore",
+            "\u20b995 crore",
+            "\u20b9100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much upfront payment did SRMIST receive for the patent of next-generation solar cell encapsulants from Anabond Ltd.?",
-        "a": "\u20b91 crore",
+        "q": "What percentage of J&K\u2019s Gross State Domestic Product (GSDP) does the tourism sector contribute?",
+        "a": "7%",
         "options": [
-            "\u20b90.9 crore",
-            "\u20b91.1 crore",
-            "\u20b91 crore",
-            "\u20b91.05 crore",
-            "\u20b90.95 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many technology transfers has the SRMIST Technology Transfer Office (TTO) facilitated in total?",
-        "a": "17",
-        "options": [
-            "16",
-            "18",
-            "17",
-            "19",
-            "15"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the fertility rate in Rajasthan during 1991-94, which prompted the two-child norm?",
-        "a": "3.6",
-        "options": [
-            "3.5",
-            "3.7",
-            "3.6",
-            "3.8",
-            "3.4"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the current fertility rate in Rajasthan, according to Panchayati Raj Minister Madan Dilawar?",
-        "a": "2.0",
-        "options": [
-            "1.9",
-            "2.1",
-            "2.0",
-            "2.2",
-            "1.8"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of women are in the 17th Lok Sabha?",
-        "a": "15%",
-        "options": [
-            "14%",
-            "16%",
-            "15%",
-            "17%",
-            "13%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of women, on average, constitute the total members in State Assemblies?",
-        "a": "9%",
-        "options": [
+            "5%",
+            "6%",
+            "7%",
             "8%",
-            "10%",
-            "9%",
-            "11%",
-            "7%"
+            "9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the peak intraday price for Brent Crude futures on March 9, 2026?",
-        "a": "$119.5 per barrel",
+        "q": "How many tourists visited Kashmir in 2025?",
+        "a": "11.16 lakh",
         "options": [
-            "$119.4 per barrel",
-            "$119.6 per barrel",
-            "$119.5 per barrel",
-            "$119.55 per barrel",
-            "$119.45 per barrel"
+            "10.16 lakh",
+            "10.66 lakh",
+            "11.16 lakh",
+            "11.66 lakh",
+            "12.16 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many stray dogs will the Brahmapuram shelter rehabilitate in its first phase?",
-        "a": "1,000",
+        "q": "How many tourists visited Kashmir in 2024?",
+        "a": "26 lakh",
         "options": [
-            "990",
-            "1,010",
-            "1,000",
-            "1,005",
-            "995"
+            "24 lakh",
+            "25 lakh",
+            "26 lakh",
+            "27 lakh",
+            "28 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Jammu and Kashmir Pradesh Congress Committee (JKPCC) chief mentioned in the news?",
-        "a": "Tariq Hameed Karra",
+        "q": "What was the record number of visitors hosted by the Indira Gandhi Memorial Tulip Garden in April 2025?",
+        "a": "8.25 lakh",
         "options": [
-            "Govind Singh Dotasra",
-            "Rafiq Khan",
-            "Tariq Hameed Karra",
-            "Madan Dilawar",
-            "Shaheen Malik"
+            "7.75 lakh",
+            "8.00 lakh",
+            "8.25 lakh",
+            "8.50 lakh",
+            "8.75 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many tulip bulbs are there in the Indira Gandhi Memorial Tulip Garden?",
+        "a": "1.8 million",
+        "options": [
+            "1.6 million",
+            "1.7 million",
+            "1.8 million",
+            "1.9 million",
+            "2.0 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the duration of maternity leave approved for women in government service in Maharashtra?",
+        "a": "180 days",
+        "options": [
+            "150 days",
+            "160 days",
+            "180 days",
+            "190 days",
+            "200 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed quota for Scheduled Castes (SCs) in the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022?",
+        "a": "17%",
+        "options": [
+            "15%",
+            "16%",
+            "17%",
+            "18%",
+            "19%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed quota for Scheduled Tribes (STs) in the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022?",
+        "a": "7%",
+        "options": [
+            "5%",
+            "6%",
+            "7%",
+            "8%",
+            "9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the Supreme Court mandated cap on reservation that the Karnataka government is grappling with?",
+        "a": "50%",
+        "options": [
+            "45%",
+            "48%",
+            "50%",
+            "52%",
+            "55%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in allocation to the rural sector compared to the last budget, according to BJP MP K. Laxman?",
+        "a": "4%",
+        "options": [
+            "2%",
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in allocation to the rural employment scheme compared to the UPA regime, as stated by BJP MP K. Laxman?",
+        "a": "40%",
+        "options": [
+            "30%",
+            "35%",
+            "40%",
+            "45%",
+            "50%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the Chief Minister of West Bengal in 1977 and held the post for 23 years, unveiling the CPI manifesto in Kolkata?",
+        "a": "Jyoti Basu",
+        "options": [
+            "B.T. Ranadive",
+            "E.M.S. Namboodiripad",
+            "Jyoti Basu",
+            "Harkishan Singh Surjeet",
+            "Indrajit Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the former Chief Minister during whose government the two-child norm was introduced in Rajasthan in 1995?",
-        "a": "Bhairon Singh Shekhawat",
+        "q": "Who was the long-standing member of Congress and former Chief Minister of the State who formed the Praja Party in May 1951?",
+        "a": "T. Prakasam",
         "options": [
-            "Ashok Gehlot",
-            "Vasundhara Raje",
-            "Bhairon Singh Shekhawat",
-            "Madan Dilawar",
-            "Govind Singh Dotasra"
+            "K. Kamaraj",
+            "T. Prakasam",
+            "C. Subramaniam",
+            "M. Bhaktavatsalam",
+            "C. N. Annadurai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Panchayati Raj Minister of Rajasthan, who spoke about the declining fertility rate?",
-        "a": "Madan Dilawar",
+        "q": "Who joined hands with Tanguturi Prakasam to set up the Kisan Mazdoor Praja Party (KMPP)?",
+        "a": "Acharya Kripalani",
         "options": [
-            "Govind Singh Dotasra",
-            "Rafiq Khan",
-            "Madan Dilawar",
-            "Bhairon Singh Shekhawat",
-            "Tariq Hameed Karra"
+            "Sardar Patel",
+            "Acharya Kripalani",
+            "Maulana Azad",
+            "Govind Ballabh Pant",
+            "Pattabhi Sitaramayya"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who headed the team of scientists at SRMIST that developed the next-generation solar cell encapsulant?",
-        "a": "K. Ananthanarayanan",
+        "q": "Who were mentioned as the guiding lights of the Socialist Party?",
+        "a": "Jayaprakash Narayan and Asoka Mehta",
         "options": [
-            "M. Rajan",
-            "R. Ananth Kumar",
-            "K. Ananthanarayanan",
-            "C. Muthamizhchelvan",
-            "M.S. Abraham"
+            "Jawaharlal Nehru and Subhas Chandra Bose",
+            "Sardar Patel and Rajendra Prasad",
+            "Jayaprakash Narayan and Asoka Mehta",
+            "V. K. Krishna Menon and K. D. Malaviya",
+            "Ram Manohar Lohia and George Fernandes"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Managing Director of Anabond Ltd. mentioned in the technology-transfer agreement?",
-        "a": "M. Rajan",
+        "q": "Who was the sitting Chief Minister of Madras who lost in the 1951-52 Assembly elections?",
+        "a": "P.S. Kumaraswami Raja",
         "options": [
-            "K. Ananthanarayanan",
-            "R. Ananth Kumar",
-            "M. Rajan",
-            "C. Muthamizhchelvan",
-            "M.S. Abraham"
+            "C. Rajagopalachari",
+            "P.S. Kumaraswami Raja",
+            "O. P. Ramaswamy Reddiyar",
+            "K. Kamaraj",
+            "M. Bhaktavatsalam"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Census Commissioner of India, to whom DNT community leaders wrote letters?",
-        "a": "Mrityunjay Kumar Narayan",
+        "q": "Who was the Congress representative who managed to become Chief Minister of the Madras Presidency after the hung assembly?",
+        "a": "C. Rajagopalachari",
         "options": [
-            "Mohit Tomar",
-            "Dakxin Bajrange",
-            "Mrityunjay Kumar Narayan",
-            "Surya Kant",
-            "Droupadi Murmu"
+            "K. Kamaraj",
+            "C. Subramaniam",
+            "C. Rajagopalachari",
+            "M. Bhaktavatsalam",
+            "P. Subbarayan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the acid attack survivor who filed the petition in the Supreme Court regarding the RPwD Act?",
-        "a": "Shaheen Malik",
+        "q": "Who is the current J&K Chief Minister set to inaugurate a spring festival at Srinagar\u2019s Badamwari?",
+        "a": "Omar Abdullah",
         "options": [
-            "Archana Pathak Dave",
-            "Tushar Mehta",
-            "Shaheen Malik",
-            "Joymalya Bagchi",
-            "Surya Kant"
+            "Mehbooba Mufti",
+            "Ghulam Nabi Azad",
+            "Omar Abdullah",
+            "Farooq Abdullah",
+            "Jitendra Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Parliamentary Affairs Minister who mentioned a \"critical Bill\" for the Budget Session?",
-        "a": "Kiren Rijiju",
+        "q": "Who is the Director of Floriculture, Kashmir, quoted regarding the development of Badamwari garden?",
+        "a": "Mathoora Masoom",
         "options": [
-            "Narendra Modi",
+            "Rifat Nazir",
+            "Mathoora Masoom",
+            "Sameena Begum",
+            "Sheeba Khan",
+            "Fozia Bhat"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Chhattisgarh Chief Minister who has spoken about the new proposed anti-religious conversion law?",
+        "a": "Vishnu Deo Sai",
+        "options": [
+            "Bhupesh Baghel",
+            "Raman Singh",
+            "Vishnu Deo Sai",
+            "Ajit Jogi",
+            "Brijmohan Agrawal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Deputy Chief Minister of Maharashtra who announced the \u2018Come Early, Go Early\u2019 scheme for women government employees?",
+        "a": "Sunetra Pawar",
+        "options": [
+            "Devendra Fadnavis",
+            "Ajit Pawar",
+            "Sunetra Pawar",
+            "Supriya Sule",
+            "Pankaja Munde"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the author of the latest book, 'We, the People of India: Decoding a Nation\u2019s Symbols', launched in Chennai?",
+        "a": "T.M. Krishna",
+        "options": [
+            "Ramachandra Guha",
+            "Shashi Tharoor",
+            "T.M. Krishna",
+            "Arundhati Roy",
+            "Vikram Seth"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who did T.M. Krishna confidently state did NOT design the national flag, contrary to common belief?",
+        "a": "Pingali Venkayya",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Pingali Venkayya",
+            "B.R. Ambedkar",
+            "Sardar Vallabhbhai Patel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to T.M. Krishna, who repeatedly stated 'I created the flag' or 'I invented the flag'?",
+        "a": "Mahatma Gandhi",
+        "options": [
+            "Sardar Patel",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Bhagat Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Minister for Agriculture who announced the inauguration of the oilpalm processing unit in Siddipet district?",
+        "a": "Tummala Nageswara Rao",
+        "options": [
+            "K. Chandrashekar Rao",
+            "S. Niranjan Reddy",
+            "Tummala Nageswara Rao",
+            "Gangula Kamalakar",
+            "Indrakaran Reddy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Raichur MP who wrote to the Minister for Social Justice and Empowerment regarding the inclusion of Karnataka's reservation act in the Ninth Schedule?",
+        "a": "G. Kumar Naik",
+        "options": [
             "Mallikarjun Kharge",
-            "Kiren Rijiju",
-            "Tariq Hameed Karra",
-            "Madan Dilawar"
+            "D.K. Shivakumar",
+            "G. Kumar Naik",
+            "Basavaraj Bommai",
+            "Siddaramaiah"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Higher Education Minister of Kerala who announced promotions for college Principals?",
-        "a": "R. Bindu",
+        "q": "What was the foremost issue of importance to people in the southern region during the first elections, according to the news?",
+        "a": "Creation of States on linguistic lines",
         "options": [
-            "Soumen Sen",
-            "Syam Kumar V.M.",
-            "R. Bindu",
-            "V.K. Minimol",
-            "Seena Gokulan"
+            "Economic development",
+            "National security",
+            "Creation of States on linguistic lines",
+            "Abolition of untouchability",
+            "Industrialization policy"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who filed the plea in the Kerala High Court regarding the medical negligence case of the nine-year-old girl?",
-        "a": "P.D. Joseph",
+        "q": "What was the primary objective of the CPI's call for a \"complete break\" with the British empire and nationalisation of British capital?",
+        "a": "To achieve genuine industrialisation and economic sovereignty",
         "options": [
-            "Soumen Sen",
-            "Syam Kumar V.M.",
-            "P.D. Joseph",
-            "V.K. Minimol",
-            "M. Rajan"
+            "To promote foreign investment",
+            "To establish strong international trade ties",
+            "To achieve genuine industrialisation and economic sovereignty",
+            "To encourage private enterprise",
+            "To maintain colonial ties"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who is the Mayor who inaugurated the construction of the dog shelter at Brahmapuram?",
-        "a": "V.K. Minimol",
+        "q": "What was the Socialist Party's main criticism of the Congress government, as reported by The Hindu on July 6, 1951?",
+        "a": "Inability to contain the problem of inflation",
         "options": [
-            "Deepak Joy",
-            "Seena Gokulan",
-            "V.K. Minimol",
-            "R. Bindu",
-            "P.D. Joseph"
+            "Failure to manage foreign relations",
+            "Inability to contain the problem of inflation",
+            "Lack of support for agricultural reforms",
+            "Excessive military spending",
+            "Delayed democratic processes"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who is the Chief Justice of India mentioned in the context of DNTs writing letters and the acid attack case?",
-        "a": "Surya Kant",
+        "q": "What is the Jammu and Kashmir Government banking on to revive tourism in the Valley after the Pahalgam terror attack in 2025?",
+        "a": "Blooming gardens of tulips and almonds",
         "options": [
-            "Droupadi Murmu",
-            "Narendra Modi",
-            "Surya Kant",
-            "Joymalya Bagchi",
-            "Tushar Mehta"
+            "Increased security deployments",
+            "International tourism campaigns",
+            "Blooming gardens of tulips and almonds",
+            "New adventure sports facilities",
+            "Direct flight connectivity"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "In which J&K district did Congress leaders and party workers stage a protest against the India-U.S. trade deal on March 9, 2026?",
-        "a": "Samba",
+        "q": "What is the stated objective of Maharashtra's \u2018Come Early, Go Early\u2019 scheme for women government employees?",
+        "a": "To assist women in managing professional and domestic responsibilities",
         "options": [
-            "Baramulla",
-            "Shopian",
-            "Samba",
+            "To reduce overall office hours",
+            "To promote late-night work culture",
+            "To assist women in managing professional and domestic responsibilities",
+            "To encourage more men into government service",
+            "To increase productivity through longer work days"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of including the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022, under the Ninth Schedule of the Constitution?",
+        "a": "To make it immune to judicial review",
+        "options": [
+            "To simplify the reservation process",
+            "To make it immune to judicial review",
+            "To increase the total number of posts",
+            "To reduce the existing reservation percentages",
+            "To comply with international standards"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary aim of granting international airport status to Madurai Airport?",
+        "a": "To strengthen the region\u2019s global connectivity and boost trade/tourism",
+        "options": [
+            "To reduce domestic flight delays",
+            "To strengthen the region\u2019s global connectivity and boost trade/tourism",
+            "To host more private jet services",
+            "To become a cargo-only airport",
+            "To attract more budget airlines"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the stated reason for the Rajasthan Municipalities (Amendment) Bill, 2026, to remove the disqualification of individuals with more than two children from contesting ULB elections?",
+        "a": "To ensure greater participation in the democratic process",
+        "options": [
+            "To align with Central government policies",
+            "To promote larger families",
+            "To ensure greater participation in the democratic process",
+            "To reduce the number of potential candidates",
+            "To encourage early marriage"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why was the amendment to Section 2(xix)(a) of the 2009 Act made, removing leprosy from the list of dangerous diseases?",
+        "a": "To remove discrimination against the leprosy affected or cured persons",
+        "options": [
+            "To recognize medical advancements",
+            "To remove discrimination against the leprosy affected or cured persons",
+            "To encourage travel for affected individuals",
+            "To reduce public health spending",
+            "To reclassify all diseases"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason cited by T.M. Krishna for being moved to author his latest book about national symbols?",
+        "a": "To understand his relationship with the national anthem and the power of symbols",
+        "options": [
+            "To criticize the government",
+            "To explore changes in national anthem",
+            "To understand his relationship with the national anthem and the power of symbols",
+            "To document historical events",
+            "To propose new national symbols"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Where did the CPI announce its decision to contest the 1951-52 election?",
+        "a": "Chennai",
+        "options": [
+            "Kolkata",
+            "Mumbai",
+            "Chennai",
+            "Delhi",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city was the CPI's 7,000-word manifesto unveiled by Jyoti Basu?",
+        "a": "Kolkata",
+        "options": [
+            "Chennai",
+            "Mumbai",
+            "Kolkata",
+            "Delhi",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Asia\u2019s largest tulip garden is located in which city?",
+        "a": "Srinagar",
+        "options": [
             "Jammu",
-            "Kashmir"
+            "Leh",
+            "Srinagar",
+            "Pahalgam",
+            "Gulmarg"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where were the developmental projects worth \u20b910,800 crore launched by PM Modi?",
-        "a": "Kochi",
+        "q": "The new oilpalm processing unit, inaugurated by CM A. Revanth Reddy, is located in Narmeta, which district of Telangana?",
+        "a": "Siddipet",
         "options": [
-            "Thalapady",
-            "Kozhikode",
-            "Kochi",
-            "Kollam",
-            "Shoranur"
+            "Karimnagar",
+            "Medak",
+            "Siddipet",
+            "Warangal",
+            "Nalgonda"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will the Polypropylene Unit of Bharat Petroleum Corporation Limited (BPCL) be set up?",
-        "a": "Kochi Refinery",
+        "q": "Which city's airport recently granted international airport status by the Union Cabinet on March 10, 2026?",
+        "a": "Madurai",
         "options": [
-            "Mangalore Refinery",
-            "Kochi Refinery",
-            "Mumbai Refinery",
-            "Kanyakumari Refinery",
-            "Kannur Refinery"
+            "Coimbatore",
+            "Trichy",
+            "Madurai",
+            "Salem",
+            "Thoothukudi"
         ],
         "cat": "Where"
     },
     {
-        "q": "The six-laning of Thalapady-Chengala section is part of which economic corridor?",
-        "a": "Mumbai-Kanyakumari Economic Corridor",
+        "q": "The initial sermon of Buddha, from where the Ashoka Pillar's meaning is derived, took place at which location?",
+        "a": "Sarnath",
         "options": [
-            "Delhi-Mumbai Industrial Corridor",
-            "East Coast Economic Corridor",
-            "Mumbai-Kanyakumari Economic Corridor",
-            "Amritsar-Kolkata Industrial Corridor",
-            "Chennai-Bengaluru Industrial Corridor"
+            "Bodh Gaya",
+            "Lumbini",
+            "Sarnath",
+            "Kushinagar",
+            "Kapilavastu"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which university announced a technology-transfer agreement with Anabond Ltd. for solar cell encapsulants?",
-        "a": "SRM Institute of Science and Technology (SRMIST)",
+        "q": "Cyber crimes against women are being addressed with systems established at which railway stations?",
+        "a": "Chhatrapati Shivaji Maharaj Terminus, Churchgate, Borivali",
         "options": [
-            "Anna University",
-            "IIT Madras",
-            "SRM Institute of Science and Technology (SRMIST)",
-            "Vellore Institute of Technology",
-            "Amrita Vishwa Vidyapeetham"
+            "Delhi, Mumbai Central, Howrah",
+            "Chennai Central, Bengaluru City, Hyderabad Deccan",
+            "Chhatrapati Shivaji Maharaj Terminus, Churchgate, Borivali",
+            "Secunderabad, Pune, Ahmedabad",
+            "Bhopal, Patna, Lucknow"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which state passed a Bill to scrap the provision for disqualifying candidates with more than two children from contesting Panchayati Raj elections?",
-        "a": "Rajasthan",
+        "q": "The \u2018Come Early, Go Early\u2019 scheme for women government employees has been introduced in which region of Maharashtra?",
+        "a": "Mumbai Metropolitan Region",
         "options": [
-            "Uttar Pradesh",
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Gujarat",
-            "Haryana"
+            "Nagpur Metropolitan Region",
+            "Pune Metropolitan Region",
+            "Mumbai Metropolitan Region",
+            "Nashik Metropolitan Region",
+            "Aurangabad Metropolitan Region"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which part of Kollam will the foundation stone be laid for a 50 MW Floating Solar Project?",
-        "a": "West Kallada",
+        "q": "The debate on the working of the Union Ministry of Rural Development took place in which legislative body on March 10, 2026?",
+        "a": "Rajya Sabha",
         "options": [
-            "East Kallada",
-            "North Kallada",
-            "West Kallada",
-            "South Kallada",
-            "Central Kallada"
+            "Lok Sabha",
+            "Rajya Sabha",
+            "State Assembly",
+            "Gram Sabha",
+            "District Council"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which railway stations are being redeveloped under the Amrit Bharat Station Scheme and were inaugurated by PM Modi?",
-        "a": "Shoranur Junction, Kuttippuram, and Changanassery",
+        "q": "Where was the Ashoka Pillar, chosen as a national symbol, originally constructed?",
+        "a": "Sarnath",
         "options": [
-            "Palakkad, Pollachi, Ernakulam",
-            "Kozhikode, Kannur, Kasaragod",
-            "Shoranur Junction, Kuttippuram, and Changanassery",
-            "Thalapady, Chengala, Vengalam",
-            "Kaloor, Beypore, Kappad"
+            "Bodh Gaya",
+            "Lumbini",
+            "Sarnath",
+            "Kushinagar",
+            "Vaishali"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city was the dog shelter inaugurated at Brahmapuram?",
-        "a": "Kochi",
+        "q": "When were the first elections held after India became a Republic with universal adult suffrage?",
+        "a": "1951-52",
         "options": [
-            "Thiruvananthapuram",
-            "Kozhikode",
-            "Kochi",
-            "Palakkad",
-            "Kollam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court was hearing a petition filed by an acid attack survivor to bring victims under the protective umbrella of which Act?",
-        "a": "Rights of Persons with Disabilities Act, 2016",
-        "options": [
-            "Indian Penal Code, 1860",
-            "Bharatiya Nyaya Sanhita",
-            "Rights of Persons with Disabilities Act, 2016",
-            "Protection of Women from Domestic Violence Act, 2005",
-            "Juvenile Justice Act, 2015"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Nari Shakti Vandan Adhiniyam, or Women\u2019s Reservation Bill, was passed in the first special session held in which building?",
-        "a": "New Parliament building",
-        "options": [
-            "Old Parliament building",
-            "Vigyan Bhawan",
-            "Rashtrapati Bhavan",
-            "North Block",
-            "New Parliament building"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which state's High Court refused to quash a criminal case registered against a radiologist for sex determination leading to abortion?",
-        "a": "Karnataka",
-        "options": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Telangana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When did the Congress leaders and party workers stage a protest against the proposed India\u2013U.S. trade deal in J&K\u2019s Samba?",
-        "a": "March 9, 2026",
-        "options": [
-            "March 8, 2026",
-            "March 10, 2026",
-            "March 9, 2026",
-            "March 11, 2026",
-            "March 7, 2026"
+            "1947-48",
+            "1949-50",
+            "1951-52",
+            "1953-54",
+            "1955-56"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the Rajasthan Assembly pass the Bill to scrap the two-child norm for Panchayati Raj elections?",
-        "a": "March 10, 2026",
+        "q": "On what date did The Hindu report A.K. Gopalan's announcement of CPI's decision to contest the election?",
+        "a": "June 12, 1951",
         "options": [
-            "March 9, 2026",
-            "March 11, 2026",
+            "June 1, 1951",
+            "June 5, 1951",
+            "June 12, 1951",
+            "June 18, 1951",
+            "June 25, 1951"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is the Indira Gandhi Memorial Tulip Garden in Srinagar scheduled to open for visitors?",
+        "a": "March 16, 2026",
+        "options": [
             "March 10, 2026",
             "March 12, 2026",
-            "March 8, 2026"
+            "March 16, 2026",
+            "March 20, 2026",
+            "March 24, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the two-child norm provision introduced in Rajasthan?",
+        "q": "When was the ban on the CPI lifted in many parts of South India, just before the first elections?",
+        "a": "Just before the 1951-52 elections",
+        "options": [
+            "Shortly after 1947",
+            "Just before the 1951-52 elections",
+            "In the mid-1950s",
+            "After 1960",
+            "During the Emergency period"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Praja Party formed by Tanguturi Prakasam?",
+        "a": "May 1951",
+        "options": [
+            "January 1951",
+            "March 1951",
+            "May 1951",
+            "July 1951",
+            "September 1951"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Pahalgam terror attack, which caused a major setback to J&K tourism, occur?",
+        "a": "2025",
+        "options": [
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Chhattisgarh Cabinet approve the draft of a new anti-religious conversion law?",
+        "a": "March 10, 2026",
+        "options": [
+            "March 1, 2026",
+            "March 5, 2026",
+            "March 10, 2026",
+            "March 15, 2026",
+            "March 20, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what occasion was the \u2018Come Early, Go Early\u2019 scheme announced for women government employees in Maharashtra?",
+        "a": "International Women\u2019s Day",
+        "options": [
+            "Republic Day",
+            "Independence Day",
+            "International Women\u2019s Day",
+            "Maharashtra Day",
+            "Labour Day"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The 'Operation Muskan' initiative spans between July 2015 and which month/year mentioned in the text?",
+        "a": "February 2026",
+        "options": [
+            "December 2025",
+            "January 2026",
+            "February 2026",
+            "March 2026",
+            "April 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is the special cabinet meeting scheduled in Karnataka to discuss the internal reservation issue in the 15% quota for Scheduled Castes?",
+        "a": "March 27",
+        "options": [
+            "March 20",
+            "March 22",
+            "March 27",
+            "March 29",
+            "April 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the restriction on individuals with more than two children contesting ULB elections first introduced in Rajasthan?",
         "a": "1995",
         "options": [
-            "1994",
-            "1996",
+            "1985",
+            "1990",
             "1995",
-            "1997",
-            "1993"
+            "2000",
+            "2005"
         ],
         "cat": "When"
     },
     {
-        "q": "By what date did the Rajasthan High Court direct to hold the pending panchayat elections?",
-        "a": "April 15",
+        "q": "When did T.M. Krishna state he was deeply moved by the national anthem, triggering his book on symbols?",
+        "a": "2019",
         "options": [
-            "April 10",
-            "April 20",
-            "April 15",
-            "May 1",
-            "March 31"
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the Women\u2019s Reservation Bill (Nari Shakti Vandan Adhiniyam) passed by Parliament?",
-        "a": "September 21, 2023",
+        "q": "In which year did Jyoti Basu become Chief Minister of West Bengal, a post he held for 23 years?",
+        "a": "1977",
         "options": [
-            "September 20, 2023",
-            "September 22, 2023",
-            "September 21, 2023",
-            "October 1, 2023",
-            "August 15, 2023"
+            "1975",
+            "1976",
+            "1977",
+            "1978",
+            "1979"
         ],
         "cat": "When"
-    },
-    {
-        "q": "When did the Union Cabinet clear the decks for the next Census?",
-        "a": "December 12, 2025",
-        "options": [
-            "December 11, 2025",
-            "December 13, 2025",
-            "December 12, 2025",
-            "January 1, 2026",
-            "November 30, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When is the population enumeration phase of the Census scheduled to be undertaken?",
-        "a": "February 2027",
-        "options": [
-            "January 2027",
-            "March 2027",
-            "February 2027",
-            "December 2026",
-            "April 2027"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how many years is the royalty arrangement for the SRMIST-Anabond technology transfer agreement linked to annual turnover?",
-        "a": "Seven years",
-        "options": [
-            "Five years",
-            "Ten years",
-            "Seven years",
-            "Three years",
-            "Fifteen years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When is the upcoming Census, for which Denotified, Nomadic, and Semi-nomadic tribes (DNTs) are demanding a separate column?",
-        "a": "2027 Census",
-        "options": [
-            "2026 Census",
-            "2028 Census",
-            "2027 Census",
-            "2025 Census",
-            "2029 Census"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Mohit Tomar, convener of CJAC-DNT, write to President Droupadi Murmu and PM Narendra Modi?",
-        "a": "March 9, 2026",
-        "options": [
-            "March 8, 2026",
-            "March 10, 2026",
-            "March 9, 2026",
-            "March 7, 2026",
-            "February 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the nine-year-old girl, victim of medical negligence in Palakkad, taken to the hospital?",
-        "a": "September 2025",
-        "options": [
-            "August 2025",
-            "October 2025",
-            "September 2025",
-            "July 2025",
-            "November 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Until what age will the Kerala government bear the medical expenses and free education for the medically negligent girl?",
-        "a": "21 years",
-        "options": [
-            "18 years",
-            "20 years",
-            "21 years",
-            "22 years",
-            "25 years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the main reason cited by JKPCC chief Tariq Hameed Karra for demanding PM Modi's resignation?",
-        "a": "Failure in foreign policy and mishandling of external affairs",
-        "options": [
-            "Domestic economic crisis",
-            "Rising unemployment",
-            "Failure in foreign policy and mishandling of external affairs",
-            "Poor governance in J&K",
-            "Lack of development projects"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the primary purpose of introducing the two-child norm in Rajasthan in 1995?",
-        "a": "As a population control measure",
-        "options": [
-            "To promote gender equality",
-            "To enhance education levels",
-            "As a population control measure",
-            "To improve public health",
-            "To encourage rural development"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the Rajasthan Assembly scrap the two-child norm for Panchayati Raj elections?",
-        "a": "Because the fertility rate has dropped, making the restriction irrelevant",
-        "options": [
-            "To appease the Opposition",
-            "To increase population growth",
-            "Because the fertility rate has dropped, making the restriction irrelevant",
-            "To comply with a Supreme Court order",
-            "To reduce the number of elected representatives"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose of the next-generation solar cell encapsulants developed by SRMIST?",
-        "a": "To enhance the performance, durability, and efficiency of solar cells",
-        "options": [
-            "To reduce manufacturing costs of solar cells",
-            "To increase solar panel size",
-            "To enhance the performance, durability, and efficiency of solar cells",
-            "To simplify solar panel installation",
-            "To replace tempered glass in mobile phones"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main demand of the Denotified, Nomadic, and Semi-nomadic Tribes (DNTs) for the upcoming 2027 Census?",
-        "a": "A separate column for DNTs in the Census forms",
-        "options": [
-            "Increased funding for DNT welfare schemes",
-            "Faster processing of caste certificates",
-            "A separate column for DNTs in the Census forms",
-            "Preferential treatment in government contracts",
-            "Reservation in state legislative assemblies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the Supreme Court hearing regarding the RPwD Act in relation to acid attacks?",
-        "a": "To bring victims forcibly made to ingest acid under the RPwD Act, 2016",
-        "options": [
-            "To increase the number of acid attack cases",
-            "To reduce penalties for acid attackers",
-            "To bring victims forcibly made to ingest acid under the RPwD Act, 2016",
-            "To streamline the legal process for property disputes",
-            "To define 'grievous hurt' more broadly"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the core objective of the Constitution (One Hundred and Sixth Amendment) Act or Nari Shakti Vandan Adhiniyam?",
-        "a": "To allocate 33% of seats to women in directly elected legislative bodies",
-        "options": [
-            "To establish a new women's ministry",
-            "To allocate 33% of seats to women in directly elected legislative bodies",
-            "To provide financial aid to women entrepreneurs",
-            "To ensure equal pay for equal work for women",
-            "To promote women's education in rural areas"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why were promotions granted to 33 professors as Principals in Kerala government arts and science colleges?",
-        "a": "To address long-standing vacant posts and comply with Kerala Administrative Tribunal directions",
-        "options": [
-            "To increase the number of colleges",
-            "To reduce student fees",
-            "To address long-standing vacant posts and comply with Kerala Administrative Tribunal directions",
-            "To introduce new academic programs",
-            "To transfer teachers to private institutions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the Kerala High Court's primary directive to the State government regarding the nine-year-old girl victim of medical negligence?",
-        "a": "To provide medical assistance and free education until she reaches 21 years",
-        "options": [
-            "To conduct a new medical examination",
-            "To compensate the family with a lump sum",
-            "To provide medical assistance and free education until she reaches 21 years",
-            "To dismiss the doctors involved immediately",
-            "To build a new hospital in Palakkad"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the Union government's reason for not raising retail petrol prices despite crude oil breaching $100 per barrel?",
-        "a": "Oil Marketing Companies (OMCs) have enough cushion and are financially comfortable",
-        "options": [
-            "To promote public transport",
-            "To reduce inflation",
-            "Oil Marketing Companies (OMCs) have enough cushion and are financially comfortable",
-            "Lack of crude oil reserves",
-            "To encourage electric vehicles"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main objective behind building the dog shelter at Brahmapuram?",
-        "a": "To rehabilitate stray dogs and remove them from public spaces as per Supreme Court directive",
-        "options": [
-            "To promote dog breeding",
-            "To provide a tourist attraction",
-            "To rehabilitate stray dogs and remove them from public spaces as per Supreme Court directive",
-            "To train dogs for security services",
-            "To conduct dog shows and competitions"
-        ],
-        "cat": "Why"
     }
 ]
