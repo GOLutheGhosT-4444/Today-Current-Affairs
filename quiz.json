@@ -1,770 +1,830 @@
 [
     {
-        "q": "What was the reported expenditure on food imports from abroad, according to Tanguturi Prakasam, in 1951?",
-        "a": "\u20b91,000 crore",
+        "q": "What was the total penalty imposed on periodicals as of February 27, according to the Ministry of Information & Broadcasting?",
+        "a": "\u20b95.63 crore",
         "options": [
-            "\u20b9900 crore",
-            "\u20b9950 crore",
-            "\u20b91,000 crore",
-            "\u20b91,050 crore",
-            "\u20b91,100 crore"
+            "\u20b95.63 crore",
+            "\u20b95.50 crore",
+            "\u20b96.00 crore",
+            "\u20b94.95 crore",
+            "\u20b95.75 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the cost of establishing the oilpalm processing unit at Narmeta in Siddipet district?",
-        "a": "\u20b9300 crore",
+        "q": "How many publications across the country have been cancelled, as per the Ministry of Information & Broadcasting?",
+        "a": "88,315",
         "options": [
-            "\u20b9250 crore",
-            "\u20b9275 crore",
-            "\u20b9300 crore",
-            "\u20b9325 crore",
-            "\u20b9350 crore"
+            "88,315",
+            "85,000",
+            "90,000",
+            "87,500",
+            "89,100"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What will be the initial crushing capacity per hour of the Narmeta oilpalm processing unit?",
-        "a": "30 tonnes",
+        "q": "How many physical records of newspaper registrations, created under the repealed Press and Registration of Books (PRB) Act, 1867, have been digitized?",
+        "a": "More than 1.5 lakh",
         "options": [
-            "20 tonnes",
-            "25 tonnes",
-            "30 tonnes",
-            "35 tonnes",
-            "40 tonnes"
+            "More than 1.5 lakh",
+            "Around 1.2 lakh",
+            "Exactly 1.0 lakh",
+            "Less than 1.5 lakh",
+            "About 2.0 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total value of railway projects Prime Minister Narendra Modi will inaugurate and dedicate in Kochi?",
-        "a": "\u20b9142 crore",
+        "q": "How many specified authorities of districts have been onboarded on the Press Sewa Portal as part of the implementation of the Press and Registration of Periodicals (PRP) Act?",
+        "a": "780",
         "options": [
-            "\u20b9130 crore",
-            "\u20b9135 crore",
-            "\u20b9142 crore",
-            "\u20b9147 crore",
-            "\u20b9150 crore"
+            "780",
+            "750",
+            "800",
+            "770",
+            "790"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the cost of the Shoranur\u2013Nilambur road Railway Line Electrification Project?",
-        "a": "\u20b990 crore",
+        "q": "How many applications have been processed and certificates issued for relevant categories since March 1, 2024, through the Press Sewa Portal?",
+        "a": "11,081",
         "options": [
-            "\u20b980 crore",
-            "\u20b985 crore",
-            "\u20b990 crore",
-            "\u20b995 crore",
-            "\u20b9100 crore"
+            "11,081",
+            "10,500",
+            "12,000",
+            "11,500",
+            "10,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of J&K\u2019s Gross State Domestic Product (GSDP) does the tourism sector contribute?",
-        "a": "7%",
+        "q": "How many M.Tech seats annually are provided for Indian Navy personnel at SRMIST as per the MoU with the Indian Naval Academy?",
+        "a": "Up to eight",
         "options": [
-            "5%",
-            "6%",
-            "7%",
-            "8%",
-            "9%"
+            "Up to eight",
+            "Up to five",
+            "Up to ten",
+            "Up to seven",
+            "Up to nine"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many tourists visited Kashmir in 2025?",
-        "a": "11.16 lakh",
+        "q": "How many PhD seats annually are provided for Indian Navy personnel at SRMIST as per the MoU with the Indian Naval Academy?",
+        "a": "Up to six",
         "options": [
-            "10.16 lakh",
-            "10.66 lakh",
-            "11.16 lakh",
-            "11.66 lakh",
-            "12.16 lakh"
+            "Up to six",
+            "Up to three",
+            "Up to ten",
+            "Up to five",
+            "Up to seven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many tourists visited Kashmir in 2024?",
-        "a": "26 lakh",
+        "q": "What was the claimed 'historic' deal value for Reliance Industries Ltd (RIL) to invest in a new refinery in the U.S., as announced by Donald Trump?",
+        "a": "$300 billion",
         "options": [
-            "24 lakh",
-            "25 lakh",
-            "26 lakh",
-            "27 lakh",
-            "28 lakh"
+            "$300 billion",
+            "$250 billion",
+            "$350 billion",
+            "$280 billion",
+            "$320 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the record number of visitors hosted by the Indira Gandhi Memorial Tulip Garden in April 2025?",
-        "a": "8.25 lakh",
+        "q": "What was the closing price of RIL stock on BSE on March 11, 2026, when it closed 1.27% lower?",
+        "a": "\u20b91,391.10",
         "options": [
-            "7.75 lakh",
-            "8.00 lakh",
-            "8.25 lakh",
-            "8.50 lakh",
-            "8.75 lakh"
+            "\u20b91,391.10",
+            "\u20b91,400.00",
+            "\u20b91,380.50",
+            "\u20b91,395.25",
+            "\u20b91,388.90"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many tulip bulbs are there in the Indira Gandhi Memorial Tulip Garden?",
-        "a": "1.8 million",
+        "q": "According to J.P. Morgan's estimates, what is the hypothetical cost of a typical 30 million tonne refinery?",
+        "a": "$60 billion",
         "options": [
-            "1.6 million",
-            "1.7 million",
-            "1.8 million",
-            "1.9 million",
-            "2.0 million"
+            "$60 billion",
+            "$50 billion",
+            "$70 billion",
+            "$55 billion",
+            "$65 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the duration of maternity leave approved for women in government service in Maharashtra?",
-        "a": "180 days",
+        "q": "What could be RIL's implied equity investment in a new refinery project, assuming a 50% stake and 30-70% equity-debt funding mix, as estimated by J.P. Morgan?",
+        "a": "$10 billion",
         "options": [
-            "150 days",
-            "160 days",
-            "180 days",
-            "190 days",
-            "200 days"
+            "$10 billion",
+            "$8 billion",
+            "$12 billion",
+            "$9 billion",
+            "$11 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed quota for Scheduled Castes (SCs) in the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022?",
-        "a": "17%",
+        "q": "What was the subsidy provided by Indian Railways on passenger tickets in 2024-25?",
+        "a": "\u20b960,239 crore",
         "options": [
-            "15%",
-            "16%",
-            "17%",
-            "18%",
-            "19%"
+            "\u20b960,239 crore",
+            "\u20b955,000 crore",
+            "\u20b965,000 crore",
+            "\u20b958,500 crore",
+            "\u20b962,100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed quota for Scheduled Tribes (STs) in the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022?",
-        "a": "7%",
+        "q": "What was the average concession percentage provided for every passenger by Indian Railways in 2024-25?",
+        "a": "43%",
         "options": [
-            "5%",
-            "6%",
-            "7%",
-            "8%",
-            "9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the Supreme Court mandated cap on reservation that the Karnataka government is grappling with?",
-        "a": "50%",
-        "options": [
-            "45%",
-            "48%",
-            "50%",
-            "52%",
-            "55%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in allocation to the rural sector compared to the last budget, according to BJP MP K. Laxman?",
-        "a": "4%",
-        "options": [
-            "2%",
-            "3%",
-            "4%",
-            "5%",
-            "6%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in allocation to the rural employment scheme compared to the UPA regime, as stated by BJP MP K. Laxman?",
-        "a": "40%",
-        "options": [
-            "30%",
-            "35%",
+            "43%",
             "40%",
             "45%",
-            "50%"
+            "42%",
+            "44%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was the Chief Minister of West Bengal in 1977 and held the post for 23 years, unveiling the CPI manifesto in Kolkata?",
-        "a": "Jyoti Basu",
+        "q": "What is the estimated cost of the Marine Eco City project of the Kerala State Housing Board (KSHB) at Marine Drive?",
+        "a": "\u20b93,509 crore",
         "options": [
-            "B.T. Ranadive",
-            "E.M.S. Namboodiripad",
-            "Jyoti Basu",
-            "Harkishan Singh Surjeet",
-            "Indrajit Gupta"
+            "\u20b93,509 crore",
+            "\u20b93,000 crore",
+            "\u20b94,000 crore",
+            "\u20b93,450 crore",
+            "\u20b93,550 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total area of land owned by KSHB on which the Marine Eco City project will come up?",
+        "a": "17.9 acres",
+        "options": [
+            "17.9 acres",
+            "15.0 acres",
+            "20.0 acres",
+            "17.5 acres",
+            "18.2 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much land (in acres) is planned for the first phase of the Marine Eco City project, including a commercial-cum-residential complex and parking facility?",
+        "a": "3.16 acres",
+        "options": [
+            "3.16 acres",
+            "2.50 acres",
+            "3.50 acres",
+            "3.10 acres",
+            "3.25 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the capacity of the convention centre planned in the second phase of the Marine Eco City project?",
+        "a": "2,000 people",
+        "options": [
+            "2,000 people",
+            "1,500 people",
+            "2,500 people",
+            "1,800 people",
+            "2,200 people"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much land (in acres) is allocated for the convention centre and a five-star hotel complex in the second phase of the Marine Eco City project?",
+        "a": "2.6 acres",
+        "options": [
+            "2.6 acres",
+            "2.0 acres",
+            "3.0 acres",
+            "2.5 acres",
+            "2.7 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much did the Kerala government pay as the cost of land acquisition for the widening of NH 66?",
+        "a": "\u20b95,580.74 crore",
+        "options": [
+            "\u20b95,580.74 crore",
+            "\u20b95,000 crore",
+            "\u20b96,000 crore",
+            "\u20b95,400 crore",
+            "\u20b95,650 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What additional borrowing amount did the Kerala government request over the net borrowing ceiling for bearing 25% of the land acquisition cost of NH development?",
+        "a": "\u20b96,000 crore",
+        "options": [
+            "\u20b96,000 crore",
+            "\u20b95,500 crore",
+            "\u20b96,500 crore",
+            "\u20b95,800 crore",
+            "\u20b96,200 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many pucca homes sanctioned under PM-JANMAN were completed by the Ministry of Rural Development out of 4.7 lakh?",
+        "a": "2.6 lakh",
+        "options": [
+            "2.6 lakh",
+            "1.5 lakh",
+            "3.0 lakh",
+            "2.0 lakh",
+            "2.8 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many kilometers of connecting roads were built by the Ministry of Rural Development out of the sanctioned 7,317 km under PM-JANMAN?",
+        "a": "1,883 km",
+        "options": [
+            "1,883 km",
+            "1,500 km",
+            "2,000 km",
+            "1,750 km",
+            "1,900 km"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many hostels out of 500 sanctioned were completed by the Ministry of Education under the PM-JANMAN scheme?",
+        "a": "10",
+        "options": [
+            "10",
+            "20",
+            "50",
+            "5",
+            "15"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many villages were connected to a piped water supply by the Ministry of Jal Shakti against over 18,000 sanctioned under PM-JANMAN?",
+        "a": "8391 Villages",
+        "options": [
+            "8391 Villages",
+            "9000 Villages",
+            "7500 Villages",
+            "8500 Villages",
+            "8000 Villages"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Minister of State for Information and Broadcasting and Parliamentary Affairs who provided a written reply regarding periodicals in Lok Sabha?",
+        "a": "L. Murugan",
+        "options": [
+            "L. Murugan",
+            "Damodar Agrawal",
+            "Nara Lokesh",
+            "Mansukh Mandaviya",
+            "Ashwini Vaishnaw"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the long-standing member of Congress and former Chief Minister of the State who formed the Praja Party in May 1951?",
-        "a": "T. Prakasam",
+        "q": "Who is the Lok Sabha Member who asked the question regarding periodicals, to which MoS L. Murugan replied?",
+        "a": "Damodar Agrawal",
         "options": [
-            "K. Kamaraj",
-            "T. Prakasam",
-            "C. Subramaniam",
-            "M. Bhaktavatsalam",
-            "C. N. Annadurai"
+            "Damodar Agrawal",
+            "L. Murugan",
+            "Asaduddin Owaisi",
+            "P.C. Mohan",
+            "Nitin Gadkari"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who joined hands with Tanguturi Prakasam to set up the Kisan Mazdoor Praja Party (KMPP)?",
-        "a": "Acharya Kripalani",
+        "q": "Who is the IT & HRD Minister of Andhra Pradesh who spoke about evolving a WhatsApp governance model?",
+        "a": "Nara Lokesh",
         "options": [
-            "Sardar Patel",
-            "Acharya Kripalani",
-            "Maulana Azad",
-            "Govind Ballabh Pant",
-            "Pattabhi Sitaramayya"
+            "Nara Lokesh",
+            "Sandhya Devanathan",
+            "A. Revanth Reddy",
+            "Satya Kumar Yadav",
+            "Pinarayi Vijayan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who were mentioned as the guiding lights of the Socialist Party?",
-        "a": "Jayaprakash Narayan and Asoka Mehta",
+        "q": "Who is the Vice-President & Head of Meta India who asked questions to Nara Lokesh at the WhatsApp Citizen Engagement & Innovation Forum?",
+        "a": "Sandhya Devanathan",
         "options": [
-            "Jawaharlal Nehru and Subhas Chandra Bose",
-            "Sardar Patel and Rajendra Prasad",
-            "Jayaprakash Narayan and Asoka Mehta",
-            "V. K. Krishna Menon and K. D. Malaviya",
-            "Ram Manohar Lohia and George Fernandes"
+            "Sandhya Devanathan",
+            "Nara Lokesh",
+            "Mark Zuckerberg",
+            "Sheryl Sandberg",
+            "Prashant Kushwaha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the sitting Chief Minister of Madras who lost in the 1951-52 Assembly elections?",
-        "a": "P.S. Kumaraswami Raja",
+        "q": "Who earned the sobriquet 'aqua queen' and became the first Indian woman on the Paris Olympics jury in 2024?",
+        "a": "Bilquis Mir",
         "options": [
-            "C. Rajagopalachari",
-            "P.S. Kumaraswami Raja",
-            "O. P. Ramaswamy Reddiyar",
-            "K. Kamaraj",
-            "M. Bhaktavatsalam"
+            "Bilquis Mir",
+            "PV Sindhu",
+            "Mary Kom",
+            "Sania Mirza",
+            "Anjum Chopra"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the Congress representative who managed to become Chief Minister of the Madras Presidency after the hung assembly?",
-        "a": "C. Rajagopalachari",
+        "q": "Who is the President of the Indian Kayaking & Canoeing Association (IKCA) who wrote to the J&K Sports Minister regarding Bilquis Mir?",
+        "a": "Prashant Kushwaha",
         "options": [
-            "K. Kamaraj",
-            "C. Subramaniam",
-            "C. Rajagopalachari",
-            "M. Bhaktavatsalam",
-            "P. Subbarayan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current J&K Chief Minister set to inaugurate a spring festival at Srinagar\u2019s Badamwari?",
-        "a": "Omar Abdullah",
-        "options": [
-            "Mehbooba Mufti",
-            "Ghulam Nabi Azad",
+            "Prashant Kushwaha",
+            "Satish Sharma",
             "Omar Abdullah",
-            "Farooq Abdullah",
-            "Jitendra Singh"
+            "Justice Sanjay Dhar",
+            "Mansukh Mandaviya"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Director of Floriculture, Kashmir, quoted regarding the development of Badamwari garden?",
-        "a": "Mathoora Masoom",
+        "q": "Who is the Commissioner of Food Civil Supplies and Consumer Protection department in Madhya Pradesh who issued directions regarding LPG cylinder supply?",
+        "a": "Karamveer Sharma",
         "options": [
-            "Rifat Nazir",
-            "Mathoora Masoom",
-            "Sameena Begum",
-            "Sheeba Khan",
-            "Fozia Bhat"
+            "Karamveer Sharma",
+            "Govind Singh Rajpoot",
+            "P.C. Mohan",
+            "Nitin Gadkari",
+            "Hari Ranjan Rao"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Chhattisgarh Chief Minister who has spoken about the new proposed anti-religious conversion law?",
-        "a": "Vishnu Deo Sai",
+        "q": "Who is the Registrar of SRM Institute of Science and Technology (SRMIST) who signed an MoU with the Indian Naval Academy?",
+        "a": "S. Ponnusamy",
         "options": [
-            "Bhupesh Baghel",
-            "Raman Singh",
-            "Vishnu Deo Sai",
-            "Ajit Jogi",
-            "Brijmohan Agrawal"
+            "S. Ponnusamy",
+            "Captain G. Sowjanya Sree",
+            "Rear Admiral G. Rambabu",
+            "C. Muthamizhchelvan",
+            "Kunal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Deputy Chief Minister of Maharashtra who announced the \u2018Come Early, Go Early\u2019 scheme for women government employees?",
-        "a": "Sunetra Pawar",
+        "q": "Who is the Union Sports Minister who held a meeting with FMSCI to discuss reviving Formula One in India?",
+        "a": "Mansukh Mandaviya",
         "options": [
-            "Devendra Fadnavis",
-            "Ajit Pawar",
-            "Sunetra Pawar",
-            "Supriya Sule",
-            "Pankaja Munde"
+            "Mansukh Mandaviya",
+            "Hari Ranjan Rao",
+            "Kunal",
+            "Vicky Chandhok",
+            "Stefano Domenicali"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the author of the latest book, 'We, the People of India: Decoding a Nation\u2019s Symbols', launched in Chennai?",
-        "a": "T.M. Krishna",
+        "q": "Who is the BJP MP who chaired the Departmentally Related Standing Committee (DRSC) that tabled its report on the Tribal Affairs ministry?",
+        "a": "P.C. Mohan",
         "options": [
-            "Ramachandra Guha",
-            "Shashi Tharoor",
-            "T.M. Krishna",
-            "Arundhati Roy",
-            "Vikram Seth"
+            "P.C. Mohan",
+            "Damodar Agrawal",
+            "Asaduddin Owaisi",
+            "Nitin Gadkari",
+            "L. Murugan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who did T.M. Krishna confidently state did NOT design the national flag, contrary to common belief?",
-        "a": "Pingali Venkayya",
+        "q": "Who is the U.S. President who announced on social media about RIL investing in a new refinery in the U.S.?",
+        "a": "Donald Trump",
         "options": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Pingali Venkayya",
-            "B.R. Ambedkar",
-            "Sardar Vallabhbhai Patel"
+            "Donald Trump",
+            "Joe Biden",
+            "Barack Obama",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "According to T.M. Krishna, who repeatedly stated 'I created the flag' or 'I invented the flag'?",
-        "a": "Mahatma Gandhi",
+        "q": "Who is the Minister for Food and Civil Supplies in Tamil Nadu who chaired a meeting to review the LPG gas cylinder shortage?",
+        "a": "R. Sakkarapani",
         "options": [
-            "Sardar Patel",
-            "Jawaharlal Nehru",
-            "Mahatma Gandhi",
-            "Subhas Chandra Bose",
-            "Bhagat Singh"
+            "R. Sakkarapani",
+            "N. Muruganandam",
+            "A. Revanth Reddy",
+            "Komatireddy Venkat Reddy",
+            "Pinarayi Vijayan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Agriculture who announced the inauguration of the oilpalm processing unit in Siddipet district?",
-        "a": "Tummala Nageswara Rao",
+        "q": "Who is the Chief Minister of Telangana who directed officials to plan road development according to the Road Sector Policy - 2047?",
+        "a": "A. Revanth Reddy",
         "options": [
+            "A. Revanth Reddy",
+            "Komatireddy Venkat Reddy",
+            "Asaduddin Owaisi",
             "K. Chandrashekar Rao",
-            "S. Niranjan Reddy",
-            "Tummala Nageswara Rao",
-            "Gangula Kamalakar",
-            "Indrakaran Reddy"
+            "P. Rajeeve"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Raichur MP who wrote to the Minister for Social Justice and Empowerment regarding the inclusion of Karnataka's reservation act in the Ninth Schedule?",
-        "a": "G. Kumar Naik",
+        "q": "Who is the Railway Minister who stated that the Ministry of Railways does not consider ticket fares to be a trade secret?",
+        "a": "Ashwini Vaishnaw",
         "options": [
-            "Mallikarjun Kharge",
-            "D.K. Shivakumar",
-            "G. Kumar Naik",
-            "Basavaraj Bommai",
-            "Siddaramaiah"
+            "Ashwini Vaishnaw",
+            "Asaduddin Owaisi",
+            "Nitin Gadkari",
+            "L. Murugan",
+            "Mansukh Mandaviya"
         ],
         "cat": "Who"
     },
     {
-        "q": "What was the foremost issue of importance to people in the southern region during the first elections, according to the news?",
-        "a": "Creation of States on linguistic lines",
+        "q": "Who is the Chief Minister of Kerala who will lay the foundation stone for the Marine Eco City project?",
+        "a": "Pinarayi Vijayan",
         "options": [
-            "Economic development",
-            "National security",
-            "Creation of States on linguistic lines",
-            "Abolition of untouchability",
-            "Industrialization policy"
+            "Pinarayi Vijayan",
+            "K. Rajan",
+            "P. Rajeeve",
+            "V.K. Minimol",
+            "Mohamed Riyas"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "What was the primary objective of the CPI's call for a \"complete break\" with the British empire and nationalisation of British capital?",
-        "a": "To achieve genuine industrialisation and economic sovereignty",
-        "options": [
-            "To promote foreign investment",
-            "To establish strong international trade ties",
-            "To achieve genuine industrialisation and economic sovereignty",
-            "To encourage private enterprise",
-            "To maintain colonial ties"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the Socialist Party's main criticism of the Congress government, as reported by The Hindu on July 6, 1951?",
-        "a": "Inability to contain the problem of inflation",
-        "options": [
-            "Failure to manage foreign relations",
-            "Inability to contain the problem of inflation",
-            "Lack of support for agricultural reforms",
-            "Excessive military spending",
-            "Delayed democratic processes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the Jammu and Kashmir Government banking on to revive tourism in the Valley after the Pahalgam terror attack in 2025?",
-        "a": "Blooming gardens of tulips and almonds",
-        "options": [
-            "Increased security deployments",
-            "International tourism campaigns",
-            "Blooming gardens of tulips and almonds",
-            "New adventure sports facilities",
-            "Direct flight connectivity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the stated objective of Maharashtra's \u2018Come Early, Go Early\u2019 scheme for women government employees?",
-        "a": "To assist women in managing professional and domestic responsibilities",
-        "options": [
-            "To reduce overall office hours",
-            "To promote late-night work culture",
-            "To assist women in managing professional and domestic responsibilities",
-            "To encourage more men into government service",
-            "To increase productivity through longer work days"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of including the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of seats in Educational Institutions and of Appointments or posts in the Services under the State) Act, 2022, under the Ninth Schedule of the Constitution?",
-        "a": "To make it immune to judicial review",
-        "options": [
-            "To simplify the reservation process",
-            "To make it immune to judicial review",
-            "To increase the total number of posts",
-            "To reduce the existing reservation percentages",
-            "To comply with international standards"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary aim of granting international airport status to Madurai Airport?",
-        "a": "To strengthen the region\u2019s global connectivity and boost trade/tourism",
-        "options": [
-            "To reduce domestic flight delays",
-            "To strengthen the region\u2019s global connectivity and boost trade/tourism",
-            "To host more private jet services",
-            "To become a cargo-only airport",
-            "To attract more budget airlines"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the stated reason for the Rajasthan Municipalities (Amendment) Bill, 2026, to remove the disqualification of individuals with more than two children from contesting ULB elections?",
-        "a": "To ensure greater participation in the democratic process",
-        "options": [
-            "To align with Central government policies",
-            "To promote larger families",
-            "To ensure greater participation in the democratic process",
-            "To reduce the number of potential candidates",
-            "To encourage early marriage"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why was the amendment to Section 2(xix)(a) of the 2009 Act made, removing leprosy from the list of dangerous diseases?",
-        "a": "To remove discrimination against the leprosy affected or cured persons",
-        "options": [
-            "To recognize medical advancements",
-            "To remove discrimination against the leprosy affected or cured persons",
-            "To encourage travel for affected individuals",
-            "To reduce public health spending",
-            "To reclassify all diseases"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reason cited by T.M. Krishna for being moved to author his latest book about national symbols?",
-        "a": "To understand his relationship with the national anthem and the power of symbols",
-        "options": [
-            "To criticize the government",
-            "To explore changes in national anthem",
-            "To understand his relationship with the national anthem and the power of symbols",
-            "To document historical events",
-            "To propose new national symbols"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Where did the CPI announce its decision to contest the 1951-52 election?",
-        "a": "Chennai",
-        "options": [
-            "Kolkata",
-            "Mumbai",
-            "Chennai",
-            "Delhi",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the CPI's 7,000-word manifesto unveiled by Jyoti Basu?",
-        "a": "Kolkata",
-        "options": [
-            "Chennai",
-            "Mumbai",
-            "Kolkata",
-            "Delhi",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Asia\u2019s largest tulip garden is located in which city?",
-        "a": "Srinagar",
-        "options": [
-            "Jammu",
-            "Leh",
-            "Srinagar",
-            "Pahalgam",
-            "Gulmarg"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The new oilpalm processing unit, inaugurated by CM A. Revanth Reddy, is located in Narmeta, which district of Telangana?",
-        "a": "Siddipet",
-        "options": [
-            "Karimnagar",
-            "Medak",
-            "Siddipet",
-            "Warangal",
-            "Nalgonda"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city's airport recently granted international airport status by the Union Cabinet on March 10, 2026?",
-        "a": "Madurai",
-        "options": [
-            "Coimbatore",
-            "Trichy",
-            "Madurai",
-            "Salem",
-            "Thoothukudi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The initial sermon of Buddha, from where the Ashoka Pillar's meaning is derived, took place at which location?",
-        "a": "Sarnath",
-        "options": [
-            "Bodh Gaya",
-            "Lumbini",
-            "Sarnath",
-            "Kushinagar",
-            "Kapilavastu"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Cyber crimes against women are being addressed with systems established at which railway stations?",
-        "a": "Chhatrapati Shivaji Maharaj Terminus, Churchgate, Borivali",
-        "options": [
-            "Delhi, Mumbai Central, Howrah",
-            "Chennai Central, Bengaluru City, Hyderabad Deccan",
-            "Chhatrapati Shivaji Maharaj Terminus, Churchgate, Borivali",
-            "Secunderabad, Pune, Ahmedabad",
-            "Bhopal, Patna, Lucknow"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The \u2018Come Early, Go Early\u2019 scheme for women government employees has been introduced in which region of Maharashtra?",
-        "a": "Mumbai Metropolitan Region",
-        "options": [
-            "Nagpur Metropolitan Region",
-            "Pune Metropolitan Region",
-            "Mumbai Metropolitan Region",
-            "Nashik Metropolitan Region",
-            "Aurangabad Metropolitan Region"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The debate on the working of the Union Ministry of Rural Development took place in which legislative body on March 10, 2026?",
-        "a": "Rajya Sabha",
+        "q": "In which legislative body did MoS L. Murugan speak regarding penalties imposed on periodicals?",
+        "a": "Lok Sabha",
         "options": [
             "Lok Sabha",
             "Rajya Sabha",
-            "State Assembly",
-            "Gram Sabha",
-            "District Council"
+            "Vidhan Sabha",
+            "Parliament House",
+            "Supreme Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the Ashoka Pillar, chosen as a national symbol, originally constructed?",
-        "a": "Sarnath",
+        "q": "Where was the WhatsApp Citizen Engagement & Innovation Forum organised by Meta, where Nara Lokesh participated?",
+        "a": "New Delhi",
         "options": [
-            "Bodh Gaya",
-            "Lumbini",
-            "Sarnath",
-            "Kushinagar",
-            "Vaishali"
+            "New Delhi",
+            "Hyderabad",
+            "Bengaluru",
+            "Chennai",
+            "Mumbai"
         ],
         "cat": "Where"
     },
     {
-        "q": "When were the first elections held after India became a Republic with universal adult suffrage?",
-        "a": "1951-52",
+        "q": "Where did Bilquis Mir serve as the Chief Finish Line Judge at the 2025 Asian Championship?",
+        "a": "Nanjing, China",
         "options": [
-            "1947-48",
-            "1949-50",
-            "1951-52",
-            "1953-54",
-            "1955-56"
+            "Nanjing, China",
+            "Paris, France",
+            "Srinagar, J&K",
+            "New Delhi, India",
+            "Ahmedabad, India"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where is the Indian Naval Academy located, which signed an MoU with SRMIST?",
+        "a": "Ezhimala, Kerala",
+        "options": [
+            "Ezhimala, Kerala",
+            "Chennai, Tamil Nadu",
+            "Kochi, Kerala",
+            "Goa",
+            "Visakhapatnam, Andhra Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which circuit in Greater Noida hosted F1 races from 2011 to 2013?",
+        "a": "Buddh International Circuit",
+        "options": [
+            "Buddh International Circuit",
+            "Madras Motor Race Track",
+            "Kari Motor Speedway",
+            "International Circuit of India",
+            "Delhi Raceway"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city has won the 2030 Commonwealth Games hosting rights and is in the race for the 2036 Olympics?",
+        "a": "Ahmedabad",
+        "options": [
+            "Ahmedabad",
+            "New Delhi",
+            "Mumbai",
+            "Bengaluru",
+            "Chennai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did Donald Trump claim RIL would construct the first new refinery in the U.S. in 50 years?",
+        "a": "Brownsville, Texas",
+        "options": [
+            "Brownsville, Texas",
+            "Houston, Texas",
+            "New York, New York",
+            "Los Angeles, California",
+            "Miami, Florida"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city was a meeting chaired by Minister R. Sakkarapani and Chief Secretary N. Muruganandam to review the LPG gas cylinder shortage in Tamil Nadu?",
+        "a": "Chennai",
+        "options": [
+            "Chennai",
+            "Coimbatore",
+            "Madurai",
+            "Bengaluru",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where will the Marine Eco City project of the Kerala State Housing Board (KSHB) be launched?",
+        "a": "Marine Drive, Kochi",
+        "options": [
+            "Marine Drive, Kochi",
+            "Bolgatty, Kochi",
+            "Ezhimala, Kerala",
+            "Thiruvananthapuram, Kerala",
+            "Kozhikode, Kerala"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where were the National Highway (NH) 66 development projects inaugurated by Prime Minister Narendra Modi, which caused controversy regarding the PWD Minister's exclusion?",
+        "a": "Kochi",
+        "options": [
+            "Kochi",
+            "Thiruvananthapuram",
+            "Kozhikode",
+            "Palakkad",
+            "Alappuzha"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "As of which date was \u20b95.63 crore imposed as penalty on periodicals, as stated by the Ministry of Information & Broadcasting?",
+        "a": "February 27",
+        "options": [
+            "February 27",
+            "March 11",
+            "March 1",
+            "January 15",
+            "April 30"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did The Hindu report A.K. Gopalan's announcement of CPI's decision to contest the election?",
-        "a": "June 12, 1951",
+        "q": "On which date did MoS L. Murugan state in Lok Sabha that applications for registration of periodicals are processed digitally?",
+        "a": "March 11, 2026",
         "options": [
-            "June 1, 1951",
-            "June 5, 1951",
-            "June 12, 1951",
-            "June 18, 1951",
-            "June 25, 1951"
+            "March 11, 2026",
+            "February 27, 2026",
+            "March 1, 2024",
+            "January 1, 2025",
+            "April 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the Indira Gandhi Memorial Tulip Garden in Srinagar scheduled to open for visitors?",
-        "a": "March 16, 2026",
+        "q": "Since when have 11,081 applications been processed and certificates issued through the Press Sewa Portal?",
+        "a": "March 1, 2024",
         "options": [
-            "March 10, 2026",
-            "March 12, 2026",
-            "March 16, 2026",
-            "March 20, 2026",
-            "March 24, 2026"
+            "March 1, 2024",
+            "February 27, 2026",
+            "March 11, 2026",
+            "January 1, 2023",
+            "April 1, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the ban on the CPI lifted in many parts of South India, just before the first elections?",
-        "a": "Just before the 1951-52 elections",
+        "q": "In which year did Bilquis Mir become the first Indian woman on the Paris Olympics jury?",
+        "a": "2024",
         "options": [
-            "Shortly after 1947",
-            "Just before the 1951-52 elections",
-            "In the mid-1950s",
-            "After 1960",
-            "During the Emergency period"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Praja Party formed by Tanguturi Prakasam?",
-        "a": "May 1951",
-        "options": [
-            "January 1951",
-            "March 1951",
-            "May 1951",
-            "July 1951",
-            "September 1951"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Pahalgam terror attack, which caused a major setback to J&K tourism, occur?",
-        "a": "2025",
-        "options": [
+            "2024",
             "2023",
+            "2025",
+            "2022",
+            "2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Indian Kayaking & Canoeing Association (IKCA) write to the J&K Sports Minister to spare Ms. Bilquis Mir as coach for the national team?",
+        "a": "February 3, 2026",
+        "options": [
+            "February 3, 2026",
+            "August 21, 2025",
+            "July 2025",
+            "2023",
+            "March 11, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year is the Asian Games for which Bilquis Mir was requested to coach the national team?",
+        "a": "2026",
+        "options": [
+            "2026",
             "2024",
             "2025",
-            "2026",
-            "2022"
+            "2027",
+            "2028"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Chhattisgarh Cabinet approve the draft of a new anti-religious conversion law?",
-        "a": "March 10, 2026",
+        "q": "In which year did the J&K High Court quash the FIR against Bilquis Mir?",
+        "a": "July 2025",
         "options": [
-            "March 1, 2026",
-            "March 5, 2026",
-            "March 10, 2026",
-            "March 15, 2026",
-            "March 20, 2026"
+            "July 2025",
+            "2023",
+            "2024",
+            "August 2025",
+            "June 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On what occasion was the \u2018Come Early, Go Early\u2019 scheme announced for women government employees in Maharashtra?",
-        "a": "International Women\u2019s Day",
+        "q": "On which date did the Madhya Pradesh government issue directions to district collectors regarding LPG cylinder supply arrangements?",
+        "a": "March 10",
         "options": [
-            "Republic Day",
-            "Independence Day",
-            "International Women\u2019s Day",
-            "Maharashtra Day",
-            "Labour Day"
+            "March 10",
+            "March 11",
+            "February 27",
+            "April 1",
+            "March 5"
         ],
         "cat": "When"
     },
     {
-        "q": "The 'Operation Muskan' initiative spans between July 2015 and which month/year mentioned in the text?",
-        "a": "February 2026",
+        "q": "Between which years did the Buddh International Circuit in Greater Noida host Formula One races?",
+        "a": "2011 to 2013",
         "options": [
-            "December 2025",
-            "January 2026",
-            "February 2026",
-            "March 2026",
-            "April 2026"
+            "2011 to 2013",
+            "2009 to 2011",
+            "2013 to 2015",
+            "2010 to 2012",
+            "2012 to 2014"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the special cabinet meeting scheduled in Karnataka to discuss the internal reservation issue in the 15% quota for Scheduled Castes?",
-        "a": "March 27",
+        "q": "On which date did the Departmentally Related Standing Committee (DRSC), chaired by BJP MP P.C. Mohan, table its report on the Tribal Affairs ministry?",
+        "a": "March 11, 2026",
         "options": [
-            "March 20",
-            "March 22",
-            "March 27",
-            "March 29",
-            "April 1"
+            "March 11, 2026",
+            "February 27, 2026",
+            "March 1, 2024",
+            "December 2024",
+            "January 29, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the restriction on individuals with more than two children contesting ULB elections first introduced in Rajasthan?",
-        "a": "1995",
+        "q": "In which financial year did the Indian Railways provide a subsidy of \u20b960,239 crore on passenger tickets?",
+        "a": "2024-25",
         "options": [
-            "1985",
-            "1990",
-            "1995",
-            "2000",
-            "2005"
+            "2024-25",
+            "2023-24",
+            "2025-26",
+            "2022-23",
+            "2021-22"
         ],
         "cat": "When"
     },
     {
-        "q": "When did T.M. Krishna state he was deeply moved by the national anthem, triggering his book on symbols?",
-        "a": "2019",
+        "q": "In which month and year was the MoU for the Marine Eco City project signed between KSHB and NBCC?",
+        "a": "September 2023",
         "options": [
-            "2017",
-            "2018",
-            "2019",
-            "2020",
-            "2021"
+            "September 2023",
+            "January 2024",
+            "March 2025",
+            "August 2022",
+            "November 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Jyoti Basu become Chief Minister of West Bengal, a post he held for 23 years?",
-        "a": "1977",
+        "q": "What was the primary reason cited for the abrupt end of Formula One races at the Buddh International Circuit from 2011 to 2013?",
+        "a": "Taxation issues",
         "options": [
-            "1975",
-            "1976",
-            "1977",
-            "1978",
-            "1979"
+            "Taxation issues",
+            "Lack of spectator interest",
+            "Infrastructure problems",
+            "Environmental concerns",
+            "Funding withdrawal"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main purpose of the PM-JANMAN scheme?",
+        "a": "To target Particularly Vulnerable Tribal Groups within the Scheduled Tribes",
+        "options": [
+            "To target Particularly Vulnerable Tribal Groups within the Scheduled Tribes",
+            "To promote urban development",
+            "To provide universal education",
+            "To improve road connectivity only",
+            "To offer healthcare services to all citizens"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the Andhra Pradesh data lake project as mentioned by Nara Lokesh?",
+        "a": "It ensured the integration of citizen data.",
+        "options": [
+            "It ensured the integration of citizen data.",
+            "It stores meteorological data.",
+            "It processes financial transactions.",
+            "It manages agricultural records.",
+            "It monitors traffic flow."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why has the Madhya Pradesh Government issued directions to district collectors regarding LPG cylinder supply arrangements?",
+        "a": "To prevent hoarding or black marketing in view of supply shortage",
+        "options": [
+            "To prevent hoarding or black marketing in view of supply shortage",
+            "To increase LPG prices",
+            "To encourage industrial use of LPG",
+            "To promote alternative fuels",
+            "To restrict domestic consumption only"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary objective of the MoU signed between SRMIST and the Indian Naval Academy, Ezhimala?",
+        "a": "To collaborate on technical education, research, faculty development, and academic exchange.",
+        "options": [
+            "To collaborate on technical education, research, faculty development, and academic exchange.",
+            "To establish a new naval base.",
+            "To recruit students for the Navy.",
+            "To develop new weapon systems.",
+            "To organize sports events."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the stated purpose of the Telangana Chief Minister's directive for the Roads and Buildings department officials regarding road development?",
+        "a": "To develop roads across the State in accordance with the Road Sector Policy - 2047 and make Hyderabad traffic problem free.",
+        "options": [
+            "To develop roads across the State in accordance with the Road Sector Policy - 2047 and make Hyderabad traffic problem free.",
+            "To construct new airports.",
+            "To focus solely on national highways.",
+            "To reduce public transport usage.",
+            "To introduce toll gates on all roads."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the target year for Telangana's Road Sector Policy?",
+        "a": "2047",
+        "options": [
+            "2047",
+            "2030",
+            "2025",
+            "2035",
+            "2040"
         ],
         "cat": "When"
+    },
+    {
+        "q": "What was the reason behind the anonymous complaint lodged with the Anti-Corruption Bureau (ACB) against Bilquis Mir in 2023?",
+        "a": "Questioning if she possessed a Bachelors in Physical Education degree required for a PET position.",
+        "options": [
+            "Questioning if she possessed a Bachelors in Physical Education degree required for a PET position.",
+            "Accusations of financial mismanagement.",
+            "Charges of coaching without proper certification.",
+            "Allegations of promoting certain athletes unfairly.",
+            "Complaint about her performance as an Olympic judge."
+        ],
+        "cat": "Why"
     }
 ]
