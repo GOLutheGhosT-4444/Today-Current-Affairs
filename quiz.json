@@ -1,782 +1,722 @@
 [
     {
-        "q": "How many Lok Sabha MPs signed the notice seeking the removal of the Chief Election Commissioner?",
-        "a": "130",
+        "q": "What is the projected value of the global Animation and VFX industry by 2030?",
+        "a": "$300 billion",
         "options": [
-            "120",
-            "130",
-            "140",
-            "110",
-            "150"
+            "$290 billion",
+            "$310 billion",
+            "$300 billion",
+            "$305 billion",
+            "$295 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Rajya Sabha MPs signed the notice seeking the removal of the Chief Election Commissioner?",
-        "a": "63",
+        "q": "What was the value of India's Animation and VFX industry in 2022?",
+        "a": "$1 billion",
         "options": [
-            "60",
-            "63",
-            "66",
-            "59",
-            "70"
+            "$1.1 billion",
+            "$0.9 billion",
+            "$1 billion",
+            "$1.05 billion",
+            "$0.95 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum number of Lok Sabha MPs required to sign a notice for the removal of the CEC, according to rules?",
-        "a": "100",
+        "q": "What is the projected value of India's Animation and VFX industry by 2030?",
+        "a": "$6 billion",
         "options": [
-            "90",
-            "100",
-            "110",
-            "80",
-            "120"
+            "$5.5 billion",
+            "$6.5 billion",
+            "$6 billion",
+            "$5.8 billion",
+            "$6.2 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum number of Rajya Sabha MPs required to sign a notice for the removal of the CEC, according to rules?",
-        "a": "50",
+        "q": "What percentage of India's AVGC-XR market does Tamil Nadu aim to capture?",
+        "a": "20%",
         "options": [
-            "45",
-            "50",
-            "55",
-            "40",
-            "60"
+            "18%",
+            "22%",
+            "20%",
+            "19%",
+            "21%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the Chief Election Commissioner whose removal is being sought by the MPs?",
-        "a": "Gyanesh Kumar",
+        "q": "How many jobs is the AVGC-XR sector expected to create in Tamil Nadu?",
+        "a": "2 lakh",
         "options": [
-            "Sunil Arora",
-            "Rajiv Kumar",
-            "Gyanesh Kumar",
-            "Anup Chandra Pandey",
-            "Sushil Chandra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is a key significance of the notice seeking the CEC's removal, as mentioned in the news?",
-        "a": "It is the first time such a notice has been given seeking the removal of the CEC.",
-        "options": [
-            "It signals a new political alliance among parties.",
-            "It highlights a major constitutional amendment proposal.",
-            "It is the first time such a notice has been given seeking the removal of the CEC.",
-            "It guarantees the immediate resignation of the CEC.",
-            "It automatically dissolves the election commission."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On which date was the notice seeking the CEC's removal likely to be submitted?",
-        "a": "Friday, March 13, 2026",
-        "options": [
-            "Wednesday, March 11, 2026",
-            "Thursday, March 12, 2026",
-            "Friday, March 13, 2026",
-            "Saturday, March 14, 2026",
-            "Monday, March 16, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which House did Opposition leaders seek a discussion on the working of ministries like External Affairs or Commerce and Industry?",
-        "a": "Rajya Sabha",
-        "options": [
-            "Lok Sabha",
-            "Rajya Sabha",
-            "State Assembly",
-            "Parliament Annexe",
-            "Central Hall"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the stated purpose of the detailed scrutiny of Ministries done in the Rajya Sabha during the Budget session?",
-        "a": "To discuss the \u201cworking\u201d of the Ministries",
-        "options": [
-            "To vote on Demands for Grants.",
-            "To introduce new legislative bills.",
-            "To discuss the \u201cworking\u201d of the Ministries.",
-            "To approve international treaties.",
-            "To elect new parliamentary committee members."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the news, which Indian city today has India\u2019s second-largest metro network?",
-        "a": "Bengaluru",
-        "options": [
-            "Delhi",
-            "Mumbai",
-            "Bengaluru",
-            "Hyderabad",
-            "Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the approximate operational track length of Bengaluru's metro network?",
-        "a": "96 km",
-        "options": [
-            "88 km",
-            "96 km",
-            "104 km",
-            "92 km",
-            "100 km"
+            "1.9 lakh",
+            "2.1 lakh",
+            "2 lakh",
+            "1.95 lakh",
+            "2.05 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many operational stations does Bengaluru's metro network have?",
-        "a": "83",
+        "q": "What is the annual revenue generated by Tamil cinema?",
+        "a": "$420 million",
         "options": [
-            "79",
-            "83",
-            "87",
-            "81",
-            "90"
+            "$410 million",
+            "$430 million",
+            "$420 million",
+            "$415 million",
+            "$425 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total amount already spent on building Bengaluru's metro infrastructure across multiple phases?",
-        "a": "\u20b967,460 crore",
+        "q": "How many AVGC-XR startups does Tamil Nadu aim to create by 2030?",
+        "a": "200",
         "options": [
-            "\u20b965,000 crore",
-            "\u20b967,460 crore",
-            "\u20b970,000 crore",
-            "\u20b962,500 crore",
-            "\u20b969,100 crore"
+            "190",
+            "210",
+            "200",
+            "195",
+            "205"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which Indian city today has India\u2019s most expensive metro system, yet remains among the most underutilised, as per experts?",
-        "a": "Bengaluru",
+        "q": "What was the total investment attracted in Punjab over the last four years, as stated by Arvind Kejriwal?",
+        "a": "\u20b91.50 lakh crore",
         "options": [
-            "Mumbai",
-            "Delhi",
-            "Bengaluru",
-            "Hyderabad",
-            "Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What was the initial sanctioned cost for Phase 1 of Namma Metro in 2005?",
-        "a": "\u20b96,395 crore",
-        "options": [
-            "\u20b96,000 crore",
-            "\u20b96,395 crore",
-            "\u20b96,500 crore",
-            "\u20b95,995 crore",
-            "\u20b97,000 crore"
+            "\u20b91.40 lakh crore",
+            "\u20b91.60 lakh crore",
+            "\u20b91.50 lakh crore",
+            "\u20b91.45 lakh crore",
+            "\u20b91.55 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the final expenditure for Phase 1 of Namma Metro by its completion in 2017?",
-        "a": "\u20b914,405 crore",
+        "q": "What was the investment secured on the first day of the Progressive Punjab Investors Summit 2026?",
+        "a": "\u20b910,000 crore",
         "options": [
-            "\u20b913,500 crore",
-            "\u20b914,405 crore",
-            "\u20b915,000 crore",
-            "\u20b914,000 crore",
-            "\u20b914,800 crore"
+            "\u20b99,500 crore",
+            "\u20b910,500 crore",
+            "\u20b910,000 crore",
+            "\u20b99,800 crore",
+            "\u20b910,200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In which year was Phase 1 of Namma Metro initially sanctioned?",
-        "a": "2005",
+        "q": "What was the cost of completing the work for the new District Munsif and Judicial Magistrate Court at Chennangkuppam?",
+        "a": "\u20b98.90 lakh",
         "options": [
-            "2003",
-            "2005",
-            "2007",
-            "2004",
-            "2006"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was Phase 1 of Namma Metro completed?",
-        "a": "2017",
-        "options": [
-            "2015",
-            "2017",
-            "2019",
-            "2016",
-            "2018"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the original budget for Phase 2 of Namma Metro?",
-        "a": "\u20b926,405 crore",
-        "options": [
-            "\u20b925,000 crore",
-            "\u20b926,405 crore",
-            "\u20b927,500 crore",
-            "\u20b926,000 crore",
-            "\u20b928,000 crore"
+            "\u20b98.80 lakh",
+            "\u20b99.00 lakh",
+            "\u20b98.90 lakh",
+            "\u20b98.85 lakh",
+            "\u20b98.95 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the increased cost of Phase 2 of Namma Metro?",
-        "a": "\u20b940,425 crore",
+        "q": "How many pending cases are currently before the courts related to the Chennangkuppam facility?",
+        "a": "More than 1,500",
         "options": [
-            "\u20b938,000 crore",
-            "\u20b940,425 crore",
-            "\u20b942,000 crore",
-            "\u20b939,500 crore",
-            "\u20b941,000 crore"
+            "More than 1,400",
+            "More than 1,600",
+            "More than 1,500",
+            "More than 1,450",
+            "More than 1,550"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many coaches were procured for Phase 1 of Namma Metro?",
-        "a": "150",
+        "q": "What is the cost of the exclusive lounge for construction workers inaugurated by Udhayanidhi Stalin in Tirupattur district?",
+        "a": "\u20b934.29 lakh",
         "options": [
-            "120",
-            "150",
-            "180",
-            "135",
-            "160"
+            "\u20b934.19 lakh",
+            "\u20b934.39 lakh",
+            "\u20b934.29 lakh",
+            "\u20b934.25 lakh",
+            "\u20b934.33 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the cost of procuring coaches for Phase 1 of Namma Metro?",
-        "a": "\u20b91,600 crore",
+        "q": "What is the cost of the Village Knowledge Centre (VKC) at Keel Mittalam village, inaugurated by Udhayanidhi Stalin?",
+        "a": "\u20b91.27 crore",
         "options": [
-            "\u20b91,500 crore",
-            "\u20b91,600 crore",
-            "\u20b91,700 crore",
-            "\u20b91,550 crore",
-            "\u20b91,650 crore"
+            "\u20b91.25 crore",
+            "\u20b91.29 crore",
+            "\u20b91.27 crore",
+            "\u20b91.26 crore",
+            "\u20b91.28 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many coaches will be required for Phase 3 of Namma Metro?",
-        "a": "318",
+        "q": "How many construction workers are registered with the Tamil Nadu Construction Workers Welfare Board in Tirupattur district?",
+        "a": "More than 1.18 lakh",
         "options": [
-            "300",
-            "318",
-            "330",
-            "310",
-            "325"
+            "More than 1.17 lakh",
+            "More than 1.19 lakh",
+            "More than 1.18 lakh",
+            "More than 1.175 lakh",
+            "More than 1.185 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated cost of procurement for Phase 3 coaches for Namma Metro?",
-        "a": "Could exceed \u20b93,000 crore",
+        "q": "What is the minimum percentage of real-time production of pandemic products manufacturers are required to reserve for WHO (with at least 10% donated)?",
+        "a": "10%",
         "options": [
-            "Up to \u20b92,500 crore",
-            "Exactly \u20b93,000 crore",
-            "Could exceed \u20b93,000 crore",
-            "Less than \u20b92,000 crore",
-            "Exactly \u20b92,800 crore"
+            "8%",
+            "12%",
+            "10%",
+            "9%",
+            "11%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which international organization is mentioned as a financial assistance provider for Bengaluru Metro?",
-        "a": "Japan International Cooperation Agency (JICA)",
+        "q": "How many Lok Sabha members were suspended, leading to the Opposition delegation's request for revocation?",
+        "a": "Eight",
         "options": [
-            "World Bank",
-            "International Monetary Fund",
-            "Japan International Cooperation Agency (JICA)",
-            "United Nations Development Programme",
-            "African Development Bank"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which year did the construction of Namma Metro begin?",
-        "a": "2007",
-        "options": [
-            "2005",
-            "2007",
-            "2009",
-            "2006",
-            "2008"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the first operational stretch of Namma Metro open?",
-        "a": "2011",
-        "options": [
-            "2009",
-            "2011",
-            "2013",
-            "2010",
-            "2012"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was the Purple Line extended to Whitefield?",
-        "a": "2023",
-        "options": [
-            "2021",
-            "2023",
-            "2025",
-            "2022",
-            "2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the daily ridership increase observed after the Purple Line extension to Whitefield?",
-        "a": "2.5 to 3 lakh passengers",
-        "options": [
-            "1.5 to 2 lakh passengers",
-            "2.5 to 3 lakh passengers",
-            "3.5 to 4 lakh passengers",
-            "1 to 1.5 lakh passengers",
-            "2 to 2.5 lakh passengers"
+            "Seven",
+            "Nine",
+            "Eight",
+            "Six",
+            "Ten"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In which month and year did the Yellow Line connecting Electronics City open?",
-        "a": "August 2025",
+        "q": "How many government jobs are vacant in West Bengal, according to Sangrami Joutho Mancha?",
+        "a": "6 lakh",
         "options": [
-            "June 2024",
-            "July 2025",
-            "August 2025",
-            "September 2026",
-            "May 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What daily ridership did the Yellow Line connecting Electronics City cross within weeks of opening?",
-        "a": "60,000+ passengers",
-        "options": [
-            "40,000+ passengers",
-            "50,000+ passengers",
-            "60,000+ passengers",
-            "70,000+ passengers",
-            "80,000+ passengers"
+            "5.5 lakh",
+            "6.5 lakh",
+            "6 lakh",
+            "5.8 lakh",
+            "6.2 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By which year is the Outer Ring Road (ORR) corridor expected to receive operational metro connectivity?",
-        "a": "2027",
+        "q": "What is the cost of the lounge for workers inaugurated by Vellore Collector V.R. Subbulaxmi?",
+        "a": "\u20b937.50 lakh",
         "options": [
-            "2025",
-            "2027",
-            "2029",
-            "2026",
-            "2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the founder of the citizen group Citizens for Citizens (C4C)?",
-        "a": "Rajkumar Dugar",
-        "options": [
-            "M.N. Srihari",
-            "Krishna Prasad",
-            "Rajkumar Dugar",
-            "Hastha Shetty",
-            "Dheeraj Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "According to the latest TomTom Traffic Index, which city was ranked among the most congested urban areas in the world?",
-        "a": "Bengaluru",
-        "options": [
-            "Mumbai",
-            "Delhi",
-            "Bengaluru",
-            "Hyderabad",
-            "Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What was the number of registered vehicles in Bengaluru in 2020\u201321?",
-        "a": "Around one crore",
-        "options": [
-            "Around 90 lakh",
-            "Around one crore",
-            "Around 1.1 crore",
-            "Around 95 lakh",
-            "Around 1.05 crore"
+            "\u20b937.40 lakh",
+            "\u20b937.60 lakh",
+            "\u20b937.50 lakh",
+            "\u20b937.45 lakh",
+            "\u20b937.55 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the number of registered vehicles in Bengaluru by April 2025?",
-        "a": "Nearly 1.23 crore",
+        "q": "How many assistant professors were given appointment letters by the Chief Minister of Tamil Nadu on Friday?",
+        "a": "11",
         "options": [
-            "Nearly 1.15 crore",
-            "Nearly 1.23 crore",
-            "Nearly 1.30 crore",
-            "Nearly 1.20 crore",
-            "Nearly 1.25 crore"
+            "10",
+            "12",
+            "11",
+            "9",
+            "13"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Chief Minister of Punjab?",
-        "a": "Bhagwant Singh Mann",
+        "q": "How many candidates appeared for the recruitment examination for Assistant Professors in Tamil Nadu in December 2025?",
+        "a": "42,064",
         "options": [
-            "Charanjit Singh Channi",
+            "41,964",
+            "42,164",
+            "42,064",
+            "42,000",
+            "42,100"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of outstanding DA did the Supreme Court order the West Bengal government to pay by March 31?",
+        "a": "25%",
+        "options": [
+            "20%",
+            "30%",
+            "25%",
+            "22%",
+            "28%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many Assembly seats in West Bengal are reserved for Scheduled Caste communities?",
+        "a": "68",
+        "options": [
+            "65",
+            "70",
+            "68",
+            "67",
+            "69"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many Assembly seats in West Bengal are reserved for Scheduled Tribes communities?",
+        "a": "16",
+        "options": [
+            "15",
+            "17",
+            "16",
+            "14",
+            "18"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many services are accessible through the Tamil Nadu Single Window Portal operated by Guidance Tamil Nadu?",
+        "a": "Over 200",
+        "options": [
+            "Over 150",
+            "Over 250",
+            "Over 200",
+            "Over 190",
+            "Over 210"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many distinct categories of Assistant Professors received appointment letters from the Tamil Nadu CM?",
+        "a": "Five",
+        "options": [
+            "Four",
+            "Six",
+            "Five",
+            "Three",
+            "Seven"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current Deputy Chief Minister of Tamil Nadu, who inaugurated completed works in Tirupattur district?",
+        "a": "Udhayanidhi Stalin",
+        "options": [
+            "M.K. Stalin",
+            "K. Palaniswami",
+            "Udhayanidhi Stalin",
+            "O. Panneerselvam",
+            "T.M. Anbarasan"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who signed the MoU on behalf of the Tamil Nadu State Council for Science and Technology (TNSCST) with ICMR?",
+        "a": "S. Vincent",
+        "options": [
+            "Rajiv Bahl",
+            "S. Vincent",
+            "M.K. Stalin",
+            "V. Thangaraj",
+            "S. Gnanavel"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who is the Secretary of the Department of Health Research and Director General of ICMR?",
+        "a": "Rajiv Bahl",
+        "options": [
+            "S. Vincent",
+            "Rajiv Bahl",
+            "M.K. Stalin",
+            "V. Thangaraj",
+            "S. Gnanavel"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who is the current Chief Minister of West Bengal, who announced the formation of cultural and development boards?",
+        "a": "Mamata Banerjee",
+        "options": [
+            "Narendra Modi",
+            "Mamata Banerjee",
+            "Bhagwant Mann",
+            "Arvind Kejriwal",
+            "Rahul Gandhi"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who is the current Chief Minister of Punjab, who stated that the state secured investments worth more than \u20b910,000 crore?",
+        "a": "Bhagwant Mann",
+        "options": [
+            "Arvind Kejriwal",
             "Sukhbir Singh Badal",
-            "Bhagwant Singh Mann",
-            "Capt. Amarinder Singh",
+            "Bhagwant Mann",
+            "Amarinder Singh",
             "Navjot Singh Sidhu"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "What reason did Punjab CM Bhagwant Mann attribute to the rumors of an LPG shortage in India?",
-        "a": "Tensions in Gulf countries",
+        "q": "Who is the Parliamentary Affairs Minister mentioned in the news regarding the suspension of Lok Sabha members?",
+        "a": "Kiren Rijiju",
         "options": [
-            "Domestic production issues",
-            "Increased seasonal demand",
-            "Tensions in Gulf countries",
-            "Local supply chain disruptions",
-            "Environmental regulations on gas production"
+            "Om Birla",
+            "Rahul Gandhi",
+            "Kiren Rijiju",
+            "K.C. Venugopal",
+            "Amit Shah"
         ],
-        "cat": "Why"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who is the General Secretary of Sree Narayana Dharma Paripalana (SNDP) Yogam, whose director board was disqualified by the Kerala High Court?",
-        "a": "Vellappally Natesan",
+        "q": "Who inaugurated the new District Munsif and Judicial Magistrate Court at Chennangkuppam along with Justice G. Jayachandran?",
+        "a": "Justice K. Murali Shankar",
         "options": [
-            "Pinarayi Vijayan",
-            "V.S. Achuthanandan",
-            "S. Chandrasenan",
-            "Vellappally Natesan",
-            "K.K. Mahesan"
+            "V.R. Subbulaxmi",
+            "N.U. Sivaraman",
+            "Justice K. Murali Shankar",
+            "M. Elavarasan",
+            "S. Thilagarani"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which High Court disqualified the director board of Sree Narayana Dharma Paripalana (SNDP) Yogam?",
-        "a": "Kerala High Court",
+        "q": "Who is the State president of the Tamil Nadu All Government College UGC Qualified Guest Lecturers' Association, who raised concerns about seniority?",
+        "a": "V. Thangaraj",
         "options": [
-            "Madras High Court",
-            "Karnataka High Court",
-            "Kerala High Court",
-            "Bombay High Court",
-            "Calcutta High Court"
+            "M.K. Stalin",
+            "V. Thangaraj",
+            "S. Gnanavel",
+            "K. Sivasoundaravalli",
+            "V.R. Subbulaxmi"
         ],
-        "cat": "Where"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "What was the alleged amount of misappropriation in the SNDP's microfinance operations case that triggered the High Court's intervention?",
-        "a": "\u20b915 crore",
+        "q": "Who is the current President of India, who highlighted a breach of protocol in Darjeeling regarding the development of Scheduled Tribes?",
+        "a": "Droupadi Murmu",
         "options": [
-            "\u20b910 crore",
-            "\u20b915 crore",
-            "\u20b920 crore",
-            "\u20b912 crore",
-            "\u20b918 crore"
+            "Narendra Modi",
+            "Mamata Banerjee",
+            "Droupadi Murmu",
+            "Ram Nath Kovind",
+            "Venkaiah Naidu"
         ],
-        "cat": "Amount"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "In which year was the case alleging misappropriation in SNDP's microfinance operations registered?",
-        "a": "2016",
+        "q": "Who is the Senior Researcher and Legal Adviser for the Third World Network (TWN), who commented on the transparency of the WHO?",
+        "a": "K.M. Gopakumar",
         "options": [
+            "Nithin Ramakrishnan",
+            "K.M. Gopakumar",
+            "Rajiv Bahl",
+            "S. Vincent",
+            "Bhaskar Ghosh"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Where was the 11th edition of the India-Seychelles Joint Military Exercise LAMITIYE-2026 conducted?",
+        "a": "Seychelles Defence Academy in Seychelles",
+        "options": [
+            "New Delhi, India",
+            "Colombo, Sri Lanka",
+            "Seychelles Defence Academy in Seychelles",
+            "Port Louis, Mauritius",
+            "Male, Maldives"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "Where was the crucial meeting of countries held this month to agree on the rule book for the Pandemic Agreement?",
+        "a": "Geneva",
+        "options": [
+            "New York",
+            "Paris",
+            "Geneva",
+            "London",
+            "Vienna"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "In which village was the new District Munsif and Judicial Magistrate Court inaugurated?",
+        "a": "Chennangkuppam village in K.V. Kuppam, Vellore",
+        "options": [
+            "Katpadi, Vellore",
+            "Chennai, Tamil Nadu",
+            "Chennangkuppam village in K.V. Kuppam, Vellore",
+            "Madurai, Tamil Nadu",
+            "Coimbatore, Tamil Nadu"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "Where is the exclusive lounge for construction workers, inaugurated by Udhayanidhi Stalin, located in Tirupattur district?",
+        "a": "Taluk office in Tirupattur",
+        "options": [
+            "Pudupalayam Main Road",
+            "Keel Mittalam village",
+            "Taluk office in Tirupattur",
+            "Vellore old bus terminus",
+            "Chennai Central Station"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "Which village in Tirupattur district hosts the newly inaugurated Village Knowledge Centre (VKC)?",
+        "a": "Keel Mittalam village near Tirupattur town",
+        "options": [
+            "Chennangkuppam village",
+            "Pudupalayam village",
+            "Keel Mittalam village near Tirupattur town",
+            "Katpadi village",
+            "Arakkonam village"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "On which beach was a documentary showcasing infrastructure projects screened in Chennai?",
+        "a": "Marina Beach",
+        "options": [
+            "Besant Nagar Beach",
+            "Eliot's Beach",
+            "Marina Beach",
+            "Chetpet Lake",
+            "Adyar Poonga"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "Which city is explicitly mentioned as being among India\u2019s top three markets for AAA console and PC games?",
+        "a": "Chennai",
+        "options": [
+            "Bengaluru",
+            "Mumbai",
+            "Chennai",
+            "Hyderabad",
+            "Delhi"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "Where was the Progressive Punjab Investors Summit 2026 held?",
+        "a": "Mohali",
+        "options": [
+            "Amritsar",
+            "Ludhiana",
+            "Mohali",
+            "Chandigarh",
+            "Jalandhar"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "In which department's headquarters did a scuffle occur during the West Bengal government employees' strike?",
+        "a": "Khadya Bhavan (Food and Civil Supplies Department)",
+        "options": [
+            "Writers' Building",
+            "Raj Bhavan",
+            "Khadya Bhavan",
+            "High Court",
+            "Banga Bhavan"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "In which district were the first set of development boards established by Mamata Banerjee's government between 2013 and 2015?",
+        "a": "Darjeeling district",
+        "options": [
+            "Kolkata district",
+            "Howrah district",
+            "Darjeeling district",
+            "Purba Medinipur district",
+            "South 24 Parganas district"
+        ],
+        "cat": "Where (Kha)"
+    },
+    {
+        "q": "When was the WHO Pandemic Agreement adopted by the World Health Assembly?",
+        "a": "May 20, 2025",
+        "options": [
+            "May 20, 2024",
+            "May 20, 2026",
+            "May 20, 2025",
+            "April 20, 2025",
+            "June 20, 2025"
+        ],
+        "cat": "When (Kab)"
+    },
+    {
+        "q": "When is the full WHO Pandemic Agreement, including the PABS system annex, expected to be adopted by the World Health Assembly?",
+        "a": "May 2026",
+        "options": [
+            "May 2025",
+            "May 2027",
+            "May 2026",
+            "June 2026",
+            "April 2026"
+        ],
+        "cat": "When (Kab)"
+    },
+    {
+        "q": "When did Mamata Banerjee announce the formation of new cultural and development boards in West Bengal?",
+        "a": "March 13, 2026",
+        "options": [
+            "March 10, 2026",
+            "March 15, 2026",
+            "March 13, 2026",
+            "March 12, 2026",
+            "March 14, 2026"
+        ],
+        "cat": "When (Kab)"
+    },
+    {
+        "q": "Since which year has Mamata Banerjee's government started setting up development boards?",
+        "a": "2013",
+        "options": [
+            "2012",
             "2014",
-            "2016",
-            "2018",
-            "2015",
-            "2017"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who founded the Bharat Dharma Jana Sena (BDJS)?",
-        "a": "Vellappally Natesan",
-        "options": [
-            "P.K. Gurudasan",
-            "S. Chandrasenan",
-            "M. Mukesh",
-            "Vellappally Natesan",
-            "Bindu Krishna"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which year was the Bharat Dharma Jana Sena (BDJS) founded?",
-        "a": "2015",
-        "options": [
             "2013",
-            "2015",
-            "2017",
-            "2014",
-            "2016"
+            "2010",
+            "2015"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "Who was the LDF candidate who narrowly defeated the UDF candidate in the 2021 Kollam Assembly elections?",
-        "a": "M. Mukesh",
+        "q": "When did the Supreme Court order the West Bengal government to pay 25% of outstanding DA to its employees?",
+        "a": "February 5",
         "options": [
-            "P.K. Gurudasan",
-            "S. Chandrasenan",
-            "M. Mukesh",
-            "Vellappally Natesan",
-            "Bindu Krishna"
+            "January 5",
+            "March 5",
+            "February 5",
+            "February 10",
+            "March 1"
         ],
-        "cat": "Who"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was the victory margin for M. Mukesh in the 2021 Kollam Assembly elections?",
-        "a": "2,072 votes",
+        "q": "When is the deadline for the West Bengal government to pay 25% of outstanding DA, as ordered by the Supreme Court?",
+        "a": "March 31",
         "options": [
-            "1,800 votes",
-            "2,072 votes",
-            "2,500 votes",
-            "1,900 votes",
-            "2,200 votes"
+            "February 28",
+            "April 15",
+            "March 31",
+            "March 15",
+            "April 30"
         ],
-        "cat": "Amount"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was M. Mukesh's victory margin in the 2016 Kollam Assembly elections?",
-        "a": "17,611 votes",
+        "q": "On what date were the eight Lok Sabha MPs suspended?",
+        "a": "February 3, 2026",
         "options": [
-            "15,000 votes",
-            "17,611 votes",
-            "20,000 votes",
-            "16,500 votes",
-            "18,000 votes"
+            "January 3, 2026",
+            "March 3, 2026",
+            "February 3, 2026",
+            "February 10, 2026",
+            "March 13, 2026"
         ],
-        "cat": "Amount"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What percentage of votes did the BJP secure in the 2021 Kollam Assembly elections, marking its emergence as a third force?",
-        "a": "Over 10%",
+        "q": "The AVGC-XR Policy 2026 in Tamil Nadu aims to achieve its startup and company targets by which year?",
+        "a": "2030",
         "options": [
-            "Around 5%",
-            "Over 10%",
-            "Exactly 8%",
-            "Less than 7%",
-            "Around 12%"
+            "2028",
+            "2032",
+            "2030",
+            "2029",
+            "2031"
         ],
-        "cat": "Amount"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was the total number of voters in the Kollam Assembly segment in 2021?",
-        "a": "1,71,679",
+        "q": "When was the recruitment examination for Assistant Professors in Tamil Nadu held?",
+        "a": "December 2025",
         "options": [
-            "1,60,000",
-            "1,71,679",
-            "1,80,000",
-            "1,70,000",
-            "1,75,000"
+            "November 2025",
+            "January 2026",
+            "December 2025",
+            "December 2024",
+            "November 2024"
         ],
-        "cat": "Amount"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What is the total number of voters in the Kollam Assembly segment in the latest rolls?",
-        "a": "1,63,106",
+        "q": "From when to when is Exercise LAMITIYE-2026 being conducted?",
+        "a": "March 10 to 22",
         "options": [
-            "1,55,000",
-            "1,63,106",
-            "1,68,000",
-            "1,60,000",
-            "1,70,000"
+            "March 8 to 20",
+            "March 12 to 24",
+            "March 10 to 22",
+            "March 15 to 27",
+            "March 1 to 13"
         ],
-        "cat": "Amount"
+        "cat": "When (Kab)"
     },
     {
-        "q": "Who is the current Additional Chief Secretary (Home) of Tamil Nadu, as mentioned in the press conference?",
-        "a": "Dheeraj Kumar",
+        "q": "What was the primary reason for developing the WHO Pandemic Agreement?",
+        "a": "To address significant gaps and inequality in the world\u2019s ability to prevent and respond to health emergencies revealed by COVID-19.",
         "options": [
-            "G. Venkataraman",
-            "Maheshwar Dayal",
-            "A. Arun",
-            "Dheeraj Kumar",
-            "Ajith Kumar"
+            "To regulate international trade of medical supplies",
+            "To promote global tourism",
+            "To address significant gaps and inequality in the world\u2019s ability to prevent and respond to health emergencies revealed by COVID-19",
+            "To establish a new global economic order",
+            "To reduce agricultural dependency"
         ],
-        "cat": "Who"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "Who is the Director-General of Police/Head of Police Force (in-charge) of Tamil Nadu, as mentioned in the press conference?",
-        "a": "G. Venkataraman",
+        "q": "What is the main purpose of the cultural and development boards formed by the West Bengal government for marginalised communities?",
+        "a": "To protect their unique languages and traditions while ensuring better education, healthcare, and jobs.",
         "options": [
-            "Dheeraj Kumar",
-            "G. Venkataraman",
-            "Maheshwar Dayal",
-            "A. Arun",
-            "K. Shankar"
+            "To centralize administrative control",
+            "To promote a single state language",
+            "To protect their unique languages and traditions while ensuring better education, healthcare, and jobs",
+            "To dismantle traditional community structures",
+            "To raise local taxes"
         ],
-        "cat": "Who"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "How many murder cases were reported in Tamil Nadu in 2021?",
-        "a": "1,597",
+        "q": "What is the primary benefit of the new District Munsif and Judicial Magistrate Court at Chennangkuppam for litigants?",
+        "a": "It ends the ordeal of travelling long distances to file cases and know the status of existing petitions.",
         "options": [
-            "1,500",
-            "1,597",
-            "1,600",
-            "1,550",
-            "1,650"
+            "It offers free legal advice",
+            "It provides online dispute resolution",
+            "It ends the ordeal of travelling long distances to file cases and know the status of existing petitions",
+            "It establishes a new appellate court",
+            "It focuses on international law"
         ],
-        "cat": "Amount"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "How many murder cases were reported in Tamil Nadu in 2025?",
-        "a": "1,461",
+        "q": "What is the core objective of the Tamil Nadu AVGC-XR Policy 2026?",
+        "a": "To position the State as a creative powerhouse, attracting investments, generating employment, and strengthening India\u2019s global soft power.",
         "options": [
-            "1,400",
-            "1,461",
-            "1,500",
-            "1,420",
-            "1,480"
+            "To promote agricultural technology",
+            "To develop new infrastructure projects in rural areas",
+            "To position the State as a creative powerhouse, attracting investments, generating employment, and strengthening India\u2019s global soft power",
+            "To establish a new financial hub",
+            "To regulate fishing industries"
         ],
-        "cat": "Amount"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "How many rape cases were reported in Tamil Nadu in 2021?",
-        "a": "422",
+        "q": "What is the declared purpose of the MoU signed between ICMR and TNSCST?",
+        "a": "To protect academic and industrial bio-medical research and development projects through intellectual property filings and patent.",
         "options": [
-            "400",
-            "422",
-            "440",
-            "410",
-            "430"
+            "To standardize medical education",
+            "To provide free healthcare services",
+            "To protect academic and industrial bio-medical research and development projects through intellectual property filings and patent",
+            "To promote traditional medicine",
+            "To conduct clinical trials for new drugs"
         ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many rape cases were reported in Tamil Nadu in 2025?",
-        "a": "401",
-        "options": [
-            "380",
-            "401",
-            "410",
-            "390",
-            "405"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What did police officials attribute the increase in reported POCSO and SC/ST (Prevention of Atrocities) Act cases to?",
-        "a": "Increased awareness and people coming forward",
-        "options": [
-            "Rise in actual crime rates",
-            "Decrease in police enforcement",
-            "Increased awareness and people coming forward",
-            "Political interference in reporting",
-            "Reduction in legal penalties for offenders"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Whose death investigation in the Thirupuvanam case was transferred to the Central Bureau of Investigation (CBI)?",
-        "a": "Ajith Kumar",
-        "options": [
-            "Dheeraj Kumar",
-            "G. Venkataraman",
-            "Maheshwar Dayal",
-            "Ajith Kumar",
-            "A. Arun"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which state's Cabinet cleared The Freedom of Choice in Marriage and Prevention and Prohibition of Crimes in the name of Honour and Tradition (Eva Nammava Eva Nammava) Bill, 2026?",
-        "a": "Karnataka",
-        "options": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Maharashtra"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date did the Karnataka State Cabinet clear The Karnataka Freedom of Choice in Marriage Bill, 2026?",
-        "a": "Thursday, March 12, 2026",
-        "options": [
-            "Tuesday, March 10, 2026",
-            "Wednesday, March 11, 2026",
-            "Thursday, March 12, 2026",
-            "Friday, March 13, 2026",
-            "Monday, March 9, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the sanctioned cost for the new international stadium to be built in Surya Nagar 4th Phase, Anekal taluk?",
-        "a": "\u20b9800 crore",
-        "options": [
-            "\u20b9750 crore",
-            "\u20b9800 crore",
-            "\u20b9850 crore",
-            "\u20b9780 crore",
-            "\u20b9820 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which taluk will the new international stadium in Karnataka be built?",
-        "a": "Anekal taluk",
-        "options": [
-            "Kanakapura taluk",
-            "Devanahalli taluk",
-            "Anekal taluk",
-            "Bengaluru North taluk",
-            "Doddaballapur taluk"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "How many lives were lost in the tragic stampede in front of the M. Chinnaswamy Stadium during the RCB\u2019s maiden IPL victory celebrations?",
-        "a": "11 persons",
-        "options": [
-            "8 persons",
-            "11 persons",
-            "14 persons",
-            "9 persons",
-            "12 persons"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the primary reason for conceiving the new international stadium project in Karnataka?",
-        "a": "The tragic stampede in front of the M. Chinnaswamy Stadium",
-        "options": [
-            "To host a major international sporting event",
-            "To boost sports tourism in the state",
-            "To reduce traffic congestion around existing stadiums",
-            "The tragic stampede in front of the M. Chinnaswamy Stadium",
-            "To replace an aging stadium in the capital city"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the year associated with the Women\u2019s Reservation Bill mentioned in the news?",
-        "a": "2023",
-        "options": [
-            "2021",
-            "2022",
-            "2023",
-            "2024",
-            "2025"
-        ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     }
 ]
