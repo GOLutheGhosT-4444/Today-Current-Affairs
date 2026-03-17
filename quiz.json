@@ -1,722 +1,722 @@
 [
     {
-        "q": "How many MLAs does the BJP have in the Odisha Legislative Assembly?",
-        "a": "79",
+        "q": "What was the budget approved for the National Quantum Mission (NQM) for the period 2023\u20132031?",
+        "a": "\u20b96003.65 crore",
         "options": [
-            "77",
-            "81",
-            "79",
-            "78",
-            "80"
+            "\u20b96013.65 crore",
+            "\u20b95993.65 crore",
+            "\u20b96003.65 crore",
+            "\u20b96000.00 crore",
+            "\u20b96023.65 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current effective strength of the BJD in the Odisha Legislative Assembly after two suspensions?",
-        "a": "48",
+        "q": "How many academic institutions across India have been approved for setting up quantum teaching laboratories under the National Quantum Mission (NQM)?",
+        "a": "23",
         "options": [
-            "46",
-            "50",
-            "48",
-            "47",
-            "49"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Over the last five years, how much has the DMK government spent on welfare programmes and social support measures?",
-        "a": "\u20b94 lakh crore",
-        "options": [
-            "\u20b93.9 lakh crore",
-            "\u20b94.1 lakh crore",
-            "\u20b94 lakh crore",
-            "\u20b93.95 lakh crore",
-            "\u20b94.05 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "According to a 2023 study, how much can households save on average per month due to reduced transport costs from the Vidiyal Payanam Thittam?",
-        "a": "\u20b9888",
-        "options": [
-            "\u20b9885",
-            "\u20b9891",
-            "\u20b9888",
-            "\u20b9886",
-            "\u20b9890"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth in debt for Tamil Nadu over the last five years?",
-        "a": "96%",
-        "options": [
-            "95%",
-            "97%",
-            "96%",
-            "94%",
-            "98%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth in debt for Tamil Nadu during the previous five-year period (before the last five years)?",
-        "a": "128%",
-        "options": [
-            "127%",
-            "129%",
-            "128%",
-            "126%",
-            "130%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is Tamil Nadu's economy currently estimated to be around?",
-        "a": "$450 billion",
-        "options": [
-            "$445 billion",
-            "$455 billion",
-            "$450 billion",
-            "$448 billion",
-            "$452 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What annual growth rate in nominal dollar terms is required for Tamil Nadu to reach a one-trillion-dollar economy by 2030-31?",
-        "a": "17%-18%",
-        "options": [
-            "16%-17%",
-            "19%-20%",
-            "17%-18%",
-            "15%-16%",
-            "18%-19%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the real growth achieved by Tamil Nadu in 2024-25?",
-        "a": "11.19%",
-        "options": [
-            "11.09%",
-            "11.29%",
-            "11.19%",
-            "11.14%",
-            "11.24%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many seats are scheduled for biennial elections to the Rajya Sabha across 10 States?",
-        "a": "37",
-        "options": [
-            "36",
-            "38",
-            "37",
-            "35",
-            "39"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many candidates secured victory unopposed in the recent Rajya Sabha biennial elections?",
-        "a": "26",
-        "options": [
+            "21",
             "25",
-            "27",
-            "26",
-            "24",
-            "28"
+            "23",
+            "20",
+            "22"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many remaining seats will have voting in the Rajya Sabha biennial elections?",
-        "a": "11",
+        "q": "What is the target range for the qubit capacity of quantum computers that the National Quantum Mission (NQM) aims to develop?",
+        "a": "50\u20131,000 qubit",
         "options": [
-            "10",
-            "12",
-            "11",
-            "9",
-            "13"
+            "40\u2013900 qubit",
+            "60\u20131,100 qubit",
+            "50\u20131,000 qubit",
+            "500\u20131,500 qubit",
+            "20\u2013500 qubit"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Keralites are estimated to be in the Gulf region?",
-        "a": "3.5 million",
+        "q": "What is the prize amount for the Living Tamil Award for World Literature, as announced by Tamil writer Jayamohan?",
+        "a": "\u20b91 crore",
         "options": [
-            "3.4 million",
-            "3.6 million",
-            "3.5 million",
-            "3.3 million",
-            "3.7 million"
+            "\u20b91.1 crore",
+            "\u20b990 lakh",
+            "\u20b91 crore",
+            "\u20b91.5 crore",
+            "\u20b995 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many annual U.K. visas are allocated for chefs, yoga instructors, and other service providers under the India-U.K. Comprehensive Trade Agreement (CETA)?",
-        "a": "1,800",
+        "q": "What is the approximate prize amount for the Living Tamil Award for World Literature in US dollars?",
+        "a": "$100,000",
         "options": [
-            "1,750",
-            "1,850",
-            "1,800",
-            "1,700",
-            "1,900"
+            "$110,000",
+            "$90,000",
+            "$100,000",
+            "$105,000",
+            "$95,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much did Kerala pay for the 25% land acquisition cost for the widening of the National Highway?",
-        "a": "\u20b95,580.74 crore",
+        "q": "How much allocation was questioned by the Opposition for the Economic Stabilisation Fund in the Appropriation Bill?",
+        "a": "\u20b957,381 crore",
         "options": [
-            "\u20b95,570.74 crore",
-            "\u20b95,590.74 crore",
-            "\u20b95,580.74 crore",
-            "\u20b95,575.74 crore",
-            "\u20b95,585.74 crore"
+            "\u20b957,391 crore",
+            "\u20b957,371 crore",
+            "\u20b957,381 crore",
+            "\u20b957,300 crore",
+            "\u20b957,400 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total duration of the Tamil Nadu Assembly election process (from announcement to counting) in the current cycle?",
-        "a": "51 days",
+        "q": "What percentage of crude oil supply to India passes through the Strait of Hormuz, as mentioned in the parliamentary discussion?",
+        "a": "60%",
         "options": [
-            "49 days",
-            "53 days",
-            "51 days",
-            "50 days",
-            "52 days"
+            "50%",
+            "70%",
+            "60%",
+            "65%",
+            "55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total duration of the Tamil Nadu Assembly election process in 2021?",
-        "a": "66 days",
+        "q": "What percentage of gas supply to India passes through the Strait of Hormuz, as mentioned in the parliamentary discussion?",
+        "a": "50%",
         "options": [
-            "64 days",
-            "68 days",
-            "66 days",
-            "65 days",
-            "67 days"
+            "40%",
+            "60%",
+            "50%",
+            "55%",
+            "45%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the gap between polling and counting of votes in the current Tamil Nadu Assembly election?",
-        "a": "10 days",
+        "q": "By how many votes did E. Sreedharan lose to Shafi Parambil in the 2021 Palakkad Assembly election?",
+        "a": "3,859 votes",
         "options": [
-            "9 days",
-            "11 days",
-            "10 days",
-            "8 days",
-            "12 days"
+            "3,869 votes",
+            "3,849 votes",
+            "3,859 votes",
+            "3,900 votes",
+            "3,800 votes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Assembly constituencies did Naam Tamilar Katchi announce candidates for in Tamil Nadu?",
-        "a": "234",
+        "q": "What was the record margin of votes by which C. Krishnakumar lost in the 2024 Palakkad byelection?",
+        "a": "18,840 votes",
         "options": [
-            "232",
-            "236",
-            "234",
-            "233",
-            "235"
+            "18,850 votes",
+            "18,830 votes",
+            "18,840 votes",
+            "18,900 votes",
+            "18,800 votes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated cost of the Foot Over Bridge (FOB) project in Tiruvannamalai town?",
-        "a": "\u20b914 crore",
+        "q": "What was Sobha Surendran's vote share in the Palakkad Assembly election in 2016?",
+        "a": "29.08%",
         "options": [
-            "\u20b913 crore",
-            "\u20b915 crore",
-            "\u20b914 crore",
-            "\u20b913.5 crore",
-            "\u20b914.5 crore"
+            "29.18%",
+            "28.98%",
+            "29.08%",
+            "29.00%",
+            "29.10%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the proposed length of the new Foot Over Bridge in Tiruvannamalai?",
-        "a": "70 metres",
+        "q": "What was the average vote share of the United Democratic Front (UDF) in Palakkad in the past seven Assembly elections?",
+        "a": "41.6%",
         "options": [
-            "68 metres",
-            "72 metres",
-            "70 metres",
-            "69 metres",
-            "71 metres"
+            "41.7%",
+            "41.5%",
+            "41.6%",
+            "41.0%",
+            "42.0%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many persons can each lift accommodate on the new Foot Over Bridge in Tiruvannamalai?",
-        "a": "13 persons",
+        "q": "Who among the following won the award for Best Telefilm at the 33rd Kerala State Television Awards for \"F for Freedom\"?",
+        "a": "Arjun Krish and Ria Dinesh",
         "options": [
-            "12 persons",
-            "14 persons",
-            "13 persons",
-            "11 persons",
-            "15 persons"
+            "Laya Simpson",
+            "Sreeja Ravi",
+            "Arjun Krish and Ria Dinesh",
+            "Sanju Sanichen",
+            "Puneet Mohan"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What was the earlier number of LPG refill bookings recorded on March 13, 2026?",
-        "a": "88.8 lakh",
+        "q": "Who played the character of Gauri Shyama in the short film \"F for Freedom\"?",
+        "a": "Laya Simpson",
         "options": [
-            "88.6 lakh",
-            "89.0 lakh",
-            "88.8 lakh",
-            "88.7 lakh",
-            "88.9 lakh"
+            "Ria Dinesh",
+            "Soumya Sadanandan",
+            "Sreeja Ravi",
+            "Laya Simpson",
+            "Gauri Shyama"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What is the current percentage of online LPG bookings?",
-        "a": "87%",
+        "q": "Who won the award for Best Dubbing Artist for lending voice to the character Gauri in \"F for Freedom\"?",
+        "a": "Sreeja Ravi",
         "options": [
-            "86%",
-            "88%",
-            "87%",
-            "85%",
-            "89%"
+            "Laya Simpson",
+            "Ria Dinesh",
+            "Soumya Sadanandan",
+            "Sreeja Ravi",
+            "Arjun Krish"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "Who is the current Finance Minister of Tamil Nadu, mentioned in the news text?",
-        "a": "Thangam Thennarasu",
+        "q": "Who is the current BJP candidate for the Palakkad Assembly constituency in the upcoming elections?",
+        "a": "Sobha Surendran",
         "options": [
-            "Naveen Patnaik",
-            "Nitish Kumar",
-            "Thangam Thennarasu",
-            "Pinarayi Vijayan",
-            "Manmohan Samal"
+            "E. Sreedharan",
+            "C. Krishnakumar",
+            "Rahul Mamkootathil",
+            "Sobha Surendran",
+            "Shafi Parambil"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the Deputy Leader of the Odisha Congress Legislature Party who lodged a complaint about alleged bribing attempts?",
-        "a": "Ashok Kumar Das",
-        "options": [
-            "Naveen Patnaik",
-            "Ashok Kumar Das",
-            "Manmohan Samal",
-            "Sujeet Kumar",
-            "Dilip Ray"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who is the BJP State President fielded as a candidate in the Rajya Sabha elections from Odisha?",
-        "a": "Manmohan Samal",
-        "options": [
-            "Dilip Ray",
-            "Sujeet Kumar",
-            "Santrupta Mishra",
-            "Manmohan Samal",
-            "Datteswar Hota"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who among the following was suspended by BJD over alleged anti-party activities?",
-        "a": "Aravind Mohapatra",
-        "options": [
-            "Santrupta Mishra",
-            "Datteswar Hota",
-            "Aravind Mohapatra",
-            "Sujeet Kumar",
-            "Dilip Ray"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who is the DNT community leader in Gujarat who led the petitioners to the Supreme Court seeking distinct enumeration?",
-        "a": "Dakxinkumar Bajrange",
-        "options": [
-            "Pinarayi Vijayan",
-            "Dakxinkumar Bajrange",
-            "Mallu Bhatti Vikramarka",
-            "Thangam Thennarasu",
-            "E.V. Velu"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who is the acting British Deputy High Commissioner for Tamil Nadu, Kerala, and Puducherry, mentioned in the news?",
-        "a": "Shalini Medepalli",
-        "options": [
-            "Tiruchi Siva",
-            "Sharad Pawar",
-            "Shalini Medepalli",
-            "Abhishek Singhvi",
-            "Vinod Tawade"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who is the Kerala Public Works Minister who gave a miss to the inauguration ceremony of two National Highways reaches?",
-        "a": "Mohammed Riyas",
-        "options": [
-            "Pinarayi Vijayan",
-            "M.B. Rajesh",
-            "K. Krishnankutty",
-            "Mohammed Riyas",
-            "Rajeev Chandrasekhar"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who is the Union Minister for Road Transport and Highways who was praised for speeding up land acquisition in Kerala?",
-        "a": "Nitin Gadkari",
+        "q": "Who introduced the Transgender Persons (Protection of Rights) Amendment Bill, 2026?",
+        "a": "Virendra Kumar",
         "options": [
             "Narendra Modi",
-            "Nitin Gadkari",
-            "Amit Shah",
-            "Piyush Goyal",
+            "Akkai Padmashali",
+            "Grace Banu",
+            "Virendra Kumar",
+            "Krishanu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Chief Minister of Punjab?",
+        "a": "Bhagwant Singh Mann",
+        "options": [
+            "Partap Singh Bajwa",
+            "Tarun Chugh",
+            "Arvind Kejriwal",
+            "Bhagwant Singh Mann",
+            "Amarinder Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who signed the MoU on behalf of Anna University for establishing an ERP laboratory?",
+        "a": "V. Kumaresan",
+        "options": [
+            "Ravi Kula Chandran R.",
+            "M.K. Stalin",
+            "Jayamohan",
+            "V. Kumaresan",
             "Nirmala Sitharaman"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who called on the Governor to formally invite him to the upcoming Budget Session of the Telangana Legislative Assembly?",
-        "a": "Mallu Bhatti Vikramarka",
+        "q": "Who announced the Living Tamil Award for World Literature?",
+        "a": "Jayamohan",
         "options": [
-            "Shiv Pratap Shukla",
-            "Sandeep Kumar Sultania",
-            "Gaurav Uppal",
-            "Skitha Patnaik",
-            "Mallu Bhatti Vikramarka"
+            "Vairamuthu",
+            "M.K. Stalin",
+            "Jayamohan",
+            "Anna University",
+            "Nirmala Sitharaman"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Public Works who inspected the foot over bridge work in Tiruvannamalai town?",
-        "a": "E.V. Velu",
+        "q": "Who chaired the joint monthly meeting of Secretaries of the Science Ministries where the National Quantum Mission's progress was reviewed?",
+        "a": "Dr. Jitendra Singh",
         "options": [
-            "K. Tharpagaraj",
-            "K. Anbarasu",
-            "V. Raghuram",
-            "E.V. Velu",
-            "Seeman"
+            "Ajay Kumar Sood",
+            "Abhay Karandikar",
+            "V. Narayanan",
+            "Dr. Jitendra Singh",
+            "Rajesh S. Gokhale"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the BJD supremo and former Chief Minister whose residence (Naveen Niwas) hosted BJD MLAs to prevent poaching?",
-        "a": "Naveen Patnaik",
+        "q": "Who is the senior Communist Party of India (Marxist) [CPI(M)] leader who severed his 63-year association with the party and is set to contest as an Independent from Ambalappuzha?",
+        "a": "G. Sudhakaran",
         "options": [
-            "Manmohan Samal",
-            "Dilip Ray",
-            "Santrupta Mishra",
-            "Naveen Patnaik",
-            "Datteswar Hota"
+            "P.K. Sasi",
+            "A. Suresh",
+            "C.C. Mukundan",
+            "G. Sudhakaran",
+            "T.K. Govindan"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the BJP's national president mentioned as an NDA candidate from Bihar for Rajya Sabha?",
-        "a": "Nitin Nabin",
+        "q": "Who is the sitting MLA of Nattika who joined the BJP after the UDF denied him a seat?",
+        "a": "C.C. Mukundan",
         "options": [
-            "Nitish Kumar",
-            "Ram Nath Thakur",
-            "Upendra Kushwaha",
-            "Shivesh Kumar",
-            "Nitin Nabin"
+            "Geetha Gopi",
+            "G. Sudhakaran",
+            "P.K. Sasi",
+            "C.C. Mukundan",
+            "T.K. Govindan"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Where were four individuals arrested on allegations of attempting to bribe MLAs for Rajya Sabha votes?",
-        "a": "Bengaluru",
+        "q": "Who is the senior Congress leader in Jagtial district, Telangana, whose followers reportedly removed Congress flexis from his house?",
+        "a": "T. Jeevan Reddy",
         "options": [
-            "Mysuru",
-            "Paradip",
-            "Bhubaneswar",
+            "Dr. M. Sanjay Kumar",
+            "A. Revanth Reddy",
+            "Shaktisinh Gohil",
+            "T. Jeevan Reddy",
+            "Rahul Gandhi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "At which venue was the Students\u2019 Federation of India (SFI)-led protest against the Transgender Persons (Protection of Rights) Amendment Bill held in New Delhi?",
+        "a": "Jantar Mantar",
+        "options": [
+            "Indian Women\u2019s Press Corps",
+            "Parliament House",
+            "Jantar Mantar",
+            "Supreme Court",
+            "Rashtrapati Bhavan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where is the proposed venue for the India International Science Festival 2026?",
+        "a": "Pune",
+        "options": [
+            "New Delhi",
             "Bengaluru",
-            "Naveen Niwas"
+            "Chennai",
+            "Pune",
+            "Hyderabad"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Where were BJP MLAs put up in a hotel before arriving in Bhubaneswar for the Rajya Sabha elections?",
-        "a": "Paradip",
+        "q": "In which city will the Living Tamil Award for World Literature be announced simultaneously with New York City?",
+        "a": "New Delhi",
         "options": [
-            "Mysuru",
-            "Paradip",
-            "Bengaluru",
-            "Naveen Niwas",
-            "Kochi"
+            "Chennai",
+            "London",
+            "Paris",
+            "New Delhi",
+            "Mumbai"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which city was PM Modi on March 11 to inaugurate a clutch of high-profile projects, including two stretches of NH-66?",
-        "a": "Kochi",
+        "q": "The ERP laboratory under the MoU between Anna University and Ramco Systems will be established at which university?",
+        "a": "Anna University",
         "options": [
-            "Thiruvananthapuram",
+            "Ramco Systems Headquarters",
+            "IIT Madras",
+            "Anna University",
+            "University of Chennai",
+            "Vellore Institute of Technology"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Ria Dinesh, co-director of \"F for Freedom\", is currently settled in which city?",
+        "a": "Kharghar, Navi Mumbai",
+        "options": [
             "Chennai",
             "Kochi",
-            "Bengaluru",
-            "Coimbatore"
+            "Thiruvananthapuram",
+            "Kharghar, Navi Mumbai",
+            "Bengaluru"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Which two stretches of NH-66 were inaugurated in Kerala, leading to a 'boycott row'?",
-        "a": "Thalappady-Chengala and Vengalam-Ramanattukara",
+        "q": "In which constituency is G. Sudhakaran set to contest as an Independent after severing ties with CPI(M)?",
+        "a": "Ambalappuzha",
         "options": [
-            "Thalappady-Chengala and Vengalam-Ramanattukara",
-            "Kochi-Aluva and Thrissur-Palakkad",
-            "Kannur-Kozhikode and Ernakulam-Kottayam",
-            "Kollam-Alappuzha and Varkala-Attingal",
-            "Kasaragod-Kannur and Malappuram-Kozhikode"
+            "Ottappalam",
+            "Malampuzha",
+            "Nattika",
+            "Ambalappuzha",
+            "Thaliparambu"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Which oil terminal did the Indian-flagged crude tanker Jag Laadki sail out from safely after loading crude oil?",
-        "a": "Fujairah",
+        "q": "The graffiti mural created by students of Atoms College of Fine Arts as part of the SVEEP programme was seen on a wall at the Civil Station in which city?",
+        "a": "Palakkad",
         "options": [
-            "Strait of Hormuz",
-            "Shinas",
-            "UAE",
-            "Fujairah",
-            "Oman"
+            "Kochi",
+            "Thiruvananthapuram",
+            "Palakkad",
+            "Kozhikode",
+            "Kannur"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which town is the new Foot Over Bridge being constructed to connect the new bus terminus with the railway station?",
-        "a": "Tiruvannamalai",
+        "q": "Which constituency did former CPI(M) MLA P. Aisha Potty represent thrice before crossing over to the Congress?",
+        "a": "Kottarakara",
         "options": [
-            "Chennai",
+            "Devikulam",
+            "Vaikom",
+            "Kottarakara",
+            "Ambalappuzha",
+            "Malampuzha"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did DMK president M.K. Stalin address a meeting of district secretaries at Anna Arivalayam?",
+        "a": "Chennai",
+        "options": [
             "Coimbatore",
             "Madurai",
-            "Tiruvannamalai",
+            "Bengaluru",
+            "Chennai",
             "Salem"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Where did the U.K. have a military base that was hit by a drone amid the West Asia crisis?",
-        "a": "Cyprus",
+        "q": "In which city was a public meeting addressed by Chief Minister A. Revanth Reddy, which reportedly irked followers of T. Jeevan Reddy?",
+        "a": "Choppadandi",
         "options": [
-            "Saudi Arabia",
-            "UAE",
-            "Bahrain",
-            "Oman",
-            "Cyprus"
+            "Jagtial",
+            "Hyderabad",
+            "Warangal",
+            "Choppadandi",
+            "Karimnagar"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "From which state are 5 Rajya Sabha seats having elections, along with Odisha and Haryana?",
-        "a": "Bihar",
+        "q": "What is the name of T. Jeevan Reddy's house in Jagtial town where flexis of the Congress party were reportedly removed?",
+        "a": "Indira Bhavan",
         "options": [
-            "Maharashtra",
-            "Tamil Nadu",
-            "West Bengal",
-            "Assam",
-            "Bihar"
+            "Gandhi Nivas",
+            "Congress House",
+            "Jeevan Sadan",
+            "Indira Bhavan",
+            "Sanjay Nivas"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "When are the biennial Rajya Sabha elections being held in the Odisha Legislative Assembly?",
-        "a": "March 16, 2026",
+        "q": "The Rajya Sabha discussion on the Economic Stabilisation Fund took place in which city?",
+        "a": "New Delhi",
         "options": [
-            "March 15, 2026",
-            "March 17, 2026",
-            "March 16, 2026",
-            "March 18, 2026",
-            "March 14, 2026"
+            "Mumbai",
+            "Kolkata",
+            "Bengaluru",
+            "Chennai",
+            "New Delhi"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the Assembly election in Tamil Nadu set to be held?",
-        "a": "April 23",
+        "q": "In which year did Arjun Krish and Ria Dinesh attend the filmmaking workshop hosted by Soumya Sadanandan?",
+        "a": "2021",
         "options": [
-            "April 21",
-            "April 25",
-            "April 23",
-            "April 22",
-            "April 24"
+            "2020",
+            "2022",
+            "2021",
+            "2019",
+            "2023"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "By which year does Tamil Nadu aim to achieve a one-trillion-dollar economy milestone?",
-        "a": "2030-31",
+        "q": "When was the Transgender Persons (Protection of Rights) Act originally enacted?",
+        "a": "2019",
         "options": [
-            "2028-29",
-            "2032-33",
-            "2030-31",
-            "2029-30",
-            "2031-32"
+            "2014",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "On which date were two Indian-flagged LPG carriers, Shivalik and Nanda Devi, reported to have crossed the Strait of Hormuz safely?",
-        "a": "March 14, 2026",
-        "options": [
-            "March 13, 2026",
-            "March 15, 2026",
-            "March 14, 2026",
-            "March 16, 2026",
-            "March 12, 2026"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "When did NHAI reportedly withdraw from the National Highway project in Kerala, citing a delay in land acquisition?",
+        "q": "When did the Supreme Court issue the NALSA judgement, recognizing the right to self-identification of gender under Article 21?",
         "a": "2014",
         "options": [
             "2012",
             "2016",
             "2014",
-            "2013",
-            "2015"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "When does campaigning for the Tamil Nadu Assembly election end?",
-        "a": "April 21, 5 p.m.",
-        "options": [
-            "April 20, 5 p.m.",
-            "April 22, 5 p.m.",
-            "April 21, 5 p.m.",
-            "April 23, 5 p.m.",
-            "April 19, 5 p.m."
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "When was the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act enacted?",
-        "a": "2013",
-        "options": [
-            "2011",
             "2015",
-            "2013",
-            "2012",
-            "2014"
+            "2013"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "When is the 2027 Census, in which DNT communities seek distinct enumeration?",
-        "a": "2027",
+        "q": "On what date are the Kerala Assembly elections scheduled to be held?",
+        "a": "April 9, 2026",
         "options": [
-            "2026",
-            "2028",
-            "2027",
+            "April 8, 2026",
+            "April 10, 2026",
+            "April 9, 2026",
+            "April 9, 2025",
+            "May 9, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month is a navigation satellite for the Indian Navy planned for launch?",
+        "a": "May",
+        "options": [
+            "April",
+            "June",
+            "May",
+            "July",
+            "August"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The budget for the National Quantum Mission (NQM) was approved for which period?",
+        "a": "2023\u20132031",
+        "options": [
+            "2022\u20132030",
+            "2024\u20132032",
+            "2023\u20132031",
+            "2023\u20132028",
+            "2020\u20132025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year were the manpower guidelines for project staff under DST last updated?",
+        "a": "2020",
+        "options": [
+            "2019",
+            "2021",
+            "2020",
+            "2022",
+            "2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The India International Science Festival is planned for which year?",
+        "a": "2026",
+        "options": [
             "2025",
-            "2029"
+            "2027",
+            "2026",
+            "2024",
+            "2028"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "What is the main purpose of the Kalaignar Magalir Urimai Thogai scheme, as stated by the Finance Minister?",
-        "a": "To strengthen women's financial independence",
+        "q": "In which month did former CPI(M) MLA P. Aisha Potty cross over to the Congress?",
+        "a": "January",
         "options": [
-            "To provide free housing",
-            "To encourage entrepreneurship",
-            "To strengthen women's financial independence",
-            "To offer free education",
-            "To improve public transport"
+            "December",
+            "February",
+            "January",
+            "March",
+            "November"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the primary objective of the Pudhumai Penn scheme?",
-        "a": "To significantly improve college enrolment among girl students",
+        "q": "When did the 2024 byelection in Palakkad, where C. Krishnakumar lost by a record margin, take place?",
+        "a": "2024",
         "options": [
-            "To improve women's health",
-            "To promote women's safety",
-            "To significantly improve college enrolment among girl students",
-            "To provide vocational training",
-            "To offer financial aid to new mothers"
+            "2023",
+            "2025",
+            "2024",
+            "2022",
+            "2021"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the purpose of the Vidiyal Payanam Thittam?",
-        "a": "To increase bus trips by women passengers",
+        "q": "When did Sandeep Varrier, a prominent BJP youth leader, defect to the Congress?",
+        "a": "2024",
         "options": [
-            "To provide free meals",
-            "To improve rural connectivity",
-            "To increase bus trips by women passengers",
-            "To offer free healthcare",
-            "To promote tourism"
+            "2023",
+            "2025",
+            "2024",
+            "2022",
+            "2021"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What was the 'most challenging decision' for the Tamil Nadu Finance Minister during his tenure, due to long-term fiscal implications?",
-        "a": "Announcement of the Tamil Nadu Assured Pension Scheme",
+        "q": "What is the deadline for the immediate operationalisation of maize procurement centers as sought by T. Jeevan Reddy's rally?",
+        "a": "Ensuing Ugadi festival",
         "options": [
-            "Implementing cash transfer schemes",
-            "Reducing public debt",
-            "Announcement of the Tamil Nadu Assured Pension Scheme",
-            "Increasing expenditure on health",
-            "Revising tax policies"
+            "Next month",
+            "End of the year",
+            "Ensuing Ugadi festival",
+            "Next week",
+            "Within two months"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "Why did DNT communities approach the Supreme Court of India regarding the 2027 Census?",
-        "a": "To be enumerated distinctly and avail government benefits",
+        "q": "What is the primary purpose of the banner \"10Degree N Dreams Studio\" established by Arjun Krish and Ria Dinesh?",
+        "a": "To promote upcoming talents",
         "options": [
-            "To gain political representation",
-            "To challenge electoral results",
-            "To be enumerated distinctly and avail government benefits",
-            "To demand new reservation policies",
-            "To protest against a government scheme"
+            "To produce commercial films",
+            "To win more awards",
+            "To promote upcoming talents",
+            "To focus on short films",
+            "To make documentaries"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of the Kerala Infrastructure Investment Fund Board (KIIFB)?",
-        "a": "To mobilize resources for large infrastructure projects",
+        "q": "What is the main objective of the Systematic Voters\u2019 Education and Electoral Participation (SVEEP) programme?",
+        "a": "To educate voters",
         "options": [
-            "To provide agricultural loans",
-            "To fund welfare schemes",
-            "To mobilize resources for large infrastructure projects",
-            "To manage pension funds",
-            "To promote tourism"
+            "To register new voters",
+            "To conduct elections",
+            "To provide electoral security",
+            "To educate voters",
+            "To promote political parties"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the key benefit for Kerala's seafood exporters, particularly shrimp, tuna, and cuttlefish, under the India-U.K. Comprehensive Trade Agreement (CETA)?",
-        "a": "Zero-duty access to the U.K. market",
+        "q": "What is the primary aim of the Transgender Persons (Protection of Rights) Amendment Bill, 2026, as described by its opponents?",
+        "a": "To withdraw transgender people's right to \"self-perceived gender identity\"",
         "options": [
-            "Access to UK fishing waters",
-            "Zero-duty access to the U.K. market",
-            "Reduced shipping costs",
-            "Increased subsidies",
-            "Marketing support"
+            "To expand transgender rights",
+            "To simplify gender-affirming surgery",
+            "To withdraw transgender people's right to \"self-perceived gender identity\"",
+            "To increase representation in governance",
+            "To establish transgender communities"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the primary reason behind the 'credit wars' between the Centre and State in Kerala regarding development projects?",
-        "a": "Competition to claim credit for projects",
+        "q": "What did the 2014 NALSA judgement lay down as a fundamental right under Article 21 of the Constitution?",
+        "a": "The right to self-identification of gender",
         "options": [
-            "Disagreements over project funding",
-            "Disputes over land acquisition",
-            "Competition to claim credit for projects",
-            "Protests against project delays",
-            "Debates on environmental impact"
+            "The right to vote",
+            "The right to education",
+            "The right to self-identification of gender",
+            "The right to property",
+            "The right to free speech"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
+    },
+    {
+        "q": "According to the Punjab Chief Minister, what is one of the key achievements of the AAP government in four years?",
+        "a": "Free electricity",
+        "options": [
+            "Reducing national debt",
+            "Achieving 100% literacy",
+            "Free electricity",
+            "Hosting international summits",
+            "Building a new capital city"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the MoU between Anna University and Ramco Systems?",
+        "a": "Establishing an ERP laboratory",
+        "options": [
+            "Developing a new software",
+            "Conducting research on AI",
+            "Establishing an ERP laboratory",
+            "Joint faculty exchange program",
+            "Setting up a student exchange program"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main reason cited by Jayamohan for instituting the Living Tamil Award for World Literature?",
+        "a": "Expressing anger over the conferment of the Jnanpith Award on lyricist Vairamuthu",
+        "options": [
+            "To promote Tamil culture globally",
+            "To compete with Nobel Prize",
+            "Expressing anger over the conferment of the Jnanpith Award on lyricist Vairamuthu",
+            "To encourage young writers",
+            "To honour historical literary figures"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key objectives of the National Quantum Mission (NQM)?",
+        "a": "Develop satellite-based secure communication",
+        "options": [
+            "Explore Mars",
+            "Develop satellite-based secure communication",
+            "Increase fossil fuel production",
+            "Build faster supercomputers",
+            "Improve weather forecasting"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Union Finance Minister propose an allocation for the Economic Stabilisation Fund in the Appropriation Bill?",
+        "a": "To address possible supply chain difficulties due to the conflict in West Asia",
+        "options": [
+            "To boost economic growth",
+            "To fund infrastructure projects",
+            "To address possible supply chain difficulties due to the conflict in West Asia",
+            "To reduce national debt",
+            "To provide subsidies to farmers"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason for T. Jeevan Reddy leading a rally with maize farmers to the Collectorate?",
+        "a": "Seeking setting up of maize procurement centres",
+        "options": [
+            "Protesting against new farm laws",
+            "Demanding higher MSP",
+            "Seeking setting up of maize procurement centres",
+            "Requesting debt waivers",
+            "Calling for irrigation projects"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the main reason cited by C.C. Mukundan for his expulsion from the CPI before joining BJP?",
+        "a": "Raising \"payment seat\" allegation against the party",
+        "options": [
+            "Disciplinary issues",
+            "Poor performance as MLA",
+            "Raising \"payment seat\" allegation against the party",
+            "Ideological differences",
+            "Voluntarily resigning"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the underlying factor shaping political choices in Kerala Assembly elections, increasingly blurring traditional ideological boundaries?",
+        "a": "Electoral pragmatism",
+        "options": [
+            "Ideological purity",
+            "Historical loyalties",
+            "Electoral pragmatism",
+            "Family connections",
+            "Religious affiliations"
+        ],
+        "cat": "Why"
     }
 ]
