@@ -1,890 +1,818 @@
 [
     {
-        "q": "Cathay Pacific has cancelled flights to and from Dubai up to and including which date?",
-        "a": "30 April 2026",
+        "q": "What is the total outlay for Telangana's budget for the current financial year 2025-26?",
+        "a": "\u20b93.04 lakh crore",
         "options": [
-            "30 March 2026",
-            "30 May 2026",
-            "30 April 2026",
-            "30 June 2026",
-            "30 February 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which specific gas field was reportedly struck by Israel after informing the United States?",
-        "a": "South Pars gas field",
-        "options": [
-            "North Field East",
-            "Galkynysh Field",
-            "South Pars gas field",
-            "Urengoy Field",
-            "Shaikan Field"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Who is the Senior Director at Crisil Intelligence, quoted on corporate India bracing for margin pressure?",
-        "a": "Miren Lodha",
-        "options": [
-            "Rohan Mehta",
-            "Priya Sharma",
-            "Miren Lodha",
-            "Amit Singh",
-            "Sunita Rao"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary reason for Corporate India bracing for margin pressure in its fourth-quarter earnings?",
-        "a": "Escalating conflict in West Asia driving up energy prices",
-        "options": [
-            "Increased consumer demand",
-            "Reduced labor costs",
-            "Government policy changes",
-            "Escalating conflict in West Asia driving up energy prices",
-            "New technological advancements"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On which date did the Election Commission intensify preparations for the West Bengal Assembly elections?",
-        "a": "March 18, 2026",
-        "options": [
-            "March 15, 2026",
-            "March 20, 2026",
-            "March 18, 2026",
-            "March 22, 2026",
-            "March 17, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many IAS officers were deployed by the Election Commission in key poll management roles?",
-        "a": "13",
-        "options": [
-            "10",
-            "15",
-            "13",
-            "12",
-            "14"
+            "\u20b93.02 lakh crore",
+            "\u20b93.06 lakh crore",
+            "\u20b93.04 lakh crore",
+            "\u20b93.10 lakh crore",
+            "\u20b92.98 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many IPS officers were deployed by the Election Commission in key poll management roles?",
-        "a": "5",
+        "q": "What is the projected outlay for Telangana's budget for the financial year 2026-27?",
+        "a": "\u20b93.2 lakh crore",
         "options": [
-            "3",
-            "7",
-            "5",
-            "4",
-            "6"
+            "\u20b93.15 lakh crore",
+            "\u20b93.25 lakh crore",
+            "\u20b93.2 lakh crore",
+            "\u20b93.18 lakh crore",
+            "\u20b93.22 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Where did the BJP\u2019s Central Election Committee hold its meeting to finalize candidates for Assam and Puducherry?",
-        "a": "New Delhi",
+        "q": "How much was allocated in Telangana's previous budget for implementing the party\u2019s \u2018six poll guarantees\u2019?",
+        "a": "\u20b956,000 crore",
         "options": [
-            "Mumbai",
-            "Lucknow",
-            "New Delhi",
-            "Kolkata",
-            "Bengaluru"
+            "\u20b955,500 crore",
+            "\u20b956,500 crore",
+            "\u20b956,000 crore",
+            "\u20b957,000 crore",
+            "\u20b955,000 crore"
         ],
-        "cat": "Where"
+        "cat": "Amount"
     },
     {
-        "q": "Who presided over the BJP's Central Election Committee meeting for candidate finalization?",
-        "a": "Nitin Nabin",
+        "q": "What amount did the Telangana government expect to raise through open market loans in the previous budget?",
+        "a": "\u20b964,000 crore",
         "options": [
-            "Narendra Modi",
-            "Amit Shah",
-            "Nitin Nabin",
-            "Rajnath Singh",
-            "B.L. Santhosh"
+            "\u20b963,500 crore",
+            "\u20b964,500 crore",
+            "\u20b964,000 crore",
+            "\u20b965,000 crore",
+            "\u20b963,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which states/union territories will go to the polls on April 9, 2026?",
-        "a": "Assam, Kerala and Puducherry",
+        "q": "What was Telangana's revenue deficit till January end?",
+        "a": "\u20b910,566 crore",
         "options": [
-            "West Bengal, Tamil Nadu and Assam",
-            "Kerala, Puducherry and Maharashtra",
-            "Assam, Kerala and Puducherry",
-            "Tamil Nadu, Kerala and West Bengal",
-            "Puducherry, Assam and Uttar Pradesh"
+            "\u20b910,500 crore",
+            "\u20b910,600 crore",
+            "\u20b910,566 crore",
+            "\u20b910,550 crore",
+            "\u20b910,570 crore"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "When will the election be conducted in Tamil Nadu?",
-        "a": "April 23, 2026",
+        "q": "What was the estimated revenue surplus that Telangana projected, against which a deficit occurred?",
+        "a": "\u20b92,738 crore",
         "options": [
-            "April 15, 2026",
-            "April 20, 2026",
-            "April 23, 2026",
-            "April 25, 2026",
-            "April 30, 2026"
+            "\u20b92,730 crore",
+            "\u20b92,740 crore",
+            "\u20b92,738 crore",
+            "\u20b92,750 crore",
+            "\u20b92,720 crore"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "When is the first phase of elections scheduled for West Bengal?",
-        "a": "April 23, 2026",
+        "q": "What were Telangana's overall revenue receipts till January end?",
+        "a": "\u20b91.38 lakh crore",
         "options": [
-            "April 18, 2026",
-            "April 25, 2026",
-            "April 23, 2026",
-            "April 28, 2026",
-            "April 20, 2026"
+            "\u20b91.37 lakh crore",
+            "\u20b91.39 lakh crore",
+            "\u20b91.38 lakh crore",
+            "\u20b91.40 lakh crore",
+            "\u20b91.36 lakh crore"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "When is the second phase of elections scheduled for West Bengal?",
-        "a": "April 29, 2026",
+        "q": "What percentage of the projected revenue receipts did Telangana achieve till January end?",
+        "a": "60.23%",
         "options": [
-            "April 27, 2026",
-            "April 30, 2026",
-            "April 29, 2026",
-            "May 1, 2026",
-            "April 28, 2026"
+            "60.20%",
+            "60.25%",
+            "60.23%",
+            "60.30%",
+            "60.15%"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "On what date will the counting for all Assembly elections mentioned in the news be held?",
-        "a": "May 4, 2026",
+        "q": "What were the provisional figures for borrowings and other liabilities for Telangana as per CAG till January end?",
+        "a": "\u20b969,148 crore",
         "options": [
-            "May 1, 2026",
-            "May 5, 2026",
-            "May 4, 2026",
-            "May 6, 2026",
-            "May 3, 2026"
+            "\u20b969,100 crore",
+            "\u20b969,200 crore",
+            "\u20b969,148 crore",
+            "\u20b969,150 crore",
+            "\u20b969,000 crore"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "How many seats is the Congress party contesting in the upcoming Kerala Assembly elections, for which candidate selection has been completed?",
-        "a": "95",
+        "q": "What was Telangana's fiscal deficit till January end?",
+        "a": "\u20b969,148 crore",
         "options": [
-            "90",
-            "100",
-            "95",
+            "\u20b969,140 crore",
+            "\u20b969,150 crore",
+            "\u20b969,148 crore",
+            "\u20b969,200 crore",
+            "\u20b969,130 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the projected budget estimates did Telangana's fiscal deficit constitute till January end?",
+        "a": "128%",
+        "options": [
+            "127%",
+            "129%",
+            "128%",
+            "130%",
+            "125%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By how many votes did V.S. Achuthanandan defeat C. Krishnakumar in the 2016 election from Malampuzha?",
+        "a": "27,142 votes",
+        "options": [
+            "27,140 votes",
+            "27,145 votes",
+            "27,142 votes",
+            "27,150 votes",
+            "27,130 votes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the Election Commission of India's total seizure of cash and other goods as of March 18, 2026?",
+        "a": "\u20b942.65 crore",
+        "options": [
+            "\u20b942.60 crore",
+            "\u20b942.70 crore",
+            "\u20b942.65 crore",
+            "\u20b942.50 crore",
+            "\u20b942.80 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many candidates were in the BJP\u2019s first list for the April 9 Assembly election in Assam?",
+        "a": "88",
+        "options": [
             "85",
-            "105"
+            "90",
+            "88",
+            "92",
+            "80"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the Leader of Opposition in the Kerala Assembly mentioned in the news?",
-        "a": "V.D. Satheesan",
-        "options": [
-            "Mani C. Kappan",
-            "Jose K. Mani",
-            "V.D. Satheesan",
-            "Shone George",
-            "K. Sudhakaran"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Trinamool Congress (TMC) senior leader who asserted confidence in Mamata Banerjee's victory?",
-        "a": "Dr. Nirmal Majhi",
-        "options": [
-            "Dilip Ghosh",
-            "Suvendu Adhikari",
-            "Dr. Nirmal Majhi",
-            "Mamata Banerjee",
-            "B.L. Santhosh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What number of seats does the TMC senior leader claim the party will win in the West Bengal Assembly elections?",
-        "a": "270",
-        "options": [
-            "250",
-            "260",
-            "270",
-            "280",
-            "290"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Lok Sabha MP who left Congress and joined the BJP ahead of the Assam Assembly election?",
-        "a": "Pradyut Bordoloi",
-        "options": [
-            "Dilip Saikia",
-            "Himanta Biswa Sarma",
-            "Pradyut Bordoloi",
-            "N.V. Subash",
-            "Mallikarjun Kharge"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the BJP leader who claimed Mamata Banerjee is trapped in Bhabanipur?",
-        "a": "Dilip Ghosh",
-        "options": [
-            "N.V. Subash",
-            "Suvendu Adhikari",
-            "Dilip Ghosh",
-            "Amit Shah",
-            "Rajnath Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Kerala Assembly constituency promises a thrilling three-way contest among LDF, NDA, and UDF candidates?",
-        "a": "Nemom",
-        "options": [
-            "Pala",
-            "Kannur",
-            "Nemom",
-            "Konni",
-            "Attingal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Who is the Chief Minister of Maharashtra who announced the ban on non-biodegradable plastic flowers?",
-        "a": "Devendra Fadnavis",
-        "options": [
-            "Uddhav Thackeray",
-            "Eknath Shinde",
-            "Devendra Fadnavis",
-            "Ajit Pawar",
-            "Sharad Pawar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary purpose behind the Maharashtra government's decision to ban non-biodegradable plastic flowers?",
-        "a": "To prevent them from dominating the flower market of farmers",
-        "options": [
-            "To reduce plastic waste in landfills",
-            "To encourage aesthetic use of natural flowers",
-            "To prevent them from dominating the flower market of farmers",
-            "To simplify waste management processes",
-            "To promote eco-friendly decorations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many panchaloha and other metal idols were seized during vehicle checks in Vellore, Ranipet, Tirupattur, and Tiruvannamalai districts?",
-        "a": "53",
-        "options": [
-            "45",
-            "50",
-            "53",
-            "58",
-            "60"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many bags of biryani rice were seized by election officials in Kilpennathur?",
-        "a": "40",
-        "options": [
-            "30",
-            "50",
-            "40",
-            "35",
-            "45"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the estimated worth of the 40 bags of biryani rice seized in Kilpennathur?",
-        "a": "\u20b980,000",
-        "options": [
-            "\u20b975,000",
-            "\u20b985,000",
-            "\u20b980,000",
-            "\u20b990,000",
-            "\u20b970,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total unaccounted cash seized during vehicle checks across Vellore, Ranipet, Tirupattur, and Tiruvannamalai districts?",
-        "a": "\u20b914.94 lakh",
-        "options": [
-            "\u20b914.50 lakh",
-            "\u20b915.00 lakh",
-            "\u20b914.94 lakh",
-            "\u20b914.90 lakh",
-            "\u20b915.10 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From which town in Tiruvannamalai district were the 53 idols seized during a vehicle check?",
-        "a": "Thalavaipuram near Kilpennathur",
-        "options": [
-            "Vandavasi",
-            "Cheyyar",
-            "Thalavaipuram near Kilpennathur",
-            "Polur",
-            "Arani"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Who was identified as the driver carrying the seized idols from Mamallapuram to Tiruvannamalai?",
-        "a": "F. Uman Faroor",
-        "options": [
-            "V. Rajendran",
-            "S. Kumar",
-            "F. Uman Faroor",
-            "A. Singh",
-            "M. Patel"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the specific amount of unaccounted cash seized in Tiruvannamalai district during vehicle checks?",
-        "a": "\u20b99.13 lakh",
-        "options": [
-            "\u20b99.00 lakh",
-            "\u20b99.20 lakh",
-            "\u20b99.13 lakh",
-            "\u20b99.10 lakh",
-            "\u20b99.15 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the unaccounted cash amount seized from a furniture trader in Arcot town, Ranipet district?",
-        "a": "\u20b984,000",
-        "options": [
-            "\u20b980,000",
-            "\u20b990,000",
-            "\u20b984,000",
-            "\u20b982,000",
-            "\u20b986,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many free bus trips did women avail under the Mahalakshmi scheme between December 9, 2023, and February 28, 2026?",
-        "a": "279.97 crore",
-        "options": [
-            "275.00 crore",
-            "280.00 crore",
-            "279.97 crore",
-            "278.50 crore",
-            "281.20 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount was reimbursed by the government to the Telangana State Road Transport Corporation (TGSRTC) in 2024-25 under the Mahalakshmi scheme?",
-        "a": "\u20b93,866.30 crore",
-        "options": [
-            "\u20b93,866.50 crore",
-            "\u20b93,866.10 crore",
-            "\u20b93,866.30 crore",
-            "\u20b93,866.40 crore",
-            "\u20b93,866.20 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount was reimbursed to TGSRTC up to February 26 (year assumed 2026) under the Mahalakshmi scheme?",
-        "a": "\u20b92,913.82 crore",
-        "options": [
-            "\u20b92,913.50 crore",
-            "\u20b92,913.90 crore",
-            "\u20b92,913.82 crore",
-            "\u20b92,913.70 crore",
-            "\u20b92,913.60 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Within how many hours of assuming office was the Mahalakshmi scheme introduced by the government?",
-        "a": "48 hours",
-        "options": [
-            "24 hours",
-            "72 hours",
-            "48 hours",
-            "96 hours",
-            "120 hours"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the initial occupancy percentage of buses before the Mahalakshmi scheme was introduced?",
-        "a": "69%",
-        "options": [
-            "65%",
-            "70%",
-            "69%",
-            "68%",
-            "72%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To what percentage did bus occupancy increase after the introduction of the Mahalakshmi scheme?",
-        "a": "98%",
-        "options": [
-            "95%",
-            "99%",
-            "98%",
-            "97%",
-            "96%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From what amount did the TGSRTC reduce its CCS arrears?",
-        "a": "\u20b9664 crore",
-        "options": [
-            "\u20b9650 crore",
-            "\u20b9670 crore",
-            "\u20b9664 crore",
-            "\u20b9660 crore",
-            "\u20b9668 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To what amount did the TGSRTC reduce its CCS arrears?",
-        "a": "\u20b9300 crore",
-        "options": [
-            "\u20b9280 crore",
-            "\u20b9320 crore",
-            "\u20b9300 crore",
-            "\u20b9290 crore",
-            "\u20b9310 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From what amount were the provident fund liabilities of TGSRTC reduced?",
-        "a": "\u20b91,350 crore",
-        "options": [
-            "\u20b91,300 crore",
-            "\u20b91,400 crore",
-            "\u20b91,350 crore",
-            "\u20b91,320 crore",
-            "\u20b91,380 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To what amount were the provident fund liabilities of TGSRTC reduced?",
-        "a": "\u20b9600 crore",
-        "options": [
-            "\u20b9580 crore",
-            "\u20b9620 crore",
-            "\u20b9600 crore",
-            "\u20b9590 crore",
-            "\u20b9610 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many new buses were procured by TGSRTC?",
-        "a": "2,708",
-        "options": [
-            "2,500",
-            "2,800",
-            "2,708",
-            "2,600",
-            "2,750"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many compassionate appointments were made for the welfare of workers by TGSRTC?",
-        "a": "1,132",
-        "options": [
-            "1,100",
-            "1,150",
-            "1,132",
-            "1,120",
-            "1,140"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the accident insurance cover accorded to TGSRTC employees?",
-        "a": "\u20b91 crore",
-        "options": [
-            "\u20b950 lakh",
-            "\u20b92 crore",
-            "\u20b91 crore",
-            "\u20b975 lakh",
-            "\u20b91.5 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Automatic Testing Stations will be set up across district headquarters in Telangana?",
-        "a": "37",
-        "options": [
-            "30",
-            "40",
-            "37",
-            "35",
-            "32"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From which date will the Telangana State join the Vahan platform to improve transparency in services?",
-        "a": "March 23",
-        "options": [
-            "March 15",
-            "March 20",
-            "March 23",
-            "March 25",
-            "March 28"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did the ED Ranchi Zonal Office file its fifth supplementary Prosecution Complaint in the PMLA case?",
-        "a": "March 17, 2026",
-        "options": [
-            "March 15, 2026",
-            "March 18, 2026",
-            "March 17, 2026",
-            "March 20, 2026",
-            "March 16, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many departmental engineers and officials were arrayed as fresh accused in the ED's fifth supplementary Prosecution Complaint?",
-        "a": "14",
-        "options": [
-            "10",
-            "12",
-            "14",
-            "16",
-            "18"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total number of accused across all Prosecution Complaints in the Jharkhand PMLA case?",
-        "a": "36",
-        "options": [
-            "30",
-            "40",
-            "36",
-            "32",
-            "38"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What fixed commission percentage of the total tender value was collected from contractors in the Jharkhand bribery racket?",
-        "a": "3%",
-        "options": [
-            "2%",
-            "4%",
-            "3%",
-            "2.5%",
-            "3.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the commission was distributed to the then Minister Alamgir Alam through his Personal Secretary?",
-        "a": "1.35%",
-        "options": [
-            "1.00%",
-            "1.50%",
-            "1.35%",
-            "1.25%",
-            "1.45%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the approximate total value of tender allotments against which the commission/bribery racket operated?",
-        "a": "\u20b93,048 Crore",
-        "options": [
-            "\u20b93,000 Crore",
-            "\u20b93,100 Crore",
-            "\u20b93,048 Crore",
-            "\u20b93,050 Crore",
-            "\u20b93,040 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the approximate total Proceeds of Crime (PoC) identified in the Jharkhand PMLA case?",
-        "a": "\u20b990 Crore",
-        "options": [
-            "\u20b980 Crore",
-            "\u20b9100 Crore",
-            "\u20b990 Crore",
-            "\u20b985 Crore",
-            "\u20b995 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the former Jharkhand Minister implicated in the PMLA case?",
-        "a": "Alamgir Alam",
-        "options": [
-            "Sanjeev Kumar Lal",
-            "Singrai Tuti",
-            "Alamgir Alam",
-            "Rajeev Lochan",
-            "Jahangir Alam"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many searches were conducted by the ED under Section 17 of the PMLA across Jharkhand, Delhi, and Bihar?",
-        "a": "52",
-        "options": [
-            "45",
-            "50",
-            "52",
-            "55",
-            "60"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many persons were arrested by the ED in connection with the Jharkhand PMLA case?",
-        "a": "9",
-        "options": [
-            "7",
-            "11",
-            "9",
-            "8",
-            "10"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the approximate value of properties attached through three Provisional Attachment Orders (PAOs) in the Jharkhand PMLA case?",
-        "a": "\u20b944 Crore",
-        "options": [
-            "\u20b940 Crore",
-            "\u20b950 Crore",
-            "\u20b944 Crore",
-            "\u20b942 Crore",
-            "\u20b946 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the approximate total cash seized by the ED in the Jharkhand PMLA case?",
-        "a": "\u20b938 Crore",
-        "options": [
-            "\u20b935 Crore",
-            "\u20b940 Crore",
-            "\u20b938 Crore",
-            "\u20b936 Crore",
-            "\u20b939 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount of cash was seized from premises linked to Sanjeev Kumar Lal, Personal Secretary to Alamgir Alam?",
-        "a": "\u20b932.20 Crore",
-        "options": [
-            "\u20b930.00 Crore",
-            "\u20b933.00 Crore",
-            "\u20b932.20 Crore",
-            "\u20b932.00 Crore",
-            "\u20b932.50 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount of cash was seized from Munna Singh in the Jharkhand PMLA case?",
-        "a": "\u20b92.93 Crore",
-        "options": [
-            "\u20b92.50 Crore",
-            "\u20b93.00 Crore",
-            "\u20b92.93 Crore",
-            "\u20b92.90 Crore",
-            "\u20b92.95 Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many luxury vehicles were seized by the ED in connection with the Jharkhand PMLA case?",
-        "a": "8",
+        "q": "How many women candidates were included in the BJP's first list of 88 candidates for the Assam Assembly elections?",
+        "a": "6",
         "options": [
             "5",
-            "10",
-            "8",
             "7",
-            "9"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the President of the Odisha Pradesh Congress Committee mentioned in the news?",
-        "a": "Bhakta Charan Das",
-        "options": [
-            "Naveen Patnaik",
-            "Manmohan Samal",
-            "Bhakta Charan Das",
-            "Ramesh Jena",
-            "Dilip Ray"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many persons were arrested by Karnataka police from a resort where Congress MLAs were put up?",
-        "a": "4",
-        "options": [
-            "2",
             "6",
-            "4",
-            "3",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the former Odisha Chief Minister who raised bribery charges in connection with Rajya Sabha elections?",
-        "a": "Naveen Patnaik",
-        "options": [
-            "Bhakta Charan Das",
-            "Manmohan Samal",
-            "Naveen Patnaik",
-            "Sujeet Kumar",
-            "Santrupta Mishra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many MLAs voted against whips from their respective parties in the Rajya Sabha election mentioned?",
-        "a": "11",
-        "options": [
             "8",
-            "14",
-            "11",
-            "10",
-            "12"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Congress MLAs were suspended by Odisha Congress for cross-voting in the Rajya Sabha elections?",
-        "a": "3",
-        "options": [
-            "1",
-            "5",
-            "3",
-            "2",
             "4"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who are the three Congress MLAs suspended by Odisha Congress for voting against the party whip?",
-        "a": "Ramesh Jena, Dasarathi Gamango and Sofia Firdous",
+        "q": "How many structures in Gulmarg, including hotels and huts, were involved in the eviction and fresh auction process?",
+        "a": "52",
         "options": [
-            "Manmohan Samal, Sujeet Kumar and Dilip Ray",
-            "Ramesh Jena, Dasarathi Gamango and Sofia Firdous",
-            "Bhakta Charan Das, Naveen Patnaik and Santrupta Mishra",
-            "Alamgir Alam, Sanjeev Kumar Lal and Jahangir Alam",
-            "V.D. Satheesan, K. Sudhakaran and Adoor Prakash"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who launched the book 'Nav Nirman Ke 9 Varsh' in Lucknow?",
-        "a": "Yogi Adityanath",
-        "options": [
-            "Narendra Modi",
-            "Amit Shah",
-            "Yogi Adityanath",
-            "Rajnath Singh",
-            "Devendra Fadnavis"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the collective strength of citizens in Uttar Pradesh mentioned by CM Yogi Adityanath as reflecting the state's transformation?",
-        "a": "25 crore",
-        "options": [
-            "20 crore",
-            "30 crore",
-            "25 crore",
-            "22 crore",
-            "28 crore"
+            "50",
+            "55",
+            "52",
+            "60",
+            "45"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which body ruled that the Karnataka State Co-operative Apex Bank qualifies as a public authority under the RTI Act, 2005?",
-        "a": "Karnataka Information Commission",
+        "q": "Who holds the Finance portfolio in the Telangana government and presented the State's budget for FY 2026-27?",
+        "a": "Mallu Bhatti Vikramarka",
         "options": [
-            "Reserve Bank of India",
-            "National Bank for Agriculture and Rural Development",
-            "Karnataka Information Commission",
+            "Mahesh Kumar Goud",
+            "K.N. Balagopal",
+            "Himanta Biswa Sarma",
+            "Mallu Bhatti Vikramarka",
+            "Revanth Reddy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the TPCC president who attended the Ugadi celebrations with the Deputy Chief Minister?",
+        "a": "Mahesh Kumar Goud",
+        "options": [
+            "Mallu Bhatti Vikramarka",
+            "Revanth Reddy",
+            "Mahesh Kumar Goud",
+            "A. Prabhakaran",
+            "K. Sudhakaran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the LDF candidate seeking re-election from the Malampuzha constituency?",
+        "a": "A. Prabhakaran",
+        "options": [
+            "C. Krishnakumar",
+            "A. Suresh",
+            "V.S. Achuthanandan",
+            "A. Prabhakaran",
+            "E.K. Nayanar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the BJP State vice-president contesting in Malampuzha for the third consecutive time?",
+        "a": "C. Krishnakumar",
+        "options": [
+            "A. Prabhakaran",
+            "A. Suresh",
+            "C. Krishnakumar",
+            "V.S. Achuthanandan",
+            "Manik Saha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the UDF\u2019s candidate for the Malampuzha constituency, a former personal assistant to V.S. Achuthanandan?",
+        "a": "A. Suresh",
+        "options": [
+            "C. Krishnakumar",
+            "A. Prabhakaran",
+            "A. Suresh",
+            "Sivadasa Menon",
+            "K. Sudhakaran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Minister of Assam who will file his nomination papers for the Assembly polls from Jalukbari?",
+        "a": "Himanta Biswa Sarma",
+        "options": [
+            "Manik Saha",
+            "Himanta Biswa Sarma",
+            "Pradyut Bordoloi",
+            "Dilip Saikia",
+            "Atul Bora"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who initiated a rebellion within the Kerala Congress party after AICC denied permission to sitting MPs to contest Assembly polls?",
+        "a": "K. Sudhakaran",
+        "options": [
+            "Adoor Prakash",
+            "Mohammad Shiyas",
+            "K. Sudhakaran",
+            "Rajmohan Unnithan",
+            "Eldhose Kunnappilly"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Congress candidate for the Kannur Assembly constituency, which was sought by K. Sudhakaran?",
+        "a": "T.O. Mohanan",
+        "options": [
+            "Satheesh Kochuparambil",
+            "Mohammad Shiyas",
+            "T.O. Mohanan",
+            "Adoor Prakash",
+            "Eldhose Kunnappilly"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Congress MLA filed a petition before the Assembly Speaker seeking the disqualification of three MLAs under the anti-defection law?",
+        "a": "C.S. Raazen Ekka",
+        "options": [
+            "Rajmohan Unnithan",
+            "K. Sudhakaran",
+            "C.S. Raazen Ekka",
+            "Pradyut Bordoloi",
+            "Sashi Kanta Das"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Minister of Tripura who expressed confidence in BJP winning the Dharmanagar by-election?",
+        "a": "Manik Saha",
+        "options": [
+            "Himanta Biswa Sarma",
+            "Manik Saha",
+            "Jwahar Chakraborty",
+            "Amit Shah",
+            "Dilip Saikia"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Nagaon MP who recently defected from Congress and was rewarded with a BJP nomination from the Dispur seat?",
+        "a": "Pradyut Bordoloi",
+        "options": [
+            "Bhupen Kumar Borah",
+            "Kamalakhya Dey Purkayastha",
+            "Pradyut Bordoloi",
+            "Sashi Kanta Das",
+            "Atul Bora"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the former State Congress president fielded by BJP as a candidate from the Bihpura constituency?",
+        "a": "Bhupen Kumar Borah",
+        "options": [
+            "Pradyut Bordoloi",
+            "Siddhartha Bhattacharya",
+            "Bhupen Kumar Borah",
+            "Basanta Das",
+            "Rupjyoti Kurmi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was acquitted by a Delhi court after spending over seven years in jail under the Unlawful Activities (Prevention) Act (UAPA)?",
+        "a": "Jamsheed Zahoor Paul and Parvaiz Rashid",
+        "options": [
+            "Jamsheed Zahoor Paul",
+            "Parvaiz Rashid",
+            "Ahmad Ibrahim",
+            "Jamsheed Zahoor Paul and Parvaiz Rashid",
+            "Amit Bansal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Additional Sessions Judge of Patiala House Courts acquitted the two persons booked under UAPA?",
+        "a": "Amit Bansal",
+        "options": [
+            "Arun Palli",
+            "Rajnesh Oswal",
+            "Amit Bansal",
+            "Zaffar Shah",
+            "Mohsin Qadri"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which writer, among others, signed the letter urging the withdrawal of the Jnanpith Award to Vairamuthu?",
+        "a": "Ambai",
+        "options": [
+            "Sukumar",
+            "Rohini",
+            "Ambai",
+            "K.N. Balagopal",
+            "Aisha Potty"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which cultural academy had earlier withdrawn the ONV Literary Award for Vairamuthu after protests?",
+        "a": "Kerala Cultural Academy (KCA)",
+        "options": [
+            "Tamil Cultural Academy",
+            "Jnanpith Committee",
+            "Kerala Cultural Academy (KCA)",
+            "Sahitya Akademi",
+            "Central Literary Board"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former three-time CPI(M) MLA from Kottarakara ended her association with the party and joined Congress?",
+        "a": "Aisha Potty",
+        "options": [
+            "R. Resmi",
+            "Aisha Potty",
+            "K.N. Balagopal",
+            "G. Sudhakaran",
+            "S. Rajendran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Mahila Congress general secretary who joined BJP after being denied a ticket in Kottarakara?",
+        "a": "R. Resmi",
+        "options": [
+            "Aisha Potty",
+            "R. Resmi",
+            "Nilima Devi",
+            "Jyotsna Kalita",
+            "Madhavi Das"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the former Public Works Minister and four-term legislator who will contest as an Independent from Ambalappuzha after being forced to retire from CPI(M)?",
+        "a": "G. Sudhakaran",
+        "options": [
+            "S. Rajendran",
+            "P.K. Sasi",
+            "G. Sudhakaran",
+            "K. Ajith",
+            "C.C. Mukundan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did Telangana Deputy Chief Minister Mallu Bhatti Vikramarka present the State\u2019s budget for FY 2026-27?",
+        "a": "Legislative Assembly",
+        "options": [
+            "Secretariat Auditorium",
+            "State Congress Headquarters",
+            "Legislative Assembly",
+            "Gandhi Bhavan",
+            "Hyderabad Metro Hall"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where were the Telugu New Year Ugadi celebrations held, attended by the Telangana Deputy Chief Minister?",
+        "a": "Gandhi Bhavan, Hyderabad",
+        "options": [
+            "Legislative Assembly",
+            "State Congress Headquarters",
+            "Raj Bhavan, Hyderabad",
+            "Gandhi Bhavan, Hyderabad",
+            "Charminar, Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which grama panchayat within the Malampuzha constituency did the BJP secure a recent breakthrough win?",
+        "a": "Akathethara",
+        "options": [
+            "Elapully",
+            "Kodumbu",
+            "Akathethara",
+            "Marutharode",
+            "Mundur"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city was the R.G. Kar Hospital located, where a doctor was raped and murdered in August 2024?",
+        "a": "Kolkata",
+        "options": [
+            "Hyderabad",
+            "Guwahati",
+            "Kolkata",
+            "Chennai",
+            "Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "From which constituency is the mother of the doctor, who was raped and murdered in Kolkata, contesting the Assembly polls?",
+        "a": "Panihati",
+        "options": [
+            "Malampuzha",
+            "Jalukbari",
+            "Panihati",
+            "Kannur",
+            "Dispur"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did K. Sudhakaran hold several rounds of talks with the party leadership after initiating a rebellion?",
+        "a": "Delhi",
+        "options": [
+            "Thiruvananthapuram",
+            "Kochi",
+            "Delhi",
+            "Kannur",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did Himanta Biswa Sarma file his nomination papers for the Assembly polls?",
+        "a": "Guwahati",
+        "options": [
+            "Dispur",
+            "Nagaon",
+            "Guwahati",
+            "Karimganj",
+            "Bongaigaon"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where were the two UAPA accused arrested on September 6, 2018?",
+        "a": "Near Jama Masjid in Delhi",
+        "options": [
+            "Patiala House Courts, Delhi",
+            "Near Jama Masjid in Delhi",
+            "Hyderabad",
+            "Uttar Pradesh",
+            "Mumbai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which court were the two UAPA accused acquitted after over seven years in jail?",
+        "a": "Patiala House Courts, Delhi",
+        "options": [
+            "Delhi High Court",
             "Supreme Court of India",
-            "Karnataka High Court"
+            "Patiala House Courts, Delhi",
+            "Tiz Hazari Courts, Delhi",
+            "Karkardooma Courts, Delhi"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Who filed the second appeal leading to the ruling on the Karnataka State Co-operative Apex Bank under the RTI Act?",
-        "a": "Hanumantha Vasanth Shinde",
+        "q": "In which region are hoteliers withdrawing petitions challenging evictions and fresh auctions of structures?",
+        "a": "Gulmarg, Kashmir",
         "options": [
-            "Nirani Sugars Ltd.",
-            "Rajashekara S.",
-            "Hanumantha Vasanth Shinde",
-            "Ajay Hasia",
-            "B.T. Krishnegowda"
+            "Jammu, J&K",
+            "Srinagar, Kashmir",
+            "Leh, Ladakh",
+            "Gulmarg, Kashmir",
+            "Pahalgam, Kashmir"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "What is the primary reason the Karnataka Information Commission cited for declaring the Apex Bank a public authority?",
-        "a": "Deep and pervasive state control",
+        "q": "Where was the State conference of CPI(M) held in 2022, where G. Sudhakaran was dropped from the State committee?",
+        "a": "Ernakulam",
         "options": [
-            "Its large financial turnover",
-            "Its status as a cooperative society",
-            "Deep and pervasive state control",
-            "Its historical origins",
-            "Its regulation by RBI"
+            "Kollam",
+            "Alappuzha",
+            "Kottarakara",
+            "Ernakulam",
+            "Thiruvananthapuram"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the date for the presentation of the Telangana State\u2019s budget for FY 2026-27?",
+        "a": "March 20, 2026",
+        "options": [
+            "March 19, 2026",
+            "March 21, 2026",
+            "March 20, 2026",
+            "March 22, 2026",
+            "March 18, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which day of the week was the Telangana State's budget for FY 2026-27 presented?",
+        "a": "Friday",
+        "options": [
+            "Thursday",
+            "Saturday",
+            "Friday",
+            "Wednesday",
+            "Monday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Election Commission of India seize \u20b942.65 crore worth of cash and other goods as part of election expenditure monitoring?",
+        "a": "March 18, 2026",
+        "options": [
+            "March 17, 2026",
+            "March 19, 2026",
+            "March 18, 2026",
+            "March 20, 2026",
+            "March 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When are the Assembly elections scheduled to be conducted in Assam, Kerala, and Puducherry?",
+        "a": "April 9, 2026",
+        "options": [
+            "April 8, 2026",
+            "April 10, 2026",
+            "April 9, 2026",
+            "April 23, 2026",
+            "April 29, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When will the election in Tamil Nadu be conducted?",
+        "a": "April 23, 2026",
+        "options": [
+            "April 9, 2026",
+            "April 22, 2026",
+            "April 23, 2026",
+            "April 29, 2026",
+            "May 4, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is the first phase of elections in West Bengal scheduled?",
+        "a": "April 23, 2026",
+        "options": [
+            "April 9, 2026",
+            "April 22, 2026",
+            "April 23, 2026",
+            "April 29, 2026",
+            "May 4, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is the second phase of elections in West Bengal scheduled?",
+        "a": "April 29, 2026",
+        "options": [
+            "April 23, 2026",
+            "April 28, 2026",
+            "April 29, 2026",
+            "May 4, 2026",
+            "April 19, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When will the counting for all Assembly elections in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry be held?",
+        "a": "May 4, 2026",
+        "options": [
+            "May 3, 2026",
+            "May 5, 2026",
+            "May 4, 2026",
+            "April 29, 2026",
+            "April 23, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the First Randomisation of Electronic Voting Machines (EVMs) successfully conducted across all 35 districts in Assam?",
+        "a": "March 18, 2026",
+        "options": [
+            "March 17, 2026",
+            "March 19, 2026",
+            "March 18, 2026",
+            "March 20, 2026",
+            "March 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did Himanta Biswa Sarma join the BJP from Congress?",
+        "a": "2015",
+        "options": [
+            "2014",
+            "2016",
+            "2015",
+            "2013",
+            "2017"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When were the two UAPA accused arrested in Delhi?",
+        "a": "September 6, 2018",
+        "options": [
+            "September 5, 2018",
+            "September 7, 2018",
+            "September 6, 2018",
+            "August 6, 2018",
+            "October 6, 2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Aisha Potty, a three-time CPI(M) MLA, end her decades-long association with the party?",
+        "a": "Third week of January this year",
+        "options": [
+            "Second week of January this year",
+            "Fourth week of January this year",
+            "Third week of January this year",
+            "First week of February this year",
+            "Last week of December last year"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary focus of Telangana's 2026-27 budget, besides balancing welfare with development?",
+        "a": "Infrastructure, with major allocations for projects like Hyderabad Metro expansion.",
+        "options": [
+            "Agriculture and rural development.",
+            "Education and healthcare reform.",
+            "Infrastructure, with major allocations for projects like Hyderabad Metro expansion.",
+            "Debt reduction and fiscal consolidation.",
+            "Tourism and cultural preservation."
         ],
         "cat": "Why"
     },
     {
-        "q": "Who is the Kannur MP and former KPCC president who refused to back down from his demand to be fielded from the Kannur Assembly constituency?",
-        "a": "K. Sudhakaran",
+        "q": "What is the stated purpose of Telangana government's budget to be acceptable to all sections of society?",
+        "a": "To serve as a guiding force for the State\u2019s progress.",
         "options": [
-            "Mallikarjun Kharge",
-            "Adoor Prakash",
-            "K. Sudhakaran",
-            "Shashi Tharoor",
-            "V.D. Satheesan"
+            "To ensure re-election of the ruling party.",
+            "To attract more foreign investments.",
+            "To serve as a guiding force for the State\u2019s progress.",
+            "To comply with central government guidelines.",
+            "To fulfill international obligations."
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who is the current President of the All India Congress Committee (AICC) mentioned in the context of candidate selection?",
-        "a": "Mallikarjun Kharge",
+        "q": "Why is the Telangana government struggling to raise finances for its flagship projects?",
+        "a": "Revenue receipts in 2025-26 are likely to fall short of budget estimates for the second consecutive year.",
         "options": [
-            "Rahul Gandhi",
-            "Sonia Gandhi",
-            "Mallikarjun Kharge",
-            "Priyanka Gandhi",
-            "K. Sudhakaran"
+            "Due to increased central government taxes.",
+            "Revenue receipts in 2025-26 are likely to fall short of budget estimates for the second consecutive year.",
+            "Because of a sudden increase in unforeseen natural calamities.",
+            "Lack of investor confidence in the State.",
+            "Reduced allocation from the central government."
         ],
-        "cat": "Who"
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Election Commission of India flag off Flying Squad Teams (FSTs) and surveillance teams?",
+        "a": "To monitor and enforce election expenditure activities for the Assembly elections.",
+        "options": [
+            "To provide security to candidates.",
+            "To transport EVMs to polling stations.",
+            "To register new voters.",
+            "To monitor and enforce election expenditure activities for the Assembly elections.",
+            "To conduct voter awareness campaigns."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason behind the Congress party denying permission to sitting MPs to contest the Kerala Assembly polls?",
+        "a": "AICC decision to not allow sitting MPs to contest Assembly polls.",
+        "options": [
+            "MPs preferred to continue in national politics.",
+            "Lack of support from local party units.",
+            "AICC decision to not allow sitting MPs to contest Assembly polls.",
+            "Concerns over potential split in votes.",
+            "To introduce new faces in the Assembly."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of Dindigul unveiling the \u2018Dindu\u2019 Slender Loris mascot?",
+        "a": "To promote voter awareness and celebrate its new Conservation Centre.",
+        "options": [
+            "To promote local tourism.",
+            "To raise funds for animal welfare.",
+            "To promote voter awareness and celebrate its new Conservation Centre.",
+            "To attract international wildlife photographers.",
+            "To educate public on forest conservation."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Congress MLA C.S. Raazen Ekka file a petition for the disqualification of three MLAs?",
+        "a": "For alleged cross-voting in the recent Rajya Sabha elections under the anti-defection law.",
+        "options": [
+            "For financial irregularities.",
+            "For not attending party meetings.",
+            "For alleged cross-voting in the recent Rajya Sabha elections under the anti-defection law.",
+            "For publicly criticizing party leadership.",
+            "For promoting rival party ideologies."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Delhi court acquit the two persons booked under UAPA?",
+        "a": "Prosecution failed to prove the charges, citing inconsistencies and lapses in investigation.",
+        "options": [
+            "Lack of legal representation for the accused.",
+            "Insufficient evidence presented by the defense.",
+            "Prosecution failed to prove the charges, citing inconsistencies and lapses in investigation.",
+            "A plea bargain agreement was reached.",
+            "The accused provided new alibi evidence."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the main reason cited by the Collective of Tamil Creators for urging the withdrawal of the Jnanpith Award from Vairamuthu?",
+        "a": "Accusations of sexual harassment by nearly 18 women and his writings not reflecting Tamil society\u2019s core values.",
+        "options": [
+            "His political affiliations.",
+            "Accusations of plagiarism in his works.",
+            "His lack of contribution to modern Tamil literature.",
+            "Accusations of sexual harassment by nearly 18 women and his writings not reflecting Tamil society\u2019s core values.",
+            "His commercial success overshadowing literary merit."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the hoteliers in Gulmarg withdraw their petitions challenging evictions and fresh auctions?",
+        "a": "They intended to approach the J&K government with representations to settle the dispute.",
+        "options": [
+            "The court ruled against them.",
+            "They found alternative locations for their businesses.",
+            "They intended to approach the J&K government with representations to settle the dispute.",
+            "The L-G administration agreed to their demands.",
+            "They decided to abandon their properties."
+        ],
+        "cat": "Why"
     }
 ]
