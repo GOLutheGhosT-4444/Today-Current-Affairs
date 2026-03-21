@@ -1,817 +1,721 @@
 [
     {
-        "q": "What is the total outlay for Telangana's budget for the current financial year 2025-26?",
-        "a": "\u20b93.04 lakh crore",
+        "q": "What is the total number of candidates who had filed their nomination papers for the Assam Assembly elections till Friday, March 20, 2026?",
+        "a": "116",
         "options": [
-            "\u20b93.02 lakh crore",
-            "\u20b93.06 lakh crore",
-            "\u20b93.04 lakh crore",
-            "\u20b93.10 lakh crore",
-            "\u20b92.98 lakh crore"
+            "110",
+            "126",
+            "116",
+            "109",
+            "121"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the projected outlay for Telangana's budget for the financial year 2026-27?",
-        "a": "\u20b93.2 lakh crore",
+        "q": "How many candidates filed their nominations on Friday, March 20, 2026, for the Assam Assembly elections?",
+        "a": "109",
         "options": [
-            "\u20b93.15 lakh crore",
-            "\u20b93.25 lakh crore",
-            "\u20b93.2 lakh crore",
-            "\u20b93.18 lakh crore",
-            "\u20b93.22 lakh crore"
+            "100",
+            "116",
+            "109",
+            "112",
+            "99"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was allocated in Telangana's previous budget for implementing the party\u2019s \u2018six poll guarantees\u2019?",
-        "a": "\u20b956,000 crore",
+        "q": "What is the total number of Assam Assembly constituencies mentioned in the news?",
+        "a": "126",
         "options": [
-            "\u20b955,500 crore",
-            "\u20b956,500 crore",
-            "\u20b956,000 crore",
-            "\u20b957,000 crore",
-            "\u20b955,000 crore"
+            "116",
+            "120",
+            "130",
+            "126",
+            "122"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount did the Telangana government expect to raise through open market loans in the previous budget?",
-        "a": "\u20b964,000 crore",
+        "q": "By how much has the \u2018Lakshmir Bhandar\u2019 scheme been hiked in the TMC manifesto for the West Bengal Assembly elections?",
+        "a": "\u20b9500",
         "options": [
-            "\u20b963,500 crore",
-            "\u20b964,500 crore",
-            "\u20b964,000 crore",
-            "\u20b965,000 crore",
-            "\u20b963,000 crore"
+            "\u20b9550",
+            "\u20b9450",
+            "\u20b9500",
+            "\u20b9600",
+            "\u20b9400"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Telangana's revenue deficit till January end?",
-        "a": "\u20b910,566 crore",
+        "q": "What will be the new monthly assistance for women from the general category under the \u2018Lakshmir Bhandar\u2019 scheme?",
+        "a": "\u20b91,500",
         "options": [
-            "\u20b910,500 crore",
-            "\u20b910,600 crore",
-            "\u20b910,566 crore",
-            "\u20b910,550 crore",
-            "\u20b910,570 crore"
+            "\u20b91,600",
+            "\u20b91,400",
+            "\u20b91,500",
+            "\u20b91,700",
+            "\u20b91,450"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated revenue surplus that Telangana projected, against which a deficit occurred?",
-        "a": "\u20b92,738 crore",
+        "q": "What is the promised monthly assistance for Scheduled Caste and Scheduled Tribe beneficiaries under the enhanced \u2018Lakshmir Bhandar\u2019 scheme?",
+        "a": "\u20b91,700",
         "options": [
-            "\u20b92,730 crore",
-            "\u20b92,740 crore",
-            "\u20b92,738 crore",
-            "\u20b92,750 crore",
-            "\u20b92,720 crore"
+            "\u20b91,650",
+            "\u20b91,750",
+            "\u20b91,700",
+            "\u20b91,800",
+            "\u20b91,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What were Telangana's overall revenue receipts till January end?",
-        "a": "\u20b91.38 lakh crore",
+        "q": "How many women candidates were included in the Congress party's list of 92 candidates for the upcoming Kerala Assembly elections?",
+        "a": "9",
         "options": [
-            "\u20b91.37 lakh crore",
-            "\u20b91.39 lakh crore",
-            "\u20b91.38 lakh crore",
-            "\u20b91.40 lakh crore",
-            "\u20b91.36 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the projected revenue receipts did Telangana achieve till January end?",
-        "a": "60.23%",
-        "options": [
-            "60.20%",
-            "60.25%",
-            "60.23%",
-            "60.30%",
-            "60.15%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What were the provisional figures for borrowings and other liabilities for Telangana as per CAG till January end?",
-        "a": "\u20b969,148 crore",
-        "options": [
-            "\u20b969,100 crore",
-            "\u20b969,200 crore",
-            "\u20b969,148 crore",
-            "\u20b969,150 crore",
-            "\u20b969,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was Telangana's fiscal deficit till January end?",
-        "a": "\u20b969,148 crore",
-        "options": [
-            "\u20b969,140 crore",
-            "\u20b969,150 crore",
-            "\u20b969,148 crore",
-            "\u20b969,200 crore",
-            "\u20b969,130 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the projected budget estimates did Telangana's fiscal deficit constitute till January end?",
-        "a": "128%",
-        "options": [
-            "127%",
-            "129%",
-            "128%",
-            "130%",
-            "125%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By how many votes did V.S. Achuthanandan defeat C. Krishnakumar in the 2016 election from Malampuzha?",
-        "a": "27,142 votes",
-        "options": [
-            "27,140 votes",
-            "27,145 votes",
-            "27,142 votes",
-            "27,150 votes",
-            "27,130 votes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the Election Commission of India's total seizure of cash and other goods as of March 18, 2026?",
-        "a": "\u20b942.65 crore",
-        "options": [
-            "\u20b942.60 crore",
-            "\u20b942.70 crore",
-            "\u20b942.65 crore",
-            "\u20b942.50 crore",
-            "\u20b942.80 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many candidates were in the BJP\u2019s first list for the April 9 Assembly election in Assam?",
-        "a": "88",
-        "options": [
-            "85",
-            "90",
-            "88",
-            "92",
-            "80"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many women candidates were included in the BJP's first list of 88 candidates for the Assam Assembly elections?",
-        "a": "6",
-        "options": [
-            "5",
-            "7",
-            "6",
+            "10",
             "8",
+            "9",
+            "7",
+            "11"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In the Lok Sabha elections of 2024, how many women were given a ticket by Congress out of 16 persons who contested from Kerala?",
+        "a": "1",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "0",
             "4"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many structures in Gulmarg, including hotels and huts, were involved in the eviction and fresh auction process?",
-        "a": "52",
+        "q": "What was the margin of votes by which K. Surendran lost to IUML\u2019s P.B. Abdul Razak in the 2016 Manjeswaram Assembly election?",
+        "a": "89 votes",
         "options": [
-            "50",
-            "55",
-            "52",
-            "60",
-            "45"
+            "99 votes",
+            "80 votes",
+            "89 votes",
+            "100 votes",
+            "79 votes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who holds the Finance portfolio in the Telangana government and presented the State's budget for FY 2026-27?",
-        "a": "Mallu Bhatti Vikramarka",
+        "q": "What was the vote share secured by the UDF in the latest local body elections in the Manjeswaram constituency?",
+        "a": "47%",
         "options": [
-            "Mahesh Kumar Goud",
-            "K.N. Balagopal",
-            "Himanta Biswa Sarma",
-            "Mallu Bhatti Vikramarka",
-            "Revanth Reddy"
+            "45%",
+            "48%",
+            "47%",
+            "46%",
+            "49%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the TPCC president who attended the Ugadi celebrations with the Deputy Chief Minister?",
-        "a": "Mahesh Kumar Goud",
+        "q": "What percentage of the vote share did the National Democratic Alliance (NDA) poll in the latest local body elections in Manjeswaram?",
+        "a": "31%",
         "options": [
-            "Mallu Bhatti Vikramarka",
-            "Revanth Reddy",
-            "Mahesh Kumar Goud",
-            "A. Prabhakaran",
-            "K. Sudhakaran"
+            "30%",
+            "32%",
+            "31%",
+            "33%",
+            "29%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the LDF candidate seeking re-election from the Malampuzha constituency?",
-        "a": "A. Prabhakaran",
+        "q": "What percentage of reservation benefits are sought by the Konkani Latin Christian community in Kerala?",
+        "a": "4%",
         "options": [
-            "C. Krishnakumar",
-            "A. Suresh",
-            "V.S. Achuthanandan",
-            "A. Prabhakaran",
-            "E.K. Nayanar"
+            "3%",
+            "5%",
+            "4%",
+            "6%",
+            "2%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the BJP State vice-president contesting in Malampuzha for the third consecutive time?",
-        "a": "C. Krishnakumar",
+        "q": "What percentage of total posts in the rank of Inspector General in CAPFs shall be filled by IPS officers on deputation, as per the Central Armed Police Forces (General Administration) Bill, 2026?",
+        "a": "50%",
         "options": [
-            "A. Prabhakaran",
-            "A. Suresh",
-            "C. Krishnakumar",
-            "V.S. Achuthanandan",
-            "Manik Saha"
+            "40%",
+            "60%",
+            "50%",
+            "70%",
+            "45%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the UDF\u2019s candidate for the Malampuzha constituency, a former personal assistant to V.S. Achuthanandan?",
-        "a": "A. Suresh",
+        "q": "What is the minimum percentage of posts in the rank of Additional Director General in CAPFs that shall be filled by IPS officers on deputation?",
+        "a": "67%",
         "options": [
-            "C. Krishnakumar",
-            "A. Prabhakaran",
-            "A. Suresh",
-            "Sivadasa Menon",
-            "K. Sudhakaran"
+            "60%",
+            "70%",
+            "67%",
+            "50%",
+            "75%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Chief Minister of Assam who will file his nomination papers for the Assembly polls from Jalukbari?",
+        "q": "What is the approximate total strength of the Central Armed Police Forces (CAPFs)?",
+        "a": "10 lakh",
+        "options": [
+            "8 lakh",
+            "12 lakh",
+            "10 lakh",
+            "9 lakh",
+            "11 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Chief Minister of Assam mentioned in the news, filing his nomination for the Jalukbari constituency?",
         "a": "Himanta Biswa Sarma",
         "options": [
-            "Manik Saha",
+            "Sarbananda Sonowal",
+            "Pema Khandu",
             "Himanta Biswa Sarma",
-            "Pradyut Bordoloi",
-            "Dilip Saikia",
-            "Atul Bora"
+            "Conrad Sangma",
+            "N. Biren Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who initiated a rebellion within the Kerala Congress party after AICC denied permission to sitting MPs to contest Assembly polls?",
-        "a": "K. Sudhakaran",
+        "q": "Who accused Mamata Banerjee of violating the poll code and demanded Election Commission action?",
+        "a": "Suvendu Adhikari",
         "options": [
-            "Adoor Prakash",
-            "Mohammad Shiyas",
-            "K. Sudhakaran",
-            "Rajmohan Unnithan",
-            "Eldhose Kunnappilly"
+            "Dilip Ghosh",
+            "Shatrughan Sinha",
+            "Suvendu Adhikari",
+            "Abhishek Banerjee",
+            "Yashwant Sinha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Congress candidate for the Kannur Assembly constituency, which was sought by K. Sudhakaran?",
-        "a": "T.O. Mohanan",
+        "q": "Which Congress leader lashed out at the party leadership for overlooking women in candidate selection for the Kerala Assembly elections?",
+        "a": "Shama Mohamed",
         "options": [
-            "Satheesh Kochuparambil",
-            "Mohammad Shiyas",
-            "T.O. Mohanan",
-            "Adoor Prakash",
-            "Eldhose Kunnappilly"
+            "Priyanka Gandhi",
+            "Sonia Gandhi",
+            "Shama Mohamed",
+            "Jothimani",
+            "Supriya Shrinate"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Congress MLA filed a petition before the Assembly Speaker seeking the disqualification of three MLAs under the anti-defection law?",
-        "a": "C.S. Raazen Ekka",
+        "q": "Who is the incumbent MLA and UDF candidate for the Manjeswaram constituency?",
+        "a": "A.K.M. Ashraf",
         "options": [
-            "Rajmohan Unnithan",
-            "K. Sudhakaran",
-            "C.S. Raazen Ekka",
-            "Pradyut Bordoloi",
-            "Sashi Kanta Das"
+            "P.B. Abdul Razak",
+            "K. Surendran",
+            "A.K.M. Ashraf",
+            "K.R. Jayanandan",
+            "Shanavas Padhoor"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of Tripura who expressed confidence in BJP winning the Dharmanagar by-election?",
-        "a": "Manik Saha",
+        "q": "Who is the LDF candidate fielded in the Manjeswaram constituency?",
+        "a": "K.R. Jayanandan",
         "options": [
-            "Himanta Biswa Sarma",
-            "Manik Saha",
-            "Jwahar Chakraborty",
+            "A.K.M. Ashraf",
+            "Shanavas Padhoor",
+            "K.R. Jayanandan",
+            "C.H. Kunjambu",
+            "M. Ramappa"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which senior leader of the Revolutionary Socialist Party (RSP) defected to contest as a BDJS candidate?",
+        "a": "Saji D. Anand",
+        "options": [
+            "N.K. Premachandran",
+            "M. Noushad",
+            "Saji D. Anand",
+            "Vishnu Mohan",
+            "Shibu Baby John"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the LDF incumbent with a 28,000-vote victory margin in the Eravipuram constituency?",
+        "a": "M. Noushad",
+        "options": [
+            "Saji D. Anand",
+            "Vishnu Mohan",
+            "M. Noushad",
+            "Shibu Baby John",
+            "Kovoor Kunjumon"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Chief Minister of Gujarat who oversaw the signing of an MoU for Jal Jeevan Mission 2.0?",
+        "a": "Bhupendra Patel",
+        "options": [
+            "Vijay Rupani",
+            "Narendra Modi",
+            "Bhupendra Patel",
+            "Anandiben Patel",
+            "CR Patil"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Union Jal Shakti Minister present virtually during the signing of the Jal Jeevan Mission 2.0 MoU?",
+        "a": "C. R. Patil",
+        "options": [
+            "Gajendra Singh Shekhawat",
+            "Pralhad Joshi",
+            "C. R. Patil",
             "Amit Shah",
-            "Dilip Saikia"
+            "Ishwarsinh Patel"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Nagaon MP who recently defected from Congress and was rewarded with a BJP nomination from the Dispur seat?",
-        "a": "Pradyut Bordoloi",
+        "q": "Who is the MLA of Banki assembly constituency, among those who voted against the BJD party line?",
+        "a": "Debi Ranjan Tripathy",
         "options": [
-            "Bhupen Kumar Borah",
-            "Kamalakhya Dey Purkayastha",
-            "Pradyut Bordoloi",
-            "Sashi Kanta Das",
-            "Atul Bora"
+            "Souvic Biswal",
+            "Pramilla Mallick",
+            "Debi Ranjan Tripathy",
+            "Dilip Ray",
+            "Prasanna Acharya"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former State Congress president fielded by BJP as a candidate from the Bihpura constituency?",
-        "a": "Bhupen Kumar Borah",
+        "q": "Who is the BJD\u2019s Chief Whip in the Odisha Legislative Assembly, who issued show-cause notices to dissenting MLAs?",
+        "a": "Pramilla Mallick",
         "options": [
-            "Pradyut Bordoloi",
-            "Siddhartha Bhattacharya",
-            "Bhupen Kumar Borah",
-            "Basanta Das",
-            "Rupjyoti Kurmi"
+            "Naveen Patnaik",
+            "Debi Ranjan Tripathy",
+            "Pramilla Mallick",
+            "Souvic Biswal",
+            "Maheswar Mohanty"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was acquitted by a Delhi court after spending over seven years in jail under the Unlawful Activities (Prevention) Act (UAPA)?",
-        "a": "Jamsheed Zahoor Paul and Parvaiz Rashid",
+        "q": "Who is the Home Minister whose statement of objects and reasons is attached to the Central Armed Police Forces (General Administration) Bill, 2026?",
+        "a": "Amit Shah",
         "options": [
-            "Jamsheed Zahoor Paul",
-            "Parvaiz Rashid",
-            "Ahmad Ibrahim",
-            "Jamsheed Zahoor Paul and Parvaiz Rashid",
-            "Amit Bansal"
+            "Rajnath Singh",
+            "Narendra Modi",
+            "Amit Shah",
+            "Nirmala Sitharaman",
+            "S. Jaishankar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Additional Sessions Judge of Patiala House Courts acquitted the two persons booked under UAPA?",
-        "a": "Amit Bansal",
+        "q": "Who founded the Madras Labour Union in 1918, recognized as the first trade union in India?",
+        "a": "Singaravelar",
         "options": [
-            "Arun Palli",
-            "Rajnesh Oswal",
-            "Amit Bansal",
-            "Zaffar Shah",
-            "Mohsin Qadri"
+            "M.N. Roy",
+            "B.R. Ambedkar",
+            "Singaravelar",
+            "Lala Lajpat Rai",
+            "V.V. Giri"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which writer, among others, signed the letter urging the withdrawal of the Jnanpith Award to Vairamuthu?",
-        "a": "Ambai",
+        "q": "Who was the Prime Minister when the Indian Parliament passed an unanimous resolution expressing concern over the U.S. invasion of Iraq in 2003?",
+        "a": "Atal Bihari Vajpayee",
         "options": [
-            "Sukumar",
-            "Rohini",
-            "Ambai",
-            "K.N. Balagopal",
-            "Aisha Potty"
+            "Manmohan Singh",
+            "Narendra Modi",
+            "Atal Bihari Vajpayee",
+            "Indira Gandhi",
+            "P.V. Narasimha Rao"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which cultural academy had earlier withdrawn the ONV Literary Award for Vairamuthu after protests?",
-        "a": "Kerala Cultural Academy (KCA)",
+        "q": "Who is the Naam Tamilar Katchi (NTK) chief coordinator mentioned in an interview in Chennai?",
+        "a": "Seeman",
         "options": [
-            "Tamil Cultural Academy",
-            "Jnanpith Committee",
-            "Kerala Cultural Academy (KCA)",
-            "Sahitya Akademi",
-            "Central Literary Board"
+            "Vijay",
+            "K. Palaniswami",
+            "Seeman",
+            "M.K. Stalin",
+            "Kamal Haasan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which former three-time CPI(M) MLA from Kottarakara ended her association with the party and joined Congress?",
-        "a": "Aisha Potty",
-        "options": [
-            "R. Resmi",
-            "Aisha Potty",
-            "K.N. Balagopal",
-            "G. Sudhakaran",
-            "S. Rajendran"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Mahila Congress general secretary who joined BJP after being denied a ticket in Kottarakara?",
-        "a": "R. Resmi",
-        "options": [
-            "Aisha Potty",
-            "R. Resmi",
-            "Nilima Devi",
-            "Jyotsna Kalita",
-            "Madhavi Das"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the former Public Works Minister and four-term legislator who will contest as an Independent from Ambalappuzha after being forced to retire from CPI(M)?",
-        "a": "G. Sudhakaran",
-        "options": [
-            "S. Rajendran",
-            "P.K. Sasi",
-            "G. Sudhakaran",
-            "K. Ajith",
-            "C.C. Mukundan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where did Telangana Deputy Chief Minister Mallu Bhatti Vikramarka present the State\u2019s budget for FY 2026-27?",
-        "a": "Legislative Assembly",
-        "options": [
-            "Secretariat Auditorium",
-            "State Congress Headquarters",
-            "Legislative Assembly",
-            "Gandhi Bhavan",
-            "Hyderabad Metro Hall"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where were the Telugu New Year Ugadi celebrations held, attended by the Telangana Deputy Chief Minister?",
-        "a": "Gandhi Bhavan, Hyderabad",
-        "options": [
-            "Legislative Assembly",
-            "State Congress Headquarters",
-            "Raj Bhavan, Hyderabad",
-            "Gandhi Bhavan, Hyderabad",
-            "Charminar, Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which grama panchayat within the Malampuzha constituency did the BJP secure a recent breakthrough win?",
-        "a": "Akathethara",
-        "options": [
-            "Elapully",
-            "Kodumbu",
-            "Akathethara",
-            "Marutharode",
-            "Mundur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the R.G. Kar Hospital located, where a doctor was raped and murdered in August 2024?",
-        "a": "Kolkata",
-        "options": [
-            "Hyderabad",
-            "Guwahati",
-            "Kolkata",
-            "Chennai",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which constituency is the mother of the doctor, who was raped and murdered in Kolkata, contesting the Assembly polls?",
-        "a": "Panihati",
-        "options": [
-            "Malampuzha",
-            "Jalukbari",
-            "Panihati",
-            "Kannur",
-            "Dispur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did K. Sudhakaran hold several rounds of talks with the party leadership after initiating a rebellion?",
-        "a": "Delhi",
-        "options": [
-            "Thiruvananthapuram",
-            "Kochi",
-            "Delhi",
-            "Kannur",
-            "Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did Himanta Biswa Sarma file his nomination papers for the Assembly polls?",
+        "q": "Where did Assam Chief Minister Himanta Biswa Sarma file his nomination for the Jalukbari constituency?",
         "a": "Guwahati",
         "options": [
             "Dispur",
-            "Nagaon",
+            "Jorhat",
             "Guwahati",
-            "Karimganj",
-            "Bongaigaon"
+            "Dibrugarh",
+            "Silchar"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where were the two UAPA accused arrested on September 6, 2018?",
-        "a": "Near Jama Masjid in Delhi",
+        "q": "Which Union Territory will go to polls on April 9, 2026, along with Assam and Kerala?",
+        "a": "Puducherry",
         "options": [
-            "Patiala House Courts, Delhi",
-            "Near Jama Masjid in Delhi",
-            "Hyderabad",
-            "Uttar Pradesh",
-            "Mumbai"
+            "Delhi",
+            "Chandigarh",
+            "Puducherry",
+            "Andaman & Nicobar",
+            "Lakshadweep"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which court were the two UAPA accused acquitted after over seven years in jail?",
-        "a": "Patiala House Courts, Delhi",
+        "q": "In which state is the Manjeswaram Assembly constituency located?",
+        "a": "Kerala",
         "options": [
-            "Delhi High Court",
-            "Supreme Court of India",
-            "Patiala House Courts, Delhi",
-            "Tiz Hazari Courts, Delhi",
-            "Karkardooma Courts, Delhi"
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Andhra Pradesh",
+            "Goa"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which region are hoteliers withdrawing petitions challenging evictions and fresh auctions of structures?",
-        "a": "Gulmarg, Kashmir",
+        "q": "Which state does the Manjeswaram constituency border?",
+        "a": "Karnataka",
         "options": [
-            "Jammu, J&K",
-            "Srinagar, Kashmir",
-            "Leh, Ladakh",
-            "Gulmarg, Kashmir",
-            "Pahalgam, Kashmir"
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Goa",
+            "Maharashtra"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the State conference of CPI(M) held in 2022, where G. Sudhakaran was dropped from the State committee?",
-        "a": "Ernakulam",
+        "q": "The MoU for Jal Jeevan Mission 2.0 was signed for the implementation of drinking water supply systems in rural areas of which state?",
+        "a": "Gujarat",
         "options": [
-            "Kollam",
-            "Alappuzha",
-            "Kottarakara",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Gujarat",
+            "Maharashtra",
+            "Uttar Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did Brinda Karat address a public meeting where she criticized the Modi government?",
+        "a": "Chennai",
+        "options": [
+            "Kolkata",
+            "Delhi",
+            "Chennai",
+            "Mumbai",
+            "Bengaluru"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Central Armed Police Forces (General Administration) Bill, 2026, is likely to be tabled in which house of the Indian Parliament?",
+        "a": "Rajya Sabha",
+        "options": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Vidhan Sabha",
+            "Sansad Bhawan",
+            "Supreme Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Kovoor Kunjumon, serving his uninterrupted two-decade tenure, is an MLA in an Assembly constituency located in which state?",
+        "a": "Kerala",
+        "options": [
+            "Tamil Nadu",
+            "Odisha",
+            "Kerala",
+            "Assam",
+            "West Bengal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Angamaly-Mannuthy NH 544 corridor, undergoing redevelopment, is located in which state?",
+        "a": "Kerala",
+        "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Andhra Pradesh",
+            "Goa"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which district was toll collection at the Paliyekkara toll plaza suspended due to traffic congestion?",
+        "a": "Thrissur",
+        "options": [
             "Ernakulam",
-            "Thiruvananthapuram"
+            "Kollam",
+            "Thrissur",
+            "Kasaragod",
+            "Palakkad"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the date for the presentation of the Telangana State\u2019s budget for FY 2026-27?",
-        "a": "March 20, 2026",
-        "options": [
-            "March 19, 2026",
-            "March 21, 2026",
-            "March 20, 2026",
-            "March 22, 2026",
-            "March 18, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day of the week was the Telangana State's budget for FY 2026-27 presented?",
-        "a": "Friday",
-        "options": [
-            "Thursday",
-            "Saturday",
-            "Friday",
-            "Wednesday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Election Commission of India seize \u20b942.65 crore worth of cash and other goods as part of election expenditure monitoring?",
-        "a": "March 18, 2026",
-        "options": [
-            "March 17, 2026",
-            "March 19, 2026",
-            "March 18, 2026",
-            "March 20, 2026",
-            "March 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When are the Assembly elections scheduled to be conducted in Assam, Kerala, and Puducherry?",
+        "q": "When did Assam, Kerala, and Puducherry go to polls?",
         "a": "April 9, 2026",
         "options": [
-            "April 8, 2026",
-            "April 10, 2026",
-            "April 9, 2026",
+            "March 20, 2026",
             "April 23, 2026",
-            "April 29, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When will the election in Tamil Nadu be conducted?",
-        "a": "April 23, 2026",
-        "options": [
             "April 9, 2026",
-            "April 22, 2026",
-            "April 23, 2026",
             "April 29, 2026",
             "May 4, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the first phase of elections in West Bengal scheduled?",
-        "a": "April 23, 2026",
-        "options": [
-            "April 9, 2026",
-            "April 22, 2026",
-            "April 23, 2026",
-            "April 29, 2026",
-            "May 4, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When is the second phase of elections in West Bengal scheduled?",
-        "a": "April 29, 2026",
-        "options": [
-            "April 23, 2026",
-            "April 28, 2026",
-            "April 29, 2026",
-            "May 4, 2026",
-            "April 19, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When will the counting for all Assembly elections in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry be held?",
+        "q": "When will the election counting for the five Assembly elections (Assam, Kerala, Puducherry, Tamil Nadu, West Bengal) be held?",
         "a": "May 4, 2026",
         "options": [
-            "May 3, 2026",
-            "May 5, 2026",
-            "May 4, 2026",
             "April 29, 2026",
+            "May 1, 2026",
+            "May 4, 2026",
+            "May 7, 2026",
             "April 23, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the First Randomisation of Electronic Voting Machines (EVMs) successfully conducted across all 35 districts in Assam?",
-        "a": "March 18, 2026",
+        "q": "When did the Bharatiya Janata Party (BJP) begin making inroads into the Manjeswaram constituency?",
+        "a": "1987",
         "options": [
-            "March 17, 2026",
-            "March 19, 2026",
-            "March 18, 2026",
-            "March 20, 2026",
-            "March 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Himanta Biswa Sarma join the BJP from Congress?",
-        "a": "2015",
-        "options": [
-            "2014",
-            "2016",
-            "2015",
-            "2013",
+            "1977",
+            "1997",
+            "1987",
+            "2007",
             "2017"
         ],
         "cat": "When"
     },
     {
-        "q": "When were the two UAPA accused arrested in Delhi?",
-        "a": "September 6, 2018",
+        "q": "In which year did the Revolutionary Socialist Party (RSP) make its dramatic crossover to the United Democratic Front (UDF)?",
+        "a": "2014",
         "options": [
-            "September 5, 2018",
-            "September 7, 2018",
-            "September 6, 2018",
-            "August 6, 2018",
-            "October 6, 2018"
+            "2004",
+            "2010",
+            "2014",
+            "2018",
+            "2020"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Aisha Potty, a three-time CPI(M) MLA, end her decades-long association with the party?",
-        "a": "Third week of January this year",
+        "q": "When was the Jal Jeevan Mission originally launched with the objective of providing tap water connections to all rural households?",
+        "a": "August 15, 2019",
         "options": [
-            "Second week of January this year",
-            "Fourth week of January this year",
-            "Third week of January this year",
-            "First week of February this year",
-            "Last week of December last year"
+            "January 26, 2018",
+            "October 2, 2020",
+            "August 15, 2019",
+            "June 5, 2021",
+            "April 14, 2017"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary focus of Telangana's 2026-27 budget, besides balancing welfare with development?",
-        "a": "Infrastructure, with major allocations for projects like Hyderabad Metro expansion.",
+        "q": "Gujarat reported achieving the target of the original Jal Jeevan Mission in which month and year?",
+        "a": "October 2022",
         "options": [
-            "Agriculture and rural development.",
-            "Education and healthcare reform.",
-            "Infrastructure, with major allocations for projects like Hyderabad Metro expansion.",
-            "Debt reduction and fiscal consolidation.",
-            "Tourism and cultural preservation."
+            "August 2021",
+            "September 2023",
+            "October 2022",
+            "November 2024",
+            "December 2020"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Jal Jeevan Mission 2.0 focuses on strengthening, regularising, and sustaining water supply systems up to which year?",
+        "a": "2028",
+        "options": [
+            "2025",
+            "2030",
+            "2028",
+            "2035",
+            "2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Supreme Court judgment issued, which the Central Armed Police Forces (General Administration) Bill, 2026, seeks to negate?",
+        "a": "May 23, 2025",
+        "options": [
+            "June 15, 2024",
+            "April 1, 2026",
+            "May 23, 2025",
+            "November 10, 2023",
+            "July 7, 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court had asked the Ministry of Home Affairs (MHA) to progressively reduce IPS deputation in CAPFs up to the rank of I-Gs in how many years?",
+        "a": "Two years",
+        "options": [
+            "One year",
+            "Three years",
+            "Two years",
+            "Four years",
+            "Six months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the MHA's review petition against the Supreme Court judgment regarding CAPF IPS deputation dismissed?",
+        "a": "October 28, 2025",
+        "options": [
+            "September 15, 2024",
+            "November 30, 2025",
+            "October 28, 2025",
+            "August 1, 2026",
+            "December 12, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary focus of the TMC manifesto \u2018Banglar Jonno Didir 10 Protigya\u2019 for the West Bengal Assembly elections?",
+        "a": "Welfare expansion, women and minority outreach, and targeted social schemes",
+        "options": [
+            "Industrial development and foreign investment",
+            "Agricultural reforms and farmer subsidies",
+            "Welfare expansion, women and minority outreach, and targeted social schemes",
+            "Infrastructure development and smart cities",
+            "Education reforms and youth employment"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of Telangana government's budget to be acceptable to all sections of society?",
-        "a": "To serve as a guiding force for the State\u2019s progress.",
+        "q": "Why did Congress leader Shama Mohamed lash out at the party leadership?",
+        "a": "For overlooking women in the party\u2019s candidate selection",
         "options": [
-            "To ensure re-election of the ruling party.",
-            "To attract more foreign investments.",
-            "To serve as a guiding force for the State\u2019s progress.",
-            "To comply with central government guidelines.",
-            "To fulfill international obligations."
+            "For delaying seat-sharing talks",
+            "For poor election campaign strategies",
+            "For overlooking women in the party\u2019s candidate selection",
+            "For internal party disputes",
+            "For inadequate funding for candidates"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why is the Telangana government struggling to raise finances for its flagship projects?",
-        "a": "Revenue receipts in 2025-26 are likely to fall short of budget estimates for the second consecutive year.",
+        "q": "Why is Manjeswaram one of Kerala\u2019s most closely watched Assembly constituencies?",
+        "a": "Known for razor-thin margins",
         "options": [
-            "Due to increased central government taxes.",
-            "Revenue receipts in 2025-26 are likely to fall short of budget estimates for the second consecutive year.",
-            "Because of a sudden increase in unforeseen natural calamities.",
-            "Lack of investor confidence in the State.",
-            "Reduced allocation from the central government."
+            "Due to its large population",
+            "Known for razor-thin margins",
+            "It is an industrial hub",
+            "Its historical significance",
+            "It borders multiple states"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Election Commission of India flag off Flying Squad Teams (FSTs) and surveillance teams?",
-        "a": "To monitor and enforce election expenditure activities for the Assembly elections.",
+        "q": "What was the Social Democratic Party of India's (SDPI) earlier strategy in Manjeswaram regarding not fielding candidates?",
+        "a": "Largely to prevent the BJP from gaining ground",
         "options": [
-            "To provide security to candidates.",
-            "To transport EVMs to polling stations.",
-            "To register new voters.",
-            "To monitor and enforce election expenditure activities for the Assembly elections.",
-            "To conduct voter awareness campaigns."
+            "To support the UDF candidate",
+            "To save election expenses",
+            "To prevent the BJP from gaining ground",
+            "Due to lack of suitable candidates",
+            "To align with the LDF"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason behind the Congress party denying permission to sitting MPs to contest the Kerala Assembly polls?",
-        "a": "AICC decision to not allow sitting MPs to contest Assembly polls.",
+        "q": "What is the reason cited by a section of the Konkani Latin Christian community for considering fielding an Independent candidate in Manjeswaram?",
+        "a": "Failure of successive governments to recognise them as Latin Catholics for reservation benefits",
         "options": [
-            "MPs preferred to continue in national politics.",
-            "Lack of support from local party units.",
-            "AICC decision to not allow sitting MPs to contest Assembly polls.",
-            "Concerns over potential split in votes.",
-            "To introduce new faces in the Assembly."
+            "Dissatisfaction with local infrastructure",
+            "Demand for a separate administrative district",
+            "Failure of successive governments to recognise them as Latin Catholics for reservation benefits",
+            "Protest against electoral malpractice",
+            "Lack of representation in local bodies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of Dindigul unveiling the \u2018Dindu\u2019 Slender Loris mascot?",
-        "a": "To promote voter awareness and celebrate its new Conservation Centre.",
+        "q": "What was the main objective of the original Jal Jeevan Mission launched in 2019?",
+        "a": "Providing tap water connections to all rural households under the \u201cHar Ghar Jal\u201d programme",
         "options": [
-            "To promote local tourism.",
-            "To raise funds for animal welfare.",
-            "To promote voter awareness and celebrate its new Conservation Centre.",
-            "To attract international wildlife photographers.",
-            "To educate public on forest conservation."
+            "Promoting rainwater harvesting in urban areas",
+            "Ensuring clean drinking water in schools only",
+            "Providing tap water connections to all rural households under the \u201cHar Ghar Jal\u201d programme",
+            "Improving irrigation facilities for farmers",
+            "Constructing new reservoirs and dams"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Congress MLA C.S. Raazen Ekka file a petition for the disqualification of three MLAs?",
-        "a": "For alleged cross-voting in the recent Rajya Sabha elections under the anti-defection law.",
+        "q": "What is the primary focus of Jal Jeevan Mission 2.0?",
+        "a": "Strengthening, regularising and sustaining water supply systems",
         "options": [
-            "For financial irregularities.",
-            "For not attending party meetings.",
-            "For alleged cross-voting in the recent Rajya Sabha elections under the anti-defection law.",
-            "For publicly criticizing party leadership.",
-            "For promoting rival party ideologies."
+            "Expanding urban water supply networks",
+            "Implementing new sewerage systems",
+            "Strengthening, regularising and sustaining water supply systems",
+            "Developing industrial water treatment plants",
+            "Promoting bottled water consumption"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Delhi court acquit the two persons booked under UAPA?",
-        "a": "Prosecution failed to prove the charges, citing inconsistencies and lapses in investigation.",
+        "q": "According to the Central Armed Police Forces (General Administration) Bill, 2026, why are IPS officers necessary for effective functioning of CAPFs?",
+        "a": "To maintain Centre-State relationship and ensure national security in coordination with State authorities",
         "options": [
-            "Lack of legal representation for the accused.",
-            "Insufficient evidence presented by the defense.",
-            "Prosecution failed to prove the charges, citing inconsistencies and lapses in investigation.",
-            "A plea bargain agreement was reached.",
-            "The accused provided new alibi evidence."
+            "To provide leadership training to cadre officers",
+            "To manage financial allocations efficiently",
+            "To maintain Centre-State relationship and ensure national security in coordination with State authorities",
+            "To ensure political neutrality of the forces",
+            "To handle international collaborations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main reason cited by the Collective of Tamil Creators for urging the withdrawal of the Jnanpith Award from Vairamuthu?",
-        "a": "Accusations of sexual harassment by nearly 18 women and his writings not reflecting Tamil society\u2019s core values.",
+        "q": "What was Brinda Karat's primary criticism of the Prime Minister Narendra Modi-led government at the Centre?",
+        "a": "For transforming parliamentary democracy into 'corporate democracy'",
         "options": [
-            "His political affiliations.",
-            "Accusations of plagiarism in his works.",
-            "His lack of contribution to modern Tamil literature.",
-            "Accusations of sexual harassment by nearly 18 women and his writings not reflecting Tamil society\u2019s core values.",
-            "His commercial success overshadowing literary merit."
+            "For failing to control inflation",
+            "For transforming parliamentary democracy into 'corporate democracy'",
+            "For neglecting agricultural sector",
+            "For weak foreign policy decisions",
+            "For inadequate social welfare programs"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the hoteliers in Gulmarg withdraw their petitions challenging evictions and fresh auctions?",
-        "a": "They intended to approach the J&K government with representations to settle the dispute.",
+        "q": "Why were BJD MLAs, like Debi Ranjan Tripathy, confident that the show-cause notices for voting against the party line in Rajya Sabha elections were illegal?",
+        "a": "Supreme Court judgments state political parties cannot issue a whip to their members to vote in a particular manner in Rajya Sabha elections",
         "options": [
-            "The court ruled against them.",
-            "They found alternative locations for their businesses.",
-            "They intended to approach the J&K government with representations to settle the dispute.",
-            "The L-G administration agreed to their demands.",
-            "They decided to abandon their properties."
+            "The show-cause notices were not issued by the appropriate authority",
+            "The MLAs were not members of the BJD at the time of voting",
+            "Supreme Court judgments state political parties cannot issue a whip to their members to vote in a particular manner in Rajya Sabha elections",
+            "The MLAs were following a directive from the Election Commission of India",
+            "There is no provision in the BJD constitution for such notices"
         ],
         "cat": "Why"
     }
