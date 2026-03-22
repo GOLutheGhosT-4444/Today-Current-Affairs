@@ -38,7 +38,7 @@ jobs:
 
       - name: Install Libraries
         run: |
-          pip install requests beautifulsoup4 lxml google-generativeai
+          pip install requests beautifulsoup4 lxml google-generativeai trafilatura feedparser
 
       # --- STEP 1: SCRAPER ---
       - name: 1. Run Scraper
