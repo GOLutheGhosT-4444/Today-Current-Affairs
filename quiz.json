@@ -1,722 +1,721 @@
 [
     {
-        "q": "How many nomination papers were filed in Kerala till 7:30 p.m. on the Saturday mentioned in the news?",
-        "a": "505",
-        "options": [
-            "515",
-            "495",
-            "505",
-            "525",
-            "485"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total number of nomination papers filed so far in Kerala, including those filed on the Saturday mentioned?",
-        "a": "537",
-        "options": [
-            "547",
-            "527",
-            "537",
-            "557",
-            "517"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Appellate Tribunals has the Election Commission established in West Bengal to address electoral roll disputes?",
-        "a": "19",
-        "options": [
-            "17",
-            "21",
-            "19",
-            "23",
-            "15"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated outstanding debt of Tamil Nadu expected to exceed by 2026-27?",
-        "a": "\u20b910.5 lakh crore",
-        "options": [
-            "\u20b99.5 lakh crore",
-            "\u20b911.0 lakh crore",
-            "\u20b910.5 lakh crore",
-            "\u20b910.0 lakh crore",
-            "\u20b911.5 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the outstanding debt of Tamil Nadu approximately five years ago, according to the news?",
-        "a": "\u20b95.19 lakh crore",
-        "options": [
-            "\u20b95.29 lakh crore",
-            "\u20b95.09 lakh crore",
-            "\u20b95.19 lakh crore",
-            "\u20b95.39 lakh crore",
-            "\u20b94.99 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many seats did the AIADMK and its front win in the 2021 Assembly election mentioned in the text?",
-        "a": "75",
-        "options": [
-            "70",
-            "80",
-            "75",
-            "85",
-            "65"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the budget outlay for Himachal Pradesh for the year 2026-27?",
-        "a": "\u20b954,928 crore",
-        "options": [
-            "\u20b954,828 crore",
-            "\u20b955,028 crore",
-            "\u20b954,928 crore",
-            "\u20b954,728 crore",
-            "\u20b955,128 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the budget outlay for Himachal Pradesh for the year 2025-26?",
-        "a": "\u20b958,514 crore",
-        "options": [
-            "\u20b958,414 crore",
-            "\u20b958,614 crore",
-            "\u20b958,514 crore",
-            "\u20b958,314 crore",
-            "\u20b958,714 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the average annual loss in Revenue Deficit Grant (RDG) expected for Himachal Pradesh due to the discontinuation by the central government?",
-        "a": "\u20b98,105 crore",
-        "options": [
-            "\u20b98,005 crore",
-            "\u20b98,205 crore",
-            "\u20b98,105 crore",
-            "\u20b98,305 crore",
-            "\u20b97,905 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the victory margin for K.P. Kunhammad Kutty against Parakkal Abdulla in the Kuttiyadi constituency?",
-        "a": "333 votes",
-        "options": [
-            "323 votes",
-            "343 votes",
-            "333 votes",
-            "313 votes",
-            "353 votes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many grama panchayats are under UDF rule in the Perambra segment?",
-        "a": "Six",
-        "options": [
-            "Five",
-            "Seven",
-            "Six",
-            "Eight",
-            "Four"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many voters are there in Pottalurani village, according to the final electoral roll released in February 2026?",
-        "a": "912",
-        "options": [
-            "902",
-            "922",
-            "912",
-            "932",
-            "892"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many fish waste processing units are currently functioning near Pottalurani village?",
+        "q": "According to CENTCOM, how many days apart were the before-and-after images taken showing the impact of US airstrikes on the Iranian facility?",
         "a": "Three",
         "options": [
+            "One",
             "Two",
             "Four",
-            "Three",
             "Five",
-            "One"
+            "Three"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum number of seats the CPI(M) State Committee is firm about for their share in the alliance?",
-        "a": "Six",
+        "q": "The first photograph of the Qom Turbine Engine Production Plant, before US airstrikes, was dated March how many, as per CENTCOM's post on X?",
+        "a": "6",
         "options": [
-            "Five",
-            "Seven",
-            "Six",
-            "Eight",
-            "Four"
+            "5",
+            "7",
+            "8",
+            "9",
+            "6"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In 1991, how many seats did the DMK bag in the Assembly elections?",
+        "q": "The US-Israel and Iran conflict, which began with the assassination of Ayatollah Ali Khamenei, has now entered its how many weeks?",
+        "a": "Fourth",
+        "options": [
+            "First",
+            "Second",
+            "Fourth",
+            "Third",
+            "Fifth"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The second image of the Qom Turbine Engine Production Plant, showing extensive damage, was taken how many days after the first image?",
+        "a": "Three",
+        "options": [
+            "One",
+            "Five",
+            "Three",
+            "Four",
+            "Two"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What specific day of the month was mentioned for Candace Owens' foot injury?",
+        "a": "13",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "14",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many major international councils/groups did French President Macron suggest should strengthen coordination alongside the Gulf Cooperation Council (GCC)?",
+        "a": "One (G7)",
+        "options": [
+            "Zero",
+            "Two (NATO, EU)",
+            "One (G7)",
+            "Three (UN, African Union, ASEAN)",
+            "Four (BRICS, SCO, Quad, IBSA)"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many explicit types of military components or systems was the Qom Turbine Engine Production Plant reported to produce, according to CENTCOM?",
         "a": "Two",
         "options": [
             "One",
             "Three",
             "Two",
             "Four",
-            "Zero"
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who will kick off the election campaign for the upcoming Assembly polls in Kerala on March 25?",
-        "a": "Rahul Gandhi",
+        "q": "How many individuals were named by the news as having injuries or being subjects of injury speculation in the Candace Owens incident?",
+        "a": "Two",
         "options": [
-            "Mamata Banerjee",
-            "Narendra Modi",
-            "V.D. Satheesan",
-            "Rahul Gandhi",
-            "Pinarayi Vijayan"
+            "One",
+            "Three",
+            "Four",
+            "Two",
+            "Five"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the current Chief Minister of West Bengal mentioned in the text?",
-        "a": "Mamata Banerjee",
+        "q": "How many countries were directly involved in the conversation between President Macron and Crown Prince Mohammed bin Salman?",
+        "a": "Two",
         "options": [
-            "Narendra Modi",
-            "Rahul Gandhi",
-            "Mamata Banerjee",
-            "Pinarayi Vijayan",
-            "Arvind Kejriwal"
+            "One",
+            "Three",
+            "Two",
+            "Four",
+            "Five"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Leader of Opposition in Kerala mentioned in the context of supporting independent candidates?",
-        "a": "V.D. Satheesan",
+        "q": "Based on the first photo being on March 6 and the second three days later, on which day of March was the second photo taken?",
+        "a": "9",
         "options": [
-            "Rahul Gandhi",
-            "Pinarayi Vijayan",
-            "V.D. Satheesan",
-            "M.A. Baby",
-            "K. J. Praveen Kumar"
+            "7",
+            "8",
+            "10",
+            "11",
+            "9"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Naam Tamilar Katchi (NTK) chief coordinator mentioned in an interview with The Hindu?",
-        "a": "Seeman",
+        "q": "How many specific leaders are mentioned by name in the context of the US-Israel and Iran conflict?",
+        "a": "One",
         "options": [
-            "Vijay",
-            "E.V. Ramasamy",
-            "Seeman",
-            "M. Karunanidhi",
-            "M.G. Ramachandran"
+            "Zero",
+            "Two",
+            "One",
+            "Three",
+            "Four"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the actor-politician mentioned as the founder of Tamilaga Vettri Kazhagam (TVK)?",
-        "a": "Vijay",
+        "q": "How many 'photos' of the Qom Turbine Engine Production Plant are explicitly mentioned in the CENTCOM post on X?",
+        "a": "Two",
         "options": [
-            "Seeman",
-            "M.G. Ramachandran",
-            "Vijay",
-            "Kamal Haasan",
-            "Rajinikanth"
+            "One",
+            "Three",
+            "Four",
+            "Two",
+            "Five"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the former Chief Minister of Delhi mentioned for establishing good healthcare systems?",
-        "a": "Arvind Kejriwal",
+        "q": "Which command released before-and-after images showing the impact of American airstrikes on a key Iranian facility?",
+        "a": "United States Central Command (CENTCOM)",
         "options": [
-            "Pinarayi Vijayan",
-            "Narendra Modi",
-            "Arvind Kejriwal",
-            "Mamata Banerjee",
-            "M. Karunanidhi"
+            "United States European Command (EUCOM)",
+            "United States Pacific Command (PACOM)",
+            "United States Africa Command (AFRICOM)",
+            "United States Central Command (CENTCOM)",
+            "United States Cyber Command (CYBERCOM)"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the current Chief Minister of Kerala mentioned for establishing good healthcare systems?",
-        "a": "Pinarayi Vijayan",
+        "q": "Who was identified as the longest-serving leader of Tehran, whose assassination marked the beginning of the US-Israel and Iran conflict?",
+        "a": "Ayatollah Ali Khamenei",
         "options": [
-            "Arvind Kejriwal",
-            "Rahul Gandhi",
-            "Pinarayi Vijayan",
-            "V.D. Satheesan",
-            "M.A. Baby"
+            "Ayatollah Ruhollah Khomeini",
+            "Hassan Rouhani",
+            "Ayatollah Ali Khamenei",
+            "Mahmoud Ahmadinejad",
+            "Mohammad Khatami"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the Vadakara MP mentioned as a factor on which the UDF banks for the upcoming polls?",
-        "a": "Shafi Parambil",
+        "q": "Which French President spoke on Monday with Saudi Arabia\u2019s Crown Prince Mohammed bin Salman?",
+        "a": "Emmanuel Macron",
         "options": [
-            "K.P. Kunhammad Kutty",
-            "Parakkal Abdulla",
-            "Shafi Parambil",
-            "K. Praveenkumar",
-            "E.K. Vijayan"
+            "Fran\u00e7ois Hollande",
+            "Nicolas Sarkozy",
+            "Jacques Chirac",
+            "Emmanuel Macron",
+            "Georges Pompidou"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the CPI(M) general secretary mentioned attending the State Secretariat meeting regarding seat-sharing?",
-        "a": "M.A. Baby",
+        "q": "Who is the Crown Prince of the Kingdom of Saudi Arabia that French President Emmanuel Macron spoke with?",
+        "a": "Mohammed bin Salman",
         "options": [
-            "Seeman",
-            "Vaiko",
-            "G. K. Moopanar",
-            "M.A. Baby",
-            "S. Semmalai"
+            "Fahd bin Abdulaziz Al Saud",
+            "Salman bin Abdulaziz Al Saud",
+            "Nayef bin Abdulaziz Al Saud",
+            "Mohammed bin Salman",
+            "Abdullah bin Abdulaziz Al Saud"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the senior AIADMK leader and former Education and Health Minister who called for avoiding freebies?",
-        "a": "S. Semmalai",
+        "q": "Whose viral photo became the focus of online speculation regarding a potential injury to her husband, George Farmer?",
+        "a": "Candace Owens",
         "options": [
-            "M.G. Ramachandran",
-            "Jayalalithaa",
-            "M. Karunanidhi",
-            "S. Semmalai",
-            "Vijay"
+            "Erika Kirk",
+            "Kanye West",
+            "Kim Kardashian",
+            "Candace Owens",
+            "Meghan Markle"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who inaugurated the Jan Aushadi Kendra at Mukarampura Doctor\u2019s Street in Karimnagar?",
-        "a": "Bandi Sanjay Kumar",
+        "q": "Who is Candace Owens' husband, who was reportedly seen trying to hide from cameras and speculated to have a 'black eye'?",
+        "a": "George Farmer",
         "options": [
-            "K. Srinivas",
-            "Bandi Sanjay Kumar",
-            "L. Murugan",
-            "Kiren Rijiju",
-            "P. Sudhakar Reddy"
+            "Kanye West",
+            "Donald Trump Jr.",
+            "Elon Musk",
+            "Ben Shapiro",
+            "George Farmer"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who is the Principal Secretary, Revenue Department, who refused a blanket exemption for women teachers from SIR and census duties?",
-        "a": "Munish Moudgil",
+        "q": "Which organization's facility, controlled by the IRGC, produced gas turbine engines for attack drones and was destroyed by US airstrikes?",
+        "a": "Islamic Revolutionary Guard Corps (IRGC)",
         "options": [
-            "Madhu Bangarappa",
-            "Chandrashekara Nuggali",
-            "Munish Moudgil",
-            "Kiren Rijiju",
-            "L. Murugan"
+            "Ministry of Defense and Armed Forces Logistics (MODAFL)",
+            "Basij Resistance Force",
+            "Islamic Revolutionary Guard Corps (IRGC)",
+            "Iranian Army (Artesh)",
+            "Iranian Cyber Police"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Where did the clash between BJP and TMC supporters occur in North 24 Parganas?",
-        "a": "Baranagar",
+        "q": "Which major international group was urged by President Macron to strengthen coordination with the Gulf Cooperation Council (GCC)?",
+        "a": "G7",
         "options": [
-            "Kolkata",
-            "Barrackpore",
-            "Baranagar",
-            "Dindigul",
-            "Salem"
+            "G20",
+            "BRICS",
+            "G7",
+            "Shanghai Cooperation Organization (SCO)",
+            "NATO"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "In which district of Kerala will Rahul Gandhi kick off his election campaign?",
-        "a": "Kozhikode",
+        "q": "Which social media platform was used by CENTCOM to post information and images regarding the airstrikes?",
+        "a": "X",
         "options": [
-            "Thiruvananthapuram",
-            "Ernakulam",
-            "Kozhikode",
-            "Palakkad",
-            "Thrissur"
+            "Facebook",
+            "Instagram",
+            "YouTube",
+            "TikTok",
+            "X"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "Where did Mamata Banerjee sharpen her attack on the BJP-led Centre during an Eid-ul-Fitr congregation?",
-        "a": "Kolkata's Red Road",
+        "q": "Who was the subject of Candace Owens questioning her past, as mentioned in a separate article snippet?",
+        "a": "Erika Kirk",
         "options": [
-            "North 24 Parganas",
-            "Chennai",
-            "Kozhikode",
-            "Kolkata's Red Road",
-            "Shimla"
+            "Kanye West",
+            "George Farmer",
+            "Sarah Palin",
+            "Erika Kirk",
+            "Riley Gaines"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "In which city did Naam Tamilar Katchi (NTK) chief coordinator Seeman give an interview to The Hindu?",
-        "a": "Chennai",
+        "q": "Which prominent artist's 'angle' was mentioned in connection with Candace Owens' past discussions, according to the news?",
+        "a": "Kanye West",
         "options": [
-            "Kolkata",
-            "Delhi",
-            "Chennai",
-            "Bengaluru",
-            "Shimla"
+            "Jay-Z",
+            "Drake",
+            "Travis Scott",
+            "Taylor Swift",
+            "Kanye West"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "In which state did Chief Minister Pinarayi Vijayan establish good healthcare systems, according to Seeman?",
-        "a": "Kerala",
+        "q": "Who specifically reaffirmed France's solidarity and commitment to contributing to the strengthening of Saudi Arabia's air defences?",
+        "a": "Emmanuel Macron",
         "options": [
-            "Tamil Nadu",
-            "West Bengal",
-            "Kerala",
-            "Delhi",
-            "Himachal Pradesh"
+            "French Minister of Defence",
+            "French Prime Minister",
+            "President of the European Commission",
+            "French Ambassador to Saudi Arabia",
+            "Emmanuel Macron"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "Which Assembly constituency in Thoothukudi district includes Pottalurani village, where residents announced an election boycott?",
-        "a": "Ottapidaram",
+        "q": "What was the name of the key Iranian facility, controlled by the IRGC, that was targeted and destroyed by American airstrikes?",
+        "a": "Qom Turbine Engine Production Plant",
         "options": [
-            "Vadakara",
-            "Ambalappuzha",
-            "Taliparamba",
-            "Ottapidaram",
-            "Perambra"
+            "Natanz Nuclear Facility",
+            "Fordow Fuel Enrichment Plant",
+            "Qom Turbine Engine Production Plant",
+            "Arak Heavy Water Reactor",
+            "Bushehr Nuclear Power Plant"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Where are two of the three fish waste processing units mentioned as causing hardship near Pottalurani village located?",
-        "a": "Vadakku Karaseri",
+        "q": "Which country's facility, producing gas turbine engines for attack drones, was destroyed by US airstrikes?",
+        "a": "Iran",
         "options": [
-            "Pottalurani junction",
-            "Ellainayakkanpatti",
-            "Vadakku Karaseri",
-            "Ottapidaram",
-            "Maniyoor"
+            "Syria",
+            "Iraq",
+            "Yemen",
+            "Lebanon",
+            "Iran"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which Lok Sabha constituency did S. Semmalai represent Salem during 2009-14?",
-        "a": "Salem",
+        "q": "In which critical body of water did French President Macron call on Iran to restore freedom of navigation?",
+        "a": "Strait of Hormuz",
         "options": [
-            "Dindigul",
-            "Puducherry",
-            "Vadakara",
-            "Salem",
-            "Coimbatore"
+            "Suez Canal",
+            "Bab el-Mandeb Strait",
+            "Red Sea",
+            "Persian Gulf",
+            "Strait of Hormuz"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Where did MGR demonstrate his party's strength by winning the Lok Sabha byelection in 1973?",
-        "a": "Dindigul",
+        "q": "Which kingdom's air defences did France reaffirm its commitment to helping strengthen, amidst repeated attacks?",
+        "a": "Saudi Arabia",
         "options": [
-            "Coimbatore",
-            "Puducherry",
-            "Chennai",
-            "Dindigul",
-            "Salem"
+            "Qatar",
+            "Kuwait",
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "Bahrain"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which city was a Jan Aushadi Kendra inaugurated by Union Minister of State for Home Affairs Bandi Sanjay Kumar?",
-        "a": "Karimnagar",
+        "q": "In which city was the 'Catholics for Catholics' event held, where Candace Owens was seen with a foot injury?",
+        "a": "DC",
         "options": [
-            "Chennai",
-            "Bengaluru",
-            "Shimla",
-            "Karimnagar",
-            "Hyderabad"
+            "New York City",
+            "Los Angeles",
+            "DC",
+            "Chicago",
+            "Philadelphia"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Where did the Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu present the State budget for 2026-27?",
-        "a": "Shimla",
+        "q": "From which country's Central Command did the details regarding the airstrikes on the Iranian facility originate?",
+        "a": "United States",
         "options": [
-            "Chandigarh",
-            "Dehradun",
-            "Shimla",
-            "Dharamshala",
-            "Manali"
+            "United Kingdom",
+            "Israel",
+            "United States",
+            "France",
+            "Germany"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which city did BJP leader Kiren Rijiju hold a meeting with Bishops and pastors from various churches across Tamil Nadu?",
-        "a": "Chennai",
+        "q": "The conflict involving US-Israel and Iran began with the assassination of the leader of which city/region?",
+        "a": "Tehran",
         "options": [
-            "Madurai",
-            "Coimbatore",
-            "Chennai",
-            "Salem",
-            "Tiruchirappalli"
+            "Baghdad",
+            "Riyadh",
+            "Tehran",
+            "Beirut",
+            "Damascus"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "On which date is Rahul Gandhi scheduled to kick off his election campaign in Kerala?",
-        "a": "March 25",
+        "q": "Which major international grouping, alongside the Gulf Cooperation Council (GCC), was recommended to strengthen coordination?",
+        "a": "G7",
         "options": [
-            "March 21",
-            "March 23",
-            "March 25",
-            "April 9",
-            "April 23"
+            "G20",
+            "BRICS",
+            "ASEAN",
+            "NATO",
+            "G7"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When did the Election Commission of India announce the completion of the first randomisation of EVMs and VVPATs?",
-        "a": "March 21, 2026",
+        "q": "The Qom Turbine Engine Production Plant, targeted by US airstrikes, is located in which country?",
+        "a": "Iran",
         "options": [
-            "March 23, 2026",
-            "April 9, 2026",
-            "March 21, 2026",
-            "April 23, 2026",
-            "May 4, 2026"
+            "Syria",
+            "Iraq",
+            "Yemen",
+            "Pakistan",
+            "Iran"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "On which date will Assam, Kerala, and Puducherry go to polls for the 2026 Assembly elections?",
-        "a": "April 9, 2026",
+        "q": "The conversation between French President Emmanuel Macron and Crown Prince Mohammed bin Salman primarily concerned which two nations?",
+        "a": "France and Saudi Arabia",
         "options": [
-            "April 23, 2026",
-            "April 29, 2026",
-            "April 9, 2026",
-            "May 4, 2026",
-            "March 25, 2026"
+            "France and UAE",
+            "France and Qatar",
+            "France and Kuwait",
+            "France and Saudi Arabia",
+            "France and Bahrain"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the election scheduled to be conducted in Tamil Nadu for the upcoming Assembly polls?",
-        "a": "April 23",
+        "q": "Where was the 'fake Catholic event' mentioned in social media comments, where George Farmer was reportedly seen hiding?",
+        "a": "DC",
         "options": [
-            "April 9",
-            "April 29",
-            "April 23",
-            "May 4",
-            "March 25"
+            "New York City",
+            "Miami",
+            "Boston",
+            "San Francisco",
+            "DC"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the first phase of elections scheduled to happen in West Bengal?",
-        "a": "April 23, 2026",
+        "q": "Which country is home to the Islamic Revolutionary Guard Corps (IRGC), whose facility was targeted by US airstrikes?",
+        "a": "Iran",
         "options": [
-            "April 9, 2026",
-            "April 29, 2026",
-            "April 23, 2026",
-            "May 4, 2026",
-            "March 21, 2026"
+            "Syria",
+            "Iraq",
+            "Lebanon",
+            "Yemen",
+            "Iran"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the second phase of elections scheduled to happen in West Bengal?",
-        "a": "April 29, 2026",
+        "q": "On what specific date was the first photo of the Iranian plant taken before US airstrikes, as stated in the CENTCOM post?",
+        "a": "March 6, 2026",
         "options": [
-            "April 23, 2026",
-            "May 4, 2026",
-            "April 29, 2026",
-            "April 9, 2026",
-            "March 21, 2026"
+            "March 3, 2026",
+            "March 9, 2026",
+            "March 13, 2026",
+            "March 6, 2024",
+            "March 6, 2026"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "On which date will the counting for all these Assembly elections be held?",
-        "a": "May 4, 2026",
+        "q": "How many days after March 6, 2026, was the second image, showing the damage to the Iranian plant, taken?",
+        "a": "Three days later",
         "options": [
-            "April 23, 2026",
-            "April 29, 2026",
-            "May 4, 2026",
-            "May 14, 2026",
-            "April 14, 2026"
+            "One day later",
+            "Two days later",
+            "Four days later",
+            "Five days later",
+            "Three days later"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "What was the last day for candidates to file nomination papers after the Saturday mentioned, as Sunday was a holiday?",
-        "a": "Monday (March 23)",
+        "q": "The US-Israel and Iran conflict, ongoing since the assassination of Ayatollah Ali Khamenei, has now entered which week?",
+        "a": "Fourth week",
         "options": [
-            "Tuesday (March 24)",
-            "Monday (March 23)",
-            "Wednesday (March 25)",
-            "Thursday (March 26)",
-            "Friday (March 27)"
+            "First week",
+            "Second week",
+            "Fourth week",
+            "Third week",
+            "Fifth week"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "In which year did the residents of Pottalurani village first start demanding the closure of fish waste processing units?",
-        "a": "2019",
+        "q": "When did Candace Owens claim she broke her foot, according to the provided text?",
+        "a": "Friday the 13th",
         "options": [
-            "2018",
-            "2020",
-            "2019",
-            "2021",
-            "2022"
+            "Monday the 1st",
+            "Tuesday the 7th",
+            "Friday the 13th",
+            "Wednesday the 10th",
+            "Thursday the 12th"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "When was the final electoral roll for Pottalurani village released, stating its number of voters?",
-        "a": "February 2026",
+        "q": "Based on the first photo being on March 6, 2026, when was the second photo, depicting damage, specifically taken?",
+        "a": "March 9, 2026",
         "options": [
-            "January 2026",
-            "March 2026",
-            "February 2026",
-            "April 2026",
-            "May 2026"
+            "March 7, 2026",
+            "March 8, 2026",
+            "March 10, 2026",
+            "March 13, 2026",
+            "March 9, 2026"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "When did the CPI(M) take a similar position on seat allocation, contesting independently after being allotted only one seat by the DMK?",
-        "a": "1998 Lok Sabha election",
+        "q": "On which day of the week did CENTCOM release the before-and-after images of the US airstrikes?",
+        "a": "Monday",
         "options": [
-            "1996 Assembly election",
-            "1998 Lok Sabha election",
-            "2021 Assembly election",
-            "2001 Lok Sabha election",
-            "2004 Assembly election"
+            "Sunday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Monday"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "In which period did Himachal Pradesh receive Revenue Deficit Grant (RDG) from the central government?",
-        "a": "2020-21 to 2025-26",
+        "q": "The conflict between US-Israel and Iran is described as being in which specific week of its duration?",
+        "a": "Fourth",
         "options": [
-            "2019-20 to 2024-25",
-            "2020-21 to 2025-26",
-            "2021-22 to 2026-27",
-            "2018-19 to 2023-24",
-            "2022-23 to 2027-28"
+            "First",
+            "Second",
+            "Third",
+            "Fifth",
+            "Fourth"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "What was Mamata Banerjee's primary reason for casting the West Bengal polls as a battle?",
-        "a": "To protect the state\u2019s pluralistic fabric against polarizing rhetoric",
+        "q": "On what day of the week did French President Emmanuel Macron hold a conversation with Saudi Arabia\u2019s Crown Prince Mohammed bin Salman?",
+        "a": "Monday",
         "options": [
-            "To increase the state's GDP",
-            "To defeat Rahul Gandhi",
-            "To protect the state\u2019s pluralistic fabric against polarizing rhetoric",
-            "To secure more central funds",
-            "To ban all freebies"
+            "Sunday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Monday"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the stated purpose of the 19 Appellate Tribunals established by the Election Commission in West Bengal?",
-        "a": "To address electoral roll disputes",
+        "q": "The CENTCOM post states the plant photo was taken on March 6 and the second image was taken how many days later?",
+        "a": "Three days later",
         "options": [
-            "To oversee EVM randomisation",
-            "To manage poll security",
-            "To address electoral roll disputes",
-            "To count votes",
-            "To register new voters"
+            "One day later",
+            "Two days later",
+            "Four days later",
+            "Five days later",
+            "Three days later"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the core idea behind Naam Tamilar Katchi (NTK)'s manifesto regarding the economy?",
-        "a": "Reorganising the economy around agriculture",
+        "q": "The photo of the Qom Turbine Engine Production Plant before US airstrikes was explicitly dated to which year?",
+        "a": "2026",
         "options": [
-            "Promoting heavy industry",
-            "Focusing on IT services",
-            "Reorganising the economy around agriculture",
-            "Shutting down all factories",
-            "Increasing imports"
+            "2023",
+            "2024",
+            "2026",
+            "2025",
+            "2027"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "According to Seeman, why did he not ally with actor-politician Vijay and his TVK?",
-        "a": "Because Vijay toes the same line as the Dravidian parties",
+        "q": "How long has the US-Israel and Iran conflict been ongoing, as explicitly stated by its entry into a specific week?",
+        "a": "Entered its fourth week",
         "options": [
-            "Because Vijay demanded more seats",
-            "Because Seeman dislikes actors",
-            "Because Vijay toes the same line as the Dravidian parties",
-            "Because Vijay is too young",
-            "Because Seeman prefers national alliances"
+            "Entered its first week",
+            "Entered its second week",
+            "Entered its third week",
+            "Entered its fifth week",
+            "Entered its fourth week"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the primary reason stated by the residents of Pottalurani village for boycotting the election?",
-        "a": "Unaddressed demand for the closure of fish waste processing units",
+        "q": "Candace Owens spoke at the Catholics for Catholics event on which specific day of the week?",
+        "a": "Thursday",
         "options": [
-            "Demand for a new Chief Minister",
-            "Lack of internet access",
-            "Unaddressed demand for the closure of fish waste processing units",
-            "High property taxes",
-            "Demand for more freebies"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday",
+            "Thursday"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is another demand of the Pottalurani villagers, besides the closure of fish waste units?",
-        "a": "Bifurcation of Ellainayakkanpatti village panchayat to form a separate Pottalurani panchayat",
+        "q": "What was the primary function of the Iranian facility targeted by US airstrikes, as described by CENTCOM?",
+        "a": "Produced gas turbine engines for attack drones and aircraft components",
         "options": [
-            "Construction of a new hospital",
-            "Building a larger school",
-            "Bifurcation of Ellainayakkanpatti village panchayat to form a separate Pottalurani panchayat",
-            "More police deployment",
-            "A direct cash transfer scheme"
+            "Developed nuclear weapons",
+            "Manufactured ballistic missiles",
+            "Produced gas turbine engines for attack drones and aircraft components",
+            "Conducted cyber warfare training",
+            "Produced chemical warfare agents"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the stated aim of the CPI(M) in backing the DMK-led alliance, despite seat allocation issues?",
-        "a": "To prevent the BJP-AIADMK combine from winning",
+        "q": "What specific freedom did French President Macron call on Iran to restore in the Strait of Hormuz?",
+        "a": "Freedom of navigation",
         "options": [
-            "To gain more power",
-            "To increase central funding",
-            "To prevent the BJP-AIADMK combine from winning",
-            "To implement new agricultural policies",
-            "To reduce state debt"
+            "Freedom of trade",
+            "Freedom of speech",
+            "Freedom of assembly",
+            "Freedom of navigation",
+            "Freedom of information"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What did AIADMK leader S. Semmalai suggest as a benefit of higher allocations for capital expenditure?",
-        "a": "Implementation of more infrastructure development projects, eventually triggering greater revenue",
+        "q": "According to President Macron, why is responsibility and restraint crucial at the current critical juncture?",
+        "a": "To create the conditions for resuming dialogue",
         "options": [
-            "Increased freebies for the needy",
-            "Reduction in debt immediately",
-            "Implementation of more infrastructure development projects, eventually triggering greater revenue",
-            "More cash transfers to citizens",
-            "Lower taxes for industries"
+            "To impose further sanctions",
+            "To prepare for military escalation",
+            "To create the conditions for resuming dialogue",
+            "To isolate Iran diplomatically",
+            "To increase surveillance in the region"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the Central government\u2019s Pradhan Mantri Bhartiya Janaushadhi Pariyojana scheme, under which a Kendra was inaugurated?",
-        "a": "Providing quality generic medicines at much lower prices",
+        "q": "What was the initial trigger for online speculation surrounding Candace Owens' viral photo?",
+        "a": "Questioning whether a man seen behind her was her husband, George Farmer, and if he had an injury",
         "options": [
-            "Promoting private hospitals",
-            "Offering free health check-ups",
-            "Providing quality generic medicines at much lower prices",
-            "Supporting traditional medicine",
-            "Importing medical equipment"
+            "Her fashion choice at the event",
+            "Her speech content at the event",
+            "Her visible foot injury",
+            "Her controversial political statements",
+            "Questioning whether a man seen behind her was her husband, George Farmer, and if he had an injury"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
+    },
+    {
+        "q": "What reason did President Macron give for France's commitment to strengthening Saudi Arabia's air defences?",
+        "a": "The Kingdom is subjected to repeated and unacceptable attacks by Iranian missiles and drones",
+        "options": [
+            "To boost French arms sales",
+            "To secure oil supplies",
+            "The Kingdom is subjected to repeated and unacceptable attacks by Iranian missiles and drones",
+            "To counter Russian influence",
+            "To participate in joint military exercises"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "President Macron called for a temporary halt to attacks on what specific types of infrastructure?",
+        "a": "Energy facilities and civilian infrastructure",
+        "options": [
+            "Military bases only",
+            "Naval ports only",
+            "Energy facilities and civilian infrastructure",
+            "Communication networks only",
+            "Industrial complexes only"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Qom Turbine Engine Production Plant was deemed significant for destruction by US airstrikes due to its role in producing what?",
+        "a": "Components for military attack drones and aircraft",
+        "options": [
+            "Civilian aircraft engines",
+            "Agricultural machinery parts",
+            "Components for military attack drones and aircraft",
+            "Medical equipment components",
+            "Automotive parts"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did President Macron emphasize the need for G7 and the Gulf Cooperation Council (GCC) to strengthen their coordination?",
+        "a": "To guarantee peace and security for all and manage escalation risk",
+        "options": [
+            "To form a new military alliance",
+            "To negotiate new trade agreements",
+            "To guarantee peace and security for all and manage escalation risk",
+            "To address climate change issues",
+            "To coordinate humanitarian aid efforts"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What broader pattern did the Candace Owens viral photo incident exemplify, according to the news text?",
+        "a": "How quickly lies can spread on social media",
+        "options": [
+            "The power of celebrity endorsements",
+            "The importance of verified news sources",
+            "The challenges of public event photography",
+            "How quickly lies can spread on social media",
+            "The impact of political endorsements on public figures"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The targeted Iranian facility produced which specific components for attack drones?",
+        "a": "Gas turbine engines",
+        "options": [
+            "Propellers",
+            "Navigation systems",
+            "Gas turbine engines",
+            "Warheads",
+            "Landing gear"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the ultimate goal of President Macron's call for resuming dialogue among warring parties?",
+        "a": "To guarantee peace and security for all",
+        "options": [
+            "To gain economic advantage",
+            "To assert regional dominance",
+            "To guarantee peace and security for all",
+            "To expand French influence",
+            "To facilitate weapons sales"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did social media users specifically 'zoom into the background' of Candace Owens' photo?",
+        "a": "To question if the man was her husband and if he had an injury",
+        "options": [
+            "To identify other celebrities present",
+            "To analyze the event's decor",
+            "To scrutinize her outfit",
+            "To question if the man was her husband and if he had an injury",
+            "To check for photo manipulation"
+        ]
     }
 ]
