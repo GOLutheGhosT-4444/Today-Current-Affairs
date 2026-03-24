@@ -1,721 +1,722 @@
 [
     {
-        "q": "According to CENTCOM, how many days apart were the before-and-after images taken showing the impact of US airstrikes on the Iranian facility?",
-        "a": "Three",
+        "q": "What was the alleged total loan fraud amount by Anil Dhirubhai Ambani Group (ADAG) companies, as per the Public Interest Litigation (PIL)?",
+        "a": "\u20b940,000 crore",
         "options": [
-            "One",
-            "Two",
-            "Four",
-            "Five",
-            "Three"
+            "\u20b940,100 crore",
+            "\u20b939,900 crore",
+            "\u20b940,000 crore",
+            "\u20b940,050 crore",
+            "\u20b939,950 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The first photograph of the Qom Turbine Engine Production Plant, before US airstrikes, was dated March how many, as per CENTCOM's post on X?",
-        "a": "6",
+        "q": "What was the total value of assets attached by probe agencies so far in the ADAG banking fraud case?",
+        "a": "\u20b915,000 crore",
         "options": [
-            "5",
-            "7",
-            "8",
-            "9",
-            "6"
+            "\u20b915,100 crore",
+            "\u20b914,900 crore",
+            "\u20b915,000 crore",
+            "\u20b915,050 crore",
+            "\u20b914,950 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The US-Israel and Iran conflict, which began with the assassination of Ayatollah Ali Khamenei, has now entered its how many weeks?",
-        "a": "Fourth",
+        "q": "A loan amount of more than \u20b93,000 crore was apparently settled by paying how much?",
+        "a": "\u20b926 crore",
         "options": [
-            "First",
-            "Second",
-            "Fourth",
-            "Third",
-            "Fifth"
+            "\u20b925 crore",
+            "\u20b927 crore",
+            "\u20b926 crore",
+            "\u20b926.5 crore",
+            "\u20b925.5 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The second image of the Qom Turbine Engine Production Plant, showing extensive damage, was taken how many days after the first image?",
-        "a": "Three",
+        "q": "What is the estimated total fraud amount in the ADAG case, according to the Supreme Court bench?",
+        "a": "\u20b973,000 crore",
         "options": [
-            "One",
-            "Five",
-            "Three",
-            "Four",
-            "Two"
+            "\u20b973,100 crore",
+            "\u20b972,900 crore",
+            "\u20b973,000 crore",
+            "\u20b973,050 crore",
+            "\u20b972,950 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What specific day of the month was mentioned for Candace Owens' foot injury?",
-        "a": "13",
+        "q": "What amount of defaults did the ED allege in Reliance Home Finance?",
+        "a": "\u20b97,500 crore",
         "options": [
-            "10",
-            "11",
-            "12",
-            "14",
-            "13"
+            "\u20b97,510 crore",
+            "\u20b97,490 crore",
+            "\u20b97,500 crore",
+            "\u20b97,505 crore",
+            "\u20b97,495 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many major international councils/groups did French President Macron suggest should strengthen coordination alongside the Gulf Cooperation Council (GCC)?",
-        "a": "One (G7)",
+        "q": "What amount of defaults did the ED allege in Reliance Commercial Finance?",
+        "a": "\u20b98,200 crore",
         "options": [
-            "Zero",
-            "Two (NATO, EU)",
-            "One (G7)",
-            "Three (UN, African Union, ASEAN)",
-            "Four (BRICS, SCO, Quad, IBSA)"
+            "\u20b98,210 crore",
+            "\u20b98,190 crore",
+            "\u20b98,200 crore",
+            "\u20b98,205 crore",
+            "\u20b98,195 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many explicit types of military components or systems was the Qom Turbine Engine Production Plant reported to produce, according to CENTCOM?",
-        "a": "Two",
+        "q": "What was the loss caused to the Solar Energy Corporation of India due to forged bank guarantees by Reliance Power?",
+        "a": "More than \u20b9105 crore",
         "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
+            "More than \u20b9100 crore",
+            "More than \u20b9110 crore",
+            "More than \u20b9105 crore",
+            "More than \u20b9102 crore",
+            "More than \u20b9108 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many individuals were named by the news as having injuries or being subjects of injury speculation in the Candace Owens incident?",
-        "a": "Two",
+        "q": "Reliance Communications, despite having debts of \u20b947,000 crore, was sold for what amount?",
+        "a": "\u20b9430 crore",
         "options": [
-            "One",
-            "Three",
-            "Four",
-            "Two",
-            "Five"
+            "\u20b9435 crore",
+            "\u20b9425 crore",
+            "\u20b9430 crore",
+            "\u20b9432 crore",
+            "\u20b9428 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many countries were directly involved in the conversation between President Macron and Crown Prince Mohammed bin Salman?",
-        "a": "Two",
+        "q": "What was the approximate percentage of its value for which Reliance Communications was sold?",
+        "a": "Roughly 1%",
         "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
+            "Roughly 0.5%",
+            "Roughly 1.5%",
+            "Roughly 1%",
+            "Roughly 1.2%",
+            "Roughly 0.8%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Based on the first photo being on March 6 and the second three days later, on which day of March was the second photo taken?",
-        "a": "9",
+        "q": "What amount had Reliance Power and Reliance Infrastructure already repaid?",
+        "a": "\u20b920,000 crore",
         "options": [
-            "7",
-            "8",
-            "10",
-            "11",
-            "9"
+            "\u20b920,100 crore",
+            "\u20b919,900 crore",
+            "\u20b920,000 crore",
+            "\u20b920,050 crore",
+            "\u20b919,950 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many specific leaders are mentioned by name in the context of the US-Israel and Iran conflict?",
-        "a": "One",
+        "q": "What was the total amount borrowed by RCOM, Reliance Infratel, and Reliance Telecom from a consortium of banks between 2013 and 2017?",
+        "a": "\u20b931,580 crore",
         "options": [
-            "Zero",
-            "Two",
-            "One",
-            "Three",
-            "Four"
+            "\u20b931,600 crore",
+            "\u20b931,560 crore",
+            "\u20b931,580 crore",
+            "\u20b931,590 crore",
+            "\u20b931,570 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many 'photos' of the Qom Turbine Engine Production Plant are explicitly mentioned in the CENTCOM post on X?",
-        "a": "Two",
+        "q": "What was the total wrongful loss identified by the Special Investigative Team (SIT) to be caused by the fraud so far?",
+        "a": "\u20b940,185.55 crore",
         "options": [
-            "One",
-            "Three",
-            "Four",
-            "Two",
-            "Five"
+            "\u20b940,180.55 crore",
+            "\u20b940,190.55 crore",
+            "\u20b940,185.55 crore",
+            "\u20b940,186.55 crore",
+            "\u20b940,184.55 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which command released before-and-after images showing the impact of American airstrikes on a key Iranian facility?",
-        "a": "United States Central Command (CENTCOM)",
+        "q": "What was the Foreign Portfolio Investment (FPI) outflow amount in March 2026 alone?",
+        "a": "\u20b988,000 crore",
         "options": [
-            "United States European Command (EUCOM)",
-            "United States Pacific Command (PACOM)",
-            "United States Africa Command (AFRICOM)",
-            "United States Central Command (CENTCOM)",
-            "United States Cyber Command (CYBERCOM)"
+            "\u20b988,100 crore",
+            "\u20b987,900 crore",
+            "\u20b988,000 crore",
+            "\u20b988,050 crore",
+            "\u20b987,950 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The minimum investment value for social impact funds in Alternative Investment Funds (AIFs) was reduced to what amount?",
+        "a": "\u20b91,000",
+        "options": [
+            "\u20b9900",
+            "\u20b91,100",
+            "\u20b91,000",
+            "\u20b91,050",
+            "\u20b9950"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the existing minimum investment value for social impact funds in Alternative Investment Funds (AIFs) before the reduction?",
+        "a": "\u20b92 lakh",
+        "options": [
+            "\u20b92.1 lakh",
+            "\u20b91.9 lakh",
+            "\u20b92 lakh",
+            "\u20b92.05 lakh",
+            "\u20b91.95 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Chief Justice of India heading the Supreme Court bench hearing the ADAG banking fraud case?",
+        "a": "Surya Kant",
+        "options": [
+            "D.Y. Chandrachud",
+            "U.U. Lalit",
+            "Surya Kant",
+            "N.V. Ramana",
+            "S.A. Bobde"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was identified as the longest-serving leader of Tehran, whose assassination marked the beginning of the US-Israel and Iran conflict?",
-        "a": "Ayatollah Ali Khamenei",
+        "q": "Who is the Solicitor General appearing for the CBI and ED in the ADAG banking fraud case?",
+        "a": "Tushar Mehta",
         "options": [
-            "Ayatollah Ruhollah Khomeini",
-            "Hassan Rouhani",
-            "Ayatollah Ali Khamenei",
-            "Mahmoud Ahmadinejad",
-            "Mohammad Khatami"
+            "R. Venkataramani",
+            "Ashok Desai",
+            "Tushar Mehta",
+            "Harish Salve",
+            "Mukul Rohatgi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which French President spoke on Monday with Saudi Arabia\u2019s Crown Prince Mohammed bin Salman?",
-        "a": "Emmanuel Macron",
+        "q": "Who filed the Public Interest Litigation (PIL) seeking a court-monitored probe into the alleged ADAG loan frauds?",
+        "a": "EAS Sarma",
         "options": [
-            "Fran\u00e7ois Hollande",
-            "Nicolas Sarkozy",
-            "Jacques Chirac",
-            "Emmanuel Macron",
-            "Georges Pompidou"
+            "Prashant Bhushan",
+            "Anil Ambani",
+            "EAS Sarma",
+            "Mukul Rohatgi",
+            "S. Laxminarayanan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Crown Prince of the Kingdom of Saudi Arabia that French President Emmanuel Macron spoke with?",
-        "a": "Mohammed bin Salman",
+        "q": "Who is representing EAS Sarma in the Supreme Court for the ADAG banking fraud case?",
+        "a": "Prashant Bhushan",
         "options": [
-            "Fahd bin Abdulaziz Al Saud",
-            "Salman bin Abdulaziz Al Saud",
-            "Nayef bin Abdulaziz Al Saud",
-            "Mohammed bin Salman",
-            "Abdullah bin Abdulaziz Al Saud"
+            "Mukul Rohatgi",
+            "Tushar Mehta",
+            "Prashant Bhushan",
+            "Anil Ambani",
+            "Ravindra Shrivastava"
         ],
         "cat": "Who"
     },
     {
-        "q": "Whose viral photo became the focus of online speculation regarding a potential injury to her husband, George Farmer?",
-        "a": "Candace Owens",
+        "q": "Who is the senior advocate appearing for Anil Ambani in the ADAG banking fraud case?",
+        "a": "Mukul Rohatgi",
         "options": [
-            "Erika Kirk",
-            "Kanye West",
-            "Kim Kardashian",
-            "Candace Owens",
-            "Meghan Markle"
+            "Prashant Bhushan",
+            "Tushar Mehta",
+            "Mukul Rohatgi",
+            "Harish Salve",
+            "Gulam Jeelani"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Candace Owens' husband, who was reportedly seen trying to hide from cameras and speculated to have a 'black eye'?",
-        "a": "George Farmer",
+        "q": "Who is the SEBI Chief mentioned commenting on HDFC chairman's statements?",
+        "a": "Tuhin Kanta Pandey",
         "options": [
-            "Kanye West",
-            "Donald Trump Jr.",
-            "Elon Musk",
-            "Ben Shapiro",
-            "George Farmer"
+            "Ajay Tyagi",
+            "Madhabi Puri Buch",
+            "Tuhin Kanta Pandey",
+            "G. Mahalingam",
+            "Ananta Barua"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization's facility, controlled by the IRGC, produced gas turbine engines for attack drones and was destroyed by US airstrikes?",
-        "a": "Islamic Revolutionary Guard Corps (IRGC)",
+        "q": "Who was the HDFC chairman who resigned abruptly, as mentioned in the SEBI news?",
+        "a": "Atanu Chakraborty",
         "options": [
-            "Ministry of Defense and Armed Forces Logistics (MODAFL)",
-            "Basij Resistance Force",
-            "Islamic Revolutionary Guard Corps (IRGC)",
-            "Iranian Army (Artesh)",
-            "Iranian Cyber Police"
+            "Deepak Parekh",
+            "K.V. Kamath",
+            "Atanu Chakraborty",
+            "Aditya Puri",
+            "Sashidhar Jagdishan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which major international group was urged by President Macron to strengthen coordination with the Gulf Cooperation Council (GCC)?",
-        "a": "G7",
+        "q": "Who was assigned to manually guide the Progress MS-33 spacecraft to dock with the ISS?",
+        "a": "Sergei Kud-Sverchkov",
         "options": [
-            "G20",
-            "BRICS",
-            "G7",
-            "Shanghai Cooperation Organization (SCO)",
-            "NATO"
+            "Oleg Kononenko",
+            "Yuri Gagarin",
+            "Sergei Kud-Sverchkov",
+            "Alexei Leonov",
+            "Vladimir Komarov"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which social media platform was used by CENTCOM to post information and images regarding the airstrikes?",
-        "a": "X",
+        "q": "Who is the current Prime Minister of Israel, mentioned regarding missile alerts?",
+        "a": "Benjamin Netanyahu",
         "options": [
-            "Facebook",
-            "Instagram",
-            "YouTube",
-            "TikTok",
-            "X"
+            "Yair Lapid",
+            "Naftali Bennett",
+            "Benjamin Netanyahu",
+            "Isaac Herzog",
+            "Benny Gantz"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the subject of Candace Owens questioning her past, as mentioned in a separate article snippet?",
-        "a": "Erika Kirk",
+        "q": "Who is the Defence Minister of Colombia, who announced the Hercules C-130 plane accident?",
+        "a": "Pedro Sanchez",
         "options": [
-            "Kanye West",
-            "George Farmer",
-            "Sarah Palin",
-            "Erika Kirk",
-            "Riley Gaines"
+            "Gustavo Petro",
+            "Ivan Duque",
+            "Pedro Sanchez",
+            "Juan Manuel Santos",
+            "Alvaro Uribe"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which prominent artist's 'angle' was mentioned in connection with Candace Owens' past discussions, according to the news?",
-        "a": "Kanye West",
+        "q": "Where is Israel's main nuclear research facility and reactor located, 8 miles from Dimona?",
+        "a": "Southern Negev Desert",
         "options": [
-            "Jay-Z",
-            "Drake",
-            "Travis Scott",
-            "Taylor Swift",
-            "Kanye West"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who specifically reaffirmed France's solidarity and commitment to contributing to the strengthening of Saudi Arabia's air defences?",
-        "a": "Emmanuel Macron",
-        "options": [
-            "French Minister of Defence",
-            "French Prime Minister",
-            "President of the European Commission",
-            "French Ambassador to Saudi Arabia",
-            "Emmanuel Macron"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the name of the key Iranian facility, controlled by the IRGC, that was targeted and destroyed by American airstrikes?",
-        "a": "Qom Turbine Engine Production Plant",
-        "options": [
-            "Natanz Nuclear Facility",
-            "Fordow Fuel Enrichment Plant",
-            "Qom Turbine Engine Production Plant",
-            "Arak Heavy Water Reactor",
-            "Bushehr Nuclear Power Plant"
+            "Northern Galilee",
+            "Central Plains",
+            "Southern Negev Desert",
+            "West Bank",
+            "Golan Heights"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country's facility, producing gas turbine engines for attack drones, was destroyed by US airstrikes?",
-        "a": "Iran",
+        "q": "Which city in Israel, along with Dimona, was struck by Iranian ballistic missiles?",
+        "a": "Arad",
         "options": [
-            "Syria",
-            "Iraq",
-            "Yemen",
-            "Lebanon",
-            "Iran"
+            "Tel Aviv",
+            "Jerusalem",
+            "Arad",
+            "Haifa",
+            "Beer Sheva"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which critical body of water did French President Macron call on Iran to restore freedom of navigation?",
-        "a": "Strait of Hormuz",
+        "q": "From which Cosmodrome did the Soyuz 2.1a rocket launch with the Progress MS-33 cargo ship?",
+        "a": "Baikonur Cosmodrome",
         "options": [
-            "Suez Canal",
-            "Bab el-Mandeb Strait",
-            "Red Sea",
-            "Persian Gulf",
-            "Strait of Hormuz"
+            "Vostochny Cosmodrome",
+            "Plesetsk Cosmodrome",
+            "Baikonur Cosmodrome",
+            "Cape Canaveral",
+            "Guiana Space Centre"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which kingdom's air defences did France reaffirm its commitment to helping strengthen, amidst repeated attacks?",
-        "a": "Saudi Arabia",
+        "q": "The Hercules C-130 plane accident in Colombia occurred as the plane was taking off from which location?",
+        "a": "Puerto Leguizamo",
         "options": [
-            "Qatar",
-            "Kuwait",
-            "Saudi Arabia",
-            "United Arab Emirates",
-            "Bahrain"
+            "Bogota",
+            "Medellin",
+            "Puerto Leguizamo",
+            "Cali",
+            "Cartagena"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city was the 'Catholics for Catholics' event held, where Candace Owens was seen with a foot injury?",
-        "a": "DC",
+        "q": "The Hercules C-130 plane crash in Colombia took place in which region of the country?",
+        "a": "Southern Amazon region",
         "options": [
-            "New York City",
-            "Los Angeles",
-            "DC",
-            "Chicago",
-            "Philadelphia"
+            "Northern Caribbean region",
+            "Central Andean region",
+            "Southern Amazon region",
+            "Eastern Llanos region",
+            "Pacific Coast region"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which country's Central Command did the details regarding the airstrikes on the Iranian facility originate?",
-        "a": "United States",
+        "q": "A separate Hercules C-130 operated by the Bolivian Air Force went down in which densely populated city?",
+        "a": "El Alto",
         "options": [
-            "United Kingdom",
-            "Israel",
+            "La Paz",
+            "Santa Cruz",
+            "El Alto",
+            "Cochabamba",
+            "Sucre"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which international entity was the Russian cargo spacecraft Progress MS-33 en route to dock with?",
+        "a": "International Space Station (ISS)",
+        "options": [
+            "Hubble Space Telescope",
+            "Chinese Space Station",
+            "International Space Station (ISS)",
+            "Mars Reconnaissance Orbiter",
+            "Lunar Gateway"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The alleged large-scale banking fraud involving the Anil Dhirubhai Ambani Group is being probed by central investigative agencies of which country?",
+        "a": "India",
+        "options": [
             "United States",
-            "France",
-            "Germany"
+            "United Kingdom",
+            "India",
+            "Switzerland",
+            "Singapore"
         ],
         "cat": "Where"
     },
     {
-        "q": "The conflict involving US-Israel and Iran began with the assassination of the leader of which city/region?",
-        "a": "Tehran",
+        "q": "The Supreme Court fixed the PIL for further hearing after how many weeks from March 23, 2026?",
+        "a": "Four weeks",
         "options": [
-            "Baghdad",
-            "Riyadh",
-            "Tehran",
-            "Beirut",
-            "Damascus"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which major international grouping, alongside the Gulf Cooperation Council (GCC), was recommended to strengthen coordination?",
-        "a": "G7",
-        "options": [
-            "G20",
-            "BRICS",
-            "ASEAN",
-            "NATO",
-            "G7"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Qom Turbine Engine Production Plant, targeted by US airstrikes, is located in which country?",
-        "a": "Iran",
-        "options": [
-            "Syria",
-            "Iraq",
-            "Yemen",
-            "Pakistan",
-            "Iran"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The conversation between French President Emmanuel Macron and Crown Prince Mohammed bin Salman primarily concerned which two nations?",
-        "a": "France and Saudi Arabia",
-        "options": [
-            "France and UAE",
-            "France and Qatar",
-            "France and Kuwait",
-            "France and Saudi Arabia",
-            "France and Bahrain"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the 'fake Catholic event' mentioned in social media comments, where George Farmer was reportedly seen hiding?",
-        "a": "DC",
-        "options": [
-            "New York City",
-            "Miami",
-            "Boston",
-            "San Francisco",
-            "DC"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country is home to the Islamic Revolutionary Guard Corps (IRGC), whose facility was targeted by US airstrikes?",
-        "a": "Iran",
-        "options": [
-            "Syria",
-            "Iraq",
-            "Lebanon",
-            "Yemen",
-            "Iran"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what specific date was the first photo of the Iranian plant taken before US airstrikes, as stated in the CENTCOM post?",
-        "a": "March 6, 2026",
-        "options": [
-            "March 3, 2026",
-            "March 9, 2026",
-            "March 13, 2026",
-            "March 6, 2024",
-            "March 6, 2026"
+            "Two weeks",
+            "Six weeks",
+            "Four weeks",
+            "Three weeks",
+            "Five weeks"
         ],
         "cat": "When"
     },
     {
-        "q": "How many days after March 6, 2026, was the second image, showing the damage to the Iranian plant, taken?",
-        "a": "Three days later",
+        "q": "On which date did the Supreme Court previously voice displeasure over the \"unexplained delay\" in investigations into ADAG fraud?",
+        "a": "February 4",
         "options": [
-            "One day later",
-            "Two days later",
-            "Four days later",
-            "Five days later",
-            "Three days later"
+            "February 1",
+            "February 7",
+            "February 4",
+            "February 3",
+            "February 5"
         ],
         "cat": "When"
     },
     {
-        "q": "The US-Israel and Iran conflict, ongoing since the assassination of Ayatollah Ali Khamenei, has now entered which week?",
-        "a": "Fourth week",
+        "q": "On which date did the top court ask the CBI and the ED to file status reports in a sealed cover within 10 days?",
+        "a": "January 23",
         "options": [
-            "First week",
-            "Second week",
-            "Fourth week",
-            "Third week",
-            "Fifth week"
+            "January 20",
+            "January 26",
+            "January 23",
+            "January 22",
+            "January 24"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Candace Owens claim she broke her foot, according to the provided text?",
-        "a": "Friday the 13th",
+        "q": "In which year was the FIR registered for the ADAG fraud, though the fraud had been going on since 2007-08?",
+        "a": "2025",
         "options": [
-            "Monday the 1st",
-            "Tuesday the 7th",
-            "Friday the 13th",
-            "Wednesday the 10th",
-            "Thursday the 12th"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Based on the first photo being on March 6, 2026, when was the second photo, depicting damage, specifically taken?",
-        "a": "March 9, 2026",
-        "options": [
-            "March 7, 2026",
-            "March 8, 2026",
-            "March 10, 2026",
-            "March 13, 2026",
-            "March 9, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day of the week did CENTCOM release the before-and-after images of the US airstrikes?",
-        "a": "Monday",
-        "options": [
-            "Sunday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The conflict between US-Israel and Iran is described as being in which specific week of its duration?",
-        "a": "Fourth",
-        "options": [
-            "First",
-            "Second",
-            "Third",
-            "Fifth",
-            "Fourth"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what day of the week did French President Emmanuel Macron hold a conversation with Saudi Arabia\u2019s Crown Prince Mohammed bin Salman?",
-        "a": "Monday",
-        "options": [
-            "Sunday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The CENTCOM post states the plant photo was taken on March 6 and the second image was taken how many days later?",
-        "a": "Three days later",
-        "options": [
-            "One day later",
-            "Two days later",
-            "Four days later",
-            "Five days later",
-            "Three days later"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The photo of the Qom Turbine Engine Production Plant before US airstrikes was explicitly dated to which year?",
-        "a": "2026",
-        "options": [
-            "2023",
             "2024",
             "2026",
             "2025",
+            "2023",
             "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "How long has the US-Israel and Iran conflict been ongoing, as explicitly stated by its entry into a specific week?",
-        "a": "Entered its fourth week",
+        "q": "Between which years did RCOM, Reliance Infratel, and Reliance Telecom borrow \u20b931,580 crore from a consortium of banks?",
+        "a": "2013 and 2017",
         "options": [
-            "Entered its first week",
-            "Entered its second week",
-            "Entered its third week",
-            "Entered its fifth week",
-            "Entered its fourth week"
+            "2012 and 2016",
+            "2014 and 2018",
+            "2013 and 2017",
+            "2011 and 2015",
+            "2015 and 2019"
         ],
         "cat": "When"
     },
     {
-        "q": "Candace Owens spoke at the Catholics for Catholics event on which specific day of the week?",
-        "a": "Thursday",
+        "q": "In which month and year did Foreign Portfolio Investment (FPI) outflows cross \u20b988,000 crore?",
+        "a": "March 2026",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Friday",
-            "Thursday"
+            "February 2026",
+            "April 2026",
+            "March 2026",
+            "January 2026",
+            "May 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary function of the Iranian facility targeted by US airstrikes, as described by CENTCOM?",
-        "a": "Produced gas turbine engines for attack drones and aircraft components",
+        "q": "When did the High Level Committee on Conflict of Interest submit its report, four months prior to the SEBI board meeting?",
+        "a": "Four months back",
         "options": [
-            "Developed nuclear weapons",
-            "Manufactured ballistic missiles",
-            "Produced gas turbine engines for attack drones and aircraft components",
-            "Conducted cyber warfare training",
-            "Produced chemical warfare agents"
+            "Three months back",
+            "Five months back",
+            "Four months back",
+            "Six months back",
+            "Two months back"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court hearing on airfare hikes and cancellations was listed again on which date?",
+        "a": "April 27",
+        "options": [
+            "April 20",
+            "May 4",
+            "April 27",
+            "April 30",
+            "May 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month of 2025 did the large-scale operational collapse due to crew shortage in IndiGo airlines begin?",
+        "a": "Late November 2025",
+        "options": [
+            "Early November 2025",
+            "Late December 2025",
+            "Late November 2025",
+            "Early December 2025",
+            "October 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Hercules C-130 aircraft was first introduced in which decade?",
+        "a": "1950s",
+        "options": [
+            "1940s",
+            "1960s",
+            "1950s",
+            "1970s",
+            "1980s"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the Special Investigative Team (SIT) constituted in the ADAG banking fraud case?",
+        "a": "To conduct a fair, dispassionate, transparent, and time-bound investigation.",
+        "options": [
+            "To recover all siphoned money immediately.",
+            "To make random arrests of all accused individuals.",
+            "To conduct a fair, dispassionate, transparent, and time-bound investigation.",
+            "To advise financial institutions on debt recovery.",
+            "To submit a report to the government within 24 hours."
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific freedom did French President Macron call on Iran to restore in the Strait of Hormuz?",
-        "a": "Freedom of navigation",
+        "q": "What is the primary purpose of the Economic Stabilisation Fund, as suggested by RBI officials?",
+        "a": "To provide fiscal headroom and buffer to proactively respond to global headwinds.",
         "options": [
-            "Freedom of trade",
-            "Freedom of speech",
-            "Freedom of assembly",
-            "Freedom of navigation",
-            "Freedom of information"
+            "To fund infrastructure projects nationally.",
+            "To increase India's foreign exchange reserves.",
+            "To provide fiscal headroom and buffer to proactively respond to global headwinds.",
+            "To stabilize the domestic currency exchange rate.",
+            "To reduce inflation through direct market intervention."
         ],
         "cat": "Why"
     },
     {
-        "q": "According to President Macron, why is responsibility and restraint crucial at the current critical juncture?",
-        "a": "To create the conditions for resuming dialogue",
+        "q": "One of the key recommendations by the High Level Committee on Conflict of Interest, approved by SEBI, was to bring whom within the definition of 'insider'?",
+        "a": "Chairperson and whole-time members of the board.",
         "options": [
-            "To impose further sanctions",
-            "To prepare for military escalation",
-            "To create the conditions for resuming dialogue",
-            "To isolate Iran diplomatically",
-            "To increase surveillance in the region"
+            "All employees of listed companies.",
+            "Only independent directors.",
+            "External auditors.",
+            "Chairperson and whole-time members of the board.",
+            "Retail investors."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the initial trigger for online speculation surrounding Candace Owens' viral photo?",
-        "a": "Questioning whether a man seen behind her was her husband, George Farmer, and if he had an injury",
+        "q": "What was the purpose of establishing digital systems for conflict-of-interest management, as decided by SEBI?",
+        "a": "To ensure transparency and accountability in board functions.",
         "options": [
-            "Her fashion choice at the event",
-            "Her speech content at the event",
-            "Her visible foot injury",
-            "Her controversial political statements",
-            "Questioning whether a man seen behind her was her husband, George Farmer, and if he had an injury"
+            "To reduce paperwork for board meetings.",
+            "To manage all financial transactions digitally.",
+            "To ensure transparency and accountability in board functions.",
+            "To track stock market fluctuations.",
+            "To provide online training for new directors."
         ],
         "cat": "Why"
     },
     {
-        "q": "What reason did President Macron give for France's commitment to strengthening Saudi Arabia's air defences?",
-        "a": "The Kingdom is subjected to repeated and unacceptable attacks by Iranian missiles and drones",
+        "q": "SEBI decided to establish a new office of ethics and compliance for what purpose?",
+        "a": "To oversee public issues.",
         "options": [
-            "To boost French arms sales",
-            "To secure oil supplies",
-            "The Kingdom is subjected to repeated and unacceptable attacks by Iranian missiles and drones",
-            "To counter Russian influence",
-            "To participate in joint military exercises"
+            "To manage all legal disputes.",
+            "To handle internal employee grievances.",
+            "To oversee public issues.",
+            "To conduct market research.",
+            "To regulate foreign investments."
         ],
         "cat": "Why"
     },
     {
-        "q": "President Macron called for a temporary halt to attacks on what specific types of infrastructure?",
-        "a": "Energy facilities and civilian infrastructure",
+        "q": "What was the reason for simplifying 'fit and proper person' guidelines for intermediaries by SEBI?",
+        "a": "To disqualify members only on conviction for economic offences or securities law violation.",
         "options": [
-            "Military bases only",
-            "Naval ports only",
-            "Energy facilities and civilian infrastructure",
-            "Communication networks only",
-            "Industrial complexes only"
+            "To allow more individuals to become intermediaries.",
+            "To disqualify members only on conviction for economic offences or securities law violation.",
+            "To increase the eligibility criteria for intermediaries.",
+            "To streamline the application process for new firms.",
+            "To merge multiple regulatory guidelines."
         ],
         "cat": "Why"
     },
     {
-        "q": "The Qom Turbine Engine Production Plant was deemed significant for destruction by US airstrikes due to its role in producing what?",
-        "a": "Components for military attack drones and aircraft",
+        "q": "Why did SEBI decide to allow Foreign Portfolio Investments (FPIs) to settle funds on a net basis for stock market transactions?",
+        "a": "To ease their operations and reduce cost.",
         "options": [
-            "Civilian aircraft engines",
-            "Agricultural machinery parts",
-            "Components for military attack drones and aircraft",
-            "Medical equipment components",
-            "Automotive parts"
+            "To increase FPI outflows.",
+            "To generate more tax revenue.",
+            "To ease their operations and reduce cost.",
+            "To encourage long-term investments only.",
+            "To simplify reporting requirements."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did President Macron emphasize the need for G7 and the Gulf Cooperation Council (GCC) to strengthen their coordination?",
-        "a": "To guarantee peace and security for all and manage escalation risk",
+        "q": "What was the purpose of reducing the minimum investment value for social impact funds in Alternative Investment Funds (AIFs) to \u20b91,000?",
+        "a": "To enhance retail participation.",
         "options": [
-            "To form a new military alliance",
-            "To negotiate new trade agreements",
-            "To guarantee peace and security for all and manage escalation risk",
-            "To address climate change issues",
-            "To coordinate humanitarian aid efforts"
+            "To restrict investment to High Net Worth Individuals (HNIs).",
+            "To reduce the overall fund size.",
+            "To simplify regulatory compliance.",
+            "To enhance retail participation.",
+            "To attract only institutional investors."
         ],
         "cat": "Why"
     },
     {
-        "q": "What broader pattern did the Candace Owens viral photo incident exemplify, according to the news text?",
-        "a": "How quickly lies can spread on social media",
+        "q": "What caused the Progress MS-33 cargo ship to require manual docking with the International Space Station (ISS)?",
+        "a": "A malfunction with one of the KURS automated docking system antennas.",
         "options": [
-            "The power of celebrity endorsements",
-            "The importance of verified news sources",
-            "The challenges of public event photography",
-            "How quickly lies can spread on social media",
-            "The impact of political endorsements on public figures"
+            "An unexpected change in the ISS orbit.",
+            "A malfunction with one of the KURS automated docking system antennas.",
+            "Lack of sufficient fuel for automated docking.",
+            "A software glitch in the ISS control system.",
+            "Crew decision to practice manual docking."
         ],
         "cat": "Why"
     },
     {
-        "q": "The targeted Iranian facility produced which specific components for attack drones?",
-        "a": "Gas turbine engines",
+        "q": "What was the main purpose of the petition filed by S. Laxminarayanan against the civil aviation sector?",
+        "a": "To address fare fluctuation, fare transparency, and continuity of essential air services.",
         "options": [
-            "Propellers",
-            "Navigation systems",
-            "Gas turbine engines",
-            "Warheads",
-            "Landing gear"
+            "To seek compensation for flight delays.",
+            "To address fare fluctuation, fare transparency, and continuity of essential air services.",
+            "To promote new airline companies.",
+            "To establish a government-owned airline.",
+            "To increase airport tariffs."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the ultimate goal of President Macron's call for resuming dialogue among warring parties?",
-        "a": "To guarantee peace and security for all",
+        "q": "Why did PM Benjamin Netanyahu urge Israelis to use bomb shelters during incoming missile alerts?",
+        "a": "To ensure safety and avoid complacency.",
         "options": [
-            "To gain economic advantage",
-            "To assert regional dominance",
-            "To guarantee peace and security for all",
-            "To expand French influence",
-            "To facilitate weapons sales"
+            "To test the effectiveness of the shelters.",
+            "To demonstrate military preparedness.",
+            "To ensure safety and avoid complacency.",
+            "To avoid unnecessary panic.",
+            "To comply with international mandates."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did social media users specifically 'zoom into the background' of Candace Owens' photo?",
-        "a": "To question if the man was her husband and if he had an injury",
+        "q": "The Supreme Court gave the government a four-week leeway to respond to the airfare petition, citing what reason?",
+        "a": "There are bigger problems the government is handling now, referring to the Iran-Israel conflict.",
         "options": [
-            "To identify other celebrities present",
-            "To analyze the event's decor",
-            "To scrutinize her outfit",
-            "To question if the man was her husband and if he had an injury",
-            "To check for photo manipulation"
-        ]
+            "Lack of proper legal representation.",
+            "Insufficient data from the petitioner.",
+            "The need for more time for a comprehensive response.",
+            "There are bigger problems the government is handling now, referring to the Iran-Israel conflict.",
+            "AERA's jurisdiction limitations on airfare."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Colombia's President Gustavo Petro slam bureaucratic obstacles regarding modernizing the military?",
+        "a": "Because it was delaying plans to modernise the military and putting soldiers' lives at stake.",
+        "options": [
+            "To secure more international funding.",
+            "To reduce military expenditure.",
+            "Because it was delaying plans to modernise the military and putting soldiers' lives at stake.",
+            "To shift focus to civilian infrastructure projects.",
+            "To privatize parts of the military."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the main reason cited for the Supreme Court's displeasure with the investigative agencies in the ADAG case?",
+        "a": "Reluctance to conduct probes.",
+        "options": [
+            "Lack of evidence collected.",
+            "Excessive and random arrests.",
+            "Reluctance to conduct probes.",
+            "Slow judicial process in the lower courts.",
+            "Interference from the government in the investigation."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What key theme was emphasized by RBI officials in the March edition of the RBI Bulletin regarding the domestic economy?",
+        "a": "The capacity and resilience of the Indian economy to absorb external shocks.",
+        "options": [
+            "The increasing dependence of India on crude oil imports.",
+            "The need for immediate fiscal stimulus packages.",
+            "The capacity and resilience of the Indian economy to absorb external shocks.",
+            "The rising inflation rates in the domestic market.",
+            "The decline in India's macroeconomic fundamentals."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The TORU system in Russian spacecraft serves what purpose during docking?",
+        "a": "It allows cosmonauts to operate the spacecraft manually from the station as a backup.",
+        "options": [
+            "It is the primary automated docking system.",
+            "It tracks celestial bodies for navigation.",
+            "It allows cosmonauts to operate the spacecraft manually from the station as a backup.",
+            "It measures oxygen levels on board.",
+            "It controls the spacecraft's communication with Earth."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the function of the KURS system in Russian spacecraft, as mentioned in the news?",
+        "a": "It is an automated system that helps dock a spacecraft safely with the ISS.",
+        "options": [
+            "It provides life support for astronauts.",
+            "It controls the spacecraft's propulsion.",
+            "It is an automated system that helps dock a spacecraft safely with the ISS.",
+            "It is a manual backup system for docking.",
+            "It monitors the health of the crew members."
+        ],
+        "cat": "Why"
     }
 ]
