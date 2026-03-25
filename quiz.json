@@ -1,186 +1,270 @@
 [
     {
-        "q": "What was the alleged total loan fraud amount by Anil Dhirubhai Ambani Group (ADAG) companies, as per the Public Interest Litigation (PIL)?",
-        "a": "\u20b940,000 crore",
+        "q": "What is the fee required to avail the full Expression of Interest (EOI) for the AssamSAT project?",
+        "a": "\u20b930,000",
         "options": [
-            "\u20b940,100 crore",
-            "\u20b939,900 crore",
-            "\u20b940,000 crore",
-            "\u20b940,050 crore",
-            "\u20b939,950 crore"
+            "\u20b929,000",
+            "\u20b931,000",
+            "\u20b930,000",
+            "\u20b929,500",
+            "\u20b930,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total value of assets attached by probe agencies so far in the ADAG banking fraud case?",
-        "a": "\u20b915,000 crore",
+        "q": "By what percentage are AC sales in FY26 expected to be lower in terms of volume compared to the blockbuster year of 2024-25?",
+        "a": "5%",
         "options": [
-            "\u20b915,100 crore",
-            "\u20b914,900 crore",
-            "\u20b915,000 crore",
-            "\u20b915,050 crore",
-            "\u20b914,950 crore"
+            "4%",
+            "6%",
+            "5%",
+            "4.5%",
+            "5.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "A loan amount of more than \u20b93,000 crore was apparently settled by paying how much?",
-        "a": "\u20b926 crore",
+        "q": "What was the record sales volume for air conditioners in India during FY25?",
+        "a": "15 million units",
         "options": [
-            "\u20b925 crore",
-            "\u20b927 crore",
-            "\u20b926 crore",
-            "\u20b926.5 crore",
-            "\u20b925.5 crore"
+            "14 million units",
+            "16 million units",
+            "15 million units",
+            "14.5 million units",
+            "15.5 million units"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated total fraud amount in the ADAG case, according to the Supreme Court bench?",
-        "a": "\u20b973,000 crore",
+        "q": "What was the sales volume for air conditioners in the fiscal year prior to FY25?",
+        "a": "11 million units",
         "options": [
-            "\u20b973,100 crore",
-            "\u20b972,900 crore",
-            "\u20b973,000 crore",
-            "\u20b973,050 crore",
-            "\u20b972,950 crore"
+            "10 million units",
+            "12 million units",
+            "11 million units",
+            "10.5 million units",
+            "11.5 million units"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount of defaults did the ED allege in Reliance Home Finance?",
-        "a": "\u20b97,500 crore",
+        "q": "What is the inevitable price increase percentage for air conditioners that Blue Star Group President Mohit Sud mentioned?",
+        "a": "7-8%",
         "options": [
-            "\u20b97,510 crore",
-            "\u20b97,490 crore",
-            "\u20b97,500 crore",
-            "\u20b97,505 crore",
-            "\u20b97,495 crore"
+            "6-7%",
+            "8-9%",
+            "7-8%",
+            "6.5-7.5%",
+            "7.5-8.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount of defaults did the ED allege in Reliance Commercial Finance?",
-        "a": "\u20b98,200 crore",
+        "q": "What is the total amount Manipal Health Enterprise Ltd. aims to raise through its IPO?",
+        "a": "\u20b98,000 crore",
         "options": [
-            "\u20b98,210 crore",
-            "\u20b98,190 crore",
-            "\u20b98,200 crore",
-            "\u20b98,205 crore",
-            "\u20b98,195 crore"
+            "\u20b97,900 crore",
+            "\u20b98,100 crore",
+            "\u20b98,000 crore",
+            "\u20b97,950 crore",
+            "\u20b98,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the loss caused to the Solar Energy Corporation of India due to forged bank guarantees by Reliance Power?",
-        "a": "More than \u20b9105 crore",
+        "q": "What is the face value per equity share for Manipal Health Enterprise Ltd.'s IPO?",
+        "a": "\u20b92",
         "options": [
-            "More than \u20b9100 crore",
-            "More than \u20b9110 crore",
-            "More than \u20b9105 crore",
-            "More than \u20b9102 crore",
-            "More than \u20b9108 crore"
+            "\u20b91",
+            "\u20b93",
+            "\u20b92",
+            "\u20b91.5",
+            "\u20b92.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Reliance Communications, despite having debts of \u20b947,000 crore, was sold for what amount?",
-        "a": "\u20b9430 crore",
+        "q": "How much of the IPO proceeds from Manipal Health Enterprise Ltd. is allocated for debt repayment?",
+        "a": "\u20b95,378 crore",
         "options": [
-            "\u20b9435 crore",
-            "\u20b9425 crore",
-            "\u20b9430 crore",
-            "\u20b9432 crore",
-            "\u20b9428 crore"
+            "\u20b95,360 crore",
+            "\u20b95,390 crore",
+            "\u20b95,378 crore",
+            "\u20b95,370 crore",
+            "\u20b95,380 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate percentage of its value for which Reliance Communications was sold?",
-        "a": "Roughly 1%",
+        "q": "What is the maximum amount Manipal Health Enterprise Ltd. may consider for a pre-IPO Placement?",
+        "a": "\u20b91,600 crore",
         "options": [
-            "Roughly 0.5%",
-            "Roughly 1.5%",
-            "Roughly 1%",
-            "Roughly 1.2%",
-            "Roughly 0.8%"
+            "\u20b91,500 crore",
+            "\u20b91,700 crore",
+            "\u20b91,600 crore",
+            "\u20b91,550 crore",
+            "\u20b91,650 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount had Reliance Power and Reliance Infrastructure already repaid?",
-        "a": "\u20b920,000 crore",
+        "q": "Approximately how many troops from the US 82nd Airborne Division have been moved to the Middle East?",
+        "a": "3,000",
         "options": [
-            "\u20b920,100 crore",
-            "\u20b919,900 crore",
-            "\u20b920,000 crore",
-            "\u20b920,050 crore",
-            "\u20b919,950 crore"
+            "2,900",
+            "3,100",
+            "3,000",
+            "2,950",
+            "3,050"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total amount borrowed by RCOM, Reliance Infratel, and Reliance Telecom from a consortium of banks between 2013 and 2017?",
-        "a": "\u20b931,580 crore",
+        "q": "What was Delhi's fiscal deficit in the revised estimate (RE) for 2025-26?",
+        "a": "\u20b922,289.03 crore",
         "options": [
-            "\u20b931,600 crore",
-            "\u20b931,560 crore",
-            "\u20b931,580 crore",
-            "\u20b931,590 crore",
-            "\u20b931,570 crore"
+            "\u20b922,280.00 crore",
+            "\u20b922,290.00 crore",
+            "\u20b922,289.03 crore",
+            "\u20b922,285.00 crore",
+            "\u20b922,295.00 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total wrongful loss identified by the Special Investigative Team (SIT) to be caused by the fraud so far?",
-        "a": "\u20b940,185.55 crore",
+        "q": "What was the percentage increase in Delhi\u2019s fiscal deficit for 2025-26 in the revised estimate compared to the budget estimate?",
+        "a": "62.65%",
         "options": [
-            "\u20b940,180.55 crore",
-            "\u20b940,190.55 crore",
-            "\u20b940,185.55 crore",
-            "\u20b940,186.55 crore",
-            "\u20b940,184.55 crore"
+            "60.00%",
+            "65.00%",
+            "62.65%",
+            "62.00%",
+            "63.00%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the Foreign Portfolio Investment (FPI) outflow amount in March 2026 alone?",
-        "a": "\u20b988,000 crore",
+        "q": "What is the total outlay for Delhi\u2019s budget for 2026-27?",
+        "a": "\u20b91.03 lakh crore",
         "options": [
-            "\u20b988,100 crore",
-            "\u20b987,900 crore",
-            "\u20b988,000 crore",
-            "\u20b988,050 crore",
-            "\u20b987,950 crore"
+            "\u20b91.02 lakh crore",
+            "\u20b91.04 lakh crore",
+            "\u20b91.03 lakh crore",
+            "\u20b91.025 lakh crore",
+            "\u20b91.035 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The minimum investment value for social impact funds in Alternative Investment Funds (AIFs) was reduced to what amount?",
-        "a": "\u20b91,000",
+        "q": "How many cases of exclusions from the State electoral roll were under adjudication in West Bengal as of March 23?",
+        "a": "60 lakh",
         "options": [
-            "\u20b9900",
-            "\u20b91,100",
-            "\u20b91,000",
-            "\u20b91,050",
-            "\u20b9950"
+            "58 lakh",
+            "62 lakh",
+            "60 lakh",
+            "59 lakh",
+            "61 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the existing minimum investment value for social impact funds in Alternative Investment Funds (AIFs) before the reduction?",
-        "a": "\u20b92 lakh",
+        "q": "What is the reported value of the coal smuggling case that the ED is investigating, which led to the raid on I-PAC co-founder?",
+        "a": "\u20b92,742-crore",
         "options": [
-            "\u20b92.1 lakh",
-            "\u20b91.9 lakh",
-            "\u20b92 lakh",
-            "\u20b92.05 lakh",
-            "\u20b91.95 lakh"
+            "\u20b92,700-crore",
+            "\u20b92,800-crore",
+            "\u20b92,742-crore",
+            "\u20b92,730-crore",
+            "\u20b92,750-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the Chief Justice of India heading the Supreme Court bench hearing the ADAG banking fraud case?",
+        "q": "Who is the Justice Department lawyer who argued on behalf of the Trump administration regarding the metering policy?",
+        "a": "Vivek Suri",
+        "options": [
+            "Sonia Sotomayor",
+            "Barack Obama",
+            "Vivek Suri",
+            "Donald Trump",
+            "Joe Biden"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which advocacy group brought the legal challenge against the Trump administration's metering policy at the US-Mexico border?",
+        "a": "Al Otro Lado",
+        "options": [
+            "Amnesty International",
+            "Human Rights Watch",
+            "Al Otro Lado",
+            "Southern Poverty Law Center",
+            "ACLU"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Chief Minister announced the AssamSAT project in the State Budget?",
+        "a": "Himanta Biswa Sarma",
+        "options": [
+            "Sarbananda Sonowal",
+            "Pema Khandu",
+            "Himanta Biswa Sarma",
+            "Conrad Sangma",
+            "Neiphiu Rio"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Blue Star Group President for Unitary Cooling Products, quoted in the news regarding AC price increases?",
+        "a": "Mohit Sud",
+        "options": [
+            "Arun Kumar",
+            "Rajesh Sharma",
+            "Mohit Sud",
+            "Vikas Gupta",
+            "Sanjay Mehta"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Singaporean state-owned investment company backs Manipal Health Enterprise Ltd.?",
+        "a": "Temasek",
+        "options": [
+            "BlackRock",
+            "SoftBank",
+            "Temasek",
+            "KKR",
+            "Carlyle"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which company has filed a Draft Red Herring Prospectus (DRHP) with SEBI to raise \u20b98,000 crore through an IPO?",
+        "a": "Manipal Health Enterprise Ltd",
+        "options": [
+            "Apollo Hospitals",
+            "Fortis Healthcare",
+            "Manipal Health Enterprise Ltd",
+            "Max Healthcare",
+            "Aster DM Healthcare"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the I-PAC co-founder whose residence and offices were subject to an interrupted ED raid?",
+        "a": "Pratik Jain",
+        "options": [
+            "Abhishek Banerjee",
+            "Kunal Ghosh",
+            "Pratik Jain",
+            "Firhad Hakim",
+            "Sovan Chatterjee"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to the news text, who was the Chief Justice of India commenting on the hurdles in the West Bengal Special Intensive Revision (SIR)?",
         "a": "Surya Kant",
         "options": [
             "D.Y. Chandrachud",
@@ -192,530 +276,446 @@
         "cat": "Who"
     },
     {
-        "q": "Who is the Solicitor General appearing for the CBI and ED in the ADAG banking fraud case?",
+        "q": "Who is the Senior advocate and MP for the ruling Trinamool Congress who submitted arguments on the West Bengal electoral roll issue?",
+        "a": "Kalyan Bandhopadhyay",
+        "options": [
+            "Kapil Sibal",
+            "P. Chidambaram",
+            "Kalyan Bandhopadhyay",
+            "Abhishek Manu Singhvi",
+            "Harish Salve"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Judge on the Bench hearing the West Bengal electoral roll issue observed the importance of protecting the fundamental and constitutional rights to participate in an election?",
+        "a": "Justice Joymalya Bagchi",
+        "options": [
+            "Justice D.Y. Chandrachud",
+            "Justice S. Abdul Nazeer",
+            "Justice Joymalya Bagchi",
+            "Justice Sanjiv Khanna",
+            "Justice B.R. Gavai"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Solicitor General who represented the ED in the case against the West Bengal Chief Minister regarding the interrupted raid?",
         "a": "Tushar Mehta",
         "options": [
+            "Harish Salve",
+            "Mukul Rohatgi",
+            "Tushar Mehta",
             "R. Venkataramani",
-            "Ashok Desai",
-            "Tushar Mehta",
-            "Harish Salve",
-            "Mukul Rohatgi"
+            "K.K. Venugopal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who filed the Public Interest Litigation (PIL) seeking a court-monitored probe into the alleged ADAG loan frauds?",
-        "a": "EAS Sarma",
+        "q": "Who was the Additional Solicitor General who represented the Centre in the Supreme Court case concerning permanent commission for women officers?",
+        "a": "Aishwarya Bhati",
         "options": [
-            "Prashant Bhushan",
-            "Anil Ambani",
-            "EAS Sarma",
-            "Mukul Rohatgi",
-            "S. Laxminarayanan"
+            "Madhavi Divan",
+            "Pinky Anand",
+            "Aishwarya Bhati",
+            "Indu Malhotra",
+            "Meenakshi Arora"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is representing EAS Sarma in the Supreme Court for the ADAG banking fraud case?",
-        "a": "Prashant Bhushan",
+        "q": "At which border did the US Supreme Court hear arguments over the Trump administration\u2019s authority to turn away asylum seekers?",
+        "a": "US-Mexico border",
         "options": [
-            "Mukul Rohatgi",
-            "Tushar Mehta",
-            "Prashant Bhushan",
-            "Anil Ambani",
-            "Ravindra Shrivastava"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the senior advocate appearing for Anil Ambani in the ADAG banking fraud case?",
-        "a": "Mukul Rohatgi",
-        "options": [
-            "Prashant Bhushan",
-            "Tushar Mehta",
-            "Mukul Rohatgi",
-            "Harish Salve",
-            "Gulam Jeelani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the SEBI Chief mentioned commenting on HDFC chairman's statements?",
-        "a": "Tuhin Kanta Pandey",
-        "options": [
-            "Ajay Tyagi",
-            "Madhabi Puri Buch",
-            "Tuhin Kanta Pandey",
-            "G. Mahalingam",
-            "Ananta Barua"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the HDFC chairman who resigned abruptly, as mentioned in the SEBI news?",
-        "a": "Atanu Chakraborty",
-        "options": [
-            "Deepak Parekh",
-            "K.V. Kamath",
-            "Atanu Chakraborty",
-            "Aditya Puri",
-            "Sashidhar Jagdishan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was assigned to manually guide the Progress MS-33 spacecraft to dock with the ISS?",
-        "a": "Sergei Kud-Sverchkov",
-        "options": [
-            "Oleg Kononenko",
-            "Yuri Gagarin",
-            "Sergei Kud-Sverchkov",
-            "Alexei Leonov",
-            "Vladimir Komarov"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Prime Minister of Israel, mentioned regarding missile alerts?",
-        "a": "Benjamin Netanyahu",
-        "options": [
-            "Yair Lapid",
-            "Naftali Bennett",
-            "Benjamin Netanyahu",
-            "Isaac Herzog",
-            "Benny Gantz"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Defence Minister of Colombia, who announced the Hercules C-130 plane accident?",
-        "a": "Pedro Sanchez",
-        "options": [
-            "Gustavo Petro",
-            "Ivan Duque",
-            "Pedro Sanchez",
-            "Juan Manuel Santos",
-            "Alvaro Uribe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where is Israel's main nuclear research facility and reactor located, 8 miles from Dimona?",
-        "a": "Southern Negev Desert",
-        "options": [
-            "Northern Galilee",
-            "Central Plains",
-            "Southern Negev Desert",
-            "West Bank",
-            "Golan Heights"
+            "US-Canada border",
+            "US-Mexico border",
+            "US-Atlantic coast",
+            "US-Pacific coast",
+            "US-Gulf coast"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city in Israel, along with Dimona, was struck by Iranian ballistic missiles?",
-        "a": "Arad",
+        "q": "Which Indian State has become the first to float a tender for a group of earth-observation satellites to strengthen disaster response and survey borders?",
+        "a": "Assam",
         "options": [
-            "Tel Aviv",
-            "Jerusalem",
-            "Arad",
-            "Haifa",
-            "Beer Sheva"
+            "Karnataka",
+            "Kerala",
+            "Odisha",
+            "Assam",
+            "Gujarat"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which Cosmodrome did the Soyuz 2.1a rocket launch with the Progress MS-33 cargo ship?",
-        "a": "Baikonur Cosmodrome",
+        "q": "The AssamSAT project aims to strengthen disaster response along which flood-prone valley?",
+        "a": "Brahmaputra valley",
         "options": [
-            "Vostochny Cosmodrome",
-            "Plesetsk Cosmodrome",
-            "Baikonur Cosmodrome",
-            "Cape Canaveral",
-            "Guiana Space Centre"
+            "Ganga valley",
+            "Indus valley",
+            "Yamuna valley",
+            "Brahmaputra valley",
+            "Narmada valley"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Hercules C-130 plane accident in Colombia occurred as the plane was taking off from which location?",
-        "a": "Puerto Leguizamo",
+        "q": "In which National Park will the AssamSAT also be mandated to monitor poaching?",
+        "a": "Kaziranga National Park",
         "options": [
-            "Bogota",
-            "Medellin",
-            "Puerto Leguizamo",
-            "Cali",
-            "Cartagena"
+            "Manas National Park",
+            "Nameri National Park",
+            "Kaziranga National Park",
+            "Orang National Park",
+            "Dibru-Saikhowa National Park"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Hercules C-130 plane crash in Colombia took place in which region of the country?",
-        "a": "Southern Amazon region",
+        "q": "What is the colloquial name for the strip of land that physically connects the Northeast to the rest of India, which is monitored by security agencies?",
+        "a": "Siliguri Corridor",
         "options": [
-            "Northern Caribbean region",
-            "Central Andean region",
-            "Southern Amazon region",
-            "Eastern Llanos region",
-            "Pacific Coast region"
+            "Coromandel Coast",
+            "Malabar Coast",
+            "Konkan Coast",
+            "Siliguri Corridor",
+            "Northern Circars"
         ],
         "cat": "Where"
     },
     {
-        "q": "A separate Hercules C-130 operated by the Bolivian Air Force went down in which densely populated city?",
-        "a": "El Alto",
+        "q": "Manipal Health Enterprise Ltd, a multi-specialty firm, is based in which Indian city?",
+        "a": "Bengaluru",
         "options": [
-            "La Paz",
-            "Santa Cruz",
-            "El Alto",
-            "Cochabamba",
-            "Sucre"
+            "Mumbai",
+            "Chennai",
+            "Hyderabad",
+            "Bengaluru",
+            "Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which international entity was the Russian cargo spacecraft Progress MS-33 en route to dock with?",
-        "a": "International Space Station (ISS)",
+        "q": "To which region has the US moved to deploy around 3,000 troops from its elite 82nd Airborne Division?",
+        "a": "Middle East",
         "options": [
-            "Hubble Space Telescope",
-            "Chinese Space Station",
-            "International Space Station (ISS)",
-            "Mars Reconnaissance Orbiter",
-            "Lunar Gateway"
+            "Eastern Europe",
+            "East Asia",
+            "Middle East",
+            "South America",
+            "North Africa"
         ],
         "cat": "Where"
     },
     {
-        "q": "The alleged large-scale banking fraud involving the Anil Dhirubhai Ambani Group is being probed by central investigative agencies of which country?",
-        "a": "India",
+        "q": "The US 82nd Airborne Division, known for its rapid response capabilities, is based at which location?",
+        "a": "Fort Liberty in North Carolina",
         "options": [
-            "United States",
-            "United Kingdom",
-            "India",
-            "Switzerland",
-            "Singapore"
+            "Fort Bragg in North Carolina",
+            "Fort Hood in Texas",
+            "Fort Liberty in North Carolina",
+            "Fort Campbell in Kentucky",
+            "Fort Lewis in Washington"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court fixed the PIL for further hearing after how many weeks from March 23, 2026?",
-        "a": "Four weeks",
+        "q": "The 82nd Airborne Division's identity is rooted in its role during World War II, particularly in which major operation?",
+        "a": "Normandy landings",
         "options": [
-            "Two weeks",
-            "Six weeks",
-            "Four weeks",
-            "Three weeks",
-            "Five weeks"
+            "Battle of the Bulge",
+            "Battle of Stalingrad",
+            "Normandy landings",
+            "Attack on Pearl Harbor",
+            "Battle of Iwo Jima"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which Indian state is currently grappling with significant hurdles in its Special Intensive Revision (SIR) of electoral rolls?",
+        "a": "West Bengal",
+        "options": [
+            "Uttar Pradesh",
+            "Bihar",
+            "Odisha",
+            "West Bengal",
+            "Assam"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Supreme Court upheld permanent commission and consequent pensionary benefits for women officers in which branches of the Armed Forces?",
+        "a": "Army, Air Force and Navy",
+        "options": [
+            "Indian Coast Guard only",
+            "Indian Army only",
+            "Indian Navy only",
+            "Army, Air Force and Navy",
+            "Border Security Force only"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date did the US Supreme Court hear arguments over the Trump administration\u2019s authority regarding the \u201cmetering\u201d policy?",
+        "a": "March 24",
+        "options": [
+            "March 23",
+            "March 25",
+            "March 24",
+            "March 26",
+            "March 27"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the Supreme Court previously voice displeasure over the \"unexplained delay\" in investigations into ADAG fraud?",
-        "a": "February 4",
+        "q": "In which year did the \u201cmetering\u201d practice for asylum seekers at the US-Mexico border begin under Barack Obama?",
+        "a": "2016",
         "options": [
-            "February 1",
-            "February 7",
-            "February 4",
-            "February 3",
-            "February 5"
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the top court ask the CBI and the ED to file status reports in a sealed cover within 10 days?",
-        "a": "January 23",
+        "q": "In which year was the metering policy formalized during Donald Trump\u2019s first term?",
+        "a": "2018",
         "options": [
-            "January 20",
-            "January 26",
-            "January 23",
-            "January 22",
-            "January 24"
+            "2017",
+            "2019",
+            "2018",
+            "2020",
+            "2016"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the FIR registered for the ADAG fraud, though the fraud had been going on since 2007-08?",
-        "a": "2025",
+        "q": "When was the metering policy for asylum seekers rescinded by Joe Biden?",
+        "a": "2021",
+        "options": [
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "By the end of which month is a ruling in the US Supreme Court asylum case expected?",
+        "a": "June",
+        "options": [
+            "May",
+            "July",
+            "June",
+            "August",
+            "September"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Assam Science Technology and Environment Council issue an Expression of Interest (EOI) for the AssamSAT mission?",
+        "a": "March 16",
+        "options": [
+            "March 14",
+            "March 18",
+            "March 16",
+            "March 15",
+            "March 17"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For which fiscal year did AC makers witness tepid sales, with volumes likely to close 5% lower compared to the previous blockbuster year?",
+        "a": "FY26",
+        "options": [
+            "FY25",
+            "FY27",
+            "FY26",
+            "FY24",
+            "FY28"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "From which month did the new energy label norm for air conditioners take effect?",
+        "a": "January",
+        "options": [
+            "December",
+            "February",
+            "January",
+            "March",
+            "November"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Delhi\u2019s fiscal deficit for which fiscal year was presented in the revised estimate (RE)?",
+        "a": "2025-26",
+        "options": [
+            "2024-25",
+            "2026-27",
+            "2025-26",
+            "2023-24",
+            "2027-28"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When are the Assembly elections in West Bengal, currently facing issues with the electoral roll exercise, scheduled to take place?",
+        "a": "April 2026",
+        "options": [
+            "March 2026",
+            "May 2026",
+            "April 2026",
+            "June 2026",
+            "February 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the last date for filing nominations for the first phase of the West Bengal Assembly elections?",
+        "a": "April 6",
+        "options": [
+            "April 5",
+            "April 7",
+            "April 6",
+            "April 4",
+            "April 8"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court\u2019s judgments upholding permanent commission for women officers in the Armed Forces were authored by the Chief Justice on Tuesday, March 24 of which year, as per the news text?",
+        "a": "2026",
         "options": [
             "2024",
-            "2026",
             "2025",
+            "2026",
             "2023",
             "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "Between which years did RCOM, Reliance Infratel, and Reliance Telecom borrow \u20b931,580 crore from a consortium of banks?",
-        "a": "2013 and 2017",
+        "q": "What is the underlying reason for the US policy known as \u201cmetering\u201d at the US-Mexico border?",
+        "a": "To limit the number of asylum claims processed when crossings are deemed overwhelmed",
         "options": [
-            "2012 and 2016",
-            "2014 and 2018",
-            "2013 and 2017",
-            "2011 and 2015",
-            "2015 and 2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month and year did Foreign Portfolio Investment (FPI) outflows cross \u20b988,000 crore?",
-        "a": "March 2026",
-        "options": [
-            "February 2026",
-            "April 2026",
-            "March 2026",
-            "January 2026",
-            "May 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the High Level Committee on Conflict of Interest submit its report, four months prior to the SEBI board meeting?",
-        "a": "Four months back",
-        "options": [
-            "Three months back",
-            "Five months back",
-            "Four months back",
-            "Six months back",
-            "Two months back"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court hearing on airfare hikes and cancellations was listed again on which date?",
-        "a": "April 27",
-        "options": [
-            "April 20",
-            "May 4",
-            "April 27",
-            "April 30",
-            "May 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month of 2025 did the large-scale operational collapse due to crew shortage in IndiGo airlines begin?",
-        "a": "Late November 2025",
-        "options": [
-            "Early November 2025",
-            "Late December 2025",
-            "Late November 2025",
-            "Early December 2025",
-            "October 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Hercules C-130 aircraft was first introduced in which decade?",
-        "a": "1950s",
-        "options": [
-            "1940s",
-            "1960s",
-            "1950s",
-            "1970s",
-            "1980s"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the Special Investigative Team (SIT) constituted in the ADAG banking fraud case?",
-        "a": "To conduct a fair, dispassionate, transparent, and time-bound investigation.",
-        "options": [
-            "To recover all siphoned money immediately.",
-            "To make random arrests of all accused individuals.",
-            "To conduct a fair, dispassionate, transparent, and time-bound investigation.",
-            "To advise financial institutions on debt recovery.",
-            "To submit a report to the government within 24 hours."
+            "To expedite all asylum claims efficiently",
+            "To increase border security patrols indefinitely",
+            "To limit the number of asylum claims processed when crossings are deemed overwhelmed",
+            "To process asylum claims only from specific nationalities",
+            "To completely prevent illegal immigration at all times"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the Economic Stabilisation Fund, as suggested by RBI officials?",
-        "a": "To provide fiscal headroom and buffer to proactively respond to global headwinds.",
+        "q": "What is the primary objective of the AssamSAT mission announced by Chief Minister Himanta Biswa Sarma?",
+        "a": "To strengthen disaster response and help survey the State\u2019s borders",
         "options": [
-            "To fund infrastructure projects nationally.",
-            "To increase India's foreign exchange reserves.",
-            "To provide fiscal headroom and buffer to proactively respond to global headwinds.",
-            "To stabilize the domestic currency exchange rate.",
-            "To reduce inflation through direct market intervention."
+            "To promote space tourism in the region",
+            "To improve agricultural output through advanced imaging",
+            "To strengthen disaster response and help survey the State\u2019s borders",
+            "To develop advanced satellite technology for commercial use",
+            "To facilitate inter-state communication networks"
         ],
         "cat": "Why"
     },
     {
-        "q": "One of the key recommendations by the High Level Committee on Conflict of Interest, approved by SEBI, was to bring whom within the definition of 'insider'?",
-        "a": "Chairperson and whole-time members of the board.",
+        "q": "Chief Minister Himanta Biswa Sarma has repeatedly described the AssamSAT project as a means to achieve what for Assam?",
+        "a": "An \u201cinfiltration-free Assam\u201d",
         "options": [
-            "All employees of listed companies.",
-            "Only independent directors.",
-            "External auditors.",
-            "Chairperson and whole-time members of the board.",
-            "Retail investors."
+            "A \u201cfinancially stable Assam\u201d",
+            "A \u201cdigitally advanced Assam\u201d",
+            "An \u201cinfiltration-free Assam\u201d",
+            "An \u201ceco-friendly Assam\u201d",
+            "An \u201cindustrialized Assam\u201d"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of establishing digital systems for conflict-of-interest management, as decided by SEBI?",
-        "a": "To ensure transparency and accountability in board functions.",
+        "q": "Why might the AssamSAT satellites carry synthetic aperture radars (SAR)?",
+        "a": "Because the State has cloudy weather for almost half the year",
         "options": [
-            "To reduce paperwork for board meetings.",
-            "To manage all financial transactions digitally.",
-            "To ensure transparency and accountability in board functions.",
-            "To track stock market fluctuations.",
-            "To provide online training for new directors."
+            "To enhance the resolution of optical imagery",
+            "To detect underground mineral resources",
+            "To facilitate communication with ground stations",
+            "Because the State has cloudy weather for almost half the year",
+            "To provide real-time high-definition video feeds"
         ],
         "cat": "Why"
     },
     {
-        "q": "SEBI decided to establish a new office of ethics and compliance for what purpose?",
-        "a": "To oversee public issues.",
+        "q": "What is a key factor contributing to the expected 7-8% price increase in the Indian air-conditioning industry?",
+        "a": "Impact of war in West Asia on plastic component availability and raw material price increases",
         "options": [
-            "To manage all legal disputes.",
-            "To handle internal employee grievances.",
-            "To oversee public issues.",
-            "To conduct market research.",
-            "To regulate foreign investments."
+            "Increased consumer demand and purchasing power",
+            "New government subsidies for energy-efficient appliances",
+            "Impact of war in West Asia on plastic component availability and raw material price increases",
+            "Higher advertising expenditure and brand promotion costs",
+            "Reduced import duties on finished AC units"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for simplifying 'fit and proper person' guidelines for intermediaries by SEBI?",
-        "a": "To disqualify members only on conviction for economic offences or securities law violation.",
+        "q": "What is the primary purpose for which \u20b95,378 crore from Manipal Health Enterprise Ltd.'s IPO proceeds will be utilized?",
+        "a": "Repayment of certain outstanding borrowings",
         "options": [
-            "To allow more individuals to become intermediaries.",
-            "To disqualify members only on conviction for economic offences or securities law violation.",
-            "To increase the eligibility criteria for intermediaries.",
-            "To streamline the application process for new firms.",
-            "To merge multiple regulatory guidelines."
+            "Acquisition of new hospital chains",
+            "Implementation of employee welfare programs",
+            "Repayment of certain outstanding borrowings",
+            "Expansion of international operations",
+            "Investment in advanced medical research"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did SEBI decide to allow Foreign Portfolio Investments (FPIs) to settle funds on a net basis for stock market transactions?",
-        "a": "To ease their operations and reduce cost.",
+        "q": "What is the defining feature of the 82nd Airborne Division that gives it a critical advantage in the earliest phase of an operation?",
+        "a": "Its airborne capability, allowing soldiers to parachute into inaccessible areas",
         "options": [
-            "To increase FPI outflows.",
-            "To generate more tax revenue.",
-            "To ease their operations and reduce cost.",
-            "To encourage long-term investments only.",
-            "To simplify reporting requirements."
+            "Its heavy armored vehicle regiments",
+            "Its large naval support fleet",
+            "Its airborne capability, allowing soldiers to parachute into inaccessible areas",
+            "Its extensive cyber warfare units",
+            "Its advanced long-range missile systems"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of reducing the minimum investment value for social impact funds in Alternative Investment Funds (AIFs) to \u20b91,000?",
-        "a": "To enhance retail participation.",
+        "q": "The increase in Delhi's fiscal deficit and the lower year-on-year increase in total budget outlay signify what about the State\u2019s financial health?",
+        "a": "Slight strains in the State\u2019s financial health",
         "options": [
-            "To restrict investment to High Net Worth Individuals (HNIs).",
-            "To reduce the overall fund size.",
-            "To simplify regulatory compliance.",
-            "To enhance retail participation.",
-            "To attract only institutional investors."
+            "Robust economic growth and development",
+            "Improved financial management practices",
+            "Slight strains in the State\u2019s financial health",
+            "Significant increase in central government grants",
+            "A strategic reduction in public spending"
         ],
         "cat": "Why"
     },
     {
-        "q": "What caused the Progress MS-33 cargo ship to require manual docking with the International Space Station (ISS)?",
-        "a": "A malfunction with one of the KURS automated docking system antennas.",
+        "q": "What was the Election Commission's criterion that, according to senior advocate Kalyan Bandhopadhyay, led to lakhs of people potentially losing their right to vote in West Bengal?",
+        "a": "The \u2018logical discrepancy\u2019 criterion",
         "options": [
-            "An unexpected change in the ISS orbit.",
-            "A malfunction with one of the KURS automated docking system antennas.",
-            "Lack of sufficient fuel for automated docking.",
-            "A software glitch in the ISS control system.",
-            "Crew decision to practice manual docking."
+            "Age verification issues",
+            "Voter ID card duplication",
+            "The \u2018logical discrepancy\u2019 criterion",
+            "Address mismatch errors",
+            "Voter eligibility reforms"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main purpose of the petition filed by S. Laxminarayanan against the civil aviation sector?",
-        "a": "To address fare fluctuation, fare transparency, and continuity of essential air services.",
+        "q": "What was the systemic and long-held presumption declared by the Supreme Court that led to an uneven playing field for women officers in the Armed Forces?",
+        "a": "That women officers had no substantive or long-term career",
         "options": [
-            "To seek compensation for flight delays.",
-            "To address fare fluctuation, fare transparency, and continuity of essential air services.",
-            "To promote new airline companies.",
-            "To establish a government-owned airline.",
-            "To increase airport tariffs."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did PM Benjamin Netanyahu urge Israelis to use bomb shelters during incoming missile alerts?",
-        "a": "To ensure safety and avoid complacency.",
-        "options": [
-            "To test the effectiveness of the shelters.",
-            "To demonstrate military preparedness.",
-            "To ensure safety and avoid complacency.",
-            "To avoid unnecessary panic.",
-            "To comply with international mandates."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court gave the government a four-week leeway to respond to the airfare petition, citing what reason?",
-        "a": "There are bigger problems the government is handling now, referring to the Iran-Israel conflict.",
-        "options": [
-            "Lack of proper legal representation.",
-            "Insufficient data from the petitioner.",
-            "The need for more time for a comprehensive response.",
-            "There are bigger problems the government is handling now, referring to the Iran-Israel conflict.",
-            "AERA's jurisdiction limitations on airfare."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did Colombia's President Gustavo Petro slam bureaucratic obstacles regarding modernizing the military?",
-        "a": "Because it was delaying plans to modernise the military and putting soldiers' lives at stake.",
-        "options": [
-            "To secure more international funding.",
-            "To reduce military expenditure.",
-            "Because it was delaying plans to modernise the military and putting soldiers' lives at stake.",
-            "To shift focus to civilian infrastructure projects.",
-            "To privatize parts of the military."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the main reason cited for the Supreme Court's displeasure with the investigative agencies in the ADAG case?",
-        "a": "Reluctance to conduct probes.",
-        "options": [
-            "Lack of evidence collected.",
-            "Excessive and random arrests.",
-            "Reluctance to conduct probes.",
-            "Slow judicial process in the lower courts.",
-            "Interference from the government in the investigation."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What key theme was emphasized by RBI officials in the March edition of the RBI Bulletin regarding the domestic economy?",
-        "a": "The capacity and resilience of the Indian economy to absorb external shocks.",
-        "options": [
-            "The increasing dependence of India on crude oil imports.",
-            "The need for immediate fiscal stimulus packages.",
-            "The capacity and resilience of the Indian economy to absorb external shocks.",
-            "The rising inflation rates in the domestic market.",
-            "The decline in India's macroeconomic fundamentals."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The TORU system in Russian spacecraft serves what purpose during docking?",
-        "a": "It allows cosmonauts to operate the spacecraft manually from the station as a backup.",
-        "options": [
-            "It is the primary automated docking system.",
-            "It tracks celestial bodies for navigation.",
-            "It allows cosmonauts to operate the spacecraft manually from the station as a backup.",
-            "It measures oxygen levels on board.",
-            "It controls the spacecraft's communication with Earth."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the function of the KURS system in Russian spacecraft, as mentioned in the news?",
-        "a": "It is an automated system that helps dock a spacecraft safely with the ISS.",
-        "options": [
-            "It provides life support for astronauts.",
-            "It controls the spacecraft's propulsion.",
-            "It is an automated system that helps dock a spacecraft safely with the ISS.",
-            "It is a manual backup system for docking.",
-            "It monitors the health of the crew members."
+            "That women officers preferred administrative roles",
+            "That women officers lacked necessary leadership skills",
+            "That women officers had no substantive or long-term career",
+            "That women officers could not handle operational stress",
+            "That women officers were not interested in permanent commission"
         ],
         "cat": "Why"
     }
