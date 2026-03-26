@@ -5183,3 +5183,44 @@ Here are 3 bullet points summarizing the headline:
 
 Source: https://www.thehindu.com/news/national/presumption-that-women-officers-had-no-long-career-in-armed-forces-led-to-unequal-playing-field-for-them-supreme-court/article70778943.ece
 ========================================
+
+
+--- BATCH ADDED ON 2026-03-26 04:15:41 ---
+========================================
+🛑 RBI scraps treasury bill sale to support banking liquidity
+--------------------
+The Reserve Bank of India (RBI) has cancelled its scheduled sale of treasury bills.
+*   This decision means funds will not be drained from the banking system, as would typically happen with a T-bill sale.
+*   The move aims to support and maintain adequate liquidity (cash) within the banking sector.
+
+Source: https://www.thehindu.com/business/rbi-scraps-treasury-bill-sale-to-support-banking-liquidity/article70785459.ece
+========================================
+========================================
+🛑 Govt asks RBI to target retail inflation at 4% till Mar 2031
+--------------------
+Here's the summary in 3 bullet points:
+
+*   The Government has asked the RBI.
+*   The directive is to target retail inflation at 4%.
+*   This target will remain in effect until March 2031.
+
+Source: https://www.thehindu.com/business/Economy/govt-asks-rbi-to-maintain-retail-inflation-at-4-till-mar-2031/article70785251.ece
+========================================
+========================================
+🛑 SEBI calls-on tech players to fight finfluencers
+--------------------
+SEBI is calling on technology companies to help combat the issue of "finfluencers" (financial influencers).
+*   The market regulator aims to leverage tech expertise to address the spread of unregulated financial advice.
+*   This move signifies SEBI's intent to use advanced tools and data to monitor and mitigate risks posed to investors by finfluencers.
+
+Source: https://www.thehindu.com/business/sebi-calls-on-tech-players-to-fight-finfluencers/article70784421.ece
+========================================
+========================================
+🛑 Anduril, Palantir developing Golden Dome missile shield's software, source says
+--------------------
+Anduril and Palantir are reportedly developing software.
+*   This software is intended for a defense system named the "Golden Dome" missile shield.
+*   The information comes from an unnamed source, indicating it is not yet officially confirmed.
+
+Source: https://www.thehindu.com/sci-tech/technology/anduril-palantir-developing-golden-dome-missile-shields-software-source-says/article70782513.ece
+========================================
