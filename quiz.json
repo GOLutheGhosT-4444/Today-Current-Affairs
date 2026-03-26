@@ -1,722 +1,782 @@
 [
     {
-        "q": "What is the fee required to avail the full Expression of Interest (EOI) for the AssamSAT project?",
-        "a": "\u20b930,000",
+        "q": "What was the magnitude of the higher cut-off yields demanded by investors for treasury bills, leading to RBI's rejection of bids?",
+        "a": "0.05-0.10% points",
         "options": [
-            "\u20b929,000",
-            "\u20b931,000",
-            "\u20b930,000",
-            "\u20b929,500",
-            "\u20b930,500"
+            "0.03-0.08% points",
+            "0.05-0.10% points",
+            "0.10-0.15% points",
+            "0.02-0.07% points",
+            "0.04-0.09% points"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage are AC sales in FY26 expected to be lower in terms of volume compared to the blockbuster year of 2024-25?",
-        "a": "5%",
+        "q": "On which date did the RBI reject all bids for treasury bills, marking the second such instance in over 13 months?",
+        "a": "March 25, 2026",
         "options": [
-            "4%",
-            "6%",
-            "5%",
-            "4.5%",
-            "5.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the record sales volume for air conditioners in India during FY25?",
-        "a": "15 million units",
-        "options": [
-            "14 million units",
-            "16 million units",
-            "15 million units",
-            "14.5 million units",
-            "15.5 million units"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the sales volume for air conditioners in the fiscal year prior to FY25?",
-        "a": "11 million units",
-        "options": [
-            "10 million units",
-            "12 million units",
-            "11 million units",
-            "10.5 million units",
-            "11.5 million units"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the inevitable price increase percentage for air conditioners that Blue Star Group President Mohit Sud mentioned?",
-        "a": "7-8%",
-        "options": [
-            "6-7%",
-            "8-9%",
-            "7-8%",
-            "6.5-7.5%",
-            "7.5-8.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total amount Manipal Health Enterprise Ltd. aims to raise through its IPO?",
-        "a": "\u20b98,000 crore",
-        "options": [
-            "\u20b97,900 crore",
-            "\u20b98,100 crore",
-            "\u20b98,000 crore",
-            "\u20b97,950 crore",
-            "\u20b98,050 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the face value per equity share for Manipal Health Enterprise Ltd.'s IPO?",
-        "a": "\u20b92",
-        "options": [
-            "\u20b91",
-            "\u20b93",
-            "\u20b92",
-            "\u20b91.5",
-            "\u20b92.5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much of the IPO proceeds from Manipal Health Enterprise Ltd. is allocated for debt repayment?",
-        "a": "\u20b95,378 crore",
-        "options": [
-            "\u20b95,360 crore",
-            "\u20b95,390 crore",
-            "\u20b95,378 crore",
-            "\u20b95,370 crore",
-            "\u20b95,380 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum amount Manipal Health Enterprise Ltd. may consider for a pre-IPO Placement?",
-        "a": "\u20b91,600 crore",
-        "options": [
-            "\u20b91,500 crore",
-            "\u20b91,700 crore",
-            "\u20b91,600 crore",
-            "\u20b91,550 crore",
-            "\u20b91,650 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many troops from the US 82nd Airborne Division have been moved to the Middle East?",
-        "a": "3,000",
-        "options": [
-            "2,900",
-            "3,100",
-            "3,000",
-            "2,950",
-            "3,050"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was Delhi's fiscal deficit in the revised estimate (RE) for 2025-26?",
-        "a": "\u20b922,289.03 crore",
-        "options": [
-            "\u20b922,280.00 crore",
-            "\u20b922,290.00 crore",
-            "\u20b922,289.03 crore",
-            "\u20b922,285.00 crore",
-            "\u20b922,295.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in Delhi\u2019s fiscal deficit for 2025-26 in the revised estimate compared to the budget estimate?",
-        "a": "62.65%",
-        "options": [
-            "60.00%",
-            "65.00%",
-            "62.65%",
-            "62.00%",
-            "63.00%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total outlay for Delhi\u2019s budget for 2026-27?",
-        "a": "\u20b91.03 lakh crore",
-        "options": [
-            "\u20b91.02 lakh crore",
-            "\u20b91.04 lakh crore",
-            "\u20b91.03 lakh crore",
-            "\u20b91.025 lakh crore",
-            "\u20b91.035 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many cases of exclusions from the State electoral roll were under adjudication in West Bengal as of March 23?",
-        "a": "60 lakh",
-        "options": [
-            "58 lakh",
-            "62 lakh",
-            "60 lakh",
-            "59 lakh",
-            "61 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the reported value of the coal smuggling case that the ED is investigating, which led to the raid on I-PAC co-founder?",
-        "a": "\u20b92,742-crore",
-        "options": [
-            "\u20b92,700-crore",
-            "\u20b92,800-crore",
-            "\u20b92,742-crore",
-            "\u20b92,730-crore",
-            "\u20b92,750-crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Justice Department lawyer who argued on behalf of the Trump administration regarding the metering policy?",
-        "a": "Vivek Suri",
-        "options": [
-            "Sonia Sotomayor",
-            "Barack Obama",
-            "Vivek Suri",
-            "Donald Trump",
-            "Joe Biden"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which advocacy group brought the legal challenge against the Trump administration's metering policy at the US-Mexico border?",
-        "a": "Al Otro Lado",
-        "options": [
-            "Amnesty International",
-            "Human Rights Watch",
-            "Al Otro Lado",
-            "Southern Poverty Law Center",
-            "ACLU"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Chief Minister announced the AssamSAT project in the State Budget?",
-        "a": "Himanta Biswa Sarma",
-        "options": [
-            "Sarbananda Sonowal",
-            "Pema Khandu",
-            "Himanta Biswa Sarma",
-            "Conrad Sangma",
-            "Neiphiu Rio"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Blue Star Group President for Unitary Cooling Products, quoted in the news regarding AC price increases?",
-        "a": "Mohit Sud",
-        "options": [
-            "Arun Kumar",
-            "Rajesh Sharma",
-            "Mohit Sud",
-            "Vikas Gupta",
-            "Sanjay Mehta"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Singaporean state-owned investment company backs Manipal Health Enterprise Ltd.?",
-        "a": "Temasek",
-        "options": [
-            "BlackRock",
-            "SoftBank",
-            "Temasek",
-            "KKR",
-            "Carlyle"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which company has filed a Draft Red Herring Prospectus (DRHP) with SEBI to raise \u20b98,000 crore through an IPO?",
-        "a": "Manipal Health Enterprise Ltd",
-        "options": [
-            "Apollo Hospitals",
-            "Fortis Healthcare",
-            "Manipal Health Enterprise Ltd",
-            "Max Healthcare",
-            "Aster DM Healthcare"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the I-PAC co-founder whose residence and offices were subject to an interrupted ED raid?",
-        "a": "Pratik Jain",
-        "options": [
-            "Abhishek Banerjee",
-            "Kunal Ghosh",
-            "Pratik Jain",
-            "Firhad Hakim",
-            "Sovan Chatterjee"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "According to the news text, who was the Chief Justice of India commenting on the hurdles in the West Bengal Special Intensive Revision (SIR)?",
-        "a": "Surya Kant",
-        "options": [
-            "D.Y. Chandrachud",
-            "U.U. Lalit",
-            "Surya Kant",
-            "N.V. Ramana",
-            "S.A. Bobde"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Senior advocate and MP for the ruling Trinamool Congress who submitted arguments on the West Bengal electoral roll issue?",
-        "a": "Kalyan Bandhopadhyay",
-        "options": [
-            "Kapil Sibal",
-            "P. Chidambaram",
-            "Kalyan Bandhopadhyay",
-            "Abhishek Manu Singhvi",
-            "Harish Salve"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Judge on the Bench hearing the West Bengal electoral roll issue observed the importance of protecting the fundamental and constitutional rights to participate in an election?",
-        "a": "Justice Joymalya Bagchi",
-        "options": [
-            "Justice D.Y. Chandrachud",
-            "Justice S. Abdul Nazeer",
-            "Justice Joymalya Bagchi",
-            "Justice Sanjiv Khanna",
-            "Justice B.R. Gavai"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Solicitor General who represented the ED in the case against the West Bengal Chief Minister regarding the interrupted raid?",
-        "a": "Tushar Mehta",
-        "options": [
-            "Harish Salve",
-            "Mukul Rohatgi",
-            "Tushar Mehta",
-            "R. Venkataramani",
-            "K.K. Venugopal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Additional Solicitor General who represented the Centre in the Supreme Court case concerning permanent commission for women officers?",
-        "a": "Aishwarya Bhati",
-        "options": [
-            "Madhavi Divan",
-            "Pinky Anand",
-            "Aishwarya Bhati",
-            "Indu Malhotra",
-            "Meenakshi Arora"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "At which border did the US Supreme Court hear arguments over the Trump administration\u2019s authority to turn away asylum seekers?",
-        "a": "US-Mexico border",
-        "options": [
-            "US-Canada border",
-            "US-Mexico border",
-            "US-Atlantic coast",
-            "US-Pacific coast",
-            "US-Gulf coast"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Indian State has become the first to float a tender for a group of earth-observation satellites to strengthen disaster response and survey borders?",
-        "a": "Assam",
-        "options": [
-            "Karnataka",
-            "Kerala",
-            "Odisha",
-            "Assam",
-            "Gujarat"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The AssamSAT project aims to strengthen disaster response along which flood-prone valley?",
-        "a": "Brahmaputra valley",
-        "options": [
-            "Ganga valley",
-            "Indus valley",
-            "Yamuna valley",
-            "Brahmaputra valley",
-            "Narmada valley"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which National Park will the AssamSAT also be mandated to monitor poaching?",
-        "a": "Kaziranga National Park",
-        "options": [
-            "Manas National Park",
-            "Nameri National Park",
-            "Kaziranga National Park",
-            "Orang National Park",
-            "Dibru-Saikhowa National Park"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the colloquial name for the strip of land that physically connects the Northeast to the rest of India, which is monitored by security agencies?",
-        "a": "Siliguri Corridor",
-        "options": [
-            "Coromandel Coast",
-            "Malabar Coast",
-            "Konkan Coast",
-            "Siliguri Corridor",
-            "Northern Circars"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Manipal Health Enterprise Ltd, a multi-specialty firm, is based in which Indian city?",
-        "a": "Bengaluru",
-        "options": [
-            "Mumbai",
-            "Chennai",
-            "Hyderabad",
-            "Bengaluru",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "To which region has the US moved to deploy around 3,000 troops from its elite 82nd Airborne Division?",
-        "a": "Middle East",
-        "options": [
-            "Eastern Europe",
-            "East Asia",
-            "Middle East",
-            "South America",
-            "North Africa"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The US 82nd Airborne Division, known for its rapid response capabilities, is based at which location?",
-        "a": "Fort Liberty in North Carolina",
-        "options": [
-            "Fort Bragg in North Carolina",
-            "Fort Hood in Texas",
-            "Fort Liberty in North Carolina",
-            "Fort Campbell in Kentucky",
-            "Fort Lewis in Washington"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The 82nd Airborne Division's identity is rooted in its role during World War II, particularly in which major operation?",
-        "a": "Normandy landings",
-        "options": [
-            "Battle of the Bulge",
-            "Battle of Stalingrad",
-            "Normandy landings",
-            "Attack on Pearl Harbor",
-            "Battle of Iwo Jima"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Indian state is currently grappling with significant hurdles in its Special Intensive Revision (SIR) of electoral rolls?",
-        "a": "West Bengal",
-        "options": [
-            "Uttar Pradesh",
-            "Bihar",
-            "Odisha",
-            "West Bengal",
-            "Assam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court upheld permanent commission and consequent pensionary benefits for women officers in which branches of the Armed Forces?",
-        "a": "Army, Air Force and Navy",
-        "options": [
-            "Indian Coast Guard only",
-            "Indian Army only",
-            "Indian Navy only",
-            "Army, Air Force and Navy",
-            "Border Security Force only"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date did the US Supreme Court hear arguments over the Trump administration\u2019s authority regarding the \u201cmetering\u201d policy?",
-        "a": "March 24",
-        "options": [
-            "March 23",
-            "March 25",
-            "March 24",
-            "March 26",
-            "March 27"
+            "February 21, 2025",
+            "March 20, 2026",
+            "March 25, 2026",
+            "April 1, 2026",
+            "March 31, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did the \u201cmetering\u201d practice for asylum seekers at the US-Mexico border begin under Barack Obama?",
+        "q": "Who commented on the tight liquidity in the banking system prompting investors to bid higher yields, which the RBI rejected?",
+        "a": "R. Balasubramanian",
+        "options": [
+            "Tuhin Kanta Pandey",
+            "R. Balasubramanian",
+            "Donald Trump",
+            "Elon Musk",
+            "Urjit Patel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary characteristic of treasury bills regarding interest payments?",
+        "a": "They carry no periodic interest payments.",
+        "options": [
+            "They carry fixed periodic interest payments.",
+            "They offer variable interest rates linked to repo rate.",
+            "They carry no periodic interest payments.",
+            "They offer interest paid quarterly.",
+            "They offer interest paid annually."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "By how much did the cut-off yields on 91-day and 182-day treasury bills rise over the past three weeks?",
+        "a": "About 0.03% points each",
+        "options": [
+            "About 0.06% points each",
+            "About 0.03% points each",
+            "About 0.05% points each",
+            "About 0.10% points each",
+            "About 0.02% points each"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total transient liquidity amounting to, infused by the RBI into the banking system through VRR auctions?",
+        "a": "\u20b92.08 lakh crore",
+        "options": [
+            "\u20b91.08 lakh crore",
+            "\u20b92.18 lakh crore",
+            "\u20b92.08 lakh crore",
+            "\u20b93.08 lakh crore",
+            "\u20b91.58 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the maximum maturity period for treasury bills?",
+        "a": "Up to 364 days",
+        "options": [
+            "Up to 91 days",
+            "Up to 182 days",
+            "Up to 364 days",
+            "Up to 730 days",
+            "Up to 270 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "On which date did the government ask the Reserve Bank to target retail inflation at 4% for another five years?",
+        "a": "March 25, 2026",
+        "options": [
+            "March 31, 2021",
+            "April 1, 2026",
+            "March 25, 2026",
+            "August 2025",
+            "October 2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the new target period for which the government has mandated the RBI to keep retail inflation at 4%?",
+        "a": "April 1, 2026, to March 31, 2031",
+        "options": [
+            "March 31, 2021, to March 31, 2026",
+            "April 1, 2026, to March 31, 2031",
+            "October 2016, to March 31, 2021",
+            "April 1, 2025, to March 31, 2030",
+            "March 25, 2026, to March 25, 2031"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the lower tolerance level for retail inflation set by the government for the RBI?",
+        "a": "2%",
+        "options": [
+            "3%",
+            "4%",
+            "2%",
+            "5%",
+            "1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year did India adopt the inflation-targeting framework and formally task the central bank with it?",
         "a": "2016",
         "options": [
-            "2014",
-            "2015",
+            "2021",
             "2016",
-            "2017",
-            "2018"
+            "2011",
+            "2024",
+            "2010"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the metering policy formalized during Donald Trump\u2019s first term?",
-        "a": "2018",
+        "q": "What was the retail inflation rate in India in February, as per the latest data?",
+        "a": "3.21 per cent",
         "options": [
-            "2017",
-            "2019",
-            "2018",
-            "2020",
-            "2016"
+            "2.74 per cent",
+            "4.00 per cent",
+            "3.21 per cent",
+            "6.00 per cent",
+            "2.00 per cent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the base year for the new series of the Consumer Price Index (CPI) released earlier this month?",
+        "a": "2024",
+        "options": [
+            "2016",
+            "2021",
+            "2024",
+            "2012",
+            "2020"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the metering policy for asylum seekers rescinded by Joe Biden?",
+        "q": "Who heads the six-member Monetary Policy Committee (MPC) that determines the policy rate to achieve the inflation target?",
+        "a": "RBI Governor",
+        "options": [
+            "Finance Minister",
+            "RBI Governor",
+            "SEBI Chairperson",
+            "Department of Economic Affairs Secretary",
+            "Prime Minister"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When did the RBI come out with a discussion paper seeking feedback on the nature and format of the inflation target?",
+        "a": "August 2025",
+        "options": [
+            "March 2021",
+            "August 2025",
+            "October 2016",
+            "March 2026",
+            "February 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the average inflation rate over the pre-FIT period in the current series?",
+        "a": "6.8%",
+        "options": [
+            "4.9%",
+            "6.8%",
+            "4.0%",
+            "3.2%",
+            "2.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the primary purpose of the government asking RBI to target retail inflation?",
+        "a": "To control the price rise and balance growth with stability.",
+        "options": [
+            "To increase government revenue.",
+            "To control the price rise and balance growth with stability.",
+            "To boost export competitiveness.",
+            "To stabilize the stock market.",
+            "To reduce unemployment."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the upper tolerance level for the inflation target set by the government?",
+        "a": "6%",
+        "options": [
+            "4%",
+            "2%",
+            "6%",
+            "5%",
+            "7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which country was the first to implement Inflation Targeting (IT) in 1990?",
+        "a": "New Zealand",
+        "options": [
+            "India",
+            "United States",
+            "New Zealand",
+            "United Kingdom",
+            "Canada"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date did SEBI launch the app label in collaboration with Google?",
+        "a": "March 25, 2026",
+        "options": [
+            "February 21, 2025",
+            "March 31, 2021",
+            "March 25, 2026",
+            "April 1, 2026",
+            "October 2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who is the Chairperson of the Securities and Exchange Board of India (SEBI) who requested Google to leverage AI against finfluencers?",
+        "a": "Tuhin Kanta Pandey",
+        "options": [
+            "R. Balasubramanian",
+            "Shaktikanta Das",
+            "Tuhin Kanta Pandey",
+            "Donald Trump",
+            "Ajay Tyagi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the event held for launching the SEBI app label?",
+        "a": "Mumbai",
+        "options": [
+            "New Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Chennai",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Approximately how many apps of registered stockbrokers has the verified badge already been deployed for on Google Play Store?",
+        "a": "Over 600",
+        "options": [
+            "Over 500",
+            "Over 700",
+            "Over 600",
+            "Over 400",
+            "Over 800"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of investors find fin-fluencers credible, according to a SEBI study?",
+        "a": "90%",
+        "options": [
+            "80%",
+            "70%",
+            "90%",
+            "60%",
+            "95%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the main objective of SEBI's request to Google to leverage AI?",
+        "a": "To take down rule-breaking finfluencers.",
+        "options": [
+            "To promote new financial products.",
+            "To conduct market research.",
+            "To take down rule-breaking finfluencers.",
+            "To increase app downloads.",
+            "To provide investment advice."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which ministry is part of the Memorandum of Understanding (MoU) underway with SEBI and DoT to battle financial frauds?",
+        "a": "Ministry of Electronics and Information Technology (MeITY)",
+        "options": [
+            "Ministry of Finance",
+            "Ministry of Corporate Affairs",
+            "Ministry of Electronics and Information Technology (MeITY)",
+            "Ministry of Home Affairs",
+            "Ministry of Commerce"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the total value of U.S. President Donald Trump's Golden Dome antimissile shield initiative?",
+        "a": "$185 billion",
+        "options": [
+            "$175 billion",
+            "$195 billion",
+            "$185 billion",
+            "$165 billion",
+            "$200 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which two companies are specifically mentioned as working together to develop software for the Golden Dome project?",
+        "a": "Anduril and Palantir Technologies",
+        "options": [
+            "Lockheed Martin and RTX",
+            "Anduril and Palantir Technologies",
+            "SpaceX and Aalyria Technologies",
+            "Northrop Grumman and Scale AI",
+            "Swoop Technologies and Google"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which U.S. President is associated with the Golden Dome antimissile shield initiative?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George Bush",
+            "Bill Clinton"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary aim of the Golden Dome missile defence project?",
+        "a": "To build a space-based shield capable of intercepting ballistic, cruise and hypersonic missiles.",
+        "options": [
+            "To develop offensive missile capabilities.",
+            "To build a space-based shield capable of intercepting ballistic, cruise and hypersonic missiles.",
+            "To enhance ground-based air defense systems.",
+            "To launch commercial satellites.",
+            "To conduct space exploration missions."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "By how much did the price tag for the Golden Dome project increase recently?",
+        "a": "$10 billion",
+        "options": [
+            "$5 billion",
+            "$15 billion",
+            "$10 billion",
+            "$20 billion",
+            "$8 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which of these companies was among those awarded small Golden Dome contracts in November to build competing missile defence prototypes?",
+        "a": "Anduril",
+        "options": [
+            "Palantir Technologies",
+            "SpaceX",
+            "Anduril",
+            "Lockheed Martin",
+            "RTX"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the previous date, over 13 months ago, when the RBI last rejected bids for 91-day and 182-day treasury bills?",
+        "a": "February 21, 2025",
+        "options": [
+            "January 21, 2025",
+            "February 21, 2025",
+            "March 21, 2025",
+            "December 21, 2024",
+            "February 28, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the cut-off yield increase observed for the 364-day tenor treasury bills over the past three weeks?",
+        "a": "0.06% points",
+        "options": [
+            "0.03% points",
+            "0.05% points",
+            "0.06% points",
+            "0.08% points",
+            "0.04% points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What specific type of market instrument are Government of India treasury bills?",
+        "a": "Money market instruments",
+        "options": [
+            "Capital market instruments",
+            "Foreign exchange instruments",
+            "Commodity market instruments",
+            "Money market instruments",
+            "Derivative instruments"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the retail inflation rate in the month preceding February?",
+        "a": "2.74 per cent",
+        "options": [
+            "3.21 per cent",
+            "2.74 per cent",
+            "4.00 per cent",
+            "6.00 per cent",
+            "2.00 per cent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "When was the first mandate to the RBI to keep retail inflation at 4% given, for a period ending March 31, 2021?",
+        "a": "2016",
+        "options": [
+            "2021",
+            "2010",
+            "2016",
+            "2006",
+            "2015"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many members constitute the Monetary Policy Committee (MPC)?",
+        "a": "Six-member",
+        "options": [
+            "Five-member",
+            "Seven-member",
+            "Six-member",
+            "Four-member",
+            "Eight-member"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which month and year was the first meeting of the six-member MPC held?",
+        "a": "October 2016",
+        "options": [
+            "March 2021",
+            "October 2016",
+            "August 2025",
+            "March 2026",
+            "February 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the average inflation since the adoption of the Flexible Inflation Targeting (FIT) framework?",
+        "a": "4.9%",
+        "options": [
+            "6.8%",
+            "4.0%",
+            "4.9%",
+            "3.2%",
+            "2.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which entity issued the gazette notification dated March 25 regarding the inflation target for 2026-2031?",
+        "a": "Department of Economic Affairs",
+        "options": [
+            "Reserve Bank of India",
+            "Ministry of Finance",
+            "Department of Economic Affairs",
+            "Monetary Policy Committee",
+            "NITI Aayog"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the core reason cited for the strained liquidity conditions in the banking system recently?",
+        "a": "Outflows related to advance tax and goods and services tax (GST) payments.",
+        "options": [
+            "Increase in foreign direct investment.",
+            "Outflows related to advance tax and goods and services tax (GST) payments.",
+            "Reduction in government spending.",
+            "Decrease in commercial bank lending.",
+            "Surplus cash in the system."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does the RBI conduct to inject transient liquidity and support the banking system?",
+        "a": "Variable Rate Repo (VRR) auctions",
+        "options": [
+            "Fixed Rate Repo (FRR) auctions",
+            "Reverse Repo auctions",
+            "Open Market Operations (OMO)",
+            "Variable Rate Repo (VRR) auctions",
+            "Marginal Standing Facility (MSF)"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the questions posed in the RBI's discussion paper regarding the inflation target?",
+        "a": "Whether headline inflation or core inflation would best guide monetary policy.",
+        "options": [
+            "Whether to abolish the RBI's autonomy.",
+            "Whether to increase the retail inflation target to 8%.",
+            "Whether headline inflation or core inflation would best guide monetary policy.",
+            "Whether to reduce the number of MPC members.",
+            "Whether to implement a new currency."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "When was the Flexible Inflation Targeting (FIT) framework first reviewed after its introduction?",
         "a": "2021",
         "options": [
-            "2019",
+            "2016",
             "2020",
             "2021",
-            "2022",
-            "2023"
+            "2023",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "By the end of which month is a ruling in the US Supreme Court asylum case expected?",
-        "a": "June",
+        "q": "Which major global event was cited as driving up the inflation trend worldwide during the middle three years of FIT performance?",
+        "a": "Russia-Ukraine conflict",
         "options": [
-            "May",
-            "July",
-            "June",
-            "August",
-            "September"
+            "Global financial crisis",
+            "Dot-com bubble burst",
+            "Russia-Ukraine conflict",
+            "Asian financial crisis",
+            "Brexit referendum"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "On what date did the Assam Science Technology and Environment Council issue an Expression of Interest (EOI) for the AssamSAT mission?",
-        "a": "March 16",
+        "q": "What kind of instrument are treasury bills, functioning as promissory notes?",
+        "a": "Short-term borrowing instruments",
         "options": [
-            "March 14",
-            "March 18",
-            "March 16",
-            "March 15",
-            "March 17"
+            "Long-term investment bonds",
+            "Equity shares",
+            "Convertible debentures",
+            "Short-term borrowing instruments",
+            "Perpetual bonds"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "For which fiscal year did AC makers witness tepid sales, with volumes likely to close 5% lower compared to the previous blockbuster year?",
-        "a": "FY26",
+        "q": "Who is currently involved in discussions for an MoU with SEBI and DoT to combat financial frauds?",
+        "a": "Ministry of Electronics and Information Technology (MeITY)",
         "options": [
-            "FY25",
-            "FY27",
-            "FY26",
-            "FY24",
-            "FY28"
+            "Ministry of External Affairs",
+            "Ministry of Railways",
+            "Ministry of Electronics and Information Technology (MeITY)",
+            "Ministry of Health",
+            "Ministry of Defence"
         ],
-        "cat": "When"
+        "cat": "Who"
     },
     {
-        "q": "From which month did the new energy label norm for air conditioners take effect?",
-        "a": "January",
+        "q": "Which platform is mentioned where the verified badge for registered stockbrokers' apps has been deployed?",
+        "a": "Google Play Store",
         "options": [
-            "December",
-            "February",
-            "January",
-            "March",
-            "November"
+            "Apple App Store",
+            "Microsoft Store",
+            "Google Play Store",
+            "Amazon Appstore",
+            "Samsung Galaxy Store"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Delhi\u2019s fiscal deficit for which fiscal year was presented in the revised estimate (RE)?",
-        "a": "2025-26",
+        "q": "Who is working with Anduril and Palantir Technologies on various parts of the Golden Dome project, as reported last year?",
+        "a": "Elon Musk\u2019s SpaceX",
         "options": [
-            "2024-25",
-            "2026-27",
-            "2025-26",
-            "2023-24",
-            "2027-28"
+            "Jeff Bezos\u2019 Blue Origin",
+            "Richard Branson\u2019s Virgin Galactic",
+            "Elon Musk\u2019s SpaceX",
+            "NASA",
+            "Boeing"
         ],
-        "cat": "When"
+        "cat": "Who"
     },
     {
-        "q": "When are the Assembly elections in West Bengal, currently facing issues with the electoral roll exercise, scheduled to take place?",
-        "a": "April 2026",
+        "q": "Which of these is NOT listed as a prime contractor that earlier joined the Golden Dome programme?",
+        "a": "Palantir Technologies",
         "options": [
-            "March 2026",
-            "May 2026",
-            "April 2026",
-            "June 2026",
-            "February 2026"
+            "Lockheed Martin",
+            "RTX",
+            "Northrop Grumman",
+            "Palantir Technologies",
+            "All of the above are listed"
         ],
-        "cat": "When"
+        "cat": "Who"
     },
     {
-        "q": "What was the last date for filing nominations for the first phase of the West Bengal Assembly elections?",
-        "a": "April 6",
+        "q": "When did Reuters report that Anduril, Palantir, and SpaceX were working on various parts of the Golden Dome project?",
+        "a": "Last year (implied 2025)",
         "options": [
-            "April 5",
-            "April 7",
-            "April 6",
-            "April 4",
-            "April 8"
+            "Two years ago",
+            "Last year (implied 2025)",
+            "Three years ago",
+            "This year (2026)",
+            "Four years ago"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court\u2019s judgments upholding permanent commission for women officers in the Armed Forces were authored by the Chief Justice on Tuesday, March 24 of which year, as per the news text?",
+        "q": "The discussion paper mentions that inflation targeting (IT) turns 35 this year. Based on the context of the news, which year is 'this year' referring to?",
         "a": "2026",
         "options": [
-            "2024",
             "2025",
+            "2024",
             "2026",
             "2023",
-            "2027"
+            "1990"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the underlying reason for the US policy known as \u201cmetering\u201d at the US-Mexico border?",
-        "a": "To limit the number of asylum claims processed when crossings are deemed overwhelmed",
+        "q": "Why is it important that the basic tenets of the monetary policy framework are continued, as stated in the discussion paper?",
+        "a": "For policy certainty and credibility, especially during heightened uncertainty.",
         "options": [
-            "To expedite all asylum claims efficiently",
-            "To increase border security patrols indefinitely",
-            "To limit the number of asylum claims processed when crossings are deemed overwhelmed",
-            "To process asylum claims only from specific nationalities",
-            "To completely prevent illegal immigration at all times"
+            "To attract more foreign investments.",
+            "To increase government control over monetary policy.",
+            "For policy certainty and credibility, especially during heightened uncertainty.",
+            "To simplify economic forecasting.",
+            "To reduce the RBI's workload."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary objective of the AssamSAT mission announced by Chief Minister Himanta Biswa Sarma?",
-        "a": "To strengthen disaster response and help survey the State\u2019s borders",
+        "q": "What kind of liquidity did the RBI inject into the banking system through VRR auctions?",
+        "a": "Transient liquidity",
         "options": [
-            "To promote space tourism in the region",
-            "To improve agricultural output through advanced imaging",
-            "To strengthen disaster response and help survey the State\u2019s borders",
-            "To develop advanced satellite technology for commercial use",
-            "To facilitate inter-state communication networks"
+            "Permanent liquidity",
+            "Long-term liquidity",
+            "Structural liquidity",
+            "Transient liquidity",
+            "Excess liquidity"
         ],
         "cat": "Why"
     },
     {
-        "q": "Chief Minister Himanta Biswa Sarma has repeatedly described the AssamSAT project as a means to achieve what for Assam?",
-        "a": "An \u201cinfiltration-free Assam\u201d",
+        "q": "What is one of the risks SEBI aims to curb related to apps, as mentioned by Chairperson Tuhin Kanta Pandey?",
+        "a": "Downloading apps through links and not from platforms like Google Play.",
         "options": [
-            "A \u201cfinancially stable Assam\u201d",
-            "A \u201cdigitally advanced Assam\u201d",
-            "An \u201cinfiltration-free Assam\u201d",
-            "An \u201ceco-friendly Assam\u201d",
-            "An \u201cindustrialized Assam\u201d"
+            "Using official banking apps.",
+            "Downloading apps through links and not from platforms like Google Play.",
+            "Reliance on official government websites.",
+            "Using secured Wi-Fi networks.",
+            "Verifying app permissions."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why might the AssamSAT satellites carry synthetic aperture radars (SAR)?",
-        "a": "Because the State has cloudy weather for almost half the year",
+        "q": "The government's mandate for RBI's inflation target in 2016 was for five years ending on which date?",
+        "a": "March 31, 2021",
         "options": [
-            "To enhance the resolution of optical imagery",
-            "To detect underground mineral resources",
-            "To facilitate communication with ground stations",
-            "Because the State has cloudy weather for almost half the year",
-            "To provide real-time high-definition video feeds"
+            "March 31, 2026",
+            "April 1, 2026",
+            "March 31, 2021",
+            "March 25, 2026",
+            "October 2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many companies were vying for a role in developing the Golden Dome shield?",
+        "a": "Hundreds of companies",
+        "options": [
+            "Tens of companies",
+            "Dozens of companies",
+            "Scores of companies",
+            "Hundreds of companies",
+            "Thousands of companies"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What kind of missiles is the Golden Dome project designed to intercept?",
+        "a": "Ballistic, cruise and hypersonic missiles",
+        "options": [
+            "Only ballistic missiles",
+            "Only cruise missiles",
+            "Only hypersonic missiles",
+            "Ballistic, cruise and hypersonic missiles",
+            "Anti-tank missiles"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a key factor contributing to the expected 7-8% price increase in the Indian air-conditioning industry?",
-        "a": "Impact of war in West Asia on plastic component availability and raw material price increases",
+        "q": "What was the inflation target set for the period beginning April 1, 2026?",
+        "a": "4%",
         "options": [
-            "Increased consumer demand and purchasing power",
-            "New government subsidies for energy-efficient appliances",
-            "Impact of war in West Asia on plastic component availability and raw material price increases",
-            "Higher advertising expenditure and brand promotion costs",
-            "Reduced import duties on finished AC units"
+            "2%",
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In response to tight liquidity conditions, investors demanded what kind of yields for treasury bills compared to previous auctions?",
+        "a": "Higher yields",
+        "options": [
+            "Lower yields",
+            "Stable yields",
+            "Higher yields",
+            "Zero yields",
+            "Negative yields"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose for which \u20b95,378 crore from Manipal Health Enterprise Ltd.'s IPO proceeds will be utilized?",
-        "a": "Repayment of certain outstanding borrowings",
+        "q": "Which of these is NOT one of the firms mentioned as working on the Golden Dome project, in addition to Anduril and Palantir?",
+        "a": "Google",
         "options": [
-            "Acquisition of new hospital chains",
-            "Implementation of employee welfare programs",
-            "Repayment of certain outstanding borrowings",
-            "Expansion of international operations",
-            "Investment in advanced medical research"
+            "Aalyria Technologies",
+            "Scale AI",
+            "Swoop Technologies",
+            "Google",
+            "SpaceX"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which body, in consultation with the Reserve Bank, notifies the inflation target?",
+        "a": "The central government",
+        "options": [
+            "The State governments",
+            "The central government",
+            "The Supreme Court",
+            "The Parliament",
+            "The SEBI"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the reason for the RBI undertaking a review of the nature and format of the inflation target?",
+        "a": "Significant changes in the global and domestic economic environment.",
+        "options": [
+            "To align with the latest budget announcements.",
+            "To reduce the number of financial regulations.",
+            "To increase the autonomy of commercial banks.",
+            "Significant changes in the global and domestic economic environment.",
+            "To introduce new financial instruments."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the defining feature of the 82nd Airborne Division that gives it a critical advantage in the earliest phase of an operation?",
-        "a": "Its airborne capability, allowing soldiers to parachute into inaccessible areas",
+        "q": "When was Flexible Inflation Targeting (FIT) introduced in India?",
+        "a": "2016",
         "options": [
-            "Its heavy armored vehicle regiments",
-            "Its large naval support fleet",
-            "Its airborne capability, allowing soldiers to parachute into inaccessible areas",
-            "Its extensive cyber warfare units",
-            "Its advanced long-range missile systems"
+            "2011",
+            "2021",
+            "2016",
+            "2024",
+            "2010"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "The increase in Delhi's fiscal deficit and the lower year-on-year increase in total budget outlay signify what about the State\u2019s financial health?",
-        "a": "Slight strains in the State\u2019s financial health",
-        "options": [
-            "Robust economic growth and development",
-            "Improved financial management practices",
-            "Slight strains in the State\u2019s financial health",
-            "Significant increase in central government grants",
-            "A strategic reduction in public spending"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the Election Commission's criterion that, according to senior advocate Kalyan Bandhopadhyay, led to lakhs of people potentially losing their right to vote in West Bengal?",
-        "a": "The \u2018logical discrepancy\u2019 criterion",
-        "options": [
-            "Age verification issues",
-            "Voter ID card duplication",
-            "The \u2018logical discrepancy\u2019 criterion",
-            "Address mismatch errors",
-            "Voter eligibility reforms"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the systemic and long-held presumption declared by the Supreme Court that led to an uneven playing field for women officers in the Armed Forces?",
-        "a": "That women officers had no substantive or long-term career",
-        "options": [
-            "That women officers preferred administrative roles",
-            "That women officers lacked necessary leadership skills",
-            "That women officers had no substantive or long-term career",
-            "That women officers could not handle operational stress",
-            "That women officers were not interested in permanent commission"
-        ],
-        "cat": "Why"
+        "cat": "When"
     }
 ]
