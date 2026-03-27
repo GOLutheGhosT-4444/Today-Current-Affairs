@@ -1,782 +1,722 @@
 [
     {
-        "q": "What was the magnitude of the higher cut-off yields demanded by investors for treasury bills, leading to RBI's rejection of bids?",
-        "a": "0.05-0.10% points",
+        "q": "What was the approximate market share of Bharat PET Ltd in India's agrochemical packaging segment as per a CARE report?",
+        "a": "11%",
         "options": [
-            "0.03-0.08% points",
-            "0.05-0.10% points",
-            "0.10-0.15% points",
-            "0.02-0.07% points",
-            "0.04-0.09% points"
+            "10%",
+            "15%",
+            "11%",
+            "5%",
+            "20%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "On which date did the RBI reject all bids for treasury bills, marking the second such instance in over 13 months?",
-        "a": "March 25, 2026",
+        "q": "What was the revenue from operations posted by Bharat PET Ltd in FY25?",
+        "a": "\u20b9411.82 crore",
         "options": [
-            "February 21, 2025",
-            "March 20, 2026",
-            "March 25, 2026",
-            "April 1, 2026",
-            "March 31, 2026"
+            "\u20b9400.82 crore",
+            "\u20b9411.82 crore",
+            "\u20b9420.82 crore",
+            "\u20b9395.82 crore",
+            "\u20b9450.82 crore"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "Who commented on the tight liquidity in the banking system prompting investors to bid higher yields, which the RBI rejected?",
-        "a": "R. Balasubramanian",
+        "q": "What was the profit after tax (PAT) of Bharat PET Ltd during FY25?",
+        "a": "\u20b950.99 crore",
         "options": [
-            "Tuhin Kanta Pandey",
-            "R. Balasubramanian",
-            "Donald Trump",
-            "Elon Musk",
-            "Urjit Patel"
+            "\u20b955.99 crore",
+            "\u20b945.99 crore",
+            "\u20b950.99 crore",
+            "\u20b960.99 crore",
+            "\u20b940.99 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Bharat PET Ltd filed its DRHP to raise what total amount through an initial public offering (IPO)?",
+        "a": "\u20b9760 crore",
+        "options": [
+            "\u20b9750 crore",
+            "\u20b9770 crore",
+            "\u20b9760 crore",
+            "\u20b9780 crore",
+            "\u20b9740 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the value of the fresh issue of equity shares in Bharat PET's proposed IPO?",
+        "a": "\u20b9120 crore",
+        "options": [
+            "\u20b9110 crore",
+            "\u20b9130 crore",
+            "\u20b9120 crore",
+            "\u20b9100 crore",
+            "\u20b9140 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the value of the offer for sale (OFS) component by promoters in Bharat PET's proposed IPO?",
+        "a": "\u20b9640 crore",
+        "options": [
+            "\u20b9630 crore",
+            "\u20b9650 crore",
+            "\u20b9640 crore",
+            "\u20b9620 crore",
+            "\u20b9660 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount may Bharat PET Ltd consider for a pre-IPO placement of securities?",
+        "a": "\u20b924 crore",
+        "options": [
+            "\u20b920 crore",
+            "\u20b925 crore",
+            "\u20b924 crore",
+            "\u20b930 crore",
+            "\u20b915 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much of the IPO proceeds from the fresh issue will be utilized by Bharat PET Ltd towards repayment of borrowings?",
+        "a": "\u20b950 crore",
+        "options": [
+            "\u20b945 crore",
+            "\u20b955 crore",
+            "\u20b950 crore",
+            "\u20b960 crore",
+            "\u20b940 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of the IPO proceeds from the fresh issue will be utilized by Bharat PET Ltd for the purchase of machinery and equipment?",
+        "a": "\u20b935.8 crore",
+        "options": [
+            "\u20b930.8 crore",
+            "\u20b940.8 crore",
+            "\u20b935.8 crore",
+            "\u20b925.8 crore",
+            "\u20b945.8 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "As of September 30, 2025, what was the total installed capacity of Bharat PET's manufacturing facilities?",
+        "a": "18,110.53 MTPA",
+        "options": [
+            "18,000.53 MTPA",
+            "18,110.53 MTPA",
+            "18,200.53 MTPA",
+            "17,900.53 MTPA",
+            "18,500.53 MTPA"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many individuals were killed in the latest missile debris incident in Abu Dhabi on March 26, 2026?",
+        "a": "2",
+        "options": [
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total number of deaths from Iranian attacks, including the latest incident in Abu Dhabi, as reported by Gulf News?",
+        "a": "11",
+        "options": [
+            "10",
+            "12",
+            "11",
+            "9",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many ballistic missiles did UAE air defence systems engage on March 26, 2026, launched from Iran?",
+        "a": "15",
+        "options": [
+            "10",
+            "20",
+            "15",
+            "5",
+            "25"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many UAVs (Unmanned Aerial Vehicles) did UAE air defence systems engage on March 26, 2026, launched from Iran?",
+        "a": "11",
+        "options": [
+            "10",
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Since the start of the Iranian attacks, what is the total number of ballistic missiles engaged by UAE air defences?",
+        "a": "372",
+        "options": [
+            "370",
+            "375",
+            "372",
+            "360",
+            "380"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the market value wiped out over three sessions for HDFC Bank following the former chairman's resignation letter?",
+        "a": "$16.3 billion",
+        "options": [
+            "$16.0 billion",
+            "$16.5 billion",
+            "$16.3 billion",
+            "$15.8 billion",
+            "$17.0 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage slide in HDFC Bank's stock was triggered the day following its former chairman's resignation letter?",
+        "a": "8.7%",
+        "options": [
+            "8.5%",
+            "8.9%",
+            "8.7%",
+            "8.2%",
+            "9.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total number of injured individuals from the Iranian attacks mentioned in the news text?",
+        "a": "169",
+        "options": [
+            "160",
+            "170",
+            "169",
+            "150",
+            "180"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the former HDFC Bank chairman whose resignation letter is under review by SEBI?",
+        "a": "Atanu Chakraborty",
+        "options": [
+            "Sandeep Bakhshi",
+            "Aditya Puri",
+            "Atanu Chakraborty",
+            "Deepak Parekh",
+            "Uday Kotak"
         ],
         "cat": "Who"
     },
     {
-        "q": "What is the primary characteristic of treasury bills regarding interest payments?",
-        "a": "They carry no periodic interest payments.",
+        "q": "Which regulator is conducting a preliminary review of the resignation letter of former HDFC Bank chairman Atanu Chakraborty?",
+        "a": "SEBI",
         "options": [
-            "They carry fixed periodic interest payments.",
-            "They offer variable interest rates linked to repo rate.",
-            "They carry no periodic interest payments.",
-            "They offer interest paid quarterly.",
-            "They offer interest paid annually."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "By how much did the cut-off yields on 91-day and 182-day treasury bills rise over the past three weeks?",
-        "a": "About 0.03% points each",
-        "options": [
-            "About 0.06% points each",
-            "About 0.03% points each",
-            "About 0.05% points each",
-            "About 0.10% points each",
-            "About 0.02% points each"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total transient liquidity amounting to, infused by the RBI into the banking system through VRR auctions?",
-        "a": "\u20b92.08 lakh crore",
-        "options": [
-            "\u20b91.08 lakh crore",
-            "\u20b92.18 lakh crore",
-            "\u20b92.08 lakh crore",
-            "\u20b93.08 lakh crore",
-            "\u20b91.58 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum maturity period for treasury bills?",
-        "a": "Up to 364 days",
-        "options": [
-            "Up to 91 days",
-            "Up to 182 days",
-            "Up to 364 days",
-            "Up to 730 days",
-            "Up to 270 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "On which date did the government ask the Reserve Bank to target retail inflation at 4% for another five years?",
-        "a": "March 25, 2026",
-        "options": [
-            "March 31, 2021",
-            "April 1, 2026",
-            "March 25, 2026",
-            "August 2025",
-            "October 2016"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the new target period for which the government has mandated the RBI to keep retail inflation at 4%?",
-        "a": "April 1, 2026, to March 31, 2031",
-        "options": [
-            "March 31, 2021, to March 31, 2026",
-            "April 1, 2026, to March 31, 2031",
-            "October 2016, to March 31, 2021",
-            "April 1, 2025, to March 31, 2030",
-            "March 25, 2026, to March 25, 2031"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the lower tolerance level for retail inflation set by the government for the RBI?",
-        "a": "2%",
-        "options": [
-            "3%",
-            "4%",
-            "2%",
-            "5%",
-            "1%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year did India adopt the inflation-targeting framework and formally task the central bank with it?",
-        "a": "2016",
-        "options": [
-            "2021",
-            "2016",
-            "2011",
-            "2024",
-            "2010"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the retail inflation rate in India in February, as per the latest data?",
-        "a": "3.21 per cent",
-        "options": [
-            "2.74 per cent",
-            "4.00 per cent",
-            "3.21 per cent",
-            "6.00 per cent",
-            "2.00 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the base year for the new series of the Consumer Price Index (CPI) released earlier this month?",
-        "a": "2024",
-        "options": [
-            "2016",
-            "2021",
-            "2024",
-            "2012",
-            "2020"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who heads the six-member Monetary Policy Committee (MPC) that determines the policy rate to achieve the inflation target?",
-        "a": "RBI Governor",
-        "options": [
-            "Finance Minister",
-            "RBI Governor",
-            "SEBI Chairperson",
-            "Department of Economic Affairs Secretary",
-            "Prime Minister"
+            "RBI",
+            "IRDAI",
+            "PFRDA",
+            "SEBI",
+            "FSDC"
         ],
         "cat": "Who"
     },
     {
-        "q": "When did the RBI come out with a discussion paper seeking feedback on the nature and format of the inflation target?",
-        "a": "August 2025",
-        "options": [
-            "March 2021",
-            "August 2025",
-            "October 2016",
-            "March 2026",
-            "February 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the average inflation rate over the pre-FIT period in the current series?",
-        "a": "6.8%",
-        "options": [
-            "4.9%",
-            "6.8%",
-            "4.0%",
-            "3.2%",
-            "2.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the primary purpose of the government asking RBI to target retail inflation?",
-        "a": "To control the price rise and balance growth with stability.",
-        "options": [
-            "To increase government revenue.",
-            "To control the price rise and balance growth with stability.",
-            "To boost export competitiveness.",
-            "To stabilize the stock market.",
-            "To reduce unemployment."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the upper tolerance level for the inflation target set by the government?",
-        "a": "6%",
-        "options": [
-            "4%",
-            "2%",
-            "6%",
-            "5%",
-            "7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which country was the first to implement Inflation Targeting (IT) in 1990?",
-        "a": "New Zealand",
-        "options": [
-            "India",
-            "United States",
-            "New Zealand",
-            "United Kingdom",
-            "Canada"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date did SEBI launch the app label in collaboration with Google?",
-        "a": "March 25, 2026",
-        "options": [
-            "February 21, 2025",
-            "March 31, 2021",
-            "March 25, 2026",
-            "April 1, 2026",
-            "October 2016"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the Chairperson of the Securities and Exchange Board of India (SEBI) who requested Google to leverage AI against finfluencers?",
+        "q": "Who is the current SEBI Chairman mentioned in the news without commenting on individual cases?",
         "a": "Tuhin Kanta Pandey",
         "options": [
-            "R. Balasubramanian",
-            "Shaktikanta Das",
+            "Ajay Tyagi",
+            "Madhabi Puri Buch",
             "Tuhin Kanta Pandey",
-            "Donald Trump",
-            "Ajay Tyagi"
+            "G. Mahalingam",
+            "Ananta Barua"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where was the event held for launching the SEBI app label?",
-        "a": "Mumbai",
+        "q": "Which book running lead managers are associated with Bharat PET Ltd's IPO?",
+        "a": "Equirus Capital and Ambit",
         "options": [
-            "New Delhi",
-            "Bengaluru",
+            "ICICI Securities and Axis Capital",
+            "Kotak Mahindra Capital and SBI Capital Markets",
+            "Equirus Capital and Ambit",
+            "JM Financial and Edelweiss",
+            "Nuvama Wealth and IIFL Securities"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which company is one of the key clients mentioned for Bharat PET Ltd?",
+        "a": "Tata Consumer Products Ltd",
+        "options": [
+            "Reliance Industries Ltd",
+            "ITC Ltd",
+            "Adani Wilmar Ltd",
+            "Tata Consumer Products Ltd",
+            "Hindustan Unilever Ltd"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Justices comprised the Supreme Court Bench that ruled on the Scheduled Caste status for religious converts?",
+        "a": "Justices Prashant Kumar Mishra and Manmohan",
+        "options": [
+            "Justices Chandrachud and Gavai",
+            "Justices Prashant Kumar Mishra and Manmohan",
+            "Justices Kaul and Trivedi",
+            "Justices Nariman and Joseph",
+            "Justices Bhat and Nagarathna"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who heads the Commission of Inquiry constituted in October 2022 to examine extending Scheduled Caste status to converts to Islam and Christianity?",
+        "a": "K.G. Balakrishnan",
+        "options": [
+            "R.M. Lodha",
+            "J.S. Verma",
+            "K.G. Balakrishnan",
+            "P. Sathasivam",
+            "T.S. Thakur"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who among the following condemned the Supreme Court ruling on SC status for religious converts, stating it caused 'deep consternation'?",
+        "a": "Randeep Surjewala",
+        "options": [
+            "Rahul Gandhi",
+            "Mallikarjun Kharge",
+            "Randeep Surjewala",
+            "Priyanka Gandhi Vadra",
+            "Sonia Gandhi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Hindu outfit welcomed the Supreme Court ruling on SC status for religious converts?",
+        "a": "Vishva Hindu Parishad (VHP)",
+        "options": [
+            "Bajrang Dal",
+            "RSS",
+            "Shiv Sena",
+            "Vishva Hindu Parishad",
+            "Hindu Sena"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who welcomed the Supreme Court verdict on SC status, stating it was aimed at protecting vulnerable communities from religious conversion?",
+        "a": "Champai Soren",
+        "options": [
+            "Hemant Soren",
+            "Champai Soren",
+            "Arjun Munda",
+            "Babulal Marandi",
+            "Raghubar Das"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Telangana BJP president termed the SC ruling a 'historic victory for the spirit of the Constitution'?",
+        "a": "N. Ramchander Rao",
+        "options": [
+            "Bandaru Dattatreya",
+            "K. Laxman",
+            "G. Kishan Reddy",
+            "N. Ramchander Rao",
+            "Bandi Sanjay Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who among the following is mentioned as inspiring large-scale conversions that led to the inclusion of Buddhism in the Scheduled Castes Order?",
+        "a": "Dr. B.R. Ambedkar",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Dr. B.R. Ambedkar",
+            "Sardar Patel",
+            "Swami Vivekananda"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "One of the two individuals killed in the missile debris incident in Abu Dhabi on March 26, 2026, was of which nationality?",
+        "a": "Indian",
+        "options": [
+            "Emirati",
+            "Jordanian",
+            "Indian",
+            "Nepali",
+            "Bangladeshi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which country's Ministry of Defence reported that its air defences are responding to incoming missile and drone threats from Iran?",
+        "a": "United Arab Emirates (UAE)",
+        "options": [
+            "Saudi Arabia",
+            "Qatar",
+            "Kuwait",
+            "United Arab Emirates",
+            "Oman"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which city did the missile debris incident occur on Sweihan street on March 26, 2026?",
+        "a": "Abu Dhabi",
+        "options": [
+            "Dubai",
+            "Sharjah",
+            "Abu Dhabi",
+            "Ajman",
+            "Fujairah"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "One of Bharat PET Ltd's manufacturing facilities is located in which of the following cities?",
+        "a": "Delhi",
+        "options": [
             "Mumbai",
+            "Bengaluru",
             "Chennai",
-            "Hyderabad"
+            "Kolkata",
+            "Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Approximately how many apps of registered stockbrokers has the verified badge already been deployed for on Google Play Store?",
-        "a": "Over 600",
+        "q": "Apart from Delhi, Sonipat, and Jammu, where is another manufacturing facility of Bharat PET Ltd located?",
+        "a": "Ankleshwar",
         "options": [
-            "Over 500",
-            "Over 700",
-            "Over 600",
-            "Over 400",
-            "Over 800"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of investors find fin-fluencers credible, according to a SEBI study?",
-        "a": "90%",
-        "options": [
-            "80%",
-            "70%",
-            "90%",
-            "60%",
-            "95%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the main objective of SEBI's request to Google to leverage AI?",
-        "a": "To take down rule-breaking finfluencers.",
-        "options": [
-            "To promote new financial products.",
-            "To conduct market research.",
-            "To take down rule-breaking finfluencers.",
-            "To increase app downloads.",
-            "To provide investment advice."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which ministry is part of the Memorandum of Understanding (MoU) underway with SEBI and DoT to battle financial frauds?",
-        "a": "Ministry of Electronics and Information Technology (MeITY)",
-        "options": [
-            "Ministry of Finance",
-            "Ministry of Corporate Affairs",
-            "Ministry of Electronics and Information Technology (MeITY)",
-            "Ministry of Home Affairs",
-            "Ministry of Commerce"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the total value of U.S. President Donald Trump's Golden Dome antimissile shield initiative?",
-        "a": "$185 billion",
-        "options": [
-            "$175 billion",
-            "$195 billion",
-            "$185 billion",
-            "$165 billion",
-            "$200 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which two companies are specifically mentioned as working together to develop software for the Golden Dome project?",
-        "a": "Anduril and Palantir Technologies",
-        "options": [
-            "Lockheed Martin and RTX",
-            "Anduril and Palantir Technologies",
-            "SpaceX and Aalyria Technologies",
-            "Northrop Grumman and Scale AI",
-            "Swoop Technologies and Google"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which U.S. President is associated with the Golden Dome antimissile shield initiative?",
-        "a": "Donald Trump",
-        "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George Bush",
-            "Bill Clinton"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary aim of the Golden Dome missile defence project?",
-        "a": "To build a space-based shield capable of intercepting ballistic, cruise and hypersonic missiles.",
-        "options": [
-            "To develop offensive missile capabilities.",
-            "To build a space-based shield capable of intercepting ballistic, cruise and hypersonic missiles.",
-            "To enhance ground-based air defense systems.",
-            "To launch commercial satellites.",
-            "To conduct space exploration missions."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "By how much did the price tag for the Golden Dome project increase recently?",
-        "a": "$10 billion",
-        "options": [
-            "$5 billion",
-            "$15 billion",
-            "$10 billion",
-            "$20 billion",
-            "$8 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which of these companies was among those awarded small Golden Dome contracts in November to build competing missile defence prototypes?",
-        "a": "Anduril",
-        "options": [
-            "Palantir Technologies",
-            "SpaceX",
-            "Anduril",
-            "Lockheed Martin",
-            "RTX"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the previous date, over 13 months ago, when the RBI last rejected bids for 91-day and 182-day treasury bills?",
-        "a": "February 21, 2025",
-        "options": [
-            "January 21, 2025",
-            "February 21, 2025",
-            "March 21, 2025",
-            "December 21, 2024",
-            "February 28, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the cut-off yield increase observed for the 364-day tenor treasury bills over the past three weeks?",
-        "a": "0.06% points",
-        "options": [
-            "0.03% points",
-            "0.05% points",
-            "0.06% points",
-            "0.08% points",
-            "0.04% points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What specific type of market instrument are Government of India treasury bills?",
-        "a": "Money market instruments",
-        "options": [
-            "Capital market instruments",
-            "Foreign exchange instruments",
-            "Commodity market instruments",
-            "Money market instruments",
-            "Derivative instruments"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the retail inflation rate in the month preceding February?",
-        "a": "2.74 per cent",
-        "options": [
-            "3.21 per cent",
-            "2.74 per cent",
-            "4.00 per cent",
-            "6.00 per cent",
-            "2.00 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "When was the first mandate to the RBI to keep retail inflation at 4% given, for a period ending March 31, 2021?",
-        "a": "2016",
-        "options": [
-            "2021",
-            "2010",
-            "2016",
-            "2006",
-            "2015"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many members constitute the Monetary Policy Committee (MPC)?",
-        "a": "Six-member",
-        "options": [
-            "Five-member",
-            "Seven-member",
-            "Six-member",
-            "Four-member",
-            "Eight-member"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which month and year was the first meeting of the six-member MPC held?",
-        "a": "October 2016",
-        "options": [
-            "March 2021",
-            "October 2016",
-            "August 2025",
-            "March 2026",
-            "February 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the average inflation since the adoption of the Flexible Inflation Targeting (FIT) framework?",
-        "a": "4.9%",
-        "options": [
-            "6.8%",
-            "4.0%",
-            "4.9%",
-            "3.2%",
-            "2.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which entity issued the gazette notification dated March 25 regarding the inflation target for 2026-2031?",
-        "a": "Department of Economic Affairs",
-        "options": [
-            "Reserve Bank of India",
-            "Ministry of Finance",
-            "Department of Economic Affairs",
-            "Monetary Policy Committee",
-            "NITI Aayog"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the core reason cited for the strained liquidity conditions in the banking system recently?",
-        "a": "Outflows related to advance tax and goods and services tax (GST) payments.",
-        "options": [
-            "Increase in foreign direct investment.",
-            "Outflows related to advance tax and goods and services tax (GST) payments.",
-            "Reduction in government spending.",
-            "Decrease in commercial bank lending.",
-            "Surplus cash in the system."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does the RBI conduct to inject transient liquidity and support the banking system?",
-        "a": "Variable Rate Repo (VRR) auctions",
-        "options": [
-            "Fixed Rate Repo (FRR) auctions",
-            "Reverse Repo auctions",
-            "Open Market Operations (OMO)",
-            "Variable Rate Repo (VRR) auctions",
-            "Marginal Standing Facility (MSF)"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the questions posed in the RBI's discussion paper regarding the inflation target?",
-        "a": "Whether headline inflation or core inflation would best guide monetary policy.",
-        "options": [
-            "Whether to abolish the RBI's autonomy.",
-            "Whether to increase the retail inflation target to 8%.",
-            "Whether headline inflation or core inflation would best guide monetary policy.",
-            "Whether to reduce the number of MPC members.",
-            "Whether to implement a new currency."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "When was the Flexible Inflation Targeting (FIT) framework first reviewed after its introduction?",
-        "a": "2021",
-        "options": [
-            "2016",
-            "2020",
-            "2021",
-            "2023",
-            "2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which major global event was cited as driving up the inflation trend worldwide during the middle three years of FIT performance?",
-        "a": "Russia-Ukraine conflict",
-        "options": [
-            "Global financial crisis",
-            "Dot-com bubble burst",
-            "Russia-Ukraine conflict",
-            "Asian financial crisis",
-            "Brexit referendum"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What kind of instrument are treasury bills, functioning as promissory notes?",
-        "a": "Short-term borrowing instruments",
-        "options": [
-            "Long-term investment bonds",
-            "Equity shares",
-            "Convertible debentures",
-            "Short-term borrowing instruments",
-            "Perpetual bonds"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is currently involved in discussions for an MoU with SEBI and DoT to combat financial frauds?",
-        "a": "Ministry of Electronics and Information Technology (MeITY)",
-        "options": [
-            "Ministry of External Affairs",
-            "Ministry of Railways",
-            "Ministry of Electronics and Information Technology (MeITY)",
-            "Ministry of Health",
-            "Ministry of Defence"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which platform is mentioned where the verified badge for registered stockbrokers' apps has been deployed?",
-        "a": "Google Play Store",
-        "options": [
-            "Apple App Store",
-            "Microsoft Store",
-            "Google Play Store",
-            "Amazon Appstore",
-            "Samsung Galaxy Store"
+            "Vadodara",
+            "Surat",
+            "Ankleshwar",
+            "Ahmedabad",
+            "Rajkot"
         ],
         "cat": "Where"
     },
     {
-        "q": "Who is working with Anduril and Palantir Technologies on various parts of the Golden Dome project, as reported last year?",
-        "a": "Elon Musk\u2019s SpaceX",
+        "q": "The Supreme Court ruling on Scheduled Caste status involved a pastor from the Madiga community in which Indian state?",
+        "a": "Andhra Pradesh",
         "options": [
-            "Jeff Bezos\u2019 Blue Origin",
-            "Richard Branson\u2019s Virgin Galactic",
-            "Elon Musk\u2019s SpaceX",
-            "NASA",
-            "Boeing"
+            "Telangana",
+            "Karnataka",
+            "Tamil Nadu",
+            "Kerala",
+            "Andhra Pradesh"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which of these is NOT listed as a prime contractor that earlier joined the Golden Dome programme?",
-        "a": "Palantir Technologies",
+        "q": "Where are Bharat PET Ltd's manufacturing facilities located?",
+        "a": "Delhi, Sonipat, Ankleshwar, and Jammu",
         "options": [
-            "Lockheed Martin",
-            "RTX",
-            "Northrop Grumman",
-            "Palantir Technologies",
-            "All of the above are listed"
+            "Mumbai, Pune, Nagpur, Chennai",
+            "Bengaluru, Hyderabad, Kochi, Goa",
+            "Delhi, Sonipat, Ankleshwar, Jammu",
+            "Kolkata, Patna, Ranchi, Bhubaneswar",
+            "Ahmedabad, Indore, Bhopal, Jaipur"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "When did Reuters report that Anduril, Palantir, and SpaceX were working on various parts of the Golden Dome project?",
-        "a": "Last year (implied 2025)",
+        "q": "The incidents involving missile and drone threats are primarily originating from which country, targeting the UAE?",
+        "a": "Iran",
         "options": [
-            "Two years ago",
-            "Last year (implied 2025)",
-            "Three years ago",
-            "This year (2026)",
-            "Four years ago"
+            "Yemen",
+            "Iraq",
+            "Syria",
+            "Iran",
+            "Lebanon"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date did HDFC Bank state it had appointed external law firms to assess concerns raised in the resignation letter?",
+        "a": "Tuesday (March 14, 2026)",
+        "options": [
+            "March 12, 2026",
+            "March 14, 2026",
+            "March 16, 2026",
+            "March 10, 2026",
+            "March 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The discussion paper mentions that inflation targeting (IT) turns 35 this year. Based on the context of the news, which year is 'this year' referring to?",
-        "a": "2026",
+        "q": "On which day did Bharat PET Ltd file its Draft Red Herring Prospectus (DRHP)?",
+        "a": "Wednesday (March 25, 2026)",
         "options": [
-            "2025",
-            "2024",
-            "2026",
-            "2023",
-            "1990"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Why is it important that the basic tenets of the monetary policy framework are continued, as stated in the discussion paper?",
-        "a": "For policy certainty and credibility, especially during heightened uncertainty.",
-        "options": [
-            "To attract more foreign investments.",
-            "To increase government control over monetary policy.",
-            "For policy certainty and credibility, especially during heightened uncertainty.",
-            "To simplify economic forecasting.",
-            "To reduce the RBI's workload."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What kind of liquidity did the RBI inject into the banking system through VRR auctions?",
-        "a": "Transient liquidity",
-        "options": [
-            "Permanent liquidity",
-            "Long-term liquidity",
-            "Structural liquidity",
-            "Transient liquidity",
-            "Excess liquidity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the risks SEBI aims to curb related to apps, as mentioned by Chairperson Tuhin Kanta Pandey?",
-        "a": "Downloading apps through links and not from platforms like Google Play.",
-        "options": [
-            "Using official banking apps.",
-            "Downloading apps through links and not from platforms like Google Play.",
-            "Reliance on official government websites.",
-            "Using secured Wi-Fi networks.",
-            "Verifying app permissions."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The government's mandate for RBI's inflation target in 2016 was for five years ending on which date?",
-        "a": "March 31, 2021",
-        "options": [
-            "March 31, 2026",
-            "April 1, 2026",
-            "March 31, 2021",
+            "March 23, 2026",
+            "March 24, 2026",
             "March 25, 2026",
-            "October 2016"
+            "March 26, 2026",
+            "March 27, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "How many companies were vying for a role in developing the Golden Dome shield?",
-        "a": "Hundreds of companies",
+        "q": "In which year was Bharat PET Ltd incorporated?",
+        "a": "1998",
         "options": [
-            "Tens of companies",
-            "Dozens of companies",
-            "Scores of companies",
-            "Hundreds of companies",
-            "Thousands of companies"
+            "1995",
+            "2000",
+            "1998",
+            "1990",
+            "2005"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "What kind of missiles is the Golden Dome project designed to intercept?",
-        "a": "Ballistic, cruise and hypersonic missiles",
+        "q": "As of which date was the data on Bharat PET Ltd's moulds, customers, and installed capacity provided?",
+        "a": "September 30, 2025",
         "options": [
-            "Only ballistic missiles",
-            "Only cruise missiles",
-            "Only hypersonic missiles",
-            "Ballistic, cruise and hypersonic missiles",
-            "Anti-tank missiles"
+            "March 31, 2025",
+            "June 30, 2025",
+            "September 30, 2025",
+            "December 31, 2025",
+            "January 1, 2026"
         ],
-        "cat": "Why"
+        "cat": "When"
     },
     {
-        "q": "What was the inflation target set for the period beginning April 1, 2026?",
-        "a": "4%",
+        "q": "For which financial year did Bharat PET Ltd post a revenue from operations of \u20b9411.82 crore?",
+        "a": "FY25",
         "options": [
-            "2%",
-            "3%",
-            "4%",
-            "5%",
-            "6%"
+            "FY24",
+            "FY26",
+            "FY25",
+            "FY23",
+            "FY27"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "In response to tight liquidity conditions, investors demanded what kind of yields for treasury bills compared to previous auctions?",
-        "a": "Higher yields",
+        "q": "On which date did the Supreme Court give its ruling on Scheduled Caste status for religious converts?",
+        "a": "Tuesday (March 24, 2026)",
         "options": [
-            "Lower yields",
-            "Stable yields",
-            "Higher yields",
-            "Zero yields",
-            "Negative yields"
+            "March 22, 2026",
+            "March 23, 2026",
+            "March 24, 2026",
+            "March 25, 2026",
+            "March 26, 2026"
         ],
-        "cat": "Why"
+        "cat": "When"
     },
     {
-        "q": "Which of these is NOT one of the firms mentioned as working on the Golden Dome project, in addition to Anduril and Palantir?",
-        "a": "Google",
+        "q": "In which year was the Constitution (Scheduled Castes) Order originally issued, which imposes a religion bar?",
+        "a": "1950",
         "options": [
-            "Aalyria Technologies",
-            "Scale AI",
-            "Swoop Technologies",
-            "Google",
-            "SpaceX"
+            "1947",
+            "1952",
+            "1950",
+            "1955",
+            "1960"
         ],
-        "cat": "Who"
+        "cat": "When"
     },
     {
-        "q": "Which body, in consultation with the Reserve Bank, notifies the inflation target?",
-        "a": "The central government",
+        "q": "In which decade was Sikhism first included in the Constitution (Scheduled Castes) Order?",
+        "a": "1950s",
         "options": [
-            "The State governments",
-            "The central government",
-            "The Supreme Court",
-            "The Parliament",
-            "The SEBI"
+            "1940s",
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s"
         ],
-        "cat": "Who"
+        "cat": "When"
     },
     {
-        "q": "What is the reason for the RBI undertaking a review of the nature and format of the inflation target?",
-        "a": "Significant changes in the global and domestic economic environment.",
+        "q": "In which year was Buddhism included in the Constitution (Scheduled Castes) Order?",
+        "a": "1990",
         "options": [
-            "To align with the latest budget announcements.",
-            "To reduce the number of financial regulations.",
-            "To increase the autonomy of commercial banks.",
-            "Significant changes in the global and domestic economic environment.",
-            "To introduce new financial instruments."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "When was Flexible Inflation Targeting (FIT) introduced in India?",
-        "a": "2016",
-        "options": [
-            "2011",
-            "2021",
-            "2016",
-            "2024",
+            "1980",
+            "2000",
+            "1990",
+            "1970",
             "2010"
         ],
         "cat": "When"
+    },
+    {
+        "q": "When was the Commission of Inquiry headed by K.G. Balakrishnan constituted to examine SC status for converts?",
+        "a": "October 2022",
+        "options": [
+            "September 2022",
+            "November 2022",
+            "October 2022",
+            "August 2022",
+            "December 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Commission of Inquiry on SC status for converts is scheduled to submit its report in which month of the current year (2026)?",
+        "a": "April",
+        "options": [
+            "March",
+            "May",
+            "April",
+            "June",
+            "July"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did Congress general secretary Randeep Surjewala condemn the SC ruling on SC status for converts?",
+        "a": "Wednesday (March 25, 2026)",
+        "options": [
+            "March 24, 2026",
+            "March 26, 2026",
+            "March 25, 2026",
+            "March 23, 2026",
+            "March 27, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the latest missile debris incident occur in Abu Dhabi, resulting in two deaths?",
+        "a": "Thursday (March 26, 2026)",
+        "options": [
+            "March 24, 2026",
+            "March 25, 2026",
+            "March 26, 2026",
+            "March 27, 2026",
+            "March 23, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why did former HDFC Bank chairman Atanu Chakraborty cite for his resignation?",
+        "a": "Certain happenings and practices within the bank not in congruence with his personal values and ethics",
+        "options": [
+            "Health issues",
+            "Conflict of interest",
+            "Retirement plans",
+            "To pursue other opportunities",
+            "Certain happenings and practices within the bank not in congruence with his personal values and ethics"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of SEBI's examination regarding the HDFC Bank chairman's resignation?",
+        "a": "To verify claims in the resignation letter and check if other directors were aware of material information",
+        "options": [
+            "To investigate insider trading",
+            "To verify claims in the resignation letter and check if other directors were aware of material information",
+            "To assess the bank's financial health",
+            "To review the bank's lending practices",
+            "To evaluate the CEO's performance"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the main purposes for which Bharat PET Ltd will use proceeds from the fresh issue of its IPO?",
+        "a": "Repayment of borrowings",
+        "options": [
+            "Dividend distribution",
+            "Expansion into new countries",
+            "Stock buyback",
+            "Repayment of borrowings",
+            "Acquisition of a competitor"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the Supreme Court, why can a person professing a religion other than Hinduism, Buddhism, or Sikhism not claim Scheduled Caste status?",
+        "a": "The Constitution (Scheduled Castes) Order, 1950, imposes an 'absolute' religion bar",
+        "options": [
+            "Lack of documentary evidence",
+            "The Constitution (Scheduled Castes) Order, 1950, imposes an 'absolute' religion bar",
+            "Voluntary choice of religion",
+            "The religion itself prohibits caste",
+            "Economic reasons"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason cited by the Centre for arguing that Dalit Muslims and Christians must continue to be excluded from SC status?",
+        "a": "Citing the 'foreign origin' of these religions in contrast to Hinduism, Sikhism, and Buddhism",
+        "options": [
+            "Lack of historical data",
+            "Economic prosperity of these communities",
+            "Citing the 'foreign origin' of these religions in contrast to Hinduism, Sikhism, and Buddhism",
+            "Insufficient population numbers",
+            "Absence of a request from these communities"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Dr. B.R. Ambedkar's call that prompted the amendment to include Buddhism in the 1950 Scheduled Castes Order?",
+        "a": "His call led to large-scale conversions in certain regions",
+        "options": [
+            "His demand for separate electorates",
+            "His advocacy for universal education",
+            "His call led to large-scale conversions in certain regions",
+            "His efforts for industrialization",
+            "His campaign for agricultural reforms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Former Jharkhand CM Champai Soren welcome the SC verdict on SC status for converts?",
+        "a": "He stated it was aimed at protecting vulnerable communities from religious conversion",
+        "options": [
+            "To support caste-based reservations",
+            "To promote religious diversity",
+            "He stated it was aimed at protecting vulnerable communities from religious conversion",
+            "To ensure economic equality",
+            "To uphold religious freedom"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the stated purpose of HDFC Bank appointing external law firms after its former chairman's resignation?",
+        "a": "To independently assess the concerns raised in the resignation letter",
+        "options": [
+            "To draft a new code of conduct",
+            "To independently assess the concerns raised in the resignation letter",
+            "To file a lawsuit against the former chairman",
+            "To conduct an internal audit of finances",
+            "To review compliance procedures"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to SEBI Chairman Tuhin Kanta Pandey, what must independent directors follow?",
+        "a": "The code of conduct set out in regulations",
+        "options": [
+            "The company's internal policies",
+            "The government's economic guidelines",
+            "The code of conduct set out in regulations",
+            "The recommendations of shareholders",
+            "The global best practices in governance"
+        ],
+        "cat": "Why"
     }
 ]
