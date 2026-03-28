@@ -1,721 +1,829 @@
 [
     {
-        "q": "What was the approximate market share of Bharat PET Ltd in India's agrochemical packaging segment as per a CARE report?",
-        "a": "11%",
+        "q": "CBSE issued a notification for an alternative assessment scheme for Class XII results on which day?",
+        "a": "Friday",
         "options": [
-            "10%",
-            "15%",
-            "11%",
-            "5%",
-            "20%"
+            "Saturday",
+            "Monday",
+            "Friday",
+            "Wednesday",
+            "Tuesday"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "What was the revenue from operations posted by Bharat PET Ltd in FY25?",
-        "a": "\u20b9411.82 crore",
+        "q": "The alternative assessment scheme for CBSE Class XII results primarily applies to students in which specific geographical region?",
+        "a": "West Asian countries",
         "options": [
-            "\u20b9400.82 crore",
-            "\u20b9411.82 crore",
-            "\u20b9420.82 crore",
-            "\u20b9395.82 crore",
-            "\u20b9450.82 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the profit after tax (PAT) of Bharat PET Ltd during FY25?",
-        "a": "\u20b950.99 crore",
-        "options": [
-            "\u20b955.99 crore",
-            "\u20b945.99 crore",
-            "\u20b950.99 crore",
-            "\u20b960.99 crore",
-            "\u20b940.99 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Bharat PET Ltd filed its DRHP to raise what total amount through an initial public offering (IPO)?",
-        "a": "\u20b9760 crore",
-        "options": [
-            "\u20b9750 crore",
-            "\u20b9770 crore",
-            "\u20b9760 crore",
-            "\u20b9780 crore",
-            "\u20b9740 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the value of the fresh issue of equity shares in Bharat PET's proposed IPO?",
-        "a": "\u20b9120 crore",
-        "options": [
-            "\u20b9110 crore",
-            "\u20b9130 crore",
-            "\u20b9120 crore",
-            "\u20b9100 crore",
-            "\u20b9140 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the value of the offer for sale (OFS) component by promoters in Bharat PET's proposed IPO?",
-        "a": "\u20b9640 crore",
-        "options": [
-            "\u20b9630 crore",
-            "\u20b9650 crore",
-            "\u20b9640 crore",
-            "\u20b9620 crore",
-            "\u20b9660 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount may Bharat PET Ltd consider for a pre-IPO placement of securities?",
-        "a": "\u20b924 crore",
-        "options": [
-            "\u20b920 crore",
-            "\u20b925 crore",
-            "\u20b924 crore",
-            "\u20b930 crore",
-            "\u20b915 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much of the IPO proceeds from the fresh issue will be utilized by Bharat PET Ltd towards repayment of borrowings?",
-        "a": "\u20b950 crore",
-        "options": [
-            "\u20b945 crore",
-            "\u20b955 crore",
-            "\u20b950 crore",
-            "\u20b960 crore",
-            "\u20b940 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount of the IPO proceeds from the fresh issue will be utilized by Bharat PET Ltd for the purchase of machinery and equipment?",
-        "a": "\u20b935.8 crore",
-        "options": [
-            "\u20b930.8 crore",
-            "\u20b940.8 crore",
-            "\u20b935.8 crore",
-            "\u20b925.8 crore",
-            "\u20b945.8 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "As of September 30, 2025, what was the total installed capacity of Bharat PET's manufacturing facilities?",
-        "a": "18,110.53 MTPA",
-        "options": [
-            "18,000.53 MTPA",
-            "18,110.53 MTPA",
-            "18,200.53 MTPA",
-            "17,900.53 MTPA",
-            "18,500.53 MTPA"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many individuals were killed in the latest missile debris incident in Abu Dhabi on March 26, 2026?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total number of deaths from Iranian attacks, including the latest incident in Abu Dhabi, as reported by Gulf News?",
-        "a": "11",
-        "options": [
-            "10",
-            "12",
-            "11",
-            "9",
-            "13"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many ballistic missiles did UAE air defence systems engage on March 26, 2026, launched from Iran?",
-        "a": "15",
-        "options": [
-            "10",
-            "20",
-            "15",
-            "5",
-            "25"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many UAVs (Unmanned Aerial Vehicles) did UAE air defence systems engage on March 26, 2026, launched from Iran?",
-        "a": "11",
-        "options": [
-            "10",
-            "12",
-            "11",
-            "13",
-            "14"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Since the start of the Iranian attacks, what is the total number of ballistic missiles engaged by UAE air defences?",
-        "a": "372",
-        "options": [
-            "370",
-            "375",
-            "372",
-            "360",
-            "380"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the market value wiped out over three sessions for HDFC Bank following the former chairman's resignation letter?",
-        "a": "$16.3 billion",
-        "options": [
-            "$16.0 billion",
-            "$16.5 billion",
-            "$16.3 billion",
-            "$15.8 billion",
-            "$17.0 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage slide in HDFC Bank's stock was triggered the day following its former chairman's resignation letter?",
-        "a": "8.7%",
-        "options": [
-            "8.5%",
-            "8.9%",
-            "8.7%",
-            "8.2%",
-            "9.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total number of injured individuals from the Iranian attacks mentioned in the news text?",
-        "a": "169",
-        "options": [
-            "160",
-            "170",
-            "169",
-            "150",
-            "180"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the former HDFC Bank chairman whose resignation letter is under review by SEBI?",
-        "a": "Atanu Chakraborty",
-        "options": [
-            "Sandeep Bakhshi",
-            "Aditya Puri",
-            "Atanu Chakraborty",
-            "Deepak Parekh",
-            "Uday Kotak"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which regulator is conducting a preliminary review of the resignation letter of former HDFC Bank chairman Atanu Chakraborty?",
-        "a": "SEBI",
-        "options": [
-            "RBI",
-            "IRDAI",
-            "PFRDA",
-            "SEBI",
-            "FSDC"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current SEBI Chairman mentioned in the news without commenting on individual cases?",
-        "a": "Tuhin Kanta Pandey",
-        "options": [
-            "Ajay Tyagi",
-            "Madhabi Puri Buch",
-            "Tuhin Kanta Pandey",
-            "G. Mahalingam",
-            "Ananta Barua"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which book running lead managers are associated with Bharat PET Ltd's IPO?",
-        "a": "Equirus Capital and Ambit",
-        "options": [
-            "ICICI Securities and Axis Capital",
-            "Kotak Mahindra Capital and SBI Capital Markets",
-            "Equirus Capital and Ambit",
-            "JM Financial and Edelweiss",
-            "Nuvama Wealth and IIFL Securities"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which company is one of the key clients mentioned for Bharat PET Ltd?",
-        "a": "Tata Consumer Products Ltd",
-        "options": [
-            "Reliance Industries Ltd",
-            "ITC Ltd",
-            "Adani Wilmar Ltd",
-            "Tata Consumer Products Ltd",
-            "Hindustan Unilever Ltd"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Justices comprised the Supreme Court Bench that ruled on the Scheduled Caste status for religious converts?",
-        "a": "Justices Prashant Kumar Mishra and Manmohan",
-        "options": [
-            "Justices Chandrachud and Gavai",
-            "Justices Prashant Kumar Mishra and Manmohan",
-            "Justices Kaul and Trivedi",
-            "Justices Nariman and Joseph",
-            "Justices Bhat and Nagarathna"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who heads the Commission of Inquiry constituted in October 2022 to examine extending Scheduled Caste status to converts to Islam and Christianity?",
-        "a": "K.G. Balakrishnan",
-        "options": [
-            "R.M. Lodha",
-            "J.S. Verma",
-            "K.G. Balakrishnan",
-            "P. Sathasivam",
-            "T.S. Thakur"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who among the following condemned the Supreme Court ruling on SC status for religious converts, stating it caused 'deep consternation'?",
-        "a": "Randeep Surjewala",
-        "options": [
-            "Rahul Gandhi",
-            "Mallikarjun Kharge",
-            "Randeep Surjewala",
-            "Priyanka Gandhi Vadra",
-            "Sonia Gandhi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Hindu outfit welcomed the Supreme Court ruling on SC status for religious converts?",
-        "a": "Vishva Hindu Parishad (VHP)",
-        "options": [
-            "Bajrang Dal",
-            "RSS",
-            "Shiv Sena",
-            "Vishva Hindu Parishad",
-            "Hindu Sena"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who welcomed the Supreme Court verdict on SC status, stating it was aimed at protecting vulnerable communities from religious conversion?",
-        "a": "Champai Soren",
-        "options": [
-            "Hemant Soren",
-            "Champai Soren",
-            "Arjun Munda",
-            "Babulal Marandi",
-            "Raghubar Das"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Telangana BJP president termed the SC ruling a 'historic victory for the spirit of the Constitution'?",
-        "a": "N. Ramchander Rao",
-        "options": [
-            "Bandaru Dattatreya",
-            "K. Laxman",
-            "G. Kishan Reddy",
-            "N. Ramchander Rao",
-            "Bandi Sanjay Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who among the following is mentioned as inspiring large-scale conversions that led to the inclusion of Buddhism in the Scheduled Castes Order?",
-        "a": "Dr. B.R. Ambedkar",
-        "options": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Dr. B.R. Ambedkar",
-            "Sardar Patel",
-            "Swami Vivekananda"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "One of the two individuals killed in the missile debris incident in Abu Dhabi on March 26, 2026, was of which nationality?",
-        "a": "Indian",
-        "options": [
-            "Emirati",
-            "Jordanian",
-            "Indian",
-            "Nepali",
-            "Bangladeshi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which country's Ministry of Defence reported that its air defences are responding to incoming missile and drone threats from Iran?",
-        "a": "United Arab Emirates (UAE)",
-        "options": [
-            "Saudi Arabia",
-            "Qatar",
-            "Kuwait",
-            "United Arab Emirates",
-            "Oman"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which city did the missile debris incident occur on Sweihan street on March 26, 2026?",
-        "a": "Abu Dhabi",
-        "options": [
-            "Dubai",
-            "Sharjah",
-            "Abu Dhabi",
-            "Ajman",
-            "Fujairah"
+            "South Asian countries",
+            "European nations",
+            "East Asian countries",
+            "West Asian countries",
+            "North American countries"
         ],
         "cat": "Where"
     },
     {
-        "q": "One of Bharat PET Ltd's manufacturing facilities is located in which of the following cities?",
-        "a": "Delhi",
+        "q": "What was the primary reason cited for the cancellation of CBSE Class XII exams in the majority of Gulf nations?",
+        "a": "Ongoing conflict",
         "options": [
-            "Mumbai",
-            "Bengaluru",
-            "Chennai",
-            "Kolkata",
-            "Delhi"
+            "Administrative issues",
+            "Logistic challenges",
+            "Ongoing conflict",
+            "Low student enrollment",
+            "Teacher strikes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "For subjects with 80 or 70 theory marks, the final score under the alternative assessment scheme will be based on a student's performance in how many school exams?",
+        "a": "Three",
+        "options": [
+            "Two",
+            "Four",
+            "Three",
+            "One",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the minimum theory mark value for subjects where only the final pre-board exam marks are used to calculate the result under the alternative assessment scheme?",
+        "a": "30",
+        "options": [
+            "35",
+            "40",
+            "30",
+            "25",
+            "45"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Candidates from 2025, or those registered for one subject under the compartment category, would get a chance to appear in the supplementary exam in which month and year if their exam was not held?",
+        "a": "July 2026",
+        "options": [
+            "June 2025",
+            "August 2026",
+            "July 2026",
+            "May 2025",
+            "September 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the start date for schools to upload marks for the CBSE alternative assessment scheme?",
+        "a": "April 6, 2026",
+        "options": [
+            "April 1, 2026",
+            "April 10, 2026",
+            "April 6, 2026",
+            "April 15, 2026",
+            "April 3, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the last date for schools to upload marks for the CBSE alternative assessment scheme?",
+        "a": "April 13, 2026",
+        "options": [
+            "April 15, 2026",
+            "April 13, 2026",
+            "April 20, 2026",
+            "April 8, 2026",
+            "April 11, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who is the Political Affairs Editor at Live Mint, according to the provided team information?",
+        "a": "Gulam Jeelani",
+        "options": [
+            "Sugam Singhal",
+            "Chanchal",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who among the following is listed as a Senior Assistant Editor at Live Mint?",
+        "a": "Sugam Singhal",
+        "options": [
+            "Ravi Hari",
+            "Garvit Bhirani",
+            "Sugam Singhal",
+            "Akriti Anand",
+            "Jocelyn Felix Fernandes"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many Chief Content Producers are explicitly mentioned in the Livemint team list?",
+        "a": "Three",
+        "options": [
+            "Two",
+            "Five",
+            "Three",
+            "Four",
+            "One"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is currently working as an Assistant Editor at Live Mint and has a journalistic background covering South Asia, the Middle East, and North America?",
+        "a": "Bobins",
+        "options": [
+            "Riya R Alex",
+            "Mausam Jha",
+            "Swastika Das Sharma",
+            "Bobins",
+            "Akriti Anand"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Bobins has been a part of Live Mint since which specific month and year?",
+        "a": "February 2026",
+        "options": [
+            "January 2026",
+            "March 2026",
+            "February 2026",
+            "April 2026",
+            "December 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the total number of years of experience stated for journalist Bobins?",
+        "a": "14 years",
+        "options": [
+            "12 years",
+            "16 years",
+            "14 years",
+            "10 years",
+            "18 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year was Bobins awarded by Times Internet for the impact of his story on Delhi tree cuttings?",
+        "a": "2018",
+        "options": [
+            "2017",
+            "2019",
+            "2018",
+            "2020",
+            "2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was one of the declared objectives of Operation Epic Fury during the US-Israeli attack on Iran?",
+        "a": "To destroy Tehran's missile arsenal and production capacity",
+        "options": [
+            "To secure oil fields",
+            "To destroy Tehran's missile arsenal and production capacity",
+            "To establish a no-fly zone",
+            "To rescue hostages",
+            "To promote regional peace talks"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Reuters, what fraction of Iran's missile arsenal could Washington determine with certainty had been destroyed?",
+        "a": "A third",
+        "options": [
+            "Half",
+            "A quarter",
+            "A third",
+            "Two-thirds",
+            "Three-quarters"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "As of Wednesday, how many Iranian military targets had US strikes hit?",
+        "a": "More than 10,000",
+        "options": [
+            "More than 8,000",
+            "More than 12,000",
+            "More than 10,000",
+            "More than 9,000",
+            "More than 11,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the Iranian navy's large vessels had been sunk by US strikes, according to Central Command?",
+        "a": "92%",
+        "options": [
+            "88%",
+            "95%",
+            "92%",
+            "90%",
+            "85%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who publicly remarked yesterday that Iran has 'very few rockets left'?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Benjamin Netanyahu",
+            "Donald Trump",
+            "Hassan Rouhani",
+            "Vladimir Putin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Iran launched two ballistic missiles toward a US-UK military airbase located in the Indian Ocean, specifically on which island?",
+        "a": "Diego Garcia",
+        "options": [
+            "Maldives",
+            "Seychelles",
+            "Diego Garcia",
+            "Mauritius",
+            "Sri Lanka"
         ],
         "cat": "Where"
     },
     {
-        "q": "Apart from Delhi, Sonipat, and Jammu, where is another manufacturing facility of Bharat PET Ltd located?",
-        "a": "Ankleshwar",
+        "q": "The ballistic missiles launched by Iran towards Diego Garcia travelled approximately how many kilometres, exceeding its until then known range?",
+        "a": "3,800 kilometres",
         "options": [
-            "Vadodara",
-            "Surat",
-            "Ankleshwar",
-            "Ahmedabad",
-            "Rajkot"
+            "3,500 kilometres",
+            "4,000 kilometres",
+            "3,800 kilometres",
+            "3,200 kilometres",
+            "4,200 kilometres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the previously known maximum range of Tehran's medium-range ballistic missiles before the Diego Garcia incident?",
+        "a": "2,000 kilometres",
+        "options": [
+            "1,500 kilometres",
+            "2,500 kilometres",
+            "2,000 kilometres",
+            "1,800 kilometres",
+            "2,200 kilometres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The US-Israeli attack on Iran was nearing its one-month mark. Approximately how long had the conflict been ongoing from the news publication date?",
+        "a": "Four weeks",
+        "options": [
+            "Two weeks",
+            "Six weeks",
+            "Four weeks",
+            "Three months",
+            "One week"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which Indian judicial body warned of a 'general indifference' among trial courts and police towards disclosing identities of sexual assault survivors?",
+        "a": "Supreme Court of India",
+        "options": [
+            "High Courts",
+            "District Courts",
+            "Supreme Court of India",
+            "National Human Rights Commission",
+            "Central Bureau of Investigation"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On which date did a three-judge Bench headed by Chief Justice of India Surya Kant direct the Supreme Court Registry to redact personal details of a rape survivor?",
+        "a": "March 25, 2026",
+        "options": [
+            "March 23, 2026",
+            "March 26, 2026",
+            "March 25, 2026",
+            "March 27, 2026",
+            "March 24, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who headed the three-judge Bench that directed the redaction of personal details of a rape survivor on March 25, 2026?",
+        "a": "Chief Justice of India Surya Kant",
+        "options": [
+            "Justice Sanjay Karol",
+            "Justice B.R. Gavai",
+            "Chief Justice of India Surya Kant",
+            "Nipun Saxena",
+            "Justice D.Y. Chandrachud"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Gurugram police affidavits concerned the identity of a rape survivor of what age?",
+        "a": "3.8-year-old",
+        "options": [
+            "2.5-year-old",
+            "4.2-year-old",
+            "3.8-year-old",
+            "5.0-year-old",
+            "3.0-year-old"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "On which date did a Supreme Court Bench headed by Justice Sanjay Karol find the disclosure of a nine-year-old survivor's identity in a rape case disturbing?",
+        "a": "March 24, 2026",
+        "options": [
+            "March 23, 2026",
+            "March 26, 2026",
+            "March 24, 2026",
+            "March 27, 2026",
+            "March 25, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who headed the Supreme Court Bench that noted the 'disturbing fact' of identity disclosure in the Himachal Pradesh rape case on March 24, 2026?",
+        "a": "Justice Sanjay Karol",
+        "options": [
+            "Chief Justice of India Surya Kant",
+            "Justice B.R. Gavai",
+            "Justice Sanjay Karol",
+            "Nipun Saxena",
+            "Justice Indu Malhotra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How old was the survivor in the Himachal Pradesh rape case whose identity was nonchalantly disclosed?",
+        "a": "Nine years old",
+        "options": [
+            "Eight years old",
+            "Ten years old",
+            "Nine years old",
+            "Seven years old",
+            "Six years old"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Section 228A of the Indian Penal Code (now Section 72 of Bharatiya Nyaya Sanhita) makes the disclosure of victims' identity a criminal offence punishable with rigorous imprisonment for up to how many years?",
+        "a": "Two years",
+        "options": [
+            "One year",
+            "Three years",
+            "Two years",
+            "Four years",
+            "Five years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year were a series of amendments made in criminal law, including Section 228A, towards a victim-centric orientation?",
+        "a": "1983",
+        "options": [
+            "1980",
+            "1985",
+            "1983",
+            "1990",
+            "1979"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary purpose of the 1983 reforms in criminal law, including in camera trials and anonymity for survivors?",
+        "a": "To reduce barriers and fears discouraging survivors from reporting crimes",
+        "options": [
+            "To increase conviction rates for all crimes",
+            "To reduce barriers and fears discouraging survivors from reporting crimes",
+            "To streamline court proceedings",
+            "To empower defense lawyers",
+            "To implement new technologies in judiciary"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The infamous Mathura custodial rape case, which triggered public outrage and the 1983 reforms, occurred in a police station in which state?",
+        "a": "Maharashtra",
+        "options": [
+            "Uttar Pradesh",
+            "Gujarat",
+            "Maharashtra",
+            "Delhi",
+            "Rajasthan"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court ruling on Scheduled Caste status involved a pastor from the Madiga community in which Indian state?",
-        "a": "Andhra Pradesh",
+        "q": "In which year did the Mathura custodial rape case incident involving a teenage tribal girl occur?",
+        "a": "1972",
         "options": [
-            "Telangana",
-            "Karnataka",
-            "Tamil Nadu",
-            "Kerala",
-            "Andhra Pradesh"
+            "1970",
+            "1975",
+            "1972",
+            "1980",
+            "1968"
         ],
-        "cat": "Where"
+        "cat": "When"
     },
     {
-        "q": "Where are Bharat PET Ltd's manufacturing facilities located?",
-        "a": "Delhi, Sonipat, Ankleshwar, and Jammu",
+        "q": "In which year did the Supreme Court acquit the accused in the Mathura rape case, drawing widespread public outrage?",
+        "a": "1979",
         "options": [
-            "Mumbai, Pune, Nagpur, Chennai",
-            "Bengaluru, Hyderabad, Kochi, Goa",
-            "Delhi, Sonipat, Ankleshwar, Jammu",
-            "Kolkata, Patna, Ranchi, Bhubaneswar",
-            "Ahmedabad, Indore, Bhopal, Jaipur"
+            "1977",
+            "1981",
+            "1979",
+            "1978",
+            "1982"
         ],
-        "cat": "Where"
+        "cat": "When"
     },
     {
-        "q": "The incidents involving missile and drone threats are primarily originating from which country, targeting the UAE?",
-        "a": "Iran",
+        "q": "In 2025, who called the 1979 Mathura judgment 'a moment of institutional embarrassment'?",
+        "a": "Then Chief Justice of India B. R. Gavai",
         "options": [
-            "Yemen",
-            "Iraq",
-            "Syria",
-            "Iran",
+            "Justice Surya Kant",
+            "Justice Sanjay Karol",
+            "Then Chief Justice of India B. R. Gavai",
+            "Nipun Saxena",
+            "The Gurugram Police Commissioner"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Nipun Saxena vs Union of India judgment, which declared an absolute bar on publication of survivor identities, was delivered in which year?",
+        "a": "2018",
+        "options": [
+            "2016",
+            "2020",
+            "2018",
+            "2017",
+            "2019"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Nipun Saxena judgment highlighted that society often treated survivors of sexual assault in what manner, despite their innocence?",
+        "a": "As untouchable",
+        "options": [
+            "With immense empathy",
+            "As untouchable",
+            "With legal support",
+            "As heroes",
+            "With indifference"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which Chief Minister stated that the Central government\u2019s decision to reduce excise duty on fossil fuels will protect consumers?",
+        "a": "Devendra Fadnavis",
+        "options": [
+            "Yogi Adityanath",
+            "Mamata Banerjee",
+            "Devendra Fadnavis",
+            "Arvind Kejriwal",
+            "M.K. Stalin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On which day did Maharashtra Chief Minister Devendra Fadnavis make the statement regarding the reduction of excise duty on fossil fuels?",
+        "a": "Friday",
+        "options": [
+            "Monday",
+            "Wednesday",
+            "Friday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason stated for the Central government's decision to reduce excise duty on fossil fuels?",
+        "a": "To protect consumers from rising global crude prices",
+        "options": [
+            "To boost government revenue",
+            "To promote public transport",
+            "To protect consumers from rising global crude prices",
+            "To encourage fuel conservation",
+            "To reduce carbon emissions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What triggered the rising global crude prices, leading to the government's decision to cut excise duty?",
+        "a": "Ongoing West Asia conflict",
+        "options": [
+            "Increased demand from China",
+            "Ongoing West Asia conflict",
+            "Natural disasters",
+            "Economic recession",
+            "Sanctions on oil-producing nations"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "By how much per litre did the government decide to cut the Special Additional Excise Duty (SAED) on petrol and diesel?",
+        "a": "\u20b910 per litre",
+        "options": [
+            "\u20b98 per litre",
+            "\u20b912 per litre",
+            "\u20b910 per litre",
+            "\u20b99 per litre",
+            "\u20b911 per litre"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The commercial gas cylinder supply in Maharashtra was initially at 20% and then raised to what percentage of pre-crisis levels?",
+        "a": "40%",
+        "options": [
+            "30%",
+            "50%",
+            "40%",
+            "60%",
+            "35%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total commercial LPG supply as a percentage of the level recorded before the disruption, after the additional quotas were granted in Maharashtra?",
+        "a": "50%",
+        "options": [
+            "45%",
+            "55%",
+            "50%",
+            "60%",
+            "40%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The government has prioritised the supply of what size Free Trade LPG (FTL) cylinders for migrant workers?",
+        "a": "5-kg",
+        "options": [
+            "14.2-kg",
+            "19-kg",
+            "5-kg",
+            "10-kg",
+            "2-kg"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the warning issued to citizens regarding spreading rumors of lockdown on social media?",
+        "a": "They would be charged with criminal sections.",
+        "options": [
+            "They would face community service.",
+            "They would be charged with criminal sections.",
+            "Their accounts would be suspended.",
+            "They would receive a monetary fine.",
+            "They would be given a warning."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who will bear the cost of the excise duty reduction on fossil fuels, as stated by Mr. Fadnavis?",
+        "a": "Government of India and oil companies",
+        "options": [
+            "State governments and consumers",
+            "Consumers and oil companies",
+            "Government of India and oil companies",
+            "International organizations and government",
+            "State governments and international organizations"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Besides Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia, which other West Asian country is explicitly mentioned in the CBSE alternative assessment notification?",
+        "a": "UAE",
+        "options": [
+            "Turkey",
+            "Egypt",
+            "UAE",
+            "Jordan",
             "Lebanon"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which date did HDFC Bank state it had appointed external law firms to assess concerns raised in the resignation letter?",
-        "a": "Tuesday (March 14, 2026)",
+        "q": "Prior to 1983, what negative consequence could arise from court reporting and media coverage of sexual assault survivors?",
+        "a": "It could expose survivors to social stigma, ostracism, and lifelong reputational harm.",
         "options": [
-            "March 12, 2026",
-            "March 14, 2026",
-            "March 16, 2026",
-            "March 10, 2026",
-            "March 18, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day did Bharat PET Ltd file its Draft Red Herring Prospectus (DRHP)?",
-        "a": "Wednesday (March 25, 2026)",
-        "options": [
-            "March 23, 2026",
-            "March 24, 2026",
-            "March 25, 2026",
-            "March 26, 2026",
-            "March 27, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was Bharat PET Ltd incorporated?",
-        "a": "1998",
-        "options": [
-            "1995",
-            "2000",
-            "1998",
-            "1990",
-            "2005"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "As of which date was the data on Bharat PET Ltd's moulds, customers, and installed capacity provided?",
-        "a": "September 30, 2025",
-        "options": [
-            "March 31, 2025",
-            "June 30, 2025",
-            "September 30, 2025",
-            "December 31, 2025",
-            "January 1, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For which financial year did Bharat PET Ltd post a revenue from operations of \u20b9411.82 crore?",
-        "a": "FY25",
-        "options": [
-            "FY24",
-            "FY26",
-            "FY25",
-            "FY23",
-            "FY27"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did the Supreme Court give its ruling on Scheduled Caste status for religious converts?",
-        "a": "Tuesday (March 24, 2026)",
-        "options": [
-            "March 22, 2026",
-            "March 23, 2026",
-            "March 24, 2026",
-            "March 25, 2026",
-            "March 26, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was the Constitution (Scheduled Castes) Order originally issued, which imposes a religion bar?",
-        "a": "1950",
-        "options": [
-            "1947",
-            "1952",
-            "1950",
-            "1955",
-            "1960"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which decade was Sikhism first included in the Constitution (Scheduled Castes) Order?",
-        "a": "1950s",
-        "options": [
-            "1940s",
-            "1950s",
-            "1960s",
-            "1970s",
-            "1980s"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was Buddhism included in the Constitution (Scheduled Castes) Order?",
-        "a": "1990",
-        "options": [
-            "1980",
-            "2000",
-            "1990",
-            "1970",
-            "2010"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Commission of Inquiry headed by K.G. Balakrishnan constituted to examine SC status for converts?",
-        "a": "October 2022",
-        "options": [
-            "September 2022",
-            "November 2022",
-            "October 2022",
-            "August 2022",
-            "December 2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Commission of Inquiry on SC status for converts is scheduled to submit its report in which month of the current year (2026)?",
-        "a": "April",
-        "options": [
-            "March",
-            "May",
-            "April",
-            "June",
-            "July"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did Congress general secretary Randeep Surjewala condemn the SC ruling on SC status for converts?",
-        "a": "Wednesday (March 25, 2026)",
-        "options": [
-            "March 24, 2026",
-            "March 26, 2026",
-            "March 25, 2026",
-            "March 23, 2026",
-            "March 27, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the latest missile debris incident occur in Abu Dhabi, resulting in two deaths?",
-        "a": "Thursday (March 26, 2026)",
-        "options": [
-            "March 24, 2026",
-            "March 25, 2026",
-            "March 26, 2026",
-            "March 27, 2026",
-            "March 23, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Why did former HDFC Bank chairman Atanu Chakraborty cite for his resignation?",
-        "a": "Certain happenings and practices within the bank not in congruence with his personal values and ethics",
-        "options": [
-            "Health issues",
-            "Conflict of interest",
-            "Retirement plans",
-            "To pursue other opportunities",
-            "Certain happenings and practices within the bank not in congruence with his personal values and ethics"
+            "It led to higher conviction rates.",
+            "It encouraged more reporting of crimes.",
+            "It could expose survivors to social stigma, ostracism, and lifelong reputational harm.",
+            "It streamlined legal processes.",
+            "It enhanced public awareness without negative consequences."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of SEBI's examination regarding the HDFC Bank chairman's resignation?",
-        "a": "To verify claims in the resignation letter and check if other directors were aware of material information",
+        "q": "Who noted that 'Before 1983, there was no statutory bar on publishing the name or particulars of a woman against whom a sexual offence was alleged'?",
+        "a": "Justice Sanjay Karol",
         "options": [
-            "To investigate insider trading",
-            "To verify claims in the resignation letter and check if other directors were aware of material information",
-            "To assess the bank's financial health",
-            "To review the bank's lending practices",
-            "To evaluate the CEO's performance"
+            "Chief Justice of India Surya Kant",
+            "Justice B.R. Gavai",
+            "Justice Sanjay Karol",
+            "Nipun Saxena",
+            "The Gurugram Police Commissioner"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Supreme Court's 2018 Nipun Saxena vs Union of India judgment found that society treated survivors worse than whom?",
+        "a": "The perpetrators of the crime",
+        "options": [
+            "The police",
+            "The lawyers",
+            "The perpetrators of the crime",
+            "The judges",
+            "The witnesses"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the main purposes for which Bharat PET Ltd will use proceeds from the fresh issue of its IPO?",
-        "a": "Repayment of borrowings",
+        "q": "The Supreme Court was compelled to intervene how many times this week to remind law enforcement authorities about survivor identity protection?",
+        "a": "Twice",
         "options": [
-            "Dividend distribution",
-            "Expansion into new countries",
-            "Stock buyback",
-            "Repayment of borrowings",
-            "Acquisition of a competitor"
+            "Once",
+            "Three times",
+            "Twice",
+            "Four times",
+            "Five times"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who among the following is listed as a Trainee Content Producer at Live Mint?",
+        "a": "Riya R Alex",
+        "options": [
+            "Akriti Anand",
+            "Jocelyn Felix Fernandes",
+            "Swastika Das Sharma",
+            "Mausam Jha",
+            "Riya R Alex"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many Deputy Chief Content Producers are mentioned in the Livemint team list?",
+        "a": "Two",
+        "options": [
+            "One",
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The US operations mentioned in the text aim to safeguard which economically vital strait?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Strait of Malacca",
+            "Strait of Gibraltar",
+            "Strait of Hormuz",
+            "Bosphorus Strait",
+            "Bering Strait"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Why might the US have not destroyed as many Iranian missiles as initially thought, according to Reuters, citing US intelligence?",
+        "a": "US intelligence was inaccurate on stockpiles in underground bunkers.",
+        "options": [
+            "Iran had superior air defense.",
+            "US intelligence was inaccurate on stockpiles in underground bunkers.",
+            "Iran developed new missile technology.",
+            "US did not have enough resources.",
+            "The conflict ended prematurely."
         ],
         "cat": "Why"
     },
     {
-        "q": "According to the Supreme Court, why can a person professing a religion other than Hinduism, Buddhism, or Sikhism not claim Scheduled Caste status?",
-        "a": "The Constitution (Scheduled Castes) Order, 1950, imposes an 'absolute' religion bar",
+        "q": "According to the information, what was the initial percentage of commercial gas cylinders in Maharashtra that had been granted and later increased to 40%?",
+        "a": "20%",
         "options": [
-            "Lack of documentary evidence",
-            "The Constitution (Scheduled Castes) Order, 1950, imposes an 'absolute' religion bar",
-            "Voluntary choice of religion",
-            "The religion itself prohibits caste",
-            "Economic reasons"
+            "15%",
+            "25%",
+            "20%",
+            "30%",
+            "10%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Indian city is explicitly mentioned as one of the metro cities covered in Livemint's National News section?",
+        "a": "Mumbai",
+        "options": [
+            "Chennai",
+            "Kolkata",
+            "Mumbai",
+            "Bengaluru",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which specific Central Command is mentioned as having hit more than 10,000 Iranian military targets?",
+        "a": "Central Command",
+        "options": [
+            "European Command",
+            "Pacific Command",
+            "Central Command",
+            "African Command",
+            "Southern Command"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In the context of the CBSE alternative assessment, how many times do schools generally conduct assessment in a year?",
+        "a": "Three times",
+        "options": [
+            "Two times",
+            "Four times",
+            "Three times",
+            "Once",
+            "Five times"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What type of crimes did the 1983 reforms aim to stifle the effective prosecution of?",
+        "a": "Sexual offences",
+        "options": [
+            "Financial crimes",
+            "Property crimes",
+            "Cyber crimes",
+            "Sexual offences",
+            "Environmental crimes"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason cited by the Centre for arguing that Dalit Muslims and Christians must continue to be excluded from SC status?",
-        "a": "Citing the 'foreign origin' of these religions in contrast to Hinduism, Sikhism, and Buddhism",
+        "q": "Which Union Ministry is mentioned as one of the coverage areas under Livemint's 'Politics' section?",
+        "a": "Finance Ministry",
         "options": [
-            "Lack of historical data",
-            "Economic prosperity of these communities",
-            "Citing the 'foreign origin' of these religions in contrast to Hinduism, Sikhism, and Buddhism",
-            "Insufficient population numbers",
-            "Absence of a request from these communities"
+            "Education Ministry",
+            "Defence Ministry",
+            "Finance Ministry",
+            "Health Ministry",
+            "External Affairs Ministry"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "According to the Supreme Court, what did presiding judges sometimes act like when survivors faced defamatory questions from defence lawyers?",
+        "a": "Mute spectators",
+        "options": [
+            "Active participants",
+            "Intervening authorities",
+            "Mute spectators",
+            "Supportive figures",
+            "Strict enforcers"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was Dr. B.R. Ambedkar's call that prompted the amendment to include Buddhism in the 1950 Scheduled Castes Order?",
-        "a": "His call led to large-scale conversions in certain regions",
+        "q": "Which international leader is mentioned in the context of global leaders in Livemint's Geopolitics coverage?",
+        "a": "Vladimir Putin",
         "options": [
-            "His demand for separate electorates",
-            "His advocacy for universal education",
-            "His call led to large-scale conversions in certain regions",
-            "His efforts for industrialization",
-            "His campaign for agricultural reforms"
+            "Emmanuel Macron",
+            "Angela Merkel",
+            "Vladimir Putin",
+            "Justin Trudeau",
+            "Jacinda Ardern"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the name of the legislative provision that currently makes disclosure of victims' identity a criminal offence?",
+        "a": "Section 72 of the Bharatiya Nyaya Sanhita",
+        "options": [
+            "Section 375 of IPC",
+            "Section 498A of IPC",
+            "Section 72 of the Bharatiya Nyaya Sanhita",
+            "Section 302 of IPC",
+            "Section 120B of IPC"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Former Jharkhand CM Champai Soren welcome the SC verdict on SC status for converts?",
-        "a": "He stated it was aimed at protecting vulnerable communities from religious conversion",
+        "q": "What type of entities are among those expected to benefit from the increased commercial LPG quota in Maharashtra?",
+        "a": "Restaurants, hotels, industrial canteens",
         "options": [
-            "To support caste-based reservations",
-            "To promote religious diversity",
-            "He stated it was aimed at protecting vulnerable communities from religious conversion",
-            "To ensure economic equality",
-            "To uphold religious freedom"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the stated purpose of HDFC Bank appointing external law firms after its former chairman's resignation?",
-        "a": "To independently assess the concerns raised in the resignation letter",
-        "options": [
-            "To draft a new code of conduct",
-            "To independently assess the concerns raised in the resignation letter",
-            "To file a lawsuit against the former chairman",
-            "To conduct an internal audit of finances",
-            "To review compliance procedures"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to SEBI Chairman Tuhin Kanta Pandey, what must independent directors follow?",
-        "a": "The code of conduct set out in regulations",
-        "options": [
-            "The company's internal policies",
-            "The government's economic guidelines",
-            "The code of conduct set out in regulations",
-            "The recommendations of shareholders",
-            "The global best practices in governance"
+            "Private residences, schools, hospitals",
+            "Government offices, NGOs, retail stores",
+            "Restaurants, hotels, industrial canteens",
+            "Agricultural farms, fishing boats, construction sites",
+            "Small businesses, personal vehicles, public transportation"
         ],
         "cat": "Why"
     }
