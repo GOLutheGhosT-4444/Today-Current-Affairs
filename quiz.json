@@ -1,829 +1,769 @@
 [
     {
-        "q": "CBSE issued a notification for an alternative assessment scheme for Class XII results on which day?",
-        "a": "Friday",
+        "q": "According to the text, what was the estimated population of New York City?",
+        "a": "8.5 million",
         "options": [
-            "Saturday",
-            "Monday",
-            "Friday",
-            "Wednesday",
-            "Tuesday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The alternative assessment scheme for CBSE Class XII results primarily applies to students in which specific geographical region?",
-        "a": "West Asian countries",
-        "options": [
-            "South Asian countries",
-            "European nations",
-            "East Asian countries",
-            "West Asian countries",
-            "North American countries"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What was the primary reason cited for the cancellation of CBSE Class XII exams in the majority of Gulf nations?",
-        "a": "Ongoing conflict",
-        "options": [
-            "Administrative issues",
-            "Logistic challenges",
-            "Ongoing conflict",
-            "Low student enrollment",
-            "Teacher strikes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "For subjects with 80 or 70 theory marks, the final score under the alternative assessment scheme will be based on a student's performance in how many school exams?",
-        "a": "Three",
-        "options": [
-            "Two",
-            "Four",
-            "Three",
-            "One",
-            "Five"
+            "8.5 million",
+            "8.4 million",
+            "8.6 million",
+            "8.3 million",
+            "8.7 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum theory mark value for subjects where only the final pre-board exam marks are used to calculate the result under the alternative assessment scheme?",
-        "a": "30",
+        "q": "What percentage of the vote did Donald Trump win in Driggs' state (Idaho) in 2024, as mentioned in the news?",
+        "a": "66 percent",
         "options": [
-            "35",
-            "40",
-            "30",
-            "25",
-            "45"
+            "66 percent",
+            "65 percent",
+            "67 percent",
+            "64 percent",
+            "68 percent"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Candidates from 2025, or those registered for one subject under the compartment category, would get a chance to appear in the supplementary exam in which month and year if their exam was not held?",
-        "a": "July 2026",
+        "q": "Approximately how many participants did the earlier 'No Kings' rallies draw in June, according to organizers?",
+        "a": "Over 5 million",
         "options": [
-            "June 2025",
-            "August 2026",
-            "July 2026",
-            "May 2025",
-            "September 2026"
+            "Over 5 million",
+            "Over 5.1 million",
+            "Over 4.9 million",
+            "Over 5.2 million",
+            "Over 4.8 million"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "What is the start date for schools to upload marks for the CBSE alternative assessment scheme?",
-        "a": "April 6, 2026",
+        "q": "How many participants did the 'No Kings' rallies attract in October, as estimated by organizers?",
+        "a": "7 million",
         "options": [
-            "April 1, 2026",
-            "April 10, 2026",
-            "April 6, 2026",
-            "April 15, 2026",
-            "April 3, 2026"
+            "7 million",
+            "7.1 million",
+            "6.9 million",
+            "7.2 million",
+            "6.8 million"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "What is the last date for schools to upload marks for the CBSE alternative assessment scheme?",
-        "a": "April 13, 2026",
+        "q": "What was the expected number of people to join Saturday\u2019s 'No Kings' demonstrations?",
+        "a": "Around 9 million",
         "options": [
-            "April 15, 2026",
-            "April 13, 2026",
-            "April 20, 2026",
-            "April 8, 2026",
-            "April 11, 2026"
+            "Around 9 million",
+            "Around 9.1 million",
+            "Around 8.9 million",
+            "Around 9.2 million",
+            "Around 8.8 million"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Political Affairs Editor at Live Mint, according to the provided team information?",
-        "a": "Gulam Jeelani",
+        "q": "How many events had been registered across all 50 states for the 'No Kings' demonstrations?",
+        "a": "More than 3,100",
         "options": [
-            "Sugam Singhal",
-            "Chanchal",
-            "Gulam Jeelani",
-            "Sanchari Ghosh",
-            "Pratik Prashant Mukane"
+            "More than 3,100",
+            "More than 3,110",
+            "More than 3,090",
+            "More than 3,120",
+            "More than 3,080"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The number of registered events this week was how many more than in October?",
+        "a": "About 500",
+        "options": [
+            "About 500",
+            "About 510",
+            "About 490",
+            "About 505",
+            "About 495"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many people marched in a 'No Kings' event in San Diego, according to police?",
+        "a": "About 40,000",
+        "options": [
+            "About 40,000",
+            "About 40,500",
+            "About 39,500",
+            "About 41,000",
+            "About 39,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "An event on the Minnesota Capitol grounds in June drew an estimated how many people?",
+        "a": "80,000",
+        "options": [
+            "80,000",
+            "80,500",
+            "79,500",
+            "81,000",
+            "79,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many people did Minnesota organizers expect for the Saturday protest at the Capitol grounds?",
+        "a": "100,000",
+        "options": [
+            "100,000",
+            "100,500",
+            "99,500",
+            "101,000",
+            "99,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Kerala\u2019s Consumer Food Price Index (CFPI) noted in the news?",
+        "a": "6.17%",
+        "options": [
+            "6.17%",
+            "6.27%",
+            "6.07%",
+            "6.12%",
+            "6.22%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the national average Consumer Food Price Index (CFPI) as of February, according to the text?",
+        "a": "3.47%",
+        "options": [
+            "3.47%",
+            "3.57%",
+            "3.37%",
+            "3.42%",
+            "3.52%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how much has been allocated to food security and subsidies in Kerala since 2020-21?",
+        "a": "Nearly \u20b910,000 crore",
+        "options": [
+            "Nearly \u20b910,000 crore",
+            "Nearly \u20b910,100 crore",
+            "Nearly \u20b99,900 crore",
+            "Nearly \u20b910,050 crore",
+            "Nearly \u20b99,950 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the price for a meal offered at Janakeeya Hotels in Kerala?",
+        "a": "\u20b925",
+        "options": [
+            "\u20b925",
+            "\u20b926",
+            "\u20b924",
+            "\u20b927",
+            "\u20b923"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of its food requirements does Kerala reportedly import?",
+        "a": "Nearly 80%",
+        "options": [
+            "Nearly 80%",
+            "Nearly 81%",
+            "Nearly 79%",
+            "Nearly 80.5%",
+            "Nearly 79.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the population of Driggs, a small town in eastern Idaho, mentioned in the news?",
+        "a": "Fewer than 2,000 residents",
+        "options": [
+            "Fewer than 2,000 residents",
+            "Fewer than 2,100 residents",
+            "Fewer than 1,900 residents",
+            "Fewer than 2,050 residents",
+            "Fewer than 1,950 residents"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What distance did Wendy Wyatt drive from Lawrence to Topeka?",
+        "a": "20 miles",
+        "options": [
+            "20 miles",
+            "21 miles",
+            "19 miles",
+            "22 miles",
+            "18 miles"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the headline performer at the St. Paul rally, playing 'Streets of Minneapolis'?",
+        "a": "Bruce Springsteen",
+        "options": [
+            "Bruce Springsteen",
+            "Robert DeNiro",
+            "Donald Trump",
+            "Ezra Levin",
+            "Bill Jarcho"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who among the following is listed as a Senior Assistant Editor at Live Mint?",
-        "a": "Sugam Singhal",
+        "q": "Who wrote the song 'Streets of Minneapolis' in response to fatal shootings and immigration enforcement protests?",
+        "a": "Bruce Springsteen",
         "options": [
-            "Ravi Hari",
-            "Garvit Bhirani",
-            "Sugam Singhal",
-            "Akriti Anand",
-            "Jocelyn Felix Fernandes"
+            "Bruce Springsteen",
+            "Bob Dylan",
+            "Paul Simon",
+            "Billy Joel",
+            "Neil Young"
         ],
         "cat": "Who"
     },
     {
-        "q": "How many Chief Content Producers are explicitly mentioned in the Livemint team list?",
-        "a": "Three",
-        "options": [
-            "Two",
-            "Five",
-            "Three",
-            "Four",
-            "One"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is currently working as an Assistant Editor at Live Mint and has a journalistic background covering South Asia, the Middle East, and North America?",
-        "a": "Bobins",
-        "options": [
-            "Riya R Alex",
-            "Mausam Jha",
-            "Swastika Das Sharma",
-            "Bobins",
-            "Akriti Anand"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Bobins has been a part of Live Mint since which specific month and year?",
-        "a": "February 2026",
-        "options": [
-            "January 2026",
-            "March 2026",
-            "February 2026",
-            "April 2026",
-            "December 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the total number of years of experience stated for journalist Bobins?",
-        "a": "14 years",
-        "options": [
-            "12 years",
-            "16 years",
-            "14 years",
-            "10 years",
-            "18 years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year was Bobins awarded by Times Internet for the impact of his story on Delhi tree cuttings?",
-        "a": "2018",
-        "options": [
-            "2017",
-            "2019",
-            "2018",
-            "2020",
-            "2016"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was one of the declared objectives of Operation Epic Fury during the US-Israeli attack on Iran?",
-        "a": "To destroy Tehran's missile arsenal and production capacity",
-        "options": [
-            "To secure oil fields",
-            "To destroy Tehran's missile arsenal and production capacity",
-            "To establish a no-fly zone",
-            "To rescue hostages",
-            "To promote regional peace talks"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Reuters, what fraction of Iran's missile arsenal could Washington determine with certainty had been destroyed?",
-        "a": "A third",
-        "options": [
-            "Half",
-            "A quarter",
-            "A third",
-            "Two-thirds",
-            "Three-quarters"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "As of Wednesday, how many Iranian military targets had US strikes hit?",
-        "a": "More than 10,000",
-        "options": [
-            "More than 8,000",
-            "More than 12,000",
-            "More than 10,000",
-            "More than 9,000",
-            "More than 11,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the Iranian navy's large vessels had been sunk by US strikes, according to Central Command?",
-        "a": "92%",
-        "options": [
-            "88%",
-            "95%",
-            "92%",
-            "90%",
-            "85%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who publicly remarked yesterday that Iran has 'very few rockets left'?",
+        "q": "Which US President's actions were being protested in the 'No Kings' demonstrations?",
         "a": "Donald Trump",
         "options": [
-            "Joe Biden",
-            "Benjamin Netanyahu",
             "Donald Trump",
-            "Hassan Rouhani",
-            "Vladimir Putin"
+            "Joe Biden",
+            "Barack Obama",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Iran launched two ballistic missiles toward a US-UK military airbase located in the Indian Ocean, specifically on which island?",
-        "a": "Diego Garcia",
+        "q": "Who is the co-executive director of Indivisible, the group leading the 'No Kings' movement?",
+        "a": "Ezra Levin",
         "options": [
-            "Maldives",
-            "Seychelles",
-            "Diego Garcia",
-            "Mauritius",
-            "Sri Lanka"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The ballistic missiles launched by Iran towards Diego Garcia travelled approximately how many kilometres, exceeding its until then known range?",
-        "a": "3,800 kilometres",
-        "options": [
-            "3,500 kilometres",
-            "4,000 kilometres",
-            "3,800 kilometres",
-            "3,200 kilometres",
-            "4,200 kilometres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the previously known maximum range of Tehran's medium-range ballistic missiles before the Diego Garcia incident?",
-        "a": "2,000 kilometres",
-        "options": [
-            "1,500 kilometres",
-            "2,500 kilometres",
-            "2,000 kilometres",
-            "1,800 kilometres",
-            "2,200 kilometres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The US-Israeli attack on Iran was nearing its one-month mark. Approximately how long had the conflict been ongoing from the news publication date?",
-        "a": "Four weeks",
-        "options": [
-            "Two weeks",
-            "Six weeks",
-            "Four weeks",
-            "Three months",
-            "One week"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which Indian judicial body warned of a 'general indifference' among trial courts and police towards disclosing identities of sexual assault survivors?",
-        "a": "Supreme Court of India",
-        "options": [
-            "High Courts",
-            "District Courts",
-            "Supreme Court of India",
-            "National Human Rights Commission",
-            "Central Bureau of Investigation"
+            "Ezra Levin",
+            "Bill Jarcho",
+            "Robert DeNiro",
+            "Ada Shen",
+            "Mausam Jha"
         ],
         "cat": "Who"
     },
     {
-        "q": "On which date did a three-judge Bench headed by Chief Justice of India Surya Kant direct the Supreme Court Registry to redact personal details of a rape survivor?",
-        "a": "March 25, 2026",
+        "q": "Who is the Premier of Italy, mentioned in the context of protests in Rome?",
+        "a": "Giorgia Meloni",
         "options": [
-            "March 23, 2026",
-            "March 26, 2026",
-            "March 25, 2026",
-            "March 27, 2026",
-            "March 24, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who headed the three-judge Bench that directed the redaction of personal details of a rape survivor on March 25, 2026?",
-        "a": "Chief Justice of India Surya Kant",
-        "options": [
-            "Justice Sanjay Karol",
-            "Justice B.R. Gavai",
-            "Chief Justice of India Surya Kant",
-            "Nipun Saxena",
-            "Justice D.Y. Chandrachud"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Gurugram police affidavits concerned the identity of a rape survivor of what age?",
-        "a": "3.8-year-old",
-        "options": [
-            "2.5-year-old",
-            "4.2-year-old",
-            "3.8-year-old",
-            "5.0-year-old",
-            "3.0-year-old"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "On which date did a Supreme Court Bench headed by Justice Sanjay Karol find the disclosure of a nine-year-old survivor's identity in a rape case disturbing?",
-        "a": "March 24, 2026",
-        "options": [
-            "March 23, 2026",
-            "March 26, 2026",
-            "March 24, 2026",
-            "March 27, 2026",
-            "March 25, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who headed the Supreme Court Bench that noted the 'disturbing fact' of identity disclosure in the Himachal Pradesh rape case on March 24, 2026?",
-        "a": "Justice Sanjay Karol",
-        "options": [
-            "Chief Justice of India Surya Kant",
-            "Justice B.R. Gavai",
-            "Justice Sanjay Karol",
-            "Nipun Saxena",
-            "Justice Indu Malhotra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How old was the survivor in the Himachal Pradesh rape case whose identity was nonchalantly disclosed?",
-        "a": "Nine years old",
-        "options": [
-            "Eight years old",
-            "Ten years old",
-            "Nine years old",
-            "Seven years old",
-            "Six years old"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Section 228A of the Indian Penal Code (now Section 72 of Bharatiya Nyaya Sanhita) makes the disclosure of victims' identity a criminal offence punishable with rigorous imprisonment for up to how many years?",
-        "a": "Two years",
-        "options": [
-            "One year",
-            "Three years",
-            "Two years",
-            "Four years",
-            "Five years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year were a series of amendments made in criminal law, including Section 228A, towards a victim-centric orientation?",
-        "a": "1983",
-        "options": [
-            "1980",
-            "1985",
-            "1983",
-            "1990",
-            "1979"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary purpose of the 1983 reforms in criminal law, including in camera trials and anonymity for survivors?",
-        "a": "To reduce barriers and fears discouraging survivors from reporting crimes",
-        "options": [
-            "To increase conviction rates for all crimes",
-            "To reduce barriers and fears discouraging survivors from reporting crimes",
-            "To streamline court proceedings",
-            "To empower defense lawyers",
-            "To implement new technologies in judiciary"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The infamous Mathura custodial rape case, which triggered public outrage and the 1983 reforms, occurred in a police station in which state?",
-        "a": "Maharashtra",
-        "options": [
-            "Uttar Pradesh",
-            "Gujarat",
-            "Maharashtra",
-            "Delhi",
-            "Rajasthan"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which year did the Mathura custodial rape case incident involving a teenage tribal girl occur?",
-        "a": "1972",
-        "options": [
-            "1970",
-            "1975",
-            "1972",
-            "1980",
-            "1968"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the Supreme Court acquit the accused in the Mathura rape case, drawing widespread public outrage?",
-        "a": "1979",
-        "options": [
-            "1977",
-            "1981",
-            "1979",
-            "1978",
-            "1982"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In 2025, who called the 1979 Mathura judgment 'a moment of institutional embarrassment'?",
-        "a": "Then Chief Justice of India B. R. Gavai",
-        "options": [
-            "Justice Surya Kant",
-            "Justice Sanjay Karol",
-            "Then Chief Justice of India B. R. Gavai",
-            "Nipun Saxena",
-            "The Gurugram Police Commissioner"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Nipun Saxena vs Union of India judgment, which declared an absolute bar on publication of survivor identities, was delivered in which year?",
-        "a": "2018",
-        "options": [
-            "2016",
-            "2020",
-            "2018",
-            "2017",
-            "2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Nipun Saxena judgment highlighted that society often treated survivors of sexual assault in what manner, despite their innocence?",
-        "a": "As untouchable",
-        "options": [
-            "With immense empathy",
-            "As untouchable",
-            "With legal support",
-            "As heroes",
-            "With indifference"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which Chief Minister stated that the Central government\u2019s decision to reduce excise duty on fossil fuels will protect consumers?",
-        "a": "Devendra Fadnavis",
-        "options": [
-            "Yogi Adityanath",
-            "Mamata Banerjee",
-            "Devendra Fadnavis",
-            "Arvind Kejriwal",
-            "M.K. Stalin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On which day did Maharashtra Chief Minister Devendra Fadnavis make the statement regarding the reduction of excise duty on fossil fuels?",
-        "a": "Friday",
-        "options": [
-            "Monday",
-            "Wednesday",
-            "Friday",
-            "Tuesday",
-            "Thursday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary reason stated for the Central government's decision to reduce excise duty on fossil fuels?",
-        "a": "To protect consumers from rising global crude prices",
-        "options": [
-            "To boost government revenue",
-            "To promote public transport",
-            "To protect consumers from rising global crude prices",
-            "To encourage fuel conservation",
-            "To reduce carbon emissions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What triggered the rising global crude prices, leading to the government's decision to cut excise duty?",
-        "a": "Ongoing West Asia conflict",
-        "options": [
-            "Increased demand from China",
-            "Ongoing West Asia conflict",
-            "Natural disasters",
-            "Economic recession",
-            "Sanctions on oil-producing nations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "By how much per litre did the government decide to cut the Special Additional Excise Duty (SAED) on petrol and diesel?",
-        "a": "\u20b910 per litre",
-        "options": [
-            "\u20b98 per litre",
-            "\u20b912 per litre",
-            "\u20b910 per litre",
-            "\u20b99 per litre",
-            "\u20b911 per litre"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The commercial gas cylinder supply in Maharashtra was initially at 20% and then raised to what percentage of pre-crisis levels?",
-        "a": "40%",
-        "options": [
-            "30%",
-            "50%",
-            "40%",
-            "60%",
-            "35%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total commercial LPG supply as a percentage of the level recorded before the disruption, after the additional quotas were granted in Maharashtra?",
-        "a": "50%",
-        "options": [
-            "45%",
-            "55%",
-            "50%",
-            "60%",
-            "40%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The government has prioritised the supply of what size Free Trade LPG (FTL) cylinders for migrant workers?",
-        "a": "5-kg",
-        "options": [
-            "14.2-kg",
-            "19-kg",
-            "5-kg",
-            "10-kg",
-            "2-kg"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the warning issued to citizens regarding spreading rumors of lockdown on social media?",
-        "a": "They would be charged with criminal sections.",
-        "options": [
-            "They would face community service.",
-            "They would be charged with criminal sections.",
-            "Their accounts would be suspended.",
-            "They would receive a monetary fine.",
-            "They would be given a warning."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who will bear the cost of the excise duty reduction on fossil fuels, as stated by Mr. Fadnavis?",
-        "a": "Government of India and oil companies",
-        "options": [
-            "State governments and consumers",
-            "Consumers and oil companies",
-            "Government of India and oil companies",
-            "International organizations and government",
-            "State governments and international organizations"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Besides Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia, which other West Asian country is explicitly mentioned in the CBSE alternative assessment notification?",
-        "a": "UAE",
-        "options": [
-            "Turkey",
-            "Egypt",
-            "UAE",
-            "Jordan",
-            "Lebanon"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Prior to 1983, what negative consequence could arise from court reporting and media coverage of sexual assault survivors?",
-        "a": "It could expose survivors to social stigma, ostracism, and lifelong reputational harm.",
-        "options": [
-            "It led to higher conviction rates.",
-            "It encouraged more reporting of crimes.",
-            "It could expose survivors to social stigma, ostracism, and lifelong reputational harm.",
-            "It streamlined legal processes.",
-            "It enhanced public awareness without negative consequences."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who noted that 'Before 1983, there was no statutory bar on publishing the name or particulars of a woman against whom a sexual offence was alleged'?",
-        "a": "Justice Sanjay Karol",
-        "options": [
-            "Chief Justice of India Surya Kant",
-            "Justice B.R. Gavai",
-            "Justice Sanjay Karol",
-            "Nipun Saxena",
-            "The Gurugram Police Commissioner"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Supreme Court's 2018 Nipun Saxena vs Union of India judgment found that society treated survivors worse than whom?",
-        "a": "The perpetrators of the crime",
-        "options": [
-            "The police",
-            "The lawyers",
-            "The perpetrators of the crime",
-            "The judges",
-            "The witnesses"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court was compelled to intervene how many times this week to remind law enforcement authorities about survivor identity protection?",
-        "a": "Twice",
-        "options": [
-            "Once",
-            "Three times",
-            "Twice",
-            "Four times",
-            "Five times"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who among the following is listed as a Trainee Content Producer at Live Mint?",
-        "a": "Riya R Alex",
-        "options": [
-            "Akriti Anand",
-            "Jocelyn Felix Fernandes",
-            "Swastika Das Sharma",
-            "Mausam Jha",
-            "Riya R Alex"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many Deputy Chief Content Producers are mentioned in the Livemint team list?",
-        "a": "Two",
-        "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The US operations mentioned in the text aim to safeguard which economically vital strait?",
-        "a": "Strait of Hormuz",
-        "options": [
-            "Strait of Malacca",
-            "Strait of Gibraltar",
-            "Strait of Hormuz",
-            "Bosphorus Strait",
-            "Bering Strait"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Why might the US have not destroyed as many Iranian missiles as initially thought, according to Reuters, citing US intelligence?",
-        "a": "US intelligence was inaccurate on stockpiles in underground bunkers.",
-        "options": [
-            "Iran had superior air defense.",
-            "US intelligence was inaccurate on stockpiles in underground bunkers.",
-            "Iran developed new missile technology.",
-            "US did not have enough resources.",
-            "The conflict ended prematurely."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the information, what was the initial percentage of commercial gas cylinders in Maharashtra that had been granted and later increased to 40%?",
-        "a": "20%",
-        "options": [
-            "15%",
-            "25%",
-            "20%",
-            "30%",
-            "10%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which Indian city is explicitly mentioned as one of the metro cities covered in Livemint's National News section?",
-        "a": "Mumbai",
-        "options": [
-            "Chennai",
-            "Kolkata",
-            "Mumbai",
-            "Bengaluru",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which specific Central Command is mentioned as having hit more than 10,000 Iranian military targets?",
-        "a": "Central Command",
-        "options": [
-            "European Command",
-            "Pacific Command",
-            "Central Command",
-            "African Command",
-            "Southern Command"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In the context of the CBSE alternative assessment, how many times do schools generally conduct assessment in a year?",
-        "a": "Three times",
-        "options": [
-            "Two times",
-            "Four times",
-            "Three times",
-            "Once",
-            "Five times"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What type of crimes did the 1983 reforms aim to stifle the effective prosecution of?",
-        "a": "Sexual offences",
-        "options": [
-            "Financial crimes",
-            "Property crimes",
-            "Cyber crimes",
-            "Sexual offences",
-            "Environmental crimes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which Union Ministry is mentioned as one of the coverage areas under Livemint's 'Politics' section?",
-        "a": "Finance Ministry",
-        "options": [
-            "Education Ministry",
-            "Defence Ministry",
-            "Finance Ministry",
-            "Health Ministry",
-            "External Affairs Ministry"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "According to the Supreme Court, what did presiding judges sometimes act like when survivors faced defamatory questions from defence lawyers?",
-        "a": "Mute spectators",
-        "options": [
-            "Active participants",
-            "Intervening authorities",
-            "Mute spectators",
-            "Supportive figures",
-            "Strict enforcers"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which international leader is mentioned in the context of global leaders in Livemint's Geopolitics coverage?",
-        "a": "Vladimir Putin",
-        "options": [
+            "Giorgia Meloni",
+            "Ursula von der Leyen",
             "Emmanuel Macron",
-            "Angela Merkel",
-            "Vladimir Putin",
-            "Justin Trudeau",
-            "Jacinda Ardern"
+            "Rishi Sunak",
+            "Olaf Scholz"
         ],
         "cat": "Who"
     },
     {
-        "q": "What is the name of the legislative provision that currently makes disclosure of victims' identity a criminal offence?",
-        "a": "Section 72 of the Bharatiya Nyaya Sanhita",
+        "q": "Who is the journalist featured at the end of the news text, focusing on world affairs and politics?",
+        "a": "Mausam Jha",
         "options": [
-            "Section 375 of IPC",
-            "Section 498A of IPC",
-            "Section 72 of the Bharatiya Nyaya Sanhita",
-            "Section 302 of IPC",
-            "Section 120B of IPC"
+            "Mausam Jha",
+            "Lakshmi Suresh",
+            "Anitha Kumary L.",
+            "Mary George",
+            "Ada Shen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the homemaker in Mannanthala, Thiruvananthapuram, quoted discussing the impact of inflation?",
+        "a": "Lakshmi Suresh",
+        "options": [
+            "Lakshmi Suresh",
+            "Anitha Kumary L.",
+            "Mary George",
+            "Wendy Wyatt",
+            "Ada Shen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Kerala State Planning Board member who highlighted the state's universal food security framework?",
+        "a": "K. Ravi Raman",
+        "options": [
+            "K. Ravi Raman",
+            "John Samuel",
+            "Anitha Kumary L.",
+            "Mary George",
+            "Ezra Levin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Visiting Faculty at Gulati Institute of Finance and Taxation, crediting government market intervention schemes?",
+        "a": "Anitha Kumary L.",
+        "options": [
+            "Anitha Kumary L.",
+            "Mary George",
+            "Lakshmi Suresh",
+            "Wendy Wyatt",
+            "Ada Shen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which public policy expert argued that Kerala\u2019s market intervention has not been up to the mark?",
+        "a": "John Samuel",
+        "options": [
+            "John Samuel",
+            "K. Ravi Raman",
+            "Anitha Kumary L.",
+            "Mary George",
+            "Ezra Levin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which economist pointed to recurring shortages in Supplyco outlets and a decline in supplier participation?",
+        "a": "Mary George",
+        "options": [
+            "Mary George",
+            "Anitha Kumary L.",
+            "Lakshmi Suresh",
+            "Wendy Wyatt",
+            "Ada Shen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the appellant in the Supreme Court case ruling that a pastor converted to Christianity could not claim SC status?",
+        "a": "Chinthada Anand",
+        "options": [
+            "Chinthada Anand",
+            "K.G. Balakrishnan",
+            "B.R. Ambedkar",
+            "Prashant Kumar Mishra",
+            "Manmohan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former Chief Justice of India heads the Commission of Inquiry examining the issue of SC status for converts to Islam and Christianity?",
+        "a": "K.G. Balakrishnan",
+        "options": [
+            "K.G. Balakrishnan",
+            "Prashant Kumar Mishra",
+            "Manmohan",
+            "B.R. Ambedkar",
+            "D.Y. Chandrachud"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the social reformer whose call led to a large number of people turning to Buddhism, resulting in an amendment to the SC Order?",
+        "a": "Dr. B.R. Ambedkar",
+        "options": [
+            "Dr. B.R. Ambedkar",
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Sardar Patel",
+            "Subhas Chandra Bose"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which state became the focal point of the 'No Kings' movement in the United States?",
+        "a": "Minnesota",
+        "options": [
+            "Minnesota",
+            "New York",
+            "California",
+            "Washington",
+            "Idaho"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did Bruce Springsteen play his song 'Streets of Minneapolis' at the rally?",
+        "a": "St. Paul Capitol lawn",
+        "options": [
+            "St. Paul Capitol lawn",
+            "Minneapolis city center",
+            "New York City",
+            "Washington D.C.",
+            "San Diego"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which small town in eastern Idaho, with fewer than 2,000 residents, hosted 'No Kings' demonstrations?",
+        "a": "Driggs",
+        "options": [
+            "Driggs",
+            "Topeka",
+            "Lawrence",
+            "Seattle",
+            "San Diego"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did hundreds march past the Lincoln Memorial and into the National Mall as part of the protests?",
+        "a": "Washington",
+        "options": [
+            "Washington",
+            "New York City",
+            "San Diego",
+            "Minneapolis",
+            "St. Paul"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city was named the national flagship event location for the 'No Kings' rally?",
+        "a": "San Diego",
+        "options": [
+            "San Diego",
+            "Minneapolis",
+            "St. Paul",
+            "New York City",
+            "Washington"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where is Bruce Springsteen's 'Land of Hope & Dreams American tour' set to begin?",
+        "a": "Minneapolis",
+        "options": [
+            "Minneapolis",
+            "St. Paul",
+            "New York City",
+            "San Diego",
+            "Washington"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which European city did thousands march, chanting in opposition to Premier Giorgia Meloni?",
+        "a": "Rome",
+        "options": [
+            "Rome",
+            "London",
+            "Paris",
+            "Berlin",
+            "Madrid"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did protesters hold banners that said, 'Stop the far right' and 'Stand up to Racism' in connection with the war in Iran?",
+        "a": "London",
+        "options": [
+            "London",
+            "Paris",
+            "Rome",
+            "Berlin",
+            "Madrid"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On Saturday morning, several hundred people gathered at the Bastille in which European city for a 'No Kings' protest?",
+        "a": "Paris",
+        "options": [
+            "Paris",
+            "London",
+            "Rome",
+            "Berlin",
+            "Madrid"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state are Assembly elections being discussed in the context of inflation affecting voter sentiment?",
+        "a": "Kerala",
+        "options": [
+            "Kerala",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Tamil Nadu",
+            "Telangana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Chinthada Anand, the pastor denied SC status, was from which Indian state?",
+        "a": "Andhra Pradesh",
+        "options": [
+            "Andhra Pradesh",
+            "Telangana",
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which states has there been a rise in Adivasi movements insisting that ST communities converted to other faiths be disentitled from statutory benefits?",
+        "a": "Chhattisgarh and Jharkhand",
+        "options": [
+            "Chhattisgarh and Jharkhand",
+            "Nagaland and Mizoram",
+            "Odisha and West Bengal",
+            "Madhya Pradesh and Rajasthan",
+            "Gujarat and Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "As of which month was the national average Consumer Food Price Index (CFPI) reported as 3.47%?",
+        "a": "February",
+        "options": [
+            "February",
+            "March",
+            "January",
+            "April",
+            "December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Since which financial year has nearly \u20b910,000 crore been allocated to food security and subsidies in Kerala?",
+        "a": "2020-21",
+        "options": [
+            "2020-21",
+            "2019-20",
+            "2021-22",
+            "2018-19",
+            "2022-23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Supreme Court rule in Chinthada Anand vs State of Andhra Pradesh?",
+        "a": "March 24",
+        "options": [
+            "March 24",
+            "March 23",
+            "March 25",
+            "April 24",
+            "February 24"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the Constitution (Scheduled Castes) Order originally issued?",
+        "a": "1950",
+        "options": [
+            "1950",
+            "1947",
+            "1952",
+            "1960",
+            "1970"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which decade was Sikhism first included in the Constitution (SC) Order?",
+        "a": "1950s",
+        "options": [
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was Buddhism included in the Constitution (SC) Order?",
+        "a": "1990",
+        "options": [
+            "1990",
+            "1980",
+            "2000",
+            "1995",
+            "1985"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the petition to accord SC status for Dalit Christians and Muslims first filed?",
+        "a": "2004",
+        "options": [
+            "2004",
+            "2000",
+            "2008",
+            "1999",
+            "2010"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Centre constitute a Commission of Inquiry headed by K.G. Balakrishnan to examine the issue of SC status for converts?",
+        "a": "October 2022",
+        "options": [
+            "October 2022",
+            "September 2022",
+            "November 2022",
+            "August 2022",
+            "December 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the deadline for the Commission of Inquiry headed by K.G. Balakrishnan to submit its report?",
+        "a": "April this year",
+        "options": [
+            "April this year",
+            "May this year",
+            "March this year",
+            "June this year",
+            "February this year"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was one of the primary reasons for the 'No Kings' demonstrations, as stated in the news?",
+        "a": "To protest the war in Iran and actions of US President Donald Trump",
+        "options": [
+            "To protest the war in Iran and actions of US President Donald Trump",
+            "To support President Trump's policies",
+            "To advocate for monarchies",
+            "To celebrate national holidays",
+            "To promote peace in the Middle East only"
         ],
         "cat": "Why"
     },
     {
-        "q": "What type of entities are among those expected to benefit from the increased commercial LPG quota in Maharashtra?",
-        "a": "Restaurants, hotels, industrial canteens",
+        "q": "According to Bruce Springsteen, what did people's continued pushback against US Customs and Immigration Enforcement signify?",
+        "a": "That 'this was still America' and the 'reactionary nightmare' would not stand",
         "options": [
-            "Private residences, schools, hospitals",
-            "Government offices, NGOs, retail stores",
-            "Restaurants, hotels, industrial canteens",
-            "Agricultural farms, fishing boats, construction sites",
-            "Small businesses, personal vehicles, public transportation"
+            "That 'this was still America' and the 'reactionary nightmare' would not stand",
+            "A call for more immigration enforcement",
+            "Support for federal agents",
+            "A desire for monarchical rule",
+            "A preference for specific political parties"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the primary grievance regarding the Trump administration for Wendy Wyatt, despite her hope?",
+        "a": "Aggressive immigration enforcement",
+        "options": [
+            "Aggressive immigration enforcement",
+            "Economic prosperity",
+            "Tax cuts",
+            "Foreign policy successes",
+            "Border security measures"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific issue did the referendum in Italy, which faced criticism, aim to streamline?",
+        "a": "Italy\u2019s judiciary",
+        "options": [
+            "Italy\u2019s judiciary",
+            "Economic policy",
+            "Immigration laws",
+            "Healthcare system",
+            "Electoral process"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why do protesters in Rome also carry banners condemning Israeli and US strikes on Iran?",
+        "a": "To call for 'a world free from wars'",
+        "options": [
+            "To call for 'a world free from wars'",
+            "To support military action",
+            "To promote specific alliances",
+            "To condemn Italy's foreign policy",
+            "To advocate for a single-nation world order"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary factor that has emerged as a defining undercurrent shaping voter sentiment in Kerala's Assembly elections?",
+        "a": "Inflation and prices",
+        "options": [
+            "Inflation and prices",
+            "Political slogans",
+            "Social issues",
+            "Infrastructural development",
+            "Environmental policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the Supreme Court ruling, why can a person who professes a religion different from Hindu, Sikh, or Buddhist not be deemed a member of a Scheduled Caste?",
+        "a": "Because the Constitution (Scheduled Castes) Order, 1950, explicitly bars it.",
+        "options": [
+            "Because the Constitution (Scheduled Castes) Order, 1950, explicitly bars it.",
+            "Because such religions do not exist in India",
+            "Because it encourages conversion",
+            "Because it is difficult to track their original caste",
+            "Because there is no legal precedent."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the Union Government's main argument for excluding Dalit Muslims and Christians from SC status?",
+        "a": "The 'foreign origin' of these faiths compared to Hinduism, Sikhism, and Buddhism.",
+        "options": [
+            "The 'foreign origin' of these faiths compared to Hinduism, Sikhism, and Buddhism.",
+            "Their small population size",
+            "Lack of historical evidence",
+            "Economic prosperity of these communities",
+            "Difficulty in administrative classification."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does the term 'profess' in the Constitution (SC) Order 'connote' according to the Supreme Court?",
+        "a": "To publicly declare or practice a religion",
+        "options": [
+            "To publicly declare or practice a religion",
+            "To privately believe in a religion",
+            "To be born into a religion",
+            "To study religious texts",
+            "To simply identify with a religion"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary reason why conversion to Christianity results in an immediate loss of Scheduled Caste status, regardless of birth?",
+        "a": "Christianity, by its very theological foundation, does not recognise or incorporate the institution of caste.",
+        "options": [
+            "Christianity, by its very theological foundation, does not recognise or incorporate the institution of caste.",
+            "It is a foreign religion",
+            "It discourages social upliftment",
+            "It is against Indian constitutional principles",
+            "It promotes inequality"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the consequence of losing Scheduled Caste status by virtue of converting faith?",
+        "a": "Automatic termination of all eligibility for statutory benefits, protections, reservations, preferences and entitlements.",
+        "options": [
+            "Automatic termination of all eligibility for statutory benefits, protections, reservations, preferences and entitlements.",
+            "Only loss of reservation in education",
+            "Loss of social standing only",
+            "Requirement to reapply for all benefits",
+            "No significant change in benefits"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why was the Constitution (SC) Order amended to include Buddhism in 1990?",
+        "a": "In response to a large number of people turning to Buddhism, heeding Dr. B.R. Ambedkar\u2019s call.",
+        "options": [
+            "In response to a large number of people turning to Buddhism, heeding Dr. B.R. Ambedkar\u2019s call.",
+            "To promote religious diversity",
+            "To align with international norms",
+            "To correct a historical oversight",
+            "To simplify administrative processes"
         ],
         "cat": "Why"
     }
