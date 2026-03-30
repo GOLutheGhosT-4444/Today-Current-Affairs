@@ -1,769 +1,721 @@
 [
     {
-        "q": "According to the text, what was the estimated population of New York City?",
-        "a": "8.5 million",
+        "q": "What was the estimated value of the E-3 Sentry AWACS plane destroyed by Iran?",
+        "a": "$300 million",
         "options": [
-            "8.5 million",
-            "8.4 million",
-            "8.6 million",
-            "8.3 million",
-            "8.7 million"
+            "$310 million",
+            "$290 million",
+            "$300 million",
+            "$305 million",
+            "$295 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the vote did Donald Trump win in Driggs' state (Idaho) in 2024, as mentioned in the news?",
-        "a": "66 percent",
+        "q": "Approximately how many children born annually to noncitizen parents could be affected by the proposed birthright citizenship policy?",
+        "a": "150,000",
         "options": [
-            "66 percent",
-            "65 percent",
-            "67 percent",
-            "64 percent",
-            "68 percent"
+            "160,000",
+            "140,000",
+            "150,000",
+            "155,000",
+            "145,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many participants did the earlier 'No Kings' rallies draw in June, according to organizers?",
-        "a": "Over 5 million",
+        "q": "What was the estimated cost range for losses and repairs of US military assets in the first three weeks of the war with Iran?",
+        "a": "$1.4 billion and $2.9 billion",
         "options": [
-            "Over 5 million",
-            "Over 5.1 million",
-            "Over 4.9 million",
-            "Over 5.2 million",
-            "Over 4.8 million"
+            "$1.3 billion and $2.8 billion",
+            "$1.5 billion and $3.0 billion",
+            "$1.4 billion and $2.9 billion",
+            "$1.35 billion and $2.95 billion",
+            "$1.45 billion and $2.85 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many participants did the 'No Kings' rallies attract in October, as estimated by organizers?",
-        "a": "7 million",
+        "q": "How many crew members died in the KC-135 Stratotanker crash in western Iraq on March 12, 2026?",
+        "a": "6",
         "options": [
-            "7 million",
-            "7.1 million",
-            "6.9 million",
-            "7.2 million",
-            "6.8 million"
+            "5",
+            "7",
+            "6",
+            "4",
+            "8"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the expected number of people to join Saturday\u2019s 'No Kings' demonstrations?",
-        "a": "Around 9 million",
+        "q": "How many military aircraft had the US reportedly lost during Operation Epic Fury up to the time of the report?",
+        "a": "16",
         "options": [
-            "Around 9 million",
-            "Around 9.1 million",
-            "Around 8.9 million",
-            "Around 9.2 million",
-            "Around 8.8 million"
+            "15",
+            "17",
+            "16",
+            "14",
+            "18"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many events had been registered across all 50 states for the 'No Kings' demonstrations?",
-        "a": "More than 3,100",
+        "q": "How many MQ-9 Reaper drones were reportedly lost by the US during Operation Epic Fury?",
+        "a": "10-12",
         "options": [
-            "More than 3,100",
-            "More than 3,110",
-            "More than 3,090",
-            "More than 3,120",
-            "More than 3,080"
+            "9-11",
+            "11-13",
+            "10-12",
+            "10-13",
+            "9-12"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The number of registered events this week was how many more than in October?",
-        "a": "About 500",
+        "q": "How many F-15E Strike Eagle fighters were lost to friendly fire during Operation Epic Fury?",
+        "a": "3",
         "options": [
-            "About 500",
-            "About 510",
-            "About 490",
-            "About 505",
-            "About 495"
+            "2",
+            "4",
+            "3",
+            "5",
+            "1"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people marched in a 'No Kings' event in San Diego, according to police?",
-        "a": "About 40,000",
+        "q": "How many years of experience does Bobins have as a journalist?",
+        "a": "14",
         "options": [
-            "About 40,000",
-            "About 40,500",
-            "About 39,500",
-            "About 41,000",
-            "About 39,000"
+            "13",
+            "15",
+            "14",
+            "12",
+            "16"
         ],
         "cat": "Amount"
     },
     {
-        "q": "An event on the Minnesota Capitol grounds in June drew an estimated how many people?",
-        "a": "80,000",
+        "q": "How many government schools is the current Congress government proposing to shut down under the KPS Magnet Scheme?",
+        "a": "40,000",
         "options": [
-            "80,000",
-            "80,500",
-            "79,500",
-            "81,000",
-            "79,000"
+            "39,000",
+            "41,000",
+            "40,000",
+            "39,500",
+            "40,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people did Minnesota organizers expect for the Saturday protest at the Capitol grounds?",
-        "a": "100,000",
+        "q": "How much loan is the government taking from the Asian Development Bank to open KPS Magnet schools?",
+        "a": "\u20b92,500 crore",
         "options": [
-            "100,000",
-            "100,500",
-            "99,500",
-            "101,000",
-            "99,000"
+            "\u20b92,400 crore",
+            "\u20b92,600 crore",
+            "\u20b92,500 crore",
+            "\u20b92,450 crore",
+            "\u20b92,550 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Kerala\u2019s Consumer Food Price Index (CFPI) noted in the news?",
-        "a": "6.17%",
+        "q": "How many posts of teachers are currently vacant in the state, according to AIDSO's state treasurer?",
+        "a": "62,000",
         "options": [
-            "6.17%",
-            "6.27%",
-            "6.07%",
-            "6.12%",
-            "6.22%"
+            "61,000",
+            "63,000",
+            "62,000",
+            "61,500",
+            "62,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the national average Consumer Food Price Index (CFPI) as of February, according to the text?",
-        "a": "3.47%",
+        "q": "How many schools are run by single teachers in the state, according to AIDSO's state treasurer?",
+        "a": "Over 7,000",
         "options": [
-            "3.47%",
-            "3.57%",
-            "3.37%",
-            "3.42%",
-            "3.52%"
+            "Over 6,000",
+            "Over 8,000",
+            "Over 7,000",
+            "Over 6,500",
+            "Over 7,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how much has been allocated to food security and subsidies in Kerala since 2020-21?",
-        "a": "Nearly \u20b910,000 crore",
+        "q": "How many school buildings need urgent repairs in the state, according to AIDSO's state treasurer?",
+        "a": "23,000",
         "options": [
-            "Nearly \u20b910,000 crore",
-            "Nearly \u20b910,100 crore",
-            "Nearly \u20b99,900 crore",
-            "Nearly \u20b910,050 crore",
-            "Nearly \u20b99,950 crore"
+            "22,000",
+            "24,000",
+            "23,000",
+            "22,500",
+            "23,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the price for a meal offered at Janakeeya Hotels in Kerala?",
-        "a": "\u20b925",
+        "q": "How many government schools were reportedly slated for closure in Kodagu district under the KPS Magnet scheme?",
+        "a": "235",
         "options": [
-            "\u20b925",
-            "\u20b926",
-            "\u20b924",
-            "\u20b927",
-            "\u20b923"
+            "225",
+            "245",
+            "235",
+            "230",
+            "240"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of its food requirements does Kerala reportedly import?",
-        "a": "Nearly 80%",
+        "q": "How many selected Magnet schools are these 235 government schools proposed to be merged into?",
+        "a": "Five",
         "options": [
-            "Nearly 80%",
-            "Nearly 81%",
-            "Nearly 79%",
-            "Nearly 80.5%",
-            "Nearly 79.5%"
+            "Four",
+            "Six",
+            "Five",
+            "Three",
+            "Seven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the population of Driggs, a small town in eastern Idaho, mentioned in the news?",
-        "a": "Fewer than 2,000 residents",
+        "q": "How many US troops were injured in the attack on Prince Sultan Air Base in Saudi Arabia?",
+        "a": "At least 15",
         "options": [
-            "Fewer than 2,000 residents",
-            "Fewer than 2,100 residents",
-            "Fewer than 1,900 residents",
-            "Fewer than 2,050 residents",
-            "Fewer than 1,950 residents"
+            "At least 14",
+            "At least 16",
+            "At least 15",
+            "At least 13",
+            "At least 17"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What distance did Wendy Wyatt drive from Lawrence to Topeka?",
-        "a": "20 miles",
+        "q": "What was the approximate duration of the delay in departures at Palm Beach International Airport due to the drone incident?",
+        "a": "About an hour-long",
         "options": [
-            "20 miles",
-            "21 miles",
-            "19 miles",
-            "22 miles",
-            "18 miles"
+            "About 30 minutes",
+            "About 90 minutes",
+            "About an hour-long",
+            "About 45 minutes",
+            "About 75 minutes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was the headline performer at the St. Paul rally, playing 'Streets of Minneapolis'?",
-        "a": "Bruce Springsteen",
+        "q": "How many schools did the previous BJP Government attempt to close in the name of 'merging'?",
+        "a": "13,800",
         "options": [
-            "Bruce Springsteen",
-            "Robert DeNiro",
-            "Donald Trump",
-            "Ezra Levin",
-            "Bill Jarcho"
+            "13,700",
+            "13,900",
+            "13,800",
+            "13,750",
+            "13,850"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who reported the security scare involving a suspected drone near Air Force One at Palm Beach International Airport?",
+        "a": "CBS12",
+        "options": [
+            "ABC News",
+            "CNN",
+            "CBS12",
+            "Fox News",
+            "NBC News"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who wrote the song 'Streets of Minneapolis' in response to fatal shootings and immigration enforcement protests?",
-        "a": "Bruce Springsteen",
+        "q": "Who was scheduled to depart from PBI for the White House on the day of the drone incident?",
+        "a": "US President Donald Trump",
         "options": [
-            "Bruce Springsteen",
-            "Bob Dylan",
-            "Paul Simon",
-            "Billy Joel",
-            "Neil Young"
+            "US Vice President Kamala Harris",
+            "US President Donald Trump",
+            "US Secretary of State",
+            "A prominent Senator",
+            "The Delta pilot"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US President's actions were being protested in the 'No Kings' demonstrations?",
-        "a": "Donald Trump",
+        "q": "Who is the US Solicitor General mentioned in connection with Trump's attempt to limit birthright citizenship?",
+        "a": "John Sauer",
         "options": [
-            "Donald Trump",
+            "Cecillia Wang",
+            "Amanda Frost",
+            "John Sauer",
+            "Brett Kavanaugh",
+            "Sonia Sotomayor"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who previously criticized the administration\u2019s stance on birthright citizenship, saying it 'makes no sense whatsoever'?",
+        "a": "Justice Sonia Sotomayor",
+        "options": [
+            "Justice Brett Kavanaugh",
+            "Justice John Roberts",
+            "Justice Sonia Sotomayor",
+            "Justice Amy Coney Barrett",
+            "Justice Clarence Thomas"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who questioned how hospitals and states would determine a newborn\u2019s citizenship status under the proposed policy?",
+        "a": "Justice Brett Kavanaugh",
+        "options": [
+            "Justice Sonia Sotomayor",
+            "Justice Elena Kagan",
+            "Justice Stephen Breyer",
+            "Justice Brett Kavanaugh",
+            "Justice Neil Gorsuch"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who claimed that Iran destroyed an E-3 Sentry AWACS plane?",
+        "a": "Iran",
+        "options": [
+            "United States",
+            "Saudi Arabia",
+            "Iran",
+            "Russia",
+            "Ukraine"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organization carried out the operation that destroyed the E-3 Sentry AWACS plane, according to Iranian state broadcaster?",
+        "a": "Islamic Revolutionary Guard Corps (IRGC)",
+        "options": [
+            "Iranian Army",
+            "Hezbollah",
+            "Islamic Revolutionary Guard Corps (IRGC)",
+            "Hamas",
+            "Ansar Allah"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who shared intelligence with NBC News regarding Russia's potential role in the Iranian strike?",
+        "a": "President Volodymyr Zelenskyy",
+        "options": [
+            "Vladimir Putin",
+            "Volodymyr Zelenskyy",
             "Joe Biden",
-            "Barack Obama",
-            "George W. Bush",
-            "Bill Clinton"
+            "Benjamin Netanyahu",
+            "King Salman"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the co-executive director of Indivisible, the group leading the 'No Kings' movement?",
-        "a": "Ezra Levin",
+        "q": "Who is the Assistant Editor at Live Mint mentioned in the article?",
+        "a": "Bobins",
         "options": [
-            "Ezra Levin",
-            "Bill Jarcho",
-            "Robert DeNiro",
-            "Ada Shen",
-            "Mausam Jha"
+            "Gulam Jeelani",
+            "Sugam Singhal",
+            "Bobins",
+            "Chanchal",
+            "Sanchari Ghosh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Premier of Italy, mentioned in the context of protests in Rome?",
-        "a": "Giorgia Meloni",
+        "q": "Who accused Russia of helping Iran in its war against the United States and Israel?",
+        "a": "Ukrainian President Volodymyr Zelenskyy",
         "options": [
-            "Giorgia Meloni",
-            "Ursula von der Leyen",
+            "US President Donald Trump",
+            "Benjamin Netanyahu",
+            "Ukrainian President Volodymyr Zelenskyy",
             "Emmanuel Macron",
-            "Rishi Sunak",
-            "Olaf Scholz"
+            "Rishi Sunak"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the journalist featured at the end of the news text, focusing on world affairs and politics?",
-        "a": "Mausam Jha",
+        "q": "Who is the EU's top diplomat who echoed Zelenskyy's accusations against Russia regarding assistance to Iran?",
+        "a": "Kaja Kallas",
         "options": [
+            "Ursula von der Leyen",
+            "Christine Lagarde",
+            "Kaja Kallas",
+            "Roberta Metsola",
+            "Annalena Baerbock"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who announced the partial lifting of sanctions against Russia weeks after Operation Epic Fury and Operation Rising Lion?",
+        "a": "US President Donald Trump",
+        "options": [
+            "US President Joe Biden",
+            "US President Donald Trump",
+            "UK Prime Minister",
+            "EU President",
+            "NATO Secretary General"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was arrested for allegedly killing his paramour and dismembering her body in Visakhapatnam\u2019s Gajuwaka area?",
+        "a": "Ch. Ravindra",
+        "options": [
+            "Ravi Kumar",
+            "Suresh Reddy",
+            "Ch. Ravindra",
+            "Anil Sharma",
+            "Gopal Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the AIDSO\u2019s state treasurer who addressed the protest in Kushalnagar?",
+        "a": "Subhash Bettadakoppa",
+        "options": [
+            "Abhaya Diwakar",
+            "Subhash Bettadakoppa",
+            "Sanchari Ghosh",
+            "Gulam Jeelani",
+            "Riya R Alex"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the AIDSO\u2019s State vice president who addressed the protest against school closures?",
+        "a": "Abhaya Diwakar",
+        "options": [
+            "Subhash Bettadakoppa",
+            "Abhaya Diwakar",
             "Mausam Jha",
-            "Lakshmi Suresh",
-            "Anitha Kumary L.",
-            "Mary George",
-            "Ada Shen"
+            "Garvit Bhirani",
+            "Jocelyn Felix Fernandes"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the homemaker in Mannanthala, Thiruvananthapuram, quoted discussing the impact of inflation?",
-        "a": "Lakshmi Suresh",
+        "q": "Near which airport did the security scare involving a suspected drone occur?",
+        "a": "Palm Beach International Airport (PBI)",
         "options": [
-            "Lakshmi Suresh",
-            "Anitha Kumary L.",
-            "Mary George",
-            "Wendy Wyatt",
-            "Ada Shen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Kerala State Planning Board member who highlighted the state's universal food security framework?",
-        "a": "K. Ravi Raman",
-        "options": [
-            "K. Ravi Raman",
-            "John Samuel",
-            "Anitha Kumary L.",
-            "Mary George",
-            "Ezra Levin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Visiting Faculty at Gulati Institute of Finance and Taxation, crediting government market intervention schemes?",
-        "a": "Anitha Kumary L.",
-        "options": [
-            "Anitha Kumary L.",
-            "Mary George",
-            "Lakshmi Suresh",
-            "Wendy Wyatt",
-            "Ada Shen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which public policy expert argued that Kerala\u2019s market intervention has not been up to the mark?",
-        "a": "John Samuel",
-        "options": [
-            "John Samuel",
-            "K. Ravi Raman",
-            "Anitha Kumary L.",
-            "Mary George",
-            "Ezra Levin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which economist pointed to recurring shortages in Supplyco outlets and a decline in supplier participation?",
-        "a": "Mary George",
-        "options": [
-            "Mary George",
-            "Anitha Kumary L.",
-            "Lakshmi Suresh",
-            "Wendy Wyatt",
-            "Ada Shen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the appellant in the Supreme Court case ruling that a pastor converted to Christianity could not claim SC status?",
-        "a": "Chinthada Anand",
-        "options": [
-            "Chinthada Anand",
-            "K.G. Balakrishnan",
-            "B.R. Ambedkar",
-            "Prashant Kumar Mishra",
-            "Manmohan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which former Chief Justice of India heads the Commission of Inquiry examining the issue of SC status for converts to Islam and Christianity?",
-        "a": "K.G. Balakrishnan",
-        "options": [
-            "K.G. Balakrishnan",
-            "Prashant Kumar Mishra",
-            "Manmohan",
-            "B.R. Ambedkar",
-            "D.Y. Chandrachud"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the social reformer whose call led to a large number of people turning to Buddhism, resulting in an amendment to the SC Order?",
-        "a": "Dr. B.R. Ambedkar",
-        "options": [
-            "Dr. B.R. Ambedkar",
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "Sardar Patel",
-            "Subhas Chandra Bose"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which state became the focal point of the 'No Kings' movement in the United States?",
-        "a": "Minnesota",
-        "options": [
-            "Minnesota",
-            "New York",
-            "California",
-            "Washington",
-            "Idaho"
+            "Miami International Airport",
+            "Orlando International Airport",
+            "Palm Beach International Airport (PBI)",
+            "Fort Lauderdale-Hollywood International Airport",
+            "Tampa International Airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did Bruce Springsteen play his song 'Streets of Minneapolis' at the rally?",
-        "a": "St. Paul Capitol lawn",
+        "q": "Where was US President Donald Trump when the drone incident occurred?",
+        "a": "His golf club in West Palm Beach",
         "options": [
-            "St. Paul Capitol lawn",
-            "Minneapolis city center",
-            "New York City",
-            "Washington D.C.",
-            "San Diego"
+            "The White House",
+            "Mar-a-Lago resort",
+            "His golf club in West Palm Beach",
+            "Air Force One",
+            "Camp David"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which small town in eastern Idaho, with fewer than 2,000 residents, hosted 'No Kings' demonstrations?",
-        "a": "Driggs",
+        "q": "Where were the images of the severely damaged E-3 Sentry AWACS jet surfaced online?",
+        "a": "Prince Sultan Air Base in Saudi Arabia",
         "options": [
-            "Driggs",
-            "Topeka",
-            "Lawrence",
-            "Seattle",
-            "San Diego"
+            "Al Udeid Air Base in Qatar",
+            "Incirlik Air Base in T\u00fcrkiye",
+            "Prince Sultan Air Base in Saudi Arabia",
+            "Diego Garcia",
+            "Kuwait International Airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did hundreds march past the Lincoln Memorial and into the National Mall as part of the protests?",
-        "a": "Washington",
+        "q": "Where did the KC-135 Stratotanker crash on March 12, 2026?",
+        "a": "Western Iraq",
         "options": [
-            "Washington",
-            "New York City",
-            "San Diego",
-            "Minneapolis",
-            "St. Paul"
+            "Eastern Syria",
+            "Western Iraq",
+            "Southern Iran",
+            "Northern Saudi Arabia",
+            "Central Afghanistan"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city was named the national flagship event location for the 'No Kings' rally?",
-        "a": "San Diego",
+        "q": "From which airport did a KC-135 Stratotanker declare an emergency mid-air, according to UK media reports?",
+        "a": "Ben Gurion Airport in Israel",
         "options": [
-            "San Diego",
-            "Minneapolis",
-            "St. Paul",
-            "New York City",
-            "Washington"
+            "London Heathrow",
+            "Ben Gurion Airport in Israel",
+            "Dubai International Airport",
+            "King Fahd International Airport",
+            "Cairo International Airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is Bruce Springsteen's 'Land of Hope & Dreams American tour' set to begin?",
-        "a": "Minneapolis",
+        "q": "Which island in the Indian Ocean, a US-UK joint military facility, was imaged by Russian satellites on March 24?",
+        "a": "Diego Garcia",
         "options": [
-            "Minneapolis",
-            "St. Paul",
-            "New York City",
-            "San Diego",
-            "Washington"
+            "Maldives",
+            "Sri Lanka",
+            "Diego Garcia",
+            "Mauritius",
+            "Seychelles"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which European city did thousands march, chanting in opposition to Premier Giorgia Meloni?",
-        "a": "Rome",
+        "q": "Which airport in Kuwait was photographed by Russian satellites on March 24?",
+        "a": "Kuwait International Airport",
         "options": [
-            "Rome",
-            "London",
-            "Paris",
-            "Berlin",
-            "Madrid"
+            "Jazeera Airport",
+            "Kuwait City Airport",
+            "Kuwait International Airport",
+            "Failaka Island Airport",
+            "Subiya International Airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city did protesters hold banners that said, 'Stop the far right' and 'Stand up to Racism' in connection with the war in Iran?",
-        "a": "London",
+        "q": "Which air base in T\u00fcrkiye was imaged by Russian satellites on March 26th?",
+        "a": "\u0130ncirlik Air Base",
         "options": [
-            "London",
-            "Paris",
-            "Rome",
-            "Berlin",
-            "Madrid"
+            "Konya Air Base",
+            "Eski\u015fehir Air Base",
+            "\u0130ncirlik Air Base",
+            "Diyarbak\u0131r Air Base",
+            "Bandirma Air Base"
         ],
         "cat": "Where"
     },
     {
-        "q": "On Saturday morning, several hundred people gathered at the Bastille in which European city for a 'No Kings' protest?",
-        "a": "Paris",
+        "q": "Which air base in Qatar was imaged by Russian satellites on March 26th?",
+        "a": "Al Udeid Air Base",
         "options": [
-            "Paris",
-            "London",
-            "Rome",
-            "Berlin",
-            "Madrid"
+            "Doha International Airport",
+            "Al Khor Airport",
+            "Al Udeid Air Base",
+            "Dukhan Air Base",
+            "Hamad International Airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which state are Assembly elections being discussed in the context of inflation affecting voter sentiment?",
-        "a": "Kerala",
+        "q": "In which city did the incident involving a Florida man transporting objects resembling missiles occur?",
+        "a": "Near Tampa",
         "options": [
-            "Kerala",
-            "Andhra Pradesh",
-            "Karnataka",
-            "Tamil Nadu",
-            "Telangana"
+            "Near Miami",
+            "Near Orlando",
+            "Near Tampa",
+            "Near Jacksonville",
+            "Near Naples"
         ],
         "cat": "Where"
     },
     {
-        "q": "Chinthada Anand, the pastor denied SC status, was from which Indian state?",
-        "a": "Andhra Pradesh",
+        "q": "In which area of Visakhapatnam did the gruesome murder and dismemberment incident occur?",
+        "a": "Gajuwaka area",
         "options": [
-            "Andhra Pradesh",
-            "Telangana",
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka"
+            "Dwaraka Nagar",
+            "MVP Colony",
+            "Gajuwaka area",
+            "Maddilapalem",
+            "Akkayyapalem"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which states has there been a rise in Adivasi movements insisting that ST communities converted to other faiths be disentitled from statutory benefits?",
-        "a": "Chhattisgarh and Jharkhand",
+        "q": "Where was the protest against the closure of government schools under the KPS Magnet scheme organized in Kodagu district?",
+        "a": "Mahila Samaja Bhavan in Kushalnagar",
         "options": [
-            "Chhattisgarh and Jharkhand",
-            "Nagaland and Mizoram",
-            "Odisha and West Bengal",
-            "Madhya Pradesh and Rajasthan",
-            "Gujarat and Maharashtra"
+            "Gonikoppal Town Hall",
+            "Kutta Community Center",
+            "Kudige Auditorium",
+            "Shirangala Village Square",
+            "Mahila Samaja Bhavan in Kushalnagar"
         ],
         "cat": "Where"
     },
     {
-        "q": "As of which month was the national average Consumer Food Price Index (CFPI) reported as 3.47%?",
-        "a": "February",
+        "q": "When are the oral arguments on President Donald Trump\u2019s attempt to limit birthright citizenship scheduled to begin?",
+        "a": "Wednesday (April 1)",
         "options": [
-            "February",
-            "March",
-            "January",
-            "April",
-            "December"
+            "Monday (March 30)",
+            "Tuesday (March 31)",
+            "Wednesday (April 1)",
+            "Thursday (April 2)",
+            "Friday (April 3)"
         ],
         "cat": "When"
     },
     {
-        "q": "Since which financial year has nearly \u20b910,000 crore been allocated to food security and subsidies in Kerala?",
-        "a": "2020-21",
+        "q": "By when is a final ruling expected on President Trump's attempt to limit birthright citizenship?",
+        "a": "Within three months",
         "options": [
-            "2020-21",
-            "2019-20",
-            "2021-22",
-            "2018-19",
-            "2022-23"
+            "Within one month",
+            "Within six months",
+            "Within three months",
+            "Within two months",
+            "Within four months"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Supreme Court rule in Chinthada Anand vs State of Andhra Pradesh?",
-        "a": "March 24",
+        "q": "The Executive Order on birthright citizenship seeks to deny automatic citizenship after what date?",
+        "a": "February 19, 2025",
         "options": [
-            "March 24",
-            "March 23",
-            "March 25",
-            "April 24",
-            "February 24"
+            "January 1, 2025",
+            "March 1, 2025",
+            "February 19, 2025",
+            "April 1, 2025",
+            "February 29, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the Constitution (Scheduled Castes) Order originally issued?",
-        "a": "1950",
+        "q": "In what year did the landmark ruling in United States v. Wong Kim Ark, establishing the foundation of modern birthright citizenship, occur?",
+        "a": "1898",
         "options": [
-            "1950",
-            "1947",
-            "1952",
-            "1960",
-            "1970"
+            "1890",
+            "1900",
+            "1898",
+            "1888",
+            "1908"
         ],
         "cat": "When"
     },
     {
-        "q": "In which decade was Sikhism first included in the Constitution (SC) Order?",
-        "a": "1950s",
+        "q": "On what date did the KC-135 Stratotanker crash in western Iraq?",
+        "a": "March 12, 2026",
         "options": [
-            "1950s",
-            "1960s",
-            "1970s",
-            "1980s",
-            "1990s"
+            "March 10, 2026",
+            "March 15, 2026",
+            "March 12, 2026",
+            "March 11, 2026",
+            "March 13, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was Buddhism included in the Constitution (SC) Order?",
-        "a": "1990",
+        "q": "When did Bobins join Live Mint?",
+        "a": "February 2026",
         "options": [
-            "1990",
-            "1980",
-            "2000",
-            "1995",
-            "1985"
+            "January 2026",
+            "March 2026",
+            "February 2026",
+            "December 2025",
+            "April 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the petition to accord SC status for Dalit Christians and Muslims first filed?",
-        "a": "2004",
+        "q": "When did Ukrainian President Volodymyr Zelenskyy accuse Russia of helping Iran by providing satellite images of US military facilities?",
+        "a": "Saturday (local time)",
         "options": [
-            "2004",
-            "2000",
-            "2008",
-            "1999",
-            "2010"
+            "Friday (local time)",
+            "Sunday (local time)",
+            "Saturday (local time)",
+            "Monday (local time)",
+            "Thursday (local time)"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Centre constitute a Commission of Inquiry headed by K.G. Balakrishnan to examine the issue of SC status for converts?",
-        "a": "October 2022",
+        "q": "On what date did Russian satellites image the US-UK joint military facility on Diego Garcia, according to Zelenskyy?",
+        "a": "24 March",
         "options": [
-            "October 2022",
-            "September 2022",
-            "November 2022",
-            "August 2022",
-            "December 2022"
+            "23 March",
+            "25 March",
+            "24 March",
+            "22 March",
+            "26 March"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the deadline for the Commission of Inquiry headed by K.G. Balakrishnan to submit its report?",
-        "a": "April this year",
+        "q": "On what date did Russian satellites image the Prince Sultan Air Base in Saudi Arabia, according to Zelenskyy?",
+        "a": "25 March",
         "options": [
-            "April this year",
-            "May this year",
-            "March this year",
-            "June this year",
-            "February this year"
+            "24 March",
+            "26 March",
+            "25 March",
+            "23 March",
+            "27 March"
         ],
         "cat": "When"
     },
     {
-        "q": "What was one of the primary reasons for the 'No Kings' demonstrations, as stated in the news?",
-        "a": "To protest the war in Iran and actions of US President Donald Trump",
+        "q": "On what date did Russian satellites image the Shaybah oil and gas field, \u0130ncirlik Air Base, and Al Udeid Air Base, according to Zelenskyy?",
+        "a": "March 26th",
         "options": [
-            "To protest the war in Iran and actions of US President Donald Trump",
-            "To support President Trump's policies",
-            "To advocate for monarchies",
-            "To celebrate national holidays",
-            "To promote peace in the Middle East only"
+            "March 25th",
+            "March 27th",
+            "March 26th",
+            "March 24th",
+            "March 28th"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the gruesome murder in Visakhapatnam's Gajuwaka area come to light?",
+        "a": "Sunday (March 29, 2026) night",
+        "options": [
+            "Saturday (March 28, 2026) night",
+            "Monday (March 30, 2026) night",
+            "Sunday (March 29, 2026) night",
+            "Friday (March 27, 2026) night",
+            "Tuesday (March 31, 2026) night"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the reason for the temporary ground stop at Palm Beach International Airport?",
+        "a": "A security scare involving a suspected drone",
+        "options": [
+            "Adverse weather conditions",
+            "VIP arrival protocol",
+            "A security scare involving a suspected drone",
+            "Air traffic control technical issue",
+            "Aircraft maintenance checks"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to Bruce Springsteen, what did people's continued pushback against US Customs and Immigration Enforcement signify?",
-        "a": "That 'this was still America' and the 'reactionary nightmare' would not stand",
+        "q": "What is the main argument of opponents, like the ACLU, against President Trump's executive order on birthright citizenship?",
+        "a": "It violates long-standing legal precedent and constitutional protections",
         "options": [
-            "That 'this was still America' and the 'reactionary nightmare' would not stand",
-            "A call for more immigration enforcement",
-            "Support for federal agents",
-            "A desire for monarchical rule",
-            "A preference for specific political parties"
+            "It is economically unfeasible",
+            "It violates long-standing legal precedent and constitutional protections",
+            "It would increase administrative burden",
+            "It goes against international humanitarian laws",
+            "It would not deter undocumented immigration"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary grievance regarding the Trump administration for Wendy Wyatt, despite her hope?",
-        "a": "Aggressive immigration enforcement",
+        "q": "Why did President Zelenskyy criticize the partial lifting of sanctions against Russia by US President Donald Trump?",
+        "a": "He believed it was not pressure on the aggressor and helped Russia earn revenue and provide intelligence for strikes",
         "options": [
-            "Aggressive immigration enforcement",
-            "Economic prosperity",
-            "Tax cuts",
-            "Foreign policy successes",
-            "Border security measures"
+            "It would hurt Ukraine's economy",
+            "It would lead to a new cold war",
+            "He believed it was not pressure on the aggressor and helped Russia earn revenue and provide intelligence for strikes",
+            "It would strengthen Russia's alliance with China",
+            "It would not solve the energy crisis"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific issue did the referendum in Italy, which faced criticism, aim to streamline?",
-        "a": "Italy\u2019s judiciary",
+        "q": "What is the primary concern raised by AIDSO regarding the KPS Magnet scheme in Kodagu district?",
+        "a": "It will deprive children of coffee estate workers, adivasis, and poor farmers of education due to school closures and lack of facilities",
         "options": [
-            "Italy\u2019s judiciary",
-            "Economic policy",
-            "Immigration laws",
-            "Healthcare system",
-            "Electoral process"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why do protesters in Rome also carry banners condemning Israeli and US strikes on Iran?",
-        "a": "To call for 'a world free from wars'",
-        "options": [
-            "To call for 'a world free from wars'",
-            "To support military action",
-            "To promote specific alliances",
-            "To condemn Italy's foreign policy",
-            "To advocate for a single-nation world order"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary factor that has emerged as a defining undercurrent shaping voter sentiment in Kerala's Assembly elections?",
-        "a": "Inflation and prices",
-        "options": [
-            "Inflation and prices",
-            "Political slogans",
-            "Social issues",
-            "Infrastructural development",
-            "Environmental policies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the Supreme Court ruling, why can a person who professes a religion different from Hindu, Sikh, or Buddhist not be deemed a member of a Scheduled Caste?",
-        "a": "Because the Constitution (Scheduled Castes) Order, 1950, explicitly bars it.",
-        "options": [
-            "Because the Constitution (Scheduled Castes) Order, 1950, explicitly bars it.",
-            "Because such religions do not exist in India",
-            "Because it encourages conversion",
-            "Because it is difficult to track their original caste",
-            "Because there is no legal precedent."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the Union Government's main argument for excluding Dalit Muslims and Christians from SC status?",
-        "a": "The 'foreign origin' of these faiths compared to Hinduism, Sikhism, and Buddhism.",
-        "options": [
-            "The 'foreign origin' of these faiths compared to Hinduism, Sikhism, and Buddhism.",
-            "Their small population size",
-            "Lack of historical evidence",
-            "Economic prosperity of these communities",
-            "Difficulty in administrative classification."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does the term 'profess' in the Constitution (SC) Order 'connote' according to the Supreme Court?",
-        "a": "To publicly declare or practice a religion",
-        "options": [
-            "To publicly declare or practice a religion",
-            "To privately believe in a religion",
-            "To be born into a religion",
-            "To study religious texts",
-            "To simply identify with a religion"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary reason why conversion to Christianity results in an immediate loss of Scheduled Caste status, regardless of birth?",
-        "a": "Christianity, by its very theological foundation, does not recognise or incorporate the institution of caste.",
-        "options": [
-            "Christianity, by its very theological foundation, does not recognise or incorporate the institution of caste.",
-            "It is a foreign religion",
-            "It discourages social upliftment",
-            "It is against Indian constitutional principles",
-            "It promotes inequality"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the consequence of losing Scheduled Caste status by virtue of converting faith?",
-        "a": "Automatic termination of all eligibility for statutory benefits, protections, reservations, preferences and entitlements.",
-        "options": [
-            "Automatic termination of all eligibility for statutory benefits, protections, reservations, preferences and entitlements.",
-            "Only loss of reservation in education",
-            "Loss of social standing only",
-            "Requirement to reapply for all benefits",
-            "No significant change in benefits"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why was the Constitution (SC) Order amended to include Buddhism in 1990?",
-        "a": "In response to a large number of people turning to Buddhism, heeding Dr. B.R. Ambedkar\u2019s call.",
-        "options": [
-            "In response to a large number of people turning to Buddhism, heeding Dr. B.R. Ambedkar\u2019s call.",
-            "To promote religious diversity",
-            "To align with international norms",
-            "To correct a historical oversight",
-            "To simplify administrative processes"
+            "It lacks proper funding mechanisms",
+            "It will lead to overcrowded schools",
+            "It will deprive children of coffee estate workers, adivasis, and poor farmers of education due to school closures and lack of facilities",
+            "It promotes religious education",
+            "It relies too heavily on technology"
         ],
         "cat": "Why"
     }
