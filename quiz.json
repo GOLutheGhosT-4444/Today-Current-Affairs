@@ -1,721 +1,817 @@
 [
     {
-        "q": "What was the estimated value of the E-3 Sentry AWACS plane destroyed by Iran?",
-        "a": "$300 million",
+        "q": "What was the Brent crude oil price on Monday mentioned in the news?",
+        "a": "$116",
         "options": [
-            "$310 million",
-            "$290 million",
-            "$300 million",
-            "$305 million",
-            "$295 million"
+            "$110",
+            "$120",
+            "$116",
+            "$115",
+            "$125"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many children born annually to noncitizen parents could be affected by the proposed birthright citizenship policy?",
-        "a": "150,000",
+        "q": "The WTI benchmark settled at what price, its highest closing level since July 2022?",
+        "a": "$102.88",
         "options": [
-            "160,000",
-            "140,000",
-            "150,000",
-            "155,000",
-            "145,000"
+            "$100.88",
+            "$103.88",
+            "$102.88",
+            "$101.88",
+            "$104.88"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated cost range for losses and repairs of US military assets in the first three weeks of the war with Iran?",
-        "a": "$1.4 billion and $2.9 billion",
+        "q": "By what percentage has the Brent crude oil benchmark risen since the war began?",
+        "a": "50%",
         "options": [
-            "$1.3 billion and $2.8 billion",
-            "$1.5 billion and $3.0 billion",
-            "$1.4 billion and $2.9 billion",
-            "$1.35 billion and $2.95 billion",
-            "$1.45 billion and $2.85 billion"
+            "45%",
+            "55%",
+            "50%",
+            "48%",
+            "52%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many crew members died in the KC-135 Stratotanker crash in western Iraq on March 12, 2026?",
-        "a": "6",
+        "q": "How many additional troops is the Trump administration mulling deploying in the region?",
+        "a": "10,000",
         "options": [
-            "5",
-            "7",
-            "6",
-            "4",
-            "8"
+            "8,000",
+            "12,000",
+            "10,000",
+            "9,000",
+            "11,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many military aircraft had the US reportedly lost during Operation Epic Fury up to the time of the report?",
-        "a": "16",
+        "q": "How many US Marines are included in the additional troops the Trump administration is considering deploying?",
+        "a": "5,000",
         "options": [
-            "15",
-            "17",
-            "16",
-            "14",
-            "18"
+            "4,500",
+            "5,500",
+            "5,000",
+            "4,800",
+            "5,200"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many MQ-9 Reaper drones were reportedly lost by the US during Operation Epic Fury?",
-        "a": "10-12",
+        "q": "How many troops and sailors reached the region aboard the USS Tripoli, as per CENTCOM?",
+        "a": "3,500",
         "options": [
-            "9-11",
-            "11-13",
-            "10-12",
-            "10-13",
-            "9-12"
+            "3,000",
+            "4,000",
+            "3,500",
+            "3,200",
+            "3,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many F-15E Strike Eagle fighters were lost to friendly fire during Operation Epic Fury?",
-        "a": "3",
+        "q": "Air India and Air India Express will together operate how many scheduled and non-scheduled flights to and from the West Asia region?",
+        "a": "36",
+        "options": [
+            "30",
+            "40",
+            "36",
+            "32",
+            "38"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many Israeli soldiers died in operations in southern Lebanon on Tuesday?",
+        "a": "4",
         "options": [
             "2",
+            "5",
             "4",
             "3",
-            "5",
-            "1"
+            "6"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years of experience does Bobins have as a journalist?",
-        "a": "14",
+        "q": "How many Israeli soldiers were reported hurt in operations in southern Lebanon on Tuesday?",
+        "a": "3",
         "options": [
-            "13",
-            "15",
-            "14",
-            "12",
-            "16"
+            "1",
+            "4",
+            "3",
+            "2",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many government schools is the current Congress government proposing to shut down under the KPS Magnet Scheme?",
-        "a": "40,000",
+        "q": "What was the security deposit paid by the Bengaluru tenant for his 1BHK apartment?",
+        "a": "\u20b91 lakh",
         "options": [
-            "39,000",
-            "41,000",
-            "40,000",
-            "39,500",
-            "40,500"
+            "\u20b990,000",
+            "\u20b91.1 lakh",
+            "\u20b91 lakh",
+            "\u20b995,000",
+            "\u20b91.05 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much loan is the government taking from the Asian Development Bank to open KPS Magnet schools?",
-        "a": "\u20b92,500 crore",
+        "q": "The Bengaluru tenant was told to expect deductions exceeding what amount from his security deposit?",
+        "a": "\u20b920,000",
         "options": [
-            "\u20b92,400 crore",
-            "\u20b92,600 crore",
-            "\u20b92,500 crore",
-            "\u20b92,450 crore",
-            "\u20b92,550 crore"
+            "\u20b915,000",
+            "\u20b925,000",
+            "\u20b920,000",
+            "\u20b918,000",
+            "\u20b922,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many posts of teachers are currently vacant in the state, according to AIDSO's state treasurer?",
-        "a": "62,000",
+        "q": "What is the cap on loans to individuals against eligible securities, at banking system level, as clarified by the RBI?",
+        "a": "\u20b91 crore",
         "options": [
-            "61,000",
-            "63,000",
-            "62,000",
-            "61,500",
-            "62,500"
+            "\u20b950 lakh",
+            "\u20b91.5 crore",
+            "\u20b91 crore",
+            "\u20b975 lakh",
+            "\u20b91.25 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many schools are run by single teachers in the state, according to AIDSO's state treasurer?",
-        "a": "Over 7,000",
+        "q": "What is the cap for loans to individuals for subscribing to shares under IPO, FPO, or ESOP, at banking system level?",
+        "a": "\u20b925 lakh",
         "options": [
-            "Over 6,000",
-            "Over 8,000",
-            "Over 7,000",
-            "Over 6,500",
-            "Over 7,500"
+            "\u20b920 lakh",
+            "\u20b930 lakh",
+            "\u20b925 lakh",
+            "\u20b922 lakh",
+            "\u20b928 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many school buildings need urgent repairs in the state, according to AIDSO's state treasurer?",
-        "a": "23,000",
+        "q": "What is the interest rate for the Sukanya Samriddhi Scheme for Q1 FY 2026-27?",
+        "a": "8.2%",
         "options": [
-            "22,000",
-            "24,000",
-            "23,000",
-            "22,500",
-            "23,500"
+            "8.0%",
+            "8.5%",
+            "8.2%",
+            "8.1%",
+            "8.3%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many government schools were reportedly slated for closure in Kodagu district under the KPS Magnet scheme?",
-        "a": "235",
+        "q": "What is the interest rate for a three-year term deposit for Q1 FY 2026-27?",
+        "a": "7.1%",
         "options": [
-            "225",
-            "245",
-            "235",
-            "230",
-            "240"
+            "7.0%",
+            "7.2%",
+            "7.1%",
+            "7.3%",
+            "7.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many selected Magnet schools are these 235 government schools proposed to be merged into?",
-        "a": "Five",
+        "q": "What is the interest rate for Public Provident Fund (PPF) for Q1 FY 2026-27?",
+        "a": "7.1%",
         "options": [
-            "Four",
-            "Six",
-            "Five",
-            "Three",
-            "Seven"
+            "7.0%",
+            "7.2%",
+            "7.1%",
+            "7.3%",
+            "7.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many US troops were injured in the attack on Prince Sultan Air Base in Saudi Arabia?",
-        "a": "At least 15",
+        "q": "What is the interest rate for post office savings deposit schemes for Q1 FY 2026-27?",
+        "a": "4%",
         "options": [
-            "At least 14",
-            "At least 16",
-            "At least 15",
-            "At least 13",
-            "At least 17"
+            "3.5%",
+            "4.5%",
+            "4%",
+            "3.8%",
+            "4.2%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate duration of the delay in departures at Palm Beach International Airport due to the drone incident?",
-        "a": "About an hour-long",
+        "q": "What is the interest rate for Kisan Vikas Patra for Q1 FY 2026-27?",
+        "a": "7.5%",
         "options": [
-            "About 30 minutes",
-            "About 90 minutes",
-            "About an hour-long",
-            "About 45 minutes",
-            "About 75 minutes"
+            "7.3%",
+            "7.6%",
+            "7.5%",
+            "7.4%",
+            "7.7%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many schools did the previous BJP Government attempt to close in the name of 'merging'?",
-        "a": "13,800",
+        "q": "What is the interest rate for the National Savings Certificate (NSC) for Q1 FY 2026-27?",
+        "a": "7.7%",
         "options": [
-            "13,700",
-            "13,900",
-            "13,800",
-            "13,750",
-            "13,850"
+            "7.5%",
+            "7.8%",
+            "7.7%",
+            "7.6%",
+            "7.9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who reported the security scare involving a suspected drone near Air Force One at Palm Beach International Airport?",
-        "a": "CBS12",
+        "q": "What is the interest rate for the monthly income scheme for Q1 FY 2026-27?",
+        "a": "7.4%",
         "options": [
-            "ABC News",
-            "CNN",
-            "CBS12",
-            "Fox News",
-            "NBC News"
+            "7.0%",
+            "7.2%",
+            "7.4%",
+            "7.3%",
+            "7.5%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who was scheduled to depart from PBI for the White House on the day of the drone incident?",
-        "a": "US President Donald Trump",
+        "q": "India's fiscal deficit in April-February was what amount?",
+        "a": "\u20b912,50,000 crore",
         "options": [
-            "US Vice President Kamala Harris",
-            "US President Donald Trump",
-            "US Secretary of State",
-            "A prominent Senator",
-            "The Delta pilot"
+            "\u20b912,00,000 crore",
+            "\u20b913,00,000 crore",
+            "\u20b912,50,000 crore",
+            "\u20b912,25,000 crore",
+            "\u20b912,75,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the US Solicitor General mentioned in connection with Trump's attempt to limit birthright citizenship?",
-        "a": "John Sauer",
+        "q": "Net tax receipts in April-February were what amount?",
+        "a": "\u20b921,50,000 crore",
         "options": [
-            "Cecillia Wang",
-            "Amanda Frost",
-            "John Sauer",
-            "Brett Kavanaugh",
-            "Sonia Sotomayor"
+            "\u20b921,00,000 crore",
+            "\u20b922,00,000 crore",
+            "\u20b921,50,000 crore",
+            "\u20b921,25,000 crore",
+            "\u20b921,75,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who previously criticized the administration\u2019s stance on birthright citizenship, saying it 'makes no sense whatsoever'?",
-        "a": "Justice Sonia Sotomayor",
+        "q": "Non-tax revenue in April-February stood at what amount?",
+        "a": "\u20b95,80,000 crore",
         "options": [
-            "Justice Brett Kavanaugh",
-            "Justice John Roberts",
-            "Justice Sonia Sotomayor",
-            "Justice Amy Coney Barrett",
-            "Justice Clarence Thomas"
+            "\u20b95,50,000 crore",
+            "\u20b96,00,000 crore",
+            "\u20b95,80,000 crore",
+            "\u20b95,70,000 crore",
+            "\u20b95,90,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who questioned how hospitals and states would determine a newborn\u2019s citizenship status under the proposed policy?",
-        "a": "Justice Brett Kavanaugh",
+        "q": "Total government expenditure in April-February was what amount?",
+        "a": "\u20b940,40,000 crore",
         "options": [
-            "Justice Sonia Sotomayor",
-            "Justice Elena Kagan",
-            "Justice Stephen Breyer",
-            "Justice Brett Kavanaugh",
-            "Justice Neil Gorsuch"
+            "\u20b940,00,000 crore",
+            "\u20b941,00,000 crore",
+            "\u20b940,40,000 crore",
+            "\u20b940,20,000 crore",
+            "\u20b940,60,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who claimed that Iran destroyed an E-3 Sentry AWACS plane?",
-        "a": "Iran",
+        "q": "Capital expenditure in April-February was what amount?",
+        "a": "\u20b99,30,000 crore",
         "options": [
-            "United States",
-            "Saudi Arabia",
-            "Iran",
-            "Russia",
-            "Ukraine"
+            "\u20b99,00,000 crore",
+            "\u20b99,50,000 crore",
+            "\u20b99,30,000 crore",
+            "\u20b99,20,000 crore",
+            "\u20b99,40,000 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which organization carried out the operation that destroyed the E-3 Sentry AWACS plane, according to Iranian state broadcaster?",
-        "a": "Islamic Revolutionary Guard Corps (IRGC)",
+        "q": "The government approved 29 applications under the electronics component manufacturing scheme, entailing a cumulative investment of what amount?",
+        "a": "\u20b97,104 crore",
         "options": [
-            "Iranian Army",
-            "Hezbollah",
-            "Islamic Revolutionary Guard Corps (IRGC)",
-            "Hamas",
-            "Ansar Allah"
+            "\u20b97,000 crore",
+            "\u20b97,200 crore",
+            "\u20b97,104 crore",
+            "\u20b97,050 crore",
+            "\u20b97,150 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who shared intelligence with NBC News regarding Russia's potential role in the Iranian strike?",
-        "a": "President Volodymyr Zelenskyy",
+        "q": "The new investment proposals under the electronics component manufacturing scheme will create how many new jobs?",
+        "a": "14,246",
         "options": [
-            "Vladimir Putin",
-            "Volodymyr Zelenskyy",
+            "14,000",
+            "14,500",
+            "14,246",
+            "14,100",
+            "14,300"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The new applications under the electronics component manufacturing scheme will lead to the production of electronics components worth what amount?",
+        "a": "\u20b984,515 crore",
+        "options": [
+            "\u20b984,000 crore",
+            "\u20b985,000 crore",
+            "\u20b984,515 crore",
+            "\u20b984,300 crore",
+            "\u20b984,700 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Iran launched almost how many ballistic missiles at Gulf countries since the war began?",
+        "a": "1,200",
+        "options": [
+            "1,000",
+            "1,500",
+            "1,200",
+            "1,100",
+            "1,300"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Iran launched almost how many rudimentary Shahed cruise missiles at Gulf countries since the war began?",
+        "a": "4,000",
+        "options": [
+            "3,500",
+            "4,500",
+            "4,000",
+            "3,800",
+            "4,200"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "At least how many interceptors were fired over the course of the war, given the shoot-shoot-look doctrine?",
+        "a": "2,400",
+        "options": [
+            "2,000",
+            "2,800",
+            "2,400",
+            "2,200",
+            "2,600"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Gulf countries had less than how many Patriot PAC-3 and GEM-T missiles before the war?",
+        "a": "2,800",
+        "options": [
+            "2,500",
+            "3,000",
+            "2,800",
+            "2,700",
+            "2,900"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Lockheed Martin Corp. makes approximately how many PAC-3 interceptors per year?",
+        "a": "650",
+        "options": [
+            "600",
+            "700",
+            "650",
+            "630",
+            "670"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Lockheed Martin Corp. signed an agreement in January to increase PAC-3 interceptor production to how many per year by 2030?",
+        "a": "2,000",
+        "options": [
+            "1,800",
+            "2,200",
+            "2,000",
+            "1,900",
+            "2,100"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Lockheed Martin Corp. makes how many THAAD interceptors per year?",
+        "a": "96",
+        "options": [
+            "90",
+            "100",
+            "96",
+            "94",
+            "98"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Lockheed Martin Corp. reached a deal to increase THAAD interceptor production to how many?",
+        "a": "400",
+        "options": [
+            "350",
+            "450",
+            "400",
+            "380",
+            "420"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The United States has launched hundreds of Tomahawk missiles, each costing approximately how much?",
+        "a": "$2 million",
+        "options": [
+            "$1.5 million",
+            "$2.5 million",
+            "$2 million",
+            "$1.8 million",
+            "$2.2 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The United States has launched more than how many JASSMs, each costing approximately $1.5 million?",
+        "a": "1,000",
+        "options": [
+            "800",
+            "1,200",
+            "1,000",
+            "900",
+            "1,100"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many Tomahawks were in US stockpiles before the war?",
+        "a": "4,000",
+        "options": [
+            "3,500",
+            "4,500",
+            "4,000",
+            "3,800",
+            "4,200"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "RTX Corp. produces approximately how many Tomahawks each year?",
+        "a": "100",
+        "options": [
+            "80",
+            "120",
+            "100",
+            "90",
+            "110"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Lockheed can build at most how many JASSMs this year?",
+        "a": "860",
+        "options": [
+            "800",
+            "900",
+            "860",
+            "840",
+            "880"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the financial year estimate was India's fiscal deficit in April-February?",
+        "a": "80.4%",
+        "options": [
+            "75.4%",
+            "85.4%",
+            "80.4%",
+            "78.4%",
+            "82.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Net tax receipts in April-February were up from what amount collected in the same period a year ago?",
+        "a": "\u20b920,20,000 crore",
+        "options": [
+            "\u20b919,80,000 crore",
+            "\u20b920,50,000 crore",
+            "\u20b920,20,000 crore",
+            "\u20b920,00,000 crore",
+            "\u20b920,30,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Non-tax revenue in April-February was up from what amount a year ago?",
+        "a": "\u20b94,90,000 crore",
+        "options": [
+            "\u20b94,50,000 crore",
+            "\u20b95,00,000 crore",
+            "\u20b94,90,000 crore",
+            "\u20b94,80,000 crore",
+            "\u20b95,10,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Total government expenditure in April-February was up from what amount a year earlier?",
+        "a": "\u20b938,90,000 crore",
+        "options": [
+            "\u20b938,50,000 crore",
+            "\u20b939,00,000 crore",
+            "\u20b938,90,000 crore",
+            "\u20b938,70,000 crore",
+            "\u20b939,10,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Capital expenditure in April-February was against what amount a year ago?",
+        "a": "\u20b98,10,000 crore",
+        "options": [
+            "\u20b97,80,000 crore",
+            "\u20b98,50,000 crore",
+            "\u20b98,10,000 crore",
+            "\u20b98,00,000 crore",
+            "\u20b98,20,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Meity has approved a total of how many applications under the electronics component manufacturing scheme?",
+        "a": "75",
+        "options": [
+            "70",
+            "80",
+            "75",
+            "72",
+            "78"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many UNIFIL peacekeepers were severely injured in south Lebanon?",
+        "a": "1",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "4",
+            "0"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is mentioned as the US President considering 'taking the oil' from Iran?",
+        "a": "Donald Trump",
+        "options": [
             "Joe Biden",
-            "Benjamin Netanyahu",
-            "King Salman"
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Assistant Editor at Live Mint mentioned in the article?",
-        "a": "Bobins",
+        "q": "Who is the US Secretary of War mentioned in the news?",
+        "a": "Pete Hegseth",
         "options": [
-            "Gulam Jeelani",
-            "Sugam Singhal",
-            "Bobins",
-            "Chanchal",
-            "Sanchari Ghosh"
+            "Dan Caine",
+            "S Krishnan",
+            "Abbas Araghchi",
+            "Pete Hegseth",
+            "Shiladitya Ray"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who accused Russia of helping Iran in its war against the United States and Israel?",
-        "a": "Ukrainian President Volodymyr Zelenskyy",
+        "q": "Who is the Joint Chiefs of Staff chair mentioned in the news?",
+        "a": "Dan Caine",
         "options": [
-            "US President Donald Trump",
-            "Benjamin Netanyahu",
-            "Ukrainian President Volodymyr Zelenskyy",
-            "Emmanuel Macron",
-            "Rishi Sunak"
+            "Pete Hegseth",
+            "Donald Trump",
+            "Dan Caine",
+            "S Krishnan",
+            "Abbas Araghchi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the EU's top diplomat who echoed Zelenskyy's accusations against Russia regarding assistance to Iran?",
-        "a": "Kaja Kallas",
+        "q": "Who is Iran's Foreign Minister mentioned in the news?",
+        "a": "Abbas Araghchi",
         "options": [
-            "Ursula von der Leyen",
-            "Christine Lagarde",
-            "Kaja Kallas",
-            "Roberta Metsola",
-            "Annalena Baerbock"
+            "Mahmoud Ahmadinejad",
+            "Hassan Rouhani",
+            "Abbas Araghchi",
+            "Ali Khamenei",
+            "Ebrahim Raisi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who announced the partial lifting of sanctions against Russia weeks after Operation Epic Fury and Operation Rising Lion?",
-        "a": "US President Donald Trump",
+        "q": "Who is the Meity Secretary mentioned in the context of the electronics component manufacturing scheme?",
+        "a": "S Krishnan",
         "options": [
-            "US President Joe Biden",
-            "US President Donald Trump",
-            "UK Prime Minister",
-            "EU President",
-            "NATO Secretary General"
+            "R.K. Singh",
+            "Ashwini Vaishnaw",
+            "S Krishnan",
+            "Ajay Prakash Sawhney",
+            "Alkesh Kumar Sharma"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was arrested for allegedly killing his paramour and dismembering her body in Visakhapatnam\u2019s Gajuwaka area?",
-        "a": "Ch. Ravindra",
+        "q": "Who is the former Royal Australian Air Force officer and a visiting fellow at the Griffith Asia Institute quoted in the news?",
+        "a": "Peter Layton",
         "options": [
-            "Ravi Kumar",
-            "Suresh Reddy",
-            "Ch. Ravindra",
-            "Anil Sharma",
-            "Gopal Singh"
+            "Thomas Erndl",
+            "Shiladitya Ray",
+            "Peter Layton",
+            "Kanishka Singharia",
+            "Donald Trump"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the AIDSO\u2019s state treasurer who addressed the protest in Kushalnagar?",
-        "a": "Subhash Bettadakoppa",
+        "q": "Who specializes in covering geopolitics and science, and is an Associate Editor with Mint?",
+        "a": "Shiladitya Ray",
         "options": [
-            "Abhaya Diwakar",
-            "Subhash Bettadakoppa",
-            "Sanchari Ghosh",
-            "Gulam Jeelani",
-            "Riya R Alex"
+            "Kanishka Singharia",
+            "Pete Hegseth",
+            "Shiladitya Ray",
+            "S Krishnan",
+            "Abbas Araghchi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the AIDSO\u2019s State vice president who addressed the protest against school closures?",
-        "a": "Abhaya Diwakar",
+        "q": "Who is the Senior Content Producer at Mint specializing in viral narratives and news trends?",
+        "a": "Kanishka Singharia",
         "options": [
-            "Subhash Bettadakoppa",
-            "Abhaya Diwakar",
-            "Mausam Jha",
-            "Garvit Bhirani",
-            "Jocelyn Felix Fernandes"
+            "Shiladitya Ray",
+            "Pete Hegseth",
+            "Dan Caine",
+            "Kanishka Singharia",
+            "S Krishnan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Near which airport did the security scare involving a suspected drone occur?",
-        "a": "Palm Beach International Airport (PBI)",
+        "q": "Which island was US President Trump considering taking from Iran?",
+        "a": "Kharg Island",
         "options": [
-            "Miami International Airport",
-            "Orlando International Airport",
-            "Palm Beach International Airport (PBI)",
-            "Fort Lauderdale-Hollywood International Airport",
-            "Tampa International Airport"
+            "Qeshm Island",
+            "Lavan Island",
+            "Kharg Island",
+            "Sirri Island",
+            "Farsi Island"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was US President Donald Trump when the drone incident occurred?",
-        "a": "His golf club in West Palm Beach",
+        "q": "Which crucial strategic waterway is mentioned as effectively closed, causing oil prices to climb?",
+        "a": "Strait of Hormuz",
         "options": [
-            "The White House",
-            "Mar-a-Lago resort",
-            "His golf club in West Palm Beach",
-            "Air Force One",
-            "Camp David"
+            "Suez Canal",
+            "Bab-el-Mandeb",
+            "Strait of Hormuz",
+            "Malacca Strait",
+            "Gibraltar Strait"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where were the images of the severely damaged E-3 Sentry AWACS jet surfaced online?",
-        "a": "Prince Sultan Air Base in Saudi Arabia",
+        "q": "An Iranian attack on the Al-Salmi oil tanker occurred at which port?",
+        "a": "Dubai Port",
         "options": [
-            "Al Udeid Air Base in Qatar",
-            "Incirlik Air Base in T\u00fcrkiye",
-            "Prince Sultan Air Base in Saudi Arabia",
-            "Diego Garcia",
-            "Kuwait International Airport"
+            "Jebel Ali Port",
+            "Ras Tanura Port",
+            "Dubai Port",
+            "Mina Salman Port",
+            "Khalifa Port"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did the KC-135 Stratotanker crash on March 12, 2026?",
-        "a": "Western Iraq",
+        "q": "Thousands of Iranians gathered in which city to show support for the government and armed forces?",
+        "a": "Karaj",
         "options": [
-            "Eastern Syria",
-            "Western Iraq",
-            "Southern Iran",
-            "Northern Saudi Arabia",
-            "Central Afghanistan"
+            "Tehran",
+            "Isfahan",
+            "Karaj",
+            "Mashhad",
+            "Shiraz"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which airport did a KC-135 Stratotanker declare an emergency mid-air, according to UK media reports?",
-        "a": "Ben Gurion Airport in Israel",
+        "q": "In which country were two UNIFIL peacekeepers tragically killed near Bani Hayyan?",
+        "a": "Lebanon",
         "options": [
-            "London Heathrow",
-            "Ben Gurion Airport in Israel",
-            "Dubai International Airport",
-            "King Fahd International Airport",
-            "Cairo International Airport"
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Jordan",
+            "Iraq"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which island in the Indian Ocean, a US-UK joint military facility, was imaged by Russian satellites on March 24?",
-        "a": "Diego Garcia",
+        "q": "Which country closed its airspace to US planes involved in attacks on Iran?",
+        "a": "Spain",
         "options": [
-            "Maldives",
-            "Sri Lanka",
-            "Diego Garcia",
-            "Mauritius",
-            "Seychelles"
+            "France",
+            "Germany",
+            "Spain",
+            "Italy",
+            "Greece"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which airport in Kuwait was photographed by Russian satellites on March 24?",
-        "a": "Kuwait International Airport",
+        "q": "The war between US-Israel and Iran crossed the one-month mark, having begun on which date mentioned in the news?",
+        "a": "February 28",
         "options": [
-            "Jazeera Airport",
-            "Kuwait City Airport",
-            "Kuwait International Airport",
-            "Failaka Island Airport",
-            "Subiya International Airport"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which air base in T\u00fcrkiye was imaged by Russian satellites on March 26th?",
-        "a": "\u0130ncirlik Air Base",
-        "options": [
-            "Konya Air Base",
-            "Eski\u015fehir Air Base",
-            "\u0130ncirlik Air Base",
-            "Diyarbak\u0131r Air Base",
-            "Bandirma Air Base"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which air base in Qatar was imaged by Russian satellites on March 26th?",
-        "a": "Al Udeid Air Base",
-        "options": [
-            "Doha International Airport",
-            "Al Khor Airport",
-            "Al Udeid Air Base",
-            "Dukhan Air Base",
-            "Hamad International Airport"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did the incident involving a Florida man transporting objects resembling missiles occur?",
-        "a": "Near Tampa",
-        "options": [
-            "Near Miami",
-            "Near Orlando",
-            "Near Tampa",
-            "Near Jacksonville",
-            "Near Naples"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which area of Visakhapatnam did the gruesome murder and dismemberment incident occur?",
-        "a": "Gajuwaka area",
-        "options": [
-            "Dwaraka Nagar",
-            "MVP Colony",
-            "Gajuwaka area",
-            "Maddilapalem",
-            "Akkayyapalem"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the protest against the closure of government schools under the KPS Magnet scheme organized in Kodagu district?",
-        "a": "Mahila Samaja Bhavan in Kushalnagar",
-        "options": [
-            "Gonikoppal Town Hall",
-            "Kutta Community Center",
-            "Kudige Auditorium",
-            "Shirangala Village Square",
-            "Mahila Samaja Bhavan in Kushalnagar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When are the oral arguments on President Donald Trump\u2019s attempt to limit birthright citizenship scheduled to begin?",
-        "a": "Wednesday (April 1)",
-        "options": [
-            "Monday (March 30)",
-            "Tuesday (March 31)",
-            "Wednesday (April 1)",
-            "Thursday (April 2)",
-            "Friday (April 3)"
+            "February 1",
+            "March 15",
+            "February 28",
+            "March 1",
+            "February 20"
         ],
         "cat": "When"
     },
     {
-        "q": "By when is a final ruling expected on President Trump's attempt to limit birthright citizenship?",
-        "a": "Within three months",
+        "q": "The RBI deferred the implementation of the Amendment Directions on Capital Market Exposures by three months to which date?",
+        "a": "July 1, 2026",
         "options": [
-            "Within one month",
-            "Within six months",
-            "Within three months",
-            "Within two months",
-            "Within four months"
+            "April 1, 2026",
+            "June 1, 2026",
+            "July 1, 2026",
+            "August 1, 2026",
+            "September 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The Executive Order on birthright citizenship seeks to deny automatic citizenship after what date?",
-        "a": "February 19, 2025",
+        "q": "The Amendment Directions on Capital Market Exposure were originally to be effective from which date?",
+        "a": "April 1, 2026",
         "options": [
-            "January 1, 2025",
-            "March 1, 2025",
-            "February 19, 2025",
-            "April 1, 2025",
-            "February 29, 2025"
+            "January 1, 2026",
+            "March 1, 2026",
+            "April 1, 2026",
+            "May 1, 2026",
+            "June 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In what year did the landmark ruling in United States v. Wong Kim Ark, establishing the foundation of modern birthright citizenship, occur?",
-        "a": "1898",
+        "q": "The government left interest rates unchanged for various small savings schemes for the eighth straight quarter, beginning on which date for FY 2026-27?",
+        "a": "April 1, 2026",
         "options": [
-            "1890",
-            "1900",
-            "1898",
-            "1888",
-            "1908"
+            "January 1, 2026",
+            "March 1, 2026",
+            "April 1, 2026",
+            "July 1, 2026",
+            "October 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the KC-135 Stratotanker crash in western Iraq?",
-        "a": "March 12, 2026",
+        "q": "What was the primary purpose of the RBI's Amendment Directions on Capital Market Exposure?",
+        "a": "To provide an enabling framework for banks to finance acquisitions by Indian corporates, rationalise limits, and put in place a principle-based framework for lending to CMIs.",
         "options": [
-            "March 10, 2026",
-            "March 15, 2026",
-            "March 12, 2026",
-            "March 11, 2026",
-            "March 13, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Bobins join Live Mint?",
-        "a": "February 2026",
-        "options": [
-            "January 2026",
-            "March 2026",
-            "February 2026",
-            "December 2025",
-            "April 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Ukrainian President Volodymyr Zelenskyy accuse Russia of helping Iran by providing satellite images of US military facilities?",
-        "a": "Saturday (local time)",
-        "options": [
-            "Friday (local time)",
-            "Sunday (local time)",
-            "Saturday (local time)",
-            "Monday (local time)",
-            "Thursday (local time)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Russian satellites image the US-UK joint military facility on Diego Garcia, according to Zelenskyy?",
-        "a": "24 March",
-        "options": [
-            "23 March",
-            "25 March",
-            "24 March",
-            "22 March",
-            "26 March"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Russian satellites image the Prince Sultan Air Base in Saudi Arabia, according to Zelenskyy?",
-        "a": "25 March",
-        "options": [
-            "24 March",
-            "26 March",
-            "25 March",
-            "23 March",
-            "27 March"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Russian satellites image the Shaybah oil and gas field, \u0130ncirlik Air Base, and Al Udeid Air Base, according to Zelenskyy?",
-        "a": "March 26th",
-        "options": [
-            "March 25th",
-            "March 27th",
-            "March 26th",
-            "March 24th",
-            "March 28th"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the gruesome murder in Visakhapatnam's Gajuwaka area come to light?",
-        "a": "Sunday (March 29, 2026) night",
-        "options": [
-            "Saturday (March 28, 2026) night",
-            "Monday (March 30, 2026) night",
-            "Sunday (March 29, 2026) night",
-            "Friday (March 27, 2026) night",
-            "Tuesday (March 31, 2026) night"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the reason for the temporary ground stop at Palm Beach International Airport?",
-        "a": "A security scare involving a suspected drone",
-        "options": [
-            "Adverse weather conditions",
-            "VIP arrival protocol",
-            "A security scare involving a suspected drone",
-            "Air traffic control technical issue",
-            "Aircraft maintenance checks"
+            "To increase interest rates on small savings schemes",
+            "To reduce the fiscal deficit of India",
+            "To provide an enabling framework for banks to finance acquisitions by Indian corporates, rationalise limits, and put in place a principle-based framework for lending to CMIs.",
+            "To ban all loans against shares for individuals",
+            "To defer the implementation of capital market exposure norms"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main argument of opponents, like the ACLU, against President Trump's executive order on birthright citizenship?",
-        "a": "It violates long-standing legal precedent and constitutional protections",
+        "q": "What was the purpose of the US government's recalibrated war objectives for Iran, as cited by The Wall Street Journal?",
+        "a": "To focus on crippling Iran's navy, degrading its missile stockpile, and reducing its ability to threaten shipping through the crucial waterway.",
         "options": [
-            "It is economically unfeasible",
-            "It violates long-standing legal precedent and constitutional protections",
-            "It would increase administrative burden",
-            "It goes against international humanitarian laws",
-            "It would not deter undocumented immigration"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did President Zelenskyy criticize the partial lifting of sanctions against Russia by US President Donald Trump?",
-        "a": "He believed it was not pressure on the aggressor and helped Russia earn revenue and provide intelligence for strikes",
-        "options": [
-            "It would hurt Ukraine's economy",
-            "It would lead to a new cold war",
-            "He believed it was not pressure on the aggressor and helped Russia earn revenue and provide intelligence for strikes",
-            "It would strengthen Russia's alliance with China",
-            "It would not solve the energy crisis"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary concern raised by AIDSO regarding the KPS Magnet scheme in Kodagu district?",
-        "a": "It will deprive children of coffee estate workers, adivasis, and poor farmers of education due to school closures and lack of facilities",
-        "options": [
-            "It lacks proper funding mechanisms",
-            "It will lead to overcrowded schools",
-            "It will deprive children of coffee estate workers, adivasis, and poor farmers of education due to school closures and lack of facilities",
-            "It promotes religious education",
-            "It relies too heavily on technology"
+            "To secure a ceasefire agreement with Iran",
+            "To support the Houthi rebels in Yemen",
+            "To focus on crippling Iran's navy, degrading its missile stockpile, and reducing its ability to threaten shipping through the crucial waterway.",
+            "To withdraw all troops from the region",
+            "To facilitate oil exports from Iran"
         ],
         "cat": "Why"
     }
