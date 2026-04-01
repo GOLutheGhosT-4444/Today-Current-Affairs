@@ -1,34 +1,94 @@
 [
     {
-        "q": "What was the Brent crude oil price on Monday mentioned in the news?",
-        "a": "$116",
+        "q": "What is the maximum fine for a violation of the conversion therapy ban law in Colorado, as mentioned in the news?",
+        "a": "USD 5,000",
         "options": [
-            "$110",
-            "$120",
-            "$116",
-            "$115",
-            "$125"
+            "USD 5,010",
+            "USD 4,990",
+            "USD 5,000",
+            "USD 5,050",
+            "USD 4,950"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The WTI benchmark settled at what price, its highest closing level since July 2022?",
-        "a": "$102.88",
+        "q": "A similar 'conversion' talk therapy ban is present in over how many states, according to the news report?",
+        "a": "20 states",
         "options": [
-            "$100.88",
-            "$103.88",
-            "$102.88",
-            "$101.88",
-            "$104.88"
+            "18 states",
+            "19 states",
+            "20 states",
+            "21 states",
+            "22 states"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage has the Brent crude oil benchmark risen since the war began?",
+        "q": "What amount did SEBI fine Elite Con International, a cigarette-maker?",
+        "a": "\u20b951 crore",
+        "options": [
+            "\u20b951.5 crore",
+            "\u20b950.5 crore",
+            "\u20b951 crore",
+            "\u20b950 crore",
+            "\u20b952 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much unlawful gain did Elite Con International allegedly make through its pump and dump scheme, as stated by SEBI?",
+        "a": "\u20b951.2 crore",
+        "options": [
+            "\u20b951.0 crore",
+            "\u20b951.4 crore",
+            "\u20b951.2 crore",
+            "\u20b950.8 crore",
+            "\u20b951.6 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to the EY report, by approximately how much could India's real GDP growth erode if the West Asia conflict persists?",
+        "a": "1 percentage point",
+        "options": [
+            "0.9 percentage point",
+            "1.1 percentage point",
+            "1 percentage point",
+            "1.2 percentage point",
+            "0.8 percentage point"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The EY report projects that retail inflation in India could rise by approximately how many percentage points due to the West Asia conflict?",
+        "a": "1.5 percentage points",
+        "options": [
+            "1.4 percentage points",
+            "1.6 percentage points",
+            "1.5 percentage points",
+            "1.3 percentage points",
+            "1.7 percentage points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "India imports nearly what percentage of its crude oil requirements?",
+        "a": "90%",
+        "options": [
+            "89%",
+            "91%",
+            "90%",
+            "88%",
+            "92%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By almost what percentage have global crude prices risen since the United States and Israel launched military strikes against Iran?",
         "a": "50%",
         "options": [
-            "45%",
-            "55%",
+            "49%",
+            "51%",
             "50%",
             "48%",
             "52%"
@@ -36,782 +96,626 @@
         "cat": "Amount"
     },
     {
-        "q": "How many additional troops is the Trump administration mulling deploying in the region?",
-        "a": "10,000",
+        "q": "What is the amount of the Economic Stabilisation Fund (ESF) set up by the Government of India in FY26?",
+        "a": "\u20b91-lakh crore",
         "options": [
-            "8,000",
-            "12,000",
-            "10,000",
-            "9,000",
-            "11,000"
+            "\u20b91.1-lakh crore",
+            "\u20b90.9-lakh crore",
+            "\u20b91-lakh crore",
+            "\u20b91.05-lakh crore",
+            "\u20b90.95-lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many US Marines are included in the additional troops the Trump administration is considering deploying?",
-        "a": "5,000",
+        "q": "What is the OECD's projected GDP growth for India in the next fiscal?",
+        "a": "6.1%",
         "options": [
-            "4,500",
-            "5,500",
-            "5,000",
-            "4,800",
-            "5,200"
+            "6.0%",
+            "6.2%",
+            "6.1%",
+            "5.9%",
+            "6.3%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many troops and sailors reached the region aboard the USS Tripoli, as per CENTCOM?",
-        "a": "3,500",
+        "q": "What is the value of the contract signed between the Ministry of Defence and Bharat Electronics Limited (BEL) for the procurement of two mountain radars?",
+        "a": "\u20b91,950-crore",
         "options": [
-            "3,000",
-            "4,000",
-            "3,500",
-            "3,200",
-            "3,800"
+            "\u20b91,960-crore",
+            "\u20b91,940-crore",
+            "\u20b91,950-crore",
+            "\u20b91,955-crore",
+            "\u20b91,945-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Air India and Air India Express will together operate how many scheduled and non-scheduled flights to and from the West Asia region?",
-        "a": "36",
+        "q": "What was the total worth of capital acquisition proposals for which the Defence Acquisition Council (DAC) granted Acceptance of Necessity (AoN) on March 27?",
+        "a": "\u20b92.38 lakh crore",
         "options": [
-            "30",
-            "40",
-            "36",
-            "32",
-            "38"
+            "\u20b92.39 lakh crore",
+            "\u20b92.37 lakh crore",
+            "\u20b92.38 lakh crore",
+            "\u20b92.385 lakh crore",
+            "\u20b92.375 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Israeli soldiers died in operations in southern Lebanon on Tuesday?",
-        "a": "4",
+        "q": "Who wrote the majority ruling for the US Supreme Court that rejected Colorado's conversion therapy law?",
+        "a": "Justice Neil Gorsuch",
         "options": [
-            "2",
-            "5",
-            "4",
-            "3",
-            "6"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Israeli soldiers were reported hurt in operations in southern Lebanon on Tuesday?",
-        "a": "3",
-        "options": [
-            "1",
-            "4",
-            "3",
-            "2",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the security deposit paid by the Bengaluru tenant for his 1BHK apartment?",
-        "a": "\u20b91 lakh",
-        "options": [
-            "\u20b990,000",
-            "\u20b91.1 lakh",
-            "\u20b91 lakh",
-            "\u20b995,000",
-            "\u20b91.05 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Bengaluru tenant was told to expect deductions exceeding what amount from his security deposit?",
-        "a": "\u20b920,000",
-        "options": [
-            "\u20b915,000",
-            "\u20b925,000",
-            "\u20b920,000",
-            "\u20b918,000",
-            "\u20b922,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the cap on loans to individuals against eligible securities, at banking system level, as clarified by the RBI?",
-        "a": "\u20b91 crore",
-        "options": [
-            "\u20b950 lakh",
-            "\u20b91.5 crore",
-            "\u20b91 crore",
-            "\u20b975 lakh",
-            "\u20b91.25 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the cap for loans to individuals for subscribing to shares under IPO, FPO, or ESOP, at banking system level?",
-        "a": "\u20b925 lakh",
-        "options": [
-            "\u20b920 lakh",
-            "\u20b930 lakh",
-            "\u20b925 lakh",
-            "\u20b922 lakh",
-            "\u20b928 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for the Sukanya Samriddhi Scheme for Q1 FY 2026-27?",
-        "a": "8.2%",
-        "options": [
-            "8.0%",
-            "8.5%",
-            "8.2%",
-            "8.1%",
-            "8.3%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for a three-year term deposit for Q1 FY 2026-27?",
-        "a": "7.1%",
-        "options": [
-            "7.0%",
-            "7.2%",
-            "7.1%",
-            "7.3%",
-            "7.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for Public Provident Fund (PPF) for Q1 FY 2026-27?",
-        "a": "7.1%",
-        "options": [
-            "7.0%",
-            "7.2%",
-            "7.1%",
-            "7.3%",
-            "7.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for post office savings deposit schemes for Q1 FY 2026-27?",
-        "a": "4%",
-        "options": [
-            "3.5%",
-            "4.5%",
-            "4%",
-            "3.8%",
-            "4.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for Kisan Vikas Patra for Q1 FY 2026-27?",
-        "a": "7.5%",
-        "options": [
-            "7.3%",
-            "7.6%",
-            "7.5%",
-            "7.4%",
-            "7.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for the National Savings Certificate (NSC) for Q1 FY 2026-27?",
-        "a": "7.7%",
-        "options": [
-            "7.5%",
-            "7.8%",
-            "7.7%",
-            "7.6%",
-            "7.9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the interest rate for the monthly income scheme for Q1 FY 2026-27?",
-        "a": "7.4%",
-        "options": [
-            "7.0%",
-            "7.2%",
-            "7.4%",
-            "7.3%",
-            "7.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India's fiscal deficit in April-February was what amount?",
-        "a": "\u20b912,50,000 crore",
-        "options": [
-            "\u20b912,00,000 crore",
-            "\u20b913,00,000 crore",
-            "\u20b912,50,000 crore",
-            "\u20b912,25,000 crore",
-            "\u20b912,75,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Net tax receipts in April-February were what amount?",
-        "a": "\u20b921,50,000 crore",
-        "options": [
-            "\u20b921,00,000 crore",
-            "\u20b922,00,000 crore",
-            "\u20b921,50,000 crore",
-            "\u20b921,25,000 crore",
-            "\u20b921,75,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Non-tax revenue in April-February stood at what amount?",
-        "a": "\u20b95,80,000 crore",
-        "options": [
-            "\u20b95,50,000 crore",
-            "\u20b96,00,000 crore",
-            "\u20b95,80,000 crore",
-            "\u20b95,70,000 crore",
-            "\u20b95,90,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Total government expenditure in April-February was what amount?",
-        "a": "\u20b940,40,000 crore",
-        "options": [
-            "\u20b940,00,000 crore",
-            "\u20b941,00,000 crore",
-            "\u20b940,40,000 crore",
-            "\u20b940,20,000 crore",
-            "\u20b940,60,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Capital expenditure in April-February was what amount?",
-        "a": "\u20b99,30,000 crore",
-        "options": [
-            "\u20b99,00,000 crore",
-            "\u20b99,50,000 crore",
-            "\u20b99,30,000 crore",
-            "\u20b99,20,000 crore",
-            "\u20b99,40,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The government approved 29 applications under the electronics component manufacturing scheme, entailing a cumulative investment of what amount?",
-        "a": "\u20b97,104 crore",
-        "options": [
-            "\u20b97,000 crore",
-            "\u20b97,200 crore",
-            "\u20b97,104 crore",
-            "\u20b97,050 crore",
-            "\u20b97,150 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The new investment proposals under the electronics component manufacturing scheme will create how many new jobs?",
-        "a": "14,246",
-        "options": [
-            "14,000",
-            "14,500",
-            "14,246",
-            "14,100",
-            "14,300"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The new applications under the electronics component manufacturing scheme will lead to the production of electronics components worth what amount?",
-        "a": "\u20b984,515 crore",
-        "options": [
-            "\u20b984,000 crore",
-            "\u20b985,000 crore",
-            "\u20b984,515 crore",
-            "\u20b984,300 crore",
-            "\u20b984,700 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Iran launched almost how many ballistic missiles at Gulf countries since the war began?",
-        "a": "1,200",
-        "options": [
-            "1,000",
-            "1,500",
-            "1,200",
-            "1,100",
-            "1,300"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Iran launched almost how many rudimentary Shahed cruise missiles at Gulf countries since the war began?",
-        "a": "4,000",
-        "options": [
-            "3,500",
-            "4,500",
-            "4,000",
-            "3,800",
-            "4,200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "At least how many interceptors were fired over the course of the war, given the shoot-shoot-look doctrine?",
-        "a": "2,400",
-        "options": [
-            "2,000",
-            "2,800",
-            "2,400",
-            "2,200",
-            "2,600"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Gulf countries had less than how many Patriot PAC-3 and GEM-T missiles before the war?",
-        "a": "2,800",
-        "options": [
-            "2,500",
-            "3,000",
-            "2,800",
-            "2,700",
-            "2,900"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lockheed Martin Corp. makes approximately how many PAC-3 interceptors per year?",
-        "a": "650",
-        "options": [
-            "600",
-            "700",
-            "650",
-            "630",
-            "670"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lockheed Martin Corp. signed an agreement in January to increase PAC-3 interceptor production to how many per year by 2030?",
-        "a": "2,000",
-        "options": [
-            "1,800",
-            "2,200",
-            "2,000",
-            "1,900",
-            "2,100"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lockheed Martin Corp. makes how many THAAD interceptors per year?",
-        "a": "96",
-        "options": [
-            "90",
-            "100",
-            "96",
-            "94",
-            "98"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lockheed Martin Corp. reached a deal to increase THAAD interceptor production to how many?",
-        "a": "400",
-        "options": [
-            "350",
-            "450",
-            "400",
-            "380",
-            "420"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The United States has launched hundreds of Tomahawk missiles, each costing approximately how much?",
-        "a": "$2 million",
-        "options": [
-            "$1.5 million",
-            "$2.5 million",
-            "$2 million",
-            "$1.8 million",
-            "$2.2 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The United States has launched more than how many JASSMs, each costing approximately $1.5 million?",
-        "a": "1,000",
-        "options": [
-            "800",
-            "1,200",
-            "1,000",
-            "900",
-            "1,100"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many Tomahawks were in US stockpiles before the war?",
-        "a": "4,000",
-        "options": [
-            "3,500",
-            "4,500",
-            "4,000",
-            "3,800",
-            "4,200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "RTX Corp. produces approximately how many Tomahawks each year?",
-        "a": "100",
-        "options": [
-            "80",
-            "120",
-            "100",
-            "90",
-            "110"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lockheed can build at most how many JASSMs this year?",
-        "a": "860",
-        "options": [
-            "800",
-            "900",
-            "860",
-            "840",
-            "880"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the financial year estimate was India's fiscal deficit in April-February?",
-        "a": "80.4%",
-        "options": [
-            "75.4%",
-            "85.4%",
-            "80.4%",
-            "78.4%",
-            "82.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Net tax receipts in April-February were up from what amount collected in the same period a year ago?",
-        "a": "\u20b920,20,000 crore",
-        "options": [
-            "\u20b919,80,000 crore",
-            "\u20b920,50,000 crore",
-            "\u20b920,20,000 crore",
-            "\u20b920,00,000 crore",
-            "\u20b920,30,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Non-tax revenue in April-February was up from what amount a year ago?",
-        "a": "\u20b94,90,000 crore",
-        "options": [
-            "\u20b94,50,000 crore",
-            "\u20b95,00,000 crore",
-            "\u20b94,90,000 crore",
-            "\u20b94,80,000 crore",
-            "\u20b95,10,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Total government expenditure in April-February was up from what amount a year earlier?",
-        "a": "\u20b938,90,000 crore",
-        "options": [
-            "\u20b938,50,000 crore",
-            "\u20b939,00,000 crore",
-            "\u20b938,90,000 crore",
-            "\u20b938,70,000 crore",
-            "\u20b939,10,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Capital expenditure in April-February was against what amount a year ago?",
-        "a": "\u20b98,10,000 crore",
-        "options": [
-            "\u20b97,80,000 crore",
-            "\u20b98,50,000 crore",
-            "\u20b98,10,000 crore",
-            "\u20b98,00,000 crore",
-            "\u20b98,20,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Meity has approved a total of how many applications under the electronics component manufacturing scheme?",
-        "a": "75",
-        "options": [
-            "70",
-            "80",
-            "75",
-            "72",
-            "78"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many UNIFIL peacekeepers were severely injured in south Lebanon?",
-        "a": "1",
-        "options": [
-            "3",
-            "2",
-            "1",
-            "4",
-            "0"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is mentioned as the US President considering 'taking the oil' from Iran?",
-        "a": "Donald Trump",
-        "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "Justice Ketanji Brown Jackson",
+            "Kaley Chiles",
+            "Kamlesh Varshney",
+            "Justice John Roberts",
+            "Justice Clarence Thomas"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the US Secretary of War mentioned in the news?",
-        "a": "Pete Hegseth",
+        "q": "Which liberal Justice took the rare step of reading a summary of her dissenting opinion in the US Supreme Court's conversion therapy ruling?",
+        "a": "Ketanji Brown Jackson",
         "options": [
-            "Dan Caine",
-            "S Krishnan",
-            "Abbas Araghchi",
-            "Pete Hegseth",
-            "Shiladitya Ray"
+            "Sonia Sotomayor",
+            "Elena Kagan",
+            "Amy Coney Barrett",
+            "Ketanji Brown Jackson",
+            "Brett Kavanaugh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Joint Chiefs of Staff chair mentioned in the news?",
-        "a": "Dan Caine",
+        "q": "Who was the Christian licensed counsellor who brought the case challenging Colorado's conversion therapy ban?",
+        "a": "Kaley Chiles",
         "options": [
-            "Pete Hegseth",
-            "Donald Trump",
-            "Dan Caine",
-            "S Krishnan",
-            "Abbas Araghchi"
+            "Swati Gandhi",
+            "Vipin Sharma",
+            "Kaley Chiles",
+            "Pawan Kumar Ray",
+            "S. Tamilselvan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Iran's Foreign Minister mentioned in the news?",
-        "a": "Abbas Araghchi",
+        "q": "Which body has extended the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
+        "a": "Directorate of Foreign Trade (DGFT)",
         "options": [
-            "Mahmoud Ahmadinejad",
-            "Hassan Rouhani",
-            "Abbas Araghchi",
-            "Ali Khamenei",
-            "Ebrahim Raisi"
+            "Securities and Exchange Board of India (SEBI)",
+            "Ministry of Finance",
+            "Directorate of Foreign Trade (DGFT)",
+            "Reserve Bank of India (RBI)",
+            "Ministry of Commerce and Industry"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Meity Secretary mentioned in the context of the electronics component manufacturing scheme?",
-        "a": "S Krishnan",
+        "q": "Which regulatory body fined Elite Con International?",
+        "a": "SEBI",
         "options": [
-            "R.K. Singh",
-            "Ashwini Vaishnaw",
-            "S Krishnan",
-            "Ajay Prakash Sawhney",
-            "Alkesh Kumar Sharma"
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "PFRDA",
+            "CCI"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former Royal Australian Air Force officer and a visiting fellow at the Griffith Asia Institute quoted in the news?",
-        "a": "Peter Layton",
+        "q": "Who was the Whole Time Member of SEBI that wrote the interim order against Elite Con International?",
+        "a": "Kamlesh Varshney",
         "options": [
-            "Thomas Erndl",
-            "Shiladitya Ray",
-            "Peter Layton",
-            "Kanishka Singharia",
-            "Donald Trump"
+            "Vipin Sharma",
+            "Pawan Kumar Ray",
+            "Kamlesh Varshney",
+            "Madhabi Puri Buch",
+            "Ajay Tyagi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who specializes in covering geopolitics and science, and is an Associate Editor with Mint?",
-        "a": "Shiladitya Ray",
+        "q": "Which generic drugmaker received USFDA tentative approval for Sugammadex injection?",
+        "a": "Lupin",
         "options": [
-            "Kanishka Singharia",
-            "Pete Hegseth",
-            "Shiladitya Ray",
-            "S Krishnan",
-            "Abbas Araghchi"
+            "Merck",
+            "Cipla",
+            "Dr. Reddy's Laboratories",
+            "Lupin",
+            "Sun Pharmaceutical"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Senior Content Producer at Mint specializing in viral narratives and news trends?",
-        "a": "Kanishka Singharia",
+        "q": "Who chaired the Defence Acquisition Council (DAC) meeting that granted Acceptance of Necessity (AoN) for capital acquisition proposals?",
+        "a": "Rajnath Singh",
         "options": [
-            "Shiladitya Ray",
-            "Pete Hegseth",
-            "Dan Caine",
-            "Kanishka Singharia",
-            "S Krishnan"
+            "Nirmala Sitharaman",
+            "Amit Shah",
+            "Narendra Modi",
+            "Rajnath Singh",
+            "Ajit Doval"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which island was US President Trump considering taking from Iran?",
-        "a": "Kharg Island",
+        "q": "Which company will manufacture the Mountain Radar systems for the Air Force?",
+        "a": "Bharat Electronics Limited (BEL)",
         "options": [
-            "Qeshm Island",
-            "Lavan Island",
-            "Kharg Island",
-            "Sirri Island",
-            "Farsi Island"
+            "DRDO",
+            "Hindustan Aeronautics Limited (HAL)",
+            "Bharat Dynamics Limited (BDL)",
+            "Bharat Electronics Limited (BEL)",
+            "Mazagon Dock Shipbuilders Limited"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organisation, under DRDO, indigenously designed and developed the Mountain Radar systems?",
+        "a": "Electronics & Radar Development Establishment",
+        "options": [
+            "Defence Research and Development Laboratory",
+            "Electronics & Radar Development Establishment",
+            "Aeronautical Development Agency",
+            "Armament Research & Development Establishment",
+            "Gas Turbine Research Establishment"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the senior consultant neurosurgeon who headed the team at Gleneagles Hospital for the complex brain tumour surgery?",
+        "a": "Nigel Symss",
+        "options": [
+            "Venkatesan Sanjeevi",
+            "Nigel Symss",
+            "Dr. Devi Shetty",
+            "Dr. Naresh Trehan",
+            "Dr. Ashok Seth"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who received the Sahitya Akademi Award for 2025 for his work 'Tamil Sirukathaiyin Thadangal'?",
+        "a": "S. Tamilselvan",
+        "options": [
+            "Su. Venkatesan",
+            "V.V.S. Iyer",
+            "S. Tamilselvan",
+            "Perumal Murugan",
+            "Jeyamohan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which court rejected a Colorado law prohibiting 'conversion' talk therapy?",
+        "a": "US Supreme Court",
+        "options": [
+            "Colorado Supreme Court",
+            "US Court of Appeals",
+            "US District Court",
+            "US Supreme Court",
+            "International Court of Justice"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which crucial strategic waterway is mentioned as effectively closed, causing oil prices to climb?",
-        "a": "Strait of Hormuz",
+        "q": "Which state's law, banning 'conversion' talk therapy for minors, was struck down by the US Supreme Court?",
+        "a": "Colorado",
         "options": [
-            "Suez Canal",
-            "Bab-el-Mandeb",
-            "Strait of Hormuz",
-            "Malacca Strait",
-            "Gibraltar Strait"
+            "California",
+            "New York",
+            "Colorado",
+            "Massachusetts",
+            "Oregon"
         ],
         "cat": "Where"
     },
     {
-        "q": "An Iranian attack on the Al-Salmi oil tanker occurred at which port?",
-        "a": "Dubai Port",
+        "q": "From which university did Swati Gandhi obtain her Master's degree in Journalism and Mass Communication?",
+        "a": "Guru Gobind Singh Indraprastha University",
         "options": [
-            "Jebel Ali Port",
-            "Ras Tanura Port",
-            "Dubai Port",
-            "Mina Salman Port",
-            "Khalifa Port"
+            "University of Delhi",
+            "Jawaharlal Nehru University",
+            "Guru Gobind Singh Indraprastha University",
+            "Symbiosis Institute of Media and Communication",
+            "Indian Institute of Mass Communication"
         ],
         "cat": "Where"
     },
     {
-        "q": "Thousands of Iranians gathered in which city to show support for the government and armed forces?",
-        "a": "Karaj",
+        "q": "At which news organization does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
+        "a": "Live Mint",
         "options": [
-            "Tehran",
-            "Isfahan",
-            "Karaj",
-            "Mashhad",
-            "Shiraz"
+            "Business Standard",
+            "The Hindu",
+            "Live Mint",
+            "The Indian Express",
+            "Reuters"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which country were two UNIFIL peacekeepers tragically killed near Bani Hayyan?",
-        "a": "Lebanon",
+        "q": "Where was the contract for the procurement of two mountain radars signed between the Ministry of Defence and BEL?",
+        "a": "New Delhi",
         "options": [
-            "Syria",
-            "Israel",
-            "Lebanon",
-            "Jordan",
-            "Iraq"
+            "Bengaluru",
+            "Chennai",
+            "Mumbai",
+            "New Delhi",
+            "Hyderabad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country closed its airspace to US planes involved in attacks on Iran?",
-        "a": "Spain",
+        "q": "In which hospital was the complex brain tumour surgery successfully performed?",
+        "a": "Gleneagles Hospital",
         "options": [
-            "France",
+            "Apollo Hospitals",
+            "Fortis Hospital",
+            "Max Healthcare",
+            "Gleneagles Hospital",
+            "Manipal Hospitals"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city is the location of Gleneagles Hospital, where the brain tumour surgery took place?",
+        "a": "Chennai",
+        "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Delhi",
+            "Chennai",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city was the Sahitya Akademi Award function held for S. Tamilselvan?",
+        "a": "Delhi",
+        "options": [
+            "Chennai",
+            "Mumbai",
+            "Kolkata",
+            "Delhi",
+            "Bengaluru"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which region's ongoing conflict has significantly disrupted global crude oil and energy markets?",
+        "a": "West Asia",
+        "options": [
+            "East Asia",
+            "Europe",
+            "North America",
+            "West Asia",
+            "Africa"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "For which country did Lupin receive USFDA tentative approval for Sugammadex injection?",
+        "a": "USA",
+        "options": [
+            "India",
             "Germany",
-            "Spain",
-            "Italy",
-            "Greece"
+            "USA",
+            "Japan",
+            "UK"
         ],
         "cat": "Where"
     },
     {
-        "q": "The war between US-Israel and Iran crossed the one-month mark, having begun on which date mentioned in the news?",
+        "q": "Which country's economy is projected by EY to erode by around 1 percentage point due to the West Asia conflict?",
+        "a": "India",
+        "options": [
+            "China",
+            "USA",
+            "India",
+            "Germany",
+            "Japan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "India is highly dependent on crude oil imports, with nearly 90% coming from which primary region as implied by the report?",
+        "a": "West Asia",
+        "options": [
+            "North America",
+            "Latin America",
+            "Russia",
+            "West Asia",
+            "Europe"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the US Supreme Court reject the Colorado law on 'conversion' talk therapy?",
+        "a": "March 31, 2026",
+        "options": [
+            "March 30, 2026",
+            "March 31, 2026",
+            "April 1, 2026",
+            "February 28, 2026",
+            "September 30, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Until when has the Directorate of Foreign Trade extended the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
+        "a": "September 30, 2026",
+        "options": [
+            "March 31, 2026",
+            "September 30, 2026",
+            "December 31, 2026",
+            "March 31, 2027",
+            "August 31, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was SEBI's interim ex-parte order against Elite Con International released?",
+        "a": "March 31, 2026",
+        "options": [
+            "March 23, 2026",
+            "March 31, 2026",
+            "April 7, 2026",
+            "February 28, 2026",
+            "March 27, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The EY report estimates that the adverse impact of the West Asia conflict could persist throughout which fiscal year for India's economy?",
+        "a": "FY27",
+        "options": [
+            "FY26",
+            "FY27",
+            "FY28",
+            "FY25",
+            "FY29"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did global crude prices start rising significantly due to military strikes launched by the United States and Israel against Iran?",
         "a": "February 28",
         "options": [
+            "January 15",
             "February 1",
-            "March 15",
             "February 28",
-            "March 1",
-            "February 20"
+            "March 15",
+            "April 1"
         ],
         "cat": "When"
     },
     {
-        "q": "The RBI deferred the implementation of the Amendment Directions on Capital Market Exposures by three months to which date?",
-        "a": "July 1, 2026",
+        "q": "In which fiscal year was the Economic Stabilisation Fund (ESF) introduced by the Government of India?",
+        "a": "FY26",
         "options": [
+            "FY25",
+            "FY26",
+            "FY27",
+            "FY24",
+            "FY23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did Lupin receive USFDA tentative approval for Sugammadex injection?",
+        "a": "March 31, 2026",
+        "options": [
+            "March 30, 2026",
+            "March 31, 2026",
             "April 1, 2026",
-            "June 1, 2026",
-            "July 1, 2026",
-            "August 1, 2026",
-            "September 1, 2026"
+            "March 28, 2026",
+            "March 27, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The Amendment Directions on Capital Market Exposure were originally to be effective from which date?",
-        "a": "April 1, 2026",
+        "q": "In which year did the World Health Organization (WHO) classify the rare and aggressive brain tumour type mentioned in the Gleneagles Hospital news?",
+        "a": "2021",
         "options": [
-            "January 1, 2026",
-            "March 1, 2026",
-            "April 1, 2026",
-            "May 1, 2026",
-            "June 1, 2026"
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "The government left interest rates unchanged for various small savings schemes for the eighth straight quarter, beginning on which date for FY 2026-27?",
-        "a": "April 1, 2026",
+        "q": "For which year did S. Tamilselvan receive the Sahitya Akademi Award?",
+        "a": "2025",
         "options": [
-            "January 1, 2026",
-            "March 1, 2026",
-            "April 1, 2026",
-            "July 1, 2026",
-            "October 1, 2026"
+            "2024",
+            "2025",
+            "2023",
+            "2022",
+            "2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary purpose of the RBI's Amendment Directions on Capital Market Exposure?",
-        "a": "To provide an enabling framework for banks to finance acquisitions by Indian corporates, rationalise limits, and put in place a principle-based framework for lending to CMIs.",
+        "q": "On what date did the Defence Acquisition Council (DAC) grant Acceptance of Necessity (AoN) for capital acquisition proposals?",
+        "a": "March 27",
         "options": [
-            "To increase interest rates on small savings schemes",
-            "To reduce the fiscal deficit of India",
-            "To provide an enabling framework for banks to finance acquisitions by Indian corporates, rationalise limits, and put in place a principle-based framework for lending to CMIs.",
-            "To ban all loans against shares for individuals",
-            "To defer the implementation of capital market exposure norms"
+            "March 26",
+            "March 27",
+            "March 28",
+            "March 31",
+            "April 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did Colorado pass the law banning conversion therapy for minors?",
+        "a": "2019",
+        "options": [
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2017"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was the notification issued by the DGFT regarding the extension of the RoDTEP scheme?",
+        "a": "March 31",
+        "options": [
+            "March 23",
+            "March 31",
+            "February 28",
+            "September 30",
+            "March 27"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason the US Supreme Court rejected Colorado's conversion therapy ban?",
+        "a": "It violated free speech rights (First Amendment).",
+        "options": [
+            "It was found to be ineffective in practice.",
+            "It conflicted with federal healthcare regulations.",
+            "It violated free speech rights (First Amendment).",
+            "It imposed excessive financial burdens on therapists.",
+            "It lacked sufficient scientific backing."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of the US government's recalibrated war objectives for Iran, as cited by The Wall Street Journal?",
-        "a": "To focus on crippling Iran's navy, degrading its missile stockpile, and reducing its ability to threaten shipping through the crucial waterway.",
+        "q": "What was Colorado's stated purpose for passing the law banning conversion therapy for minors?",
+        "a": "To protect minors from psychological harm.",
         "options": [
-            "To secure a ceasefire agreement with Iran",
-            "To support the Houthi rebels in Yemen",
-            "To focus on crippling Iran's navy, degrading its missile stockpile, and reducing its ability to threaten shipping through the crucial waterway.",
-            "To withdraw all troops from the region",
-            "To facilitate oil exports from Iran"
+            "To increase state revenue through fines.",
+            "To regulate 'professional conduct'.",
+            "To promote a specific religious viewpoint.",
+            "To protect minors from psychological harm.",
+            "To align with national medical guidelines."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of extending the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
+        "a": "For the benefit of exporters.",
+        "options": [
+            "To increase government revenue.",
+            "To reduce domestic prices.",
+            "For the benefit of exporters.",
+            "To stabilize the domestic currency.",
+            "To encourage imports."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason SEBI fined Elite Con International?",
+        "a": "Allegedly inflating stock price and dumping on retail investors.",
+        "options": [
+            "Failure to pay taxes on time.",
+            "Allegedly inflating stock price and dumping on retail investors.",
+            "Violation of environmental regulations.",
+            "Non-compliance with manufacturing standards.",
+            "Involvement in illegal trade practices."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary objective of the Economic Stabilisation Fund (ESF) established by the Government of India?",
+        "a": "To act as a financial buffer against global headwinds.",
+        "options": [
+            "To boost agricultural output.",
+            "To fund infrastructure projects.",
+            "To act as a financial buffer against global headwinds.",
+            "To provide subsidies to industries.",
+            "To reduce the fiscal deficit."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the EY report, what is the main reason for the projected erosion of India's GDP and rise in inflation?",
+        "a": "The West Asia conflict disrupting global crude oil and energy markets.",
+        "options": [
+            "A global economic slowdown.",
+            "Domestic policy changes.",
+            "Increased international trade tariffs.",
+            "The West Asia conflict disrupting global crude oil and energy markets.",
+            "A surge in gold prices."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "For what medical purpose is Lupin's Sugammadex Injection indicated?",
+        "a": "Reversal of neuromuscular blockade.",
+        "options": [
+            "Pain relief for surgical patients.",
+            "Treatment of bacterial infections.",
+            "Reversal of neuromuscular blockade.",
+            "Management of blood pressure.",
+            "Reduction of inflammation."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Under which specific category was the Ministry of Defence contract with BEL signed for the procurement of mountain radars?",
+        "a": "Buy (Indian\u2013Indigenously Designed, Developed and Manufactured)",
+        "options": [
+            "Buy (Global)",
+            "Buy (Indian)",
+            "Buy (Indian\u2013Indigenously Designed, Developed and Manufactured)",
+            "Make in India (Partnership)",
+            "Strategic Partnership Model"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the key purpose behind the procurement of two mountain radars for the Air Force?",
+        "a": "To enhance air defence capabilities and surveillance in mountainous terrain.",
+        "options": [
+            "To improve communication networks for civil aviation.",
+            "To enhance air defence capabilities and surveillance in mountainous terrain.",
+            "To monitor weather patterns for agricultural forecasts.",
+            "To assist in maritime surveillance operations.",
+            "To support ground forces logistics."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which literary category did S. Tamilselvan's work 'Tamil Sirukathaiyin Thadangal' win the Sahitya Akademi Award for 2025?",
+        "a": "Literary criticism",
+        "options": [
+            "Poetry",
+            "Novel",
+            "Short story collection",
+            "Literary criticism",
+            "Drama"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the core argument of Justice Ketanji Brown Jackson's dissent in the US Supreme Court's conversion therapy case?",
+        "a": "Medical professionals speaking to minors should face stricter regulation than ordinary speech.",
+        "options": [
+            "The law should apply equally to all citizens.",
+            "Free speech rights are absolute and should not be restricted.",
+            "Conversion therapy is harmless and should be allowed.",
+            "Medical professionals speaking to minors should face stricter regulation than ordinary speech.",
+            "States do not have the authority to regulate healthcare practices."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What type of therapy did the Colorado law prohibit psychotherapists from using, targeting LGBT minors?",
+        "a": "'conversion' talk therapy",
+        "options": [
+            "Cognitive Behavioral Therapy (CBT)",
+            "Family Systems Therapy",
+            "Dialectical Behavior Therapy (DBT)",
+            "'conversion' talk therapy",
+            "Psychodynamic Therapy"
         ],
         "cat": "Why"
     }
