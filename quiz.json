@@ -1,722 +1,722 @@
 [
     {
-        "q": "What is the maximum fine for a violation of the conversion therapy ban law in Colorado, as mentioned in the news?",
-        "a": "USD 5,000",
+        "q": "What was the total investment attracted by the 14 Production-Linked Incentive (PLI) schemes since their launch in 2020?",
+        "a": "\u20b92.16 trillion",
         "options": [
-            "USD 5,010",
-            "USD 4,990",
-            "USD 5,000",
-            "USD 5,050",
-            "USD 4,950"
+            "\u20b92.10 trillion",
+            "\u20b92.20 trillion",
+            "\u20b92.16 trillion",
+            "\u20b92.15 trillion",
+            "\u20b92.05 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "A similar 'conversion' talk therapy ban is present in over how many states, according to the news report?",
-        "a": "20 states",
+        "q": "How much amount was disbursed as incentives under PLI schemes by December 2025?",
+        "a": "\u20b928,748 crore",
         "options": [
-            "18 states",
-            "19 states",
-            "20 states",
-            "21 states",
-            "22 states"
+            "\u20b928,500 crore",
+            "\u20b928,748 crore",
+            "\u20b929,000 crore",
+            "\u20b928,650 crore",
+            "\u20b928,850 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount did SEBI fine Elite Con International, a cigarette-maker?",
-        "a": "\u20b951 crore",
+        "q": "What percentage of the allocated incentives for PLI schemes had been disbursed by December 2025?",
+        "a": "15%",
         "options": [
-            "\u20b951.5 crore",
-            "\u20b950.5 crore",
-            "\u20b951 crore",
-            "\u20b950 crore",
-            "\u20b952 crore"
+            "12%",
+            "18%",
+            "15%",
+            "10%",
+            "20%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much unlawful gain did Elite Con International allegedly make through its pump and dump scheme, as stated by SEBI?",
-        "a": "\u20b951.2 crore",
+        "q": "What was the fund size created in 2021 for the PLI scheme for electric vehicle batteries (Advanced Chemistry Cells - ACC)?",
+        "a": "\u20b918,100 crore",
         "options": [
-            "\u20b951.0 crore",
-            "\u20b951.4 crore",
-            "\u20b951.2 crore",
-            "\u20b950.8 crore",
-            "\u20b951.6 crore"
+            "\u20b918,000 crore",
+            "\u20b918,100 crore",
+            "\u20b918,200 crore",
+            "\u20b917,900 crore",
+            "\u20b918,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to the EY report, by approximately how much could India's real GDP growth erode if the West Asia conflict persists?",
-        "a": "1 percentage point",
+        "q": "What was the total package allocated for the PLI scheme for clean mobility (PLI-Auto) by the heavy industries ministry?",
+        "a": "\u20b925,938 crore",
         "options": [
-            "0.9 percentage point",
-            "1.1 percentage point",
-            "1 percentage point",
-            "1.2 percentage point",
-            "0.8 percentage point"
+            "\u20b925,800 crore",
+            "\u20b926,000 crore",
+            "\u20b925,938 crore",
+            "\u20b925,900 crore",
+            "\u20b926,100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The EY report projects that retail inflation in India could rise by approximately how many percentage points due to the West Asia conflict?",
-        "a": "1.5 percentage points",
+        "q": "What was the total disbursal under the PLI-Auto scheme as on March 27?",
+        "a": "\u20b92,337 crore",
         "options": [
-            "1.4 percentage points",
-            "1.6 percentage points",
-            "1.5 percentage points",
-            "1.3 percentage points",
-            "1.7 percentage points"
+            "\u20b92,300 crore",
+            "\u20b92,337 crore",
+            "\u20b92,400 crore",
+            "\u20b92,350 crore",
+            "\u20b92,320 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "India imports nearly what percentage of its crude oil requirements?",
-        "a": "90%",
+        "q": "How much incentive was claimed by four companies under the PLI-Auto scheme in FY25, its first year of disbursal?",
+        "a": "\u20b9332 crore",
         "options": [
-            "89%",
-            "91%",
-            "90%",
-            "88%",
-            "92%"
+            "\u20b9320 crore",
+            "\u20b9332 crore",
+            "\u20b9340 crore",
+            "\u20b9330 crore",
+            "\u20b9335 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By almost what percentage have global crude prices risen since the United States and Israel launched military strikes against Iran?",
-        "a": "50%",
+        "q": "What was the total incentive disbursal in the second year of PLI-Auto, involving 10 manufacturers?",
+        "a": "\u20b92,090 crore",
         "options": [
-            "49%",
-            "51%",
-            "50%",
-            "48%",
-            "52%"
+            "\u20b92,000 crore",
+            "\u20b92,100 crore",
+            "\u20b92,090 crore",
+            "\u20b92,080 crore",
+            "\u20b92,110 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the amount of the Economic Stabilisation Fund (ESF) set up by the Government of India in FY26?",
-        "a": "\u20b91-lakh crore",
+        "q": "What was the total outlay for the electronics PLI scheme, especially for mobile phone manufacturing?",
+        "a": "\u20b940,951 crore",
         "options": [
-            "\u20b91.1-lakh crore",
-            "\u20b90.9-lakh crore",
-            "\u20b91-lakh crore",
-            "\u20b91.05-lakh crore",
-            "\u20b90.95-lakh crore"
+            "\u20b940,500 crore",
+            "\u20b941,000 crore",
+            "\u20b940,951 crore",
+            "\u20b940,900 crore",
+            "\u20b941,100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the OECD's projected GDP growth for India in the next fiscal?",
-        "a": "6.1%",
+        "q": "How much in incentives has the government disbursed so far under the electronics PLI scheme?",
+        "a": "\u20b915,554 crore",
         "options": [
-            "6.0%",
-            "6.2%",
-            "6.1%",
-            "5.9%",
-            "6.3%"
+            "\u20b915,500 crore",
+            "\u20b915,600 crore",
+            "\u20b915,554 crore",
+            "\u20b915,450 crore",
+            "\u20b915,570 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the value of the contract signed between the Ministry of Defence and Bharat Electronics Limited (BEL) for the procurement of two mountain radars?",
-        "a": "\u20b91,950-crore",
+        "q": "What was the outlay for the PLI scheme for food processing industries (PLISFPI)?",
+        "a": "\u20b910,900 crore",
         "options": [
-            "\u20b91,960-crore",
-            "\u20b91,940-crore",
-            "\u20b91,950-crore",
-            "\u20b91,955-crore",
-            "\u20b91,945-crore"
+            "\u20b910,800 crore",
+            "\u20b910,900 crore",
+            "\u20b911,000 crore",
+            "\u20b910,950 crore",
+            "\u20b910,850 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total worth of capital acquisition proposals for which the Defence Acquisition Council (DAC) granted Acceptance of Necessity (AoN) on March 27?",
-        "a": "\u20b92.38 lakh crore",
+        "q": "What were the total disbursements under PLISFPI till March 27?",
+        "a": "\u20b92,714.79 crore",
         "options": [
-            "\u20b92.39 lakh crore",
-            "\u20b92.37 lakh crore",
-            "\u20b92.38 lakh crore",
-            "\u20b92.385 lakh crore",
-            "\u20b92.375 lakh crore"
+            "\u20b92,700 crore",
+            "\u20b92,714.79 crore",
+            "\u20b92,720 crore",
+            "\u20b92,710 crore",
+            "\u20b92,715 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who wrote the majority ruling for the US Supreme Court that rejected Colorado's conversion therapy law?",
-        "a": "Justice Neil Gorsuch",
+        "q": "What were the cumulative investments by approved applicants under PLISFPI till December 31, 2025?",
+        "a": "\u20b99,207 crore",
         "options": [
-            "Justice Ketanji Brown Jackson",
-            "Kaley Chiles",
-            "Kamlesh Varshney",
-            "Justice John Roberts",
-            "Justice Clarence Thomas"
+            "\u20b99,100 crore",
+            "\u20b99,207 crore",
+            "\u20b99,300 crore",
+            "\u20b99,250 crore",
+            "\u20b99,150 crore"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which liberal Justice took the rare step of reading a summary of her dissenting opinion in the US Supreme Court's conversion therapy ruling?",
-        "a": "Ketanji Brown Jackson",
+        "q": "Approximately how many births annually could be affected if Trump\u2019s birthright citizenship restrictions are implemented?",
+        "a": "250,000",
         "options": [
-            "Sonia Sotomayor",
+            "200,000",
+            "300,000",
+            "250,000",
+            "225,000",
+            "275,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Donald Trump\u2019s approval rating for handling the US economy, according to a recent CNN poll?",
+        "a": "31%",
+        "options": [
+            "30%",
+            "31%",
+            "32%",
+            "33%",
+            "34%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage drop in Trump\u2019s economic approval rating among Republicans since January?",
+        "a": "14-point drop",
+        "options": [
+            "10-point drop",
+            "12-point drop",
+            "14-point drop",
+            "15-point drop",
+            "13-point drop"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans described the economy as being in poor shape, according to the CNN poll?",
+        "a": "75%",
+        "options": [
+            "70%",
+            "72%",
+            "75%",
+            "78%",
+            "80%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans reported financial hardship due to higher fuel costs?",
+        "a": "63%",
+        "options": [
+            "60%",
+            "62%",
+            "63%",
+            "64%",
+            "65%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Trump\u2019s overall approval rating, as per the CNN poll?",
+        "a": "35%",
+        "options": [
+            "33%",
+            "34%",
+            "35%",
+            "36%",
+            "37%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What were the total passenger vehicle unit sales in India in FY26?",
+        "a": "about 47 lakh units",
+        "options": [
+            "46 lakh units",
+            "47 lakh units",
+            "48 lakh units",
+            "46.5 lakh units",
+            "47.5 lakh units"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is Maruti Suzuki India Ltd\u2019s domestic market share in the Indian PV industry?",
+        "a": "over 40%",
+        "options": [
+            "35%",
+            "38%",
+            "40%",
+            "42%",
+            "45%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the expected growth rate for the PV industry in FY27?",
+        "a": "about 5%",
+        "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%",
+            "7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Maruti Suzuki's Year-on-Year (YoY) growth in total sales for March 2026?",
+        "a": "16.7%",
+        "options": [
+            "15%",
+            "16%",
+            "16.7%",
+            "17%",
+            "18%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many units did Maruti Suzuki export in March 2026?",
+        "a": "over 47,000 units",
+        "options": [
+            "45,000 units",
+            "46,000 units",
+            "47,000 units",
+            "48,000 units",
+            "49,000 units"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total sales volume for Maruti Suzuki in FY26?",
+        "a": "24.2 lakh units",
+        "options": [
+            "24.0 lakh units",
+            "24.1 lakh units",
+            "24.2 lakh units",
+            "24.3 lakh units",
+            "24.4 lakh units"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Hyundai Motor India Ltd (HMIL)'s total sales in Q4 (January to March 2026)?",
+        "a": "2,08,275 units",
+        "options": [
+            "2,08,000 units",
+            "2,08,275 units",
+            "2,08,500 units",
+            "2,07,500 units",
+            "2,09,000 units"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the growth percentage in Tata Motors Passenger Vehicles Ltd's sales in FY26?",
+        "a": "15% YoY",
+        "options": [
+            "12%",
+            "13%",
+            "15%",
+            "16%",
+            "18%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many EV units did Tata Motors sell in FY26?",
+        "a": "92,000 units",
+        "options": [
+            "90,000 units",
+            "91,000 units",
+            "92,000 units",
+            "93,000 units",
+            "94,000 units"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the gross revenue from Goods and Services Tax (GST) in March 2025?",
+        "a": "\u20b92 lakh crore",
+        "options": [
+            "\u20b91.9 lakh crore",
+            "\u20b92 lakh crore",
+            "\u20b92.1 lakh crore",
+            "\u20b91.95 lakh crore",
+            "\u20b92.05 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which institute has been tasked by the Indian government to study the performance of PLI schemes?",
+        "a": "Indian Institute of Management, Ahmedabad (IIM-A)",
+        "options": [
+            "Indian Institute of Technology, Bombay (IIT-B)",
+            "Indian Institute of Management, Bangalore (IIM-B)",
+            "Indian Institute of Management, Ahmedabad (IIM-A)",
+            "Indian School of Business (ISB)",
+            "XLRI Jamshedpur"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which federal think tank is overseeing the study on PLI schemes?",
+        "a": "NITI Aayog",
+        "options": [
+            "Planning Commission",
+            "Ministry of Finance",
+            "NITI Aayog",
+            "Reserve Bank of India",
+            "Ministry of Commerce"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who is the president of the Centre for Domestic Economy Policy (CDEP) Research?",
+        "a": "Jaijit Bhattacharya",
+        "options": [
+            "Arvind Subramanian",
+            "Raghuram Rajan",
+            "Jaijit Bhattacharya",
+            "Pronab Sen",
+            "Bibek Debroy"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who among the following was NOT one of the four companies to claim incentives under the PLI-Auto scheme in FY25?",
+        "a": "Bajaj Auto",
+        "options": [
+            "Tata Motors",
+            "Mahindra & Mahindra",
+            "Ola Electric",
+            "Toyota Kirloskar Auto Parts",
+            "Bajaj Auto"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who is the current US Solicitor General defending President Donald Trump's executive order on birthright citizenship?",
+        "a": "D. John Sauer",
+        "options": [
+            "Merrick Garland",
             "Elena Kagan",
-            "Amy Coney Barrett",
+            "D. John Sauer",
+            "Samuel Alito",
+            "Sonia Sotomayor"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which US Supreme Court Justice appeared more receptive to the administration\u2019s argument regarding the historical context of the 14th Amendment in the birthright citizenship case?",
+        "a": "Clarence Thomas",
+        "options": [
             "Ketanji Brown Jackson",
+            "Sonia Sotomayor",
+            "Clarence Thomas",
+            "Elena Kagan",
             "Brett Kavanaugh"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who was the Christian licensed counsellor who brought the case challenging Colorado's conversion therapy ban?",
-        "a": "Kaley Chiles",
+        "q": "Who is the Meghalaya Chief Minister who witnessed the MoU signing with Starlink India?",
+        "a": "Conrad K Sangma",
         "options": [
-            "Swati Gandhi",
-            "Vipin Sharma",
-            "Kaley Chiles",
-            "Pawan Kumar Ray",
-            "S. Tamilselvan"
+            "Pema Khandu",
+            "Himanta Biswa Sarma",
+            "Zoramthanga",
+            "Neiphiu Rio",
+            "Conrad K Sangma"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which body has extended the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
-        "a": "Directorate of Foreign Trade (DGFT)",
+        "q": "Who is the Senior Executive Officer, Marketing & Sales at Maruti Suzuki India Ltd?",
+        "a": "Partho Banerjee",
         "options": [
-            "Securities and Exchange Board of India (SEBI)",
-            "Ministry of Finance",
-            "Directorate of Foreign Trade (DGFT)",
-            "Reserve Bank of India (RBI)",
-            "Ministry of Commerce and Industry"
+            "Kenichi Ayukawa",
+            "Hisashi Takeuchi",
+            "Partho Banerjee",
+            "R.C. Bhargava",
+            "Tarun Garg"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which regulatory body fined Elite Con International?",
-        "a": "SEBI",
+        "q": "Who is the MD and CEO of Tata Motors Passenger Vehicles Ltd?",
+        "a": "Shailesh Chandra",
         "options": [
-            "RBI",
-            "IRDAI",
-            "SEBI",
-            "PFRDA",
-            "CCI"
+            "Girish Wagh",
+            "Marc Llistosella",
+            "Shailesh Chandra",
+            "N. Chandrasekaran",
+            "Guenter Butschek"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who was the Whole Time Member of SEBI that wrote the interim order against Elite Con International?",
-        "a": "Kamlesh Varshney",
+        "q": "Who holds the position of Political Affairs Editor at Livemint?",
+        "a": "Gulam Jeelani",
         "options": [
-            "Vipin Sharma",
-            "Pawan Kumar Ray",
-            "Kamlesh Varshney",
-            "Madhabi Puri Buch",
-            "Ajay Tyagi"
+            "Sugam Singhal",
+            "Chanchal",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which generic drugmaker received USFDA tentative approval for Sugammadex injection?",
-        "a": "Lupin",
+        "q": "Who among the following is the Country Head for Starlink India?",
+        "a": "Prabhakar Jayakumar",
         "options": [
-            "Merck",
-            "Cipla",
-            "Dr. Reddy's Laboratories",
-            "Lupin",
-            "Sun Pharmaceutical"
+            "Elon Musk",
+            "Gwynne Shotwell",
+            "Lauren Dreyer",
+            "Prabhakar Jayakumar",
+            "Sanjay Bakshi"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who chaired the Defence Acquisition Council (DAC) meeting that granted Acceptance of Necessity (AoN) for capital acquisition proposals?",
-        "a": "Rajnath Singh",
-        "options": [
-            "Nirmala Sitharaman",
-            "Amit Shah",
-            "Narendra Modi",
-            "Rajnath Singh",
-            "Ajit Doval"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which company will manufacture the Mountain Radar systems for the Air Force?",
-        "a": "Bharat Electronics Limited (BEL)",
-        "options": [
-            "DRDO",
-            "Hindustan Aeronautics Limited (HAL)",
-            "Bharat Dynamics Limited (BDL)",
-            "Bharat Electronics Limited (BEL)",
-            "Mazagon Dock Shipbuilders Limited"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which organisation, under DRDO, indigenously designed and developed the Mountain Radar systems?",
-        "a": "Electronics & Radar Development Establishment",
-        "options": [
-            "Defence Research and Development Laboratory",
-            "Electronics & Radar Development Establishment",
-            "Aeronautical Development Agency",
-            "Armament Research & Development Establishment",
-            "Gas Turbine Research Establishment"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the senior consultant neurosurgeon who headed the team at Gleneagles Hospital for the complex brain tumour surgery?",
-        "a": "Nigel Symss",
-        "options": [
-            "Venkatesan Sanjeevi",
-            "Nigel Symss",
-            "Dr. Devi Shetty",
-            "Dr. Naresh Trehan",
-            "Dr. Ashok Seth"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who received the Sahitya Akademi Award for 2025 for his work 'Tamil Sirukathaiyin Thadangal'?",
-        "a": "S. Tamilselvan",
-        "options": [
-            "Su. Venkatesan",
-            "V.V.S. Iyer",
-            "S. Tamilselvan",
-            "Perumal Murugan",
-            "Jeyamohan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which court rejected a Colorado law prohibiting 'conversion' talk therapy?",
-        "a": "US Supreme Court",
-        "options": [
-            "Colorado Supreme Court",
-            "US Court of Appeals",
-            "US District Court",
-            "US Supreme Court",
-            "International Court of Justice"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which state's law, banning 'conversion' talk therapy for minors, was struck down by the US Supreme Court?",
-        "a": "Colorado",
-        "options": [
-            "California",
-            "New York",
-            "Colorado",
-            "Massachusetts",
-            "Oregon"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which university did Swati Gandhi obtain her Master's degree in Journalism and Mass Communication?",
-        "a": "Guru Gobind Singh Indraprastha University",
-        "options": [
-            "University of Delhi",
-            "Jawaharlal Nehru University",
-            "Guru Gobind Singh Indraprastha University",
-            "Symbiosis Institute of Media and Communication",
-            "Indian Institute of Mass Communication"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At which news organization does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
-        "a": "Live Mint",
-        "options": [
-            "Business Standard",
-            "The Hindu",
-            "Live Mint",
-            "The Indian Express",
-            "Reuters"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the contract for the procurement of two mountain radars signed between the Ministry of Defence and BEL?",
-        "a": "New Delhi",
+        "q": "The Indian Institute of Management, tasked with studying PLI schemes, is located in which city?",
+        "a": "Ahmedabad",
         "options": [
             "Bengaluru",
-            "Chennai",
-            "Mumbai",
-            "New Delhi",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which hospital was the complex brain tumour surgery successfully performed?",
-        "a": "Gleneagles Hospital",
-        "options": [
-            "Apollo Hospitals",
-            "Fortis Hospital",
-            "Max Healthcare",
-            "Gleneagles Hospital",
-            "Manipal Hospitals"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city is the location of Gleneagles Hospital, where the brain tumour surgery took place?",
-        "a": "Chennai",
-        "options": [
-            "Bengaluru",
-            "Hyderabad",
-            "Delhi",
-            "Chennai",
-            "Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the Sahitya Akademi Award function held for S. Tamilselvan?",
-        "a": "Delhi",
-        "options": [
-            "Chennai",
-            "Mumbai",
             "Kolkata",
-            "Delhi",
-            "Bengaluru"
+            "Lucknow",
+            "Ahmedabad",
+            "Indore"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "Which region's ongoing conflict has significantly disrupted global crude oil and energy markets?",
-        "a": "West Asia",
+        "q": "Which US state's ruling, which blocked Trump's birthright citizenship policy, is being reviewed by the Supreme Court?",
+        "a": "New Hampshire",
         "options": [
-            "East Asia",
-            "Europe",
-            "North America",
-            "West Asia",
-            "Africa"
+            "Texas",
+            "California",
+            "New Hampshire",
+            "Florida",
+            "Arizona"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "For which country did Lupin receive USFDA tentative approval for Sugammadex injection?",
-        "a": "USA",
+        "q": "Which Indian state signed a Memorandum of Understanding (MoU) with Starlink India for advanced satellite connectivity?",
+        "a": "Meghalaya",
         "options": [
-            "India",
-            "Germany",
-            "USA",
-            "Japan",
-            "UK"
+            "Assam",
+            "Manipur",
+            "Mizoram",
+            "Meghalaya",
+            "Nagaland"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "Which country's economy is projected by EY to erode by around 1 percentage point due to the West Asia conflict?",
-        "a": "India",
+        "q": "Which city is envisioned by Meghalaya Chief Minister Conrad K Sangma as a hub for IT and technology in the Northeast?",
+        "a": "Shillong",
         "options": [
-            "China",
-            "USA",
-            "India",
-            "Germany",
-            "Japan"
+            "Guwahati",
+            "Kohima",
+            "Imphal",
+            "Agartala",
+            "Shillong"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "India is highly dependent on crude oil imports, with nearly 90% coming from which primary region as implied by the report?",
-        "a": "West Asia",
+        "q": "John Sauer served as Solicitor General of which US state from 2017 to 2023 before his current role?",
+        "a": "Missouri",
         "options": [
-            "North America",
-            "Latin America",
-            "Russia",
-            "West Asia",
-            "Europe"
+            "Texas",
+            "Florida",
+            "Missouri",
+            "Ohio",
+            "Georgia"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "On what date did the US Supreme Court reject the Colorado law on 'conversion' talk therapy?",
-        "a": "March 31, 2026",
-        "options": [
-            "March 30, 2026",
-            "March 31, 2026",
-            "April 1, 2026",
-            "February 28, 2026",
-            "September 30, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Until when has the Directorate of Foreign Trade extended the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
-        "a": "September 30, 2026",
-        "options": [
-            "March 31, 2026",
-            "September 30, 2026",
-            "December 31, 2026",
-            "March 31, 2027",
-            "August 31, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date was SEBI's interim ex-parte order against Elite Con International released?",
-        "a": "March 31, 2026",
-        "options": [
-            "March 23, 2026",
-            "March 31, 2026",
-            "April 7, 2026",
-            "February 28, 2026",
-            "March 27, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The EY report estimates that the adverse impact of the West Asia conflict could persist throughout which fiscal year for India's economy?",
-        "a": "FY27",
-        "options": [
-            "FY26",
-            "FY27",
-            "FY28",
-            "FY25",
-            "FY29"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did global crude prices start rising significantly due to military strikes launched by the United States and Israel against Iran?",
-        "a": "February 28",
-        "options": [
-            "January 15",
-            "February 1",
-            "February 28",
-            "March 15",
-            "April 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which fiscal year was the Economic Stabilisation Fund (ESF) introduced by the Government of India?",
-        "a": "FY26",
-        "options": [
-            "FY25",
-            "FY26",
-            "FY27",
-            "FY24",
-            "FY23"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Lupin receive USFDA tentative approval for Sugammadex injection?",
-        "a": "March 31, 2026",
-        "options": [
-            "March 30, 2026",
-            "March 31, 2026",
-            "April 1, 2026",
-            "March 28, 2026",
-            "March 27, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the World Health Organization (WHO) classify the rare and aggressive brain tumour type mentioned in the Gleneagles Hospital news?",
-        "a": "2021",
-        "options": [
-            "2019",
-            "2020",
-            "2021",
-            "2022",
-            "2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For which year did S. Tamilselvan receive the Sahitya Akademi Award?",
-        "a": "2025",
-        "options": [
-            "2024",
-            "2025",
-            "2023",
-            "2022",
-            "2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Defence Acquisition Council (DAC) grant Acceptance of Necessity (AoN) for capital acquisition proposals?",
-        "a": "March 27",
-        "options": [
-            "March 26",
-            "March 27",
-            "March 28",
-            "March 31",
-            "April 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Colorado pass the law banning conversion therapy for minors?",
-        "a": "2019",
+        "q": "In which year were the Production-Linked Incentive (PLI) schemes launched?",
+        "a": "2020",
         "options": [
             "2018",
             "2019",
             "2020",
             "2021",
-            "2017"
+            "2022"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "On what date was the notification issued by the DGFT regarding the extension of the RoDTEP scheme?",
-        "a": "March 31",
+        "q": "The commerce ministry statement regarding PLI scheme disbursals was released on which date?",
+        "a": "20 February",
         "options": [
-            "March 23",
-            "March 31",
-            "February 28",
-            "September 30",
-            "March 27"
+            "20 January",
+            "10 February",
+            "20 February",
+            "10 March",
+            "27 March"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was the primary reason the US Supreme Court rejected Colorado's conversion therapy ban?",
-        "a": "It violated free speech rights (First Amendment).",
+        "q": "The PLI scheme for food processing industries (PLISFPI) is to be implemented during which period?",
+        "a": "2021-22 to 2026-27",
         "options": [
-            "It was found to be ineffective in practice.",
-            "It conflicted with federal healthcare regulations.",
-            "It violated free speech rights (First Amendment).",
-            "It imposed excessive financial burdens on therapists.",
-            "It lacked sufficient scientific backing."
+            "2020-21 to 2025-26",
+            "2021-22 to 2026-27",
+            "2022-23 to 2027-28",
+            "2019-20 to 2024-25",
+            "2023-24 to 2028-29"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was Colorado's stated purpose for passing the law banning conversion therapy for minors?",
-        "a": "To protect minors from psychological harm.",
+        "q": "The US Supreme Court heard arguments in the Birthright Citizenship case on which day, as referenced in the article?",
+        "a": "Wednesday, April 1, 2026",
         "options": [
-            "To increase state revenue through fines.",
-            "To regulate 'professional conduct'.",
-            "To promote a specific religious viewpoint.",
-            "To protect minors from psychological harm.",
-            "To align with national medical guidelines."
+            "Monday, March 30, 2026",
+            "Tuesday, March 31, 2026",
+            "Wednesday, April 1, 2026",
+            "Thursday, April 2, 2026",
+            "Friday, April 3, 2026"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What is the primary purpose of extending the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme?",
-        "a": "For the benefit of exporters.",
+        "q": "In which year did the Supreme Court rule against John Elk in Elk v. Wilkins, holding that Native Americans were not automatically granted citizenship?",
+        "a": "1884",
         "options": [
-            "To increase government revenue.",
-            "To reduce domestic prices.",
-            "For the benefit of exporters.",
-            "To stabilize the domestic currency.",
-            "To encourage imports."
+            "1878",
+            "1880",
+            "1884",
+            "1890",
+            "1898"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What was the reason SEBI fined Elite Con International?",
-        "a": "Allegedly inflating stock price and dumping on retail investors.",
+        "q": "When did John Sauer take office as US Solicitor General?",
+        "a": "2025",
         "options": [
-            "Failure to pay taxes on time.",
-            "Allegedly inflating stock price and dumping on retail investors.",
-            "Violation of environmental regulations.",
-            "Non-compliance with manufacturing standards.",
-            "Involvement in illegal trade practices."
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2022"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "What is the primary objective of the Economic Stabilisation Fund (ESF) established by the Government of India?",
-        "a": "To act as a financial buffer against global headwinds.",
+        "q": "When is the US Supreme Court expected to deliver its final verdict on the birthright citizenship case?",
+        "a": "June",
         "options": [
-            "To boost agricultural output.",
-            "To fund infrastructure projects.",
-            "To act as a financial buffer against global headwinds.",
-            "To provide subsidies to industries.",
-            "To reduce the fiscal deficit."
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "According to the EY report, what is the main reason for the projected erosion of India's GDP and rise in inflation?",
-        "a": "The West Asia conflict disrupting global crude oil and energy markets.",
+        "q": "The price hike by JSW MG Motor India on its portfolios became effective from which date?",
+        "a": "April 1, 2026",
         "options": [
-            "A global economic slowdown.",
-            "Domestic policy changes.",
-            "Increased international trade tariffs.",
-            "The West Asia conflict disrupting global crude oil and energy markets.",
-            "A surge in gold prices."
+            "March 1, 2026",
+            "March 15, 2026",
+            "April 1, 2026",
+            "April 15, 2026",
+            "May 1, 2026"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "For what medical purpose is Lupin's Sugammadex Injection indicated?",
-        "a": "Reversal of neuromuscular blockade.",
+        "q": "The government\u2019s gross revenue from Goods and Services Tax (GST) grew to a 10-month high in which month of 2025?",
+        "a": "March",
         "options": [
-            "Pain relief for surgical patients.",
-            "Treatment of bacterial infections.",
-            "Reversal of neuromuscular blockade.",
-            "Management of blood pressure.",
-            "Reduction of inflammation."
+            "January",
+            "February",
+            "March",
+            "April",
+            "December"
         ],
-        "cat": "Why"
+        "cat": "When (Kab)"
     },
     {
-        "q": "Under which specific category was the Ministry of Defence contract with BEL signed for the procurement of mountain radars?",
-        "a": "Buy (Indian\u2013Indigenously Designed, Developed and Manufactured)",
+        "q": "What is the primary purpose for which the Indian government launched the Production-Linked Incentive (PLI) schemes?",
+        "a": "To promote domestic manufacturing in various sectors.",
         "options": [
-            "Buy (Global)",
-            "Buy (Indian)",
-            "Buy (Indian\u2013Indigenously Designed, Developed and Manufactured)",
-            "Make in India (Partnership)",
-            "Strategic Partnership Model"
+            "To increase foreign direct investment (FDI)",
+            "To promote exports only",
+            "To reduce imports across all sectors",
+            "To promote domestic manufacturing in various sectors",
+            "To provide upfront subsidies to companies"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What is the key purpose behind the procurement of two mountain radars for the Air Force?",
-        "a": "To enhance air defence capabilities and surveillance in mountainous terrain.",
+        "q": "According to the text, why did the PLI scheme for electric vehicle batteries (ACC) show zero disbursals?",
+        "a": "Indian battery makers faced technology challenges in scaling up production.",
         "options": [
-            "To improve communication networks for civil aviation.",
-            "To enhance air defence capabilities and surveillance in mountainous terrain.",
-            "To monitor weather patterns for agricultural forecasts.",
-            "To assist in maritime surveillance operations.",
-            "To support ground forces logistics."
+            "Lack of investment by companies",
+            "Regulatory hurdles",
+            "Indian battery makers faced technology challenges in scaling up production",
+            "Insufficient government funding",
+            "Low demand for electric vehicles"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "In which literary category did S. Tamilselvan's work 'Tamil Sirukathaiyin Thadangal' win the Sahitya Akademi Award for 2025?",
-        "a": "Literary criticism",
+        "q": "What was one of the three 'tailwinds' that helped the Indian passenger vehicles industry during FY26, according to Maruti Suzuki?",
+        "a": "Income tax relief provided by the government.",
         "options": [
-            "Poetry",
-            "Novel",
-            "Short story collection",
-            "Literary criticism",
-            "Drama"
+            "Increase in fuel prices",
+            "Rise in input costs",
+            "Imposition of new taxes",
+            "Income tax relief provided by the government",
+            "Decrease in export demand"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What was the core argument of Justice Ketanji Brown Jackson's dissent in the US Supreme Court's conversion therapy case?",
-        "a": "Medical professionals speaking to minors should face stricter regulation than ordinary speech.",
+        "q": "What is the specific aim of providing financial incentives under PLISFPI?",
+        "a": "To promote Indian food brands abroad.",
         "options": [
-            "The law should apply equally to all citizens.",
-            "Free speech rights are absolute and should not be restricted.",
-            "Conversion therapy is harmless and should be allowed.",
-            "Medical professionals speaking to minors should face stricter regulation than ordinary speech.",
-            "States do not have the authority to regulate healthcare practices."
+            "To reduce food wastage domestically",
+            "To ensure food security",
+            "To promote Indian food brands abroad",
+            "To provide subsidies to farmers",
+            "To increase agricultural exports only"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What type of therapy did the Colorado law prohibit psychotherapists from using, targeting LGBT minors?",
-        "a": "'conversion' talk therapy",
+        "q": "According to John Sauer, what does unrestricted birthright citizenship contradict?",
+        "a": "The practice of the overwhelming majority of modern nations.",
         "options": [
-            "Cognitive Behavioral Therapy (CBT)",
-            "Family Systems Therapy",
-            "Dialectical Behavior Therapy (DBT)",
-            "'conversion' talk therapy",
-            "Psychodynamic Therapy"
+            "The US Constitution",
+            "International law",
+            "The practice of the overwhelming majority of modern nations",
+            "Basic human rights",
+            "The concept of naturalization"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
+    },
+    {
+        "q": "What is the reason cited for the expected lower growth in the PV industry in FY27?",
+        "a": "Impact of geopolitical issues.",
+        "options": [
+            "Reduced consumer demand",
+            "Increased competition",
+            "Impact of geopolitical issues",
+            "Higher interest rates",
+            "Technological obsolescence"
+        ],
+        "cat": "Why (Kyo)"
     }
 ]
