@@ -1,745 +1,721 @@
 [
     {
-        "q": "What was the allocated budget for minority welfare schemes in 2022-23, as mentioned by John Brittas?",
-        "a": "\u20b95020 crore",
+        "q": "What was the estimated range of Iran's missile arsenal by US intelligence before the recent conflict began?",
+        "a": "1,500 and 3,000",
         "options": [
-            "\u20b95000 crore",
-            "\u20b95010 crore",
-            "\u20b95020 crore",
-            "\u20b95030 crore",
-            "\u20b95040 crore"
+            "1,000 and 2,000",
+            "1,500 and 3,000",
+            "2,000 and 4,000",
+            "500 and 1,000",
+            "3,000 and 5,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was actually spent on minority welfare schemes in 2022-23?",
-        "a": "\u20b9837 crore",
+        "q": "How many missiles did Iran launch on the first day of the conflict?",
+        "a": "around 90",
         "options": [
-            "\u20b9830 crore",
-            "\u20b9840 crore",
-            "\u20b9837 crore",
-            "\u20b9847 crore",
-            "\u20b9827 crore"
+            "around 75",
+            "around 80",
+            "around 90",
+            "around 100",
+            "around 110"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocated budget for minority welfare schemes in 2023-24?",
-        "a": "\u20b93097 crore",
+        "q": "How many missiles per day does Iran now launch, according to analysts, indicating depleting stockpiles?",
+        "a": "10-30",
         "options": [
-            "\u20b93087 crore",
-            "\u20b93107 crore",
-            "\u20b93097 crore",
-            "\u20b93090 crore",
-            "\u20b93100 crore"
+            "5-15",
+            "10-30",
+            "30-50",
+            "50-70",
+            "70-90"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was actually spent on minority welfare schemes in 2023-24?",
-        "a": "\u20b91032 crore",
+        "q": "According to current US intelligence assessments, what fraction of Iran's missile launchers are still intact?",
+        "a": "nearly half",
         "options": [
-            "\u20b91022 crore",
-            "\u20b91042 crore",
-            "\u20b91032 crore",
-            "\u20b91035 crore",
-            "\u20b91025 crore"
+            "nearly a quarter",
+            "nearly a third",
+            "nearly half",
+            "nearly two-thirds",
+            "nearly three-quarters"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocated budget for minority welfare schemes in 2024-25?",
-        "a": "\u20b93183 crore",
+        "q": "What fraction of Iran's missile arsenal does the US now believe it has destroyed with certainty?",
+        "a": "about a third",
         "options": [
-            "\u20b93173 crore",
-            "\u20b93193 crore",
-            "\u20b93183 crore",
-            "\u20b93180 crore",
-            "\u20b93190 crore"
+            "about a fifth",
+            "about a quarter",
+            "about a third",
+            "about half",
+            "about two-thirds"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was actually spent on minority welfare schemes in 2024-25?",
-        "a": "\u20b91396 crore",
+        "q": "Before the war, how many ballistic missiles per month did the US and Israel estimate Iran was producing?",
+        "a": "over 100",
         "options": [
-            "\u20b91386 crore",
-            "\u20b91406 crore",
-            "\u20b91396 crore",
-            "\u20b91390 crore",
-            "\u20b91400 crore"
+            "over 80",
+            "over 90",
+            "over 100",
+            "over 110",
+            "over 120"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many years has digital journalist Swati Gandhi specialized in international and geopolitical issues?",
-        "a": "Over four years",
+        "q": "What is the projected number of ballistic missiles Iran could build up by 2027 if it continued rebuilding its missile program?",
+        "a": "up to 8000",
         "options": [
-            "Over three years",
-            "Over five years",
-            "Over four years",
-            "Exactly four years",
-            "Over six years"
+            "up to 7000",
+            "up to 7500",
+            "up to 8000",
+            "up to 8500",
+            "up to 9000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many federal officers did the government send to Minneapolis this winter for the immigration crackdown?",
-        "a": "Nearly 3,000",
+        "q": "How many years of total experience does journalist Bobins have in his career?",
+        "a": "14",
         "options": [
-            "Nearly 2,500",
-            "Nearly 3,000",
-            "Exactly 3,000",
-            "Approximately 2,800",
-            "Over 3,000"
+            "12",
+            "13",
+            "14",
+            "15",
+            "16"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years has the investigation into the Harlow house fire been ongoing?",
-        "a": "13-year-old",
+        "q": "In the Rajpal Yadav cheque bounce case, what was the initial amount of the loan taken by the actor?",
+        "a": "\u20b95 crore",
         "options": [
-            "10-year-old",
-            "12-year-old",
-            "13-year-old",
-            "14-year-old",
-            "15-year-old"
+            "\u20b93 crore",
+            "\u20b94 crore",
+            "\u20b95 crore",
+            "\u20b96 crore",
+            "\u20b97 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many children lost their lives in the Harlow house fire incident?",
-        "a": "Five",
+        "q": "What lowered sum did the complainant in the Rajpal Yadav case consent to accept as a comprehensive and final settlement?",
+        "a": "\u20b96 crore",
         "options": [
-            "Four",
-            "Six",
-            "Five",
-            "Seven",
-            "Three"
+            "\u20b94.5 crore",
+            "\u20b95 crore",
+            "\u20b96 crore",
+            "\u20b96.5 crore",
+            "\u20b97 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Dr. Sabah Usmani, who died in the Harlow fire?",
-        "a": "44",
+        "q": "What amount of losses did Rajpal Yadav claim to have endured because of the film in question?",
+        "a": "\u20b917 crore",
         "options": [
-            "42",
-            "43",
-            "44",
-            "45",
-            "46"
+            "\u20b915 crore",
+            "\u20b916 crore",
+            "\u20b917 crore",
+            "\u20b918 crore",
+            "\u20b919 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many officers have been involved in the Operation Shakespeare investigation?",
-        "a": "Over 70",
+        "q": "How many days of unexplained delay was there in the revision petition submitted by Rajpal Yadav in 2024?",
+        "a": "1,894 days",
         "options": [
-            "Over 50",
-            "Over 60",
-            "Over 70",
-            "Exactly 70",
-            "Over 80"
+            "1,884 days",
+            "1,889 days",
+            "1,894 days",
+            "1,899 days",
+            "1,904 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many witness statements have been collected for Operation Shakespeare?",
-        "a": "Around 500",
+        "q": "What was the proposed deal value for Emirates NBD to acquire a majority 60% stake in RBL Bank?",
+        "a": "\u20b926,853 crore",
         "options": [
-            "Around 400",
-            "Around 500",
-            "Around 600",
-            "Exactly 500",
-            "Over 500"
+            "\u20b925,853 crore",
+            "\u20b926,353 crore",
+            "\u20b926,853 crore",
+            "\u20b927,353 crore",
+            "\u20b927,853 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many pieces of evidence have been gathered for the Harlow fire investigation?",
-        "a": "Nearly 2,000",
+        "q": "What percentage of the paid-up share capital of RBL Bank must Emirates NBD acquire and maintain as per RBI approval?",
+        "a": "at least 51%",
         "options": [
-            "Nearly 1,500",
-            "Nearly 1,800",
-            "Nearly 2,000",
-            "Exactly 2,000",
-            "Over 2,000"
+            "at least 48%",
+            "at least 49%",
+            "at least 51%",
+            "at least 53%",
+            "at least 55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many judicial officers were gheraoed in Malda district, West Bengal?",
-        "a": "Seven",
+        "q": "What is the maximum percentage of voting rights of ENBD capped at for RBL Bank, in accordance with Section 12(2) of the Banking Regulation Act, 1949?",
+        "a": "26%",
         "options": [
-            "Five",
-            "Six",
-            "Seven",
-            "Eight",
-            "Nine"
+            "20%",
+            "24%",
+            "26%",
+            "28%",
+            "30%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people did CM Yogi Adityanath meet during the Janata Darshan at Gorakhnath Temple?",
-        "a": "Around 100",
+        "q": "What is the approximate market value of US satellite telecoms group Globalstar?",
+        "a": "$9 billion",
         "options": [
-            "Around 80",
-            "Around 90",
-            "Around 100",
-            "Around 110",
-            "Around 120"
+            "$7.5 billion",
+            "$8 billion",
+            "$9 billion",
+            "$9.5 billion",
+            "$10 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Orion spacecraft departed Earth's orbit for a journey of approximately how many kilometers into deep space?",
-        "a": "Nearly 400,000-kilometre",
+        "q": "What percentage stake does Apple hold in Globalstar, complicating the acquisition talks with Amazon?",
+        "a": "20 percent",
         "options": [
-            "Nearly 350,000-kilometre",
-            "Nearly 380,000-kilometre",
-            "Nearly 400,000-kilometre",
-            "Exactly 400,000-kilometre",
-            "Over 400,000-kilometre"
+            "15 percent",
+            "18 percent",
+            "20 percent",
+            "22 percent",
+            "25 percent"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many kilometers beyond the moon will Orion pass during its lunar flyby?",
-        "a": "Roughly 6,400 kilometres",
+        "q": "How many people were injured in Abu Dhabi after falling debris landed following the interception of an attack?",
+        "a": "12",
         "options": [
-            "Roughly 6,000 kilometres",
-            "Roughly 6,200 kilometres",
-            "Roughly 6,400 kilometres",
-            "Roughly 6,500 kilometres",
-            "Roughly 6,600 kilometres"
+            "8",
+            "10",
+            "12",
+            "14",
+            "16"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The American values mentioned by Bruce Springsteen have sustained the US for how many years?",
-        "a": "250 years",
+        "q": "How many Indian nationals were among those injured in the Abu Dhabi incident?",
+        "a": "5",
         "options": [
-            "200 years",
-            "225 years",
-            "250 years",
-            "275 years",
-            "300 years"
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of counties across America did Trump claim to win in his \"Landslide Election\"?",
-        "a": "86%",
+        "q": "In the 2021 Assembly election, how many seats did TMC (M) ultimately get, despite wanting 12?",
+        "a": "six",
         "options": [
-            "80%",
-            "82%",
-            "86%",
-            "88%",
-            "90%"
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who did US President Donald Trump slam, calling him a \"dried up prune\"?",
-        "a": "Bruce Springsteen",
+        "q": "Who announced the launch of Operation Epic Fury, targeting Iran's ballistic missile arsenal?",
+        "a": "The US",
         "options": [
-            "Joe Biden",
-            "Mike Pence",
-            "Bruce Springsteen",
+            "Israel",
+            "Iran",
+            "The US",
+            "Saudi Arabia",
+            "United Nations"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which journalist was awarded by Times Internet in 2018 for the impact of his story on Delhi tree cuttings?",
+        "a": "Bobins",
+        "options": [
+            "Sugam Singhal",
+            "Bobins",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the presiding judge in the cheque bounce litigation involving Bollywood actor Rajpal Yadav?",
+        "a": "Justice Swarana Kanta Sharma",
+        "options": [
+            "Justice Juvvadi Sridevi",
+            "Justice Rajeev Goyal",
+            "Justice Swarana Kanta Sharma",
+            "Justice Tribhuvan Dahiya",
+            "Justice Avneet Sikka"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who represents the complainant company in the Rajpal Yadav cheque bounce case, arguing against Rajpal's revision petition?",
+        "a": "Advocate Avneet Singh Sikka",
+        "options": [
+            "Bhaskar Upadhyay",
+            "Justice Swarana Kanta Sharma",
+            "Advocate Avneet Singh Sikka",
+            "Rajpal Yadav",
+            "S.P.S. Parmar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Dubai-based bank received RBI approval to acquire up to a 74% stake in RBL Bank?",
+        "a": "Emirates National Bank of Dubai (NBD)",
+        "options": [
+            "Dubai Islamic Bank",
+            "Mashreq Bank",
+            "Emirates National Bank of Dubai (NBD)",
+            "Abu Dhabi Commercial Bank",
+            "Commercial Bank of Dubai"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Indian private sector lender is set to become a foreign bank in subsidiary mode after the acquisition by Emirates NBD?",
+        "a": "RBL Bank",
+        "options": [
+            "Axis Bank",
+            "Yes Bank",
+            "RBL Bank",
+            "IndusInd Bank",
+            "Federal Bank"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which individual is the founder of Amazon, mentioned in the context of building the Amazon Leo satellite network?",
+        "a": "Jeff Bezos",
+        "options": [
             "Elon Musk",
-            "Kim Kardashian"
+            "Jeff Bezos",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Tim Cook"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the digital journalist specializing in international and geopolitical issues mentioned in the news?",
-        "a": "Swati Gandhi",
+        "q": "Which company operates the Starlink satellite internet service, which Amazon Leo aims to rival?",
+        "a": "SpaceX",
         "options": [
-            "Smita Singh",
-            "Swati Gandhi",
-            "Shweta Gupta",
-            "Seema Rao",
-            "Sonia Sharma"
+            "Blue Origin",
+            "Virgin Galactic",
+            "SpaceX",
+            "Boeing",
+            "Northrop Grumman"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Member of Parliament from Kerala sought details of scholarship schemes for minority students?",
-        "a": "John Brittas",
+        "q": "Which former Haryana Chief Minister was discharged in a money laundering case linked to the re-allotment of a plot in Panchkula?",
+        "a": "Bhupinder Singh Hooda",
         "options": [
-            "Pinarayi Vijayan",
-            "Shashi Tharoor",
-            "John Brittas",
-            "V. Muraleedharan",
-            "E.P. Jayarajan"
+            "Om Prakash Chautala",
+            "Manohar Lal Khattar",
+            "Bhupinder Singh Hooda",
+            "Bansi Lal",
+            "Devi Lal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minority Affairs Minister who responded to the question about scholarship schemes in Rajya Sabha?",
-        "a": "Kiren Rijiju",
+        "q": "Who is the president of Tamil Maanila Congress (Moopanar) who discussed the upcoming Assembly elections and alliances?",
+        "a": "G.K. Vasan",
         "options": [
-            "Amit Shah",
-            "Nirmala Sitharaman",
-            "Kiren Rijiju",
-            "Raj Nath Singh",
-            "Piyush Goyal"
+            "M.K. Stalin",
+            "K. Palaniswami",
+            "G.K. Vasan",
+            "J. Jayalalithaa",
+            "C. Joseph Vijay"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Chief Minister of Uttar Pradesh mentioned in the news?",
-        "a": "Yogi Adityanath",
+        "q": "Who did G.K. Vasan refer to as a leader representing an era in Indian politics after Atal Bihari Vajpayee's stint?",
+        "a": "Narendra Modi",
         "options": [
-            "Akhilesh Yadav",
-            "Mayawati",
-            "Yogi Adityanath",
-            "Arvind Kejriwal",
-            "Pushkar Singh Dhami"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Canadian astronaut on the Artemis II mission?",
-        "a": "Jeremy Hansen",
-        "options": [
-            "Chris Hadfield",
-            "Robert Thirsk",
-            "Jeremy Hansen",
-            "David Saint-Jacques",
-            "Julie Payette"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the first Black astronaut to travel to the moon, as mentioned in the Artemis II mission?",
-        "a": "Victor Glover",
-        "options": [
-            "Mae Jemison",
-            "Guion Bluford",
-            "Victor Glover",
-            "Ronald McNair",
-            "Bernard Harris"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the first woman to travel to the moon, as part of the Artemis II mission?",
-        "a": "Christina Koch",
-        "options": [
-            "Sally Ride",
-            "Peggy Whitson",
-            "Christina Koch",
-            "Jessica Meir",
-            "Shannon Lucid"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who led the investigation into the Harlow house fire, known as Operation Shakespeare?",
-        "a": "Detective Chief Inspector Louise Metcalfe",
-        "options": [
-            "Superintendent John Smith",
-            "Detective Sergeant Emily White",
-            "Detective Chief Inspector Louise Metcalfe",
-            "Inspector David Jones",
-            "Chief Constable Robert Brown"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the sole survivor of the Harlow house fire?",
-        "a": "Dr Abdul Shakoor",
-        "options": [
-            "Dr. Sabah Usmani",
-            "Dr. Ahmed Khan",
-            "Dr Abdul Shakoor",
-            "Mr. Imran Ali",
-            "Mr. Saleem Hussain"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which market regulator proposed to enable buy-back of shares through stock exchanges?",
-        "a": "SEBI",
-        "options": [
-            "RBI",
-            "IRDAI",
-            "PFRDA",
-            "SEBI",
-            "FMC"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which organizations represented to the markets regulator for re-introduction of buy-back through stock exchange?",
-        "a": "FICCI and Investment Bankers association",
-        "options": [
-            "CII and NSE",
-            "ASSOCHAM and BSE",
-            "FICCI and Investment Bankers association",
-            "NASSCOM and FII",
-            "SEBI and RBI"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who confirmed the Artemis II trans-lunar injection was flawless, stating it was the first time since 1972 humans left Earth's orbit?",
-        "a": "NASA official Lori Glaze",
-        "options": [
-            "NASA Administrator Bill Nelson",
-            "Astronaut Peggy Whitson",
-            "NASA official Lori Glaze",
-            "SpaceX CEO Elon Musk",
-            "Boeing CEO David Calhoun"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Chief Minister of West Bengal who alleged a plot to incite violence?",
-        "a": "Mamata Banerjee",
-        "options": [
+            "Rahul Gandhi",
+            "Manmohan Singh",
+            "L.K. Advani",
             "Narendra Modi",
-            "Arvind Kejriwal",
-            "Mamata Banerjee",
-            "Himanta Biswa Sarma",
-            "Bhupesh Baghel"
+            "Sonia Gandhi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where did Bruce Springsteen kick off his \"Land of Hope and Dreams American Tour\"?",
-        "a": "Minneapolis",
+        "q": "Which judicial body set aside the 2021 order that had framed charges against Bhupinder Singh Hooda in the money laundering case?",
+        "a": "Punjab and Haryana High Court",
         "options": [
-            "New York",
-            "Los Angeles",
-            "Minneapolis",
-            "Chicago",
-            "Boston"
+            "Supreme Court of India",
+            "Delhi High Court",
+            "Bombay High Court",
+            "Punjab and Haryana High Court",
+            "Special CBI Court"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to the text, Iranian missiles could potentially strike any locations in which broad geographical region?",
+        "a": "Middle East",
+        "options": [
+            "North Africa",
+            "Middle East",
+            "Central Asia",
+            "South Asia",
+            "Eastern Europe"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did Bruce Springsteen's 18-city tour conclude?",
-        "a": "Washington, DC",
-        "options": [
-            "New York City",
-            "Philadelphia",
-            "Washington, DC",
-            "Miami",
-            "San Francisco"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the fire incident that killed a mother and five children take place in October 2012?",
-        "a": "Harlow, England",
-        "options": [
-            "London, England",
-            "Manchester, England",
-            "Harlow, England",
-            "Birmingham, England",
-            "Glasgow, Scotland"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi holds a Bachelor\u2019s degree in English (Honours) from which university?",
-        "a": "University of Delhi",
-        "options": [
-            "Jawaharlal Nehru University",
-            "University of Delhi",
-            "Jamia Millia Islamia",
-            "Banaras Hindu University",
-            "Aligarh Muslim University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi obtained her Master\u2019s degree in Journalism and Mass Communication from which university?",
-        "a": "Guru Gobind Singh Indraprastha University",
-        "options": [
-            "Osmania University",
-            "Guru Gobind Singh Indraprastha University",
-            "Savitribai Phule Pune University",
-            "Mumbai University",
-            "Calcutta University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Strait of Hormuz was shut by Iran's Islamic Revolutionary Guard Corps (IRGC) days after the US and Iran waged war against which city?",
+        "q": "In which city were US-Israeli strikes specifically targeted at Tehran\u2019s missile infrastructure, including production and storage facilities?",
         "a": "Tehran",
         "options": [
             "Baghdad",
+            "Damascus",
             "Riyadh",
             "Tehran",
+            "Beirut"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which Indian city was journalist Bobins awarded by Times Internet for his story on tree cuttings?",
+        "a": "Delhi",
+        "options": [
+            "Mumbai",
+            "Bengaluru",
+            "Chennai",
+            "Kolkata",
+            "Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which High Court reserved its judgment in the cheque bounce litigation involving Bollywood actor Rajpal Yadav?",
+        "a": "Delhi High Court",
+        "options": [
+            "Bombay High Court",
+            "Madras High Court",
+            "Calcutta High Court",
+            "Delhi High Court",
+            "Allahabad High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Emirates National Bank of Dubai (NBD) is described as being based in which city?",
+        "a": "Dubai",
+        "options": [
+            "Doha",
+            "Riyadh",
+            "Abu Dhabi",
             "Dubai",
-            "Istanbul"
+            "Kuwait City"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did Chief Minister Yogi Adityanath hold the Janata Darshan mentioned in the news?",
-        "a": "Gorakhnath Temple",
+        "q": "The incident involving falling debris and injuries after an attack interception took place in the Ajban area of which city?",
+        "a": "Abu Dhabi",
         "options": [
-            "Ayodhya Temple",
-            "Kashi Vishwanath Temple",
-            "Gorakhnath Temple",
-            "Mathura Temple",
-            "Vrindavan Temple"
+            "Dubai",
+            "Sharjah",
+            "Abu Dhabi",
+            "Ajman",
+            "Ras Al Khaimah"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which district of West Bengal did the violence against judicial officers occur?",
-        "a": "Malda",
+        "q": "Churches in which country announced closures over Easter Sunday due to government orders amidst ongoing conflict?",
+        "a": "UAE",
         "options": [
-            "Bankura",
-            "Purulia",
-            "Malda",
-            "Nadia",
-            "Birbhum"
+            "Saudi Arabia",
+            "Kuwait",
+            "Oman",
+            "Qatar",
+            "UAE"
         ],
         "cat": "Where"
     },
     {
-        "q": "The judicial officers were gheraoed at Kaliachak block II in which district?",
-        "a": "Malda",
+        "q": "The plot re-allotment case involving former Haryana CM Bhupinder Singh Hooda originated from a plot in Sector 6 of which city?",
+        "a": "Panchkula",
         "options": [
-            "Murshidabad",
-            "Darjeeling",
-            "Malda",
-            "North 24 Parganas",
-            "Hooghly"
+            "Gurugram",
+            "Faridabad",
+            "Panipat",
+            "Ambala",
+            "Panchkula"
         ],
         "cat": "Where"
     },
     {
-        "q": "When was the SEBI consultation paper proposing to re-introduce buy-back of shares through stock exchanges released?",
-        "a": "April 2, 2026",
+        "q": "For how many days have the US and Israel been dropping bombs and launching missiles at Iran, according to the news text?",
+        "a": "35 days",
         "options": [
-            "March 15, 2026",
+            "20 days",
+            "25 days",
+            "30 days",
+            "35 days",
+            "40 days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month and year did US-Israeli strikes target Iran's missile program, according to an Israeli military spokesperson?",
+        "a": "June 2025",
+        "options": [
+            "April 2025",
+            "May 2025",
+            "June 2025",
+            "July 2025",
+            "August 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Journalist Bobins joined Live Mint in which month and year?",
+        "a": "February 2026",
+        "options": [
+            "December 2025",
+            "January 2026",
+            "February 2026",
+            "March 2026",
+            "April 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did Rajpal Yadav take the loan for his directorial debut, Ata Pata Laapata, which is the basis of the cheque bounce case?",
+        "a": "2010",
+        "options": [
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which specific date did the RBI accord approval to Emirates NBD to acquire a stake in RBL Bank?",
+        "a": "April 1",
+        "options": [
+            "March 28",
+            "March 30",
+            "April 1",
+            "April 3",
+            "April 5"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The regulatory filing by RBL Bank regarding RBI approval was made on which date?",
+        "a": "Thursday (April 2, 2026)",
+        "options": [
             "April 1, 2026",
             "April 2, 2026",
             "April 3, 2026",
-            "March 31, 2026"
+            "March 31, 2026",
+            "April 4, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Until when is the SEBI consultation paper open for stakeholder feedback?",
-        "a": "April 23, 2026",
+        "q": "In which month and year did Emirates NBD Bank express its interest to acquire a majority stake in RBL Bank?",
+        "a": "October 2025",
         "options": [
-            "April 15, 2026",
-            "April 20, 2026",
-            "April 23, 2026",
-            "April 25, 2026",
-            "April 30, 2026"
+            "August 2025",
+            "September 2025",
+            "October 2025",
+            "November 2025",
+            "December 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the route for buy-back through stock exchanges previously discontinued?",
-        "a": "From 1 April 2025",
+        "q": "By which month is SpaceX reportedly on track to list its shares through an IPO?",
+        "a": "July",
         "options": [
-            "From 1 March 2025",
-            "From 1 April 2025",
-            "From 1 May 2025",
-            "From 1 January 2026",
-            "From 1 March 2026"
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Bruce Springsteen's \"Land of Hope and Dreams American Tour\" in Minneapolis open?",
-        "a": "March 31",
+        "q": "On what day of the week did the incident in Abu Dhabi occur, where people were injured by falling debris?",
+        "a": "Friday",
         "options": [
-            "March 29",
-            "March 30",
-            "March 31",
-            "April 1",
-            "April 2"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did NASA's Artemis II mission successfully execute its critical engine burn?",
-        "a": "Late Thursday",
-        "options": [
-            "Early Wednesday",
-            "Late Wednesday",
-            "Early Thursday",
-            "Late Thursday",
-            "Early Friday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Artemis II crew could set a new speed record during reentry on which date?",
-        "a": "April 10",
-        "options": [
-            "April 8",
-            "April 9",
-            "April 10",
-            "April 11",
-            "April 12"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When is the Artemis II mission's lunar flyby scheduled?",
-        "a": "Monday",
-        "options": [
-            "Sunday",
-            "Monday",
             "Tuesday",
             "Wednesday",
+            "Thursday",
+            "Friday",
             "Saturday"
         ],
         "cat": "When"
     },
     {
-        "q": "The Center discontinued the implementation of several scholarship schemes for minority students beyond which financial year?",
-        "a": "2021-22",
+        "q": "From which academic year will private engineering colleges be permitted to collect tuition fees directly from students if the government fails to reimburse them?",
+        "a": "2026-27",
         "options": [
-            "2019-20",
-            "2020-21",
-            "2021-22",
-            "2022-23",
-            "2023-24"
+            "2024-25",
+            "2025-26",
+            "2026-27",
+            "2027-28",
+            "2028-29"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did Minority Affairs Minister Kiren Rijiju tell Rajya Sabha about the discontinuation of scholarship schemes?",
-        "a": "Monday (March 30, 3036)",
+        "q": "On what date was former Haryana CM Bhupinder Singh Hooda discharged in the money laundering case in Panchkula?",
+        "a": "Friday (April 3, 2026)",
         "options": [
-            "March 28, 3036",
-            "March 29, 3036",
-            "March 30, 3036",
-            "March 31, 3036",
-            "April 1, 3036"
+            "April 1, 2026",
+            "April 2, 2026",
+            "April 3, 2026",
+            "April 4, 2026",
+            "April 5, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was one of the reasons cited for the discontinuation of the buy-back through stock exchanges route previously?",
-        "a": "Differential tax treatment",
+        "q": "In which year was the plot in Sector 6, Panchkula, initially allotted by HUDA to AJL?",
+        "a": "1982",
         "options": [
-            "Lack of liquidity",
-            "High transaction costs",
-            "Differential tax treatment",
-            "Regulatory burden",
-            "Shareholder dissent"
+            "1978",
+            "1980",
+            "1982",
+            "1984",
+            "1986"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was one of the declared objectives of Operation Epic Fury by the US?",
+        "a": "To obliterate Iran\u2019s ballistic missile arsenal and production facilities.",
+        "options": [
+            "To establish diplomatic ties with Iran",
+            "To secure oil fields in the region",
+            "To obliterate Iran\u2019s ballistic missile arsenal and production facilities",
+            "To conduct humanitarian aid operations",
+            "To impose economic sanctions on Iran"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the long-term goal of NASA's Artemis II mission?",
-        "a": "Establishing a sustained human presence on the lunar surface",
+        "q": "Why have Washington and Jerusalem been trying to eliminate Iran's missile threat for a very long time?",
+        "a": "Because Iranian missiles could potentially strike any locations in the Middle East, including Israel.",
         "options": [
-            "Landing humans on Mars",
-            "Establishing a permanent space station in Earth orbit",
-            "Establishing a sustained human presence on the lunar surface",
-            "Exploring Jupiter's moons",
-            "Developing faster-than-light travel"
+            "To protect their trade interests",
+            "To prevent Iran from developing nuclear weapons",
+            "Because Iranian missiles could potentially strike any locations in the Middle East, including Israel",
+            "To stabilize the global oil market",
+            "To support regional allies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was one of the reasons Trump called NATO a 'paper tiger'?",
-        "a": "His appeal to allies in Europe did not prove successful amid the ongoing war in Iran.",
+        "q": "Why did Iran focus on rapidly accelerating missile production despite some of its production facilities being hit?",
+        "a": "To replace its used or destroyed inventory.",
         "options": [
-            "NATO members refused to pay their share",
-            "He believed NATO was outdated",
-            "His appeal to allies in Europe did not prove successful amid the ongoing war in Iran",
-            "He wanted to form a new alliance",
-            "He disagreed with NATO's leadership"
+            "To export missiles to friendly nations",
+            "To demonstrate its military resilience",
+            "To conduct pre-emptive strikes",
+            "To replace its used or destroyed inventory",
+            "To showcase technological advancements"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Iran's Islamic Revolutionary Guard Corps (IRGC) shut the Strait of Hormuz?",
-        "a": "Days after the US and Iran waged a war against Tehran.",
+        "q": "Why did the Delhi High Court express clear dissatisfaction regarding Rajpal Yadav's stance in the cheque bounce case?",
+        "a": "Regarding his inconsistent stance concerning the repayment of his outstanding debts.",
         "options": [
-            "To protest oil prices",
-            "To conduct military exercises",
-            "Days after the US and Iran waged a war against Tehran",
-            "Due to a naval blockade",
-            "For environmental reasons"
+            "Regarding his emotional appeal during proceedings",
+            "Regarding his claim of significant financial losses",
+            "Regarding his inconsistent stance concerning the repayment of his outstanding debts",
+            "Regarding the delay in filing the revision petition",
+            "Regarding the conduct of his previous counsel"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to Springsteen, what is challenging American values as never before?",
-        "a": "An unconstitutional and illegal war and a president who can't handle the truth.",
+        "q": "What was the underlying reason for the cheque bounce case against Rajpal Yadav?",
+        "a": "Failure to repay a 2010 loan taken for his directorial debut.",
         "options": [
-            "Economic recession",
-            "Technological advancements",
-            "An unconstitutional and illegal war and a president who can't handle the truth",
-            "Social unrest",
-            "Natural disasters"
+            "Violation of intellectual property rights",
+            "Tax evasion allegations",
+            "Failure to repay a 2010 loan taken for his directorial debut",
+            "Dispute over film production credits",
+            "Allegations of financial mismanagement in his production house"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did FICCI and Investment Bankers association represent to SEBI for re-introducing buy-back through stock exchange?",
-        "a": "It was an internationally recognised and efficient method.",
+        "q": "What is the primary purpose of Amazon's talks to buy Globalstar?",
+        "a": "Seeking to boost its bid to rival Elon Musk's Starlink.",
         "options": [
-            "To increase company valuations",
-            "To reduce market volatility",
-            "It was an internationally recognised and efficient method",
-            "To attract more foreign investment",
-            "To simplify regulatory procedures"
+            "To acquire Globalstar's mobile phone technology",
+            "To diversify into traditional telecommunications",
+            "Seeking to boost its bid to rival Elon Musk's Starlink",
+            "To utilize Globalstar's satellite launch capabilities",
+            "To expand its e-commerce delivery network via satellite"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why were pre-matric scholarships for minorities limited to Classes IX and X?",
-        "a": "Following the implementation of the Right to Education Act.",
+        "q": "What was the main reason cited for Bhupinder Singh Hooda's discharge in the money laundering case?",
+        "a": "The predicate (main CBI) case had already been decided by the Punjab and Haryana High Court.",
         "options": [
-            "Budgetary constraints",
-            "Reduced student enrollment",
-            "Following the implementation of the Right to Education Act",
-            "Changes in educational policy",
-            "To focus on higher education"
+            "Lack of sufficient evidence against him",
+            "A technical procedural error in the ED's case",
+            "The predicate (main CBI) case had already been decided by the Punjab and Haryana High Court",
+            "The charges were time-barred under relevant laws",
+            "The court found no intention of money laundering"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason for John Brittas's criticism of the Ministry of Minority Affairs?",
-        "a": "Poor utilisation of funds and lack of intent.",
+        "q": "According to G.K. Vasan, why are the people of Tamil Nadu angry with the DMK government?",
+        "a": "As the state missed several schemes due to the DMK government treating the ruling BJP as an \"enemy\".",
         "options": [
-            "Increased corruption",
-            "Inefficient administration",
-            "Poor utilisation of funds and lack of intent",
-            "Bias in scheme selection",
-            "Lack of new schemes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the Janata Darshan held by Chief Minister Yogi Adityanath?",
-        "a": "To listen to people's grievances and ensure benefits of welfare schemes.",
-        "options": [
-            "To announce new policies",
-            "To review government projects",
-            "To listen to people's grievances and ensure benefits of welfare schemes",
-            "To hold political rallies",
-            "To meet party members"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the Election Commission of India (ECI) ask the NIA to investigate the Malda violence?",
-        "a": "The Supreme Court directed the commission to entrust the investigation to an independent agency.",
-        "options": [
-            "To bypass local police",
-            "To speed up the investigation",
-            "The Supreme Court directed the commission to entrust the investigation to an independent agency",
-            "Due to the severity of the incident",
-            "To involve a central agency for national security"
+            "Due to the DMK's stance on language policy",
+            "Due to perceived corruption in local governance",
+            "As the state missed several schemes due to the DMK government treating the ruling BJP as an \"enemy\"",
+            "Due to the DMK's alliance with other regional parties",
+            "Due to insufficient focus on rural development"
         ],
         "cat": "Why"
     }
