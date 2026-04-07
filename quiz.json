@@ -1,722 +1,794 @@
 [
     {
-        "q": "Approximately what percentage of the world's oil and liquefied natural gas flows through the Strait of Hormuz each day?",
-        "a": "20 per cent",
+        "q": "What was the total allocation for the Minorities Welfare Department in Telangana for FY 2025-26?",
+        "a": "\u20b93,585.03 crore",
         "options": [
-            "15 per cent",
-            "20 per cent",
-            "25 per cent",
-            "30 per cent",
-            "10 per cent"
+            "\u20b93,600.00 crore",
+            "\u20b93,585.03 crore",
+            "\u20b93,550.00 crore",
+            "\u20b93,620.00 crore",
+            "\u20b93,570.00 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Moody's Ratings has slashed India's economic growth estimates for the current fiscal (FY27) to what percentage?",
-        "a": "6%",
+        "q": "How much did the Minorities Welfare Department in Telangana actually spend in FY 2025-26?",
+        "a": "\u20b91,703.30 crore",
         "options": [
-            "6.1%",
-            "6.5%",
-            "6%",
-            "6.8%",
-            "5.8%"
+            "\u20b91,710.30 crore",
+            "\u20b91,703.30 crore",
+            "\u20b91,695.30 crore",
+            "\u20b91,700.00 crore",
+            "\u20b91,705.50 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of India's crude oil imports does the West Asia region account for?",
-        "a": "55%",
+        "q": "What percentage of the allocated funds did the Minorities Welfare Department in Telangana spend in FY 2025-26?",
+        "a": "47.5%",
         "options": [
-            "40%",
-            "50%",
-            "55%",
-            "60%",
-            "65%"
+            "48.0%",
+            "47.0%",
+            "47.5%",
+            "46.5%",
+            "49.0%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Moody's projects inflation to average what percentage in FY27?",
-        "a": "4.8%",
+        "q": "What was the allocation for the Reimbursement of Tuition Fee (RTF) scheme?",
+        "a": "\u20b9300 crore",
         "options": [
-            "2.4%",
+            "\u20b9310 crore",
+            "\u20b9290 crore",
+            "\u20b9300 crore",
+            "\u20b9295 crore",
+            "\u20b9305 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much was spent on the Reimbursement of Tuition Fee (RTF) scheme?",
+        "a": "\u20b968.88 crore",
+        "options": [
+            "\u20b969.00 crore",
+            "\u20b968.88 crore",
+            "\u20b968.50 crore",
+            "\u20b969.50 crore",
+            "\u20b968.75 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the expenditure for the Chief Minister\u2019s Overseas Scholarship scheme against an allocation of \u20b9130 crore?",
+        "a": "\u20b9172.27 crore",
+        "options": [
+            "\u20b9170.00 crore",
+            "\u20b9172.27 crore",
+            "\u20b9175.00 crore",
+            "\u20b9171.50 crore",
+            "\u20b9173.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the allocation for the pre-matric (GoI) scholarship scheme?",
+        "a": "\u20b91.73 crore",
+        "options": [
+            "\u20b91.75 crore",
+            "\u20b91.73 crore",
+            "\u20b91.70 crore",
+            "\u20b91.80 crore",
+            "\u20b91.68 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the approximate budget allocated to the Telangana Minorities Residential Educational Institutions Society?",
+        "a": "\u20b9995 crore",
+        "options": [
+            "\u20b91000 crore",
+            "\u20b9995 crore",
+            "\u20b9990 crore",
+            "\u20b9985 crore",
+            "\u20b91005 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who filed the Right to Information request to track government scheme performance in Telangana?",
+        "a": "Kareem Ansari",
+        "options": [
+            "Mohammed Faraz Ahmed",
+            "Kareem Ansari",
+            "Anil Agarwal",
+            "Kapil Sibal",
+            "Tuhin Kanta Pandey"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which university serves as the nodal agency for the Centre for Educational Development of Minorities mentioned in the text?",
+        "a": "Osmania University",
+        "options": [
+            "Hyderabad University",
+            "Jawaharlal Nehru Technological University",
+            "Kakatiya University",
+            "Osmania University",
+            "Nagarjuna University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which fiscal year was the Minorities Welfare Department allocated \u20b93,585.03 crore?",
+        "a": "FY 2025-26",
+        "options": [
+            "FY 2024-25",
+            "FY 2025-26",
+            "FY 2023-24",
+            "FY 2026-27",
+            "FY 2022-23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the stated purpose of the Reimbursement of Tuition Fee (RTF) scheme?",
+        "a": "Extends financial assistance to college students by paying their fees.",
+        "options": [
+            "Provides laptops to students",
+            "Offers scholarships for school children",
+            "Extends financial assistance to college students by paying their fees",
+            "Supports adult literacy programs",
+            "Funds vocational training for youth"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Mohammed Faraz Ahmed, what will be the huge impact of the High Court's interim orders regarding RTF?",
+        "a": "Permitting private engineering colleges to collect fees directly from students if the government fails to reimburse.",
+        "options": [
+            "Increasing the RTF budget",
+            "Simplifying the application process for RTF",
+            "Permitting private engineering colleges to collect fees directly from students if the government fails to reimburse.",
+            "Ensuring timely reimbursement of fees by the government",
+            "Expanding the scope of RTF to include school students"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the Adani group's bid value to acquire the debt-ridden Jaiprakash Associates Limited (JAL)?",
+        "a": "\u20b914,535 crore",
+        "options": [
+            "\u20b914,500 crore",
+            "\u20b914,535 crore",
+            "\u20b914,600 crore",
+            "\u20b914,550 crore",
+            "\u20b914,520 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the bid value declared by Vedanta Ltd, which they claimed was the highest?",
+        "a": "\u20b916,726 crore",
+        "options": [
+            "\u20b917,926 crore",
+            "\u20b916,726 crore",
+            "\u20b914,535 crore",
+            "\u20b916,000 crore",
+            "\u20b917,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total amount of loans JAL had defaulted on, leading to its Corporate Insolvency Resolution Process (CIRP)?",
+        "a": "\u20b957,185 crore",
+        "options": [
+            "\u20b957,000 crore",
+            "\u20b957,185 crore",
+            "\u20b957,200 crore",
+            "\u20b957,150 crore",
+            "\u20b957,190 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which mining giant is opposing the Adani group's resolution plan for Jaiprakash Associates Limited?",
+        "a": "Vedanta Ltd",
+        "options": [
+            "Reliance Industries",
+            "JSW Steel",
+            "Vedanta Ltd",
+            "Hindalco Industries",
+            "Tata Steel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who represented the Adani group as a senior advocate in the Supreme Court for the JAL acquisition case?",
+        "a": "Mukul Rohatgi",
+        "options": [
+            "Kapil Sibal",
+            "Tushar Mehta",
+            "Mukul Rohatgi",
+            "Prashant Bhushan",
+            "Arvind Datar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Solicitor General representing the committee of creditors in the JAL acquisition case?",
+        "a": "Tushar Mehta",
+        "options": [
+            "Kapil Sibal",
+            "Mukul Rohatgi",
+            "Tushar Mehta",
+            "Gopal Sankaranarayanan",
+            "Shyam Divan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which tribunal's approval of Adani Group's bid was challenged by Vedanta before the NCLAT?",
+        "a": "NCLT, Allahabad bench",
+        "options": [
+            "NCLT, Mumbai bench",
+            "NCLT, Delhi bench",
+            "NCLT, Allahabad bench",
+            "NCLT, Kolkata bench",
+            "NCLT, Chennai bench"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the NCLAT direct to list the matter of the Adani-JAL acquisition for the next hearing?",
+        "a": "April 10, 2026",
+        "options": [
+            "April 6, 2026",
+            "April 10, 2026",
+            "March 25, 2026",
+            "March 17, 2026",
+            "April 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was Jaiprakash Associates Limited (JAL) admitted to the Corporate Insolvency Resolution Process (CIRP)?",
+        "a": "June 2024",
+        "options": [
+            "June 2025",
+            "June 2024",
+            "November 2025",
+            "March 2026",
+            "December 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did Vedanta file its appeal against the NCLT's order approving Adani Group's bid?",
+        "a": "March 25",
+        "options": [
+            "April 6",
+            "March 25",
+            "March 24",
+            "March 17",
+            "April 10"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was a key reason Adani's bid was preferred over Vedanta's by the Committee of Creditors?",
+        "a": "Adani offered around \u20b96,000 crore upfront and faster payments within two years.",
+        "options": [
+            "Adani promised more jobs",
+            "Adani offered faster environmental clearances",
+            "Adani offered around \u20b96,000 crore upfront and faster payments within two years.",
+            "Vedanta's bid was too complex",
+            "Adani had better international connections"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Supreme Court provide a safeguard by restraining JAL's monitoring committee from taking 'major policy decisions' without NCLAT's prior nod?",
+        "a": "To protect the interest of the appellant (Vedanta) while the appeal is being decided.",
+        "options": [
+            "To speed up the resolution process",
+            "To ensure transparency in daily operations",
+            "To protect the interest of the appellant (Vedanta) while the appeal is being decided.",
+            "To allow the Adani group full control",
+            "To facilitate debt recovery from JAL"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "By how many basis points has the RBI cut rates since February 2025?",
+        "a": "125 basis points",
+        "options": [
+            "120 basis points",
+            "130 basis points",
+            "125 basis points",
+            "115 basis points",
+            "135 basis points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the RBI's medium-term target for retail inflation?",
+        "a": "4%",
+        "options": [
+            "3%",
+            "4%",
+            "5%",
             "4.5%",
-            "4.8%",
-            "5.0%",
             "3.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The OECD projected India's GDP growth to moderate to what percentage in the current fiscal?",
-        "a": "6.1%",
+        "q": "What was the retail inflation in India in February as per the latest data mentioned?",
+        "a": "3.21%",
         "options": [
-            "6.0%",
-            "6.1%",
-            "6.5%",
-            "7.6%",
-            "5.9%"
+            "3.10%",
+            "3.21%",
+            "3.30%",
+            "3.15%",
+            "3.25%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to an EY Economy Watch report, India's real GDP growth for FY27 could erode by around how many percentage points?",
-        "a": "1 percentage point",
+        "q": "Who heads the six-member Monetary Policy Committee (MPC) of the Reserve Bank?",
+        "a": "Reserve Bank Governor Sanjay Malhotra",
         "options": [
-            "0.5 percentage points",
-            "1 percentage point",
-            "1.5 percentage points",
-            "2 percentage points",
-            "0.8 percentage points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "If the West Asia conflict persists, retail inflation could rise by about how many percentage points from baseline estimates, as per EY?",
-        "a": "1.5 percentage points",
-        "options": [
-            "1 percentage point",
-            "1.2 percentage points",
-            "1.5 percentage points",
-            "2 percentage points",
-            "0.5 percentage points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "ICRA expects India's growth to moderate to what percentage in FY27?",
-        "a": "6.5%",
-        "options": [
-            "6.0%",
-            "6.1%",
-            "6.5%",
-            "7.5%",
-            "6.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Global crude prices have risen by almost what percentage since February 28?",
-        "a": "50%",
-        "options": [
-            "30%",
-            "40%",
-            "50%",
-            "60%",
-            "25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Moody's expects central government debt to reduce to around what percentage of GDP by 2030-31?",
-        "a": "50%",
-        "options": [
-            "57%",
-            "45%",
-            "50%",
-            "55%",
-            "60%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of total remittance inflows to India does the Gulf region account for?",
-        "a": "About 40%",
-        "options": [
-            "30%",
-            "35%",
-            "About 40%",
-            "45%",
-            "50%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The MITRA mission experiment in Leh, Ladakh, is carried out at an elevation of about how many metres?",
-        "a": "3,500 metres",
-        "options": [
-            "2,500 metres",
-            "3,000 metres",
-            "3,500 metres",
-            "4,000 metres",
-            "2,000 metres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Under the Karnataka sponsorship scheme, how much monthly allowance is an eligible child entitled to receive?",
-        "a": "\u20b94,000",
-        "options": [
-            "\u20b93,000",
-            "\u20b93,500",
-            "\u20b94,000",
-            "\u20b94,500",
-            "\u20b95,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many child beneficiaries are registered under the sponsorship scheme in the Women and Child Development Department in Karnataka?",
-        "a": "26,767",
-        "options": [
-            "18,328",
-            "8,439",
-            "26,767",
-            "25,000",
-            "30,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Union government released the first instalment of how much amount under the sponsorship scheme in January 2026?",
-        "a": "\u20b932 crore",
-        "options": [
-            "\u20b921.34 crore",
-            "\u20b953.34 crore",
-            "\u20b932 crore",
-            "\u20b940 crore",
-            "\u20b925 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the level in the pay matrix for an officer designated as Head of Police Force (HoPF) who is entitled to the Apex Scale?",
-        "a": "Level-17",
-        "options": [
-            "Level-16",
-            "Level-17",
-            "Level-15",
-            "Level-18",
-            "Level-14"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the External Affairs Minister mentioned as spending Sunday on the phone with West Asia's voices?",
-        "a": "S Jaishankar",
-        "options": [
-            "Abbas Araghchi",
-            "Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani",
-            "Sheikh Abdullah bin Zayed Al Nahyan",
-            "Donald Trump",
-            "S Jaishankar"
+            "Finance Minister",
+            "Chief Economic Advisor",
+            "Reserve Bank Governor Sanjay Malhotra",
+            "SEBI Chief",
+            "NITI Aayog CEO"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Iranian Foreign Minister Jaishankar spoke with?",
-        "a": "Abbas Araghchi",
+        "q": "Which ongoing crisis is cited as a reason for apprehension of a spike in inflation during the MPC meeting?",
+        "a": "West Asia",
         "options": [
-            "Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani",
-            "Sheikh Abdullah bin Zayed Al Nahyan",
-            "Abbas Araghchi",
-            "Donald Trump",
-            "S Jaishankar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Serbian President who reported the discovery of explosives near a Russian gas pipeline?",
-        "a": "Aleksandar Vucic",
-        "options": [
-            "Viktor Orban",
-            "Vladimir Putin",
-            "Aleksandar Vucic",
-            "Donald Trump",
-            "S Jaishankar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Hungarian Prime Minister informed by the Serbian President about the pipeline threat?",
-        "a": "Viktor Orban",
-        "options": [
-            "Aleksandar Vucic",
-            "Vladimir Putin",
-            "Viktor Orban",
-            "S Jaishankar",
-            "Donald Trump"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which ratings agency slashed India's economic growth estimates for the current fiscal to 6%?",
-        "a": "Moody's Ratings",
-        "options": [
-            "OECD",
-            "EY",
-            "ICRA",
-            "RBI",
-            "Moody's Ratings"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Minister for Women and Child Development in Karnataka who spoke about the SNA SPARSH DBT system?",
-        "a": "Lakshmi R. Hebbalkar",
-        "options": [
-            "Arundhati",
-            "Swati Gandhi",
-            "Lakshmi R. Hebbalkar",
-            "G.K. Vasan",
-            "Jayalalithaa"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was appointed Tamil Nadu\u2019s Director-General of Police and Head of Police Force on the directions of the Election Commission of India?",
-        "a": "Sandeep Rai Rathore",
-        "options": [
-            "G. Venkatraman",
-            "Sandeep Rai Rathore",
-            "N. Gopalaswami",
-            "R. Shunmugasundaram",
-            "G.K. Vasan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the former Chief Election Commissioner quoted on the EC's authority to transfer and post officers during elections?",
-        "a": "N. Gopalaswami",
-        "options": [
-            "R. Shunmugasundaram",
-            "Sandeep Rai Rathore",
-            "G. Venkatraman",
-            "N. Gopalaswami",
-            "Viktor Orban"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Tamil Maanila Congress (Moopanar) president interviewed by The Hindu?",
-        "a": "G.K. Vasan",
-        "options": [
-            "Jayalalithaa",
-            "C Joseph Vijay",
-            "G.K. Vasan",
-            "S. Jaishankar",
-            "Lakshmi R. Hebbalkar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chairman of ISRO and Secretary of the Department of Space who participated in the virtual inauguration of Mission MITRA?",
-        "a": "Dr V Narayanan",
-        "options": [
-            "S Jaishankar",
-            "Dr V Narayanan",
-            "Arundhati",
-            "Lakshmi R. Hebbalkar",
-            "Sandeep Rai Rathore"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where is the MITRA mission, initiated by ISRO, being carried out for space flight simulation?",
-        "a": "Leh, Ladakh",
-        "options": [
-            "Bengaluru",
-            "Delhi",
-            "Leh, Ladakh",
-            "Chennai",
-            "Kolar"
+            "East Europe",
+            "South America",
+            "West Asia",
+            "North Africa",
+            "Southeast Asia"
         ],
         "cat": "Where"
     },
     {
-        "q": "The diplomatic activity by Jaishankar came after warnings regarding the Strait of Hormuz, a chokepoint between the Persian Gulf and which other body of water?",
-        "a": "Gulf of Oman",
+        "q": "On which day was the decision of the Monetary Policy Committee (MPC) expected to be announced?",
+        "a": "Wednesday (April 8, 2026)",
         "options": [
-            "Red Sea",
-            "Arabian Sea",
-            "Gulf of Oman",
-            "Mediterranean Sea",
-            "Black Sea"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which country were two backpacks consisting of explosives discovered near a Russian gas pipeline?",
-        "a": "Serbia",
-        "options": [
-            "Hungary",
-            "Ukraine",
-            "Russia",
-            "Serbia",
-            "Turkey"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The explosives near the Russian gas pipeline were found in Kanjiza, in which part of Serbia?",
-        "a": "Northern Serbia",
-        "options": [
-            "Southern Serbia",
-            "Eastern Serbia",
-            "Western Serbia",
-            "Northern Serbia",
-            "Central Serbia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the virtual inauguration event for ISRO's MITRA mission conducted?",
-        "a": "Bengaluru",
-        "options": [
-            "Leh",
-            "Delhi",
-            "Bengaluru",
-            "Chennai",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi, the digital journalist, holds a Bachelor\u2019s degree from which university?",
-        "a": "University of Delhi",
-        "options": [
-            "Guru Gobind Singh Indraprastha University",
-            "University of Mumbai",
-            "Jawaharlal Nehru University",
-            "University of Delhi",
-            "Jamia Millia Islamia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi previously worked at which organization, covering national affairs, politics, and business?",
-        "a": "Business Standard",
-        "options": [
-            "Live Mint",
-            "The Hindu",
-            "Business Standard",
-            "Times of India",
-            "Indian Express"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which district in Karnataka was mentioned as the home of a female beneficiary who lost her parents and awaits sponsorship money?",
-        "a": "Kolar district",
-        "options": [
-            "Bengaluru",
-            "Mysuru",
-            "Hubballi",
-            "Kolar district",
-            "Mangaluru"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When was the first instalment under the Karnataka sponsorship scheme released by the Union government?",
-        "a": "January 2026",
-        "options": [
-            "April 1",
-            "March 31",
-            "January 2026",
-            "February 28",
-            "2025-26"
+            "Monday (April 6, 2026)",
+            "Tuesday (April 7, 2026)",
+            "Wednesday (April 8, 2026)",
+            "Thursday (April 9, 2026)",
+            "Friday (April 10, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Union government approve the file for the Karnataka sponsorship scheme and send it to the RBI?",
+        "q": "Until which year was the six-member MPC given the mandate to maintain annual inflation at 4% when the framework was initially adopted?",
+        "a": "March 31, 2021",
+        "options": [
+            "March 31, 2020",
+            "March 31, 2021",
+            "March 31, 2022",
+            "March 31, 2016",
+            "March 31, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the RBI last reduce the rate by 25 basis points?",
+        "a": "December (2025)",
+        "options": [
+            "February (2026)",
+            "December (2025)",
+            "October (2025)",
+            "April (2025)",
+            "January (2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason for the expectation of a status quo on the benchmark lending rate by the MPC?",
+        "a": "Apprehensions of a spike in inflation due to the ongoing West Asia crisis.",
+        "options": [
+            "Strong economic growth forecasts",
+            "Need to stimulate demand",
+            "Apprehensions of a spike in inflation due to the ongoing West Asia crisis.",
+            "Global interest rate cuts",
+            "Stable crude oil prices"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is the central bank expected to retain its current policy neutral stance in the upcoming review?",
+        "a": "To maintain flexibility amid evolving inflation dynamics and global uncertainties.",
+        "options": [
+            "To signal a hawkish outlook",
+            "To maintain flexibility amid evolving inflation dynamics and global uncertainties.",
+            "To encourage borrowing",
+            "To curb currency depreciation",
+            "To align with international monetary policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What has raised concerns about potential second-round effects on domestic prices, particularly fuel, transportation, and core inflation components?",
+        "a": "The recent surge in global crude oil prices.",
+        "options": [
+            "Decreased agricultural output",
+            "The recent surge in global crude oil prices.",
+            "Increased government spending",
+            "Fluctuations in the stock market",
+            "High import tariffs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the SEBI chief who stated that 'Independence exists only in form and does not translate into actions' in Indian corporates?",
+        "a": "Tuhin Kanta Pandey",
+        "options": [
+            "Ajay Tyagi",
+            "Madhabi Puri Buch",
+            "Tuhin Kanta Pandey",
+            "G. Mahalingam",
+            "Ananta Barua"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Whose abrupt resignation as the chairperson of HDFC Bank was cited as an alleged corporate governance slippage?",
+        "a": "Atanu Chakraborty",
+        "options": [
+            "Deepak Parekh",
+            "Aditya Puri",
+            "Atanu Chakraborty",
+            "Sashidhar Jagdishan",
+            "Sanjay Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "At which event did SEBI chief Tuhin Kanta Pandey speak on corporate governance on April 6, 2026?",
+        "a": "CII Corporate Governance Summit at Mumbai",
+        "options": [
+            "NASSCOM Technology Forum in Bengaluru",
+            "World Economic Forum in Davos",
+            "CII Corporate Governance Summit at Mumbai",
+            "India Economic Conclave in New Delhi",
+            "FICCI Annual Meeting in Chennai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did SEBI chief Tuhin Kanta Pandey speak at the CII Corporate Governance Summit?",
+        "a": "April 6, 2026",
+        "options": [
+            "April 1, 2026",
+            "April 6, 2026",
+            "March 25, 2026",
+            "April 10, 2026",
+            "March 17, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "According to the SEBI chief, what is the importance of independent directors in companies?",
+        "a": "Ensuring ethical conduct, compliance, supporting, finding solutions through accountability.",
+        "options": [
+            "To manage daily operations",
+            "To approve all executive decisions",
+            "Ensuring ethical conduct, compliance, supporting, finding solutions through accountability.",
+            "To represent shareholder interests only",
+            "To oversee mergers and acquisitions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific area of governance did Mr. Pandey speak about in detail, considering the evolving technological landscape?",
+        "a": "Governance in the age of artificial intelligence.",
+        "options": [
+            "Governance in supply chain management",
+            "Governance in rural development",
+            "Governance in the age of artificial intelligence.",
+            "Governance in public sector undertakings",
+            "Governance in international trade"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which author and scholar was among the three educators blacklisted by the Supreme Court for a controversial textbook chapter?",
+        "a": "Michel Danino",
+        "options": [
+            "Alok Prasanna Kumar",
+            "Suparna Divakar",
+            "Michel Danino",
+            "Gopal Sankaranarayanan",
+            "KK Venugopal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the former apex court judge appointed to the expert committee to finalise the NCERT curriculum on Legal Studies?",
+        "a": "Justice (retired) Indu Malhotra",
+        "options": [
+            "Justice (retired) R.F. Nariman",
+            "Justice (retired) Indu Malhotra",
+            "Justice (retired) A.K. Sikri",
+            "Justice (retired) D.Y. Chandrachud",
+            "Justice (retired) S.A. Bobde"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which month did the apex court observe that the textbook chapter 'The Role of the Judiciary in our Society' was 'prima facie intended towards maligning the Indian judiciary'?",
+        "a": "February",
+        "options": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why did the Supreme Court take suo motu cognisance of the NCERT textbook chapter on \u2018Corruption in judiciary\u2019?",
+        "a": "For portraying the judiciary in a biased manner, deliberately misrepresenting facts.",
+        "options": [
+            "To promote judicial awareness",
+            "To review the curriculum development process",
+            "For portraying the judiciary in a biased manner, deliberately misrepresenting facts.",
+            "To encourage legal studies",
+            "To investigate textbook procurement"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the primary objective of forming an expert committee comprising Justice (retired) Indu Malhotra, K.K. Venugopal, and Prakash Singh?",
+        "a": "To finalise the NCERT curriculum on Legal Studies for Class 8 and other grades.",
+        "options": [
+            "To review the textbook publishing process",
+            "To investigate the blacklisting of academics",
+            "To finalise the NCERT curriculum on Legal Studies for Class 8 and other grades.",
+            "To mediate between the court and academics",
+            "To suggest changes to education policy"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the alleged total value of public contracts awarded to Arunachal Pradesh CM Pema Khandu\u2019s family over 10 years?",
+        "a": "\u20b91,270 crore",
+        "options": [
+            "\u20b91,250 crore",
+            "\u20b91,270 crore",
+            "\u20b91,300 crore",
+            "\u20b91,260 crore",
+            "\u20b91,280 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Chief Minister of Arunachal Pradesh whose family is under CBI inquiry for alleged conflict of interest in public contracts?",
+        "a": "Pema Khandu",
+        "options": [
+            "Neiphiu Rio",
+            "Conrad Sangma",
+            "Pema Khandu",
+            "N. Biren Singh",
+            "Manik Saha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which two NGOs filed the petition alleging corruption against the Arunachal Pradesh CM's family?",
+        "a": "Voluntary Arunachal Sena and Save Mon Region Federation",
+        "options": [
+            "Common Cause and Transparency International",
+            "Voluntary Arunachal Sena and Save Mon Region Federation",
+            "Arunachal Citizen's Forum and Lok Satta",
+            "Youth for Justice and Environmental Action Group",
+            "People for Change and Good Governance"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which state were allegations of corruption and nepotism in public contract awards raised against the Chief Minister's family?",
+        "a": "Arunachal Pradesh",
+        "options": [
+            "Assam",
+            "Manipur",
+            "Nagaland",
+            "Arunachal Pradesh",
+            "Mizoram"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "For what duration (years) did the Supreme Court direct the CBI to cover in its inquiry into public contracts in Arunachal Pradesh?",
+        "a": "10 years (January 2015 to December 2025)",
+        "options": [
+            "5 years",
+            "10 years (January 2015 to December 2025)",
+            "12 years",
+            "8 years",
+            "15 years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Within how many weeks did the Supreme Court direct the CBI to commence its preliminary inquiry into Arunachal Pradesh contracts?",
+        "a": "Two weeks",
+        "options": [
+            "One week",
+            "Two weeks",
+            "Four weeks",
+            "Six weeks",
+            "Eight weeks"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the purpose of the CBI's preliminary inquiry into the Arunachal Pradesh contract allegations?",
+        "a": "To independently look into the veracity of the allegations.",
+        "options": [
+            "To arrest the CM immediately",
+            "To recover lost funds directly",
+            "To independently look into the veracity of the allegations.",
+            "To expedite project completion",
+            "To renegotiate contract terms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What percentage of the DMK's manifesto promises did BJP leader Piyush Goyal claim remained unfulfilled?",
+        "a": "More than 70%",
+        "options": [
+            "More than 50%",
+            "More than 60%",
+            "More than 70%",
+            "More than 80%",
+            "More than 65%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many voters in West Bengal failed to convince judicial officers about 'logical discrepancies' in their details?",
+        "a": "Over 20 lakh",
+        "options": [
+            "Over 15 lakh",
+            "Over 20 lakh",
+            "Over 25 lakh",
+            "Over 18 lakh",
+            "Over 22 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many appellate tribunals were to be formed by the Chief Justice of the Calcutta High Court to frame a procedure for functioning?",
+        "a": "19",
+        "options": [
+            "15",
+            "20",
+            "19",
+            "18",
+            "21"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Union Minister for Commerce and Industry who spoke in Chennai about alleged corruption in Tamil Nadu?",
+        "a": "Piyush Goyal",
+        "options": [
+            "Nitin Gadkari",
+            "Amit Shah",
+            "Piyush Goyal",
+            "Rajnath Singh",
+            "Smriti Irani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which district in West Bengal was the site of the 'well-planned, calculated and deeply instigated' gheraoing incident?",
+        "a": "Malda district",
+        "options": [
+            "Kolkata district",
+            "Malda district",
+            "Howrah district",
+            "Nadia district",
+            "Purulia district"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Apart from Tamil Nadu and West Bengal, which other state/UT was mentioned as going to polls in April?",
+        "a": "Kerala",
+        "options": [
+            "Karnataka",
+            "Gujarat",
+            "Kerala",
+            "Rajasthan",
+            "Punjab"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the gheraoing incident involving judicial officers occur in West Bengal's Malda district?",
         "a": "April 1",
         "options": [
-            "January 2026",
-            "March 31",
-            "February 28",
+            "March 25",
             "April 1",
-            "Next weekend"
+            "April 6",
+            "April 10",
+            "March 24"
         ],
         "cat": "When"
     },
     {
-        "q": "TMC (M) was revived in which year?",
-        "a": "2014",
+        "q": "What is the first polling date for the Assembly elections in West Bengal, as mentioned in the text?",
+        "a": "April 23",
         "options": [
-            "2016",
-            "2019",
-            "2021",
-            "2014",
-            "2010"
+            "April 18",
+            "April 23",
+            "April 29",
+            "April 15",
+            "April 6"
         ],
         "cat": "When"
     },
     {
-        "q": "The TMC (M) contested its first Assembly election after revival in which year?",
-        "a": "2016",
+        "q": "Why did the Supreme Court invoke powers under Article 142 of the Constitution regarding the Malda district incident?",
+        "a": "Because the incident was deemed a 'well-planned, calculated and deeply instigated' move.",
         "options": [
-            "2014",
-            "2016",
-            "2019",
-            "2021",
-            "2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the TMC (M) contest the Lok Sabha election as part of the NDA led by AIADMK?",
-        "a": "2019",
-        "options": [
-            "2016",
-            "2019",
-            "2021",
-            "2024",
-            "2010"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The 2026 election, where TMC (M) decided to contest on the 'Lotus' symbol, is referred to as which type of election?",
-        "a": "Upcoming Assembly elections",
-        "options": [
-            "Lok Sabha elections",
-            "Parliamentary polls",
-            "Upcoming Assembly elections",
-            "Presidential elections",
-            "Municipal elections"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The news text mentions a beneficiary losing both parents in the second wave of the Covid-19 pandemic how many years back?",
-        "a": "Four years back",
-        "options": [
-            "One year back",
-            "Two years back",
-            "Three years back",
-            "Four years back",
-            "Five years back"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Global crude prices have risen by almost 50% since which specific date, as per the news?",
-        "a": "February 28",
-        "options": [
-            "January 1",
-            "March 15",
-            "February 28",
-            "April 1",
-            "December 31"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary reason for New Delhi seriously treating the crisis in West Asia, as stated in the news?",
-        "a": "It threatens the arteries of global energy supply.",
-        "options": [
-            "To improve bilateral ties with Iran",
-            "To support US sanctions",
-            "It threatens the arteries of global energy supply.",
-            "To strengthen diplomatic relations with Qatar",
-            "To discuss regional and international developments"
+            "To protect judicial officers",
+            "To ensure free and fair elections",
+            "Because the incident was deemed a 'well-planned, calculated and deeply instigated' move.",
+            "To expedite voter verification",
+            "To provide legal aid to victims"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why does Iran's decision to initiate a call with India carry significance, according to diplomatic observers?",
-        "a": "Tehran appears keen to maintain open channels with a non-hostile power.",
+        "q": "Who was the senior advocate representing West Bengal in the Supreme Court regarding the electoral roll issue?",
+        "a": "Shyam Divan",
         "options": [
-            "To discuss oil prices",
-            "To seek India's military support",
-            "Tehran appears keen to maintain open channels with a non-hostile power.",
-            "To criticize US actions",
-            "To propose new trade agreements"
+            "Kapil Sibal",
+            "Tushar Mehta",
+            "Shyam Divan",
+            "Mukul Rohatgi",
+            "Prashant Bhushan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Why did the West Bengal government plead with the Supreme Court to delay freezing the electoral roll?",
+        "a": "To allow more voters who failed verification a chance to vote.",
+        "options": [
+            "To conduct a new census",
+            "To allow more voters who failed verification a chance to vote.",
+            "To update voter addresses",
+            "To recount previous votes",
+            "To simplify the registration process"
         ],
         "cat": "Why"
     },
     {
-        "q": "What makes Qatar's position particularly significant in the ongoing conflict, as highlighted in the text?",
-        "a": "It is among the world's largest exporters of LNG and plays a back-channel role.",
+        "q": "Which High Court's Chief Justice was pulled up by the Supreme Court for going incommunicado during the Malda incident?",
+        "a": "Calcutta High Court",
         "options": [
-            "It is a major crude oil producer",
-            "It has strong military alliances",
-            "It is among the world's largest exporters of LNG and plays a back-channel role.",
-            "It is a commercial and logistical hub",
-            "It is a non-hostile power"
+            "Delhi High Court",
+            "Bombay High Court",
+            "Calcutta High Court",
+            "Madras High Court",
+            "Patna High Court"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "For India, why are the stakes in the West Asia crisis considered \"existential in economic terms\"?",
-        "a": "West Asia supplies a substantial share of India's crude oil and natural gas imports.",
-        "options": [
-            "India has strong military ties in the region",
-            "India is a major exporter of oil",
-            "West Asia supplies a substantial share of India's crude oil and natural gas imports.",
-            "India aims to mediate the conflict",
-            "It affects India's tourism sector"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of India's \"quiet but purposeful diplomacy\" over the past fortnight in the West Asia crisis?",
-        "a": "Pressing all sides to end the conflict swiftly and restore unimpeded commercial navigation.",
-        "options": [
-            "To secure exclusive oil deals",
-            "To condemn specific actions",
-            "Pressing all sides to end the conflict swiftly and restore unimpeded commercial navigation.",
-            "To increase military presence",
-            "To join a new alliance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why were Hungary and Serbia described as being \"at odds with other European countries\"?",
-        "a": "They are heavily reliant on Russian energy supplies.",
-        "options": [
-            "They have different political ideologies",
-            "They are trying to reduce dependence on Russia",
-            "They are heavily reliant on Russian energy supplies.",
-            "They are part of opposing military alliances",
-            "They support sanctions against Russia"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the Hungarian PM, what is Ukraine's long-standing effort that poses a life-threatening danger to Hungary?",
-        "a": "Trying to cut off Europe from Russian energy.",
-        "options": [
-            "Launching military attacks on Hungary",
-            "Trying to cut off Europe from Russian energy.",
-            "Imposing sanctions on Hungary",
-            "Disrupting trade routes through Serbia",
-            "Developing alternative energy sources"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reason cited by Orban for ramping up security around Hungary's energy infrastructure earlier in February?",
-        "a": "Ukrainian plans to disrupt Hungary\u2019s energy system.",
-        "options": [
-            "Increased terrorist threats",
-            "To protect against extreme weather",
-            "Ukrainian plans to disrupt Hungary\u2019s energy system.",
-            "To prepare for military exercises",
-            "To secure new energy deals"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did Hungarian PM Orban call on the European Union to suspend sanctions on Russian energy imports?",
-        "a": "Amid warnings that a \"severe energy crisis is approaching, accelerating day by day.\"",
-        "options": [
-            "To improve relations with Russia",
-            "To reduce reliance on Western energy",
-            "Amid warnings that a \"severe energy crisis is approaching, accelerating day by day.\"",
-            "To support Ukraine",
-            "To diversify energy suppliers"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the reason Moody's Ratings slashed India's economic growth estimates for the current fiscal?",
-        "a": "The ongoing conflict in West Asia will moderate growth momentum and raise inflation risks.",
-        "options": [
-            "Strong private consumption",
-            "Decreased global crude prices",
-            "The ongoing conflict in West Asia will moderate growth momentum and raise inflation risks.",
-            "Stable geopolitical environment",
-            "Robust industrial activity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary objective of ISRO\u2019s MITRA mission?",
-        "a": "To investigate the behaviour, performance, and dynamics of the crew in a simulated space flight environment.",
-        "options": [
-            "To launch a new satellite",
-            "To develop new rocket technology",
-            "To investigate the behaviour, performance, and dynamics of the crew in a simulated space flight environment.",
-            "To study celestial bodies",
-            "To explore new planets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why is the MITRA mission experiment carried out in Leh, Ladakh?",
-        "a": "Its environment, with thin air, cold, and isolation, mirrors actual space flight.",
-        "options": [
-            "For easy access to ISRO facilities",
-            "To test new defence technologies",
-            "Its environment, with thin air, cold, and isolation, mirrors actual space flight.",
-            "To conduct astronomical observations",
-            "To boost local tourism"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does the acronym MITRA stand for in the context of ISRO's mission?",
-        "a": "Mapping of Interoperable Traits and Response Assessment",
-        "options": [
-            "Mission for International Travel and Research Analysis",
-            "Monitoring of Indian Telecommunication and Remote Activities",
-            "Mapping of Interoperable Traits and Response Assessment",
-            "Mega Integrated Test and Research Alliance",
-            "Modular Integrated Technology for Robotic Aviation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the reason for the delay in releasing grants under the Karnataka sponsorship scheme, as stated by Minister Lakshmi R. Hebbalkar?",
-        "a": "Technical glitches during the transition to the new SNA SPARSH DBT system.",
-        "options": [
-            "Lack of funds from the Union government",
-            "Lack of eligible beneficiaries",
-            "Technical glitches during the transition to the new SNA SPARSH DBT system.",
-            "Delayed approvals from RBI",
-            "Withdrawal of state share"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to former Chief Election Commissioner N. Gopalaswami, what happens to officers appointed or transferred by the EC after the election process is over?",
-        "a": "It is up to the incoming government to decide whether to retain or change them.",
-        "options": [
-            "They automatically get a two-year tenure",
-            "They are immediately removed from their posts",
-            "It is up to the incoming government to decide whether to retain or change them.",
-            "They are permanently assigned to the EC",
-            "They must resign within a week"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did G.K. Vasan choose to field TMC (M) candidates on the BJP\u2019s \u2018Lotus\u2019 symbol for the 2026 Assembly elections?",
-        "a": "Problem in getting their own 'Cycle' symbol and direct alliance with BJP.",
-        "options": [
-            "To merge with the BJP",
-            "To avoid contesting the elections",
-            "Problem in getting their own 'Cycle' symbol and direct alliance with BJP.",
-            "To support the DMK",
-            "To form a new alliance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the Supreme Court's ruling in the Prakash Singh case regarding State DGP/HoPF appointments?",
-        "a": "To ensure a minimum two-year tenure for the head of police force.",
-        "options": [
-            "To give Election Commission more power",
-            "To ensure a minimum two-year tenure for the head of police force.",
-            "To allow flexible tenure based on government changes",
-            "To determine the pay scale of DGPs",
-            "To standardize police uniforms"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to G.K. Vasan, why are the people of Tamil Nadu angry?",
-        "a": "The state missed several schemes due to the DMK government treating the ruling BJP as an \"enemy\".",
-        "options": [
-            "Due to rising fuel prices",
-            "Lack of development projects",
-            "The state missed several schemes due to the DMK government treating the ruling BJP as an \"enemy\".",
-            "Poor law and order situation",
-            "Delay in election results"
-        ],
-        "cat": "Why"
+        "cat": "Where"
     }
 ]
