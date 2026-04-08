@@ -1,794 +1,722 @@
 [
     {
-        "q": "What was the total allocation for the Minorities Welfare Department in Telangana for FY 2025-26?",
-        "a": "\u20b93,585.03 crore",
+        "q": "What is the proposed value of the credit guarantee scheme under consideration to support businesses, especially MSMEs?",
+        "a": "\u20b92.5 lakh crore",
         "options": [
-            "\u20b93,600.00 crore",
-            "\u20b93,585.03 crore",
-            "\u20b93,550.00 crore",
-            "\u20b93,620.00 crore",
-            "\u20b93,570.00 crore"
+            "\u20b91.5 lakh crore",
+            "\u20b92 lakh crore",
+            "\u20b92.5 lakh crore",
+            "\u20b93 lakh crore",
+            "\u20b93.5 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much did the Minorities Welfare Department in Telangana actually spend in FY 2025-26?",
-        "a": "\u20b91,703.30 crore",
+        "q": "What percentage of guarantee on loans up to \u20b9100 crore would be provided to lenders under the new credit guarantee scheme?",
+        "a": "90%",
         "options": [
-            "\u20b91,710.30 crore",
-            "\u20b91,703.30 crore",
-            "\u20b91,695.30 crore",
-            "\u20b91,700.00 crore",
-            "\u20b91,705.50 crore"
+            "70%",
+            "75%",
+            "85%",
+            "90%",
+            "95%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the allocated funds did the Minorities Welfare Department in Telangana spend in FY 2025-26?",
-        "a": "47.5%",
+        "q": "What is the maximum loan limit for which a guarantee would be provided under the proposed credit guarantee scheme?",
+        "a": "\u20b9100 crore",
         "options": [
-            "48.0%",
-            "47.0%",
-            "47.5%",
-            "46.5%",
-            "49.0%"
+            "\u20b950 crore",
+            "\u20b975 crore",
+            "\u20b9100 crore",
+            "\u20b9125 crore",
+            "\u20b9150 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation for the Reimbursement of Tuition Fee (RTF) scheme?",
-        "a": "\u20b9300 crore",
+        "q": "How much financial provision would the government have to provide for the new credit guarantee scheme?",
+        "a": "\u20b917,000-\u20b918,000 crore",
         "options": [
-            "\u20b9310 crore",
-            "\u20b9290 crore",
-            "\u20b9300 crore",
-            "\u20b9295 crore",
-            "\u20b9305 crore"
+            "\u20b910,000-\u20b912,000 crore",
+            "\u20b914,000-\u20b915,000 crore",
+            "\u20b917,000-\u20b918,000 crore",
+            "\u20b920,000-\u20b922,000 crore",
+            "\u20b925,000-\u20b928,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was spent on the Reimbursement of Tuition Fee (RTF) scheme?",
-        "a": "\u20b968.88 crore",
+        "q": "What was the guarantee percentage provided to Member Lending Institutions under the Emergency Credit Line Guarantee Scheme (ECLGS)?",
+        "a": "100%",
         "options": [
-            "\u20b969.00 crore",
-            "\u20b968.88 crore",
-            "\u20b968.50 crore",
-            "\u20b969.50 crore",
-            "\u20b968.75 crore"
+            "75%",
+            "80%",
+            "90%",
+            "95%",
+            "100%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the expenditure for the Chief Minister\u2019s Overseas Scholarship scheme against an allocation of \u20b9130 crore?",
-        "a": "\u20b9172.27 crore",
+        "q": "By what amount per litre did the government slash excise duty on petrol and diesel on March 26?",
+        "a": "\u20b910",
         "options": [
-            "\u20b9170.00 crore",
-            "\u20b9172.27 crore",
-            "\u20b9175.00 crore",
-            "\u20b9171.50 crore",
-            "\u20b9173.00 crore"
+            "\u20b92",
+            "\u20b95",
+            "\u20b98",
+            "\u20b910",
+            "\u20b912"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the allocation for the pre-matric (GoI) scholarship scheme?",
-        "a": "\u20b91.73 crore",
+        "q": "By what approximate percentage have global crude prices risen since the US and Israel launched military strikes against Iran?",
+        "a": "50%",
         "options": [
-            "\u20b91.75 crore",
-            "\u20b91.73 crore",
-            "\u20b91.70 crore",
-            "\u20b91.80 crore",
-            "\u20b91.68 crore"
+            "25%",
+            "35%",
+            "45%",
+            "50%",
+            "60%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate budget allocated to the Telangana Minorities Residential Educational Institutions Society?",
-        "a": "\u20b9995 crore",
+        "q": "What was the export duty imposed per litre on Aviation Turbine Fuel (ATF) by the government?",
+        "a": "\u20b929.50",
         "options": [
-            "\u20b91000 crore",
-            "\u20b9995 crore",
-            "\u20b9990 crore",
-            "\u20b9985 crore",
-            "\u20b91005 crore"
+            "\u20b919.50",
+            "\u20b924.50",
+            "\u20b929.50",
+            "\u20b934.50",
+            "\u20b939.50"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who filed the Right to Information request to track government scheme performance in Telangana?",
-        "a": "Kareem Ansari",
+        "q": "What is the current excise duty per litre on diesel, as per the news text?",
+        "a": "Zero",
         "options": [
-            "Mohammed Faraz Ahmed",
-            "Kareem Ansari",
-            "Anil Agarwal",
-            "Kapil Sibal",
-            "Tuhin Kanta Pandey"
+            "\u20b90",
+            "\u20b91",
+            "\u20b92",
+            "\u20b93",
+            "\u20b95"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What multiple of the applicable toll fee will be charged for UPI payments at toll plazas if a vehicle lacks a valid FASTag?",
+        "a": "1.25 times",
+        "options": [
+            "1.1 times",
+            "1.2 times",
+            "1.25 times",
+            "1.3 times",
+            "1.5 times"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the annual cost of the FASTag annual pass, allowing up to 200 toll crossings per year?",
+        "a": "\u20b93,000",
+        "options": [
+            "\u20b91,500",
+            "\u20b92,000",
+            "\u20b92,500",
+            "\u20b93,000",
+            "\u20b93,500"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many subscribers has NHAI crossed for its FASTag annual pass?",
+        "a": "50 lakh",
+        "options": [
+            "20 lakh",
+            "30 lakh",
+            "40 lakh",
+            "50 lakh",
+            "60 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the approximate distance of Walter Reed National Military Medical Center from Washington, DC?",
+        "a": "15 miles",
+        "options": [
+            "5 miles",
+            "10 miles",
+            "15 miles",
+            "20 miles",
+            "25 miles"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the age group of women whose entry was restricted at the Sabarimala temple, according to the 2018 judgment?",
+        "a": "10 to 50 years",
+        "options": [
+            "5 to 45 years",
+            "10 to 50 years",
+            "15 to 55 years",
+            "20 to 60 years",
+            "25 to 65 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many judges constituted the Constitution bench currently hearing petitions related to discrimination against women at religious places?",
+        "a": "Nine",
+        "options": [
+            "Five",
+            "Seven",
+            "Nine",
+            "Eleven",
+            "Thirteen"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the majority verdict in the September 2018 Sabarimala judgment that lifted the ban on women's entry?",
+        "a": "4:1",
+        "options": [
+            "3:2",
+            "4:1",
+            "5:0",
+            "2:3",
+            "1:4"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current US President whose health speculation intensified over the weekend?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Mike Pence",
+            "George Bush",
+            "Donald Trump",
+            "Barack Obama"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which university serves as the nodal agency for the Centre for Educational Development of Minorities mentioned in the text?",
-        "a": "Osmania University",
+        "q": "Who is the White House communications director mentioned in the news text, dismissing claims about Trump's health?",
+        "a": "Steven Cheung",
         "options": [
-            "Hyderabad University",
-            "Jawaharlal Nehru Technological University",
-            "Kakatiya University",
-            "Osmania University",
-            "Nagarjuna University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which fiscal year was the Minorities Welfare Department allocated \u20b93,585.03 crore?",
-        "a": "FY 2025-26",
-        "options": [
-            "FY 2024-25",
-            "FY 2025-26",
-            "FY 2023-24",
-            "FY 2026-27",
-            "FY 2022-23"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the stated purpose of the Reimbursement of Tuition Fee (RTF) scheme?",
-        "a": "Extends financial assistance to college students by paying their fees.",
-        "options": [
-            "Provides laptops to students",
-            "Offers scholarships for school children",
-            "Extends financial assistance to college students by paying their fees",
-            "Supports adult literacy programs",
-            "Funds vocational training for youth"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Mohammed Faraz Ahmed, what will be the huge impact of the High Court's interim orders regarding RTF?",
-        "a": "Permitting private engineering colleges to collect fees directly from students if the government fails to reimburse.",
-        "options": [
-            "Increasing the RTF budget",
-            "Simplifying the application process for RTF",
-            "Permitting private engineering colleges to collect fees directly from students if the government fails to reimburse.",
-            "Ensuring timely reimbursement of fees by the government",
-            "Expanding the scope of RTF to include school students"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the Adani group's bid value to acquire the debt-ridden Jaiprakash Associates Limited (JAL)?",
-        "a": "\u20b914,535 crore",
-        "options": [
-            "\u20b914,500 crore",
-            "\u20b914,535 crore",
-            "\u20b914,600 crore",
-            "\u20b914,550 crore",
-            "\u20b914,520 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the bid value declared by Vedanta Ltd, which they claimed was the highest?",
-        "a": "\u20b916,726 crore",
-        "options": [
-            "\u20b917,926 crore",
-            "\u20b916,726 crore",
-            "\u20b914,535 crore",
-            "\u20b916,000 crore",
-            "\u20b917,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total amount of loans JAL had defaulted on, leading to its Corporate Insolvency Resolution Process (CIRP)?",
-        "a": "\u20b957,185 crore",
-        "options": [
-            "\u20b957,000 crore",
-            "\u20b957,185 crore",
-            "\u20b957,200 crore",
-            "\u20b957,150 crore",
-            "\u20b957,190 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which mining giant is opposing the Adani group's resolution plan for Jaiprakash Associates Limited?",
-        "a": "Vedanta Ltd",
-        "options": [
-            "Reliance Industries",
-            "JSW Steel",
-            "Vedanta Ltd",
-            "Hindalco Industries",
-            "Tata Steel"
+            "John Kelly",
+            "Sarah Huckabee Sanders",
+            "Steven Cheung",
+            "Sean Spicer",
+            "Kayleigh McEnany"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who represented the Adani group as a senior advocate in the Supreme Court for the JAL acquisition case?",
-        "a": "Mukul Rohatgi",
+        "q": "The Walter Reed National Military Medical Center is named after which US Army physician?",
+        "a": "Walter Reed",
         "options": [
-            "Kapil Sibal",
-            "Tushar Mehta",
-            "Mukul Rohatgi",
-            "Prashant Bhushan",
-            "Arvind Datar"
+            "Louis Pasteur",
+            "Robert Koch",
+            "Alexander Fleming",
+            "Jonas Salk",
+            "Walter Reed"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the Solicitor General representing the committee of creditors in the JAL acquisition case?",
+        "q": "Who is the Solicitor General appearing for the Centre in the Sabarimala temple case before the Supreme Court?",
         "a": "Tushar Mehta",
         "options": [
-            "Kapil Sibal",
-            "Mukul Rohatgi",
+            "R Venkataramani",
+            "K.K. Venugopal",
             "Tushar Mehta",
-            "Gopal Sankaranarayanan",
-            "Shyam Divan"
+            "M.C. Setalvad",
+            "Harish Salve"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which tribunal's approval of Adani Group's bid was challenged by Vedanta before the NCLAT?",
-        "a": "NCLT, Allahabad bench",
+        "q": "Who is the Chief Justice of India heading the nine-judge Constitution bench hearing the Sabarimala reference?",
+        "a": "Surya Kant",
         "options": [
-            "NCLT, Mumbai bench",
-            "NCLT, Delhi bench",
-            "NCLT, Allahabad bench",
-            "NCLT, Kolkata bench",
-            "NCLT, Chennai bench"
+            "D.Y. Chandrachud",
+            "Ranjan Gogoi",
+            "Surya Kant",
+            "J.S. Khehar",
+            "H.L. Dattu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the sole woman judge in the Supreme Court and part of the nine-member bench hearing the Sabarimala reference, mentioned for her observation on social ills?",
+        "a": "Justice B.V. Nagarathna",
+        "options": [
+            "Justice Indu Malhotra",
+            "Justice Fathima Beevi",
+            "Justice B.V. Nagarathna",
+            "Justice Ruma Pal",
+            "Justice Hima Kohli"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which judge opined in the 2018 Sabarimala judgment that exclusion of women based on age or menstrual status was a form of 'untouchability'?",
+        "a": "Justice DY Chandrachud",
+        "options": [
+            "Justice Indu Malhotra",
+            "Justice Rohinton Fali Nariman",
+            "Justice DY Chandrachud",
+            "Justice A.M. Khanwilkar",
+            "Justice Deepak Misra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former CJI headed the five-judge bench that referred the Sabarimala issue to a larger bench in November 2019?",
+        "a": "Ranjan Gogoi",
+        "options": [
+            "Dipak Misra",
+            "Sharad Arvind Bobde",
+            "Ranjan Gogoi",
+            "J.S. Khehar",
+            "H.L. Dattu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which body extended the clearance deadline for observation letters for public issues due to geopolitical tensions and subdued investor participation?",
+        "a": "SEBI",
+        "options": [
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "PFRDA",
+            "TRAI"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which authority announced the discontinuation of cash payments at toll plazas on National Highways from April 10, 2026?",
+        "a": "Road Transport and Highways Ministry",
+        "options": [
+            "Ministry of Finance",
+            "NHAI",
+            "NITI Aayog",
+            "Road Transport and Highways Ministry",
+            "Ministry of Home Affairs"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which wholly-owned subsidiary of the government would provide the guarantee on bank loans under the proposed credit guarantee scheme?",
+        "a": "National Credit Guarantee Trustee Company (NCGTC)",
+        "options": [
+            "SIDBI",
+            "NABARD",
+            "ECGC",
+            "National Credit Guarantee Trustee Company (NCGTC)",
+            "DICGC"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Senior Assistant Editor with Mint, reporting on trending news and entertainment, mentioned in the article's author details?",
+        "a": "Anjali Thakur",
+        "options": [
+            "Gulam Jeelani",
+            "Sugam Singhal",
+            "Chanchal",
+            "Anjali Thakur",
+            "Sanchari Ghosh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where is the Walter Reed National Military Medical Center, where US President Trump was reportedly admitted, located?",
+        "a": "Bethesda, Maryland",
+        "options": [
+            "Washington, DC",
+            "New York, New York",
+            "Bethesda, Maryland",
+            "Quantico, Virginia",
+            "Fort Bragg, North Carolina"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did the NCLAT direct to list the matter of the Adani-JAL acquisition for the next hearing?",
+        "q": "The unverified claims of US President Donald Trump's admission were to which specific military medical center?",
+        "a": "Walter Reed National Military Medical Center",
+        "options": [
+            "Mayo Clinic",
+            "Cleveland Clinic",
+            "Johns Hopkins Hospital",
+            "Massachusetts General Hospital",
+            "Walter Reed National Military Medical Center"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which Indian state is the Sabarimala temple, the subject of ongoing Supreme Court hearings, located?",
+        "a": "Kerala",
+        "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Kerala",
+            "Telangana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did US strikes reportedly target multiple sites in Iran, specifically an oil export hub?",
+        "a": "Kharg Island oil export hub",
+        "options": [
+            "Tehran",
+            "Isfahan",
+            "Shiraz",
+            "Kharg Island oil export hub",
+            "Bandar Abbas"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Trump issued a warning to Iran related to developments around which strategic waterway?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Suez Canal",
+            "Strait of Hormuz",
+            "Bab-el-Mandeb Strait",
+            "Malacca Strait",
+            "Panama Canal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Wounded US service members from Operation Epic Fury were flown to which joint base in Maryland before being transferred for treatment?",
+        "a": "Joint Base Andrews",
+        "options": [
+            "Ramstein Air Base",
+            "Kadena Air Base",
+            "Joint Base Andrews",
+            "Hickam Air Force Base",
+            "Nellis Air Force Base"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Previously, the Walter Reed National Military Medical Center was commonly referred to by what name?",
+        "a": "National Naval Medical Center",
+        "options": [
+            "National Army Hospital",
+            "Bethesda Military Hospital",
+            "National Naval Medical Center",
+            "Washington Medical Center",
+            "Maryland General Hospital"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which social media platform did Trump use to issue a sharp warning to Iran, according to the news text?",
+        "a": "Truth Social",
+        "options": [
+            "Twitter (X)",
+            "Facebook",
+            "Instagram",
+            "Truth Social",
+            "Parler"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Anjali Thakur, the author of part of the news text, holds a Bachelor of Arts degree from which institution?",
+        "a": "Miranda House",
+        "options": [
+            "Lady Shri Ram College",
+            "St. Stephen's College",
+            "Miranda House",
+            "Hindu College",
+            "Delhi College of Arts & Commerce"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The government is considering a credit guarantee scheme to support businesses impacted by a crisis in which specific geopolitical region?",
+        "a": "West Asia",
+        "options": [
+            "East Asia",
+            "Europe",
+            "Africa",
+            "South America",
+            "West Asia"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did SEBI extend the clearance deadline for observation letters for public issues, as stated in the circular?",
+        "a": "Tuesday, April 7, 2026",
+        "options": [
+            "Monday, April 6, 2026",
+            "Tuesday, April 7, 2026",
+            "Wednesday, April 8, 2026",
+            "Thursday, April 9, 2026",
+            "Friday, April 10, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The SEBI observation letters targeted for extension were those expiring between April 1, 2026, and which other date?",
+        "a": "September 30, 2026",
+        "options": [
+            "June 30, 2026",
+            "July 31, 2026",
+            "August 31, 2026",
+            "September 30, 2026",
+            "October 31, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "From which date will cash payments at toll plazas be discontinued for travelers on National Highways?",
         "a": "April 10, 2026",
         "options": [
-            "April 6, 2026",
+            "April 1, 2026",
+            "April 5, 2026",
             "April 10, 2026",
-            "March 25, 2026",
-            "March 17, 2026",
-            "April 15, 2026"
+            "May 1, 2026",
+            "June 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Jaiprakash Associates Limited (JAL) admitted to the Corporate Insolvency Resolution Process (CIRP)?",
-        "a": "June 2024",
+        "q": "When did the government announce the Emergency Credit Line Guarantee Scheme (ECLGS) as part of the Aatmanirbhar Bharat Abhiyaan?",
+        "a": "May 2020",
         "options": [
-            "June 2025",
-            "June 2024",
-            "November 2025",
-            "March 2026",
-            "December 2024"
+            "March 2020",
+            "April 2020",
+            "May 2020",
+            "June 2020",
+            "July 2020"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did Vedanta file its appeal against the NCLT's order approving Adani Group's bid?",
-        "a": "March 25",
+        "q": "Until when did the Emergency Credit Line Guarantee Scheme (ECLGS) continue, as stated in the news?",
+        "a": "March 31, 2023",
         "options": [
-            "April 6",
-            "March 25",
-            "March 24",
-            "March 17",
+            "December 31, 2022",
+            "March 31, 2023",
+            "June 30, 2023",
+            "September 30, 2023",
+            "December 31, 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the government slash excise duty on petrol and diesel by \u20b910 a litre?",
+        "a": "March 26",
+        "options": [
+            "February 15",
+            "March 1",
+            "March 26",
+            "April 1",
             "April 10"
         ],
         "cat": "When"
     },
     {
-        "q": "What was a key reason Adani's bid was preferred over Vedanta's by the Committee of Creditors?",
-        "a": "Adani offered around \u20b96,000 crore upfront and faster payments within two years.",
+        "q": "When did the United States and Israel launch military strikes against Iran, triggering a rise in global crude prices?",
+        "a": "February 28",
         "options": [
-            "Adani promised more jobs",
-            "Adani offered faster environmental clearances",
-            "Adani offered around \u20b96,000 crore upfront and faster payments within two years.",
-            "Vedanta's bid was too complex",
-            "Adani had better international connections"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the Supreme Court provide a safeguard by restraining JAL's monitoring committee from taking 'major policy decisions' without NCLAT's prior nod?",
-        "a": "To protect the interest of the appellant (Vedanta) while the appeal is being decided.",
-        "options": [
-            "To speed up the resolution process",
-            "To ensure transparency in daily operations",
-            "To protect the interest of the appellant (Vedanta) while the appeal is being decided.",
-            "To allow the Adani group full control",
-            "To facilitate debt recovery from JAL"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "By how many basis points has the RBI cut rates since February 2025?",
-        "a": "125 basis points",
-        "options": [
-            "120 basis points",
-            "130 basis points",
-            "125 basis points",
-            "115 basis points",
-            "135 basis points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the RBI's medium-term target for retail inflation?",
-        "a": "4%",
-        "options": [
-            "3%",
-            "4%",
-            "5%",
-            "4.5%",
-            "3.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the retail inflation in India in February as per the latest data mentioned?",
-        "a": "3.21%",
-        "options": [
-            "3.10%",
-            "3.21%",
-            "3.30%",
-            "3.15%",
-            "3.25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who heads the six-member Monetary Policy Committee (MPC) of the Reserve Bank?",
-        "a": "Reserve Bank Governor Sanjay Malhotra",
-        "options": [
-            "Finance Minister",
-            "Chief Economic Advisor",
-            "Reserve Bank Governor Sanjay Malhotra",
-            "SEBI Chief",
-            "NITI Aayog CEO"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which ongoing crisis is cited as a reason for apprehension of a spike in inflation during the MPC meeting?",
-        "a": "West Asia",
-        "options": [
-            "East Europe",
-            "South America",
-            "West Asia",
-            "North Africa",
-            "Southeast Asia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which day was the decision of the Monetary Policy Committee (MPC) expected to be announced?",
-        "a": "Wednesday (April 8, 2026)",
-        "options": [
-            "Monday (April 6, 2026)",
-            "Tuesday (April 7, 2026)",
-            "Wednesday (April 8, 2026)",
-            "Thursday (April 9, 2026)",
-            "Friday (April 10, 2026)"
+            "January 15",
+            "February 1",
+            "February 28",
+            "March 15",
+            "April 1"
         ],
         "cat": "When"
     },
     {
-        "q": "Until which year was the six-member MPC given the mandate to maintain annual inflation at 4% when the framework was initially adopted?",
-        "a": "March 31, 2021",
+        "q": "When did India exempt the import of critical petrochemical products from customs duty?",
+        "a": "April 2",
         "options": [
-            "March 31, 2020",
-            "March 31, 2021",
-            "March 31, 2022",
-            "March 31, 2016",
-            "March 31, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the RBI last reduce the rate by 25 basis points?",
-        "a": "December (2025)",
-        "options": [
-            "February (2026)",
-            "December (2025)",
-            "October (2025)",
-            "April (2025)",
-            "January (2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary reason for the expectation of a status quo on the benchmark lending rate by the MPC?",
-        "a": "Apprehensions of a spike in inflation due to the ongoing West Asia crisis.",
-        "options": [
-            "Strong economic growth forecasts",
-            "Need to stimulate demand",
-            "Apprehensions of a spike in inflation due to the ongoing West Asia crisis.",
-            "Global interest rate cuts",
-            "Stable crude oil prices"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why is the central bank expected to retain its current policy neutral stance in the upcoming review?",
-        "a": "To maintain flexibility amid evolving inflation dynamics and global uncertainties.",
-        "options": [
-            "To signal a hawkish outlook",
-            "To maintain flexibility amid evolving inflation dynamics and global uncertainties.",
-            "To encourage borrowing",
-            "To curb currency depreciation",
-            "To align with international monetary policies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What has raised concerns about potential second-round effects on domestic prices, particularly fuel, transportation, and core inflation components?",
-        "a": "The recent surge in global crude oil prices.",
-        "options": [
-            "Decreased agricultural output",
-            "The recent surge in global crude oil prices.",
-            "Increased government spending",
-            "Fluctuations in the stock market",
-            "High import tariffs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the SEBI chief who stated that 'Independence exists only in form and does not translate into actions' in Indian corporates?",
-        "a": "Tuhin Kanta Pandey",
-        "options": [
-            "Ajay Tyagi",
-            "Madhabi Puri Buch",
-            "Tuhin Kanta Pandey",
-            "G. Mahalingam",
-            "Ananta Barua"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Whose abrupt resignation as the chairperson of HDFC Bank was cited as an alleged corporate governance slippage?",
-        "a": "Atanu Chakraborty",
-        "options": [
-            "Deepak Parekh",
-            "Aditya Puri",
-            "Atanu Chakraborty",
-            "Sashidhar Jagdishan",
-            "Sanjay Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "At which event did SEBI chief Tuhin Kanta Pandey speak on corporate governance on April 6, 2026?",
-        "a": "CII Corporate Governance Summit at Mumbai",
-        "options": [
-            "NASSCOM Technology Forum in Bengaluru",
-            "World Economic Forum in Davos",
-            "CII Corporate Governance Summit at Mumbai",
-            "India Economic Conclave in New Delhi",
-            "FICCI Annual Meeting in Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date did SEBI chief Tuhin Kanta Pandey speak at the CII Corporate Governance Summit?",
-        "a": "April 6, 2026",
-        "options": [
-            "April 1, 2026",
-            "April 6, 2026",
-            "March 25, 2026",
-            "April 10, 2026",
-            "March 17, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "According to the SEBI chief, what is the importance of independent directors in companies?",
-        "a": "Ensuring ethical conduct, compliance, supporting, finding solutions through accountability.",
-        "options": [
-            "To manage daily operations",
-            "To approve all executive decisions",
-            "Ensuring ethical conduct, compliance, supporting, finding solutions through accountability.",
-            "To represent shareholder interests only",
-            "To oversee mergers and acquisitions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific area of governance did Mr. Pandey speak about in detail, considering the evolving technological landscape?",
-        "a": "Governance in the age of artificial intelligence.",
-        "options": [
-            "Governance in supply chain management",
-            "Governance in rural development",
-            "Governance in the age of artificial intelligence.",
-            "Governance in public sector undertakings",
-            "Governance in international trade"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which author and scholar was among the three educators blacklisted by the Supreme Court for a controversial textbook chapter?",
-        "a": "Michel Danino",
-        "options": [
-            "Alok Prasanna Kumar",
-            "Suparna Divakar",
-            "Michel Danino",
-            "Gopal Sankaranarayanan",
-            "KK Venugopal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the former apex court judge appointed to the expert committee to finalise the NCERT curriculum on Legal Studies?",
-        "a": "Justice (retired) Indu Malhotra",
-        "options": [
-            "Justice (retired) R.F. Nariman",
-            "Justice (retired) Indu Malhotra",
-            "Justice (retired) A.K. Sikri",
-            "Justice (retired) D.Y. Chandrachud",
-            "Justice (retired) S.A. Bobde"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which month did the apex court observe that the textbook chapter 'The Role of the Judiciary in our Society' was 'prima facie intended towards maligning the Indian judiciary'?",
-        "a": "February",
-        "options": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "December"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Why did the Supreme Court take suo motu cognisance of the NCERT textbook chapter on \u2018Corruption in judiciary\u2019?",
-        "a": "For portraying the judiciary in a biased manner, deliberately misrepresenting facts.",
-        "options": [
-            "To promote judicial awareness",
-            "To review the curriculum development process",
-            "For portraying the judiciary in a biased manner, deliberately misrepresenting facts.",
-            "To encourage legal studies",
-            "To investigate textbook procurement"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the primary objective of forming an expert committee comprising Justice (retired) Indu Malhotra, K.K. Venugopal, and Prakash Singh?",
-        "a": "To finalise the NCERT curriculum on Legal Studies for Class 8 and other grades.",
-        "options": [
-            "To review the textbook publishing process",
-            "To investigate the blacklisting of academics",
-            "To finalise the NCERT curriculum on Legal Studies for Class 8 and other grades.",
-            "To mediate between the court and academics",
-            "To suggest changes to education policy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the alleged total value of public contracts awarded to Arunachal Pradesh CM Pema Khandu\u2019s family over 10 years?",
-        "a": "\u20b91,270 crore",
-        "options": [
-            "\u20b91,250 crore",
-            "\u20b91,270 crore",
-            "\u20b91,300 crore",
-            "\u20b91,260 crore",
-            "\u20b91,280 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Chief Minister of Arunachal Pradesh whose family is under CBI inquiry for alleged conflict of interest in public contracts?",
-        "a": "Pema Khandu",
-        "options": [
-            "Neiphiu Rio",
-            "Conrad Sangma",
-            "Pema Khandu",
-            "N. Biren Singh",
-            "Manik Saha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which two NGOs filed the petition alleging corruption against the Arunachal Pradesh CM's family?",
-        "a": "Voluntary Arunachal Sena and Save Mon Region Federation",
-        "options": [
-            "Common Cause and Transparency International",
-            "Voluntary Arunachal Sena and Save Mon Region Federation",
-            "Arunachal Citizen's Forum and Lok Satta",
-            "Youth for Justice and Environmental Action Group",
-            "People for Change and Good Governance"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which state were allegations of corruption and nepotism in public contract awards raised against the Chief Minister's family?",
-        "a": "Arunachal Pradesh",
-        "options": [
-            "Assam",
-            "Manipur",
-            "Nagaland",
-            "Arunachal Pradesh",
-            "Mizoram"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "For what duration (years) did the Supreme Court direct the CBI to cover in its inquiry into public contracts in Arunachal Pradesh?",
-        "a": "10 years (January 2015 to December 2025)",
-        "options": [
-            "5 years",
-            "10 years (January 2015 to December 2025)",
-            "12 years",
-            "8 years",
-            "15 years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Within how many weeks did the Supreme Court direct the CBI to commence its preliminary inquiry into Arunachal Pradesh contracts?",
-        "a": "Two weeks",
-        "options": [
-            "One week",
-            "Two weeks",
-            "Four weeks",
-            "Six weeks",
-            "Eight weeks"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the purpose of the CBI's preliminary inquiry into the Arunachal Pradesh contract allegations?",
-        "a": "To independently look into the veracity of the allegations.",
-        "options": [
-            "To arrest the CM immediately",
-            "To recover lost funds directly",
-            "To independently look into the veracity of the allegations.",
-            "To expedite project completion",
-            "To renegotiate contract terms"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What percentage of the DMK's manifesto promises did BJP leader Piyush Goyal claim remained unfulfilled?",
-        "a": "More than 70%",
-        "options": [
-            "More than 50%",
-            "More than 60%",
-            "More than 70%",
-            "More than 80%",
-            "More than 65%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many voters in West Bengal failed to convince judicial officers about 'logical discrepancies' in their details?",
-        "a": "Over 20 lakh",
-        "options": [
-            "Over 15 lakh",
-            "Over 20 lakh",
-            "Over 25 lakh",
-            "Over 18 lakh",
-            "Over 22 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many appellate tribunals were to be formed by the Chief Justice of the Calcutta High Court to frame a procedure for functioning?",
-        "a": "19",
-        "options": [
-            "15",
-            "20",
-            "19",
-            "18",
-            "21"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Union Minister for Commerce and Industry who spoke in Chennai about alleged corruption in Tamil Nadu?",
-        "a": "Piyush Goyal",
-        "options": [
-            "Nitin Gadkari",
-            "Amit Shah",
-            "Piyush Goyal",
-            "Rajnath Singh",
-            "Smriti Irani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which district in West Bengal was the site of the 'well-planned, calculated and deeply instigated' gheraoing incident?",
-        "a": "Malda district",
-        "options": [
-            "Kolkata district",
-            "Malda district",
-            "Howrah district",
-            "Nadia district",
-            "Purulia district"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Apart from Tamil Nadu and West Bengal, which other state/UT was mentioned as going to polls in April?",
-        "a": "Kerala",
-        "options": [
-            "Karnataka",
-            "Gujarat",
-            "Kerala",
-            "Rajasthan",
-            "Punjab"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date did the gheraoing incident involving judicial officers occur in West Bengal's Malda district?",
-        "a": "April 1",
-        "options": [
-            "March 25",
-            "April 1",
-            "April 6",
-            "April 10",
-            "March 24"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the first polling date for the Assembly elections in West Bengal, as mentioned in the text?",
-        "a": "April 23",
-        "options": [
-            "April 18",
-            "April 23",
-            "April 29",
+            "March 1",
+            "March 15",
+            "April 2",
             "April 15",
-            "April 6"
+            "May 1"
         ],
         "cat": "When"
     },
     {
-        "q": "Why did the Supreme Court invoke powers under Article 142 of the Constitution regarding the Malda district incident?",
-        "a": "Because the incident was deemed a 'well-planned, calculated and deeply instigated' move.",
+        "q": "When was Donald Trump admitted to Walter Reed National Military Medical Center after testing positive for COVID-19?",
+        "a": "October 2020",
         "options": [
-            "To protect judicial officers",
-            "To ensure free and fair elections",
-            "Because the incident was deemed a 'well-planned, calculated and deeply instigated' move.",
-            "To expedite voter verification",
-            "To provide legal aid to victims"
+            "August 2020",
+            "September 2020",
+            "October 2020",
+            "November 2020",
+            "December 2020"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the five-judge Constitution bench verdict given that lifted the ban on women's entry to Sabarimala temple?",
+        "a": "2018",
+        "options": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did a five-judge bench refer the issue of discrimination against women at various places of worship to a larger bench?",
+        "a": "November 14, 2019",
+        "options": [
+            "October 14, 2019",
+            "November 1, 2019",
+            "November 14, 2019",
+            "December 1, 2019",
+            "December 14, 2019"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the proposed credit guarantee scheme by the government?",
+        "a": "To support businesses, especially MSMEs impacted by the West Asia crisis.",
+        "options": [
+            "To boost India's export market share",
+            "To control inflation in the domestic economy",
+            "To support businesses, especially MSMEs impacted by the West Asia crisis",
+            "To fund infrastructure development projects",
+            "To provide subsidies to large corporations"
         ],
         "cat": "Why"
     },
     {
-        "q": "Who was the senior advocate representing West Bengal in the Supreme Court regarding the electoral roll issue?",
-        "a": "Shyam Divan",
+        "q": "What was the main reason for the Road Transport and Highways Ministry to discontinue cash payments at toll plazas?",
+        "a": "To reduce long queues at toll gates and make highway travel smoother.",
         "options": [
-            "Kapil Sibal",
-            "Tushar Mehta",
-            "Shyam Divan",
-            "Mukul Rohatgi",
-            "Prashant Bhushan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Why did the West Bengal government plead with the Supreme Court to delay freezing the electoral roll?",
-        "a": "To allow more voters who failed verification a chance to vote.",
-        "options": [
-            "To conduct a new census",
-            "To allow more voters who failed verification a chance to vote.",
-            "To update voter addresses",
-            "To recount previous votes",
-            "To simplify the registration process"
+            "To increase government revenue from tolls",
+            "To encourage tourism on National Highways",
+            "To reduce long queues at toll gates and make highway travel smoother",
+            "To comply with international standards for toll collection",
+            "To create new job opportunities in the digital payment sector"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which High Court's Chief Justice was pulled up by the Supreme Court for going incommunicado during the Malda incident?",
-        "a": "Calcutta High Court",
+        "q": "Why was Walter Reed National Military Medical Center named after Walter Reed?",
+        "a": "For his research that helped establish how yellow fever is transmitted.",
         "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Calcutta High Court",
-            "Madras High Court",
-            "Patna High Court"
+            "For his contributions to military surgery",
+            "For his work in tropical disease prevention",
+            "For his research that helped establish how yellow fever is transmitted",
+            "For his leadership during the Spanish-American War",
+            "For developing a new form of penicillin"
         ],
-        "cat": "Where"
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary constitutional provision referred to by Solicitor General Tushar Mehta concerning the right of religious freedom?",
+        "a": "Article 25",
+        "options": [
+            "Article 14",
+            "Article 21",
+            "Article 25",
+            "Article 32",
+            "Article 44"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the Centre's contention, why is the issue of restriction on women's entry at Sabarimala temple beyond judicial review?",
+        "a": "It falls within the domain of religious faith and denominational autonomy.",
+        "options": [
+            "It is a matter of public order",
+            "It violates morality",
+            "It falls within the domain of religious faith and denominational autonomy",
+            "It impacts national security",
+            "It is a legislative matter only"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of the Emergency Credit Line Guarantee Scheme (ECLGS) launched in May 2020?",
+        "a": "To support MSMEs and other eligible businesses in meeting operational liabilities and restarting businesses amidst COVID-19.",
+        "options": [
+            "To boost export-oriented industries",
+            "To provide direct cash transfers to citizens",
+            "To support MSMEs and other eligible businesses in meeting operational liabilities and restarting businesses amidst COVID-19",
+            "To fund large-scale infrastructure projects",
+            "To reduce the fiscal deficit of the government"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason cited by the government for slashing excise duty on petrol and diesel by \u20b910 a litre?",
+        "a": "To shield consumers from the impact of rising global crude prices amid the ongoing war.",
+        "options": [
+            "To increase government revenue",
+            "To promote public transport usage",
+            "To shield consumers from the impact of rising global crude prices amid the ongoing war",
+            "To encourage domestic crude oil production",
+            "To align with international fuel prices"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did India exempt the import of critical petrochemical products from customs duty on April 2?",
+        "a": "To ensure supply stability and provide relief to consumers amid disruption in shipping routes due to West Asia conflict.",
+        "options": [
+            "To promote domestic petrochemical industry",
+            "To retaliate against trade sanctions",
+            "To ensure supply stability and provide relief to consumers amid disruption in shipping routes due to West Asia conflict",
+            "To increase government revenue from imports",
+            "To diversify import sources"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Justice Nagarathna, under what condition can courts intervene if a social ill is branded as a religious practice?",
+        "a": "If social evils are given a religious colour, then the courts can intervene to distinguish between the two.",
+        "options": [
+            "Only if the legislature requests intervention",
+            "If the religious leaders agree to judicial review",
+            "If social evils are given a religious colour, then the courts can intervene to distinguish between the two",
+            "Only if it affects public health",
+            "When there is a clear violation of public order"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did SEBI decide to grant a one-time relaxation to extend the validity of its observation letters?",
+        "a": "Due to prevailing uncertain market conditions, ongoing geopolitical tensions, and subdued investor participation.",
+        "options": [
+            "To encourage new public issues",
+            "To support specific industries",
+            "Due to prevailing uncertain market conditions, ongoing geopolitical tensions, and subdued investor participation",
+            "To reduce regulatory burden on companies",
+            "To simplify the IPO process"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Justice DY Chandrachud's opinion regarding the exclusion of women from Sabarimala temple based on age or menstrual status in 2018?",
+        "a": "It was a form of \"untouchability\" which placed women in a \"subordinate\" position.",
+        "options": [
+            "It was a valid essential religious practice",
+            "It was a matter for legislative reform only",
+            "It was a form of \"untouchability\" which placed women in a \"subordinate\" position",
+            "It was necessary for the deity's Naishtika Brahmachari form",
+            "It was a tradition that should be respected"
+        ],
+        "cat": "Why"
     }
 ]
