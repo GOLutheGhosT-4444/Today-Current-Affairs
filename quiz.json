@@ -1,366 +1,642 @@
 [
     {
-        "q": "What is the proposed value of the credit guarantee scheme under consideration to support businesses, especially MSMEs?",
-        "a": "\u20b92.5 lakh crore",
+        "q": "North Korea's Hwasong-11 ballistic missiles, armed with cluster-bomb warheads, can reduce any target covering an area of how many hectares?",
+        "a": "6.5-7.0 hectares",
         "options": [
-            "\u20b91.5 lakh crore",
-            "\u20b92 lakh crore",
-            "\u20b92.5 lakh crore",
-            "\u20b93 lakh crore",
-            "\u20b93.5 lakh crore"
+            "6.0-6.5 hectares",
+            "7.0-7.5 hectares",
+            "6.5-7.0 hectares",
+            "5.5-6.0 hectares",
+            "7.5-8.0 hectares"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of guarantee on loans up to \u20b9100 crore would be provided to lenders under the new credit guarantee scheme?",
-        "a": "90%",
+        "q": "The missiles fired by North Korea on Wednesday travelled between 240 km and how many km before landing in the sea?",
+        "a": "700 km",
         "options": [
-            "70%",
-            "75%",
-            "85%",
-            "90%",
-            "95%"
+            "690 km",
+            "710 km",
+            "700 km",
+            "680 km",
+            "720 km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the maximum loan limit for which a guarantee would be provided under the proposed credit guarantee scheme?",
-        "a": "\u20b9100 crore",
+        "q": "Jim Whittaker, the first American to summit Mount Everest, died at what age?",
+        "a": "97",
         "options": [
-            "\u20b950 crore",
-            "\u20b975 crore",
-            "\u20b9100 crore",
-            "\u20b9125 crore",
-            "\u20b9150 crore"
+            "96",
+            "98",
+            "97",
+            "95",
+            "99"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much financial provision would the government have to provide for the new credit guarantee scheme?",
-        "a": "\u20b917,000-\u20b918,000 crore",
+        "q": "Jim Whittaker was survived by his wife of how many years, Dianne Roberts?",
+        "a": "52 years",
         "options": [
-            "\u20b910,000-\u20b912,000 crore",
-            "\u20b914,000-\u20b915,000 crore",
-            "\u20b917,000-\u20b918,000 crore",
-            "\u20b920,000-\u20b922,000 crore",
-            "\u20b925,000-\u20b928,000 crore"
+            "51 years",
+            "53 years",
+            "52 years",
+            "50 years",
+            "54 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the guarantee percentage provided to Member Lending Institutions under the Emergency Credit Line Guarantee Scheme (ECLGS)?",
-        "a": "100%",
+        "q": "Jim Whittaker ascended Everest in 1963. How many years after the pioneering climb of Sir Edmund Hillary and Tenzing Norgay did his summit occur?",
+        "a": "10 years",
         "options": [
-            "75%",
-            "80%",
-            "90%",
-            "95%",
-            "100%"
+            "9 years",
+            "11 years",
+            "10 years",
+            "8 years",
+            "12 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what amount per litre did the government slash excise duty on petrol and diesel on March 26?",
-        "a": "\u20b910",
+        "q": "Jim Whittaker served as the first full-time employee of outdoor retailer REI in which year?",
+        "a": "1995",
         "options": [
-            "\u20b92",
-            "\u20b95",
-            "\u20b98",
-            "\u20b910",
-            "\u20b912"
+            "1994",
+            "1996",
+            "1995",
+            "1993",
+            "1997"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what approximate percentage have global crude prices risen since the US and Israel launched military strikes against Iran?",
-        "a": "50%",
+        "q": "During Jim Whittaker's tenure as President and CEO of REI (1971-1979), the company's membership grew from nearly 250,000 to how many?",
+        "a": "900,000",
         "options": [
-            "25%",
-            "35%",
-            "45%",
-            "50%",
-            "60%"
+            "890,000",
+            "910,000",
+            "900,000",
+            "880,000",
+            "920,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the export duty imposed per litre on Aviation Turbine Fuel (ATF) by the government?",
-        "a": "\u20b929.50",
+        "q": "Jim Whittaker climbed a Canadian peak with Robert Kennedy, which was 14,000 feet high. How many meters is this approximately?",
+        "a": "4,267 metres",
         "options": [
-            "\u20b919.50",
-            "\u20b924.50",
-            "\u20b929.50",
-            "\u20b934.50",
-            "\u20b939.50"
+            "4,260 metres",
+            "4,270 metres",
+            "4,267 metres",
+            "4,265 metres",
+            "4,269 metres"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current excise duty per litre on diesel, as per the news text?",
-        "a": "Zero",
+        "q": "Jim Whittaker's twin brother Lou Whittaker died in which year?",
+        "a": "2024",
         "options": [
-            "\u20b90",
-            "\u20b91",
-            "\u20b92",
-            "\u20b93",
-            "\u20b95"
+            "2023",
+            "2025",
+            "2024",
+            "2022",
+            "2026"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What multiple of the applicable toll fee will be charged for UPI payments at toll plazas if a vehicle lacks a valid FASTag?",
-        "a": "1.25 times",
+        "q": "Lou Whittaker, Jim's twin brother, died at what age?",
+        "a": "95",
         "options": [
-            "1.1 times",
-            "1.2 times",
-            "1.25 times",
-            "1.3 times",
-            "1.5 times"
+            "94",
+            "96",
+            "95",
+            "93",
+            "97"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the annual cost of the FASTag annual pass, allowing up to 200 toll crossings per year?",
-        "a": "\u20b93,000",
+        "q": "At 16, Jim and Lou Whittaker summited Mount Olympus, which is how many feet high?",
+        "a": "7,965-foot",
         "options": [
-            "\u20b91,500",
-            "\u20b92,000",
-            "\u20b92,500",
-            "\u20b93,000",
-            "\u20b93,500"
+            "7,960-foot",
+            "7,970-foot",
+            "7,965-foot",
+            "7,955-foot",
+            "7,975-foot"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many subscribers has NHAI crossed for its FASTag annual pass?",
-        "a": "50 lakh",
+        "q": "Jim Whittaker led 10 handicapped climbers up Mount Rainier, which is how many feet high?",
+        "a": "14,410-foot",
         "options": [
-            "20 lakh",
-            "30 lakh",
-            "40 lakh",
-            "50 lakh",
-            "60 lakh"
+            "14,400-foot",
+            "14,420-foot",
+            "14,410-foot",
+            "14,390-foot",
+            "14,430-foot"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate distance of Walter Reed National Military Medical Center from Washington, DC?",
-        "a": "15 miles",
+        "q": "The government plans to roll out a relief package of what amount for MSMEs?",
+        "a": "\u20b92.5 trillion",
         "options": [
-            "5 miles",
-            "10 miles",
-            "15 miles",
-            "20 miles",
-            "25 miles"
+            "\u20b92.4 trillion",
+            "\u20b92.6 trillion",
+            "\u20b92.5 trillion",
+            "\u20b92.3 trillion",
+            "\u20b92.7 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age group of women whose entry was restricted at the Sabarimala temple, according to the 2018 judgment?",
-        "a": "10 to 50 years",
+        "q": "Under normal circumstances, a loan is classified as a non-performing asset (NPA) if the overdue period exceeds how many days?",
+        "a": "90 days",
         "options": [
-            "5 to 45 years",
-            "10 to 50 years",
-            "15 to 55 years",
-            "20 to 60 years",
-            "25 to 65 years"
+            "80 days",
+            "100 days",
+            "90 days",
+            "70 days",
+            "110 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many judges constituted the Constitution bench currently hearing petitions related to discrimination against women at religious places?",
-        "a": "Nine",
+        "q": "During the Covid-19 pandemic, the RBI temporarily extended the NPA classification period from 90 days to how many days?",
+        "a": "180 days",
         "options": [
-            "Five",
-            "Seven",
-            "Nine",
-            "Eleven",
-            "Thirteen"
+            "170 days",
+            "190 days",
+            "180 days",
+            "160 days",
+            "200 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the majority verdict in the September 2018 Sabarimala judgment that lifted the ban on women's entry?",
-        "a": "4:1",
+        "q": "The MSME sector contributes approximately what percentage to India's Gross Domestic Product (GDP)?",
+        "a": "30.1%",
         "options": [
-            "3:2",
-            "4:1",
-            "5:0",
-            "2:3",
-            "1:4"
+            "29.1%",
+            "31.1%",
+            "30.1%",
+            "28.1%",
+            "32.1%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current US President whose health speculation intensified over the weekend?",
+        "q": "The MSME sector accounts for approximately what percentage of India\u2019s manufacturing output?",
+        "a": "35.4%",
+        "options": [
+            "34.4%",
+            "36.4%",
+            "35.4%",
+            "33.4%",
+            "37.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "As of 30 September 2025, total advances by scheduled commercial banks (SCBs) to the MSME sector stood at what amount?",
+        "a": "\u20b935.83 trillion",
+        "options": [
+            "\u20b935.73 trillion",
+            "\u20b935.93 trillion",
+            "\u20b935.83 trillion",
+            "\u20b935.63 trillion",
+            "\u20b936.03 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the Gross NPA percentage for the MSME sector as of 30 September 2025?",
+        "a": "3.27%",
+        "options": [
+            "3.17%",
+            "3.37%",
+            "3.27%",
+            "3.07%",
+            "3.47%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "William Shakespeare was born in which year?",
+        "a": "1564",
+        "options": [
+            "1563",
+            "1565",
+            "1564",
+            "1562",
+            "1566"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "At what age did William Shakespeare marry Anne Hathaway?",
+        "a": "18",
+        "options": [
+            "17",
+            "19",
+            "18",
+            "16",
+            "20"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many plays did William Shakespeare write?",
+        "a": "39",
+        "options": [
+            "38",
+            "40",
+            "39",
+            "37",
+            "41"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Monetary Policy Committee (MPC) voted unanimously to keep the policy repo rate unchanged at what percentage?",
+        "a": "5.25%",
+        "options": [
+            "5.15%",
+            "5.35%",
+            "5.25%",
+            "5.05%",
+            "5.45%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Consequently, the standing deposit facility (SDF) rate remains at what percentage?",
+        "a": "5.00%",
+        "options": [
+            "4.90%",
+            "5.10%",
+            "5.00%",
+            "4.80%",
+            "5.20%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The marginal standing facility (MSF) rate and the Bank Rate remain at what percentage?",
+        "a": "5.50%",
+        "options": [
+            "5.40%",
+            "5.60%",
+            "5.50%",
+            "5.30%",
+            "5.70%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current leader of North Korea mentioned in the news text?",
+        "a": "Kim Jong Un",
+        "options": [
+            "Kim Il Sung",
+            "Kim Jong Il",
+            "Kim Jong Un",
+            "Xi Jinping",
+            "Donald Trump"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the first American to summit Mount Everest?",
+        "a": "Jim Whittaker",
+        "options": [
+            "Lou Whittaker",
+            "Robert Kennedy",
+            "Nawang Gombu",
+            "Sir Edmund Hillary",
+            "Jim Whittaker"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was Jim Whittaker's co-climber when he ascended Mount Everest in 1963?",
+        "a": "Nawang Gombu",
+        "options": [
+            "Lou Whittaker",
+            "Sir Edmund Hillary",
+            "Tenzing Norgay",
+            "Nawang Gombu",
+            "Robert Kennedy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who were the pioneering climbers who first summited Everest 10 years before Jim Whittaker's ascent?",
+        "a": "Sir Edmund Hillary and Tenzing Norgay",
+        "options": [
+            "Jim Whittaker and Nawang Gombu",
+            "Lou Whittaker and Robert Kennedy",
+            "Sir Edmund Hillary and Tenzing Norgay",
+            "George Mallory and Andrew Irvine",
+            "Reinhold Messner and Peter Habeler"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who served as the first full-time employee of the outdoor retailer REI in 1995?",
+        "a": "Jim Whittaker",
+        "options": [
+            "Lou Whittaker",
+            "Robert Kennedy",
+            "Dianne Roberts",
+            "Jim Whittaker",
+            "Jay Inslee"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "With which US President did Kim Jong Un's nuclear talks collapse in 2019?",
         "a": "Donald Trump",
         "options": [
             "Joe Biden",
-            "Mike Pence",
-            "George Bush",
+            "Barack Obama",
             "Donald Trump",
-            "Barack Obama"
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the White House communications director mentioned in the news text, dismissing claims about Trump's health?",
-        "a": "Steven Cheung",
+        "q": "Who is the Chinese Foreign Minister expected to arrive in North Korea for a two-day trip?",
+        "a": "Wang Yi",
         "options": [
-            "John Kelly",
-            "Sarah Huckabee Sanders",
-            "Steven Cheung",
-            "Sean Spicer",
-            "Kayleigh McEnany"
+            "Qin Gang",
+            "Li Qiang",
+            "Wang Yi",
+            "Zhao Lijian",
+            "Xie Feng"
         ],
         "cat": "Who"
     },
     {
-        "q": "The Walter Reed National Military Medical Center is named after which US Army physician?",
-        "a": "Walter Reed",
+        "q": "Who was a close friend of Jim Whittaker and had a 14,000-foot Canadian peak named after him?",
+        "a": "Robert Kennedy",
         "options": [
-            "Louis Pasteur",
-            "Robert Koch",
-            "Alexander Fleming",
-            "Jonas Salk",
-            "Walter Reed"
+            "John F. Kennedy",
+            "Ted Kennedy",
+            "Robert Kennedy",
+            "George Kennedy",
+            "Joseph P. Kennedy Jr."
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Solicitor General appearing for the Centre in the Sabarimala temple case before the Supreme Court?",
-        "a": "Tushar Mehta",
+        "q": "Who is Jim Whittaker's twin brother, who decided to skip the 1963 Everest expedition?",
+        "a": "Lou Whittaker",
         "options": [
-            "R Venkataramani",
-            "K.K. Venugopal",
-            "Tushar Mehta",
-            "M.C. Setalvad",
-            "Harish Salve"
+            "Bob Whittaker",
+            "Joss Whittaker",
+            "Leif Whittaker",
+            "Lou Whittaker",
+            "Jim Whittaker"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Justice of India heading the nine-judge Constitution bench hearing the Sabarimala reference?",
+        "q": "Who was the former Washington governor who called Jim Whittaker's legacy 'just as impressive, and just as lasting, as Mount Rainier itself'?",
+        "a": "Jay Inslee",
+        "options": [
+            "Christine Gregoire",
+            "Gary Locke",
+            "Jay Inslee",
+            "Daniel J. Evans",
+            "Dixy Lee Ray"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Reserve Bank of India Governor mentioned in the news?",
+        "a": "Sanjay Malhotra",
+        "options": [
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Raghuram Rajan",
+            "Sanjay Malhotra",
+            "Arun Jaitley"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the owner of the fishing boat 'Shivashankar' whose insurance claim was denied after it sank in 2009?",
+        "a": "Shyamala S. Kunder",
+        "options": [
+            "Shankar S. Kunder",
+            "Shyam S. Kunder",
+            "Shyamala S. Kunder",
+            "Sunita S. Kunder",
+            "Shiv S. Kunder"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Justice of India heading the nine-judge Bench hearing the Sabarimala reference?",
         "a": "Surya Kant",
         "options": [
             "D.Y. Chandrachud",
-            "Ranjan Gogoi",
+            "U.U. Lalit",
+            "N.V. Ramana",
             "Surya Kant",
-            "J.S. Khehar",
-            "H.L. Dattu"
+            "S.A. Bobde"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the sole woman judge in the Supreme Court and part of the nine-member bench hearing the Sabarimala reference, mentioned for her observation on social ills?",
-        "a": "Justice B.V. Nagarathna",
+        "q": "Who is the Chief Election Commissioner (CEC) mentioned in the context of the Trinamool Congress meeting?",
+        "a": "Gyanesh Kumar",
         "options": [
-            "Justice Indu Malhotra",
-            "Justice Fathima Beevi",
-            "Justice B.V. Nagarathna",
-            "Justice Ruma Pal",
-            "Justice Hima Kohli"
+            "Rajiv Kumar",
+            "Arun Goel",
+            "Sushil Chandra",
+            "Gyanesh Kumar",
+            "Om Prakash Rawat"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which judge opined in the 2018 Sabarimala judgment that exclusion of women based on age or menstrual status was a form of 'untouchability'?",
-        "a": "Justice DY Chandrachud",
+        "q": "Who is the Chief Minister of Karnataka who accused the ECI of being 'selective and complicit'?",
+        "a": "Siddaramaiah",
         "options": [
-            "Justice Indu Malhotra",
-            "Justice Rohinton Fali Nariman",
-            "Justice DY Chandrachud",
-            "Justice A.M. Khanwilkar",
-            "Justice Deepak Misra"
+            "Basavaraj Bommai",
+            "H.D. Kumaraswamy",
+            "B.S. Yeddyurappa",
+            "Siddaramaiah",
+            "D.V. Sadananda Gowda"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which former CJI headed the five-judge bench that referred the Sabarimala issue to a larger bench in November 2019?",
-        "a": "Ranjan Gogoi",
+        "q": "Who wrote the famous line, 'All the world\u2019s a stage, and all the men and women merely players'?",
+        "a": "William Shakespeare",
         "options": [
-            "Dipak Misra",
-            "Sharad Arvind Bobde",
-            "Ranjan Gogoi",
-            "J.S. Khehar",
-            "H.L. Dattu"
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "William Shakespeare",
+            "John Milton",
+            "Geoffrey Chaucer"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which body extended the clearance deadline for observation letters for public issues due to geopolitical tensions and subdued investor participation?",
-        "a": "SEBI",
+        "q": "Which character in Shakespeare's 'As You Like It' delivers the speech containing 'All the world's a stage'?",
+        "a": "Jaques",
         "options": [
-            "RBI",
-            "IRDAI",
-            "SEBI",
-            "PFRDA",
-            "TRAI"
+            "Orlando",
+            "Rosalind",
+            "Duke Senior",
+            "Jaques",
+            "Touchstone"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which authority announced the discontinuation of cash payments at toll plazas on National Highways from April 10, 2026?",
-        "a": "Road Transport and Highways Ministry",
+        "q": "Who was the patron under whom Lord Chamberlain\u2019s Men, Shakespeare's acting company, later became known as the King\u2019s Men?",
+        "a": "King James I",
         "options": [
-            "Ministry of Finance",
-            "NHAI",
-            "NITI Aayog",
-            "Road Transport and Highways Ministry",
-            "Ministry of Home Affairs"
+            "Queen Elizabeth I",
+            "King Henry VIII",
+            "King Charles I",
+            "King James I",
+            "Queen Victoria"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which wholly-owned subsidiary of the government would provide the guarantee on bank loans under the proposed credit guarantee scheme?",
-        "a": "National Credit Guarantee Trustee Company (NCGTC)",
+        "q": "Who did William Shakespeare marry at the age of 18?",
+        "a": "Anne Hathaway",
         "options": [
-            "SIDBI",
-            "NABARD",
-            "ECGC",
-            "National Credit Guarantee Trustee Company (NCGTC)",
-            "DICGC"
+            "Mary Arden",
+            "Judith Shakespeare",
+            "Susanna Hall",
+            "Anne Hathaway",
+            "Elizabeth I"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Senior Assistant Editor with Mint, reporting on trending news and entertainment, mentioned in the article's author details?",
-        "a": "Anjali Thakur",
+        "q": "Who is the spokesperson for South Korea's Joint Chiefs of Staff mentioned in the context of North Korean missile launches?",
+        "a": "Jang Do-young",
         "options": [
-            "Gulam Jeelani",
-            "Sugam Singhal",
-            "Chanchal",
-            "Anjali Thakur",
-            "Sanchari Ghosh"
+            "Jang Ho-young",
+            "Jang Dong-young",
+            "Jang Do-young",
+            "Jang Tae-young",
+            "Jang Won-young"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where is the Walter Reed National Military Medical Center, where US President Trump was reportedly admitted, located?",
-        "a": "Bethesda, Maryland",
+        "q": "From which area did South Korea's military detect North Korea firing multiple missiles?",
+        "a": "An eastern coastal area",
         "options": [
-            "Washington, DC",
-            "New York, New York",
-            "Bethesda, Maryland",
-            "Quantico, Virginia",
-            "Fort Bragg, North Carolina"
+            "A western coastal area",
+            "A northern border area",
+            "An eastern coastal area",
+            "A southern island area",
+            "A central mountainous area"
         ],
         "cat": "Where"
     },
     {
-        "q": "The unverified claims of US President Donald Trump's admission were to which specific military medical center?",
-        "a": "Walter Reed National Military Medical Center",
+        "q": "Near which city, the capital of North Korea, was at least one projectile detected launched on Tuesday?",
+        "a": "Pyongyang",
         "options": [
-            "Mayo Clinic",
-            "Cleveland Clinic",
-            "Johns Hopkins Hospital",
-            "Massachusetts General Hospital",
-            "Walter Reed National Military Medical Center"
+            "Sinuiju",
+            "Wonsan",
+            "Pyongyang",
+            "Kaesong",
+            "Chongjin"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Indian state is the Sabarimala temple, the subject of ongoing Supreme Court hearings, located?",
+        "q": "Where did Jim Whittaker, the first American to summit Mount Everest, die?",
+        "a": "Port Townsend, Washington",
+        "options": [
+            "Seattle, Washington",
+            "Tacoma, Washington",
+            "Port Townsend, Washington",
+            "Olympia, Washington",
+            "Vancouver, Washington"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which US state is Port Townsend, the place where Jim Whittaker died, located?",
+        "a": "Washington",
+        "options": [
+            "Oregon",
+            "California",
+            "Washington",
+            "Colorado",
+            "Montana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which US state did Jim Whittaker help establish Redwood National Park?",
+        "a": "California",
+        "options": [
+            "Oregon",
+            "Washington",
+            "California",
+            "Arizona",
+            "Nevada"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Jim Whittaker grew up in which city?",
+        "a": "Seattle",
+        "options": [
+            "Portland",
+            "Spokane",
+            "Tacoma",
+            "Seattle",
+            "Everett"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The fishing boat Shivashankar, from Udupi, sank near which town in Karnataka?",
+        "a": "Karwar",
+        "options": [
+            "Mangaluru",
+            "Honnavar",
+            "Karwar",
+            "Gokarna",
+            "Kundapura"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Karnataka State Consumer Disputed Redressal Commission (KSCDRC) delivered its ruling in which Indian state?",
+        "a": "Karnataka",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Karnataka",
+            "Andhra Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Sabarimala shrine, central to a Supreme Court hearing mentioned in the news, is located in which Indian state?",
         "a": "Kerala",
         "options": [
             "Tamil Nadu",
@@ -372,351 +648,75 @@
         "cat": "Where"
     },
     {
-        "q": "Where did US strikes reportedly target multiple sites in Iran, specifically an oil export hub?",
-        "a": "Kharg Island oil export hub",
+        "q": "Which country's Foreign Minister Wang Yi is expected to arrive in North Korea for a two-day trip?",
+        "a": "China",
         "options": [
-            "Tehran",
-            "Isfahan",
-            "Shiraz",
-            "Kharg Island oil export hub",
-            "Bandar Abbas"
+            "Russia",
+            "South Korea",
+            "Japan",
+            "China",
+            "Vietnam"
         ],
         "cat": "Where"
     },
     {
-        "q": "Trump issued a warning to Iran related to developments around which strategic waterway?",
-        "a": "Strait of Hormuz",
-        "options": [
-            "Suez Canal",
-            "Strait of Hormuz",
-            "Bab-el-Mandeb Strait",
-            "Malacca Strait",
-            "Panama Canal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Wounded US service members from Operation Epic Fury were flown to which joint base in Maryland before being transferred for treatment?",
-        "a": "Joint Base Andrews",
-        "options": [
-            "Ramstein Air Base",
-            "Kadena Air Base",
-            "Joint Base Andrews",
-            "Hickam Air Force Base",
-            "Nellis Air Force Base"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Previously, the Walter Reed National Military Medical Center was commonly referred to by what name?",
-        "a": "National Naval Medical Center",
-        "options": [
-            "National Army Hospital",
-            "Bethesda Military Hospital",
-            "National Naval Medical Center",
-            "Washington Medical Center",
-            "Maryland General Hospital"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which social media platform did Trump use to issue a sharp warning to Iran, according to the news text?",
-        "a": "Truth Social",
-        "options": [
-            "Twitter (X)",
-            "Facebook",
-            "Instagram",
-            "Truth Social",
-            "Parler"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Anjali Thakur, the author of part of the news text, holds a Bachelor of Arts degree from which institution?",
-        "a": "Miranda House",
-        "options": [
-            "Lady Shri Ram College",
-            "St. Stephen's College",
-            "Miranda House",
-            "Hindu College",
-            "Delhi College of Arts & Commerce"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The government is considering a credit guarantee scheme to support businesses impacted by a crisis in which specific geopolitical region?",
+        "q": "Which region's conflict is creating conditions similar to the covid-19 period, leading to financial stress on MSMEs in India?",
         "a": "West Asia",
         "options": [
             "East Asia",
-            "Europe",
-            "Africa",
-            "South America",
-            "West Asia"
+            "South Asia",
+            "West Asia",
+            "Central Asia",
+            "Southeast Asia"
         ],
         "cat": "Where"
     },
     {
-        "q": "When did SEBI extend the clearance deadline for observation letters for public issues, as stated in the circular?",
-        "a": "Tuesday, April 7, 2026",
+        "q": "In which country are NTPC and \u00c9lectricit\u00e9 de France (EDF) exploring opportunities for collaboration in the nuclear power space?",
+        "a": "India",
         "options": [
-            "Monday, April 6, 2026",
-            "Tuesday, April 7, 2026",
-            "Wednesday, April 8, 2026",
-            "Thursday, April 9, 2026",
-            "Friday, April 10, 2026"
+            "France",
+            "China",
+            "Russia",
+            "India",
+            "USA"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "The SEBI observation letters targeted for extension were those expiring between April 1, 2026, and which other date?",
-        "a": "September 30, 2026",
+        "q": "RBI Governor Sanjay Malhotra stated that developments in which region are expected to widen India's Current Account Deficit?",
+        "a": "West Asia",
         "options": [
-            "June 30, 2026",
-            "July 31, 2026",
-            "August 31, 2026",
-            "September 30, 2026",
-            "October 31, 2026"
+            "East Africa",
+            "West Asia",
+            "South America",
+            "Eastern Europe",
+            "North Asia"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "From which date will cash payments at toll plazas be discontinued for travelers on National Highways?",
-        "a": "April 10, 2026",
+        "q": "The fishing boat Shivashankar was from Udupi, located in which district of Karnataka?",
+        "a": "Dakshina Kannada",
         "options": [
-            "April 1, 2026",
-            "April 5, 2026",
-            "April 10, 2026",
-            "May 1, 2026",
-            "June 1, 2026"
+            "Uttara Kannada",
+            "Dakshina Kannada",
+            "Udupi district",
+            "Shivamogga",
+            "Chikkamagaluru"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "When did the government announce the Emergency Credit Line Guarantee Scheme (ECLGS) as part of the Aatmanirbhar Bharat Abhiyaan?",
-        "a": "May 2020",
+        "q": "Karwar, near which the Shivashankar boat sank, is in which district of Karnataka?",
+        "a": "Uttara Kannada",
         "options": [
-            "March 2020",
-            "April 2020",
-            "May 2020",
-            "June 2020",
-            "July 2020"
+            "Dakshina Kannada",
+            "Udupi",
+            "Uttara Kannada",
+            "Hassan",
+            "Mysuru"
         ],
-        "cat": "When"
-    },
-    {
-        "q": "Until when did the Emergency Credit Line Guarantee Scheme (ECLGS) continue, as stated in the news?",
-        "a": "March 31, 2023",
-        "options": [
-            "December 31, 2022",
-            "March 31, 2023",
-            "June 30, 2023",
-            "September 30, 2023",
-            "December 31, 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the government slash excise duty on petrol and diesel by \u20b910 a litre?",
-        "a": "March 26",
-        "options": [
-            "February 15",
-            "March 1",
-            "March 26",
-            "April 1",
-            "April 10"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the United States and Israel launch military strikes against Iran, triggering a rise in global crude prices?",
-        "a": "February 28",
-        "options": [
-            "January 15",
-            "February 1",
-            "February 28",
-            "March 15",
-            "April 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did India exempt the import of critical petrochemical products from customs duty?",
-        "a": "April 2",
-        "options": [
-            "March 1",
-            "March 15",
-            "April 2",
-            "April 15",
-            "May 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was Donald Trump admitted to Walter Reed National Military Medical Center after testing positive for COVID-19?",
-        "a": "October 2020",
-        "options": [
-            "August 2020",
-            "September 2020",
-            "October 2020",
-            "November 2020",
-            "December 2020"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was the five-judge Constitution bench verdict given that lifted the ban on women's entry to Sabarimala temple?",
-        "a": "2018",
-        "options": [
-            "2016",
-            "2017",
-            "2018",
-            "2019",
-            "2020"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did a five-judge bench refer the issue of discrimination against women at various places of worship to a larger bench?",
-        "a": "November 14, 2019",
-        "options": [
-            "October 14, 2019",
-            "November 1, 2019",
-            "November 14, 2019",
-            "December 1, 2019",
-            "December 14, 2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the proposed credit guarantee scheme by the government?",
-        "a": "To support businesses, especially MSMEs impacted by the West Asia crisis.",
-        "options": [
-            "To boost India's export market share",
-            "To control inflation in the domestic economy",
-            "To support businesses, especially MSMEs impacted by the West Asia crisis",
-            "To fund infrastructure development projects",
-            "To provide subsidies to large corporations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the main reason for the Road Transport and Highways Ministry to discontinue cash payments at toll plazas?",
-        "a": "To reduce long queues at toll gates and make highway travel smoother.",
-        "options": [
-            "To increase government revenue from tolls",
-            "To encourage tourism on National Highways",
-            "To reduce long queues at toll gates and make highway travel smoother",
-            "To comply with international standards for toll collection",
-            "To create new job opportunities in the digital payment sector"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why was Walter Reed National Military Medical Center named after Walter Reed?",
-        "a": "For his research that helped establish how yellow fever is transmitted.",
-        "options": [
-            "For his contributions to military surgery",
-            "For his work in tropical disease prevention",
-            "For his research that helped establish how yellow fever is transmitted",
-            "For his leadership during the Spanish-American War",
-            "For developing a new form of penicillin"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary constitutional provision referred to by Solicitor General Tushar Mehta concerning the right of religious freedom?",
-        "a": "Article 25",
-        "options": [
-            "Article 14",
-            "Article 21",
-            "Article 25",
-            "Article 32",
-            "Article 44"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the Centre's contention, why is the issue of restriction on women's entry at Sabarimala temple beyond judicial review?",
-        "a": "It falls within the domain of religious faith and denominational autonomy.",
-        "options": [
-            "It is a matter of public order",
-            "It violates morality",
-            "It falls within the domain of religious faith and denominational autonomy",
-            "It impacts national security",
-            "It is a legislative matter only"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the purpose of the Emergency Credit Line Guarantee Scheme (ECLGS) launched in May 2020?",
-        "a": "To support MSMEs and other eligible businesses in meeting operational liabilities and restarting businesses amidst COVID-19.",
-        "options": [
-            "To boost export-oriented industries",
-            "To provide direct cash transfers to citizens",
-            "To support MSMEs and other eligible businesses in meeting operational liabilities and restarting businesses amidst COVID-19",
-            "To fund large-scale infrastructure projects",
-            "To reduce the fiscal deficit of the government"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reason cited by the government for slashing excise duty on petrol and diesel by \u20b910 a litre?",
-        "a": "To shield consumers from the impact of rising global crude prices amid the ongoing war.",
-        "options": [
-            "To increase government revenue",
-            "To promote public transport usage",
-            "To shield consumers from the impact of rising global crude prices amid the ongoing war",
-            "To encourage domestic crude oil production",
-            "To align with international fuel prices"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did India exempt the import of critical petrochemical products from customs duty on April 2?",
-        "a": "To ensure supply stability and provide relief to consumers amid disruption in shipping routes due to West Asia conflict.",
-        "options": [
-            "To promote domestic petrochemical industry",
-            "To retaliate against trade sanctions",
-            "To ensure supply stability and provide relief to consumers amid disruption in shipping routes due to West Asia conflict",
-            "To increase government revenue from imports",
-            "To diversify import sources"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Justice Nagarathna, under what condition can courts intervene if a social ill is branded as a religious practice?",
-        "a": "If social evils are given a religious colour, then the courts can intervene to distinguish between the two.",
-        "options": [
-            "Only if the legislature requests intervention",
-            "If the religious leaders agree to judicial review",
-            "If social evils are given a religious colour, then the courts can intervene to distinguish between the two",
-            "Only if it affects public health",
-            "When there is a clear violation of public order"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did SEBI decide to grant a one-time relaxation to extend the validity of its observation letters?",
-        "a": "Due to prevailing uncertain market conditions, ongoing geopolitical tensions, and subdued investor participation.",
-        "options": [
-            "To encourage new public issues",
-            "To support specific industries",
-            "Due to prevailing uncertain market conditions, ongoing geopolitical tensions, and subdued investor participation",
-            "To reduce regulatory burden on companies",
-            "To simplify the IPO process"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was Justice DY Chandrachud's opinion regarding the exclusion of women from Sabarimala temple based on age or menstrual status in 2018?",
-        "a": "It was a form of \"untouchability\" which placed women in a \"subordinate\" position.",
-        "options": [
-            "It was a valid essential religious practice",
-            "It was a matter for legislative reform only",
-            "It was a form of \"untouchability\" which placed women in a \"subordinate\" position",
-            "It was necessary for the deity's Naishtika Brahmachari form",
-            "It was a tradition that should be respected"
-        ],
-        "cat": "Why"
+        "cat": "Where"
     }
 ]
