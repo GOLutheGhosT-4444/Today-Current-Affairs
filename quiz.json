@@ -1,722 +1,722 @@
 [
     {
-        "q": "North Korea's Hwasong-11 ballistic missiles, armed with cluster-bomb warheads, can reduce any target covering an area of how many hectares?",
-        "a": "6.5-7.0 hectares",
+        "q": "How many days did Mahmoud Khalil spend in an immigration jail after his arrest last March?",
+        "a": "104 days",
         "options": [
-            "6.0-6.5 hectares",
-            "7.0-7.5 hectares",
-            "6.5-7.0 hectares",
-            "5.5-6.0 hectares",
-            "7.5-8.0 hectares"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The missiles fired by North Korea on Wednesday travelled between 240 km and how many km before landing in the sea?",
-        "a": "700 km",
-        "options": [
-            "690 km",
-            "710 km",
-            "700 km",
-            "680 km",
-            "720 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker, the first American to summit Mount Everest, died at what age?",
-        "a": "97",
-        "options": [
-            "96",
-            "98",
-            "97",
-            "95",
-            "99"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker was survived by his wife of how many years, Dianne Roberts?",
-        "a": "52 years",
-        "options": [
-            "51 years",
-            "53 years",
-            "52 years",
-            "50 years",
-            "54 years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker ascended Everest in 1963. How many years after the pioneering climb of Sir Edmund Hillary and Tenzing Norgay did his summit occur?",
-        "a": "10 years",
-        "options": [
-            "9 years",
-            "11 years",
-            "10 years",
-            "8 years",
-            "12 years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker served as the first full-time employee of outdoor retailer REI in which year?",
-        "a": "1995",
-        "options": [
-            "1994",
-            "1996",
-            "1995",
-            "1993",
-            "1997"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "During Jim Whittaker's tenure as President and CEO of REI (1971-1979), the company's membership grew from nearly 250,000 to how many?",
-        "a": "900,000",
-        "options": [
-            "890,000",
-            "910,000",
-            "900,000",
-            "880,000",
-            "920,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker climbed a Canadian peak with Robert Kennedy, which was 14,000 feet high. How many meters is this approximately?",
-        "a": "4,267 metres",
-        "options": [
-            "4,260 metres",
-            "4,270 metres",
-            "4,267 metres",
-            "4,265 metres",
-            "4,269 metres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker's twin brother Lou Whittaker died in which year?",
-        "a": "2024",
-        "options": [
-            "2023",
-            "2025",
-            "2024",
-            "2022",
-            "2026"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Lou Whittaker, Jim's twin brother, died at what age?",
-        "a": "95",
-        "options": [
-            "94",
-            "96",
-            "95",
-            "93",
-            "97"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "At 16, Jim and Lou Whittaker summited Mount Olympus, which is how many feet high?",
-        "a": "7,965-foot",
-        "options": [
-            "7,960-foot",
-            "7,970-foot",
-            "7,965-foot",
-            "7,955-foot",
-            "7,975-foot"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Jim Whittaker led 10 handicapped climbers up Mount Rainier, which is how many feet high?",
-        "a": "14,410-foot",
-        "options": [
-            "14,400-foot",
-            "14,420-foot",
-            "14,410-foot",
-            "14,390-foot",
-            "14,430-foot"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The government plans to roll out a relief package of what amount for MSMEs?",
-        "a": "\u20b92.5 trillion",
-        "options": [
-            "\u20b92.4 trillion",
-            "\u20b92.6 trillion",
-            "\u20b92.5 trillion",
-            "\u20b92.3 trillion",
-            "\u20b92.7 trillion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Under normal circumstances, a loan is classified as a non-performing asset (NPA) if the overdue period exceeds how many days?",
-        "a": "90 days",
-        "options": [
-            "80 days",
             "100 days",
-            "90 days",
-            "70 days",
-            "110 days"
+            "104 days",
+            "108 days",
+            "98 days",
+            "112 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "During the Covid-19 pandemic, the RBI temporarily extended the NPA classification period from 90 days to how many days?",
-        "a": "180 days",
+        "q": "What was the numerical decision count of the US appeals panel that ruled the judge in New Jersey overstepped his authority in Khalil's case?",
+        "a": "2-1 decision",
         "options": [
-            "170 days",
-            "190 days",
-            "180 days",
-            "160 days",
-            "200 days"
+            "3-0 decision",
+            "2-1 decision",
+            "1-0 decision",
+            "2-0 decision",
+            "3-1 decision"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The MSME sector contributes approximately what percentage to India's Gross Domestic Product (GDP)?",
-        "a": "30.1%",
+        "q": "In which edition was the ICA International Conference, where Chief Justice Surya Kant spoke, being held?",
+        "a": "5th",
         "options": [
-            "29.1%",
-            "31.1%",
-            "30.1%",
-            "28.1%",
-            "32.1%"
+            "3rd",
+            "5th",
+            "7th",
+            "2nd",
+            "4th"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The MSME sector accounts for approximately what percentage of India\u2019s manufacturing output?",
-        "a": "35.4%",
+        "q": "How many years has Livemint\u2014News Desk been a credible source for authentic and timely news?",
+        "a": "About a decade",
         "options": [
-            "34.4%",
-            "36.4%",
-            "35.4%",
-            "33.4%",
-            "37.4%"
+            "About 5 years",
+            "About 8 years",
+            "About a decade",
+            "About 15 years",
+            "About 20 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "As of 30 September 2025, total advances by scheduled commercial banks (SCBs) to the MSME sector stood at what amount?",
-        "a": "\u20b935.83 trillion",
+        "q": "Mahmoud Khalil, a legal permanent resident, is how many years old?",
+        "a": "31",
         "options": [
-            "\u20b935.73 trillion",
-            "\u20b935.93 trillion",
-            "\u20b935.83 trillion",
-            "\u20b935.63 trillion",
-            "\u20b936.03 trillion"
+            "28",
+            "31",
+            "35",
+            "29",
+            "33"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the Gross NPA percentage for the MSME sector as of 30 September 2025?",
-        "a": "3.27%",
+        "q": "According to the SBR Framework, how many methodologies are prescribed for the identification of NBFC-UL?",
+        "a": "Two",
         "options": [
-            "3.17%",
-            "3.37%",
-            "3.27%",
-            "3.07%",
-            "3.47%"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "William Shakespeare was born in which year?",
-        "a": "1564",
+        "q": "In how many specific Assembly Constituencies was C. Geetha intending to contest as an independent candidate in the Tamil Nadu Assembly elections?",
+        "a": "Two",
         "options": [
-            "1563",
-            "1565",
-            "1564",
-            "1562",
-            "1566"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "At what age did William Shakespeare marry Anne Hathaway?",
-        "a": "18",
+        "q": "What is the numerical value of the first Assembly Constituency number (SC) in which C. Geetha was intending to contest?",
+        "a": "51",
+        "options": [
+            "49",
+            "51",
+            "53",
+            "50",
+            "52"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the numerical value for the other Assembly Constituency in which C. Geetha was intending to contest?",
+        "a": "52",
+        "options": [
+            "50",
+            "51",
+            "52",
+            "53",
+            "54"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the last two digits of the year when the NALSA judgment recognizing transgender persons as a \u2018third gender\u2019 was passed?",
+        "a": "14",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "10",
+            "18"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the last two digits of the year in which the Transgender Persons (Protection of Rights) Act was enacted?",
+        "a": "19",
         "options": [
             "17",
-            "19",
             "18",
-            "16",
-            "20"
+            "19",
+            "20",
+            "21"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many plays did William Shakespeare write?",
-        "a": "39",
+        "q": "What is the last two digits of the year for the Rules enacted related to the Transgender Persons (Protection of Rights) Act?",
+        "a": "20",
         "options": [
-            "38",
-            "40",
-            "39",
-            "37",
-            "41"
+            "18",
+            "19",
+            "20",
+            "21",
+            "22"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Monetary Policy Committee (MPC) voted unanimously to keep the policy repo rate unchanged at what percentage?",
-        "a": "5.25%",
+        "q": "Whose latest bid to have his deportation case dismissed by an immigration appeals board was rejected?",
+        "a": "Mahmoud Khalil",
         "options": [
-            "5.15%",
-            "5.35%",
-            "5.25%",
-            "5.05%",
-            "5.45%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Consequently, the standing deposit facility (SDF) rate remains at what percentage?",
-        "a": "5.00%",
-        "options": [
-            "4.90%",
-            "5.10%",
-            "5.00%",
-            "4.80%",
-            "5.20%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The marginal standing facility (MSF) rate and the Bank Rate remain at what percentage?",
-        "a": "5.50%",
-        "options": [
-            "5.40%",
-            "5.60%",
-            "5.50%",
-            "5.30%",
-            "5.70%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the current leader of North Korea mentioned in the news text?",
-        "a": "Kim Jong Un",
-        "options": [
-            "Kim Il Sung",
-            "Kim Jong Il",
-            "Kim Jong Un",
-            "Xi Jinping",
-            "Donald Trump"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the first American to summit Mount Everest?",
-        "a": "Jim Whittaker",
-        "options": [
-            "Lou Whittaker",
-            "Robert Kennedy",
-            "Nawang Gombu",
-            "Sir Edmund Hillary",
-            "Jim Whittaker"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was Jim Whittaker's co-climber when he ascended Mount Everest in 1963?",
-        "a": "Nawang Gombu",
-        "options": [
-            "Lou Whittaker",
-            "Sir Edmund Hillary",
-            "Tenzing Norgay",
-            "Nawang Gombu",
-            "Robert Kennedy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who were the pioneering climbers who first summited Everest 10 years before Jim Whittaker's ascent?",
-        "a": "Sir Edmund Hillary and Tenzing Norgay",
-        "options": [
-            "Jim Whittaker and Nawang Gombu",
-            "Lou Whittaker and Robert Kennedy",
-            "Sir Edmund Hillary and Tenzing Norgay",
-            "George Mallory and Andrew Irvine",
-            "Reinhold Messner and Peter Habeler"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who served as the first full-time employee of the outdoor retailer REI in 1995?",
-        "a": "Jim Whittaker",
-        "options": [
-            "Lou Whittaker",
-            "Robert Kennedy",
-            "Dianne Roberts",
-            "Jim Whittaker",
-            "Jay Inslee"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "With which US President did Kim Jong Un's nuclear talks collapse in 2019?",
-        "a": "Donald Trump",
-        "options": [
-            "Joe Biden",
-            "Barack Obama",
             "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chinese Foreign Minister expected to arrive in North Korea for a two-day trip?",
-        "a": "Wang Yi",
-        "options": [
-            "Qin Gang",
-            "Li Qiang",
-            "Wang Yi",
-            "Zhao Lijian",
-            "Xie Feng"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was a close friend of Jim Whittaker and had a 14,000-foot Canadian peak named after him?",
-        "a": "Robert Kennedy",
-        "options": [
-            "John F. Kennedy",
-            "Ted Kennedy",
-            "Robert Kennedy",
-            "George Kennedy",
-            "Joseph P. Kennedy Jr."
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is Jim Whittaker's twin brother, who decided to skip the 1963 Everest expedition?",
-        "a": "Lou Whittaker",
-        "options": [
-            "Bob Whittaker",
-            "Joss Whittaker",
-            "Leif Whittaker",
-            "Lou Whittaker",
-            "Jim Whittaker"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the former Washington governor who called Jim Whittaker's legacy 'just as impressive, and just as lasting, as Mount Rainier itself'?",
-        "a": "Jay Inslee",
-        "options": [
-            "Christine Gregoire",
-            "Gary Locke",
-            "Jay Inslee",
-            "Daniel J. Evans",
-            "Dixy Lee Ray"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Reserve Bank of India Governor mentioned in the news?",
-        "a": "Sanjay Malhotra",
-        "options": [
-            "Shaktikanta Das",
-            "Urjit Patel",
-            "Raghuram Rajan",
-            "Sanjay Malhotra",
-            "Arun Jaitley"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the owner of the fishing boat 'Shivashankar' whose insurance claim was denied after it sank in 2009?",
-        "a": "Shyamala S. Kunder",
-        "options": [
-            "Shankar S. Kunder",
-            "Shyam S. Kunder",
-            "Shyamala S. Kunder",
-            "Sunita S. Kunder",
-            "Shiv S. Kunder"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Justice of India heading the nine-judge Bench hearing the Sabarimala reference?",
-        "a": "Surya Kant",
-        "options": [
-            "D.Y. Chandrachud",
-            "U.U. Lalit",
-            "N.V. Ramana",
+            "Gulam Jeelani",
+            "Mahmoud Khalil",
             "Surya Kant",
-            "S.A. Bobde"
+            "Jane Kaushik"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Election Commissioner (CEC) mentioned in the context of the Trinamool Congress meeting?",
-        "a": "Gyanesh Kumar",
+        "q": "Which body issued the final order dismissing Mahmoud Khalil's deportation case?",
+        "a": "Immigration appeals board",
         "options": [
-            "Rajiv Kumar",
-            "Arun Goel",
-            "Sushil Chandra",
-            "Gyanesh Kumar",
-            "Om Prakash Rawat"
+            "Federal judge in New Jersey",
+            "US appeals panel",
+            "Immigration appeals board",
+            "Chief Justice of India",
+            "United States Department of Justice"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of Karnataka who accused the ECI of being 'selective and complicit'?",
-        "a": "Siddaramaiah",
+        "q": "Who claimed that Khalil's efforts and ideology as a leader of pro-Palestinian protests in Columbia aligned with Hamas?",
+        "a": "The Trump administration",
         "options": [
-            "Basavaraj Bommai",
-            "H.D. Kumaraswamy",
-            "B.S. Yeddyurappa",
-            "Siddaramaiah",
-            "D.V. Sadananda Gowda"
+            "Mahmoud Khalil's lawyers",
+            "A federal judge",
+            "The Trump administration",
+            "Columbia University",
+            "The Department of Justice"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who wrote the famous line, 'All the world\u2019s a stage, and all the men and women merely players'?",
-        "a": "William Shakespeare",
+        "q": "Who ordered the release of Mahmoud Khalil after he spent 104 days in an immigration jail?",
+        "a": "A federal judge in New Jersey",
         "options": [
-            "Christopher Marlowe",
-            "Ben Jonson",
-            "William Shakespeare",
-            "John Milton",
-            "Geoffrey Chaucer"
+            "The US appeals panel",
+            "A federal judge in New Jersey",
+            "The Board of Immigration Appeals",
+            "The Department of Justice",
+            "The Chief Justice of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which character in Shakespeare's 'As You Like It' delivers the speech containing 'All the world's a stage'?",
-        "a": "Jaques",
+        "q": "Who stated that the credibility of India\u2019s dispute resolution mechanisms will 'increasingly influence how investors assess the country'?",
+        "a": "Chief Justice of India Surya Kant",
         "options": [
-            "Orlando",
-            "Rosalind",
-            "Duke Senior",
-            "Jaques",
-            "Touchstone"
+            "Gulam Jeelani",
+            "Mahmoud Khalil",
+            "Chief Justice of India Surya Kant",
+            "Jane Kaushik",
+            "C. Geetha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the patron under whom Lord Chamberlain\u2019s Men, Shakespeare's acting company, later became known as the King\u2019s Men?",
-        "a": "King James I",
+        "q": "Which institution invited public comments on the draft Amendment Directions regarding NBFC-UL identification?",
+        "a": "Reserve Bank of India (RBI)",
         "options": [
-            "Queen Elizabeth I",
-            "King Henry VIII",
-            "King Charles I",
-            "King James I",
-            "Queen Victoria"
+            "Supreme Court",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "SEBI",
+            "Department of Justice"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who did William Shakespeare marry at the age of 18?",
-        "a": "Anne Hathaway",
+        "q": "Who was the petitioner whose name was deleted from the Tamil Nadu electoral roll in the Special Intensive Revision (SIR)?",
+        "a": "C. Geetha",
         "options": [
-            "Mary Arden",
-            "Judith Shakespeare",
-            "Susanna Hall",
-            "Anne Hathaway",
-            "Elizabeth I"
+            "Jane Kaushik",
+            "Mahmoud Khalil",
+            "C. Geetha",
+            "Shreya Munoth",
+            "Amritananda Chakravorty"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the spokesperson for South Korea's Joint Chiefs of Staff mentioned in the context of North Korean missile launches?",
-        "a": "Jang Do-young",
+        "q": "Who is the transwoman teacher that the Supreme Court intervened to protect?",
+        "a": "Jane Kaushik",
         "options": [
-            "Jang Ho-young",
-            "Jang Dong-young",
-            "Jang Do-young",
-            "Jang Tae-young",
-            "Jang Won-young"
+            "C. Geetha",
+            "Shreya Munoth",
+            "Jane Kaushik",
+            "Sayantani Biswas",
+            "Akriti Anand"
         ],
         "cat": "Who"
     },
     {
-        "q": "From which area did South Korea's military detect North Korea firing multiple missiles?",
-        "a": "An eastern coastal area",
+        "q": "Which two Justices formed the Bench that intervened to protect Jane Kaushik?",
+        "a": "Justices J.B. Pardiwala and K.V. Viswanathan",
         "options": [
-            "A western coastal area",
-            "A northern border area",
-            "An eastern coastal area",
-            "A southern island area",
-            "A central mountainous area"
+            "Chief Justice Surya Kant and Justice K.V. Viswanathan",
+            "Justices J.B. Pardiwala and K.V. Viswanathan",
+            "Justices Shreya Munoth and Amritananda Chakravorty",
+            "Justices J.B. Pardiwala and C. Geetha",
+            "Justices Donald Trump and Surya Kant"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who were the advocates representing Ms. Kaushik before the Supreme Court?",
+        "a": "Shreya Munoth and Amritananda Chakravorty",
+        "options": [
+            "Shreya Munoth and Amritananda Chakravorty",
+            "Gulam Jeelani and Sugam Singhal",
+            "Pratik Prashant Mukane and Sayantani Biswas",
+            "Ravi Hari and Garvit Bhirani",
+            "Akriti Anand and Jocelyn Felix Fernandes"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Political Affairs Editor for Livemint\u2014News Desk?",
+        "a": "Gulam Jeelani",
+        "options": [
+            "Sugam Singhal",
+            "Chanchal",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is a Senior Assistant Editor for Livemint\u2014News Desk?",
+        "a": "Sugam Singhal",
+        "options": [
+            "Mausam Jha",
+            "Riya R Alex",
+            "Akriti Anand",
+            "Jocelyn Felix Fernandes",
+            "Sugam Singhal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Mahmoud Khalil was born in which country to a Palestinian family?",
+        "a": "Syria",
+        "options": [
+            "Algeria",
+            "Palestine",
+            "Syria",
+            "Israel",
+            "Columbia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Near which city, the capital of North Korea, was at least one projectile detected launched on Tuesday?",
-        "a": "Pyongyang",
+        "q": "In which state was the federal judge who ordered Khalil's release located?",
+        "a": "New Jersey",
         "options": [
-            "Sinuiju",
-            "Wonsan",
-            "Pyongyang",
-            "Kaesong",
-            "Chongjin"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did Jim Whittaker, the first American to summit Mount Everest, die?",
-        "a": "Port Townsend, Washington",
-        "options": [
-            "Seattle, Washington",
-            "Tacoma, Washington",
-            "Port Townsend, Washington",
-            "Olympia, Washington",
-            "Vancouver, Washington"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which US state is Port Townsend, the place where Jim Whittaker died, located?",
-        "a": "Washington",
-        "options": [
-            "Oregon",
+            "Columbia",
+            "New Jersey",
             "California",
-            "Washington",
-            "Colorado",
-            "Montana"
+            "Texas",
+            "Florida"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which US state did Jim Whittaker help establish Redwood National Park?",
-        "a": "California",
+        "q": "The US appeals panel ruled that the judge in which state overstepped his authority by releasing Khalil?",
+        "a": "New Jersey",
         "options": [
-            "Oregon",
-            "Washington",
+            "New York",
             "California",
-            "Arizona",
-            "Nevada"
+            "New Jersey",
+            "Texas",
+            "Florida"
         ],
         "cat": "Where"
     },
     {
-        "q": "Jim Whittaker grew up in which city?",
-        "a": "Seattle",
+        "q": "In which country does Mahmoud Khalil hold citizenship through a distant relative?",
+        "a": "Algeria",
         "options": [
-            "Portland",
-            "Spokane",
-            "Tacoma",
-            "Seattle",
-            "Everett"
+            "Syria",
+            "Palestine",
+            "United States",
+            "Algeria",
+            "Lebanon"
         ],
         "cat": "Where"
     },
     {
-        "q": "The fishing boat Shivashankar, from Udupi, sank near which town in Karnataka?",
-        "a": "Karwar",
+        "q": "Mahmoud Khalil was a leader of pro-Palestinian protests at which university?",
+        "a": "Columbia University",
         "options": [
-            "Mangaluru",
-            "Honnavar",
-            "Karwar",
-            "Gokarna",
-            "Kundapura"
+            "Harvard University",
+            "Stanford University",
+            "Columbia University",
+            "Yale University",
+            "Princeton University"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Karnataka State Consumer Disputed Redressal Commission (KSCDRC) delivered its ruling in which Indian state?",
-        "a": "Karnataka",
+        "q": "The Chief Justice of India Surya Kant spoke at the 5th ICA International Conference, implicitly held in which country's context given his title?",
+        "a": "India",
+        "options": [
+            "USA",
+            "UK",
+            "India",
+            "China",
+            "Germany"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "C. Geetha's name was deleted from the electoral roll of which Indian state?",
+        "a": "Tamil Nadu",
         "options": [
             "Kerala",
+            "Karnataka",
             "Tamil Nadu",
-            "Maharashtra",
+            "Andhra Pradesh",
+            "Telangana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "One of the Assembly Constituencies where C. Geetha intended to contest was Uthangarai (SC) located in which state?",
+        "a": "Tamil Nadu",
+        "options": [
+            "Puducherry",
+            "Kerala",
+            "Tamil Nadu",
             "Karnataka",
             "Andhra Pradesh"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Sabarimala shrine, central to a Supreme Court hearing mentioned in the news, is located in which Indian state?",
-        "a": "Kerala",
+        "q": "Another Assembly Constituency where C. Geetha intended to contest was Bargur, located in which state?",
+        "a": "Tamil Nadu",
         "options": [
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
+            "Telangana",
             "Kerala",
-            "Telangana"
+            "Tamil Nadu",
+            "Odisha",
+            "Gujarat"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country's Foreign Minister Wang Yi is expected to arrive in North Korea for a two-day trip?",
-        "a": "China",
+        "q": "Which global region is the 'middle-east crisis' a coverage area for Livemint?",
+        "a": "Middle East",
         "options": [
-            "Russia",
-            "South Korea",
-            "Japan",
-            "China",
-            "Vietnam"
+            "North America",
+            "Europe",
+            "Middle East",
+            "Africa",
+            "South America"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which region's conflict is creating conditions similar to the covid-19 period, leading to financial stress on MSMEs in India?",
-        "a": "West Asia",
-        "options": [
-            "East Asia",
-            "South Asia",
-            "West Asia",
-            "Central Asia",
-            "Southeast Asia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which country are NTPC and \u00c9lectricit\u00e9 de France (EDF) exploring opportunities for collaboration in the nuclear power space?",
+        "q": "The Supreme Court intervened to protect a transwoman teacher battling for employment and acceptance in the mainstream of which country?",
         "a": "India",
         "options": [
-            "France",
-            "China",
-            "Russia",
+            "USA",
+            "UK",
+            "Canada",
             "India",
-            "USA"
+            "Australia"
         ],
         "cat": "Where"
     },
     {
-        "q": "RBI Governor Sanjay Malhotra stated that developments in which region are expected to widen India's Current Account Deficit?",
-        "a": "West Asia",
+        "q": "The Board of Immigration Appeals, which sets precedent in the immigration court system, is controlled by the Department of Justice of which country?",
+        "a": "United States",
         "options": [
-            "East Africa",
-            "West Asia",
-            "South America",
-            "Eastern Europe",
-            "North Asia"
+            "Canada",
+            "United Kingdom",
+            "United States",
+            "Australia",
+            "India"
         ],
         "cat": "Where"
     },
     {
-        "q": "The fishing boat Shivashankar was from Udupi, located in which district of Karnataka?",
-        "a": "Dakshina Kannada",
+        "q": "On which day of the week did the immigration appeals board dismiss Mahmoud Khalil's final deportation order?",
+        "a": "Thursday",
         "options": [
-            "Uttara Kannada",
-            "Dakshina Kannada",
-            "Udupi district",
-            "Shivamogga",
-            "Chikkamagaluru"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
         ],
-        "cat": "Where"
+        "cat": "When"
     },
     {
-        "q": "Karwar, near which the Shivashankar boat sank, is in which district of Karnataka?",
-        "a": "Uttara Kannada",
+        "q": "When was Mahmoud Khalil first arrested, leading to his time in immigration jail?",
+        "a": "Last March",
         "options": [
-            "Dakshina Kannada",
-            "Udupi",
-            "Uttara Kannada",
-            "Hassan",
-            "Mysuru"
+            "Last January",
+            "Last March",
+            "Last May",
+            "Last July",
+            "Last September"
         ],
-        "cat": "Where"
+        "cat": "When"
+    },
+    {
+        "q": "In which specific year (YY) did the US appeals panel rule against the New Jersey judge in Khalil's federal case?",
+        "a": "2026",
+        "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Khalil\u2019s lawyers ask one of the appellate panel\u2019s judges to step aside?",
+        "a": "Earlier this month",
+        "options": [
+            "Last week",
+            "Earlier this month",
+            "Yesterday",
+            "Two months ago",
+            "Last year"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Chief Justice of India Surya Kant spoke at the ICA International Conference on which specific date?",
+        "a": "Friday (April 10, 2026)",
+        "options": [
+            "Monday (April 8, 2026)",
+            "Tuesday (April 9, 2026)",
+            "Friday (April 10, 2026)",
+            "Saturday (April 11, 2026)",
+            "Sunday (April 12, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Reserve Bank of India (RBI) invited public comments on the draft Amendment Directions on which day of the week?",
+        "a": "Friday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court refused to intervene for C. Geetha on which specific date?",
+        "a": "Friday (April 10, 2026)",
+        "options": [
+            "Monday (April 7, 2026)",
+            "Wednesday (April 9, 2026)",
+            "Friday (April 10, 2026)",
+            "Saturday (April 11, 2026)",
+            "Sunday (April 12, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year are the Tamil Nadu Assembly elections, where C. Geetha intended to contest?",
+        "a": "2026",
+        "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The NALSA judgment recognizing transgender persons as a \u2018third gender\u2019 was passed in which year?",
+        "a": "2014",
+        "options": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the Transgender Persons (Protection of Rights) Act enacted?",
+        "a": "2019",
+        "options": [
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Rules related to the Transgender Persons (Protection of Rights) Act were enacted in which year?",
+        "a": "2020",
+        "options": [
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court intervened to protect Jane Kaushik on which specific date?",
+        "a": "Friday (April 10, 2026)",
+        "options": [
+            "Thursday (April 9, 2026)",
+            "Friday (April 10, 2026)",
+            "Saturday (April 11, 2026)",
+            "Monday (April 13, 2026)",
+            "Wednesday (April 8, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What did Mahmoud Khalil state was the only thing he was guilty of, leading to his punishment by the administration?",
+        "a": "Speaking out against the genocide in Palestine",
+        "options": [
+            "Connection to Hamas",
+            "Antisemitism",
+            "Speaking out against the genocide in Palestine",
+            "Violating immigration laws",
+            "Protesting in Columbia"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the Trump administration's stated justification for Khalil's arrest?",
+        "a": "Khalil's efforts and ideology aligned with Hamas",
+        "options": [
+            "Khalil's antisemitism",
+            "Khalil's illegal entry into the US",
+            "Khalil's efforts and ideology aligned with Hamas",
+            "Khalil's financial misconduct",
+            "Khalil's defiance of court orders"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Chief Justice Surya Kant, what does arbitration provide that reassures investors and supports commercial partnerships?",
+        "a": "Stability of expectations",
+        "options": [
+            "Legal loopholes",
+            "Quick profits",
+            "Stability of expectations",
+            "Political influence",
+            "Market volatility"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core purpose of the Scale Based Regulatory (SBR) Framework for NBFCs?",
+        "a": "To prescribe methodology for identification of NBFC-UL",
+        "options": [
+            "To reduce interest rates for NBFCs",
+            "To prescribe methodology for identification of NBFC-UL",
+            "To promote NBFCs over banks",
+            "To regulate stock market operations",
+            "To simplify tax laws for NBFCs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the RBI invite public comments on the draft Amendment Directions regarding NBFC-UL?",
+        "a": "For review of methodology for identification of NBFC-UL and inclusion of Government-owned NBFCs",
+        "options": [
+            "To increase the asset size of NBFCs",
+            "To reduce regulations for NBFCs",
+            "For review of methodology for identification of NBFC-UL and inclusion of Government-owned NBFCs",
+            "To privatize government-owned NBFCs",
+            "To merge NBFCs with banks"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was C. Geetha reminding the Supreme Court of, as a parting shot, regarding the SIR?",
+        "a": "Its promise to step in if the SIR leads to 'mass exclusions'",
+        "options": [
+            "Its promise to grant her candidacy",
+            "Its promise to step in if the SIR leads to 'mass exclusions'",
+            "Its promise to revise electoral rolls annually",
+            "Its promise to abolish the SIR",
+            "Its promise to re-include her name directly"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the process that caused C. Geetha's name to get deleted from the Tamil Nadu electoral roll?",
+        "a": "Special Intensive Revision (SIR)",
+        "options": [
+            "Her failure to update details",
+            "Special Intensive Revision (SIR)",
+            "Her intent to contest elections",
+            "A court order",
+            "Voter fraud allegations"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the reason cited by Khalil's attorneys for why he cannot be lawfully detained or deported?",
+        "a": "He pursues a separate case in the federal court system",
+        "options": [
+            "He is an American citizen",
+            "He has diplomatic immunity",
+            "He pursues a separate case in the federal court system",
+            "He has a valid visa",
+            "He is a university graduate"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of the NALSA judgment in 2014, as mentioned in the context of Jane Kaushik?",
+        "a": "Recognizing transgender persons as a \u2018third gender\u2019",
+        "options": [
+            "Granting voting rights to transgender persons",
+            "Recognizing transgender persons as a \u2018third gender\u2019",
+            "Providing employment quotas for transgender persons",
+            "Establishing separate schools for transgender persons",
+            "Legalizing same-sex marriage"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Khalil\u2019s lawyers ask one of the appellate panel\u2019s judges to step aside?",
+        "a": "Because of his previous role as a top Justice Department official involved in investigating student protesters",
+        "options": [
+            "Due to a conflict of interest with Hamas",
+            "Because of his previous role as a top Justice Department official involved in investigating student protesters",
+            "Due to his age",
+            "Due to his lack of legal experience",
+            "Because he was biased towards Khalil"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of the Transgender Persons (Protection of Rights) Act, 2019, as inferred from Jane Kaushik's case?",
+        "a": "Protecting rights to equal opportunities and gender self-determination",
+        "options": [
+            "Establishing separate educational institutions",
+            "Providing financial aid only",
+            "Protecting rights to equal opportunities and gender self-determination",
+            "Mandating gender reassignment surgery",
+            "Restricting their public appearances"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key coverages of Livemint in the 'Economy' section?",
+        "a": "In-depth analysis of India's macro and micro-economic indicators like GDP, inflation, forex, etc.",
+        "options": [
+            "Celebrity gossip and entertainment news",
+            "Daily weather forecasts across India",
+            "In-depth analysis of India's macro and micro-economic indicators like GDP, inflation, forex, etc.",
+            "International sports event results",
+            "Real estate listings and property sales"
+        ],
+        "cat": "Why"
     }
 ]
