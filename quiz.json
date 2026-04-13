@@ -1,722 +1,722 @@
 [
     {
-        "q": "What is the recently hiked export duty on diesel per litre?",
-        "a": "\u20b955.5",
+        "q": "For how many years did the Mandarin Oriental, Miami serve as a luxury destination before its demolition?",
+        "a": "25 years",
         "options": [
-            "\u20b956.0",
-            "\u20b955.0",
-            "\u20b955.5",
-            "\u20b954.5",
-            "\u20b953.5"
+            "24 years",
+            "26 years",
+            "25 years",
+            "23 years",
+            "27 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The government recently increased the windfall tax on diesel to what amount per litre?",
-        "a": "\u20b955.5",
+        "q": "What was the approximate height of the Mandarin Oriental, Miami building in stories?",
+        "a": "23-storey",
         "options": [
-            "\u20b955.4",
-            "\u20b955.6",
-            "\u20b955.5",
-            "\u20b955.7",
-            "\u20b955.3"
+            "22-storey",
+            "24-storey",
+            "23-storey",
+            "21-storey",
+            "25-storey"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The export duty, also known as windfall tax, on diesel was hiked to how much per litre?",
-        "a": "\u20b955.50",
+        "q": "The controlled implosion of the Mandarin Oriental, Miami lasted less than how many seconds?",
+        "a": "20 seconds",
         "options": [
-            "\u20b955.75",
-            "\u20b955.25",
-            "\u20b955.50",
-            "\u20b955.00",
-            "\u20b954.75"
+            "18 seconds",
+            "22 seconds",
+            "20 seconds",
+            "19 seconds",
+            "21 seconds"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the new windfall tax applied to diesel exports per litre?",
-        "a": "\u20b955.5",
+        "q": "The redesigned Mandarin Oriental hotel in Miami is planned to have approximately how many rooms?",
+        "a": "121 rooms",
         "options": [
-            "\u20b955.9",
-            "\u20b955.1",
-            "\u20b955.5",
-            "\u20b954.9",
-            "\u20b956.1"
+            "120 rooms",
+            "122 rooms",
+            "121 rooms",
+            "119 rooms",
+            "123 rooms"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The hiked export duty for diesel stands at how many rupees and paise per litre?",
-        "a": "\u20b955.50",
+        "q": "Trisha Bhattacharya, a Senior Content Producer at Livemint, has how many years of experience covering entertainment news?",
+        "a": "Over two years",
         "options": [
-            "\u20b955.45",
-            "\u20b955.55",
-            "\u20b955.50",
-            "\u20b955.60",
-            "\u20b955.40"
+            "Over one year",
+            "Over three years",
+            "Over two years",
+            "Over four years",
+            "Over five years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the recently hiked export duty on aviation fuel (ATF) per litre?",
-        "a": "\u20b942",
+        "q": "The new luxury complex at the Mandarin Oriental site will include how many towers?",
+        "a": "Two towers",
         "options": [
-            "\u20b943",
-            "\u20b941",
-            "\u20b942",
-            "\u20b940",
-            "\u20b944"
+            "One tower",
+            "Three towers",
+            "Two towers",
+            "Four towers",
+            "Five towers"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The government recently increased the windfall tax on aviation turbine fuel (ATF) to what amount per litre?",
-        "a": "\u20b942.0",
+        "q": "Who issued a warning that the global monetary system is unprepared for AI's escalating risks?",
+        "a": "Kristalina Georgieva",
         "options": [
-            "\u20b942.5",
-            "\u20b941.5",
-            "\u20b942.0",
-            "\u20b943.0",
-            "\u20b941.0"
+            "Janet Yellen",
+            "Christine Lagarde",
+            "Kristalina Georgieva",
+            "Jerome Powell",
+            "Ajay Banga"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "The export duty, also known as windfall tax, on ATF was hiked to how much per litre?",
-        "a": "\u20b942.00",
+        "q": "Who is the Senior Content Producer at Livemint covering entertainment news, mentioned in the provided text?",
+        "a": "Trisha Bhattacharya",
         "options": [
-            "\u20b941.75",
-            "\u20b942.25",
-            "\u20b942.00",
-            "\u20b942.50",
-            "\u20b941.50"
+            "Sanya Sharma",
+            "Priyanka Dubey",
+            "Trisha Bhattacharya",
+            "Anjali Kapoor",
+            "Meera Singh"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What is the new windfall tax applied to ATF exports per litre?",
-        "a": "\u20b942.0",
+        "q": "Which studio is developing the film 'Avatar: Aang \u2013 The Last Airbender'?",
+        "a": "Nickelodeon\u2019s Avatar Studios",
         "options": [
-            "\u20b941.9",
-            "\u20b942.1",
-            "\u20b942.0",
-            "\u20b942.2",
-            "\u20b941.8"
+            "Disney Animation Studios",
+            "DreamWorks Animation",
+            "Warner Bros. Animation",
+            "Studio Ghibli",
+            "Nickelodeon\u2019s Avatar Studios"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "The hiked export duty for aviation fuel (ATF) stands at how many rupees per litre?",
-        "a": "\u20b942",
+        "q": "Which entity, in partnership with Mandarin Oriental Hotel Group, is leading the redevelopment of the Mandarin Oriental, Miami site?",
+        "a": "Swire Properties",
         "options": [
-            "\u20b943",
-            "\u20b941",
-            "\u20b942",
-            "\u20b940",
-            "\u20b944"
+            "Hilton Worldwide",
+            "Marriott International",
+            "Hyatt Hotels",
+            "Swire Properties",
+            "Four Seasons Hotels"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "Which government body issued the notification regarding the hike in export duty on diesel and ATF?",
-        "a": "Finance Ministry",
+        "q": "Who are the central characters featured in the upcoming 'Avatar: Aang \u2013 The Last Airbender' film?",
+        "a": "Aang and his companions",
         "options": [
-            "Ministry of Commerce",
-            "Ministry of Petroleum",
-            "Ministry of External Affairs",
-            "Finance Ministry",
-            "Ministry of Corporate Affairs"
+            "Korra and her team",
+            "Zuko and Iroh",
+            "Sokka and Toph",
+            "Aang and his companions",
+            "Katara and Sokka"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "According to the news, which Ministry announced the immediate effect of the duty hikes on diesel and ATF?",
-        "a": "Finance Ministry",
+        "q": "The new ultra-luxury complex, \"The Residences at Mandarin Oriental, Miami,\" will be developed by Swire Properties in partnership with which hotel group?",
+        "a": "Mandarin Oriental Hotel Group",
         "options": [
-            "Home Ministry",
-            "Ministry of Defense",
-            "Finance Ministry",
-            "Ministry of Railways",
-            "Ministry of Health"
+            "Ritz-Carlton Hotel Company",
+            "Rosewood Hotel Group",
+            "Mandarin Oriental Hotel Group",
+            "Peninsula Hotels",
+            "St. Regis Hotels & Resorts"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Which Hyderabad-based company developed the generic version of Ozempic (semaglutide injection)?",
-        "a": "Orbicular Pharmaceutical Technologies",
+        "q": "Before joining Livemint, Trisha Bhattacharya worked as an entertainment journalist and film critic for which media organization?",
+        "a": "India Today",
         "options": [
-            "Cipla",
-            "Dr. Reddy's Laboratories",
-            "Orbicular Pharmaceutical Technologies",
-            "Sun Pharmaceutical Industries",
-            "Aurobindo Pharma"
+            "Times of India",
+            "Hindustan Times",
+            "The Hindu",
+            "Indian Express",
+            "India Today"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Which company is identified as a complex peptide-based generics developer in the context of Ozempic generic approval?",
-        "a": "Orbicular Pharmaceutical Technologies",
+        "q": "What is the name of the new AI model mentioned by Kristalina Georgieva that raises urgent cybersecurity concerns?",
+        "a": "Anthropic model",
         "options": [
-            "Apotex Corp.",
-            "US FDA",
-            "Sun Pharma",
-            "Orbicular Pharmaceutical Technologies",
-            "Pfizer"
+            "OpenAI model",
+            "DeepMind model",
+            "Anthropic model",
+            "Google AI model",
+            "Microsoft AI model"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Which Florida-headquartered company partnered with Orbicular for the generic Ozempic and will market it in the U.S.?",
-        "a": "Apotex Corp.",
+        "q": "Which entity did US regulators convene an emergency meeting with regarding the new AI model?",
+        "a": "Top bank chiefs",
         "options": [
-            "Johnson & Johnson",
-            "Pfizer",
-            "Apotex Corp.",
-            "Merck & Co.",
-            "Eli Lilly and Company"
+            "Technology company CEOs",
+            "Cybersecurity experts",
+            "Government officials",
+            "Top bank chiefs",
+            "Academic researchers"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "The ANDA applicant for the generic version of Ozempic, which will commercialize the product in the U.S., is whom?",
-        "a": "Apotex Corp.",
+        "q": "According to the news text, who are the target buyers for the branded residences at \"The Residences at Mandarin Oriental, Miami\"?",
+        "a": "Wealthy buyers",
         "options": [
-            "Orbicular Pharmaceutical Technologies",
-            "US FDA",
-            "Apotex Corp.",
-            "Sanofi",
-            "Novartis"
+            "First-time homebuyers",
+            "Middle-income families",
+            "Students",
+            "Wealthy buyers",
+            "Senior citizens"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Which regulatory body granted tentative approval for the generic version of Ozempic?",
-        "a": "U.S. Food and Drug Administration (FDA)",
+        "q": "Who is the author of the news reports provided in the text?",
+        "a": "Trisha Bhattacharya",
         "options": [
-            "European Medicines Agency (EMA)",
-            "Pharmaceuticals and Medical Devices Agency (PMDA)",
-            "U.S. Food and Drug Administration (FDA)",
-            "Health Canada",
-            "Therapeutic Goods Administration (TGA)"
+            "Anjali Rao",
+            "Priya Gupta",
+            "Trisha Bhattacharya",
+            "Meera Desai",
+            "Kavita Singh"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "The tentative approval for the semaglutide injection developed by Orbicular was received from which authority?",
-        "a": "U.S. FDA",
+        "q": "Who did Trisha Bhattacharya previously work with as an entertainment journalist and film critic?",
+        "a": "India Today",
         "options": [
-            "World Health Organization",
-            "Ministry of Health and Family Welfare",
-            "U.S. FDA",
-            "Centers for Disease Control and Prevention",
-            "European Commission"
+            "CNN-News18",
+            "NDTV",
+            "Zee News",
+            "India Today",
+            "Republic TV"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Who"
     },
     {
-        "q": "Who was initially stripped of the post of Director, Vigilance and Anti-Corruption (V&AC) by the Election Commission of India?",
-        "a": "Sandeep Mittal",
+        "q": "The Mandarin Oriental hotel that was demolished on April 12 was located on which exclusive island in Miami?",
+        "a": "Brickell Key island",
         "options": [
-            "Sandeep Rai Rathore",
-            "Dheeraj Kumar",
-            "K. Manivasan",
-            "Sandeep Mittal",
-            "A.T. Durai Kumar"
+            "Fisher Island",
+            "Star Island",
+            "Venetian Islands",
+            "Brickell Key island",
+            "Palm Island"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Where"
     },
     {
-        "q": "Who, as the Tamil Nadu Head of Police Force (HoPF) and DGP, initially issued an order for Sandeep Mittal to hold full additional charge as Director, V&AC?",
-        "a": "Sandeep Rai Rathore",
+        "q": "The annual spring meetings of the International Monetary Fund and World Bank are scheduled to kick off in which city?",
+        "a": "Washington",
         "options": [
-            "K. Manivasan",
-            "Dheeraj Kumar",
-            "A.T. Durai Kumar",
-            "Sandeep Mittal",
-            "Sandeep Rai Rathore"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who reversed the order issued by DGP Sandeep Rai Rathore regarding Sandeep Mittal's additional charge for V&AC?",
-        "a": "K. Manivasan",
-        "options": [
-            "Sandeep Mittal",
-            "Dheeraj Kumar",
-            "A.T. Durai Kumar",
-            "K. Manivasan",
-            "Election Commission of India"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who took charge as Tamil Nadu Home Secretary and subsequently reversed the order concerning the Director, V&AC?",
-        "a": "K. Manivasan",
-        "options": [
-            "Dheeraj Kumar",
-            "Sandeep Rai Rathore",
-            "Sandeep Mittal",
-            "A.T. Durai Kumar",
-            "K. Manivasan"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who was the incumbent Tamil Nadu Home Secretary transferred by the Election Commission of India?",
-        "a": "Dheeraj Kumar",
-        "options": [
-            "K. Manivasan",
-            "Sandeep Rai Rathore",
-            "Sandeep Mittal",
-            "A.T. Durai Kumar",
-            "Dheeraj Kumar"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who was ordered to be appointed as Director in-charge, V&AC, until a regular posting order is issued?",
-        "a": "A.T. Durai Kumar",
-        "options": [
-            "Sandeep Mittal",
-            "Sandeep Rai Rathore",
-            "K. Manivasan",
-            "Dheeraj Kumar",
-            "A.T. Durai Kumar"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "An IPS officer named A.T. Durai Kumar was appointed to what post in Tamil Nadu?",
-        "a": "Director in-charge, V&AC",
-        "options": [
-            "DGP",
-            "Home Secretary",
-            "Chief Secretary",
-            "Director in-charge, V&AC",
-            "Commissioner of Police"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Which body stripped Sandeep Mittal of his post as Director, Vigilance and Anti-Corruption?",
-        "a": "Election Commission of India",
-        "options": [
-            "Supreme Court",
-            "Finance Ministry",
-            "Election Commission of India",
-            "Tamil Nadu Government",
-            "High Court"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Which organization transferred incumbent Home Secretary Dheeraj Kumar?",
-        "a": "Election Commission of India",
-        "options": [
-            "Tamil Nadu Chief Minister's Office",
-            "Governor's Office",
-            "Election Commission of India",
-            "Union Home Ministry",
-            "President of India"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Who was the petitioner whose name was deleted from the Tamil Nadu electoral roll and approached the Supreme Court?",
-        "a": "C. Geetha",
-        "options": [
-            "Sandeep Mittal",
-            "Dheeraj Kumar",
-            "K. Manivasan",
-            "C. Geetha",
-            "A.T. Durai Kumar"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "What was the name of the woman intending to contest as an independent candidate, whose name was deleted from the electoral roll?",
-        "a": "C. Geetha",
-        "options": [
-            "P. Lakshmi",
-            "S. Priya",
-            "C. Geetha",
-            "R. Devi",
-            "M. Selvi"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Which court refused to intervene for the woman whose name was deleted from the Tamil Nadu electoral roll?",
-        "a": "Supreme Court",
-        "options": [
-            "Madras High Court",
-            "Delhi High Court",
-            "Supreme Court",
-            "National Green Tribunal",
-            "Election Tribunal"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "What was Sandeep Mittal's initial post from which he was stripped by the EC?",
-        "a": "Director, Vigilance and Anti-Corruption (V&AC)",
-        "options": [
-            "DGP Law & Order",
-            "Chief Secretary",
-            "Director, Vigilance and Anti-Corruption (V&AC)",
-            "Home Secretary",
-            "Commissioner of Police"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Besides being the DGP, what other position did Sandeep Rai Rathore hold in Tamil Nadu?",
-        "a": "Head of Police Force (HoPF)",
-        "options": [
-            "Chief Secretary",
-            "Home Secretary",
-            "Head of Police Force (HoPF)",
-            "Director of Intelligence",
-            "Additional DGP"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "K. Manivasan, who reversed the V&AC appointment order, held which position at that time?",
-        "a": "Tamil Nadu Home Secretary",
-        "options": [
-            "Chief Secretary",
-            "Director General of Police",
-            "Additional Chief Secretary",
-            "Tamil Nadu Home Secretary",
-            "Principal Secretary"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "From which post was Dheeraj Kumar transferred by the Election Commission?",
-        "a": "Tamil Nadu Home Secretary",
-        "options": [
-            "Chief Secretary",
-            "Director, V&AC",
-            "Tamil Nadu Home Secretary",
-            "DGP",
-            "Additional Chief Secretary"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "A.T. Durai Kumar was appointed as Director in-charge of which specific department?",
-        "a": "V&AC",
-        "options": [
-            "Economic Offences Wing",
-            "Cyber Crime Division",
-            "V&AC",
-            "Intelligence Bureau",
-            "Narcotics Control Bureau"
-        ],
-        "cat": "Who (Kisne)"
-    },
-    {
-        "q": "Orbicular Pharmaceutical Technologies, developer of the Ozempic generic, is based in which Indian city?",
-        "a": "Hyderabad",
-        "options": [
-            "Bengaluru",
-            "Chennai",
-            "Hyderabad",
-            "Mumbai",
-            "Pune"
-        ],
-        "cat": "Where (Kha)"
-    },
-    {
-        "q": "The pharmaceutical company Orbicular, known for developing a generic Ozempic, is headquartered in which city?",
-        "a": "Hyderabad",
-        "options": [
-            "Delhi",
-            "Kolkata",
-            "Hyderabad",
-            "Ahmedabad",
-            "Kochi"
-        ],
-        "cat": "Where (Kha)"
-    },
-    {
-        "q": "Apotex Corp., Orbicular's partner for Ozempic generic, is headquartered in which U.S. state?",
-        "a": "Florida",
-        "options": [
-            "California",
             "New York",
-            "Texas",
-            "Florida",
-            "Illinois"
+            "London",
+            "Geneva",
+            "Washington",
+            "Brussels"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which U.S. state is Apotex Corp., the ANDA applicant for the Ozempic generic, located?",
-        "a": "Florida",
+        "q": "Trisha Bhattacharya holds a Master\u2019s degree in English Literature from which university?",
+        "a": "Lucknow University",
         "options": [
-            "Georgia",
-            "North Carolina",
-            "Florida",
-            "Pennsylvania",
-            "Ohio"
+            "Delhi University",
+            "Mumbai University",
+            "Jawaharlal Nehru University",
+            "Lucknow University",
+            "Calcutta University"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which country will the generic version of Ozempic developed by Orbicular and Apotex be marketed and commercialised?",
-        "a": "U.S.",
+        "q": "The largest demolition of its kind in over a decade occurred in which city with the implosion of the Mandarin Oriental hotel?",
+        "a": "Miami",
         "options": [
-            "Canada",
-            "India",
-            "U.S.",
-            "Mexico",
-            "UK"
+            "Los Angeles",
+            "New York",
+            "Miami",
+            "Chicago",
+            "Houston"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "The recent changes in the Director, V&AC post and Home Secretary occurred in which Indian state?",
-        "a": "Tamil Nadu",
+        "q": "The upcoming 'Avatar: Aang \u2013 The Last Airbender' film is scheduled for release on which streaming platform?",
+        "a": "Paramount+",
         "options": [
-            "Kerala",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Tamil Nadu",
-            "Telangana"
+            "Netflix",
+            "HBO Max",
+            "Disney+",
+            "Paramount+",
+            "Hulu"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "Sandeep Mittal was the DGP of which state's Vigilance and Anti-Corruption department?",
-        "a": "Tamil Nadu",
+        "q": "On which platform did segments from the 'Avatar: Aang' animated film reportedly surface following the leak?",
+        "a": "Social media and other platforms",
         "options": [
-            "Maharashtra",
-            "Gujarat",
-            "Uttar Pradesh",
-            "Tamil Nadu",
-            "West Bengal"
+            "Dark web forums",
+            "Private email groups",
+            "Encrypted messaging apps",
+            "Social media and other platforms",
+            "Official streaming services"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "C. Geetha's name was deleted from the electoral roll of which Indian state?",
-        "a": "Tamil Nadu",
+        "q": "Where will the redesigned Mandarin Oriental hotel, part of \"The Residences at Mandarin Oriental, Miami,\" be located?",
+        "a": "Brickell Key island, Miami",
         "options": [
-            "Puducherry",
-            "Kerala",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Tamil Nadu"
+            "South Beach",
+            "Downtown Miami",
+            "Miami Beach",
+            "Brickell Key island, Miami",
+            "Wynwood"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "In which of the following Tamil Nadu Assembly Constituencies did C. Geetha intend to contest as an independent candidate?",
-        "a": "51-Uthangarai (SC) Assembly Constituency",
+        "q": "The Mandarin Oriental, Miami was known as a fixture of which city's high-end hospitality scene?",
+        "a": "Miami",
         "options": [
-            "50-Krishnagiri",
-            "51-Uthangarai (SC) Assembly Constituency",
-            "53-Palacode",
-            "54-Dharmapuri",
-            "55-Harur"
+            "New York City",
+            "Los Angeles",
+            "Dubai",
+            "Miami",
+            "London"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "C. Geetha also intended to contest from which other Tamil Nadu Assembly Constituency?",
-        "a": "52-Bargur Assembly Constituency",
+        "q": "Where do Trisha Bhattacharya's current employers, Livemint, focus their content production?",
+        "a": "India and beyond",
         "options": [
-            "51-Uthangarai",
-            "52-Bargur Assembly Constituency",
-            "53-Palacode",
-            "54-Dharmapuri",
-            "55-Harur"
+            "Only India",
+            "Only USA",
+            "Europe",
+            "Africa",
+            "India and beyond"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "The tentative approval for the generic Ozempic was granted by a regulatory body based in which country?",
-        "a": "U.S.",
+        "q": "The film 'Avatar: Aang \u2013 The Last Airbender' is scheduled for release on which date?",
+        "a": "October 9, 2026",
         "options": [
-            "Canada",
-            "UK",
-            "Germany",
-            "U.S.",
-            "Japan"
+            "September 9, 2026",
+            "October 10, 2026",
+            "October 9, 2026",
+            "November 9, 2026",
+            "October 8, 2026"
         ],
-        "cat": "Where (Kha)"
+        "cat": "When"
     },
     {
-        "q": "The Supreme Court, which refused to intervene in the electoral roll deletion case, is located in which city?",
-        "a": "New Delhi",
+        "q": "In which month and year did the Mandarin Oriental, Miami officially shut its doors before its demolition?",
+        "a": "May 2025",
         "options": [
-            "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "New Delhi",
-            "Bengaluru"
+            "April 2025",
+            "June 2025",
+            "May 2025",
+            "May 2024",
+            "December 2025"
         ],
-        "cat": "Where (Kha)"
+        "cat": "When"
     },
     {
-        "q": "The Finance Ministry, responsible for the windfall tax hike, is located in which Indian city?",
-        "a": "New Delhi",
+        "q": "The original Mandarin Oriental, Miami hotel opened its doors in which year?",
+        "a": "2000",
         "options": [
-            "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "New Delhi",
-            "Bengaluru"
+            "1999",
+            "2001",
+            "2000",
+            "1998",
+            "2002"
         ],
-        "cat": "Where (Kha)"
+        "cat": "When"
     },
     {
-        "q": "The office of the Tamil Nadu Home Secretary, where K. Manivasan took charge, is typically situated in which city?",
-        "a": "Chennai",
+        "q": "The redevelopment project, \"The Residences at Mandarin Oriental, Miami,\" is expected to be completed by which year?",
+        "a": "2030",
         "options": [
-            "Coimbatore",
-            "Madurai",
-            "Trichy",
-            "Chennai",
-            "Salem"
+            "2029",
+            "2031",
+            "2030",
+            "2028",
+            "2032"
         ],
-        "cat": "Where (Kha)"
+        "cat": "When"
     },
     {
-        "q": "The Election Commission of India, which issued orders regarding Tamil Nadu officials, is headquartered in which city?",
-        "a": "New Delhi",
+        "q": "The controlled implosion of the Mandarin Oriental, Miami was described as the largest such demolition in the city in over how many years?",
+        "a": "Over a decade",
         "options": [
-            "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "New Delhi",
-            "Bengaluru"
+            "Over five years",
+            "Over ten years",
+            "Over a decade",
+            "Over twenty years",
+            "Over fifteen years"
         ],
-        "cat": "Where (Kha)"
+        "cat": "When"
     },
     {
-        "q": "On which date did the government hike export duty on diesel and ATF?",
-        "a": "April 11, 2026",
+        "q": "Approximately how many years of planning preceded the demolition of the Mandarin Oriental, Miami?",
+        "a": "Nearly two years",
         "options": [
-            "April 10, 2026",
-            "April 12, 2026",
-            "April 11, 2026",
-            "April 9, 2026",
-            "April 13, 2026"
+            "Nearly one year",
+            "Nearly three years",
+            "Nearly two years",
+            "Nearly four years",
+            "Nearly five years"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "The government announced the increase in windfall tax on diesel and ATF on which day of the week?",
-        "a": "Saturday",
+        "q": "On which day of the week do the IMF and World Bank typically kick off their annual spring meetings, following Kristalina Georgieva's Sunday warning?",
+        "a": "Monday",
         "options": [
-            "Friday",
             "Sunday",
-            "Saturday",
+            "Tuesday",
             "Monday",
-            "Tuesday"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "On what date did the Supreme Court refuse to intervene in the electoral roll deletion case?",
-        "a": "April 10, 2026",
-        "options": [
-            "April 11, 2026",
-            "April 9, 2026",
-            "April 10, 2026",
-            "April 12, 2026",
-            "April 8, 2026"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "The Supreme Court's decision on the electoral roll deletion occurred on which day of the week?",
-        "a": "Friday",
-        "options": [
-            "Saturday",
-            "Sunday",
-            "Monday",
-            "Friday",
+            "Wednesday",
             "Thursday"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "C. Geetha was intending to contest in the Tamil Nadu Assembly elections scheduled for which year?",
-        "a": "2026",
+        "q": "The Mandarin Oriental, Miami was demolished on which date?",
+        "a": "April 12",
         "options": [
-            "2025",
-            "2027",
-            "2026",
-            "2028",
-            "2024"
+            "April 11",
+            "April 13",
+            "April 12",
+            "April 10",
+            "April 14"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "The export duty on diesel and ATF was hiked primarily as what type of tax?",
-        "a": "Windfall tax",
+        "q": "When did Kristalina Georgieva issue her warning about AI risks to the global monetary system?",
+        "a": "Sunday",
         "options": [
-            "GST",
-            "Income Tax",
-            "Customs Duty",
-            "Windfall tax",
-            "Excise Duty"
+            "Saturday",
+            "Monday",
+            "Sunday",
+            "Tuesday",
+            "Friday"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What kind of approval did the generic version of Ozempic (semaglutide injection) receive from the U.S. FDA?",
-        "a": "Tentative approval",
+        "q": "The US regulators convened an emergency meeting with top bank chiefs in which week, relative to Kristalina Georgieva's Sunday warning?",
+        "a": "Last week",
         "options": [
-            "Final approval",
-            "Emergency Use Authorization",
-            "Accelerated approval",
-            "Tentative approval",
-            "Conditional approval"
+            "This week",
+            "Next week",
+            "Last week",
+            "Two weeks ago",
+            "Three weeks ago"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What was the stated reason for the government's hike in export duty on diesel and ATF?",
-        "a": "To impose a windfall tax",
+        "q": "The original 'Avatar: The Last Airbender' series, preceding the new film, depicts events that are followed by an older version of Aang in what context?",
+        "a": "After the events of the original series",
         "options": [
-            "To boost exports",
-            "To increase domestic consumption",
-            "To impose a windfall tax",
-            "To reduce imports",
-            "To encourage foreign investment"
+            "Before the original series",
+            "During the original series",
+            "After the events of the original series",
+            "In an alternate timeline",
+            "As a parallel story"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "C. Geetha's name was deleted from the Tamil Nadu electoral roll as part of what specific revision process?",
-        "a": "Special Intensive Revision (SIR)",
+        "q": "For how long had the Mandarin Oriental, Miami been a premier luxury destination since its opening in 2000 until its closure in May 2025?",
+        "a": "25 years",
         "options": [
-            "Annual Electoral Roll Revision",
-            "Special Intensive Revision (SIR)",
-            "Delimitation Exercise",
-            "Biometric Voter Registration",
-            "Overseas Voter Enrollment"
+            "20 years",
+            "22 years",
+            "25 years",
+            "27 years",
+            "30 years"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "C. Geetha sought the Supreme Court's intervention primarily because her name was deleted from the electoral roll, affecting her intention to do what?",
-        "a": "Contest as an independent candidate",
+        "q": "The demolition of the Mandarin Oriental, Miami marked the largest such event in the city since which approximate timeframe?",
+        "a": "Over a decade ago",
         "options": [
-            "Vote in the elections",
-            "Become a party member",
-            "Contest as an independent candidate",
-            "Challenge election results",
-            "Register a new political party"
+            "Over five years ago",
+            "Over a decade ago",
+            "Over twenty years ago",
+            "Over fifteen years ago",
+            "Over eight years ago"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason for the demolition of the Mandarin Oriental, Miami?",
+        "a": "Part of a planned redevelopment",
+        "options": [
+            "Structural damage",
+            "Natural disaster",
+            "Economic downturn",
+            "Part of a planned redevelopment",
+            "Emergency safety concern"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core concern Kristalina Georgieva raised regarding the global monetary system?",
+        "a": "Not prepared to address AI's rapidly escalating risks",
+        "options": [
+            "Lack of digital currency adoption",
+            "Excessive inflation rates",
+            "Geopolitical instability",
+            "Not prepared to address AI's rapidly escalating risks",
+            "Inadequate climate finance"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "One widely shared allegation suggests the 'Avatar: Aang' film leak originated from what kind of error?",
+        "a": "Internal distribution error",
+        "options": [
+            "Cyber attack",
+            "Whistleblower action",
+            "External hacking",
+            "Internal distribution error",
+            "Third-party vendor breach"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the stated purpose of the new 'Avatar: Aang \u2013 The Last Airbender' film regarding its characters?",
+        "a": "Exploring a new story set in a more mature phase of their lives",
+        "options": [
+            "Rebooting the original series",
+            "Prequel exploring their youth",
+            "Focusing on new, unrelated characters",
+            "Exploring a new story set in a more mature phase of their lives",
+            "Retelling key events from the original series"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does Trisha Bhattacharya's Master's degree in English Literature shape her love for, as stated in the text?",
+        "a": "Layered narratives, strong voices, and stories that linger",
+        "options": [
+            "Financial analysis and market trends",
+            "Scientific research and factual reporting",
+            "Technical writing and documentation",
+            "Layered narratives, strong voices, and stories that linger",
+            "Historical events and political commentary"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Developers opted for a controlled implosion to demolish the Mandarin Oriental, Miami for what primary reason?",
+        "a": "Safest and most efficient way to clear the site while minimising disruption",
+        "options": [
+            "To create a spectacular visual event",
+            "Due to budget constraints",
+            "Because of the building's unique architecture",
+            "Safest and most efficient way to clear the site while minimising disruption",
+            "To allow for immediate reconstruction"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main reason studios are increasingly concerned about following the 'Avatar: Aang' film leak?",
+        "a": "Piracy and digital security",
+        "options": [
+            "Decreasing audience interest",
+            "Rising production costs",
+            "Piracy and digital security",
+            "Talent retention issues",
+            "Competition from other franchises"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The decision to redevelop the Mandarin Oriental, Miami site reflects broader trends in Miami's property market, where developers are doing what?",
+        "a": "Replacing older hospitality landmarks with mixed-use luxury towers catering to global investors and high-net-worth residents",
+        "options": [
+            "Converting luxury hotels into affordable housing",
+            "Expanding existing hospitality landmarks",
+            "Focusing on budget-friendly tourism",
+            "Replacing older hospitality landmarks with mixed-use luxury towers catering to global investors and high-net-worth residents",
+            "Shifting towards eco-tourism resorts"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is a concern among fans and observers regarding the leaked unfinished footage of 'Avatar: Aang'?",
+        "a": "The leak could affect audience expectations as unfinished visuals often lack polish",
+        "options": [
+            "The leak reveals too many plot spoilers",
+            "The leak proves the film will be a commercial failure",
+            "The leak could affect audience expectations as unfinished visuals often lack polish",
+            "The leak suggests the film's release will be cancelled",
+            "The leak confirms a major casting change"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the 'Avatar: Aang \u2013 The Last Airbender' film initially shift from a planned theatrical release to streaming?",
+        "a": "Undergone several changes, including delays and a shift",
+        "options": [
+            "Lack of audience interest",
+            "High production costs",
+            "Studio preference",
+            "Undergone several changes, including delays and a shift",
+            "Negative test screenings"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the reasons for concern among studios regarding the leak of the 'Avatar: Aang' footage?",
+        "a": "Increased concerns about piracy and digital security",
+        "options": [
+            "Reduced marketing budget",
+            "Talent disputes",
+            "Increased concerns about piracy and digital security",
+            "Lack of content",
+            "Box office competition"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The reaction to the 'Avatar: Aang' leak online has been described as mixed; what is one aspect of this reaction?",
+        "a": "Some fans expressed excitement, others criticised the sharing",
+        "options": [
+            "Universal condemnation",
+            "Widespread indifference",
+            "Complete approval",
+            "Some fans expressed excitement, others criticised the sharing",
+            "Only negative comments"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific type of content did the clips circulating online from the 'Avatar: Aang' leak appear to show?",
+        "a": "Early animation sequences and character moments",
+        "options": [
+            "Finalized script pages",
+            "Full musical scores",
+            "Early animation sequences and character moments",
+            "Behind-the-scenes interviews",
+            "Merchandise designs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of Trisha Bhattacharya's work at Livemint, as described in the text?",
+        "a": "Tracking what\u2019s trending, breaking down pop culture moments, and turning entertainment stories into engaging reads",
+        "options": [
+            "Analyzing financial markets",
+            "Reporting on political developments",
+            "Investigating crime stories",
+            "Tracking what\u2019s trending, breaking down pop culture moments, and turning entertainment stories into engaging reads",
+            "Covering scientific breakthroughs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The new Mandarin Oriental hotel will be \"smaller and more exclusive\" to cater to whom?",
+        "a": "Wealthy buyers",
+        "options": [
+            "Budget travelers",
+            "Families with children",
+            "Business conferences",
+            "Wealthy buyers",
+            "Local residents"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What kind of background does Trisha Bhattacharya's Master's degree in English Literature provide for her work?",
+        "a": "Shapes her love for layered narratives, strong voices, and stories that linger",
+        "options": [
+            "Provides skills for technical reporting",
+            "Focuses on economic analysis",
+            "Enhances her ability in scientific writing",
+            "Shapes her love for layered narratives, strong voices, and stories that linger",
+            "Develops expertise in data journalism"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the high-end amenities planned for \"The Residences at Mandarin Oriental, Miami\"?",
+        "a": "Signature spa, multiple restaurants, and extensive leisure facilities",
+        "options": [
+            "Budget fitness center",
+            "Fast-food court",
+            "Public library",
+            "Signature spa, multiple restaurants, and extensive leisure facilities",
+            "Basic convenience store"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Brickell Key site, where the Mandarin Oriental was redeveloped, is seen as a key part of Swire Properties' long-term vision for what reason?",
+        "a": "It is one of the last major parcels owned by Swire Properties on the island",
+        "options": [
+            "It offers easy access to public transport",
+            "It is a low-cost development area",
+            "It is one of the last major parcels owned by Swire Properties on the island",
+            "It is a historical preservation site",
+            "It has unique geological features"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the criticisms raised by some fans regarding the sharing of leaked 'Avatar: Aang' material?",
+        "a": "Urging viewers to wait for the official release and support the creators",
+        "options": [
+            "Demanding immediate release of the full film",
+            "Requesting a refund for pre-orders",
+            "Advocating for legal action against leakers",
+            "Urging viewers to wait for the official release and support the creators",
+            "Demanding a new animation style"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What concern did the new Anthropic AI model raise that led to an emergency meeting with top bank chiefs?",
+        "a": "Urgent cybersecurity concerns",
+        "options": [
+            "Financial fraud concerns",
+            "Data privacy concerns",
+            "Ethical AI concerns",
+            "Urgent cybersecurity concerns",
+            "Job displacement concerns"
+        ],
+        "cat": "Why"
     }
 ]
