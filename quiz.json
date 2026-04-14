@@ -1,721 +1,721 @@
 [
     {
-        "q": "For how many years did the Mandarin Oriental, Miami serve as a luxury destination before its demolition?",
-        "a": "25 years",
+        "q": "How many film and television professionals signed the open letter against the proposed Paramount-Warner Bros. Discovery deal?",
+        "a": "More than 1,000",
         "options": [
-            "24 years",
-            "26 years",
-            "25 years",
-            "23 years",
-            "27 years"
+            "More than 1,000",
+            "More than 500",
+            "Exactly 1,000",
+            "Approximately 950",
+            "Over 1,200"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate height of the Mandarin Oriental, Miami building in stories?",
-        "a": "23-storey",
-        "options": [
-            "22-storey",
-            "24-storey",
-            "23-storey",
-            "21-storey",
-            "25-storey"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The controlled implosion of the Mandarin Oriental, Miami lasted less than how many seconds?",
-        "a": "20 seconds",
-        "options": [
-            "18 seconds",
-            "22 seconds",
-            "20 seconds",
-            "19 seconds",
-            "21 seconds"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The redesigned Mandarin Oriental hotel in Miami is planned to have approximately how many rooms?",
-        "a": "121 rooms",
-        "options": [
-            "120 rooms",
-            "122 rooms",
-            "121 rooms",
-            "119 rooms",
-            "123 rooms"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Trisha Bhattacharya, a Senior Content Producer at Livemint, has how many years of experience covering entertainment news?",
+        "q": "How many years of experience does Trisha Bhattacharya have covering entertainment news at Livemint?",
         "a": "Over two years",
         "options": [
-            "Over one year",
-            "Over three years",
             "Over two years",
-            "Over four years",
-            "Over five years"
+            "Exactly two years",
+            "Over three years",
+            "Around one year",
+            "Less than two years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The new luxury complex at the Mandarin Oriental site will include how many towers?",
-        "a": "Two towers",
+        "q": "What was the retail inflation rate in March, as per government data released on April 13, 2026?",
+        "a": "3.4%",
         "options": [
-            "One tower",
-            "Three towers",
-            "Two towers",
-            "Four towers",
-            "Five towers"
+            "3.4%",
+            "3.21%",
+            "3.87%",
+            "3.47%",
+            "3.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who issued a warning that the global monetary system is unprepared for AI's escalating risks?",
-        "a": "Kristalina Georgieva",
+        "q": "What was the retail inflation rate in February, preceding the March data?",
+        "a": "3.21%",
         "options": [
-            "Janet Yellen",
-            "Christine Lagarde",
-            "Kristalina Georgieva",
-            "Jerome Powell",
-            "Ajay Banga"
+            "3.21%",
+            "3.4%",
+            "3.87%",
+            "3.47%",
+            "3.11%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the food inflation, based on CPI, in March?",
+        "a": "3.87%",
+        "options": [
+            "3.87%",
+            "3.47%",
+            "3.4%",
+            "3.21%",
+            "3.97%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the food inflation, based on CPI, in February?",
+        "a": "3.47%",
+        "options": [
+            "3.47%",
+            "3.87%",
+            "3.4%",
+            "3.21%",
+            "3.37%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many people are expected to reach working age in developing countries in the next 10 to 15 years, according to World Bank President Ajay Banga?",
+        "a": "1.2 billion",
+        "options": [
+            "1.2 billion",
+            "800 million",
+            "400 million",
+            "1.5 billion",
+            "1.0 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many jobs are likely to be generated in developing economies at current trajectories for the new working-age population?",
+        "a": "400 million",
+        "options": [
+            "400 million",
+            "1.2 billion",
+            "800 million",
+            "500 million",
+            "300 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the projected deficit of jobs in developing countries for the new working-age population in the next 10 to 15 years?",
+        "a": "800 million",
+        "options": [
+            "800 million",
+            "1.2 billion",
+            "400 million",
+            "700 million",
+            "900 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In how many years is the 'huge gap in jobs' crisis expected to manifest in developing countries, according to Ajay Banga?",
+        "a": "10 to 15 years",
+        "options": [
+            "10 to 15 years",
+            "5 to 10 years",
+            "15 to 20 years",
+            "Next 5 years",
+            "Over 20 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the spot gold price per ounce as of 06:20 GMT on Monday (April 13, 2026)?",
+        "a": "$4,726.64",
+        "options": [
+            "$4,726.64",
+            "$4,643",
+            "$4,748.70",
+            "$4,736.64",
+            "$4,716.64"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what percentage was spot gold down on Monday (April 13, 2026)?",
+        "a": "0.4%",
+        "options": [
+            "0.4%",
+            "0.8%",
+            "1.0%",
+            "0.5%",
+            "0.3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the lowest spot gold price hit earlier on Monday (April 13, 2026)?",
+        "a": "$4,643",
+        "options": [
+            "$4,643",
+            "$4,726.64",
+            "$4,748.70",
+            "$4,633",
+            "$4,653"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the price for U.S. gold futures for June delivery on Monday (April 13, 2026)?",
+        "a": "$4,748.70",
+        "options": [
+            "$4,748.70",
+            "$4,726.64",
+            "$4,643",
+            "$4,758.70",
+            "$4,738.70"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what percentage did U.S. gold futures for June delivery fall on Monday (April 13, 2026)?",
+        "a": "0.8%",
+        "options": [
+            "0.8%",
+            "0.4%",
+            "1.2%",
+            "0.7%",
+            "0.9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much in Rupee arbitrage trades did the RBI effectively force banks to unwind?",
+        "a": "Up to $40 billion",
+        "options": [
+            "Up to $40 billion",
+            "Up to $30 billion",
+            "Up to $50 billion",
+            "Exactly $40 billion",
+            "Over $40 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Over what period did India receive the highest number of regressive tax recommendations from the IMF, according to Oxfam's analysis?",
+        "a": "Between 2022 and 2024",
+        "options": [
+            "Between 2022 and 2024",
+            "Between 2021 and 2023",
+            "Between 2020 and 2022",
+            "Between 2023 and 2025",
+            "Between 2019 and 2021"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which actor, known for signing the open letter against the Paramount-Warner Bros. Discovery deal, is mentioned in the news text?",
+        "a": "Joaquin Phoenix",
+        "options": [
+            "Joaquin Phoenix",
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Tom Hanks",
+            "George Clooney"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Senior Content Producer at Livemint covering entertainment news, mentioned in the provided text?",
+        "q": "Which of the following high-profile names signed the open letter opposing the proposed Paramount Global and Warner Bros. Discovery deal?",
+        "a": "Ben Stiller",
+        "options": [
+            "Ben Stiller",
+            "Will Ferrell",
+            "Adam Sandler",
+            "Steve Carell",
+            "Kevin Hart"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Kristen Stewart signed an open letter voicing opposition to which proposed corporate deal?",
+        "a": "Paramount Global and Warner Bros. Discovery",
+        "options": [
+            "Paramount Global and Warner Bros. Discovery",
+            "Disney and Netflix",
+            "Sony Pictures and Universal Studios",
+            "Amazon Studios and Apple TV+",
+            "Fox and CBS"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which company is proposed to acquire Warner Bros. Discovery in the deal mentioned in the news?",
+        "a": "Paramount Global",
+        "options": [
+            "Paramount Global",
+            "Sony Pictures",
+            "Netflix",
+            "Amazon Studios",
+            "Apple TV+"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which company is Warner Bros. Discovery proposed to be acquired by?",
+        "a": "Paramount Global",
+        "options": [
+            "Paramount Global",
+            "Disney",
+            "Universal Studios",
+            "Lionsgate",
+            "MGM"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is mentioned as a Senior Content Producer at Livemint, covering entertainment news?",
         "a": "Trisha Bhattacharya",
         "options": [
-            "Sanya Sharma",
-            "Priyanka Dubey",
             "Trisha Bhattacharya",
-            "Anjali Kapoor",
-            "Meera Singh"
+            "Anjali Sharma",
+            "Priya Singh",
+            "Neha Gupta",
+            "Rina Kapoor"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which studio is developing the film 'Avatar: Aang \u2013 The Last Airbender'?",
-        "a": "Nickelodeon\u2019s Avatar Studios",
-        "options": [
-            "Disney Animation Studios",
-            "DreamWorks Animation",
-            "Warner Bros. Animation",
-            "Studio Ghibli",
-            "Nickelodeon\u2019s Avatar Studios"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which entity, in partnership with Mandarin Oriental Hotel Group, is leading the redevelopment of the Mandarin Oriental, Miami site?",
-        "a": "Swire Properties",
-        "options": [
-            "Hilton Worldwide",
-            "Marriott International",
-            "Hyatt Hotels",
-            "Swire Properties",
-            "Four Seasons Hotels"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who are the central characters featured in the upcoming 'Avatar: Aang \u2013 The Last Airbender' film?",
-        "a": "Aang and his companions",
-        "options": [
-            "Korra and her team",
-            "Zuko and Iroh",
-            "Sokka and Toph",
-            "Aang and his companions",
-            "Katara and Sokka"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The new ultra-luxury complex, \"The Residences at Mandarin Oriental, Miami,\" will be developed by Swire Properties in partnership with which hotel group?",
-        "a": "Mandarin Oriental Hotel Group",
-        "options": [
-            "Ritz-Carlton Hotel Company",
-            "Rosewood Hotel Group",
-            "Mandarin Oriental Hotel Group",
-            "Peninsula Hotels",
-            "St. Regis Hotels & Resorts"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Before joining Livemint, Trisha Bhattacharya worked as an entertainment journalist and film critic for which media organization?",
+        "q": "Prior to joining Livemint, Trisha Bhattacharya worked as an entertainment journalist and film critic for which organization?",
         "a": "India Today",
         "options": [
-            "Times of India",
+            "India Today",
+            "The Times of India",
             "Hindustan Times",
             "The Hindu",
-            "Indian Express",
-            "India Today"
+            "NDTV"
         ],
         "cat": "Who"
     },
     {
-        "q": "What is the name of the new AI model mentioned by Kristalina Georgieva that raises urgent cybersecurity concerns?",
-        "a": "Anthropic model",
+        "q": "Which three international agencies established a coordination group for a joint response to the energy and economic impacts of the West Asia war?",
+        "a": "IMF, World Bank, and International Energy Agency",
         "options": [
-            "OpenAI model",
-            "DeepMind model",
-            "Anthropic model",
-            "Google AI model",
-            "Microsoft AI model"
+            "IMF, World Bank, and International Energy Agency",
+            "United Nations, WTO, and UNESCO",
+            "G7, G20, and BRICS",
+            "WHO, UNICEF, and UNHCR",
+            "OECD, OPEC, and NATO"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity did US regulators convene an emergency meeting with regarding the new AI model?",
-        "a": "Top bank chiefs",
+        "q": "Who is the current World Bank President, sounding the alarm about a looming global job crisis?",
+        "a": "Ajay Banga",
         "options": [
-            "Technology company CEOs",
-            "Cybersecurity experts",
-            "Government officials",
-            "Top bank chiefs",
-            "Academic researchers"
+            "Ajay Banga",
+            "Kristalina Georgieva",
+            "David Malpass",
+            "Christine Lagarde",
+            "Jim Yong Kim"
         ],
         "cat": "Who"
     },
     {
-        "q": "According to the news text, who are the target buyers for the branded residences at \"The Residences at Mandarin Oriental, Miami\"?",
-        "a": "Wealthy buyers",
+        "q": "Which Indian institution is scrutinizing methods large banks used to unwind Rupee arbitrage positions?",
+        "a": "Reserve Bank of India (RBI)",
         "options": [
-            "First-time homebuyers",
-            "Middle-income families",
-            "Students",
-            "Wealthy buyers",
-            "Senior citizens"
+            "Reserve Bank of India (RBI)",
+            "Securities and Exchange Board of India (SEBI)",
+            "Ministry of Finance",
+            "State Bank of India (SBI)",
+            "National Payments Corporation of India (NPCI)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the author of the news reports provided in the text?",
-        "a": "Trisha Bhattacharya",
+        "q": "According to an analysis by which organization, did India receive the highest number of regressive tax recommendations from the IMF between 2022 and 2024?",
+        "a": "Oxfam",
         "options": [
-            "Anjali Rao",
-            "Priya Gupta",
-            "Trisha Bhattacharya",
-            "Meera Desai",
-            "Kavita Singh"
+            "Oxfam",
+            "Amnesty International",
+            "Human Rights Watch",
+            "Transparency International",
+            "World Economic Forum"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who did Trisha Bhattacharya previously work with as an entertainment journalist and film critic?",
-        "a": "India Today",
+        "q": "Who is the former Chief Minister and Leader of the Opposition mentioned as touring grain markets due to farmer distress?",
+        "a": "Bhupinder Singh Hooda",
         "options": [
-            "CNN-News18",
-            "NDTV",
-            "Zee News",
-            "India Today",
-            "Republic TV"
+            "Bhupinder Singh Hooda",
+            "Manohar Lal Khattar",
+            "Dushyant Chautala",
+            "Om Prakash Chautala",
+            "Deepender Singh Hooda"
         ],
         "cat": "Who"
     },
     {
-        "q": "The Mandarin Oriental hotel that was demolished on April 12 was located on which exclusive island in Miami?",
-        "a": "Brickell Key island",
+        "q": "Which two Justices formed the Supreme Court Bench that expressed shock at sand mining in the Chambal sanctuary zone?",
+        "a": "Justices Vikram Nath and Sandeep Mehta",
         "options": [
-            "Fisher Island",
-            "Star Island",
-            "Venetian Islands",
-            "Brickell Key island",
-            "Palm Island"
+            "Justices Vikram Nath and Sandeep Mehta",
+            "Justices D.Y. Chandrachud and Sanjiv Khanna",
+            "Justices Hima Kohli and B.V. Nagarathna",
+            "Justices K.M. Joseph and Ajay Rastogi",
+            "Justices M.R. Shah and Krishna Murari"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "The annual spring meetings of the International Monetary Fund and World Bank are scheduled to kick off in which city?",
-        "a": "Washington",
+        "q": "The Supreme Court Bench considering the plea for biometric voting mechanisms was headed by which Chief Justice of India?",
+        "a": "Surya Kant",
         "options": [
-            "New York",
-            "London",
-            "Geneva",
-            "Washington",
-            "Brussels"
+            "Surya Kant",
+            "D.Y. Chandrachud",
+            "U.U. Lalit",
+            "N.V. Ramana",
+            "Sharad Arvind Bobde"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Trisha Bhattacharya holds a Master\u2019s degree in English Literature from which university?",
+        "q": "From which university did Trisha Bhattacharya obtain her Master's degree in English Literature?",
         "a": "Lucknow University",
         "options": [
+            "Lucknow University",
             "Delhi University",
             "Mumbai University",
             "Jawaharlal Nehru University",
-            "Lucknow University",
             "Calcutta University"
         ],
         "cat": "Where"
     },
     {
-        "q": "The largest demolition of its kind in over a decade occurred in which city with the implosion of the Mandarin Oriental hotel?",
-        "a": "Miami",
+        "q": "Where did the Heads of the International Energy Agency, International Monetary Fund, and the World Bank Group meet earlier this month?",
+        "a": "Washington",
         "options": [
-            "Los Angeles",
+            "Washington",
             "New York",
-            "Miami",
-            "Chicago",
-            "Houston"
+            "London",
+            "Geneva",
+            "Paris"
         ],
         "cat": "Where"
     },
     {
-        "q": "The upcoming 'Avatar: Aang \u2013 The Last Airbender' film is scheduled for release on which streaming platform?",
-        "a": "Paramount+",
+        "q": "The Oxfam analysis on IMF tax recommendations was released ahead of the IMF and World Bank spring meetings in which city?",
+        "a": "Washington",
         "options": [
-            "Netflix",
-            "HBO Max",
-            "Disney+",
-            "Paramount+",
-            "Hulu"
+            "Washington",
+            "Davos",
+            "Singapore",
+            "Tokyo",
+            "Berlin"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which platform did segments from the 'Avatar: Aang' animated film reportedly surface following the leak?",
-        "a": "Social media and other platforms",
+        "q": "Which grain market did Bhupinder Singh Hooda visit on Monday (April 13, 2026)?",
+        "a": "Sohna grain market",
         "options": [
-            "Dark web forums",
-            "Private email groups",
-            "Encrypted messaging apps",
-            "Social media and other platforms",
-            "Official streaming services"
+            "Sohna grain market",
+            "Panipat grain market",
+            "Karnal grain market",
+            "Ambala grain market",
+            "Rohtak grain market"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where will the redesigned Mandarin Oriental hotel, part of \"The Residences at Mandarin Oriental, Miami,\" be located?",
-        "a": "Brickell Key island, Miami",
+        "q": "The Supreme Court expressed shock at sand miners operating in which fragile sanctuary zone?",
+        "a": "Chambal sanctuary zone",
         "options": [
-            "South Beach",
-            "Downtown Miami",
-            "Miami Beach",
-            "Brickell Key island, Miami",
-            "Wynwood"
+            "Chambal sanctuary zone",
+            "Ranthambore National Park",
+            "Bandhavgarh National Park",
+            "Kanha National Park",
+            "Sariska Tiger Reserve"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Mandarin Oriental, Miami was known as a fixture of which city's high-end hospitality scene?",
-        "a": "Miami",
+        "q": "In which state did sand miners kill a forest guard in the Chambal sanctuary zone?",
+        "a": "Madhya Pradesh",
         "options": [
-            "New York City",
-            "Los Angeles",
-            "Dubai",
-            "Miami",
-            "London"
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Gujarat",
+            "Bihar"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where do Trisha Bhattacharya's current employers, Livemint, focus their content production?",
-        "a": "India and beyond",
+        "q": "The bridge whose pillars' foundation was dug by sand miners in the Chambal area connects Madhya Pradesh to which other state?",
+        "a": "Rajasthan",
         "options": [
-            "Only India",
-            "Only USA",
-            "Europe",
-            "Africa",
-            "India and beyond"
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Gujarat",
+            "Maharashtra",
+            "Chhattisgarh"
         ],
         "cat": "Where"
     },
     {
-        "q": "The film 'Avatar: Aang \u2013 The Last Airbender' is scheduled for release on which date?",
-        "a": "October 9, 2026",
+        "q": "The plea for biometric identification mechanisms aims for implementation at which locations?",
+        "a": "Polling stations",
         "options": [
-            "September 9, 2026",
-            "October 10, 2026",
-            "October 9, 2026",
-            "November 9, 2026",
-            "October 8, 2026"
+            "Polling stations",
+            "Government offices",
+            "Banks",
+            "Airports",
+            "Railway stations"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The debate over the proposed Paramount-Warner Bros. deal has triggered discussion across which prominent entertainment industry hub?",
+        "a": "Hollywood",
+        "options": [
+            "Hollywood",
+            "Bollywood",
+            "Tollywood",
+            "Nollywood",
+            "Cinecitt\u00e0"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Government data on retail inflation for March was released on which day?",
+        "a": "Monday (April 13, 2026)",
+        "options": [
+            "Monday (April 13, 2026)",
+            "Friday (April 10, 2026)",
+            "Tuesday (April 14, 2026)",
+            "Saturday (April 11, 2026)",
+            "Sunday (April 12, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did the Mandarin Oriental, Miami officially shut its doors before its demolition?",
-        "a": "May 2025",
+        "q": "Gold prices touched their lowest since which date earlier on Monday (April 13, 2026)?",
+        "a": "April 7",
         "options": [
-            "April 2025",
-            "June 2025",
-            "May 2025",
-            "May 2024",
-            "December 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The original Mandarin Oriental, Miami hotel opened its doors in which year?",
-        "a": "2000",
-        "options": [
-            "1999",
-            "2001",
-            "2000",
-            "1998",
-            "2002"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The redevelopment project, \"The Residences at Mandarin Oriental, Miami,\" is expected to be completed by which year?",
-        "a": "2030",
-        "options": [
-            "2029",
-            "2031",
-            "2030",
-            "2028",
-            "2032"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The controlled implosion of the Mandarin Oriental, Miami was described as the largest such demolition in the city in over how many years?",
-        "a": "Over a decade",
-        "options": [
-            "Over five years",
-            "Over ten years",
-            "Over a decade",
-            "Over twenty years",
-            "Over fifteen years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Approximately how many years of planning preceded the demolition of the Mandarin Oriental, Miami?",
-        "a": "Nearly two years",
-        "options": [
-            "Nearly one year",
-            "Nearly three years",
-            "Nearly two years",
-            "Nearly four years",
-            "Nearly five years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day of the week do the IMF and World Bank typically kick off their annual spring meetings, following Kristalina Georgieva's Sunday warning?",
-        "a": "Monday",
-        "options": [
-            "Sunday",
-            "Tuesday",
-            "Monday",
-            "Wednesday",
-            "Thursday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Mandarin Oriental, Miami was demolished on which date?",
-        "a": "April 12",
-        "options": [
-            "April 11",
-            "April 13",
-            "April 12",
+            "April 7",
+            "April 1",
+            "March 31",
             "April 10",
-            "April 14"
+            "March 25"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Kristalina Georgieva issue her warning about AI risks to the global monetary system?",
-        "a": "Sunday",
+        "q": "When did the RBI effectively force banks to unwind Rupee arbitrage trades?",
+        "a": "In late March and early April",
         "options": [
-            "Saturday",
-            "Monday",
-            "Sunday",
-            "Tuesday",
-            "Friday"
+            "In late March and early April",
+            "In early March",
+            "In late February",
+            "In mid-April",
+            "In late April"
         ],
         "cat": "When"
     },
     {
-        "q": "The US regulators convened an emergency meeting with top bank chiefs in which week, relative to Kristalina Georgieva's Sunday warning?",
-        "a": "Last week",
+        "q": "On which day did Bhupinder Singh Hooda visit the Sohna grain market?",
+        "a": "Monday (April 13, 2026)",
         "options": [
-            "This week",
-            "Next week",
-            "Last week",
-            "Two weeks ago",
-            "Three weeks ago"
+            "Monday (April 13, 2026)",
+            "Tuesday (April 14, 2026)",
+            "Sunday (April 12, 2026)",
+            "Wednesday (April 15, 2026)",
+            "Thursday (April 16, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "The original 'Avatar: The Last Airbender' series, preceding the new film, depicts events that are followed by an older version of Aang in what context?",
-        "a": "After the events of the original series",
+        "q": "On which day did the Supreme Court express shock at sand miners operating in the Chambal sanctuary zone?",
+        "a": "Monday (April 13, 2026)",
         "options": [
-            "Before the original series",
-            "During the original series",
-            "After the events of the original series",
-            "In an alternate timeline",
-            "As a parallel story"
+            "Monday (April 13, 2026)",
+            "Tuesday (April 14, 2026)",
+            "Wednesday (April 15, 2026)",
+            "Thursday (April 16, 2026)",
+            "Friday (April 17, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "For how long had the Mandarin Oriental, Miami been a premier luxury destination since its opening in 2000 until its closure in May 2025?",
-        "a": "25 years",
+        "q": "On which day did the Supreme Court seek responses on a plea for biometric voting mechanisms?",
+        "a": "Monday (April 13, 2026)",
         "options": [
-            "20 years",
-            "22 years",
-            "25 years",
-            "27 years",
-            "30 years"
+            "Monday (April 13, 2026)",
+            "Tuesday (April 14, 2026)",
+            "Wednesday (April 15, 2026)",
+            "Thursday (April 16, 2026)",
+            "Friday (April 17, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "The demolition of the Mandarin Oriental, Miami marked the largest such event in the city since which approximate timeframe?",
-        "a": "Over a decade ago",
+        "q": "The coordination group involving the IMF, World Bank, and IEA was established earlier in which month for a joint response to the Middle East war impacts?",
+        "a": "This month",
         "options": [
-            "Over five years ago",
-            "Over a decade ago",
-            "Over twenty years ago",
-            "Over fifteen years ago",
-            "Over eight years ago"
+            "This month",
+            "Last month",
+            "Two months ago",
+            "Six months ago",
+            "Last year"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary reason for the demolition of the Mandarin Oriental, Miami?",
-        "a": "Part of a planned redevelopment",
+        "q": "Expectations for Federal Reserve interest rate cuts are dampened for which period?",
+        "a": "This year",
         "options": [
-            "Structural damage",
-            "Natural disaster",
-            "Economic downturn",
-            "Part of a planned redevelopment",
-            "Emergency safety concern"
+            "This year",
+            "Next year",
+            "Next quarter",
+            "Next month",
+            "The current quarter"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary purpose of the open letter signed by over 1,000 film and television professionals?",
+        "a": "Voicing opposition to a proposed deal between Paramount Global and Warner Bros. Discovery",
+        "options": [
+            "Voicing opposition to a proposed deal between Paramount Global and Warner Bros. Discovery",
+            "Advocating for higher salaries in the entertainment industry",
+            "Promoting independent film productions",
+            "Demanding better representation for minorities",
+            "Calling for stricter censorship laws"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core concern Kristalina Georgieva raised regarding the global monetary system?",
-        "a": "Not prepared to address AI's rapidly escalating risks",
+        "q": "What is one of the key concerns raised by signatories regarding further consolidation in the entertainment sector?",
+        "a": "Reduce competition and limit opportunities for creative work",
         "options": [
-            "Lack of digital currency adoption",
-            "Excessive inflation rates",
-            "Geopolitical instability",
-            "Not prepared to address AI's rapidly escalating risks",
-            "Inadequate climate finance"
+            "Reduce competition and limit opportunities for creative work",
+            "Increase ticket prices for consumers",
+            "Expand global reach of Hollywood films",
+            "Introduce new streaming platforms",
+            "Promote international collaborations"
         ],
         "cat": "Why"
     },
     {
-        "q": "One widely shared allegation suggests the 'Avatar: Aang' film leak originated from what kind of error?",
-        "a": "Internal distribution error",
+        "q": "According to IMF, World Bank, and IEA, why may fuel and fertilizer prices remain high?",
+        "a": "Uncertainty due to the war in West Asia",
         "options": [
-            "Cyber attack",
-            "Whistleblower action",
-            "External hacking",
-            "Internal distribution error",
-            "Third-party vendor breach"
+            "Uncertainty due to the war in West Asia",
+            "Increased global demand",
+            "Supply chain disruptions from COVID-19",
+            "Environmental regulations",
+            "Fluctuations in currency exchange rates"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of the new 'Avatar: Aang \u2013 The Last Airbender' film regarding its characters?",
-        "a": "Exploring a new story set in a more mature phase of their lives",
+        "q": "What was the main reason for the marginal uptick in retail inflation in March?",
+        "a": "Uptick in certain food items amid the West Asia crisis",
         "options": [
-            "Rebooting the original series",
-            "Prequel exploring their youth",
-            "Focusing on new, unrelated characters",
-            "Exploring a new story set in a more mature phase of their lives",
-            "Retelling key events from the original series"
+            "Uptick in certain food items amid the West Asia crisis",
+            "Increase in fuel prices",
+            "Higher housing costs",
+            "Rise in transportation expenses",
+            "Broader economic growth"
         ],
         "cat": "Why"
     },
     {
-        "q": "What does Trisha Bhattacharya's Master's degree in English Literature shape her love for, as stated in the text?",
-        "a": "Layered narratives, strong voices, and stories that linger",
+        "q": "World Bank President Ajay Banga is sounding the alarm about a 'bigger, looming crisis.' What is this crisis related to?",
+        "a": "A huge gap in jobs for the working-age population in developing countries",
         "options": [
-            "Financial analysis and market trends",
-            "Scientific research and factual reporting",
-            "Technical writing and documentation",
-            "Layered narratives, strong voices, and stories that linger",
-            "Historical events and political commentary"
+            "A huge gap in jobs for the working-age population in developing countries",
+            "Global climate change",
+            "Increasing national debts",
+            "Food security issues",
+            "Water scarcity"
         ],
         "cat": "Why"
     },
     {
-        "q": "Developers opted for a controlled implosion to demolish the Mandarin Oriental, Miami for what primary reason?",
-        "a": "Safest and most efficient way to clear the site while minimising disruption",
+        "q": "Why is the RBI scrutinizing banks' methods to unwind Rupee arbitrage positions?",
+        "a": "Concerns the trades may have breached regulations and impeded currency stabilization efforts",
         "options": [
-            "To create a spectacular visual event",
-            "Due to budget constraints",
-            "Because of the building's unique architecture",
-            "Safest and most efficient way to clear the site while minimising disruption",
-            "To allow for immediate reconstruction"
+            "Concerns the trades may have breached regulations and impeded currency stabilization efforts",
+            "To encourage more arbitrage trading",
+            "To promote foreign fund inflows",
+            "To reduce interest rates",
+            "To increase liquidity in the market"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main reason studios are increasingly concerned about following the 'Avatar: Aang' film leak?",
-        "a": "Piracy and digital security",
+        "q": "What were the reasons cited for the Rupee teetering at record lows, prompting RBI action?",
+        "a": "Iran war and foreign fund outflows",
         "options": [
-            "Decreasing audience interest",
-            "Rising production costs",
-            "Piracy and digital security",
-            "Talent retention issues",
-            "Competition from other franchises"
+            "Iran war and foreign fund outflows",
+            "High inflation and domestic demand",
+            "Strong dollar and interest rate hikes",
+            "Trade surplus and government spending",
+            "Political instability and commodity price drops"
         ],
         "cat": "Why"
     },
     {
-        "q": "The decision to redevelop the Mandarin Oriental, Miami site reflects broader trends in Miami's property market, where developers are doing what?",
-        "a": "Replacing older hospitality landmarks with mixed-use luxury towers catering to global investors and high-net-worth residents",
+        "q": "Oxfam flagged that the IMF is applying 'double standard' by giving what kind of advice to wealthy countries?",
+        "a": "Largely progressive advice",
         "options": [
-            "Converting luxury hotels into affordable housing",
-            "Expanding existing hospitality landmarks",
-            "Focusing on budget-friendly tourism",
-            "Replacing older hospitality landmarks with mixed-use luxury towers catering to global investors and high-net-worth residents",
-            "Shifting towards eco-tourism resorts"
+            "Largely progressive advice",
+            "Largely regressive advice",
+            "Neutral economic advice",
+            "Short-term stimulus advice",
+            "Austerity measures advice"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a concern among fans and observers regarding the leaked unfinished footage of 'Avatar: Aang'?",
-        "a": "The leak could affect audience expectations as unfinished visuals often lack polish",
+        "q": "What is the plea to the Supreme Court seeking to implement a finger and iris biometric identification mechanism at polling stations intended to prevent?",
+        "a": "Duplicate voting",
         "options": [
-            "The leak reveals too many plot spoilers",
-            "The leak proves the film will be a commercial failure",
-            "The leak could affect audience expectations as unfinished visuals often lack polish",
-            "The leak suggests the film's release will be cancelled",
-            "The leak confirms a major casting change"
+            "Duplicate voting",
+            "Voter intimidation",
+            "Electronic voting machine tampering",
+            "Low voter turnout",
+            "Campaign violations"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the 'Avatar: Aang \u2013 The Last Airbender' film initially shift from a planned theatrical release to streaming?",
-        "a": "Undergone several changes, including delays and a shift",
+        "q": "According to Bhupinder Singh Hooda, what is a primary reason for the continuous distress faced by farmers in grain markets?",
+        "a": "Online portal is non-functional, hindering procurement and payments",
         "options": [
-            "Lack of audience interest",
-            "High production costs",
-            "Studio preference",
-            "Undergone several changes, including delays and a shift",
-            "Negative test screenings"
+            "Online portal is non-functional, hindering procurement and payments",
+            "Lack of government subsidies",
+            "Excessive crop yield",
+            "Shortage of storage facilities",
+            "High transportation costs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the reasons for concern among studios regarding the leak of the 'Avatar: Aang' footage?",
-        "a": "Increased concerns about piracy and digital security",
+        "q": "The Supreme Court stated that the lack of action against sand miners revealed what about the Madhya Pradesh government?",
+        "a": "Its failure or connivance in the criminal activities",
         "options": [
-            "Reduced marketing budget",
-            "Talent disputes",
-            "Increased concerns about piracy and digital security",
-            "Lack of content",
-            "Box office competition"
+            "Its failure or connivance in the criminal activities",
+            "Its commitment to environmental protection",
+            "Its efforts to boost local economy",
+            "Its strict enforcement of mining laws",
+            "Its successful collaboration with the judiciary"
         ],
         "cat": "Why"
     },
     {
-        "q": "The reaction to the 'Avatar: Aang' leak online has been described as mixed; what is one aspect of this reaction?",
-        "a": "Some fans expressed excitement, others criticised the sharing",
+        "q": "What fueled inflation worries and dampened expectations for Federal Reserve interest rate cuts this year?",
+        "a": "Surge in oil prices following failed U.S.-Iran peace talks",
         "options": [
-            "Universal condemnation",
-            "Widespread indifference",
-            "Complete approval",
-            "Some fans expressed excitement, others criticised the sharing",
-            "Only negative comments"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific type of content did the clips circulating online from the 'Avatar: Aang' leak appear to show?",
-        "a": "Early animation sequences and character moments",
-        "options": [
-            "Finalized script pages",
-            "Full musical scores",
-            "Early animation sequences and character moments",
-            "Behind-the-scenes interviews",
-            "Merchandise designs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose of Trisha Bhattacharya's work at Livemint, as described in the text?",
-        "a": "Tracking what\u2019s trending, breaking down pop culture moments, and turning entertainment stories into engaging reads",
-        "options": [
-            "Analyzing financial markets",
-            "Reporting on political developments",
-            "Investigating crime stories",
-            "Tracking what\u2019s trending, breaking down pop culture moments, and turning entertainment stories into engaging reads",
-            "Covering scientific breakthroughs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The new Mandarin Oriental hotel will be \"smaller and more exclusive\" to cater to whom?",
-        "a": "Wealthy buyers",
-        "options": [
-            "Budget travelers",
-            "Families with children",
-            "Business conferences",
-            "Wealthy buyers",
-            "Local residents"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What kind of background does Trisha Bhattacharya's Master's degree in English Literature provide for her work?",
-        "a": "Shapes her love for layered narratives, strong voices, and stories that linger",
-        "options": [
-            "Provides skills for technical reporting",
-            "Focuses on economic analysis",
-            "Enhances her ability in scientific writing",
-            "Shapes her love for layered narratives, strong voices, and stories that linger",
-            "Develops expertise in data journalism"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the high-end amenities planned for \"The Residences at Mandarin Oriental, Miami\"?",
-        "a": "Signature spa, multiple restaurants, and extensive leisure facilities",
-        "options": [
-            "Budget fitness center",
-            "Fast-food court",
-            "Public library",
-            "Signature spa, multiple restaurants, and extensive leisure facilities",
-            "Basic convenience store"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Brickell Key site, where the Mandarin Oriental was redeveloped, is seen as a key part of Swire Properties' long-term vision for what reason?",
-        "a": "It is one of the last major parcels owned by Swire Properties on the island",
-        "options": [
-            "It offers easy access to public transport",
-            "It is a low-cost development area",
-            "It is one of the last major parcels owned by Swire Properties on the island",
-            "It is a historical preservation site",
-            "It has unique geological features"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the criticisms raised by some fans regarding the sharing of leaked 'Avatar: Aang' material?",
-        "a": "Urging viewers to wait for the official release and support the creators",
-        "options": [
-            "Demanding immediate release of the full film",
-            "Requesting a refund for pre-orders",
-            "Advocating for legal action against leakers",
-            "Urging viewers to wait for the official release and support the creators",
-            "Demanding a new animation style"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What concern did the new Anthropic AI model raise that led to an emergency meeting with top bank chiefs?",
-        "a": "Urgent cybersecurity concerns",
-        "options": [
-            "Financial fraud concerns",
-            "Data privacy concerns",
-            "Ethical AI concerns",
-            "Urgent cybersecurity concerns",
-            "Job displacement concerns"
+            "Surge in oil prices following failed U.S.-Iran peace talks",
+            "A stronger dollar",
+            "Gold price drops",
+            "High unemployment rates",
+            "Decreased consumer spending"
         ],
         "cat": "Why"
     }
