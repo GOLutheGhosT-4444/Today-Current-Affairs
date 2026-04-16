@@ -1,722 +1,722 @@
 [
     {
-        "q": "How many film and television professionals signed the open letter against the proposed Paramount-Warner Bros. Discovery deal?",
-        "a": "More than 1,000",
+        "q": "How many gas turbines did xAI illegally operate in Mississippi for its Colossus 2 data centre?",
+        "a": "27",
         "options": [
-            "More than 1,000",
-            "More than 500",
-            "Exactly 1,000",
-            "Approximately 950",
-            "Over 1,200"
+            "24",
+            "25",
+            "27",
+            "28",
+            "30"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years of experience does Trisha Bhattacharya have covering entertainment news at Livemint?",
-        "a": "Over two years",
+        "q": "What was the wholesale price inflation (WPI-based) in March, as per government data released on April 15, 2026?",
+        "a": "3.88%",
         "options": [
-            "Over two years",
-            "Exactly two years",
-            "Over three years",
-            "Around one year",
-            "Less than two years"
+            "3.80%",
+            "3.85%",
+            "3.88%",
+            "3.90%",
+            "3.92%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the retail inflation rate in March, as per government data released on April 13, 2026?",
-        "a": "3.4%",
+        "q": "What was the WPI-based inflation in the month prior to March, as reported in the news?",
+        "a": "2.13%",
         "options": [
-            "3.4%",
-            "3.21%",
-            "3.87%",
-            "3.47%",
-            "3.5%"
+            "2.10%",
+            "2.15%",
+            "2.13%",
+            "2.20%",
+            "2.08%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the retail inflation rate in February, preceding the March data?",
-        "a": "3.21%",
+        "q": "What was the WPI-based inflation recorded in March of the previous year?",
+        "a": "2.25%",
         "options": [
-            "3.21%",
-            "3.4%",
-            "3.87%",
-            "3.47%",
-            "3.11%"
+            "2.20%",
+            "2.22%",
+            "2.25%",
+            "2.28%",
+            "2.30%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the food inflation, based on CPI, in March?",
-        "a": "3.87%",
+        "q": "What was the value of Amazon's cash-and-stock offer per share to Globalstar shareholders?",
+        "a": "$90",
         "options": [
-            "3.87%",
-            "3.47%",
-            "3.4%",
-            "3.21%",
-            "3.97%"
+            "$85",
+            "$88",
+            "$90",
+            "$92",
+            "$95"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the food inflation, based on CPI, in February?",
-        "a": "3.47%",
+        "q": "What was Globalstar's market value, according to a Financial Times report mentioned in the news?",
+        "a": "$9 billion",
         "options": [
-            "3.47%",
-            "3.87%",
-            "3.4%",
-            "3.21%",
-            "3.37%"
+            "$8.5 billion",
+            "$8.8 billion",
+            "$9 billion",
+            "$9.2 billion",
+            "$9.5 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people are expected to reach working age in developing countries in the next 10 to 15 years, according to World Bank President Ajay Banga?",
-        "a": "1.2 billion",
+        "q": "What is the total transaction value proposed by the Telangana government to acquire Hyderabad Metro Rail Phase I?",
+        "a": "\u20b915,000-crore",
         "options": [
-            "1.2 billion",
-            "800 million",
-            "400 million",
-            "1.5 billion",
-            "1.0 billion"
+            "\u20b914,500-crore",
+            "\u20b914,800-crore",
+            "\u20b915,000-crore",
+            "\u20b915,200-crore",
+            "\u20b915,500-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many jobs are likely to be generated in developing economies at current trajectories for the new working-age population?",
-        "a": "400 million",
+        "q": "What is the debt component proposed in the Telangana government's acquisition plan for Hyderabad Metro Rail Phase I?",
+        "a": "\u20b913,000-crore",
         "options": [
-            "400 million",
-            "1.2 billion",
-            "800 million",
-            "500 million",
-            "300 million"
+            "\u20b912,800-crore",
+            "\u20b912,900-crore",
+            "\u20b913,000-crore",
+            "\u20b913,100-crore",
+            "\u20b913,200-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the projected deficit of jobs in developing countries for the new working-age population in the next 10 to 15 years?",
-        "a": "800 million",
+        "q": "What is the equity payout proposed in the Telangana government's acquisition plan for Hyderabad Metro Rail Phase I?",
+        "a": "\u20b92,000-crore",
         "options": [
-            "800 million",
-            "1.2 billion",
-            "400 million",
-            "700 million",
-            "900 million"
+            "\u20b91,900-crore",
+            "\u20b91,950-crore",
+            "\u20b92,000-crore",
+            "\u20b92,050-crore",
+            "\u20b92,100-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In how many years is the 'huge gap in jobs' crisis expected to manifest in developing countries, according to Ajay Banga?",
-        "a": "10 to 15 years",
+        "q": "What is the length of Hyderabad Metro Rail Phase I that the Telangana government intends to acquire?",
+        "a": "69.2-km",
         "options": [
-            "10 to 15 years",
-            "5 to 10 years",
-            "15 to 20 years",
-            "Next 5 years",
-            "Over 20 years"
+            "68.5-km",
+            "69.0-km",
+            "69.2-km",
+            "69.5-km",
+            "70.0-km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the spot gold price per ounce as of 06:20 GMT on Monday (April 13, 2026)?",
-        "a": "$4,726.64",
+        "q": "Wholesale price inflation rose for how many straight months, culminating in the March data?",
+        "a": "Five",
         "options": [
-            "$4,726.64",
-            "$4,643",
-            "$4,748.70",
-            "$4,736.64",
-            "$4,716.64"
+            "Three",
+            "Four",
+            "Five",
+            "Six",
+            "Seven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage was spot gold down on Monday (April 13, 2026)?",
-        "a": "0.4%",
+        "q": "How many distinct legal entities were named as defendants in the NAACP's lawsuit concerning the gas turbine operations in Mississippi?",
+        "a": "Two",
         "options": [
-            "0.4%",
-            "0.8%",
-            "1.0%",
-            "0.5%",
-            "0.3%"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the lowest spot gold price hit earlier on Monday (April 13, 2026)?",
-        "a": "$4,643",
+        "q": "How many categories of items were explicitly mentioned as driving the sharp spike in wholesale price inflation in March?",
+        "a": "Three",
         "options": [
-            "$4,643",
-            "$4,726.64",
-            "$4,748.70",
-            "$4,633",
-            "$4,653"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the price for U.S. gold futures for June delivery on Monday (April 13, 2026)?",
-        "a": "$4,748.70",
+        "q": "How many distinct legal organizations represented the NAACP in its lawsuit against xAI and MZX Tech?",
+        "a": "Two",
         "options": [
-            "$4,748.70",
-            "$4,726.64",
-            "$4,643",
-            "$4,758.70",
-            "$4,738.70"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did U.S. gold futures for June delivery fall on Monday (April 13, 2026)?",
-        "a": "0.8%",
+        "q": "How many key aspects of financing for the Hyderabad Metro acquisition were mentioned as remaining unclear?",
+        "a": "Three",
         "options": [
-            "0.8%",
-            "0.4%",
-            "1.2%",
-            "0.7%",
-            "0.9%"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much in Rupee arbitrage trades did the RBI effectively force banks to unwind?",
-        "a": "Up to $40 billion",
+        "q": "If the Telangana government's proposed total transaction for HMR Phase I was \u20b915,000-crore and the equity payout was \u20b92,000-crore, approximately what percentage of the total is the equity payout?",
+        "a": "13.33%",
         "options": [
-            "Up to $40 billion",
-            "Up to $30 billion",
-            "Up to $50 billion",
-            "Exactly $40 billion",
-            "Over $40 billion"
+            "10.50%",
+            "11.75%",
+            "13.33%",
+            "14.50%",
+            "15.00%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Over what period did India receive the highest number of regressive tax recommendations from the IMF, according to Oxfam's analysis?",
-        "a": "Between 2022 and 2024",
+        "q": "The WPI-based inflation rose from 2.13% in the previous month to 3.88% in March. What was the absolute percentage increase?",
+        "a": "1.75%",
         "options": [
-            "Between 2022 and 2024",
-            "Between 2021 and 2023",
-            "Between 2020 and 2022",
-            "Between 2023 and 2025",
-            "Between 2019 and 2021"
+            "1.50%",
+            "1.65%",
+            "1.75%",
+            "1.80%",
+            "1.90%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which actor, known for signing the open letter against the Paramount-Warner Bros. Discovery deal, is mentioned in the news text?",
-        "a": "Joaquin Phoenix",
+        "q": "What is the absolute difference in WPI-based inflation between March (3.88%) and March last year (2.25%)?",
+        "a": "1.63%",
         "options": [
-            "Joaquin Phoenix",
-            "Leonardo DiCaprio",
-            "Brad Pitt",
-            "Tom Hanks",
-            "George Clooney"
+            "1.50%",
+            "1.55%",
+            "1.63%",
+            "1.70%",
+            "1.75%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which of the following high-profile names signed the open letter opposing the proposed Paramount Global and Warner Bros. Discovery deal?",
-        "a": "Ben Stiller",
+        "q": "If Amazon offered $90 per share for Globalstar, with a market value of $9 billion, how many shares would Globalstar theoretically have?",
+        "a": "100 million",
         "options": [
-            "Ben Stiller",
-            "Will Ferrell",
-            "Adam Sandler",
-            "Steve Carell",
-            "Kevin Hart"
+            "90 million",
+            "95 million",
+            "100 million",
+            "105 million",
+            "110 million"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Kristen Stewart signed an open letter voicing opposition to which proposed corporate deal?",
-        "a": "Paramount Global and Warner Bros. Discovery",
+        "q": "How many major categories of hurdles are mentioned facing the Telangana government's loan attempt for HMR acquisition?",
+        "a": "Three",
         "options": [
-            "Paramount Global and Warner Bros. Discovery",
-            "Disney and Netflix",
-            "Sony Pictures and Universal Studios",
-            "Amazon Studios and Apple TV+",
-            "Fox and CBS"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which company is proposed to acquire Warner Bros. Discovery in the deal mentioned in the news?",
-        "a": "Paramount Global",
+        "q": "How many distinct entities were explicitly mentioned as parties involved in the Telangana government's loan discussions for Hyderabad Metro Rail?",
+        "a": "Three",
         "options": [
-            "Paramount Global",
-            "Sony Pictures",
-            "Netflix",
-            "Amazon Studios",
-            "Apple TV+"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which company is Warner Bros. Discovery proposed to be acquired by?",
-        "a": "Paramount Global",
+        "q": "The WPI-based inflation increased by how many basis points from the previous month (2.13%) to March (3.88%)? (100 basis points = 1%)",
+        "a": "175",
         "options": [
-            "Paramount Global",
-            "Disney",
-            "Universal Studios",
-            "Lionsgate",
-            "MGM"
+            "150",
+            "160",
+            "175",
+            "180",
+            "190"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is mentioned as a Senior Content Producer at Livemint, covering entertainment news?",
-        "a": "Trisha Bhattacharya",
+        "q": "The Colossus 2 data centre, implicated in the lawsuit, powers which chatbot developed by xAI?",
+        "a": "Grok",
         "options": [
-            "Trisha Bhattacharya",
-            "Anjali Sharma",
-            "Priya Singh",
-            "Neha Gupta",
-            "Rina Kapoor"
+            "ChatGPT",
+            "Bard",
+            "Grok",
+            "Copilot",
+            "Claude"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Prior to joining Livemint, Trisha Bhattacharya worked as an entertainment journalist and film critic for which organization?",
-        "a": "India Today",
+        "q": "Which U.S. civil rights group sued xAI and its subsidiary MZX Tech?",
+        "a": "NAACP",
         "options": [
-            "India Today",
-            "The Times of India",
-            "Hindustan Times",
-            "The Hindu",
-            "NDTV"
+            "ACLU",
+            "SCLC",
+            "NAACP",
+            "Urban League",
+            "Human Rights Campaign"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which three international agencies established a coordination group for a joint response to the energy and economic impacts of the West Asia war?",
-        "a": "IMF, World Bank, and International Energy Agency",
+        "q": "Which companies were sued by NAACP for allegedly violating the federal Clean Air Act in Mississippi?",
+        "a": "xAI and MZX Tech",
         "options": [
-            "IMF, World Bank, and International Energy Agency",
-            "United Nations, WTO, and UNESCO",
-            "G7, G20, and BRICS",
-            "WHO, UNICEF, and UNHCR",
-            "OECD, OPEC, and NATO"
+            "SpaceX and Tesla",
+            "xAI and OpenAI",
+            "xAI and MZX Tech",
+            "Google and Amazon",
+            "Microsoft and Meta"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who is the current World Bank President, sounding the alarm about a looming global job crisis?",
-        "a": "Ajay Banga",
+        "q": "Which company did Amazon sign a deal to buy to expand its space-based internet network?",
+        "a": "Globalstar",
         "options": [
-            "Ajay Banga",
-            "Kristalina Georgieva",
-            "David Malpass",
-            "Christine Lagarde",
-            "Jim Yong Kim"
+            "SpaceX",
+            "OneWeb",
+            "Viasat",
+            "Globalstar",
+            "Eutelsat"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Which Indian institution is scrutinizing methods large banks used to unwind Rupee arbitrage positions?",
+        "q": "Who is the VTuber who made a statement following a viral trampoline video, explaining her health condition?",
+        "a": "Ironmouse",
+        "options": [
+            "Pekora",
+            "Gura",
+            "Ironmouse",
+            "Rushia",
+            "Fubuki"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Who was seen holding an iPad with the Ironmouse character during the viral trampoline dance video?",
+        "a": "CDawgVA",
+        "options": [
+            "Ludwig",
+            "Valkyrae",
+            "CDawgVA",
+            "Sykkuno",
+            "xQc"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which state government is attempting to secure a substantial loan from IRFC to acquire Hyderabad Metro Rail Phase I?",
+        "a": "Telangana",
+        "options": [
+            "Andhra Pradesh",
+            "Karnataka",
+            "Tamil Nadu",
+            "Kerala",
+            "Telangana"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "From which corporation is the Telangana government attempting to secure a loan for the Hyderabad Metro Rail acquisition?",
+        "a": "Indian Railway Finance Corporation (IRFC)",
+        "options": [
+            "Life Insurance Corporation of India (LIC)",
+            "Housing Development Finance Corporation (HDFC)",
+            "Indian Railway Finance Corporation (IRFC)",
+            "State Bank of India (SBI)",
+            "Reserve Bank of India (RBI)"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which company currently owns Hyderabad Metro Rail Phase I, which the Telangana government seeks to acquire?",
+        "a": "L&T Metro Rail Hyderabad (L&TMRH)",
+        "options": [
+            "Reliance Infra",
+            "GMR Group",
+            "Adani Ports",
+            "L&T Metro Rail Hyderabad (L&TMRH)",
+            "Tata Projects"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which competitor's space-based internet network is Amazon's expansion aimed at competing with?",
+        "a": "Elon Musk's Starlink",
+        "options": [
+            "Jeff Bezos' Blue Origin",
+            "Richard Branson's Virgin Galactic",
+            "Elon Musk's Starlink",
+            "Bill Gates' TerraPower",
+            "Larry Ellison's Oracle"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which company developed the Grok chatbot, which is powered by the Colossus 2 data centre?",
+        "a": "xAI",
+        "options": [
+            "OpenAI",
+            "Google",
+            "Meta",
+            "xAI",
+            "Anthropic"
+        ],
+        "cat": "Who (Kisne)"
+    },
+    {
+        "q": "Which financial institution is mentioned as a hurdle due to its borrowing norms in the Telangana government's loan discussions?",
         "a": "Reserve Bank of India (RBI)",
         "options": [
-            "Reserve Bank of India (RBI)",
-            "Securities and Exchange Board of India (SEBI)",
-            "Ministry of Finance",
-            "State Bank of India (SBI)",
-            "National Payments Corporation of India (NPCI)"
+            "SEBI",
+            "IRDAI",
+            "PFRDA",
+            "RBI",
+            "NABARD"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "According to an analysis by which organization, did India receive the highest number of regressive tax recommendations from the IMF between 2022 and 2024?",
-        "a": "Oxfam",
+        "q": "Which media organization published the report mentioned in the news that flagged the Amazon-Globalstar deal?",
+        "a": "Financial Times",
         "options": [
-            "Oxfam",
-            "Amnesty International",
-            "Human Rights Watch",
-            "Transparency International",
-            "World Economic Forum"
+            "Wall Street Journal",
+            "Bloomberg",
+            "Reuters",
+            "Financial Times",
+            "The New York Times"
         ],
-        "cat": "Who"
+        "cat": "Who (Kisne)"
     },
     {
-        "q": "Who is the former Chief Minister and Leader of the Opposition mentioned as touring grain markets due to farmer distress?",
-        "a": "Bhupinder Singh Hooda",
+        "q": "In which U.S. state did xAI and its subsidiary illegally operate gas turbines for their data centre?",
+        "a": "Mississippi",
         "options": [
-            "Bhupinder Singh Hooda",
-            "Manohar Lal Khattar",
-            "Dushyant Chautala",
-            "Om Prakash Chautala",
-            "Deepender Singh Hooda"
+            "Alabama",
+            "Louisiana",
+            "Mississippi",
+            "Georgia",
+            "Arkansas"
         ],
-        "cat": "Who"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "Which two Justices formed the Supreme Court Bench that expressed shock at sand mining in the Chambal sanctuary zone?",
-        "a": "Justices Vikram Nath and Sandeep Mehta",
+        "q": "Which city's Metro Rail Phase I is the Telangana government attempting to acquire?",
+        "a": "Hyderabad",
         "options": [
-            "Justices Vikram Nath and Sandeep Mehta",
-            "Justices D.Y. Chandrachud and Sanjiv Khanna",
-            "Justices Hima Kohli and B.V. Nagarathna",
-            "Justices K.M. Joseph and Ajay Rastogi",
-            "Justices M.R. Shah and Krishna Murari"
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad",
+            "Mumbai",
+            "Delhi"
         ],
-        "cat": "Who"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "The Supreme Court Bench considering the plea for biometric voting mechanisms was headed by which Chief Justice of India?",
-        "a": "Surya Kant",
+        "q": "The WPI-based inflation increase in March was driven by a crisis in which geographic region?",
+        "a": "West Asia",
         "options": [
-            "Surya Kant",
-            "D.Y. Chandrachud",
-            "U.U. Lalit",
-            "N.V. Ramana",
-            "Sharad Arvind Bobde"
+            "East Africa",
+            "Southeast Asia",
+            "West Asia",
+            "Central Europe",
+            "North America"
         ],
-        "cat": "Who"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "From which university did Trisha Bhattacharya obtain her Master's degree in English Literature?",
-        "a": "Lucknow University",
+        "q": "On which social media platform did VTuber Ironmouse respond to criticism and explain her health condition?",
+        "a": "X",
         "options": [
-            "Lucknow University",
-            "Delhi University",
-            "Mumbai University",
-            "Jawaharlal Nehru University",
-            "Calcutta University"
+            "Facebook",
+            "Instagram",
+            "YouTube",
+            "TikTok",
+            "X"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "Where did the Heads of the International Energy Agency, International Monetary Fund, and the World Bank Group meet earlier this month?",
-        "a": "Washington",
+        "q": "The federal Clean Air Act, which xAI was accused of violating, is a law of which country?",
+        "a": "U.S.",
         "options": [
-            "Washington",
-            "New York",
-            "London",
-            "Geneva",
-            "Paris"
+            "Canada",
+            "U.S.",
+            "Mexico",
+            "UK",
+            "Germany"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "The Oxfam analysis on IMF tax recommendations was released ahead of the IMF and World Bank spring meetings in which city?",
-        "a": "Washington",
+        "q": "The Indian Railway Finance Corporation (IRFC) primarily focuses on financing the railways of which country?",
+        "a": "India",
         "options": [
-            "Washington",
-            "Davos",
-            "Singapore",
-            "Tokyo",
-            "Berlin"
+            "China",
+            "Japan",
+            "India",
+            "Russia",
+            "Brazil"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "Which grain market did Bhupinder Singh Hooda visit on Monday (April 13, 2026)?",
-        "a": "Sohna grain market",
+        "q": "The Reserve Bank of India (RBI), whose borrowing norms are mentioned, is the central bank of which country?",
+        "a": "India",
         "options": [
-            "Sohna grain market",
-            "Panipat grain market",
-            "Karnal grain market",
-            "Ambala grain market",
-            "Rohtak grain market"
+            "Sri Lanka",
+            "Pakistan",
+            "Bangladesh",
+            "India",
+            "Nepal"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "The Supreme Court expressed shock at sand miners operating in which fragile sanctuary zone?",
-        "a": "Chambal sanctuary zone",
+        "q": "Which country's telecoms satellite group, Globalstar, did Amazon agree to acquire?",
+        "a": "U.S.",
         "options": [
-            "Chambal sanctuary zone",
-            "Ranthambore National Park",
-            "Bandhavgarh National Park",
-            "Kanha National Park",
-            "Sariska Tiger Reserve"
+            "Canada",
+            "U.S.",
+            "UK",
+            "France",
+            "Germany"
         ],
-        "cat": "Where"
+        "cat": "Where (Kha)"
     },
     {
-        "q": "In which state did sand miners kill a forest guard in the Chambal sanctuary zone?",
-        "a": "Madhya Pradesh",
+        "q": "On what specific date was the government data on wholesale price inflation (WPI) released, according to the news?",
+        "a": "Wednesday (April 15, 2026)",
         "options": [
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Gujarat",
-            "Bihar"
+            "Monday, April 10, 2026",
+            "Tuesday, April 12, 2026",
+            "Wednesday, April 15, 2026",
+            "Thursday, April 18, 2026",
+            "Friday, April 20, 2026"
         ],
-        "cat": "Where"
+        "cat": "When (Kab)"
     },
     {
-        "q": "The bridge whose pillars' foundation was dug by sand miners in the Chambal area connects Madhya Pradesh to which other state?",
-        "a": "Rajasthan",
+        "q": "Wholesale price inflation rose for the fifth straight month, ending in which calendar month?",
+        "a": "March",
         "options": [
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Gujarat",
-            "Maharashtra",
-            "Chhattisgarh"
+            "January",
+            "February",
+            "March",
+            "April",
+            "May"
         ],
-        "cat": "Where"
+        "cat": "When (Kab)"
     },
     {
-        "q": "The plea for biometric identification mechanisms aims for implementation at which locations?",
-        "a": "Polling stations",
+        "q": "The government data on wholesale price inflation for March was shown on which day of the week?",
+        "a": "Wednesday",
         "options": [
-            "Polling stations",
-            "Government offices",
-            "Banks",
-            "Airports",
-            "Railway stations"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
         ],
-        "cat": "Where"
+        "cat": "When (Kab)"
     },
     {
-        "q": "The debate over the proposed Paramount-Warner Bros. deal has triggered discussion across which prominent entertainment industry hub?",
-        "a": "Hollywood",
+        "q": "The news stated the wholesale price inflation data was shown on April 15 of a particular year. Which year was it?",
+        "a": "2026",
         "options": [
-            "Hollywood",
-            "Bollywood",
-            "Tollywood",
-            "Nollywood",
-            "Cinecitt\u00e0"
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028"
         ],
-        "cat": "Where"
+        "cat": "When (Kab)"
     },
     {
-        "q": "Government data on retail inflation for March was released on which day?",
-        "a": "Monday (April 13, 2026)",
+        "q": "The WPI-based inflation was recorded at 2.25% in which month of the previous year?",
+        "a": "March",
         "options": [
-            "Monday (April 13, 2026)",
-            "Friday (April 10, 2026)",
-            "Tuesday (April 14, 2026)",
-            "Saturday (April 11, 2026)",
-            "Sunday (April 12, 2026)"
+            "January",
+            "February",
+            "March",
+            "April",
+            "May"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "Gold prices touched their lowest since which date earlier on Monday (April 13, 2026)?",
-        "a": "April 7",
+        "q": "The Financial Times report flagging the Amazon-Globalstar deal was published in 'this month' relative to the news article. Considering the inflation data's date, which month is implied?",
+        "a": "April",
         "options": [
-            "April 7",
-            "April 1",
-            "March 31",
-            "April 10",
-            "March 25"
+            "January",
+            "February",
+            "March",
+            "April",
+            "May"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "When did the RBI effectively force banks to unwind Rupee arbitrage trades?",
-        "a": "In late March and early April",
+        "q": "The news about the NAACP lawsuit against xAI and its subsidiary was reported on which day of the week?",
+        "a": "Tuesday",
         "options": [
-            "In late March and early April",
-            "In early March",
-            "In late February",
-            "In mid-April",
-            "In late April"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
         ],
-        "cat": "When"
+        "cat": "When (Kab)"
     },
     {
-        "q": "On which day did Bhupinder Singh Hooda visit the Sohna grain market?",
-        "a": "Monday (April 13, 2026)",
+        "q": "Why did the NAACP sue xAI and MZX Tech?",
+        "a": "Illegally operating gas turbines without necessary air permits, posing health risks.",
         "options": [
-            "Monday (April 13, 2026)",
-            "Tuesday (April 14, 2026)",
-            "Sunday (April 12, 2026)",
-            "Wednesday (April 15, 2026)",
-            "Thursday (April 16, 2026)"
+            "Violation of data privacy laws",
+            "Monopoly practices",
+            "Illegally operating gas turbines without necessary air permits, posing health risks",
+            "Unfair labor practices",
+            "Environmental pollution from data center waste"
         ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "On which day did the Supreme Court express shock at sand miners operating in the Chambal sanctuary zone?",
-        "a": "Monday (April 13, 2026)",
+        "q": "What was the primary reason cited for the sharp spike in wholesale price inflation in March?",
+        "a": "Sharp spike in fuel, power, and manufactured items rates amid the West Asia crisis.",
         "options": [
-            "Monday (April 13, 2026)",
-            "Tuesday (April 14, 2026)",
-            "Wednesday (April 15, 2026)",
-            "Thursday (April 16, 2026)",
-            "Friday (April 17, 2026)"
+            "Global pandemic",
+            "Supply chain disruption in East Asia",
+            "Sharp spike in fuel, power, and manufactured items rates amid the West Asia crisis",
+            "Decreased consumer demand",
+            "Increased agricultural output"
         ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "On which day did the Supreme Court seek responses on a plea for biometric voting mechanisms?",
-        "a": "Monday (April 13, 2026)",
+        "q": "What is Amazon's stated purpose for acquiring the U.S. telecoms satellite group Globalstar?",
+        "a": "To expand its own space-based internet network and compete with Elon Musk's Starlink.",
         "options": [
-            "Monday (April 13, 2026)",
-            "Tuesday (April 14, 2026)",
-            "Wednesday (April 15, 2026)",
-            "Thursday (April 16, 2026)",
-            "Friday (April 17, 2026)"
+            "To acquire intellectual property for AI",
+            "To diversify into satellite manufacturing",
+            "To expand its own space-based internet network and compete with Elon Musk's Starlink",
+            "To improve last-mile delivery services",
+            "To gain market share in e-commerce"
         ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "The coordination group involving the IMF, World Bank, and IEA was established earlier in which month for a joint response to the Middle East war impacts?",
-        "a": "This month",
+        "q": "What health condition does VTuber Ironmouse live with, which affects her immune system and keeps her mostly homebound?",
+        "a": "Common variable immune deficiency (CVID)",
         "options": [
-            "This month",
-            "Last month",
-            "Two months ago",
-            "Six months ago",
-            "Last year"
+            "Asthma",
+            "Diabetes",
+            "Common variable immune deficiency (CVID)",
+            "Crohn's disease",
+            "Lupus"
         ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "Expectations for Federal Reserve interest rate cuts are dampened for which period?",
-        "a": "This year",
+        "q": "What was Ironmouse's primary motivation for speaking out on X after the viral trampoline video?",
+        "a": "To educate people about primary immune deficiency and CVID and raise awareness about invisible illnesses.",
         "options": [
-            "This year",
-            "Next year",
-            "Next quarter",
-            "Next month",
-            "The current quarter"
+            "To address criticism about her content",
+            "To promote her new merchandise",
+            "To educate people about primary immune deficiency and CVID and raise awareness about invisible illnesses",
+            "To announce a collaboration",
+            "To explain the technical aspects of VTubing"
         ],
-        "cat": "When"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What was the primary purpose of the open letter signed by over 1,000 film and television professionals?",
-        "a": "Voicing opposition to a proposed deal between Paramount Global and Warner Bros. Discovery",
+        "q": "What was the significance of the trampoline moment for Ironmouse, given her health condition?",
+        "a": "It was a rare way she could 'experience' an outdoor activity with help from technology and friends, making her feel included.",
         "options": [
-            "Voicing opposition to a proposed deal between Paramount Global and Warner Bros. Discovery",
-            "Advocating for higher salaries in the entertainment industry",
-            "Promoting independent film productions",
-            "Demanding better representation for minorities",
-            "Calling for stricter censorship laws"
+            "It was a training exercise",
+            "It was a public stunt for charity",
+            "It was a rare way she could 'experience' an outdoor activity with help from technology and friends, making her feel included",
+            "It was a test of new virtual reality technology",
+            "It was an advertisement for a new game"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What is one of the key concerns raised by signatories regarding further consolidation in the entertainment sector?",
-        "a": "Reduce competition and limit opportunities for creative work",
+        "q": "What is the core purpose of the Telangana government's proposed \u20b915,000-crore transaction?",
+        "a": "To acquire the 69.2-km Hyderabad Metro Rail (HMR) Phase I from L&T Metro Rail Hyderabad (L&TMRH).",
         "options": [
-            "Reduce competition and limit opportunities for creative work",
-            "Increase ticket prices for consumers",
-            "Expand global reach of Hollywood films",
-            "Introduce new streaming platforms",
-            "Promote international collaborations"
+            "To fund a new airport",
+            "To build a new stadium",
+            "To acquire the 69.2-km Hyderabad Metro Rail (HMR) Phase I from L&T Metro Rail Hyderabad (L&TMRH)",
+            "To invest in renewable energy projects",
+            "To develop a new IT corridor"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "According to IMF, World Bank, and IEA, why may fuel and fertilizer prices remain high?",
-        "a": "Uncertainty due to the war in West Asia",
+        "q": "The Telangana government's loan proposal for Hyderabad Metro Rail acquisition faces hurdles related to which specific financial aspects?",
+        "a": "Nature of sovereign guarantees, compliance with RBI borrowing norms, and willingness of stakeholders to segregate equity and debt.",
         "options": [
-            "Uncertainty due to the war in West Asia",
-            "Increased global demand",
-            "Supply chain disruptions from COVID-19",
-            "Environmental regulations",
-            "Fluctuations in currency exchange rates"
+            "Lack of funding from international banks",
+            "Dispute over land acquisition",
+            "Nature of sovereign guarantees, compliance with RBI borrowing norms, and willingness of stakeholders to segregate equity and debt",
+            "Technical feasibility of the metro expansion",
+            "Political instability in the state"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "What was the main reason for the marginal uptick in retail inflation in March?",
-        "a": "Uptick in certain food items amid the West Asia crisis",
+        "q": "Why did some online viewers initially mock the viral CDawg trampoline clip?",
+        "a": "Without understanding Ironmouse's health condition and the context of the situation.",
         "options": [
-            "Uptick in certain food items amid the West Asia crisis",
-            "Increase in fuel prices",
-            "Higher housing costs",
-            "Rise in transportation expenses",
-            "Broader economic growth"
+            "They found the content unoriginal",
+            "They believed the video was a prank",
+            "Without understanding Ironmouse's health condition and the context of the situation",
+            "They were critical of the video quality",
+            "They thought it was inappropriate for a VTuber"
         ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     },
     {
-        "q": "World Bank President Ajay Banga is sounding the alarm about a 'bigger, looming crisis.' What is this crisis related to?",
-        "a": "A huge gap in jobs for the working-age population in developing countries",
+        "q": "According to Ironmouse, why did she feel the trampoline moment was meaningful rather than 'cringe'?",
+        "a": "It made her feel included in life outside her home as it simulated an outdoor activity.",
         "options": [
-            "A huge gap in jobs for the working-age population in developing countries",
-            "Global climate change",
-            "Increasing national debts",
-            "Food security issues",
-            "Water scarcity"
+            "It generated significant revenue for her streaming channel",
+            "It was a successful demonstration of new virtual reality technology",
+            "It made her feel included in life outside her home as it simulated an outdoor activity",
+            "It broke a world record for virtual interaction",
+            "It promoted a new fitness trend for disabled individuals"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why is the RBI scrutinizing banks' methods to unwind Rupee arbitrage positions?",
-        "a": "Concerns the trades may have breached regulations and impeded currency stabilization efforts",
-        "options": [
-            "Concerns the trades may have breached regulations and impeded currency stabilization efforts",
-            "To encourage more arbitrage trading",
-            "To promote foreign fund inflows",
-            "To reduce interest rates",
-            "To increase liquidity in the market"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What were the reasons cited for the Rupee teetering at record lows, prompting RBI action?",
-        "a": "Iran war and foreign fund outflows",
-        "options": [
-            "Iran war and foreign fund outflows",
-            "High inflation and domestic demand",
-            "Strong dollar and interest rate hikes",
-            "Trade surplus and government spending",
-            "Political instability and commodity price drops"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Oxfam flagged that the IMF is applying 'double standard' by giving what kind of advice to wealthy countries?",
-        "a": "Largely progressive advice",
-        "options": [
-            "Largely progressive advice",
-            "Largely regressive advice",
-            "Neutral economic advice",
-            "Short-term stimulus advice",
-            "Austerity measures advice"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the plea to the Supreme Court seeking to implement a finger and iris biometric identification mechanism at polling stations intended to prevent?",
-        "a": "Duplicate voting",
-        "options": [
-            "Duplicate voting",
-            "Voter intimidation",
-            "Electronic voting machine tampering",
-            "Low voter turnout",
-            "Campaign violations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Bhupinder Singh Hooda, what is a primary reason for the continuous distress faced by farmers in grain markets?",
-        "a": "Online portal is non-functional, hindering procurement and payments",
-        "options": [
-            "Online portal is non-functional, hindering procurement and payments",
-            "Lack of government subsidies",
-            "Excessive crop yield",
-            "Shortage of storage facilities",
-            "High transportation costs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court stated that the lack of action against sand miners revealed what about the Madhya Pradesh government?",
-        "a": "Its failure or connivance in the criminal activities",
-        "options": [
-            "Its failure or connivance in the criminal activities",
-            "Its commitment to environmental protection",
-            "Its efforts to boost local economy",
-            "Its strict enforcement of mining laws",
-            "Its successful collaboration with the judiciary"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What fueled inflation worries and dampened expectations for Federal Reserve interest rate cuts this year?",
-        "a": "Surge in oil prices following failed U.S.-Iran peace talks",
-        "options": [
-            "Surge in oil prices following failed U.S.-Iran peace talks",
-            "A stronger dollar",
-            "Gold price drops",
-            "High unemployment rates",
-            "Decreased consumer spending"
-        ],
-        "cat": "Why"
+        "cat": "Why (Kyo)"
     }
 ]
