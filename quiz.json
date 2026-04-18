@@ -1,547 +1,607 @@
 [
     {
-        "q": "What was the year-over-year rise in consumer prices reported in March?",
-        "a": "3.3%",
+        "q": "What was the total amount of transient liquidity pulled out by the RBI from the banking system?",
+        "a": "\u20b92,00,031 crore",
         "options": [
-            "3.1%",
-            "3.2%",
-            "3.3%",
-            "3.4%",
-            "3.5%"
+            "\u20b92,00,030 crore",
+            "\u20b92,00,031 crore",
+            "\u20b92,00,041 crore",
+            "\u20b92,00,021 crore",
+            "\u20b92,00,035 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many times did the Fed cut interest rates last year?",
-        "a": "Three",
+        "q": "On which date did the Reserve Bank of India pull out transient liquidity from the banking system?",
+        "a": "April 17, 2026",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "From how many rate cuts did Federal Reserve Governor Stephen Miran trim his projection to potentially three for the year?",
-        "a": "Four",
-        "options": [
-            "Two",
-            "Three",
-            "Four",
-            "Five",
-            "Six"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many people were reported killed in the Russian attack on Ukraine, according to President Zelensky?",
-        "a": "17",
-        "options": [
-            "15",
-            "16",
-            "17",
-            "18",
-            "19"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In the recent attack, Ukraine\u2019s air defence said Russia launched in excess of how many ballistic and cruise missiles?",
-        "a": "40",
-        "options": [
-            "30",
-            "35",
-            "40",
-            "45",
-            "50"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many drones of various types did Ukraine\u2019s air defence report Russia launched in the attack?",
-        "a": "650",
-        "options": [
-            "600",
-            "625",
-            "650",
-            "675",
-            "700"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many MPs voted in favour of the Labour's backing for fresh authority on private pensions?",
-        "a": "276",
-        "options": [
-            "155",
-            "276",
-            "300",
-            "250",
-            "320"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many large pension firms agreed on shared targets in the Mansion House Accord?",
-        "a": "17",
-        "options": [
-            "10",
-            "12",
-            "15",
-            "17",
-            "20"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of holdings is the cap for forced placements under the revised UK Pension Schemes Bill?",
-        "a": "10%",
-        "options": [
-            "5%",
-            "8%",
-            "10%",
-            "12%",
-            "15%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For how many years does Sebi allow not-for-profit organisations on the Social Stock Exchange to be enrolled as NPOs without raising funds?",
-        "a": "Three years",
-        "options": [
-            "One year",
-            "Two years",
-            "Three years",
-            "Four years",
-            "Five years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "As of April 11, how many appeals were filed in the West Bengal Special Intensive Revision under the \u201clogical discrepancy\u201d category?",
-        "a": "Over 34 lakh",
-        "options": [
-            "Over 20 lakh",
-            "Over 25 lakh",
-            "Over 30 lakh",
-            "Over 34 lakh",
-            "Over 40 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What fraction of the capped forced placements under the UK Pension Schemes Bill is intended for homegrown ventures?",
-        "a": "Half",
-        "options": [
-            "One-quarter",
-            "One-third",
-            "Half",
-            "Two-thirds",
-            "Three-quarters"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Federal Reserve Governor mentioned as reconsidering his rate cut outlook?",
-        "a": "Stephen Miran",
-        "options": [
-            "Scott Bessent",
-            "Jerome Powell",
-            "Stephen Miran",
-            "Kevin Warsh",
-            "Donald Trump"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Treasury Secretary mentioned as taking a slight turn from his earlier stance on monetary policy?",
-        "a": "Scott Bessent",
-        "options": [
-            "Stephen Miran",
-            "Jerome Powell",
-            "Scott Bessent",
-            "Kevin Warsh",
-            "Donald Trump"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Fed Chair repeatedly called upon by President Trump to lower borrowing costs?",
-        "a": "Jerome Powell",
-        "options": [
-            "Stephen Miran",
-            "Scott Bessent",
-            "Kevin Warsh",
-            "Jerome Powell",
-            "Janet Yellen"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is President Donald Trump's pick to helm the Fed for the next rate cycle?",
-        "a": "Kevin Warsh",
-        "options": [
-            "Stephen Miran",
-            "Scott Bessent",
-            "Jerome Powell",
-            "Kevin Warsh",
-            "Paul Volcker"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the North Carolina Republican Senator whose vote the party needs to advance the Fed nominee's confirmation, but refuses to support it?",
-        "a": "Thom Tillis",
-        "options": [
-            "Mitch McConnell",
-            "Lindsey Graham",
-            "Thom Tillis",
-            "Ted Cruz",
-            "Marco Rubio"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the former World Bank top official and professor at Waseda Business School who stated India is in a better position to absorb shocks from the West Asia war?",
-        "a": "Keiko Honda",
-        "options": [
-            "Christine Lagarde",
-            "Janet Yellen",
-            "Keiko Honda",
-            "Kristalina Georgieva",
-            "Gita Gopinath"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Justice of India (CJI) who headed the Bench that did not interfere with the Bombay High Court verdict regarding Anil Ambani?",
-        "a": "Surya Kant",
-        "options": [
-            "D.Y. Chandrachud",
-            "U.U. Lalit",
-            "Surya Kant",
-            "N.V. Ramana",
-            "Ranjan Gogoi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the founder of Anil Dhirubhai Ambani Group (ADAG) against whom fraud classification proceedings are set to continue?",
-        "a": "Anil Ambani",
-        "options": [
-            "Mukesh Ambani",
-            "Tina Ambani",
-            "Anil Ambani",
-            "Dhirubhai Ambani",
-            "Kokilaben Ambani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Ukrainian President who told reporters during a visit to the Netherlands about the death toll from recent Russian attacks?",
-        "a": "Volodymyr Zelensky",
-        "options": [
-            "Vladimir Putin",
-            "Petro Poroshenko",
-            "Volodymyr Zelensky",
-            "Viktor Yanukovych",
-            "Dmytro Kuleba"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which MP pointed out how people expect their savings plans to protect them, not serve politics, during the UK Pension Schemes Bill debate?",
-        "a": "Helen Whately",
-        "options": [
-            "Sir Mel Stride",
-            "Baroness Ros Altmann",
-            "Helen Whately",
-            "Keir Starmer",
-            "Rishi Sunak"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Baroness mentioned in the House of Lords debate who stated many still oppose the pension plan and had once overseen pensions herself?",
-        "a": "Baroness Ros Altmann",
-        "options": [
-            "Helen Whately",
-            "Sir Mel Stride",
-            "Baroness Ros Altmann",
-            "Theresa May",
-            "Liz Truss"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the markets regulator that extended the registration validity for not-for-profit organisations on the Social Stock Exchange?",
-        "a": "Sebi",
-        "options": [
-            "RBI",
-            "IRDAI",
-            "PFRDA",
-            "Sebi",
-            "NABARD"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which city did Federal Reserve Governor Stephen Miran speak at an economic forum?",
-        "a": "Washington, D.C.",
-        "options": [
-            "New York",
-            "Chicago",
-            "Boston",
-            "Washington, D.C.",
-            "Los Angeles"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where is Kevin Warsh scheduled for a confirmation hearing before the Senate Banking Committee?",
-        "a": "Senate",
-        "options": [
-            "House of Representatives",
-            "Supreme Court",
-            "Senate",
-            "White House",
-            "Department of Treasury"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which region is the ongoing war that casts long shadows over global energy markets and growth forecasts, according to Keiko Honda?",
-        "a": "West Asia",
-        "options": [
-            "East Asia",
-            "South America",
-            "West Asia",
-            "Europe",
-            "Africa"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did India Exim Bank organize the event where Professor Honda gave an interview?",
-        "a": "Mumbai",
-        "options": [
-            "Delhi",
-            "Chennai",
-            "Kolkata",
-            "Mumbai",
-            "Bengaluru"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which High Court's verdict of February 23, 2026, opened the door for fraud classification proceedings against Anil Ambani?",
-        "a": "Bombay High Court",
-        "options": [
-            "Delhi High Court",
-            "Madras High Court",
-            "Calcutta High Court",
-            "Bombay High Court",
-            "Karnataka High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which major Ukrainian city was NOT explicitly mentioned as being hit in the Russian overnight onslaught of missiles and drones?",
-        "a": "Lviv",
-        "options": [
-            "Kyiv",
-            "Dnipro",
-            "Odesa",
-            "Lviv",
-            "Kharkiv"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which country did Ukrainian President Volodymyr Zelensky tell reporters about the death toll from the attacks?",
-        "a": "The Netherlands",
-        "options": [
-            "Poland",
-            "Germany",
-            "France",
-            "The Netherlands",
-            "UK"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which legislative body did Labour get backing from MPs for fresh authority to shape private pension investments?",
-        "a": "House of Commons",
-        "options": [
-            "House of Lords",
-            "European Parliament",
-            "Scottish Parliament",
-            "House of Commons",
-            "Welsh Assembly"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did Baroness Ros Altmann state that many still oppose the pension plan and raise concerns about government steering personal retirement money?",
-        "a": "House of Lords",
-        "options": [
-            "House of Commons",
-            "Parliament Square",
-            "Downing Street",
-            "House of Lords",
-            "Buckingham Palace"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did the alleged incidents of religious conversion and sexual harassment at a multinational company, leading to a Supreme Court plea, take place?",
-        "a": "Nashik",
-        "options": [
-            "Mumbai",
-            "Pune",
-            "Nashik",
-            "Hyderabad",
-            "Bengaluru"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which Indian state were electors purged from the voter list during a Special Intensive Revision, later cleared by Appellate Tribunals, allowed to vote by the Supreme Court?",
-        "a": "West Bengal",
-        "options": [
-            "Assam",
-            "Odisha",
-            "Bihar",
-            "West Bengal",
-            "Uttar Pradesh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Indian state's Legislative Assembly elections are mentioned in connection with biryani as a staple treat?",
-        "a": "Tamil Nadu",
-        "options": [
-            "Kerala",
-            "Andhra Pradesh",
-            "Karnataka",
-            "Tamil Nadu",
-            "Telangana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which day did Federal Reserve Governor Stephen Miran speak at an economic forum in Washington, D.C.?",
-        "a": "Thursday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "April 16, 2026",
+            "April 17, 2026",
+            "March 17, 2026",
+            "April 17, 2025",
+            "May 17, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year has the Fed held interest rates steady so far, after cutting them three times last year?",
+        "q": "Which entity conducted the seven-day variable rate reverse repo (VRRR) auction?",
+        "a": "Reserve Bank of India (RBI)",
+        "options": [
+            "Securities and Exchange Board of India (SEBI)",
+            "National Bank for Agriculture and Rural Development (NABARD)",
+            "Reserve Bank of India (RBI)",
+            "State Bank of India (SBI)",
+            "Ministry of Finance"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "From which system did the RBI pull out transient liquidity through the VRRR auction?",
+        "a": "Banking system",
+        "options": [
+            "Capital markets",
+            "Insurance sector",
+            "Banking system",
+            "Mutual funds",
+            "Government treasury"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the cut-off rate accepted by the RBI for the VRRR auction?",
+        "a": "5.24%",
+        "options": [
+            "5.23%",
+            "5.24%",
+            "5.25%",
+            "5.22%",
+            "5.26%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the duration of the variable rate reverse repo (VRRR) auction conducted by the RBI?",
+        "a": "Seven-day",
+        "options": [
+            "Six-day",
+            "Seven-day",
+            "Eight-day",
+            "Five-day",
+            "Ten-day"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the purpose of the RBI conducting a variable rate reverse repo (VRRR) auction?",
+        "a": "To pull out transient liquidity",
+        "options": [
+            "To inject liquidity",
+            "To increase lending rates",
+            "To pull out transient liquidity",
+            "To reduce inflation directly",
+            "To promote foreign investment"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the total value of bids received by the central bank in the VRRR auction?",
+        "a": "\u20b92,28,098 crore",
+        "options": [
+            "\u20b92,28,097 crore",
+            "\u20b92,28,098 crore",
+            "\u20b92,28,099 crore",
+            "\u20b92,28,100 crore",
+            "\u20b92,28,095 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the notified amount for the VRRR auction conducted by the RBI?",
+        "a": "\u20b92 lakh crore",
+        "options": [
+            "\u20b92,00,001 crore",
+            "\u20b92,00,000 crore",
+            "\u20b91,99,999 crore",
+            "\u20b92,00,005 crore",
+            "\u20b91,99,995 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the weighted average rate at which the RBI accepted bids in the VRRR auction?",
+        "a": "5.23%",
+        "options": [
+            "5.24%",
+            "5.23%",
+            "5.22%",
+            "5.25%",
+            "5.21%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The VRRR auction on April 17, 2026, was conducted by which institution?",
+        "a": "RBI",
+        "options": [
+            "NABARD",
+            "SEBI",
+            "RBI",
+            "PFRDA",
+            "IRDAI"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The liquidity was pulled from the 'banking system' to address what type of liquidity?",
+        "a": "Transient liquidity",
+        "options": [
+            "Long-term liquidity",
+            "Structural liquidity",
+            "Permanent liquidity",
+            "Transient liquidity",
+            "Excess foreign currency"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the difference between the total bids received and the notified amount in the VRRR auction?",
+        "a": "\u20b928,098 crore",
+        "options": [
+            "\u20b928,097 crore",
+            "\u20b928,098 crore",
+            "\u20b928,099 crore",
+            "\u20b928,100 crore",
+            "\u20b928,095 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the term used to describe the type of liquidity that the RBI pulled out?",
+        "a": "Transient liquidity",
+        "options": [
+            "Permanent liquidity",
+            "Excess liquidity",
+            "Transient liquidity",
+            "Structural liquidity",
+            "Core liquidity"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many days was the VRRR auction designed for?",
+        "a": "Seven",
+        "options": [
+            "Six",
+            "Seven",
+            "Eight",
+            "Five",
+            "Nine"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The auction was referred to as a 'variable rate reverse repo' auction. What does 'VRRR' stand for?",
+        "a": "Variable Rate Reverse Repo",
+        "options": [
+            "Volatile Rate Repo Reserve",
+            "Variable Return Repo Rate",
+            "Value Rated Reverse Repo",
+            "Variable Rate Reverse Repo",
+            "Verified Rate Reverse Remittance"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The cut-off rate of 5.24% was for which type of auction?",
+        "a": "VRRR auction",
+        "options": [
+            "Open Market Operations",
+            "Repo auction",
+            "Marginal Standing Facility",
+            "VRRR auction",
+            "Targeted Long-Term Repo Operations"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the precise date mentioned for the RBI's action in 2026?",
+        "a": "April 17",
+        "options": [
+            "April 16",
+            "April 17",
+            "March 17",
+            "May 17",
+            "April 18"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The RBI pulled out \u20b92,00,031 crore; this amount is best categorized as what in monetary terms?",
+        "a": "Transient liquidity",
+        "options": [
+            "Capital infusion",
+            "Foreign exchange reserves",
+            "Government expenditure",
+            "Transient liquidity",
+            "Long-term debt"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the difference between the total bids received and the amount actually pulled out by RBI?",
+        "a": "\u20b928,067 crore",
+        "options": [
+            "\u20b928,066 crore",
+            "\u20b928,067 crore",
+            "\u20b928,068 crore",
+            "\u20b928,065 crore",
+            "\u20b928,070 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which day of the week did the RBI conduct the VRRR auction?",
+        "a": "Friday",
+        "options": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Wednesday",
+            "Tuesday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the year in which the RBI conducted the VRRR auction to pull out liquidity?",
         "a": "2026",
         "options": [
-            "2023",
-            "2024",
             "2025",
             "2026",
-            "2027"
+            "2027",
+            "2024",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month did consumer prices rise 3.3% year over year?",
-        "a": "March",
+        "q": "The action of pulling out liquidity serves what general purpose for a central bank?",
+        "a": "Managing liquidity",
         "options": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May"
+            "Stimulating demand",
+            "Increasing money supply",
+            "Managing liquidity",
+            "Providing credit to businesses",
+            "Funding government deficits"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The central bank received higher bids than the notified amount. What was the notified amount in crore?",
+        "a": "\u20b92,00,000 crore",
+        "options": [
+            "\u20b91,99,990 crore",
+            "\u20b92,00,000 crore",
+            "\u20b92,00,010 crore",
+            "\u20b91,99,995 crore",
+            "\u20b92,00,005 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the primary characteristic of the reverse repo auction mentioned?",
+        "a": "Variable Rate",
+        "options": [
+            "Fixed Rate",
+            "Marginal Rate",
+            "Variable Rate",
+            "Floating Rate",
+            "Discounted Rate"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The cut-off rate for the VRRR auction was how much higher than the weighted average rate?",
+        "a": "0.01%",
+        "options": [
+            "0.00%",
+            "0.01%",
+            "0.02%",
+            "0.005%",
+            "0.015%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The central bank had received higher bids worth how much more than the amount it ultimately pulled out?",
+        "a": "\u20b928,067 crore",
+        "options": [
+            "\u20b928,065 crore",
+            "\u20b928,067 crore",
+            "\u20b928,069 crore",
+            "\u20b928,070 crore",
+            "\u20b928,060 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which specific instrument was used by the RBI to withdraw liquidity?",
+        "a": "Variable rate reverse repo (VRRR) auction",
+        "options": [
+            "Fixed rate repo auction",
+            "Open market sale of government securities",
+            "Standing Deposit Facility",
+            "Variable rate reverse repo (VRRR) auction",
+            "Cash Reserve Ratio adjustment"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The amount of \u20b92,00,031 crore was pulled through what type of auction?",
+        "a": "Seven-day VRRR auction",
+        "options": [
+            "Fourteen-day VRRR auction",
+            "Seven-day VRRR auction",
+            "Twenty-eight-day VRRR auction",
+            "Three-day VRRR auction",
+            "One-day VRRR auction"
         ],
         "cat": "When"
     },
     {
-        "q": "When is Kevin Warsh scheduled for a confirmation hearing before the Senate Banking Committee?",
-        "a": "April 21",
+        "q": "What was the total notified amount in 'lakh crore' for the VRRR auction?",
+        "a": "2 lakh crore",
+        "options": [
+            "2.00031 lakh crore",
+            "2.28098 lakh crore",
+            "2 lakh crore",
+            "1.99999 lakh crore",
+            "2.00001 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The term 'reverse repo' in VRRR implies that commercial banks are doing what with the RBI?",
+        "a": "Lending money to RBI",
+        "options": [
+            "Borrowing money from RBI",
+            "Lending money to RBI",
+            "Depositing money without earning interest",
+            "Buying government bonds from RBI",
+            "Selling government bonds to RBI"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The VRRR auction on April 17, 2026, was for how many days?",
+        "a": "7 days",
+        "options": [
+            "6 days",
+            "7 days",
+            "8 days",
+            "5 days",
+            "10 days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The bids received by RBI were higher than the notified amount. By how much did the bids exceed the notified amount in crore?",
+        "a": "\u20b928,098 crore",
+        "options": [
+            "\u20b928,097 crore",
+            "\u20b928,098 crore",
+            "\u20b928,099 crore",
+            "\u20b928,100 crore",
+            "\u20b928,095 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What type of financial instrument is a 'reverse repo'?",
+        "a": "Monetary policy instrument",
+        "options": [
+            "Fiscal policy instrument",
+            "Trade policy instrument",
+            "Monetary policy instrument",
+            "Exchange rate policy instrument",
+            "Development finance instrument"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The term 'central bank' in the news text refers to which institution in India?",
+        "a": "Reserve Bank of India",
+        "options": [
+            "State Bank of India",
+            "Ministry of Finance",
+            "Reserve Bank of India",
+            "National Payments Corporation of India",
+            "Deposit Insurance and Credit Guarantee Corporation"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The operation was aimed at managing 'transient liquidity'. What does 'transient' imply about the liquidity?",
+        "a": "Temporary and fluctuating",
+        "options": [
+            "Permanent and stable",
+            "Increasing rapidly",
+            "Temporary and fluctuating",
+            "Caused by government spending",
+            "Related to foreign capital inflows"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In the VRRR auction, the accepted bid was at a specific cut-off rate. What was this rate?",
+        "a": "5.24%",
+        "options": [
+            "5.23%",
+            "5.24%",
+            "5.25%",
+            "5.22%",
+            "5.26%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much was the weighted average rate in the VRRR auction?",
+        "a": "5.23%",
+        "options": [
+            "5.24%",
+            "5.23%",
+            "5.22%",
+            "5.25%",
+            "5.21%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The VRRR auction was conducted on a Friday in April 2026. What was the exact date?",
+        "a": "April 17",
         "options": [
             "April 10",
-            "April 15",
-            "April 21",
-            "April 25",
-            "April 30"
+            "April 17",
+            "April 24",
+            "April 3",
+            "April 14"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month was a federal judge reported to have quashed the subpoenas related to the investigation into Powell?",
-        "a": "March",
+        "q": "Where did the RBI specifically target the withdrawal of liquidity?",
+        "a": "The banking system",
         "options": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May"
+            "The corporate bond market",
+            "The foreign exchange market",
+            "The banking system",
+            "The government securities market",
+            "The retail credit market"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "In early what year did Jerome Powell serve as Fed chair \"pro tempore\" while awaiting confirmation to his second term?",
-        "a": "2022",
+        "q": "The total bids received were \u20b92,28,098 crore. This figure indicates what about the demand for parking funds with RBI?",
+        "a": "Strong demand, exceeding notified amount",
         "options": [
-            "2020",
-            "2021",
-            "2022",
-            "2023",
-            "2024"
+            "Weak demand, below notified amount",
+            "Strong demand, exceeding notified amount",
+            "Demand exactly matching notified amount",
+            "No demand for parking funds",
+            "Demand for borrowing from RBI"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "On which date does President Trump say Jerome Powell's term expires, after which he is prepared to fire him if he doesn't step down?",
-        "a": "May 15",
+        "q": "The auction was a 'variable rate' reverse repo. What does 'variable rate' mean in this context?",
+        "a": "The interest rate is determined by the auction process",
         "options": [
-            "May 1",
-            "May 10",
-            "May 15",
-            "May 20",
-            "May 25"
+            "The interest rate is fixed by RBI beforehand",
+            "The interest rate changes daily based on market conditions",
+            "The interest rate is determined by the auction process",
+            "The interest rate varies based on the participating bank's size",
+            "The interest rate is decided by the government"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "On which date did the Supreme Court find no ground to interfere with the Bombay High Court verdict regarding Anil Ambani?",
-        "a": "April 16, 2026",
+        "q": "How much less was the weighted average rate compared to the cut-off rate?",
+        "a": "0.01%",
         "options": [
-            "April 10, 2026",
-            "April 12, 2026",
+            "0.00%",
+            "0.01%",
+            "0.02%",
+            "0.005%",
+            "0.015%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The total bids received in the auction were approximately how much more than the amount pulled out?",
+        "a": "\u20b928,000 crore",
+        "options": [
+            "\u20b927,000 crore",
+            "\u20b928,000 crore",
+            "\u20b929,000 crore",
+            "\u20b930,000 crore",
+            "\u20b925,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the date of the VRRR auction as per the news text?",
+        "a": "April 17, 2026",
+        "options": [
             "April 16, 2026",
-            "April 20, 2026",
-            "April 24, 2026"
+            "April 17, 2026",
+            "April 18, 2026",
+            "April 17, 2025",
+            "April 15, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the Bombay High Court issue its verdict that opened the door for fraud classification proceedings against Anil Ambani?",
-        "a": "February 23, 2026",
+        "q": "The RBI accepted the bid at a 5.24% cut-off rate. This rate refers to what in the context of VRRR?",
+        "a": "Interest rate offered by RBI on funds parked by banks",
         "options": [
-            "February 15, 2026",
-            "February 20, 2026",
-            "February 23, 2026",
-            "February 28, 2026",
-            "March 1, 2026"
+            "Interest rate at which RBI lends to banks",
+            "Interest rate on government bonds",
+            "Interest rate offered by RBI on funds parked by banks",
+            "Inflation rate target",
+            "Repo rate"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the amount received in bids from banks, exceeding the \u20b92 lakh crore notified amount?",
+        "a": "\u20b928,098 crore",
+        "options": [
+            "\u20b928,090 crore",
+            "\u20b928,098 crore",
+            "\u20b928,100 crore",
+            "\u20b928,088 crore",
+            "\u20b928,108 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many days did the transient liquidity remain with the RBI after the auction?",
+        "a": "Seven days",
+        "options": [
+            "Six days",
+            "Seven days",
+            "Eight days",
+            "Five days",
+            "Ten days"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day did Sebi issue its circular extending registration validity for NPOs on the Social Stock Exchange?",
-        "a": "Wednesday",
+        "q": "The operation was a 'reverse repo'. This means liquidity was flowing in which direction?",
+        "a": "From commercial banks to RBI",
+        "options": [
+            "From RBI to commercial banks",
+            "From government to commercial banks",
+            "From commercial banks to RBI",
+            "From foreign investors to RBI",
+            "From RBI to government"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The central bank 'pulled out' liquidity. This action is generally considered what type of monetary policy stance?",
+        "a": "Tightening",
+        "options": [
+            "Loosening",
+            "Neutral",
+            "Expansionary",
+            "Accommodative",
+            "Tightening"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The VRRR auction took place on a specific day of the week, which was a:",
+        "a": "Friday",
         "options": [
             "Monday",
             "Tuesday",
@@ -552,171 +612,147 @@
         "cat": "When"
     },
     {
-        "q": "In which year was the Mansion House Accord, where leaders from 17 large pension firms agreed on shared targets, reached?",
-        "a": "2025",
+        "q": "The accepted amount of liquidity was \u20b92,00,031 crore. In which units was this amount expressed?",
+        "a": "Crore",
         "options": [
-            "2023",
+            "Million",
+            "Billion",
+            "Trillion",
+            "Lakh",
+            "Crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The total bids received amounted to \u20b92,28,098 crore. This is approximately what multiple of the notified amount?",
+        "a": "1.14 times",
+        "options": [
+            "1.05 times",
+            "1.14 times",
+            "1.20 times",
+            "0.90 times",
+            "1.30 times"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The RBI accepted bids at a specific cut-off rate and weighted average rate. Which one was lower?",
+        "a": "Weighted average rate",
+        "options": [
+            "Cut-off rate",
+            "Weighted average rate",
+            "They were equal",
+            "Repo rate",
+            "Marginal Standing Facility rate"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The central bank had received 'higher bids' than the notified amount. This implies what about the market's perception?",
+        "a": "Banks had surplus liquidity they wished to park with RBI",
+        "options": [
+            "Banks needed more liquidity from RBI",
+            "Banks were unwilling to participate in the auction",
+            "Banks had surplus liquidity they wished to park with RBI",
+            "RBI needed to inject more liquidity",
+            "Inflation was expected to rise significantly"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the year of the VRRR auction mentioned?",
+        "a": "2026",
+        "options": [
             "2024",
             "2025",
             "2026",
-            "2027"
+            "2027",
+            "2028"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court ordered that electors cleared by Appellate Tribunals by which date must be allowed to vote in the Assembly election?",
-        "a": "April 21 or April 27",
+        "q": "The RBI accepted \u20b92,00,031 crore. This value is slightly above the notified amount of \u20b92 lakh crore. What is the precise difference?",
+        "a": "\u20b931 crore",
         "options": [
-            "April 15 or April 20",
-            "April 18 or April 24",
-            "April 21 or April 27",
-            "April 25 or May 1",
-            "April 30 or May 5"
+            "\u20b921 crore",
+            "\u20b931 crore",
+            "\u20b941 crore",
+            "\u20b925 crore",
+            "\u20b935 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The 'variable rate' implies that the interest rate is not pre-determined but is instead a function of what?",
+        "a": "Market demand and supply in the auction",
+        "options": [
+            "The prevailing repo rate",
+            "Government bond yields",
+            "Market demand and supply in the auction",
+            "The inflation target",
+            "The external benchmark rate"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which organization is known as 'the central bank' in the Indian context?",
+        "a": "Reserve Bank of India",
+        "options": [
+            "State Bank of India",
+            "Securities and Exchange Board of India",
+            "Reserve Bank of India",
+            "National Bank for Agriculture and Rural Development",
+            "Industrial Development Bank of India"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The VRRR auction aimed to manage 'liquidity'. In which specific market segment does this operation primarily take place?",
+        "a": "Money market",
+        "options": [
+            "Capital market",
+            "Derivatives market",
+            "Commodity market",
+            "Money market",
+            "Insurance market"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The weighted average rate was 5.23%. This is a key indicator of the average cost for banks to park funds. What was the cut-off rate?",
+        "a": "5.24%",
+        "options": [
+            "5.22%",
+            "5.24%",
+            "5.25%",
+            "5.235%",
+            "5.21%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the exact day and date of the VRRR auction?",
+        "a": "Friday, April 17, 2026",
+        "options": [
+            "Thursday, April 16, 2026",
+            "Friday, April 17, 2026",
+            "Saturday, April 18, 2026",
+            "Friday, March 17, 2026",
+            "Friday, April 17, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What reason did Treasury Secretary Scott Bessent suggest for waiting to cut interest rates?",
-        "a": "Waiting for clarity on the Iran situation.",
+        "q": "The RBI notified an amount of \u20b92 lakh crore for the auction. How much was accepted by the RBI from the bids?",
+        "a": "\u20b92,00,031 crore",
         "options": [
-            "To assess economic growth",
-            "To wait for a new Fed Chair",
-            "Waiting for clarity on the Iran situation",
-            "To combat inflation",
-            "To support the banking sector"
+            "\u20b92,00,000 crore",
+            "\u20b92,28,098 crore",
+            "\u20b92,00,031 crore",
+            "\u20b91,99,999 crore",
+            "\u20b92,00,025 crore"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to President Trump, why were high interest rates an unnecessary drag on the economy?",
-        "a": "They increased borrowing costs despite an otherwise strong economy.",
-        "options": [
-            "They fueled inflation rapidly.",
-            "They decreased borrowing costs.",
-            "They increased borrowing costs despite an otherwise strong economy.",
-            "They boosted foreign investment.",
-            "They led to job creation."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What primary event caused energy prices to surge and pushed headline inflation higher?",
-        "a": "Outbreak of war with Iran.",
-        "options": [
-            "Global supply chain disruptions",
-            "Increased consumer demand",
-            "Outbreak of war with Iran",
-            "New tariffs on oil imports",
-            "Decline in oil production"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the reason Sen. Thom Tillis refuses to support any Fed nominee?",
-        "a": "While the Justice Department pursues a criminal investigation into Powell.",
-        "options": [
-            "Disagreement with monetary policy",
-            "To protest the current administration",
-            "While the Justice Department pursues a criminal investigation into Powell",
-            "Concerns about the nominee's qualifications",
-            "To demand higher interest rates"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the specific focus of the Justice Department's criminal investigation into Jerome Powell?",
-        "a": "Powell\u2019s congressional testimony about the cost of renovating the Fed\u2019s aging headquarters.",
-        "options": [
-            "His personal financial dealings",
-            "His past investment decisions",
-            "Powell\u2019s congressional testimony about the cost of renovating the Fed\u2019s aging headquarters",
-            "His handling of inflation data",
-            "Allegations of insider trading"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the federal judge's finding regarding the subpoenas in the investigation into Powell?",
-        "a": "No credible evidence of wrongdoing and appeared designed to harass Powell into resigning.",
-        "options": [
-            "Strong evidence of corruption",
-            "Minor procedural errors",
-            "No credible evidence of wrongdoing and appeared designed to harass Powell into resigning",
-            "Insufficient evidence to proceed",
-            "Evidence of intentional misconduct"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Keiko Honda, why is the West Asia war having a cascading effect on everything?",
-        "a": "Because they are all dependent on energy.",
-        "options": [
-            "Due to political instability",
-            "Because of trade sanctions",
-            "Because they are all dependent on energy",
-            "Due to currency fluctuations",
-            "Because of food shortages"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary aim of Sebi's recent moves regarding the Social Stock Exchange (SSE)?",
-        "a": "Promoting the SSE and facilitating ease of fundraising for NPOs.",
-        "options": [
-            "To increase government revenue",
-            "To promote foreign investment",
-            "Promoting the SSE and facilitating ease of fundraising for NPOs",
-            "To regulate cryptocurrency",
-            "To reduce market volatility"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the strategic purpose behind Russia's use of \"doubletap strikes\"?",
-        "a": "To target rescue workers responding to initial attacks.",
-        "options": [
-            "To maximize infrastructure damage",
-            "To target military bases exclusively",
-            "To target rescue workers responding to initial attacks",
-            "To provoke international condemnation",
-            "To test new weaponry"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the new government option in the Pension Schemes Bill described as, less control and more a fallback?",
-        "a": "A tool meant to help align retirement savings with national economic goals.",
-        "options": [
-            "A measure to reduce national debt",
-            "A tool to increase tax revenue",
-            "A tool meant to help align retirement savings with national economic goals",
-            "A scheme for foreign investment",
-            "A plan to liquidate pension assets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the plea filed in the Supreme Court concerning incidents in Nashik?",
-        "a": "Seeking directions to control deceitful religious conversion.",
-        "options": [
-            "To investigate sexual harassment cases",
-            "To implement new labor laws",
-            "Seeking directions to control deceitful religious conversion",
-            "To recover damages from the MNC",
-            "To ban certain religious practices"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What category of discrepancy led to citizens being purged from the voter list in West Bengal, which the Supreme Court later addressed?",
-        "a": "\u201clogical discrepancy\u201d",
-        "options": [
-            "\u201cage discrepancy\u201d",
-            "\u201caddress discrepancy\u201d",
-            "\u201clogical discrepancy\u201d",
-            "\u201cidentity discrepancy\u201d",
-            "\u201ccriminal record discrepancy\u201d"
-        ],
-        "cat": "Why"
+        "cat": "Amount"
     }
 ]
