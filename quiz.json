@@ -1,758 +1,722 @@
 [
     {
-        "q": "What was the total amount of transient liquidity pulled out by the RBI from the banking system?",
-        "a": "\u20b92,00,031 crore",
+        "q": "What was the total amount of prize money Martin Luther King Jr. received for the Nobel Peace Prize?",
+        "a": "$54,123",
         "options": [
-            "\u20b92,00,030 crore",
-            "\u20b92,00,031 crore",
-            "\u20b92,00,041 crore",
-            "\u20b92,00,021 crore",
-            "\u20b92,00,035 crore"
+            "$54,100",
+            "$54,123",
+            "$54,213",
+            "$53,123",
+            "$55,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "On which date did the Reserve Bank of India pull out transient liquidity from the banking system?",
-        "a": "April 17, 2026",
+        "q": "How much gold bullion, approximately, was Gary Christopher arrested for attempting to collect from the elderly victim?",
+        "a": "$600,000",
         "options": [
-            "April 16, 2026",
-            "April 17, 2026",
-            "March 17, 2026",
-            "April 17, 2025",
-            "May 17, 2026"
+            "$500,000",
+            "$600,000",
+            "$700,000",
+            "$550,000",
+            "$650,000"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "Which entity conducted the seven-day variable rate reverse repo (VRRR) auction?",
-        "a": "Reserve Bank of India (RBI)",
+        "q": "How much money in assets had the elderly victim already transferred before realizing she was tricked in the 'phantom hacker' scam?",
+        "a": "More than $400,000",
         "options": [
-            "Securities and Exchange Board of India (SEBI)",
-            "National Bank for Agriculture and Rural Development (NABARD)",
-            "Reserve Bank of India (RBI)",
-            "State Bank of India (SBI)",
-            "Ministry of Finance"
+            "More than $300,000",
+            "Exactly $400,000",
+            "More than $400,000",
+            "Less than $400,000",
+            "More than $500,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How old was Martin Luther King Jr. when he received the Nobel Peace Prize?",
+        "a": "35",
+        "options": [
+            "30",
+            "40",
+            "35",
+            "25",
+            "45"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "At what age did Martin Luther King Jr. graduate from high school?",
+        "a": "15",
+        "options": [
+            "16",
+            "17",
+            "15",
+            "18",
+            "14"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many days did the bus boycott, in which Martin Luther King Jr. emerged as a leader, last?",
+        "a": "382 days",
+        "options": [
+            "365 days",
+            "300 days",
+            "382 days",
+            "400 days",
+            "350 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many years did Martin Luther King Jr.'s grandfather serve as pastor of the Ebenezer Baptist Church from 1914 to 1931?",
+        "a": "17 years",
+        "options": [
+            "15 years",
+            "18 years",
+            "17 years",
+            "20 years",
+            "16 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to the article, for approximately how many years has Livemint\u2014News Desk been a credible source for authentic news?",
+        "a": "About a decade",
+        "options": [
+            "About 5 years",
+            "About 2 decades",
+            "About a decade",
+            "About 15 years",
+            "About 8 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current leader of North Korea?",
+        "a": "Kim Jong Un",
+        "options": [
+            "Shinjiro Koizumi",
+            "Vladimir Putin",
+            "Kim Jong Un",
+            "Lee Jae Myung",
+            "Donald Trump"
         ],
         "cat": "Who"
     },
     {
-        "q": "From which system did the RBI pull out transient liquidity through the VRRR auction?",
-        "a": "Banking system",
+        "q": "Who is the Defense Minister of Japan mentioned in the news text?",
+        "a": "Shinjiro Koizumi",
         "options": [
-            "Capital markets",
-            "Insurance sector",
-            "Banking system",
-            "Mutual funds",
-            "Government treasury"
+            "Rafael Grossi",
+            "Shinjiro Koizumi",
+            "Lee Jae Myung",
+            "Vladimir Putin",
+            "Kim Jong Un"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the head of the International Atomic Energy Agency (IAEA) mentioned in the text?",
+        "a": "Rafael Grossi",
+        "options": [
+            "Shinjiro Koizumi",
+            "Kim Jong Un",
+            "Lee Jae Myung",
+            "Rafael Grossi",
+            "Vladimir Putin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the South Korean President mentioned as seeking to ease tensions with Pyongyang?",
+        "a": "Lee Jae Myung",
+        "options": [
+            "Shinjiro Koizumi",
+            "Lee Jae Myung",
+            "Kim Jong Un",
+            "Donald Trump",
+            "Rafael Grossi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former US President visited the region for EC meetings in late October and was open to meeting Kim?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the civil rights leader whose quote \"We have guided missiles and misguided men\" was highlighted in the article?",
+        "a": "Martin Luther King Jr.",
+        "options": [
+            "Malcolm X",
+            "Nelson Mandela",
+            "Martin Luther King Jr.",
+            "Rosa Parks",
+            "John Lewis"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was Martin Luther King Jr.'s original name at birth?",
+        "a": "Michael Luther King, Jr.",
+        "options": [
+            "Michael Martin King, Jr.",
+            "Martin Louis King, Jr.",
+            "Michael Luther King, Jr.",
+            "Mark Luther King, Jr.",
+            "Matthew Luther King, Jr."
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Florida man arrested in Arizona for allegedly collecting gold in a \"phantom hacker\" fraud scheme?",
+        "a": "Gary Christopher",
+        "options": [
+            "John Doe",
+            "David Smith",
+            "Gary Christopher",
+            "Michael Johnson",
+            "Robert Williams"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which country's Joint Chiefs of Staff issued a statement regarding North Korea's ballistic missile launches?",
+        "a": "South Korea",
+        "options": [
+            "Japan",
+            "United States",
+            "China",
+            "South Korea",
+            "Russia"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which country's leader, Vladimir Putin, has been deepening strategic ties with Kim Jong Un?",
+        "a": "Russia",
+        "options": [
+            "China",
+            "Iran",
+            "Syria",
+            "Russia",
+            "Belarus"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which country's intelligence authorities said North Korea \"successfully tested\" intercontinental ballistic missiles capable of reaching its entire mainland?",
+        "a": "US",
+        "options": [
+            "South Korea",
+            "Japan",
+            "China",
+            "Russia",
+            "US"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who were the striking workers in sympathy with whom Martin Luther King Jr. was to lead a protest march in Memphis?",
+        "a": "Garbage workers",
+        "options": [
+            "Factory workers",
+            "Textile workers",
+            "Garbage workers",
+            "Coal miners",
+            "Bus drivers"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who began the family\u2019s long tenure as pastors of the Ebenezer Baptist Church in Atlanta, serving from 1914 to 1931?",
+        "a": "Martin Luther King Jr.'s grandfather",
+        "options": [
+            "Martin Luther King Sr.",
+            "Martin Luther King Jr.",
+            "Martin Luther King Jr.'s grandfather",
+            "Coretta Scott King",
+            "Jesse Jackson"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was impersonated by one of the scammers in the \"phantom hacker\" fraud scheme to instruct the victim to convert savings into gold?",
+        "a": "A former US Attorney",
+        "options": [
+            "An FBI agent",
+            "A Secret Service agent",
+            "A former US Attorney",
+            "A State Department official",
+            "A White House aide"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is listed as the Political Affairs Editor for Livemint\u2014News Desk?",
+        "a": "Gulam Jeelani",
+        "options": [
+            "Sugam Singhal",
+            "Chanchal",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which US military command issued a statement asserting no immediate threat to US personnel or territory after the North Korean missile launches?",
+        "a": "US Indo-Pacific Command",
+        "options": [
+            "US European Command",
+            "US Central Command",
+            "US Africa Command",
+            "US Indo-Pacific Command",
+            "US Northern Command"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "From which area of North Korea were the multiple unidentified ballistic missiles fired on Sunday?",
+        "a": "Sinpo area",
+        "options": [
+            "Pyongyang",
+            "Kaesong",
+            "Sinpo area",
+            "Nampo",
+            "Chongjin"
         ],
         "cat": "Where"
     },
     {
-        "q": "What was the cut-off rate accepted by the RBI for the VRRR auction?",
-        "a": "5.24%",
+        "q": "Where did the missiles launched by North Korea on Sunday reportedly fall?",
+        "a": "Near the east coast of the Korean Peninsula",
         "options": [
-            "5.23%",
-            "5.24%",
-            "5.25%",
-            "5.22%",
-            "5.26%"
+            "Within Japan's territory",
+            "Near the east coast of the Korean Peninsula",
+            "South Korean waters",
+            "Off the coast of China",
+            "Near the US mainland"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the duration of the variable rate reverse repo (VRRR) auction conducted by the RBI?",
-        "a": "Seven-day",
+        "q": "Where was Japan\u2019s Defense Minister Shinjiro Koizumi speaking when he mentioned collecting information on the missile launch?",
+        "a": "During a visit to Australia",
         "options": [
-            "Six-day",
-            "Seven-day",
-            "Eight-day",
-            "Five-day",
-            "Ten-day"
+            "In Tokyo, Japan",
+            "In Seoul, South Korea",
+            "During a visit to Australia",
+            "In Washington D.C., USA",
+            "In Beijing, China"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "What was the purpose of the RBI conducting a variable rate reverse repo (VRRR) auction?",
-        "a": "To pull out transient liquidity",
+        "q": "The Hwasong-20, an intercontinental ballistic missile, is designed to reach which specific target according to the text?",
+        "a": "The US mainland",
         "options": [
-            "To inject liquidity",
-            "To increase lending rates",
-            "To pull out transient liquidity",
-            "To reduce inflation directly",
-            "To promote foreign investment"
+            "South Korea",
+            "Japan",
+            "Russia",
+            "The US mainland",
+            "China"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "What was the total value of bids received by the central bank in the VRRR auction?",
-        "a": "\u20b92,28,098 crore",
+        "q": "Where was Martin Luther King Jr. born?",
+        "a": "Atlanta",
         "options": [
-            "\u20b92,28,097 crore",
-            "\u20b92,28,098 crore",
-            "\u20b92,28,099 crore",
-            "\u20b92,28,100 crore",
-            "\u20b92,28,095 crore"
+            "Montgomery, Alabama",
+            "Birmingham, Alabama",
+            "Atlanta",
+            "Memphis, Tennessee",
+            "Washington D.C."
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the notified amount for the VRRR auction conducted by the RBI?",
-        "a": "\u20b92 lakh crore",
+        "q": "Martin Luther King Jr. attended segregated public schools in which US state?",
+        "a": "Georgia",
         "options": [
-            "\u20b92,00,001 crore",
-            "\u20b92,00,000 crore",
-            "\u20b91,99,999 crore",
-            "\u20b92,00,005 crore",
-            "\u20b91,99,995 crore"
+            "Alabama",
+            "Mississippi",
+            "Georgia",
+            "Tennessee",
+            "South Carolina"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the weighted average rate at which the RBI accepted bids in the VRRR auction?",
-        "a": "5.23%",
+        "q": "Where was Gary Christopher, the Florida man, taken into custody?",
+        "a": "Arizona (Phoenix-area home)",
         "options": [
-            "5.24%",
-            "5.23%",
-            "5.22%",
-            "5.25%",
-            "5.21%"
+            "Florida",
+            "California",
+            "Arizona",
+            "Texas",
+            "New York"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "The VRRR auction on April 17, 2026, was conducted by which institution?",
-        "a": "RBI",
+        "q": "Where was Martin Luther King Jr. assassinated on April 4, 1968?",
+        "a": "Memphis, Tennessee",
         "options": [
-            "NABARD",
-            "SEBI",
-            "RBI",
-            "PFRDA",
-            "IRDAI"
+            "Atlanta, Georgia",
+            "Montgomery, Alabama",
+            "Memphis, Tennessee",
+            "Washington D.C.",
+            "Selma, Alabama"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "The liquidity was pulled from the 'banking system' to address what type of liquidity?",
-        "a": "Transient liquidity",
+        "q": "Which distinguished Negro institution in Atlanta did Martin Luther King Jr. receive his BA degree from in 1948?",
+        "a": "Morehouse College",
         "options": [
-            "Long-term liquidity",
-            "Structural liquidity",
-            "Permanent liquidity",
-            "Transient liquidity",
-            "Excess foreign currency"
+            "Spelman College",
+            "Clark Atlanta University",
+            "Morehouse College",
+            "Howard University",
+            "Fisk University"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "What was the difference between the total bids received and the notified amount in the VRRR auction?",
-        "a": "\u20b928,098 crore",
+        "q": "Which city is the Ebenezer Baptist Church located in, where MLK's family served as pastors?",
+        "a": "Atlanta",
         "options": [
-            "\u20b928,097 crore",
-            "\u20b928,098 crore",
-            "\u20b928,099 crore",
-            "\u20b928,100 crore",
-            "\u20b928,095 crore"
+            "Montgomery",
+            "Birmingham",
+            "Memphis",
+            "Atlanta",
+            "Jackson"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the term used to describe the type of liquidity that the RBI pulled out?",
-        "a": "Transient liquidity",
+        "q": "Gary Christopher, the arrested man, was from which Florida city?",
+        "a": "Port Saint Lucie",
         "options": [
-            "Permanent liquidity",
-            "Excess liquidity",
-            "Transient liquidity",
-            "Structural liquidity",
-            "Core liquidity"
+            "Miami",
+            "Orlando",
+            "Port Saint Lucie",
+            "Tampa",
+            "Jacksonville"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "How many days was the VRRR auction designed for?",
-        "a": "Seven",
+        "q": "At what approximate local time did North Korea launch ballistic missiles on Sunday?",
+        "a": "6:10 a.m.",
         "options": [
-            "Six",
-            "Seven",
-            "Eight",
-            "Five",
-            "Nine"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The auction was referred to as a 'variable rate reverse repo' auction. What does 'VRRR' stand for?",
-        "a": "Variable Rate Reverse Repo",
-        "options": [
-            "Volatile Rate Repo Reserve",
-            "Variable Return Repo Rate",
-            "Value Rated Reverse Repo",
-            "Variable Rate Reverse Repo",
-            "Verified Rate Reverse Remittance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The cut-off rate of 5.24% was for which type of auction?",
-        "a": "VRRR auction",
-        "options": [
-            "Open Market Operations",
-            "Repo auction",
-            "Marginal Standing Facility",
-            "VRRR auction",
-            "Targeted Long-Term Repo Operations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the precise date mentioned for the RBI's action in 2026?",
-        "a": "April 17",
-        "options": [
-            "April 16",
-            "April 17",
-            "March 17",
-            "May 17",
-            "April 18"
+            "5:10 a.m.",
+            "7:10 a.m.",
+            "6:10 a.m.",
+            "6:00 a.m.",
+            "6:30 a.m."
         ],
         "cat": "When"
     },
     {
-        "q": "The RBI pulled out \u20b92,00,031 crore; this amount is best categorized as what in monetary terms?",
-        "a": "Transient liquidity",
+        "q": "When did Pyongyang last launch multiple short-range ballistic missiles toward waters off its eastern coast prior to the latest launch?",
+        "a": "April 8",
         "options": [
-            "Capital infusion",
-            "Foreign exchange reserves",
-            "Government expenditure",
-            "Transient liquidity",
-            "Long-term debt"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the difference between the total bids received and the amount actually pulled out by RBI?",
-        "a": "\u20b928,067 crore",
-        "options": [
-            "\u20b928,066 crore",
-            "\u20b928,067 crore",
-            "\u20b928,068 crore",
-            "\u20b928,065 crore",
-            "\u20b928,070 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which day of the week did the RBI conduct the VRRR auction?",
-        "a": "Friday",
-        "options": [
-            "Thursday",
-            "Friday",
-            "Saturday",
-            "Wednesday",
-            "Tuesday"
+            "March 8",
+            "May 8",
+            "April 8",
+            "April 18",
+            "April 1"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the year in which the RBI conducted the VRRR auction to pull out liquidity?",
-        "a": "2026",
+        "q": "According to one article, when did the Democratic People\u2019s Republic of Korea launch multiple ballistic missiles?",
+        "a": "April 19, 2026",
         "options": [
-            "2025",
-            "2026",
-            "2027",
-            "2024",
-            "2023"
+            "April 19, 2025",
+            "April 8, 2026",
+            "April 19, 2026",
+            "April 18, 2026",
+            "March 19, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The action of pulling out liquidity serves what general purpose for a central bank?",
-        "a": "Managing liquidity",
+        "q": "When did President Donald Trump visit the region for the EC meetings?",
+        "a": "In late October",
         "options": [
-            "Stimulating demand",
-            "Increasing money supply",
-            "Managing liquidity",
-            "Providing credit to businesses",
-            "Funding government deficits"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The central bank received higher bids than the notified amount. What was the notified amount in crore?",
-        "a": "\u20b92,00,000 crore",
-        "options": [
-            "\u20b91,99,990 crore",
-            "\u20b92,00,000 crore",
-            "\u20b92,00,010 crore",
-            "\u20b91,99,995 crore",
-            "\u20b92,00,005 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the primary characteristic of the reverse repo auction mentioned?",
-        "a": "Variable Rate",
-        "options": [
-            "Fixed Rate",
-            "Marginal Rate",
-            "Variable Rate",
-            "Floating Rate",
-            "Discounted Rate"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The cut-off rate for the VRRR auction was how much higher than the weighted average rate?",
-        "a": "0.01%",
-        "options": [
-            "0.00%",
-            "0.01%",
-            "0.02%",
-            "0.005%",
-            "0.015%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The central bank had received higher bids worth how much more than the amount it ultimately pulled out?",
-        "a": "\u20b928,067 crore",
-        "options": [
-            "\u20b928,065 crore",
-            "\u20b928,067 crore",
-            "\u20b928,069 crore",
-            "\u20b928,070 crore",
-            "\u20b928,060 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which specific instrument was used by the RBI to withdraw liquidity?",
-        "a": "Variable rate reverse repo (VRRR) auction",
-        "options": [
-            "Fixed rate repo auction",
-            "Open market sale of government securities",
-            "Standing Deposit Facility",
-            "Variable rate reverse repo (VRRR) auction",
-            "Cash Reserve Ratio adjustment"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The amount of \u20b92,00,031 crore was pulled through what type of auction?",
-        "a": "Seven-day VRRR auction",
-        "options": [
-            "Fourteen-day VRRR auction",
-            "Seven-day VRRR auction",
-            "Twenty-eight-day VRRR auction",
-            "Three-day VRRR auction",
-            "One-day VRRR auction"
+            "In early September",
+            "In late October",
+            "In mid-November",
+            "In early December",
+            "In late September"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the total notified amount in 'lakh crore' for the VRRR auction?",
-        "a": "2 lakh crore",
+        "q": "In which year was Martin Luther King Jr.'s 1967 Christmas sermon on peace, titled \"The Trumpet of Conscience,\" later published as a book?",
+        "a": "1968",
         "options": [
-            "2.00031 lakh crore",
-            "2.28098 lakh crore",
-            "2 lakh crore",
-            "1.99999 lakh crore",
-            "2.00001 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The term 'reverse repo' in VRRR implies that commercial banks are doing what with the RBI?",
-        "a": "Lending money to RBI",
-        "options": [
-            "Borrowing money from RBI",
-            "Lending money to RBI",
-            "Depositing money without earning interest",
-            "Buying government bonds from RBI",
-            "Selling government bonds to RBI"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The VRRR auction on April 17, 2026, was for how many days?",
-        "a": "7 days",
-        "options": [
-            "6 days",
-            "7 days",
-            "8 days",
-            "5 days",
-            "10 days"
+            "1967",
+            "1969",
+            "1968",
+            "1970",
+            "1966"
         ],
         "cat": "When"
     },
     {
-        "q": "The bids received by RBI were higher than the notified amount. By how much did the bids exceed the notified amount in crore?",
-        "a": "\u20b928,098 crore",
+        "q": "On what date was Martin Luther King Jr. born?",
+        "a": "January 15, 1929",
         "options": [
-            "\u20b928,097 crore",
-            "\u20b928,098 crore",
-            "\u20b928,099 crore",
-            "\u20b928,100 crore",
-            "\u20b928,095 crore"
+            "February 15, 1929",
+            "January 15, 1930",
+            "January 15, 1929",
+            "March 15, 1929",
+            "January 10, 1929"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "What type of financial instrument is a 'reverse repo'?",
-        "a": "Monetary policy instrument",
+        "q": "In which year did Martin Luther King Jr. receive his BA degree from Morehouse College?",
+        "a": "1948",
         "options": [
-            "Fiscal policy instrument",
-            "Trade policy instrument",
-            "Monetary policy instrument",
-            "Exchange rate policy instrument",
-            "Development finance instrument"
+            "1947",
+            "1949",
+            "1948",
+            "1950",
+            "1946"
         ],
-        "cat": "Why"
+        "cat": "When"
     },
     {
-        "q": "The term 'central bank' in the news text refers to which institution in India?",
-        "a": "Reserve Bank of India",
+        "q": "On what date did the Supreme Court of the United States declare unconstitutional the laws requiring segregation on buses?",
+        "a": "December 21, 1956",
         "options": [
-            "State Bank of India",
-            "Ministry of Finance",
-            "Reserve Bank of India",
-            "National Payments Corporation of India",
-            "Deposit Insurance and Credit Guarantee Corporation"
+            "November 21, 1956",
+            "January 21, 1957",
+            "December 21, 1956",
+            "December 11, 1956",
+            "December 31, 1956"
         ],
-        "cat": "Who"
+        "cat": "When"
     },
     {
-        "q": "The operation was aimed at managing 'transient liquidity'. What does 'transient' imply about the liquidity?",
-        "a": "Temporary and fluctuating",
+        "q": "On what evening was Martin Luther King Jr. assassinated?",
+        "a": "April 4, 1968",
         "options": [
-            "Permanent and stable",
-            "Increasing rapidly",
-            "Temporary and fluctuating",
-            "Caused by government spending",
-            "Related to foreign capital inflows"
+            "March 4, 1968",
+            "May 4, 1968",
+            "April 4, 1968",
+            "April 5, 1968",
+            "April 14, 1968"
         ],
-        "cat": "Why"
+        "cat": "When"
     },
     {
-        "q": "In the VRRR auction, the accepted bid was at a specific cut-off rate. What was this rate?",
-        "a": "5.24%",
-        "options": [
-            "5.23%",
-            "5.24%",
-            "5.25%",
-            "5.22%",
-            "5.26%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much was the weighted average rate in the VRRR auction?",
-        "a": "5.23%",
-        "options": [
-            "5.24%",
-            "5.23%",
-            "5.22%",
-            "5.25%",
-            "5.21%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The VRRR auction was conducted on a Friday in April 2026. What was the exact date?",
-        "a": "April 17",
+        "q": "When did Gary Christopher, the alleged courier, make his first appearance in federal court?",
+        "a": "April 13",
         "options": [
             "April 10",
-            "April 17",
-            "April 24",
-            "April 3",
-            "April 14"
+            "April 12",
+            "April 13",
+            "April 14",
+            "April 15"
         ],
         "cat": "When"
     },
     {
-        "q": "Where did the RBI specifically target the withdrawal of liquidity?",
-        "a": "The banking system",
+        "q": "When was Gary Christopher taken into custody in Arizona?",
+        "a": "April 10",
         "options": [
-            "The corporate bond market",
-            "The foreign exchange market",
-            "The banking system",
-            "The government securities market",
-            "The retail credit market"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The total bids received were \u20b92,28,098 crore. This figure indicates what about the demand for parking funds with RBI?",
-        "a": "Strong demand, exceeding notified amount",
-        "options": [
-            "Weak demand, below notified amount",
-            "Strong demand, exceeding notified amount",
-            "Demand exactly matching notified amount",
-            "No demand for parking funds",
-            "Demand for borrowing from RBI"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The auction was a 'variable rate' reverse repo. What does 'variable rate' mean in this context?",
-        "a": "The interest rate is determined by the auction process",
-        "options": [
-            "The interest rate is fixed by RBI beforehand",
-            "The interest rate changes daily based on market conditions",
-            "The interest rate is determined by the auction process",
-            "The interest rate varies based on the participating bank's size",
-            "The interest rate is decided by the government"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How much less was the weighted average rate compared to the cut-off rate?",
-        "a": "0.01%",
-        "options": [
-            "0.00%",
-            "0.01%",
-            "0.02%",
-            "0.005%",
-            "0.015%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The total bids received in the auction were approximately how much more than the amount pulled out?",
-        "a": "\u20b928,000 crore",
-        "options": [
-            "\u20b927,000 crore",
-            "\u20b928,000 crore",
-            "\u20b929,000 crore",
-            "\u20b930,000 crore",
-            "\u20b925,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the date of the VRRR auction as per the news text?",
-        "a": "April 17, 2026",
-        "options": [
-            "April 16, 2026",
-            "April 17, 2026",
-            "April 18, 2026",
-            "April 17, 2025",
-            "April 15, 2026"
+            "April 9",
+            "April 11",
+            "April 10",
+            "April 12",
+            "April 8"
         ],
         "cat": "When"
     },
     {
-        "q": "The RBI accepted the bid at a 5.24% cut-off rate. This rate refers to what in the context of VRRR?",
-        "a": "Interest rate offered by RBI on funds parked by banks",
+        "q": "On what day did prosecutors say Gary Christopher traveled to Arizona to collect an additional delivery of gold?",
+        "a": "April 9",
         "options": [
-            "Interest rate at which RBI lends to banks",
-            "Interest rate on government bonds",
-            "Interest rate offered by RBI on funds parked by banks",
-            "Inflation rate target",
-            "Repo rate"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the amount received in bids from banks, exceeding the \u20b92 lakh crore notified amount?",
-        "a": "\u20b928,098 crore",
-        "options": [
-            "\u20b928,090 crore",
-            "\u20b928,098 crore",
-            "\u20b928,100 crore",
-            "\u20b928,088 crore",
-            "\u20b928,108 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many days did the transient liquidity remain with the RBI after the auction?",
-        "a": "Seven days",
-        "options": [
-            "Six days",
-            "Seven days",
-            "Eight days",
-            "Five days",
-            "Ten days"
+            "April 8",
+            "April 10",
+            "April 9",
+            "April 11",
+            "April 12"
         ],
         "cat": "When"
     },
     {
-        "q": "The operation was a 'reverse repo'. This means liquidity was flowing in which direction?",
-        "a": "From commercial banks to RBI",
+        "q": "When did Martin Luther King Jr.'s grandfather serve as pastor of the Ebenezer Baptist Church?",
+        "a": "From 1914 to 1931",
         "options": [
-            "From RBI to commercial banks",
-            "From government to commercial banks",
-            "From commercial banks to RBI",
-            "From foreign investors to RBI",
-            "From RBI to government"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The central bank 'pulled out' liquidity. This action is generally considered what type of monetary policy stance?",
-        "a": "Tightening",
-        "options": [
-            "Loosening",
-            "Neutral",
-            "Expansionary",
-            "Accommodative",
-            "Tightening"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The VRRR auction took place on a specific day of the week, which was a:",
-        "a": "Friday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "From 1910 to 1927",
+            "From 1914 to 1931",
+            "From 1920 to 1937",
+            "From 1904 to 1921",
+            "From 1915 to 1932"
         ],
         "cat": "When"
     },
     {
-        "q": "The accepted amount of liquidity was \u20b92,00,031 crore. In which units was this amount expressed?",
-        "a": "Crore",
+        "q": "What is the primary purpose behind North Korea's modernization of its missile and artillery production, as ordered by Kim Jong Un?",
+        "a": "To expand both nuclear and conventional weapons",
         "options": [
-            "Million",
-            "Billion",
-            "Trillion",
-            "Lakh",
-            "Crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The total bids received amounted to \u20b92,28,098 crore. This is approximately what multiple of the notified amount?",
-        "a": "1.14 times",
-        "options": [
-            "1.05 times",
-            "1.14 times",
-            "1.20 times",
-            "0.90 times",
-            "1.30 times"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The RBI accepted bids at a specific cut-off rate and weighted average rate. Which one was lower?",
-        "a": "Weighted average rate",
-        "options": [
-            "Cut-off rate",
-            "Weighted average rate",
-            "They were equal",
-            "Repo rate",
-            "Marginal Standing Facility rate"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The central bank had received 'higher bids' than the notified amount. This implies what about the market's perception?",
-        "a": "Banks had surplus liquidity they wished to park with RBI",
-        "options": [
-            "Banks needed more liquidity from RBI",
-            "Banks were unwilling to participate in the auction",
-            "Banks had surplus liquidity they wished to park with RBI",
-            "RBI needed to inject more liquidity",
-            "Inflation was expected to rise significantly"
+            "To reduce military spending",
+            "To develop defensive capabilities only",
+            "To expand both nuclear and conventional weapons",
+            "To increase international cooperation",
+            "To focus on space exploration"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the year of the VRRR auction mentioned?",
-        "a": "2026",
+        "q": "What reason did the US intelligence authorities cite for North Korea gaining \"valuable war-fighting experience and military technology\"?",
+        "a": "From Russia for participating in combat operations against Ukraine",
         "options": [
-            "2024",
-            "2025",
-            "2026",
-            "2027",
-            "2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The RBI accepted \u20b92,00,031 crore. This value is slightly above the notified amount of \u20b92 lakh crore. What is the precise difference?",
-        "a": "\u20b931 crore",
-        "options": [
-            "\u20b921 crore",
-            "\u20b931 crore",
-            "\u20b941 crore",
-            "\u20b925 crore",
-            "\u20b935 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The 'variable rate' implies that the interest rate is not pre-determined but is instead a function of what?",
-        "a": "Market demand and supply in the auction",
-        "options": [
-            "The prevailing repo rate",
-            "Government bond yields",
-            "Market demand and supply in the auction",
-            "The inflation target",
-            "The external benchmark rate"
+            "From China for joint exercises",
+            "From Russia for participating in combat operations against Ukraine",
+            "From South Korea for information sharing",
+            "From domestic research and development",
+            "From UN peacekeeping missions"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which organization is known as 'the central bank' in the Indian context?",
-        "a": "Reserve Bank of India",
+        "q": "What was Martin Luther King Jr.'s global critique, during his later life, encompassing the \"Triple Evils\"?",
+        "a": "Racism, extreme materialism, and militarism",
         "options": [
-            "State Bank of India",
-            "Securities and Exchange Board of India",
-            "Reserve Bank of India",
-            "National Bank for Agriculture and Rural Development",
-            "Industrial Development Bank of India"
+            "Poverty, illiteracy, and disease",
+            "Racism, extreme materialism, and militarism",
+            "War, hunger, and oppression",
+            "Discrimination, injustice, and violence",
+            "Ignorance, fear, and hatred"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "The VRRR auction aimed to manage 'liquidity'. In which specific market segment does this operation primarily take place?",
-        "a": "Money market",
+        "q": "What does the phrase \"Guided Missiles\" represent in Martin Luther King Jr.'s quote, according to the text?",
+        "a": "Our ability to solve complex technical problems, achieve precision, and master the physical world",
         "options": [
-            "Capital market",
-            "Derivatives market",
-            "Commodity market",
-            "Money market",
-            "Insurance market"
+            "The destructive power of war",
+            "The need for international diplomacy",
+            "Our ability to solve complex technical problems, achieve precision, and master the physical world",
+            "The failure of human communication",
+            "The advancement of space travel"
         ],
-        "cat": "Where"
+        "cat": "Why"
     },
     {
-        "q": "The weighted average rate was 5.23%. This is a key indicator of the average cost for banks to park funds. What was the cut-off rate?",
-        "a": "5.24%",
+        "q": "What does \"Misguided men\" suggest in Martin Luther King Jr.'s quote?",
+        "a": "That while our tools have a clear trajectory, humankind is drifting without a coherent moral or ethical compass",
         "options": [
-            "5.22%",
-            "5.24%",
-            "5.25%",
-            "5.235%",
-            "5.21%"
+            "That humans are inherently evil",
+            "That technological progress is inherently bad",
+            "That while our tools have a clear trajectory, humankind is drifting without a coherent moral or ethical compass",
+            "That leaders are making wrong decisions",
+            "That education levels are declining globally"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "What was the exact day and date of the VRRR auction?",
-        "a": "Friday, April 17, 2026",
+        "q": "What was the purpose of Martin Luther King Jr. turning over his Nobel Peace Prize money?",
+        "a": "To the furtherance of the civil rights movement",
         "options": [
-            "Thursday, April 16, 2026",
-            "Friday, April 17, 2026",
-            "Saturday, April 18, 2026",
-            "Friday, March 17, 2026",
-            "Friday, April 17, 2025"
+            "To personal savings",
+            "To build a new church",
+            "To fund political campaigns",
+            "To the furtherance of the civil rights movement",
+            "To charitable organizations for poverty relief"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "The RBI notified an amount of \u20b92 lakh crore for the auction. How much was accepted by the RBI from the bids?",
-        "a": "\u20b92,00,031 crore",
+        "q": "Why did Japan lodge a protest with Pyongyang after the missile launches on April 19, 2026?",
+        "a": "Saying the launches \"threaten regional and international peace\" and violate UN Security Council resolutions banning ballistic activity",
         "options": [
-            "\u20b92,00,000 crore",
-            "\u20b92,28,098 crore",
-            "\u20b92,00,031 crore",
-            "\u20b91,99,999 crore",
-            "\u20b92,00,025 crore"
+            "Because the missiles landed in Japanese territory",
+            "To demand an apology from North Korea",
+            "Saying the launches \"threaten regional and international peace\" and violate UN Security Council resolutions banning ballistic activity",
+            "To express concern about environmental damage",
+            "To request technological information on the missiles"
         ],
-        "cat": "Amount"
+        "cat": "Why"
+    },
+    {
+        "q": "According to South Korea and Washington, what has Russia sent to North Korea in return for Hwasong-11 missiles?",
+        "a": "Aid that has propped up North Korea\u2019s economy and helped Kim advance his weapons programs",
+        "options": [
+            "Food supplies and medical assistance",
+            "Technological blueprints for ICBMs",
+            "Aid that has propped up North Korea\u2019s economy and helped Kim advance his weapons programs",
+            "Diplomatic support in the UN",
+            "Cultural exchange programs"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is a common characteristic of \"phantom hacker\" scams, as described by authorities?",
+        "a": "Impersonating government officials or technical support agents to trick victims",
+        "options": [
+            "Sending unsolicited emails to victims",
+            "Targeting victims through social media",
+            "Impersonating government officials or technical support agents to trick victims",
+            "Using malware to steal financial information",
+            "Demanding payment in cryptocurrency only"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is Kim Jong Un's stated reason for deepening strategic ties with Russia's Vladimir Putin and maintaining close coordination with China?",
+        "a": "Underscoring a growing alignment among the three nations against a US-led security order",
+        "options": [
+            "To promote regional economic cooperation",
+            "To enhance cultural exchange",
+            "Underscoring a growing alignment among the three nations against a US-led security order",
+            "To collectively combat climate change",
+            "To develop new civilian technologies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What type of missile, capable of holding hefty payloads including nuclear warheads, has North Korea tested extensively in recent years?",
+        "a": "Hwasong-11 family of short-range ballistic missiles",
+        "options": [
+            "Taepodong-2 ICBM",
+            "Musudan MRBM",
+            "Pukguksong-3 SLBM",
+            "Hwasong-11 family of short-range ballistic missiles",
+            "KN-23 SRBM"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did Kim Jong Un state days after Trump's inauguration regarding confrontation with hostile nations?",
+        "a": "That confrontation with hostile nations was \"inevitable\"",
+        "options": [
+            "That confrontation was unlikely",
+            "That confrontation with hostile nations was \"inevitable\"",
+            "That diplomacy was the only way forward",
+            "That military action should be avoided",
+            "That de-escalation was the priority"
+        ],
+        "cat": "Why"
     }
 ]
