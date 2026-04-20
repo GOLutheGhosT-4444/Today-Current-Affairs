@@ -1,721 +1,721 @@
 [
     {
-        "q": "What was the total amount of prize money Martin Luther King Jr. received for the Nobel Peace Prize?",
-        "a": "$54,123",
+        "q": "What is the lowest total scored by Gujarat Titans in their meetings with Mumbai Indians?",
+        "a": "172",
         "options": [
-            "$54,100",
-            "$54,123",
-            "$54,213",
-            "$53,123",
-            "$55,000"
+            "170",
+            "175",
+            "172",
+            "173",
+            "169"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much gold bullion, approximately, was Gary Christopher arrested for attempting to collect from the elderly victim?",
-        "a": "$600,000",
+        "q": "What is the lowest total recorded by Mumbai Indians in their encounters with Gujarat Titans?",
+        "a": "152",
         "options": [
-            "$500,000",
-            "$600,000",
-            "$700,000",
-            "$550,000",
-            "$650,000"
+            "150",
+            "155",
+            "152",
+            "151",
+            "153"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much money in assets had the elderly victim already transferred before realizing she was tricked in the 'phantom hacker' scam?",
-        "a": "More than $400,000",
+        "q": "One of GT's wins against MI in 2023 was by a margin of how many runs?",
+        "a": "55",
         "options": [
-            "More than $300,000",
-            "Exactly $400,000",
-            "More than $400,000",
-            "Less than $400,000",
-            "More than $500,000"
+            "54",
+            "56",
+            "55",
+            "53",
+            "57"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How old was Martin Luther King Jr. when he received the Nobel Peace Prize?",
-        "a": "35",
+        "q": "Another significant win margin for GT against MI in 2023 was how many runs?",
+        "a": "62",
         "options": [
-            "30",
-            "40",
-            "35",
-            "25",
-            "45"
+            "60",
+            "65",
+            "62",
+            "61",
+            "63"
         ],
         "cat": "Amount"
     },
     {
-        "q": "At what age did Martin Luther King Jr. graduate from high school?",
-        "a": "15",
+        "q": "How many wickets has Jasprit Bumrah taken across 19 overs this season?",
+        "a": "Zero",
         "options": [
-            "16",
-            "17",
-            "15",
-            "18",
-            "14"
+            "Zero",
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many days did the bus boycott, in which Martin Luther King Jr. emerged as a leader, last?",
-        "a": "382 days",
+        "q": "What is the average first innings score on the surface at Narendra Modi Stadium?",
+        "a": "178",
         "options": [
-            "365 days",
-            "300 days",
-            "382 days",
-            "400 days",
-            "350 days"
+            "177",
+            "179",
+            "178",
+            "176",
+            "180"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years did Martin Luther King Jr.'s grandfather serve as pastor of the Ebenezer Baptist Church from 1914 to 1931?",
-        "a": "17 years",
+        "q": "How many runs has Shubman Gill scored in the GT vs MI rivalry, making him the highest scorer?",
+        "a": "356",
         "options": [
-            "15 years",
-            "18 years",
-            "17 years",
-            "20 years",
-            "16 years"
+            "350",
+            "360",
+            "356",
+            "355",
+            "357"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to the article, for approximately how many years has Livemint\u2014News Desk been a credible source for authentic news?",
-        "a": "About a decade",
+        "q": "How many runs has Shubman Gill scored this season for Gujarat Titans?",
+        "a": "251",
         "options": [
-            "About 5 years",
-            "About 2 decades",
-            "About a decade",
-            "About 15 years",
-            "About 8 years"
+            "250",
+            "255",
+            "251",
+            "249",
+            "252"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current leader of North Korea?",
-        "a": "Kim Jong Un",
+        "q": "What is Shubman Gill's personal best score recorded at the Narendra Modi Stadium?",
+        "a": "129",
         "options": [
-            "Shinjiro Koizumi",
-            "Vladimir Putin",
-            "Kim Jong Un",
-            "Lee Jae Myung",
-            "Donald Trump"
+            "125",
+            "130",
+            "129",
+            "128",
+            "131"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many wickets has Prasidh Krishna taken in the tournament for GT?",
+        "a": "11",
+        "options": [
+            "10",
+            "12",
+            "11",
+            "9",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the head-to-head advantage of GT over MI in terms of wins mentioned?",
+        "a": "5-3",
+        "options": [
+            "4-2",
+            "6-4",
+            "5-3",
+            "5-2",
+            "4-3"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many wins does Mumbai Indians have from 5 games this season?",
+        "a": "1",
+        "options": [
+            "0",
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which AI tool is mentioned for predicting the winner of the GT vs MI encounter?",
+        "a": "Grok",
+        "options": [
+            "Grok",
+            "Grox",
+            "Groc",
+            "Greck",
+            "Grauk"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Defense Minister of Japan mentioned in the news text?",
-        "a": "Shinjiro Koizumi",
+        "q": "Who is mentioned as the primary strike bowler for Mumbai Indians who is yet to take a wicket this season?",
+        "a": "Jasprit Bumrah",
         "options": [
-            "Rafael Grossi",
-            "Shinjiro Koizumi",
-            "Lee Jae Myung",
-            "Vladimir Putin",
-            "Kim Jong Un"
+            "Jaspreet Bumrah",
+            "Jasprit Bumra",
+            "Jasprit Bumrah",
+            "Jasprit Singh",
+            "Bumrah Jasprit"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the head of the International Atomic Energy Agency (IAEA) mentioned in the text?",
-        "a": "Rafael Grossi",
+        "q": "Who is the GT batter identified as having scored the most runs in the GT vs MI rivalry?",
+        "a": "Shubman Gill",
         "options": [
-            "Shinjiro Koizumi",
-            "Kim Jong Un",
-            "Lee Jae Myung",
-            "Rafael Grossi",
-            "Vladimir Putin"
+            "Shubham Gill",
+            "Shubhankar Gill",
+            "Shubman Gill",
+            "Subhman Gill",
+            "Shubhmani Gill"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the South Korean President mentioned as seeking to ease tensions with Pyongyang?",
-        "a": "Lee Jae Myung",
+        "q": "Who is one of the pace bowlers mentioned as part of GT's cohesive attack?",
+        "a": "Mohammed Siraj",
         "options": [
-            "Shinjiro Koizumi",
-            "Lee Jae Myung",
-            "Kim Jong Un",
-            "Donald Trump",
-            "Rafael Grossi"
+            "Mohammad Siraj",
+            "Mohammed Suraj",
+            "Mohammed Siraj",
+            "Mohamed Siraj",
+            "Muhammad Siraj"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which former US President visited the region for EC meetings in late October and was open to meeting Kim?",
-        "a": "Donald Trump",
+        "q": "Which bowler adds middle-overs control for GT with his ability to break partnerships?",
+        "a": "Rashid Khan",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "Rashid Kahn",
+            "Rasheed Khan",
+            "Rashid Khan",
+            "Rashed Khan",
+            "Rushid Khan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the civil rights leader whose quote \"We have guided missiles and misguided men\" was highlighted in the article?",
-        "a": "Martin Luther King Jr.",
+        "q": "Who among the following is described as covering trending news and major cricket developments for LiveMint?",
+        "a": "Sounak Mukhopadhyay",
         "options": [
-            "Malcolm X",
-            "Nelson Mandela",
-            "Martin Luther King Jr.",
-            "Rosa Parks",
-            "John Lewis"
+            "Sounik Mukhopadhyay",
+            "Sounak Mukopadyay",
+            "Sounak Mukhopadhyay",
+            "Sourav Mukhopadhyay",
+            "Sonak Mukhopadhyay"
         ],
         "cat": "Who"
     },
     {
-        "q": "What was Martin Luther King Jr.'s original name at birth?",
-        "a": "Michael Luther King, Jr.",
+        "q": "Which team is characterized as riding tactical continuity by the AI tools?",
+        "a": "Gujarat Titans",
         "options": [
-            "Michael Martin King, Jr.",
-            "Martin Louis King, Jr.",
-            "Michael Luther King, Jr.",
-            "Mark Luther King, Jr.",
-            "Matthew Luther King, Jr."
+            "Gujrat Titans",
+            "Gujarat Tytans",
+            "Gujarat Titans",
+            "Gujrath Titans",
+            "Gujarat Titans (GT)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the Florida man arrested in Arizona for allegedly collecting gold in a \"phantom hacker\" fraud scheme?",
-        "a": "Gary Christopher",
+        "q": "Which team is currently at the foot of the table with only 1 win from 5 games?",
+        "a": "Mumbai Indians",
         "options": [
-            "John Doe",
-            "David Smith",
-            "Gary Christopher",
-            "Michael Johnson",
-            "Robert Williams"
+            "Mumbaai Indians",
+            "Mumbai Indeans",
+            "Mumbai Indians",
+            "Mumbay Indians",
+            "Mumbai Indian's"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which country's Joint Chiefs of Staff issued a statement regarding North Korea's ballistic missile launches?",
-        "a": "South Korea",
+        "q": "Besides Mohammed Siraj, who is another pace bowler in GT's attack mentioned?",
+        "a": "Kagiso Rabada",
         "options": [
-            "Japan",
-            "United States",
-            "China",
-            "South Korea",
-            "Russia"
+            "Kagiso Rebada",
+            "Kagiso Rabada",
+            "Kagiso Rabadaa",
+            "Kagiso Rabadu",
+            "Kagiso Rabeda"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which country's leader, Vladimir Putin, has been deepening strategic ties with Kim Jong Un?",
-        "a": "Russia",
+        "q": "Who is the GT bowler who has taken 11 wickets in the tournament?",
+        "a": "Prasidh Krishna",
         "options": [
-            "China",
-            "Iran",
-            "Syria",
-            "Russia",
-            "Belarus"
+            "Prasid Krisna",
+            "Prasidh Krisha",
+            "Prasidh Krishna",
+            "Prasidhh Krishna",
+            "Prasiddh Krishna"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which country's intelligence authorities said North Korea \"successfully tested\" intercontinental ballistic missiles capable of reaching its entire mainland?",
-        "a": "US",
+        "q": "Which AI tool specifically notes Shubman Gill's personal best of 129 at the ground?",
+        "a": "Gemini",
         "options": [
-            "South Korea",
-            "Japan",
-            "China",
-            "Russia",
-            "US"
+            "Geminy",
+            "Gemeni",
+            "Gemini",
+            "Geminii",
+            "Jemini"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who were the striking workers in sympathy with whom Martin Luther King Jr. was to lead a protest march in Memphis?",
-        "a": "Garbage workers",
+        "q": "Who is the fourth pace bowler mentioned as part of GT's cohesive unit, alongside Siraj, Rabada, and Krishna?",
+        "a": "Ashok Sharma",
         "options": [
-            "Factory workers",
-            "Textile workers",
-            "Garbage workers",
-            "Coal miners",
-            "Bus drivers"
+            "Ashok Sarma",
+            "Ashoke Sharma",
+            "Ashok Sharma",
+            "Ashik Sharma",
+            "Ashok Sharama"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who began the family\u2019s long tenure as pastors of the Ebenezer Baptist Church in Atlanta, serving from 1914 to 1931?",
-        "a": "Martin Luther King Jr.'s grandfather",
+        "q": "Where will Match 30 of IPL 2026 be held?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "Martin Luther King Sr.",
-            "Martin Luther King Jr.",
-            "Martin Luther King Jr.'s grandfather",
-            "Coretta Scott King",
-            "Jesse Jackson"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was impersonated by one of the scammers in the \"phantom hacker\" fraud scheme to instruct the victim to convert savings into gold?",
-        "a": "A former US Attorney",
-        "options": [
-            "An FBI agent",
-            "A Secret Service agent",
-            "A former US Attorney",
-            "A State Department official",
-            "A White House aide"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is listed as the Political Affairs Editor for Livemint\u2014News Desk?",
-        "a": "Gulam Jeelani",
-        "options": [
-            "Sugam Singhal",
-            "Chanchal",
-            "Gulam Jeelani",
-            "Sanchari Ghosh",
-            "Pratik Prashant Mukane"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which US military command issued a statement asserting no immediate threat to US personnel or territory after the North Korean missile launches?",
-        "a": "US Indo-Pacific Command",
-        "options": [
-            "US European Command",
-            "US Central Command",
-            "US Africa Command",
-            "US Indo-Pacific Command",
-            "US Northern Command"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "From which area of North Korea were the multiple unidentified ballistic missiles fired on Sunday?",
-        "a": "Sinpo area",
-        "options": [
-            "Pyongyang",
-            "Kaesong",
-            "Sinpo area",
-            "Nampo",
-            "Chongjin"
+            "Narendra Modi Stadium",
+            "Narendra Modi Cricket Stadium",
+            "Narendra Modi Sport Stadium",
+            "Narendra Modi Stadium, Ahmedabad",
+            "Narendra Singh Modi Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did the missiles launched by North Korea on Sunday reportedly fall?",
-        "a": "Near the east coast of the Korean Peninsula",
+        "q": "In which city is the Narendra Modi Stadium located, where the match will take place?",
+        "a": "Ahmedabad",
         "options": [
-            "Within Japan's territory",
-            "Near the east coast of the Korean Peninsula",
-            "South Korean waters",
-            "Off the coast of China",
-            "Near the US mainland"
+            "Ahmadabad",
+            "Ahmedabaad",
+            "Ahmedabad",
+            "Ahemdabad",
+            "Ahmedbad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Japan\u2019s Defense Minister Shinjiro Koizumi speaking when he mentioned collecting information on the missile launch?",
-        "a": "During a visit to Australia",
+        "q": "Shubman Gill's personal best of 129 runs was scored at which specific ground?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "In Tokyo, Japan",
-            "In Seoul, South Korea",
-            "During a visit to Australia",
-            "In Washington D.C., USA",
-            "In Beijing, China"
+            "Narendra Modi Stadium",
+            "Sardar Patel Stadium",
+            "Motera Stadium",
+            "Ahmedabad Stadium",
+            "Modi Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Hwasong-20, an intercontinental ballistic missile, is designed to reach which specific target according to the text?",
-        "a": "The US mainland",
+        "q": "The surface that averages 178 in the first innings is found in which city?",
+        "a": "Ahmedabad",
         "options": [
-            "South Korea",
-            "Japan",
-            "Russia",
-            "The US mainland",
-            "China"
+            "Ahmadabad",
+            "Ahmedabaad",
+            "Ahmedabad",
+            "Ahemdabad",
+            "Ahmedbad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Martin Luther King Jr. born?",
-        "a": "Atlanta",
+        "q": "The match mentioned is held in a stadium known by what name?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "Montgomery, Alabama",
-            "Birmingham, Alabama",
-            "Atlanta",
-            "Memphis, Tennessee",
-            "Washington D.C."
+            "Narendra Modi Stadium",
+            "Modi Stadium",
+            "Narendra Stadium",
+            "Ahmedabad Modi Stadium",
+            "Gujarat Modi Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "Martin Luther King Jr. attended segregated public schools in which US state?",
-        "a": "Georgia",
+        "q": "Which city is highlighted for its specific pitch conditions calibrated for Shubman Gill?",
+        "a": "Ahmedabad",
         "options": [
-            "Alabama",
-            "Mississippi",
-            "Georgia",
-            "Tennessee",
-            "South Carolina"
+            "Ahmadabad",
+            "Ahmedabaad",
+            "Ahmedabad",
+            "Ahemdabad",
+            "Ahmedbad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Gary Christopher, the Florida man, taken into custody?",
-        "a": "Arizona (Phoenix-area home)",
+        "q": "The ground consistently rewarding top-order dominance, as mentioned, is located in which city?",
+        "a": "Ahmedabad",
         "options": [
-            "Florida",
-            "California",
-            "Arizona",
-            "Texas",
-            "New York"
+            "Ahmadabad",
+            "Ahmedabaad",
+            "Ahmedabad",
+            "Ahemdabad",
+            "Ahmedbad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Martin Luther King Jr. assassinated on April 4, 1968?",
-        "a": "Memphis, Tennessee",
+        "q": "Which stadium is the site of Shubman Gill's personal best score of 129?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "Atlanta, Georgia",
-            "Montgomery, Alabama",
-            "Memphis, Tennessee",
-            "Washington D.C.",
-            "Selma, Alabama"
+            "Narendra Modi Stadium",
+            "Sardar Patel Cricket Stadium",
+            "Motera Cricket Stadium",
+            "Ahmedabad Cricket Stadium",
+            "Gujarat Cricket Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which distinguished Negro institution in Atlanta did Martin Luther King Jr. receive his BA degree from in 1948?",
-        "a": "Morehouse College",
+        "q": "The first innings average of 178 is specific to the pitch conditions of which stadium?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "Spelman College",
-            "Clark Atlanta University",
-            "Morehouse College",
-            "Howard University",
-            "Fisk University"
+            "Narendra Modi Stadium",
+            "Narendra Modi Pavillion",
+            "Narendra Modi Arena",
+            "Narendra Modi Complex",
+            "Narendra Modi Sports City"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city is the Ebenezer Baptist Church located in, where MLK's family served as pastors?",
-        "a": "Atlanta",
+        "q": "Sounak Mukhopadhyay contributes to which digital publication mentioned in the text?",
+        "a": "LiveMint",
         "options": [
-            "Montgomery",
-            "Birmingham",
-            "Memphis",
-            "Atlanta",
-            "Jackson"
+            "LiveMint",
+            "LiveMint.com",
+            "Live Minnt",
+            "LiveMints",
+            "LiveMint News"
         ],
         "cat": "Where"
     },
     {
-        "q": "Gary Christopher, the arrested man, was from which Florida city?",
-        "a": "Port Saint Lucie",
+        "q": "The match, Match 30 of IPL 2026, is specifically stated to be held in which specific city?",
+        "a": "Ahmedabad",
         "options": [
-            "Miami",
-            "Orlando",
-            "Port Saint Lucie",
-            "Tampa",
-            "Jacksonville"
+            "Ahmadabad",
+            "Ahmedabaad",
+            "Ahmedabad",
+            "Ahemdabad",
+            "Ahmedbad"
         ],
         "cat": "Where"
     },
     {
-        "q": "At what approximate local time did North Korea launch ballistic missiles on Sunday?",
-        "a": "6:10 a.m.",
+        "q": "What is the full name of the stadium where Match 30 of IPL 2026 will be played?",
+        "a": "Narendra Modi Stadium",
         "options": [
-            "5:10 a.m.",
-            "7:10 a.m.",
-            "6:10 a.m.",
-            "6:00 a.m.",
-            "6:30 a.m."
+            "Narendra Modi Stadium",
+            "Narendra Modi Stadium (Ahmedabad)",
+            "Narendra Modi Cricket Ground",
+            "Narendra Modi Sports Ground",
+            "Narendra Modi International Stadium"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The match between Gujarat Titans and Mumbai Indians is scheduled for which specific IPL season?",
+        "a": "IPL 2026",
+        "options": [
+            "IPL 2025",
+            "IPL 2027",
+            "IPL 2026",
+            "IPL 2024",
+            "IPL 2028"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Pyongyang last launch multiple short-range ballistic missiles toward waters off its eastern coast prior to the latest launch?",
-        "a": "April 8",
+        "q": "When is Match 30 of IPL 2026, featuring GT vs MI, taking place?",
+        "a": "Tonight",
         "options": [
-            "March 8",
-            "May 8",
-            "April 8",
-            "April 18",
-            "April 1"
+            "Tomorrow",
+            "Tonight",
+            "This morning",
+            "Next week",
+            "Yesterday"
         ],
         "cat": "When"
     },
     {
-        "q": "According to one article, when did the Democratic People\u2019s Republic of Korea launch multiple ballistic missiles?",
-        "a": "April 19, 2026",
+        "q": "In which year did GT achieve two wins against MI with margins of 55 and 62 runs?",
+        "a": "2023",
         "options": [
-            "April 19, 2025",
-            "April 8, 2026",
-            "April 19, 2026",
-            "April 18, 2026",
-            "March 19, 2026"
+            "2022",
+            "2024",
+            "2023",
+            "2021",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "When did President Donald Trump visit the region for the EC meetings?",
-        "a": "In late October",
+        "q": "Besides 2023, in which year did Grok note GT winning two more completed encounters against MI?",
+        "a": "2025",
         "options": [
-            "In early September",
-            "In late October",
-            "In mid-November",
-            "In early December",
-            "In late September"
+            "2024",
+            "2026",
+            "2025",
+            "2023",
+            "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was Martin Luther King Jr.'s 1967 Christmas sermon on peace, titled \"The Trumpet of Conscience,\" later published as a book?",
-        "a": "1968",
+        "q": "Jasprit Bumrah's zero wickets across 19 overs are noted for which specific period?",
+        "a": "This season",
         "options": [
-            "1967",
-            "1969",
-            "1968",
-            "1970",
-            "1966"
+            "Last season",
+            "Next season",
+            "This season",
+            "Previous season",
+            "The 2023 season"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date was Martin Luther King Jr. born?",
-        "a": "January 15, 1929",
+        "q": "Shubman Gill's 251 runs at an average of 62.75 have been accumulated during which ongoing period?",
+        "a": "This season",
         "options": [
-            "February 15, 1929",
-            "January 15, 1930",
-            "January 15, 1929",
-            "March 15, 1929",
-            "January 10, 1929"
+            "Last season",
+            "Next season",
+            "This season",
+            "Previous season",
+            "The 2023 season"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Martin Luther King Jr. receive his BA degree from Morehouse College?",
-        "a": "1948",
+        "q": "Prasidh Krishna's 11 wickets have been taken within the scope of which competition?",
+        "a": "The tournament",
         "options": [
-            "1947",
-            "1949",
-            "1948",
-            "1950",
-            "1946"
+            "Last year's tournament",
+            "The tournament",
+            "A past tournament",
+            "A different league",
+            "A future tournament"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Supreme Court of the United States declare unconstitutional the laws requiring segregation on buses?",
-        "a": "December 21, 1956",
+        "q": "Mumbai Indians sit at the foot of the table with 1 win from 5 games in which period?",
+        "a": "This season",
         "options": [
-            "November 21, 1956",
-            "January 21, 1957",
-            "December 21, 1956",
-            "December 11, 1956",
-            "December 31, 1956"
+            "Last season",
+            "Next season",
+            "This season",
+            "Previous season",
+            "The 2023 season"
         ],
         "cat": "When"
     },
     {
-        "q": "On what evening was Martin Luther King Jr. assassinated?",
-        "a": "April 4, 1968",
+        "q": "Gujarat Titans come into tonight on a 3-match winning streak that applies to which period?",
+        "a": "This season",
         "options": [
-            "March 4, 1968",
-            "May 4, 1968",
-            "April 4, 1968",
-            "April 5, 1968",
-            "April 14, 1968"
+            "Last season",
+            "Next season",
+            "This season",
+            "Previous season",
+            "The 2023 season"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Gary Christopher, the alleged courier, make his first appearance in federal court?",
-        "a": "April 13",
+        "q": "The overall head-to-head record of 5-3 for GT against MI spans across which timeframe?",
+        "a": "All-time",
         "options": [
-            "April 10",
-            "April 12",
-            "April 13",
-            "April 14",
-            "April 15"
+            "Last 5 years",
+            "All-time",
+            "Last 3 years",
+            "This season only",
+            "First 5 years"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Gary Christopher taken into custody in Arizona?",
-        "a": "April 10",
+        "q": "The article discusses match 30 as part of which edition of the Indian Premier League?",
+        "a": "IPL 2026",
         "options": [
-            "April 9",
-            "April 11",
-            "April 10",
-            "April 12",
-            "April 8"
+            "IPL 2025",
+            "IPL 2027",
+            "IPL 2026",
+            "IPL 2024",
+            "IPL 2028"
         ],
         "cat": "When"
     },
     {
-        "q": "On what day did prosecutors say Gary Christopher traveled to Arizona to collect an additional delivery of gold?",
-        "a": "April 9",
+        "q": "The runs scored by Shubman Gill, 356 in the GT vs MI rivalry, span across how many seasons or an overall period?",
+        "a": "All-time",
         "options": [
-            "April 8",
-            "April 10",
-            "April 9",
-            "April 11",
-            "April 12"
+            "Last 3 seasons",
+            "This season",
+            "All-time",
+            "Last 5 seasons",
+            "Previous 2 seasons"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Martin Luther King Jr.'s grandfather serve as pastor of the Ebenezer Baptist Church?",
-        "a": "From 1914 to 1931",
+        "q": "According to the AI tools, what is a key reason for Gujarat Titans' predicted victory?",
+        "a": "Tactical continuity",
         "options": [
-            "From 1910 to 1927",
-            "From 1914 to 1931",
-            "From 1920 to 1937",
-            "From 1904 to 1921",
-            "From 1915 to 1932"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose behind North Korea's modernization of its missile and artillery production, as ordered by Kim Jong Un?",
-        "a": "To expand both nuclear and conventional weapons",
-        "options": [
-            "To reduce military spending",
-            "To develop defensive capabilities only",
-            "To expand both nuclear and conventional weapons",
-            "To increase international cooperation",
-            "To focus on space exploration"
+            "Tactical continuity",
+            "Strong individual performances",
+            "Home ground advantage",
+            "Luck of the draw",
+            "Weak opposition"
         ],
         "cat": "Why"
     },
     {
-        "q": "What reason did the US intelligence authorities cite for North Korea gaining \"valuable war-fighting experience and military technology\"?",
-        "a": "From Russia for participating in combat operations against Ukraine",
+        "q": "What is highlighted as a significant structural problem for Mumbai Indians by all three AI tools?",
+        "a": "Jasprit Bumrah taking zero wickets",
         "options": [
-            "From China for joint exercises",
-            "From Russia for participating in combat operations against Ukraine",
-            "From South Korea for information sharing",
-            "From domestic research and development",
-            "From UN peacekeeping missions"
+            "Jasprit Bumrah taking zero wickets",
+            "Team's poor fielding",
+            "Captaincy issues",
+            "Lack of foreign players",
+            "Batting collapse"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was Martin Luther King Jr.'s global critique, during his later life, encompassing the \"Triple Evils\"?",
-        "a": "Racism, extreme materialism, and militarism",
+        "q": "Why do MI lack a proven mechanism to break GT's top order, according to the predictions?",
+        "a": "Their primary strike bowler producing no results",
         "options": [
-            "Poverty, illiteracy, and disease",
-            "Racism, extreme materialism, and militarism",
-            "War, hunger, and oppression",
-            "Discrimination, injustice, and violence",
-            "Ignorance, fear, and hatred"
+            "Their primary strike bowler producing no results",
+            "Absence of a strong spinner",
+            "Poor pitch conditions",
+            "GT's strong middle order",
+            "MI's aggressive batting strategy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What does the phrase \"Guided Missiles\" represent in Martin Luther King Jr.'s quote, according to the text?",
-        "a": "Our ability to solve complex technical problems, achieve precision, and master the physical world",
+        "q": "The Ahmedabad surface is described as rewarding which type of batters?",
+        "a": "Batters who trust the true bounce",
         "options": [
-            "The destructive power of war",
-            "The need for international diplomacy",
-            "Our ability to solve complex technical problems, achieve precision, and master the physical world",
-            "The failure of human communication",
-            "The advancement of space travel"
+            "Batters who trust the true bounce",
+            "Spinners who exploit turn",
+            "Fast bowlers who swing the ball",
+            "Defensive batsmen who anchor innings",
+            "All-rounders who contribute everywhere"
         ],
         "cat": "Why"
     },
     {
-        "q": "What does \"Misguided men\" suggest in Martin Luther King Jr.'s quote?",
-        "a": "That while our tools have a clear trajectory, humankind is drifting without a coherent moral or ethical compass",
+        "q": "Why is Shubman Gill considered the most dangerous individual threat in tonight's contest?",
+        "a": "His form and calibration for Ahmedabad's specific pitch conditions",
         "options": [
-            "That humans are inherently evil",
-            "That technological progress is inherently bad",
-            "That while our tools have a clear trajectory, humankind is drifting without a coherent moral or ethical compass",
-            "That leaders are making wrong decisions",
-            "That education levels are declining globally"
+            "His form and calibration for Ahmedabad's specific pitch conditions",
+            "His aggressive captaincy",
+            "His exceptional wicket-keeping",
+            "His ability to bowl fast",
+            "His strong fielding skills"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of Martin Luther King Jr. turning over his Nobel Peace Prize money?",
-        "a": "To the furtherance of the civil rights movement",
+        "q": "What is the characteristic of GT's pace attack that contributes to its effectiveness?",
+        "a": "Functioning as a cohesive unit",
         "options": [
-            "To personal savings",
-            "To build a new church",
-            "To fund political campaigns",
-            "To the furtherance of the civil rights movement",
-            "To charitable organizations for poverty relief"
+            "Functioning as a cohesive unit",
+            "Reliance on one star bowler",
+            "Individual brilliance only",
+            "Aggressive sledging tactics",
+            "Frequent rotation of players"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Japan lodge a protest with Pyongyang after the missile launches on April 19, 2026?",
-        "a": "Saying the launches \"threaten regional and international peace\" and violate UN Security Council resolutions banning ballistic activity",
+        "q": "What is Rashid Khan's specific role in GT's bowling unit, as described?",
+        "a": "Middle-overs control with ability to break partnerships",
         "options": [
-            "Because the missiles landed in Japanese territory",
-            "To demand an apology from North Korea",
-            "Saying the launches \"threaten regional and international peace\" and violate UN Security Council resolutions banning ballistic activity",
-            "To express concern about environmental damage",
-            "To request technological information on the missiles"
+            "Middle-overs control with ability to break partnerships",
+            "Powerplay wicket-taker",
+            "Death-overs specialist",
+            "Opening bowler",
+            "Pinch hitter"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to South Korea and Washington, what has Russia sent to North Korea in return for Hwasong-11 missiles?",
-        "a": "Aid that has propped up North Korea\u2019s economy and helped Kim advance his weapons programs",
+        "q": "Mumbai Indians' bowling combination has been compromised by what factor?",
+        "a": "Overseas selection constraints",
         "options": [
-            "Food supplies and medical assistance",
-            "Technological blueprints for ICBMs",
-            "Aid that has propped up North Korea\u2019s economy and helped Kim advance his weapons programs",
-            "Diplomatic support in the UN",
-            "Cultural exchange programs"
+            "Overseas selection constraints",
+            "Lack of local talent",
+            "Captain's poor decisions",
+            "Excessive number of domestic players",
+            "Strategic mismanagement"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a common characteristic of \"phantom hacker\" scams, as described by authorities?",
-        "a": "Impersonating government officials or technical support agents to trick victims",
+        "q": "What is one of the specific reporting focuses of Sounak Mukhopadhyay for LiveMint?",
+        "a": "Fast-moving stories",
         "options": [
-            "Sending unsolicited emails to victims",
-            "Targeting victims through social media",
-            "Impersonating government officials or technical support agents to trick victims",
-            "Using malware to steal financial information",
-            "Demanding payment in cryptocurrency only"
+            "Fast-moving stories",
+            "Detailed historical analysis",
+            "In-depth investigative journalism",
+            "Economic policy debates",
+            "Political commentary"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is Kim Jong Un's stated reason for deepening strategic ties with Russia's Vladimir Putin and maintaining close coordination with China?",
-        "a": "Underscoring a growing alignment among the three nations against a US-led security order",
+        "q": "What does Sounak Mukhopadhyay prioritize in his journalistic approach?",
+        "a": "Factual depth",
         "options": [
-            "To promote regional economic cooperation",
-            "To enhance cultural exchange",
-            "Underscoring a growing alignment among the three nations against a US-led security order",
-            "To collectively combat climate change",
-            "To develop new civilian technologies"
+            "Factual depth",
+            "Sensationalism",
+            "Personal opinions",
+            "Quick updates without context",
+            "Political endorsements"
         ],
         "cat": "Why"
     },
     {
-        "q": "What type of missile, capable of holding hefty payloads including nuclear warheads, has North Korea tested extensively in recent years?",
-        "a": "Hwasong-11 family of short-range ballistic missiles",
+        "q": "What is a primary aim of Sounak's journalism mentioned in the text?",
+        "a": "To document the rhythms of modern entertainment and sports while maintaining rigorous editorial integrity.",
         "options": [
-            "Taepodong-2 ICBM",
-            "Musudan MRBM",
-            "Pukguksong-3 SLBM",
-            "Hwasong-11 family of short-range ballistic missiles",
-            "KN-23 SRBM"
+            "To document the rhythms of modern entertainment and sports while maintaining rigorous editorial integrity.",
+            "To criticize celebrity lifestyles.",
+            "To promote specific political views.",
+            "To focus solely on financial news.",
+            "To create fictional narratives."
         ],
         "cat": "Why"
     },
     {
-        "q": "What did Kim Jong Un state days after Trump's inauguration regarding confrontation with hostile nations?",
-        "a": "That confrontation with hostile nations was \"inevitable\"",
+        "q": "What quality does Sounak's work seek to deliver in a rapidly-changing information environment?",
+        "a": "Clarity, trust, and lasting public value",
         "options": [
-            "That confrontation was unlikely",
-            "That confrontation with hostile nations was \"inevitable\"",
-            "That diplomacy was the only way forward",
-            "That military action should be avoided",
-            "That de-escalation was the priority"
+            "Clarity, trust, and lasting public value",
+            "Controversy, gossip, and short-term trends",
+            "Speed, entertainment, and personal opinions",
+            "Political influence, social commentary, and activism",
+            "Financial gains, brand building, and advertising revenue"
         ],
         "cat": "Why"
     }
