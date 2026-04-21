@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the lowest total scored by Gujarat Titans in their meetings with Mumbai Indians?",
-        "a": "172",
+        "q": "What is the total input tax credit (ITC) fraud unearthed by the Directorate General of GST Intelligence (DGGI)?",
+        "a": "\u20b91,825 crore",
         "options": [
-            "170",
-            "175",
-            "172",
-            "173",
-            "169"
+            "\u20b91,835 crore",
+            "\u20b91,815 crore",
+            "\u20b91,825 crore",
+            "\u20b91,830 crore",
+            "\u20b91,820 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the lowest total recorded by Mumbai Indians in their encounters with Gujarat Titans?",
-        "a": "152",
+        "q": "How many summons had the arrested individual not responded to before being apprehended by DGGI?",
+        "a": "Nearly two dozen",
         "options": [
-            "150",
-            "155",
-            "152",
-            "151",
-            "153"
+            "Nearly one dozen",
+            "Nearly two dozen",
+            "Nearly three dozen",
+            "Exactly twenty",
+            "More than thirty"
         ],
         "cat": "Amount"
     },
     {
-        "q": "One of GT's wins against MI in 2023 was by a margin of how many runs?",
-        "a": "55",
+        "q": "How many years of experience does Gireesh have in leading news organizations?",
+        "a": "25 years",
         "options": [
-            "54",
-            "56",
-            "55",
-            "53",
-            "57"
+            "24 years",
+            "26 years",
+            "25 years",
+            "23 years",
+            "27 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Another significant win margin for GT against MI in 2023 was how many runs?",
-        "a": "62",
+        "q": "What is the approximate number of Instagram followers Gabrielle Carrington (rielleuk) has?",
+        "a": "Over 360,000",
         "options": [
-            "60",
-            "65",
-            "62",
-            "61",
-            "63"
+            "Over 370,000",
+            "Over 350,000",
+            "Over 360,000",
+            "Over 355,000",
+            "Over 365,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many wickets has Jasprit Bumrah taken across 19 overs this season?",
-        "a": "Zero",
+        "q": "What is the approximate number of Instagram followers Klaudia Zakrzewska (klaudiaglam) has?",
+        "a": "Around 260,000",
         "options": [
-            "Zero",
-            "1",
-            "2",
-            "3",
-            "4"
+            "Around 270,000",
+            "Around 250,000",
+            "Around 260,000",
+            "Around 255,000",
+            "Around 265,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the average first innings score on the surface at Narendra Modi Stadium?",
-        "a": "178",
+        "q": "How many other people were hit by the car during the incident involving Klaudia Zakrzewska?",
+        "a": "Two",
         "options": [
-            "177",
-            "179",
-            "178",
-            "176",
-            "180"
+            "One",
+            "Three",
+            "Two",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many runs has Shubman Gill scored in the GT vs MI rivalry, making him the highest scorer?",
-        "a": "356",
+        "q": "What is the age range of the man who suffered life-changing injuries in the London incident?",
+        "a": "In his 50s",
         "options": [
-            "350",
-            "360",
-            "356",
-            "355",
-            "357"
+            "In his 40s",
+            "In his 60s",
+            "In his 50s",
+            "In his 30s",
+            "In his 70s"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many runs has Shubman Gill scored this season for Gujarat Titans?",
-        "a": "251",
+        "q": "What is the age range of the woman who suffered minor injuries in the London incident?",
+        "a": "In her 30s",
         "options": [
-            "250",
-            "255",
-            "251",
-            "249",
-            "252"
+            "In her 20s",
+            "In her 40s",
+            "In her 30s",
+            "In her 50s",
+            "In her 60s"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is Shubman Gill's personal best score recorded at the Narendra Modi Stadium?",
-        "a": "129",
-        "options": [
-            "125",
-            "130",
-            "129",
-            "128",
-            "131"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many wickets has Prasidh Krishna taken in the tournament for GT?",
+        "q": "What is the minimum number of combine harvesters mentioned for distribution in Mandya?",
         "a": "11",
         "options": [
-            "10",
-            "12",
-            "11",
             "9",
-            "13"
+            "10",
+            "11",
+            "12",
+            "15"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the head-to-head advantage of GT over MI in terms of wins mentioned?",
-        "a": "5-3",
+        "q": "What was the reported fraud amount in terms of ITC unearthed by DGGI?",
+        "a": "\u20b91,825 crore",
         "options": [
-            "4-2",
-            "6-4",
-            "5-3",
-            "5-2",
-            "4-3"
+            "\u20b91,835 crore",
+            "\u20b91,815 crore",
+            "\u20b91,825 crore",
+            "\u20b91,830 crore",
+            "\u20b91,820 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many wins does Mumbai Indians have from 5 games this season?",
-        "a": "1",
+        "q": "How many economic offences was the arrested individual wanted in, as stated by the finance ministry?",
+        "a": "Many",
         "options": [
-            "0",
-            "2",
-            "1",
-            "3",
-            "4"
+            "Few",
+            "Several",
+            "Many",
+            "Dozens",
+            "Hundreds"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which AI tool is mentioned for predicting the winner of the GT vs MI encounter?",
-        "a": "Grok",
+        "q": "What is the reported number of summons issued by DGGI that the arrested individual failed to respond to?",
+        "a": "Nearly two dozen",
         "options": [
-            "Grok",
-            "Grox",
-            "Groc",
-            "Greck",
-            "Grauk"
+            "Approximately 12",
+            "Approximately 24",
+            "Approximately 36",
+            "Approximately 18",
+            "Approximately 30"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which government agency unearthed the \u20b91,825 crore input tax credit (ITC) fraud?",
+        "a": "Directorate General of GST Intelligence (DGGI)",
+        "options": [
+            "Central Bureau of Investigation (CBI)",
+            "Enforcement Directorate (ED)",
+            "Directorate General of GST Intelligence (DGGI)",
+            "Income Tax Department (ITD)",
+            "Serious Fraud Investigation Office (SFIO)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is mentioned as the primary strike bowler for Mumbai Indians who is yet to take a wicket this season?",
-        "a": "Jasprit Bumrah",
+        "q": "Who was arrested from the New Delhi airport in connection with the ITC fraud?",
+        "a": "An individual behind the fraud",
         "options": [
-            "Jaspreet Bumrah",
-            "Jasprit Bumra",
-            "Jasprit Bumrah",
-            "Jasprit Singh",
-            "Bumrah Jasprit"
+            "A senior finance ministry official",
+            "An individual behind the fraud",
+            "A prominent exporter",
+            "A bank manager",
+            "A customs officer"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the GT batter identified as having scored the most runs in the GT vs MI rivalry?",
-        "a": "Shubman Gill",
+        "q": "Who is described as writing on the Indian economy, government policy, and regulatory developments?",
+        "a": "Gireesh",
         "options": [
-            "Shubham Gill",
-            "Shubhankar Gill",
-            "Shubman Gill",
-            "Subhman Gill",
-            "Shubhmani Gill"
+            "Gyanesh Kumar",
+            "Tristan Auer",
+            "N. Cheluvarayaswamy",
+            "Gireesh",
+            "Alixson Foxwell"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is one of the pace bowlers mentioned as part of GT's cohesive attack?",
-        "a": "Mohammed Siraj",
+        "q": "Who is the owner of the Burj Al Arab hotel in Dubai?",
+        "a": "Jumeirah",
         "options": [
-            "Mohammad Siraj",
-            "Mohammed Suraj",
-            "Mohammed Siraj",
-            "Mohamed Siraj",
-            "Muhammad Siraj"
+            "Emaar Properties",
+            "Nakheel",
+            "Jumeirah",
+            "AccorHotels",
+            "Hilton Worldwide"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which bowler adds middle-overs control for GT with his ability to break partnerships?",
-        "a": "Rashid Khan",
+        "q": "Who is leading the phased upgrades for the Burj Al Arab refurbishment project?",
+        "a": "Tristan Auer",
         "options": [
-            "Rashid Kahn",
-            "Rasheed Khan",
-            "Rashid Khan",
-            "Rashed Khan",
-            "Rushid Khan"
+            "Zaha Hadid",
+            "Frank Gehry",
+            "Tristan Auer",
+            "Santiago Calatrava",
+            "Renzo Piano"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who among the following is described as covering trending news and major cricket developments for LiveMint?",
-        "a": "Sounak Mukhopadhyay",
+        "q": "Who is known online as Klaudia Glam and was involved in a shocking incident in London?",
+        "a": "Klaudia Zakrzewska",
         "options": [
-            "Sounik Mukhopadhyay",
-            "Sounak Mukopadyay",
-            "Sounak Mukhopadhyay",
-            "Sourav Mukhopadhyay",
-            "Sonak Mukhopadhyay"
+            "Gabrielle Carrington",
+            "Klaudia Zakrzewska",
+            "Twin S",
+            "Twin H",
+            "Alixson Foxwell"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which team is characterized as riding tactical continuity by the AI tools?",
-        "a": "Gujarat Titans",
+        "q": "Who was arrested on suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving in the London incident?",
+        "a": "Gabrielle Carrington",
         "options": [
-            "Gujrat Titans",
-            "Gujarat Tytans",
-            "Gujarat Titans",
-            "Gujrath Titans",
-            "Gujarat Titans (GT)"
+            "Klaudia Zakrzewska",
+            "Twin S",
+            "Gabrielle Carrington",
+            "A male bystander",
+            "The nightclub owner"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which team is currently at the foot of the table with only 1 win from 5 games?",
-        "a": "Mumbai Indians",
+        "q": "Who is the Detective Chief Inspector asking for witnesses to come forward regarding the London incident?",
+        "a": "Alixson Foxwell",
         "options": [
-            "Mumbaai Indians",
-            "Mumbai Indeans",
-            "Mumbai Indians",
-            "Mumbay Indians",
-            "Mumbai Indian's"
+            "John Smith",
+            "Maria Lopez",
+            "Alixson Foxwell",
+            "David Chen",
+            "Sarah Jones"
         ],
         "cat": "Who"
     },
     {
-        "q": "Besides Mohammed Siraj, who is another pace bowler in GT's attack mentioned?",
-        "a": "Kagiso Rabada",
+        "q": "Who is a UK drill rapper linked by online posts (though not officially) to the London incident?",
+        "a": "Twin S",
         "options": [
-            "Kagiso Rebada",
-            "Kagiso Rabada",
-            "Kagiso Rabadaa",
-            "Kagiso Rabadu",
-            "Kagiso Rabeda"
+            "Potter Payper",
+            "Twin H",
+            "Twin S",
+            "Drake",
+            "Skepta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the GT bowler who has taken 11 wickets in the tournament?",
-        "a": "Prasidh Krishna",
+        "q": "Who is the district in-charge Minister attending the combine harvester distribution program in Mandya?",
+        "a": "N. Cheluvarayaswamy",
         "options": [
-            "Prasid Krisna",
-            "Prasidh Krisha",
-            "Prasidh Krishna",
-            "Prasidhh Krishna",
-            "Prasiddh Krishna"
+            "B.S. Yeddyurappa",
+            "Siddaramaiah",
+            "N. Cheluvarayaswamy",
+            "D.K. Shivakumar",
+            "H.D. Kumaraswamy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which AI tool specifically notes Shubman Gill's personal best of 129 at the ground?",
-        "a": "Gemini",
+        "q": "Who is the Chief Election Commissioner who stated that West Bengal elections would be free and transparent?",
+        "a": "Gyanesh Kumar",
         "options": [
-            "Geminy",
-            "Gemeni",
-            "Gemini",
-            "Geminii",
-            "Jemini"
+            "Om Prakash Rawat",
+            "Sunil Arora",
+            "Gyanesh Kumar",
+            "Rajiv Kumar",
+            "V.S. Sampath"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the fourth pace bowler mentioned as part of GT's cohesive unit, alongside Siraj, Rabada, and Krishna?",
-        "a": "Ashok Sharma",
+        "q": "Which entity did Gireesh cover, in addition to his other reporting areas?",
+        "a": "NITI Aayog",
         "options": [
-            "Ashok Sarma",
-            "Ashoke Sharma",
-            "Ashok Sharma",
-            "Ashik Sharma",
-            "Ashok Sharama"
+            "RBI",
+            "SEBI",
+            "NITI Aayog",
+            "IRDAI",
+            "PFRDA"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where will Match 30 of IPL 2026 be held?",
-        "a": "Narendra Modi Stadium",
+        "q": "From which airport was the individual behind the ITC fraud arrested?",
+        "a": "New Delhi airport",
         "options": [
-            "Narendra Modi Stadium",
-            "Narendra Modi Cricket Stadium",
-            "Narendra Modi Sport Stadium",
-            "Narendra Modi Stadium, Ahmedabad",
-            "Narendra Singh Modi Stadium"
+            "Mumbai airport",
+            "Bengaluru airport",
+            "New Delhi airport",
+            "Dubai airport",
+            "Chennai airport"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city is the Narendra Modi Stadium located, where the match will take place?",
-        "a": "Ahmedabad",
+        "q": "The arrested individual was returning from which city when apprehended by DGGI officials?",
+        "a": "Dubai",
         "options": [
-            "Ahmadabad",
-            "Ahmedabaad",
-            "Ahmedabad",
-            "Ahemdabad",
-            "Ahmedbad"
+            "London",
+            "Singapore",
+            "Dubai",
+            "New York",
+            "Hong Kong"
         ],
         "cat": "Where"
     },
     {
-        "q": "Shubman Gill's personal best of 129 runs was scored at which specific ground?",
-        "a": "Narendra Modi Stadium",
+        "q": "Which city is home to the Burj Al Arab hotel, currently undergoing refurbishment?",
+        "a": "Dubai",
         "options": [
-            "Narendra Modi Stadium",
-            "Sardar Patel Stadium",
-            "Motera Stadium",
-            "Ahmedabad Stadium",
-            "Modi Stadium"
+            "Abu Dhabi",
+            "Doha",
+            "Riyadh",
+            "Dubai",
+            "Cairo"
         ],
         "cat": "Where"
     },
     {
-        "q": "The surface that averages 178 in the first innings is found in which city?",
-        "a": "Ahmedabad",
+        "q": "The interior architect Tristan Auer, leading the Burj Al Arab renovation, is based in which city?",
+        "a": "Paris",
         "options": [
-            "Ahmadabad",
-            "Ahmedabaad",
-            "Ahmedabad",
-            "Ahemdabad",
-            "Ahmedbad"
+            "London",
+            "Milan",
+            "New York",
+            "Paris",
+            "Tokyo"
         ],
         "cat": "Where"
     },
     {
-        "q": "The match mentioned is held in a stadium known by what name?",
-        "a": "Narendra Modi Stadium",
+        "q": "The shocking incident involving Klaudia Zakrzewska occurred outside a nightclub in which city?",
+        "a": "London",
         "options": [
-            "Narendra Modi Stadium",
-            "Modi Stadium",
-            "Narendra Stadium",
-            "Ahmedabad Modi Stadium",
-            "Gujarat Modi Stadium"
+            "Manchester",
+            "Edinburgh",
+            "London",
+            "Birmingham",
+            "Dublin"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city is highlighted for its specific pitch conditions calibrated for Shubman Gill?",
-        "a": "Ahmedabad",
+        "q": "The London incident involving Klaudia Zakrzewska and Gabrielle Carrington took place outside which specific nightclub?",
+        "a": "Inca nightclub",
         "options": [
-            "Ahmadabad",
-            "Ahmedabaad",
-            "Ahmedabad",
-            "Ahemdabad",
-            "Ahmedbad"
+            "Fabric",
+            "Ministry of Sound",
+            "Inca nightclub",
+            "XOYO",
+            "Printworks"
         ],
         "cat": "Where"
     },
     {
-        "q": "The ground consistently rewarding top-order dominance, as mentioned, is located in which city?",
-        "a": "Ahmedabad",
+        "q": "In which specific area of Central London did the incident involving Klaudia Zakrzewska occur?",
+        "a": "Soho",
         "options": [
-            "Ahmadabad",
-            "Ahmedabaad",
-            "Ahmedabad",
-            "Ahemdabad",
-            "Ahmedbad"
+            "Covent Garden",
+            "Mayfair",
+            "Soho",
+            "Shoreditch",
+            "Camden Town"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which stadium is the site of Shubman Gill's personal best score of 129?",
-        "a": "Narendra Modi Stadium",
+        "q": "On which street in Westminster, London, did the car collision involving Klaudia Glam occur?",
+        "a": "Argyll Street",
         "options": [
-            "Narendra Modi Stadium",
-            "Sardar Patel Cricket Stadium",
-            "Motera Cricket Stadium",
-            "Ahmedabad Cricket Stadium",
-            "Gujarat Cricket Stadium"
+            "Oxford Street",
+            "Regent Street",
+            "Argyll Street",
+            "Piccadilly Circus",
+            "Bond Street"
         ],
         "cat": "Where"
     },
     {
-        "q": "The first innings average of 178 is specific to the pitch conditions of which stadium?",
-        "a": "Narendra Modi Stadium",
+        "q": "Twin S, the UK drill rapper, is stated to be from which part of London?",
+        "a": "East London",
         "options": [
-            "Narendra Modi Stadium",
-            "Narendra Modi Pavillion",
-            "Narendra Modi Arena",
-            "Narendra Modi Complex",
-            "Narendra Modi Sports City"
+            "North London",
+            "South London",
+            "East London",
+            "West London",
+            "Central London"
         ],
         "cat": "Where"
     },
     {
-        "q": "Sounak Mukhopadhyay contributes to which digital publication mentioned in the text?",
-        "a": "LiveMint",
+        "q": "The combine harvester distribution program is being held in which district of Karnataka?",
+        "a": "Mandya",
         "options": [
-            "LiveMint",
-            "LiveMint.com",
-            "Live Minnt",
-            "LiveMints",
-            "LiveMint News"
+            "Mysuru",
+            "Bengaluru Rural",
+            "Mandya",
+            "Chamarajanagar",
+            "Hassan"
         ],
         "cat": "Where"
     },
     {
-        "q": "The match, Match 30 of IPL 2026, is specifically stated to be held in which specific city?",
-        "a": "Ahmedabad",
+        "q": "The distribution program for combine harvesters is specifically scheduled to be held on the premises of which university?",
+        "a": "Mandya University",
         "options": [
-            "Ahmadabad",
-            "Ahmedabaad",
-            "Ahmedabad",
-            "Ahemdabad",
-            "Ahmedbad"
+            "Mysore University",
+            "Bangalore University",
+            "Mandya University",
+            "Karnataka University",
+            "Kuvempu University"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the full name of the stadium where Match 30 of IPL 2026 will be played?",
-        "a": "Narendra Modi Stadium",
+        "q": "The Assembly election for which state is mentioned to have its first phase soon?",
+        "a": "West Bengal",
         "options": [
-            "Narendra Modi Stadium",
-            "Narendra Modi Stadium (Ahmedabad)",
-            "Narendra Modi Cricket Ground",
-            "Narendra Modi Sports Ground",
-            "Narendra Modi International Stadium"
+            "Assam",
+            "Odisha",
+            "West Bengal",
+            "Bihar",
+            "Jharkhand"
         ],
         "cat": "Where"
     },
     {
-        "q": "The match between Gujarat Titans and Mumbai Indians is scheduled for which specific IPL season?",
-        "a": "IPL 2026",
+        "q": "On which day of the week was the individual behind the ITC fraud arrested?",
+        "a": "Sunday",
         "options": [
-            "IPL 2025",
-            "IPL 2027",
-            "IPL 2026",
-            "IPL 2024",
-            "IPL 2028"
+            "Monday",
+            "Tuesday",
+            "Sunday",
+            "Wednesday",
+            "Thursday"
         ],
         "cat": "When"
     },
     {
-        "q": "When is Match 30 of IPL 2026, featuring GT vs MI, taking place?",
-        "a": "Tonight",
+        "q": "What is the planned duration for the refurbishment of Dubai's Burj Al Arab hotel?",
+        "a": "18-month",
         "options": [
-            "Tomorrow",
-            "Tonight",
-            "This morning",
-            "Next week",
-            "Yesterday"
+            "12-month",
+            "24-month",
+            "18-month",
+            "6-month",
+            "30-month"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did GT achieve two wins against MI with margins of 55 and 62 runs?",
-        "a": "2023",
+        "q": "The incident involving Klaudia Zakrzewska occurred at approximately what time on Sunday morning?",
+        "a": "4:30 a.m.",
         "options": [
-            "2022",
-            "2024",
-            "2023",
-            "2021",
-            "2025"
+            "3:30 a.m.",
+            "5:30 a.m.",
+            "4:30 a.m.",
+            "2:30 a.m.",
+            "6:30 a.m."
         ],
         "cat": "When"
     },
     {
-        "q": "Besides 2023, in which year did Grok note GT winning two more completed encounters against MI?",
-        "a": "2025",
+        "q": "On what date did Chief Election Commissioner Gyanesh Kumar make his statement regarding West Bengal elections?",
+        "a": "April 20, 2026",
         "options": [
-            "2024",
-            "2026",
-            "2025",
-            "2023",
-            "2027"
+            "April 19, 2026",
+            "April 21, 2026",
+            "April 20, 2026",
+            "April 18, 2026",
+            "April 22, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Jasprit Bumrah's zero wickets across 19 overs are noted for which specific period?",
-        "a": "This season",
+        "q": "The combine harvester distribution program in Mandya is for which financial year?",
+        "a": "2025\u201326",
         "options": [
-            "Last season",
-            "Next season",
-            "This season",
-            "Previous season",
-            "The 2023 season"
+            "2024\u201325",
+            "2026\u201327",
+            "2025\u201326",
+            "2023\u201324",
+            "2027\u201328"
         ],
         "cat": "When"
     },
     {
-        "q": "Shubman Gill's 251 runs at an average of 62.75 have been accumulated during which ongoing period?",
-        "a": "This season",
+        "q": "On which day of the week is the combine harvester distribution program scheduled in Mandya?",
+        "a": "Tuesday",
         "options": [
-            "Last season",
-            "Next season",
-            "This season",
-            "Previous season",
-            "The 2023 season"
+            "Monday",
+            "Wednesday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
         ],
         "cat": "When"
     },
     {
-        "q": "Prasidh Krishna's 11 wickets have been taken within the scope of which competition?",
-        "a": "The tournament",
+        "q": "The news about the ITC fraud was reported by the finance ministry on which day of the week?",
+        "a": "Monday",
         "options": [
-            "Last year's tournament",
-            "The tournament",
-            "A past tournament",
-            "A different league",
-            "A future tournament"
+            "Sunday",
+            "Tuesday",
+            "Monday",
+            "Wednesday",
+            "Thursday"
         ],
         "cat": "When"
     },
     {
-        "q": "Mumbai Indians sit at the foot of the table with 1 win from 5 games in which period?",
-        "a": "This season",
+        "q": "The Burj Al Arab hotel's closure period for refurbishment is expected to be approximately how long?",
+        "a": "18 months",
         "options": [
-            "Last season",
-            "Next season",
-            "This season",
-            "Previous season",
-            "The 2023 season"
+            "6 months",
+            "1 year",
+            "18 months",
+            "2 years",
+            "24 months"
         ],
         "cat": "When"
     },
     {
-        "q": "Gujarat Titans come into tonight on a 3-match winning streak that applies to which period?",
-        "a": "This season",
+        "q": "When did Gabrielle Carrington share a post on social media showing her next to a black Mercedes similar to the one involved in the crash?",
+        "a": "April 7",
         "options": [
-            "Last season",
-            "Next season",
-            "This season",
-            "Previous season",
-            "The 2023 season"
+            "March 7",
+            "May 7",
+            "April 7",
+            "April 1",
+            "April 15"
         ],
         "cat": "When"
     },
     {
-        "q": "The overall head-to-head record of 5-3 for GT against MI spans across which timeframe?",
-        "a": "All-time",
+        "q": "The car collision involving Klaudia Glam occurred early on which day of the week?",
+        "a": "Sunday",
         "options": [
-            "Last 5 years",
-            "All-time",
-            "Last 3 years",
-            "This season only",
-            "First 5 years"
+            "Saturday",
+            "Monday",
+            "Sunday",
+            "Tuesday",
+            "Friday"
         ],
         "cat": "When"
     },
     {
-        "q": "The article discusses match 30 as part of which edition of the Indian Premier League?",
-        "a": "IPL 2026",
+        "q": "How many days were left for the first phase of the Assembly election in West Bengal when Gyanesh Kumar made his statement?",
+        "a": "Two days",
         "options": [
-            "IPL 2025",
-            "IPL 2027",
-            "IPL 2026",
-            "IPL 2024",
-            "IPL 2028"
+            "One day",
+            "Three days",
+            "Two days",
+            "Four days",
+            "Five days"
         ],
         "cat": "When"
     },
     {
-        "q": "The runs scored by Shubman Gill, 356 in the GT vs MI rivalry, span across how many seasons or an overall period?",
-        "a": "All-time",
+        "q": "The incident involving Klaudia Zakrzewska on Argyll Street happened around what time in the morning?",
+        "a": "4:30 AM",
         "options": [
-            "Last 3 seasons",
-            "This season",
-            "All-time",
-            "Last 5 seasons",
-            "Previous 2 seasons"
+            "3:30 AM",
+            "5:30 AM",
+            "4:30 AM",
+            "2:30 AM",
+            "6:30 AM"
         ],
         "cat": "When"
     },
     {
-        "q": "According to the AI tools, what is a key reason for Gujarat Titans' predicted victory?",
-        "a": "Tactical continuity",
+        "q": "What was the primary method used to fraudulently claim ITC according to the investigations?",
+        "a": "Well-structured arrangement to claim ITC and encash through refund claims on zero-rated supplies.",
         "options": [
-            "Tactical continuity",
-            "Strong individual performances",
-            "Home ground advantage",
-            "Luck of the draw",
-            "Weak opposition"
+            "Direct cash withdrawals from government accounts",
+            "Bribery of tax officials",
+            "Well-structured arrangement to claim ITC and encash through refund claims on zero-rated supplies",
+            "Under-reporting export values",
+            "Manipulating currency exchange rates"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is highlighted as a significant structural problem for Mumbai Indians by all three AI tools?",
-        "a": "Jasprit Bumrah taking zero wickets",
+        "q": "What was the main purpose of creating dummy firms in the ITC fraud scheme?",
+        "a": "To create a network for fraudulently claiming ITC.",
         "options": [
-            "Jasprit Bumrah taking zero wickets",
-            "Team's poor fielding",
-            "Captaincy issues",
-            "Lack of foreign players",
-            "Batting collapse"
+            "To evade corporate income tax",
+            "To facilitate illegal currency exchange",
+            "To create a network for fraudulently claiming ITC",
+            "To launder money from drug trafficking",
+            "To gain government contracts"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why do MI lack a proven mechanism to break GT's top order, according to the predictions?",
-        "a": "Their primary strike bowler producing no results",
+        "q": "Why did the arrested individual in the ITC fraud scheme compensate dummy proprietors/directors with fixed monthly cash payments?",
+        "a": "They were merely name lenders for the dummy firms.",
         "options": [
-            "Their primary strike bowler producing no results",
-            "Absence of a strong spinner",
-            "Poor pitch conditions",
-            "GT's strong middle order",
-            "MI's aggressive batting strategy"
+            "For genuine business services provided",
+            "As a bonus for high performance",
+            "They were merely name lenders for the dummy firms",
+            "For their marketing expertise",
+            "To cover travel expenses"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Ahmedabad surface is described as rewarding which type of batters?",
-        "a": "Batters who trust the true bounce",
+        "q": "What kind of products were falsely shown in invoices to create substantial ITC in the fraud scheme?",
+        "a": "High-value tobacco products",
         "options": [
-            "Batters who trust the true bounce",
-            "Spinners who exploit turn",
-            "Fast bowlers who swing the ball",
-            "Defensive batsmen who anchor innings",
-            "All-rounders who contribute everywhere"
+            "Low-value agricultural products",
+            "High-value electronic goods",
+            "High-value tobacco products",
+            "Luxury apparel items",
+            "Industrial chemicals"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why is Shubman Gill considered the most dangerous individual threat in tonight's contest?",
-        "a": "His form and calibration for Ahmedabad's specific pitch conditions",
+        "q": "What is the main reason cited for the Burj Al Arab hotel undertaking an 18-month refurbishment?",
+        "a": "Tourism in Dubai appearing softer, with easing travel demand amid regional tensions.",
         "options": [
-            "His form and calibration for Ahmedabad's specific pitch conditions",
-            "His aggressive captaincy",
-            "His exceptional wicket-keeping",
-            "His ability to bowl fast",
-            "His strong fielding skills"
+            "To expand its capacity with new towers",
+            "To convert into a residential property",
+            "Tourism in Dubai appearing softer, with easing travel demand amid regional tensions",
+            "Due to structural integrity issues",
+            "To comply with new safety regulations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the characteristic of GT's pace attack that contributes to its effectiveness?",
-        "a": "Functioning as a cohesive unit",
+        "q": "What is the renovation of Burj Al Arab aiming for, beyond small fixes?",
+        "a": "A complete refresh",
         "options": [
-            "Functioning as a cohesive unit",
-            "Reliance on one star bowler",
-            "Individual brilliance only",
-            "Aggressive sledging tactics",
-            "Frequent rotation of players"
+            "A partial upgrade",
+            "A complete demolition",
+            "A complete refresh",
+            "An architectural extension",
+            "A change in ownership"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is Rashid Khan's specific role in GT's bowling unit, as described?",
-        "a": "Middle-overs control with ability to break partnerships",
+        "q": "For what reason was Gabrielle Carrington arrested following the London incident?",
+        "a": "Suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving.",
         "options": [
-            "Middle-overs control with ability to break partnerships",
-            "Powerplay wicket-taker",
-            "Death-overs specialist",
-            "Opening bowler",
-            "Pinch hitter"
+            "Theft and vandalism",
+            "Assault and battery",
+            "Suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving",
+            "Public disorder and harassment",
+            "Conspiracy to defraud"
         ],
         "cat": "Why"
     },
     {
-        "q": "Mumbai Indians' bowling combination has been compromised by what factor?",
-        "a": "Overseas selection constraints",
+        "q": "Why were low-value tobacco products mis-declared as high-value products in the ITC fraud scheme?",
+        "a": "To inflate turnover for refund claims.",
         "options": [
-            "Overseas selection constraints",
-            "Lack of local talent",
-            "Captain's poor decisions",
-            "Excessive number of domestic players",
-            "Strategic mismanagement"
+            "To confuse customs officials",
+            "To attract more domestic buyers",
+            "To inflate turnover for refund claims",
+            "To reduce shipping costs",
+            "To improve product perception"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the specific reporting focuses of Sounak Mukhopadhyay for LiveMint?",
-        "a": "Fast-moving stories",
+        "q": "What was the purpose of circulating fake invoices through multiple intermediary firms in the ITC fraud?",
+        "a": "To form a layered chain of transactions and create an artificial trail of trading activity.",
         "options": [
-            "Fast-moving stories",
-            "Detailed historical analysis",
-            "In-depth investigative journalism",
-            "Economic policy debates",
-            "Political commentary"
+            "To diversify business operations",
+            "To avoid market competition",
+            "To form a layered chain of transactions and create an artificial trail of trading activity",
+            "To speed up delivery times",
+            "To qualify for government subsidies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What does Sounak Mukhopadhyay prioritize in his journalistic approach?",
-        "a": "Factual depth",
+        "q": "What is the purpose of the hi-tech harvester hub scheme under which combine harvesters are distributed?",
+        "a": "To provide hi-tech harvesters to farmers.",
         "options": [
-            "Factual depth",
-            "Sensationalism",
-            "Personal opinions",
-            "Quick updates without context",
-            "Political endorsements"
+            "To promote organic farming",
+            "To encourage manual labor",
+            "To provide hi-tech harvesters to farmers",
+            "To reduce crop rotation",
+            "To increase water usage efficiency"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a primary aim of Sounak's journalism mentioned in the text?",
-        "a": "To document the rhythms of modern entertainment and sports while maintaining rigorous editorial integrity.",
+        "q": "What assurance did Chief Election Commissioner Gyanesh Kumar give regarding the West Bengal elections?",
+        "a": "To hold free, fair and transparent elections.",
         "options": [
-            "To document the rhythms of modern entertainment and sports while maintaining rigorous editorial integrity.",
-            "To criticize celebrity lifestyles.",
-            "To promote specific political views.",
-            "To focus solely on financial news.",
-            "To create fictional narratives."
+            "To ensure high voter turnout",
+            "To strictly implement exit polls",
+            "To hold free, fair and transparent elections",
+            "To prioritize digital voting",
+            "To collaborate with international observers"
         ],
         "cat": "Why"
     },
     {
-        "q": "What quality does Sounak's work seek to deliver in a rapidly-changing information environment?",
-        "a": "Clarity, trust, and lasting public value",
+        "q": "What was the specific activity that masterminds handled centrally for the dummy firms in the ITC fraud?",
+        "a": "GST registration, invoice generation, banking operations, filing of returns and submission of refund claims.",
         "options": [
-            "Clarity, trust, and lasting public value",
-            "Controversy, gossip, and short-term trends",
-            "Speed, entertainment, and personal opinions",
-            "Political influence, social commentary, and activism",
-            "Financial gains, brand building, and advertising revenue"
+            "Product manufacturing and distribution",
+            "Real estate acquisitions",
+            "GST registration, invoice generation, banking operations, filing of returns and submission of refund claims",
+            "International trade negotiations",
+            "Hiring and training of genuine employees"
         ],
         "cat": "Why"
     }
