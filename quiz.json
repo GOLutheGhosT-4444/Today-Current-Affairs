@@ -1,498 +1,546 @@
 [
     {
-        "q": "What is the total input tax credit (ITC) fraud unearthed by the Directorate General of GST Intelligence (DGGI)?",
-        "a": "\u20b91,825 crore",
+        "q": "What was Heinrich Klaasen's run tally before the start of the match where Abhishek Sharma surpassed him for the Orange Cap?",
+        "a": "283 runs",
         "options": [
-            "\u20b91,835 crore",
-            "\u20b91,815 crore",
-            "\u20b91,825 crore",
-            "\u20b91,830 crore",
-            "\u20b91,820 crore"
+            "278 runs",
+            "288 runs",
+            "283 runs",
+            "293 runs",
+            "273 runs"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many summons had the arrested individual not responded to before being apprehended by DGGI?",
-        "a": "Nearly two dozen",
+        "q": "How many runs did Abhishek Sharma score in his innings that led him to clinch the Orange Cap?",
+        "a": "135 runs",
         "options": [
-            "Nearly one dozen",
-            "Nearly two dozen",
-            "Nearly three dozen",
-            "Exactly twenty",
-            "More than thirty"
+            "140 runs",
+            "130 runs",
+            "135 runs",
+            "145 runs",
+            "125 runs"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years of experience does Gireesh have in leading news organizations?",
-        "a": "25 years",
+        "q": "In how many balls did Abhishek Sharma score his 135 runs?",
+        "a": "68 balls",
         "options": [
-            "24 years",
-            "26 years",
-            "25 years",
-            "23 years",
-            "27 years"
+            "65 balls",
+            "70 balls",
+            "68 balls",
+            "73 balls",
+            "63 balls"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate number of Instagram followers Gabrielle Carrington (rielleuk) has?",
-        "a": "Over 360,000",
+        "q": "What was Travis Head's score when he departed in the ninth over?",
+        "a": "37 runs",
         "options": [
-            "Over 370,000",
-            "Over 350,000",
-            "Over 360,000",
-            "Over 355,000",
-            "Over 365,000"
+            "35 runs",
+            "40 runs",
+            "37 runs",
+            "42 runs",
+            "32 runs"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate number of Instagram followers Klaudia Zakrzewska (klaudiaglam) has?",
-        "a": "Around 260,000",
+        "q": "How many balls did Abhishek Sharma take to complete his first fifty runs?",
+        "a": "25 balls",
         "options": [
-            "Around 270,000",
-            "Around 250,000",
-            "Around 260,000",
-            "Around 255,000",
-            "Around 265,000"
+            "22 balls",
+            "27 balls",
+            "25 balls",
+            "30 balls",
+            "20 balls"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many other people were hit by the car during the incident involving Klaudia Zakrzewska?",
-        "a": "Two",
+        "q": "How many balls did Abhishek Sharma take to complete his second fifty, registering his second IPL hundred?",
+        "a": "22 balls",
         "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
+            "25 balls",
+            "20 balls",
+            "22 balls",
+            "27 balls",
+            "19 balls"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the age range of the man who suffered life-changing injuries in the London incident?",
-        "a": "In his 50s",
+        "q": "How many fours did Abhishek Sharma smash during his innings of 135 not out?",
+        "a": "10 fours",
         "options": [
-            "In his 40s",
-            "In his 60s",
-            "In his 50s",
-            "In his 30s",
-            "In his 70s"
+            "8 fours",
+            "12 fours",
+            "10 fours",
+            "9 fours",
+            "11 fours"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the age range of the woman who suffered minor injuries in the London incident?",
-        "a": "In her 30s",
+        "q": "How many sixes did Abhishek Sharma smash during his innings of 135 not out?",
+        "a": "10 sixes",
         "options": [
-            "In her 20s",
-            "In her 40s",
-            "In her 30s",
-            "In her 50s",
-            "In her 60s"
+            "8 sixes",
+            "12 sixes",
+            "10 sixes",
+            "9 sixes",
+            "11 sixes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum number of combine harvesters mentioned for distribution in Mandya?",
-        "a": "11",
+        "q": "What was Heinrich Klaasen's score in his innings against Delhi Capitals?",
+        "a": "37 runs",
         "options": [
-            "9",
+            "35 runs",
+            "40 runs",
+            "37 runs",
+            "42 runs",
+            "32 runs"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many balls did Heinrich Klaasen face for his 37 runs?",
+        "a": "13 balls",
+        "options": [
+            "10 balls",
+            "15 balls",
+            "13 balls",
+            "16 balls",
+            "12 balls"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is Heinrich Klaasen's current total run tally mentioned in the news?",
+        "a": "320 runs",
+        "options": [
+            "315 runs",
+            "325 runs",
+            "320 runs",
+            "330 runs",
+            "310 runs"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many batters had 300-plus runs at the time of the news article?",
+        "a": "2",
+        "options": [
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Ishan Kishan's score in his knock that moved him to sixth place?",
+        "a": "25 runs",
+        "options": [
+            "20 runs",
+            "30 runs",
+            "25 runs",
+            "27 runs",
+            "23 runs"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many T20 centuries did Abhishek Sharma reach with his innings, drawing level with Virat Kohli?",
+        "a": "9",
+        "options": [
+            "8",
             "10",
-            "11",
-            "12",
-            "15"
+            "9",
+            "7",
+            "11"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the reported fraud amount in terms of ITC unearthed by DGGI?",
-        "a": "\u20b91,825 crore",
+        "q": "What significant milestone did Abhishek Sharma complete in T20 cricket in terms of sixes?",
+        "a": "350 sixes",
         "options": [
-            "\u20b91,835 crore",
-            "\u20b91,815 crore",
-            "\u20b91,825 crore",
-            "\u20b91,830 crore",
-            "\u20b91,820 crore"
+            "340 sixes",
+            "360 sixes",
+            "350 sixes",
+            "355 sixes",
+            "345 sixes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many economic offences was the arrested individual wanted in, as stated by the finance ministry?",
-        "a": "Many",
+        "q": "How many IPL runs did Abhishek Sharma complete for Sunrisers Hyderabad?",
+        "a": "2000 runs",
         "options": [
-            "Few",
-            "Several",
-            "Many",
-            "Dozens",
-            "Hundreds"
+            "1950 runs",
+            "2050 runs",
+            "2000 runs",
+            "2100 runs",
+            "1900 runs"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the reported number of summons issued by DGGI that the arrested individual failed to respond to?",
-        "a": "Nearly two dozen",
+        "q": "How many centuries does Chris Gayle lead with in the all-time T20 list?",
+        "a": "22 centuries",
         "options": [
-            "Approximately 12",
-            "Approximately 24",
-            "Approximately 36",
-            "Approximately 18",
-            "Approximately 30"
+            "20 centuries",
+            "24 centuries",
+            "22 centuries",
+            "21 centuries",
+            "23 centuries"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which government agency unearthed the \u20b91,825 crore input tax credit (ITC) fraud?",
-        "a": "Directorate General of GST Intelligence (DGGI)",
+        "q": "What amount, in Indian rupees, has an external SEBI panel recommended the National Stock Exchange of India (NSE) settle pending legal disputes for?",
+        "a": "\u20b91,800 crore",
         "options": [
-            "Central Bureau of Investigation (CBI)",
-            "Enforcement Directorate (ED)",
-            "Directorate General of GST Intelligence (DGGI)",
-            "Income Tax Department (ITD)",
-            "Serious Fraud Investigation Office (SFIO)"
+            "\u20b91,750 crore",
+            "\u20b91,850 crore",
+            "\u20b91,800 crore",
+            "\u20b91,900 crore",
+            "\u20b91,700 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many deaths resulted from the mass shooting at Florida State University?",
+        "a": "2 deaths",
+        "options": [
+            "1 death",
+            "3 deaths",
+            "2 deaths",
+            "4 deaths",
+            "5 deaths"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many injuries resulted from the mass shooting at Florida State University?",
+        "a": "7 injuries",
+        "options": [
+            "6 injuries",
+            "8 injuries",
+            "7 injuries",
+            "9 injuries",
+            "5 injuries"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the age of Robert Morales, one of the victims of the Florida State University shooting?",
+        "a": "57",
+        "options": [
+            "55",
+            "60",
+            "57",
+            "58",
+            "56"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the age of Tiru Chabba, one of the victims of the Florida State University shooting?",
+        "a": "45",
+        "options": [
+            "40",
+            "50",
+            "45",
+            "46",
+            "44"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was leading the Orange Cap list before the start of the match between Sunrisers Hyderabad and Delhi Capitals?",
+        "a": "Heinrich Klaasen",
+        "options": [
+            "Abhishek Sharma",
+            "Travis Head",
+            "Heinrich Klaasen",
+            "Shubman Gill",
+            "Virat Kohli"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was arrested from the New Delhi airport in connection with the ITC fraud?",
-        "a": "An individual behind the fraud",
+        "q": "Who clinched the Orange Cap after his innings against Delhi Capitals?",
+        "a": "Abhishek Sharma",
         "options": [
-            "A senior finance ministry official",
-            "An individual behind the fraud",
-            "A prominent exporter",
-            "A bank manager",
-            "A customs officer"
+            "Heinrich Klaasen",
+            "Travis Head",
+            "Abhishek Sharma",
+            "Shubman Gill",
+            "Virat Kohli"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is described as writing on the Indian economy, government policy, and regulatory developments?",
-        "a": "Gireesh",
+        "q": "Who was Abhishek Sharma's opening partner who scored 37 runs?",
+        "a": "Travis Head",
         "options": [
-            "Gyanesh Kumar",
-            "Tristan Auer",
-            "N. Cheluvarayaswamy",
-            "Gireesh",
-            "Alixson Foxwell"
+            "Heinrich Klaasen",
+            "Travis Head",
+            "Ishan Kishan",
+            "Rajat Patidar",
+            "Yashasvi Jaiswal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the owner of the Burj Al Arab hotel in Dubai?",
-        "a": "Jumeirah",
+        "q": "Who bowled the final over in which Heinrich Klaasen tried to maintain his lead?",
+        "a": "Mukesh Kumar",
         "options": [
-            "Emaar Properties",
-            "Nakheel",
-            "Jumeirah",
-            "AccorHotels",
-            "Hilton Worldwide"
+            "Pat Cummins",
+            "Bhuvneshwar Kumar",
+            "Mukesh Kumar",
+            "T Natarajan",
+            "Rashid Khan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is leading the phased upgrades for the Burj Al Arab refurbishment project?",
-        "a": "Tristan Auer",
+        "q": "Who is the captain of Gujarat Titans mentioned in the news?",
+        "a": "Shubman Gill",
         "options": [
-            "Zaha Hadid",
-            "Frank Gehry",
-            "Tristan Auer",
-            "Santiago Calatrava",
-            "Renzo Piano"
+            "Hardik Pandya",
+            "Rashid Khan",
+            "Shubman Gill",
+            "Kane Williamson",
+            "David Miller"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is known online as Klaudia Glam and was involved in a shocking incident in London?",
-        "a": "Klaudia Zakrzewska",
+        "q": "Who is the Royal Challengers Bengaluru (RCB) player mentioned as occupying the fourth spot in the run list?",
+        "a": "Virat Kohli",
         "options": [
-            "Gabrielle Carrington",
-            "Klaudia Zakrzewska",
-            "Twin S",
-            "Twin H",
-            "Alixson Foxwell"
+            "Faf du Plessis",
+            "Glenn Maxwell",
+            "Virat Kohli",
+            "Rajat Patidar",
+            "Dinesh Karthik"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was arrested on suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving in the London incident?",
-        "a": "Gabrielle Carrington",
+        "q": "Who is the teen Rajasthan Royals sensation mentioned in the fifth spot?",
+        "a": "Vaibhav Suryavanshi",
         "options": [
-            "Klaudia Zakrzewska",
-            "Twin S",
-            "Gabrielle Carrington",
-            "A male bystander",
-            "The nightclub owner"
+            "Yashasvi Jaiswal",
+            "Sanju Samson",
+            "Riyan Parag",
+            "Vaibhav Suryavanshi",
+            "Trent Boult"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Detective Chief Inspector asking for witnesses to come forward regarding the London incident?",
-        "a": "Alixson Foxwell",
+        "q": "Who is the second batter, after Chris Gayle, to strike 10 sixes in a single IPL innings more than once?",
+        "a": "Abhishek Sharma",
         "options": [
-            "John Smith",
-            "Maria Lopez",
-            "Alixson Foxwell",
-            "David Chen",
-            "Sarah Jones"
+            "Virat Kohli",
+            "Rohit Sharma",
+            "Abhishek Sharma",
+            "MS Dhoni",
+            "KL Rahul"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is a UK drill rapper linked by online posts (though not officially) to the London incident?",
-        "a": "Twin S",
+        "q": "Which former Sunrisers Hyderabad player, along with David Warner and Kane Williamson, is mentioned in the elite list of completing 2000 IPL runs for SRH, besides Abhishek Sharma?",
+        "a": "Shikhar Dhawan",
         "options": [
-            "Potter Payper",
-            "Twin H",
-            "Twin S",
-            "Drake",
-            "Skepta"
+            "Yuvraj Singh",
+            "Shikhar Dhawan",
+            "Aaron Finch",
+            "Brendon McCullum",
+            "Dale Steyn"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the district in-charge Minister attending the combine harvester distribution program in Mandya?",
-        "a": "N. Cheluvarayaswamy",
+        "q": "Who is the Pakistan batter mentioned with 12 T20 centuries in the all-time list?",
+        "a": "Babar Azam",
         "options": [
-            "B.S. Yeddyurappa",
-            "Siddaramaiah",
-            "N. Cheluvarayaswamy",
-            "D.K. Shivakumar",
-            "H.D. Kumaraswamy"
+            "Mohammad Rizwan",
+            "Shoaib Malik",
+            "Babar Azam",
+            "Fakhar Zaman",
+            "Imam-ul-Haq"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Election Commissioner who stated that West Bengal elections would be free and transparent?",
-        "a": "Gyanesh Kumar",
+        "q": "Who is the Australian batter mentioned with 10 T20 centuries in the all-time list?",
+        "a": "David Warner",
         "options": [
-            "Om Prakash Rawat",
-            "Sunil Arora",
-            "Gyanesh Kumar",
-            "Rajiv Kumar",
-            "V.S. Sampath"
+            "Aaron Finch",
+            "Glenn Maxwell",
+            "Steve Smith",
+            "David Warner",
+            "Mitchell Marsh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity did Gireesh cover, in addition to his other reporting areas?",
-        "a": "NITI Aayog",
+        "q": "Who is the Deputy Chief Content Producer at LiveMint who authored the news article?",
+        "a": "Koushik",
         "options": [
-            "RBI",
-            "SEBI",
-            "NITI Aayog",
-            "IRDAI",
-            "PFRDA"
+            "James Uthmeier",
+            "Neama Rahmani",
+            "Koushik",
+            "Surya Kant",
+            "Vikram Nath"
         ],
         "cat": "Who"
     },
     {
-        "q": "From which airport was the individual behind the ITC fraud arrested?",
-        "a": "New Delhi airport",
+        "q": "Who is the Florida Attorney General that launched a criminal investigation into an AI chatbot's role in a mass shooting?",
+        "a": "James Uthmeier",
         "options": [
-            "Mumbai airport",
-            "Bengaluru airport",
-            "New Delhi airport",
-            "Dubai airport",
-            "Chennai airport"
+            "Neama Rahmani",
+            "Phoenix Ikner",
+            "Robert Morales",
+            "James Uthmeier",
+            "Tiru Chabba"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the alleged gunman in the Florida State University mass shooting?",
+        "a": "Phoenix Ikner",
+        "options": [
+            "Robert Morales",
+            "Tiru Chabba",
+            "Phoenix Ikner",
+            "James Uthmeier",
+            "Neama Rahmani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Justice of India heading the nine-judge Bench for the Sabarimala review case?",
+        "a": "Surya Kant",
+        "options": [
+            "Vikram Nath",
+            "Sandeep Mehta",
+            "Surya Kant",
+            "D.Y. Chandrachud",
+            "N.V. Ramana"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the IPL match between Sunrisers Hyderabad and Delhi Capitals played?",
+        "a": "Rajiv Gandhi International stadium",
+        "options": [
+            "Feroz Shah Kotla Ground",
+            "Wankhede Stadium",
+            "Rajiv Gandhi International stadium",
+            "M. Chinnaswamy Stadium",
+            "Narendra Modi Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "The arrested individual was returning from which city when apprehended by DGGI officials?",
-        "a": "Dubai",
+        "q": "Where did Abhishek Sharma register his first IPL hundred (and also his second)?",
+        "a": "Rajiv Gandhi International stadium",
         "options": [
-            "London",
-            "Singapore",
-            "Dubai",
-            "New York",
-            "Hong Kong"
+            "MA Chidambaram Stadium",
+            "Eden Gardens",
+            "Rajiv Gandhi International stadium",
+            "Sawai Mansingh Stadium",
+            "IS Bindra Stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city is home to the Burj Al Arab hotel, currently undergoing refurbishment?",
-        "a": "Dubai",
+        "q": "Which city is Maharaja Manindra Chandra College, Koushik's alma mater, located in?",
+        "a": "Kolkata",
         "options": [
-            "Abu Dhabi",
-            "Doha",
-            "Riyadh",
-            "Dubai",
-            "Cairo"
+            "Mumbai",
+            "Delhi",
+            "Kolkata",
+            "Chennai",
+            "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "The interior architect Tristan Auer, leading the Burj Al Arab renovation, is based in which city?",
-        "a": "Paris",
+        "q": "In which city did Lionel Messi make a historic visit in 2025, as covered by Koushik?",
+        "a": "Kolkata",
         "options": [
-            "London",
-            "Milan",
-            "New York",
-            "Paris",
-            "Tokyo"
+            "Mumbai",
+            "Delhi",
+            "Kolkata",
+            "Chennai",
+            "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "The shocking incident involving Klaudia Zakrzewska occurred outside a nightclub in which city?",
-        "a": "London",
+        "q": "Where is the Florida State University campus located where the mass shooting occurred?",
+        "a": "Tallahassee",
         "options": [
-            "Manchester",
-            "Edinburgh",
-            "London",
-            "Birmingham",
-            "Dublin"
+            "Miami",
+            "Orlando",
+            "Tampa",
+            "Tallahassee",
+            "Jacksonville"
         ],
         "cat": "Where"
     },
     {
-        "q": "The London incident involving Klaudia Zakrzewska and Gabrielle Carrington took place outside which specific nightclub?",
-        "a": "Inca nightclub",
+        "q": "Where was the press conference held by Attorney General James Uthmeier regarding the AI chatbot investigation?",
+        "a": "Tampa",
         "options": [
-            "Fabric",
-            "Ministry of Sound",
-            "Inca nightclub",
-            "XOYO",
-            "Printworks"
+            "Tallahassee",
+            "Miami",
+            "Orlando",
+            "Tampa",
+            "Jacksonville"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which specific area of Central London did the incident involving Klaudia Zakrzewska occur?",
-        "a": "Soho",
+        "q": "The Sabarimala temple, central to a Supreme Court review case regarding the exclusion of menstruating women, is located in which Indian state?",
+        "a": "Kerala",
         "options": [
-            "Covent Garden",
-            "Mayfair",
-            "Soho",
-            "Shoreditch",
-            "Camden Town"
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Andhra Pradesh",
+            "Telangana"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which street in Westminster, London, did the car collision involving Klaudia Glam occur?",
-        "a": "Argyll Street",
+        "q": "What is Koushik's current primary base of operation mentioned in the article?",
+        "a": "Kolkata and Delhi",
         "options": [
-            "Oxford Street",
-            "Regent Street",
-            "Argyll Street",
-            "Piccadilly Circus",
-            "Bond Street"
+            "Mumbai and Bengaluru",
+            "Chennai and Hyderabad",
+            "Kolkata and Delhi",
+            "Ahmedabad and Pune",
+            "Lucknow and Jaipur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Twin S, the UK drill rapper, is stated to be from which part of London?",
-        "a": "East London",
-        "options": [
-            "North London",
-            "South London",
-            "East London",
-            "West London",
-            "Central London"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The combine harvester distribution program is being held in which district of Karnataka?",
-        "a": "Mandya",
-        "options": [
-            "Mysuru",
-            "Bengaluru Rural",
-            "Mandya",
-            "Chamarajanagar",
-            "Hassan"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The distribution program for combine harvesters is specifically scheduled to be held on the premises of which university?",
-        "a": "Mandya University",
-        "options": [
-            "Mysore University",
-            "Bangalore University",
-            "Mandya University",
-            "Karnataka University",
-            "Kuvempu University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Assembly election for which state is mentioned to have its first phase soon?",
-        "a": "West Bengal",
-        "options": [
-            "Assam",
-            "Odisha",
-            "West Bengal",
-            "Bihar",
-            "Jharkhand"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which day of the week was the individual behind the ITC fraud arrested?",
-        "a": "Sunday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Sunday",
-            "Wednesday",
-            "Thursday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the planned duration for the refurbishment of Dubai's Burj Al Arab hotel?",
-        "a": "18-month",
-        "options": [
-            "12-month",
-            "24-month",
-            "18-month",
-            "6-month",
-            "30-month"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The incident involving Klaudia Zakrzewska occurred at approximately what time on Sunday morning?",
-        "a": "4:30 a.m.",
-        "options": [
-            "3:30 a.m.",
-            "5:30 a.m.",
-            "4:30 a.m.",
-            "2:30 a.m.",
-            "6:30 a.m."
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Chief Election Commissioner Gyanesh Kumar make his statement regarding West Bengal elections?",
-        "a": "April 20, 2026",
-        "options": [
-            "April 19, 2026",
-            "April 21, 2026",
-            "April 20, 2026",
-            "April 18, 2026",
-            "April 22, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The combine harvester distribution program in Mandya is for which financial year?",
-        "a": "2025\u201326",
-        "options": [
-            "2024\u201325",
-            "2026\u201327",
-            "2025\u201326",
-            "2023\u201324",
-            "2027\u201328"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day of the week is the combine harvester distribution program scheduled in Mandya?",
+        "q": "The IPL match between Sunrisers Hyderabad and Delhi Capitals took place on which day of the week?",
         "a": "Tuesday",
         "options": [
             "Monday",
@@ -504,219 +552,169 @@
         "cat": "When"
     },
     {
-        "q": "The news about the ITC fraud was reported by the finance ministry on which day of the week?",
-        "a": "Monday",
+        "q": "In which year did Koushik join LiveMint as a Deputy Chief Content Producer?",
+        "a": "2024",
         "options": [
-            "Sunday",
-            "Tuesday",
-            "Monday",
-            "Wednesday",
-            "Thursday"
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2021"
         ],
         "cat": "When"
     },
     {
-        "q": "The Burj Al Arab hotel's closure period for refurbishment is expected to be approximately how long?",
-        "a": "18 months",
+        "q": "In which year did Koushik graduate with a Journalism and Mass Communication degree?",
+        "a": "2017",
         "options": [
-            "6 months",
-            "1 year",
-            "18 months",
-            "2 years",
-            "24 months"
+            "2016",
+            "2018",
+            "2017",
+            "2019",
+            "2015"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Gabrielle Carrington share a post on social media showing her next to a black Mercedes similar to the one involved in the crash?",
-        "a": "April 7",
+        "q": "The FIFA U17 World Cup, on which Koushik reported, was held in which year?",
+        "a": "2017",
         "options": [
-            "March 7",
-            "May 7",
-            "April 7",
-            "April 1",
-            "April 15"
+            "2016",
+            "2018",
+            "2017",
+            "2019",
+            "2015"
         ],
         "cat": "When"
     },
     {
-        "q": "The car collision involving Klaudia Glam occurred early on which day of the week?",
-        "a": "Sunday",
+        "q": "In which year did Lionel Messi make his historic visit to Kolkata, as mentioned in the news?",
+        "a": "2025",
         "options": [
-            "Saturday",
-            "Monday",
-            "Sunday",
-            "Tuesday",
-            "Friday"
+            "2024",
+            "2026",
+            "2025",
+            "2023",
+            "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "How many days were left for the first phase of the Assembly election in West Bengal when Gyanesh Kumar made his statement?",
-        "a": "Two days",
+        "q": "The criminal investigation into the AI chatbot's role in the Florida State University shooting pertains to an attack on which date?",
+        "a": "April 17, 2025",
         "options": [
-            "One day",
-            "Three days",
-            "Two days",
-            "Four days",
-            "Five days"
+            "April 10, 2025",
+            "April 20, 2025",
+            "April 17, 2025",
+            "April 15, 2025",
+            "April 22, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "The incident involving Klaudia Zakrzewska on Argyll Street happened around what time in the morning?",
-        "a": "4:30 AM",
+        "q": "On what date did the Supreme Court seek responses on a plea challenging the validity of the National Investigation Agency Act, 2008?",
+        "a": "April 21, 2026",
         "options": [
-            "3:30 AM",
-            "5:30 AM",
-            "4:30 AM",
-            "2:30 AM",
-            "6:30 AM"
+            "April 19, 2026",
+            "April 20, 2026",
+            "April 21, 2026",
+            "April 22, 2026",
+            "April 23, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary method used to fraudulently claim ITC according to the investigations?",
-        "a": "Well-structured arrangement to claim ITC and encash through refund claims on zero-rated supplies.",
+        "q": "On what date did the Supreme Court question the Sabarimala tantri regarding age-old religious practices?",
+        "a": "April 21, 2026",
         "options": [
-            "Direct cash withdrawals from government accounts",
-            "Bribery of tax officials",
-            "Well-structured arrangement to claim ITC and encash through refund claims on zero-rated supplies",
-            "Under-reporting export values",
-            "Manipulating currency exchange rates"
+            "April 19, 2026",
+            "April 20, 2026",
+            "April 21, 2026",
+            "April 22, 2026",
+            "April 23, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the purpose of the Orange Cap in the Indian Premier League (IPL)?",
+        "a": "Given to the player with most runs",
+        "options": [
+            "Given to the player with most wickets",
+            "Given to the player with most sixes",
+            "Given to the player with most runs",
+            "Given to the player with best strike rate",
+            "Given to the player with most catches"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main purpose of creating dummy firms in the ITC fraud scheme?",
-        "a": "To create a network for fraudulently claiming ITC.",
+        "q": "Why has the National Stock Exchange of India's (NSE) initial public offering (IPO) been delayed for nearly 10 years?",
+        "a": "Allegations of governance lapses and failure to provide equitable access",
         "options": [
-            "To evade corporate income tax",
-            "To facilitate illegal currency exchange",
-            "To create a network for fraudulently claiming ITC",
-            "To launder money from drug trafficking",
-            "To gain government contracts"
+            "Lack of investor interest",
+            "Market volatility",
+            "Allegations of governance lapses and failure to provide equitable access",
+            "Disputes over valuation",
+            "Regulatory approval issues"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the arrested individual in the ITC fraud scheme compensate dummy proprietors/directors with fixed monthly cash payments?",
-        "a": "They were merely name lenders for the dummy firms.",
+        "q": "What is the primary reason for the criminal investigation launched by Florida Attorney General James Uthmeier regarding the mass shooting?",
+        "a": "To determine if an AI chatbot provided guidance to the alleged gunman",
         "options": [
-            "For genuine business services provided",
-            "As a bonus for high performance",
-            "They were merely name lenders for the dummy firms",
-            "For their marketing expertise",
-            "To cover travel expenses"
+            "To identify the shooter's motive",
+            "To determine if the shooter had accomplices",
+            "To investigate security lapses at the university",
+            "To determine if an AI chatbot provided guidance to the alleged gunman",
+            "To assess the university's emergency response"
         ],
         "cat": "Why"
     },
     {
-        "q": "What kind of products were falsely shown in invoices to create substantial ITC in the fraud scheme?",
-        "a": "High-value tobacco products",
+        "q": "What is the purpose of the plea challenged in the Supreme Court on April 21, 2026, concerning the National Investigation Agency Act?",
+        "a": "Challenging the validity of the National Investigation Agency Act, 2008",
         "options": [
-            "Low-value agricultural products",
-            "High-value electronic goods",
-            "High-value tobacco products",
-            "Luxury apparel items",
-            "Industrial chemicals"
+            "Seeking amendments to the Act",
+            "Challenging the validity of the National Investigation Agency Act, 2008",
+            "Demanding increased funding for NIA",
+            "Requesting expansion of NIA's powers",
+            "Appointing new director for NIA"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main reason cited for the Burj Al Arab hotel undertaking an 18-month refurbishment?",
-        "a": "Tourism in Dubai appearing softer, with easing travel demand amid regional tensions.",
+        "q": "What was the backdrop for the Supreme Court's question to the Sabarimala tantri regarding age-old religious practices?",
+        "a": "The exclusion of menstruating women from the temple",
         "options": [
-            "To expand its capacity with new towers",
-            "To convert into a residential property",
-            "Tourism in Dubai appearing softer, with easing travel demand amid regional tensions",
-            "Due to structural integrity issues",
-            "To comply with new safety regulations"
+            "Disputes over temple management",
+            "Demand for increased pilgrim facilities",
+            "The exclusion of menstruating women from the temple",
+            "Concerns about environmental impact",
+            "Petition for a new temple structure"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the renovation of Burj Al Arab aiming for, beyond small fixes?",
-        "a": "A complete refresh",
+        "q": "What kind of guidance did the Attorney General allege ChatGPT offered the shooter before the Florida State University attack?",
+        "a": "Detailed answers about weapons, planning, gun/ammunition types, and crowded areas",
         "options": [
-            "A partial upgrade",
-            "A complete demolition",
-            "A complete refresh",
-            "An architectural extension",
-            "A change in ownership"
-        ],
-        "cat": "Why"
+            "Information on police response times",
+            "Details on university security protocols",
+            "Psychological manipulation techniques",
+            "Detailed answers about weapons, planning, gun/ammunition types, and crowded areas",
+            "Methods for escaping detection after the crime"
+        ]
     },
     {
-        "q": "For what reason was Gabrielle Carrington arrested following the London incident?",
-        "a": "Suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving.",
+        "q": "According to OpenAI, what was the nature of the chatbot's replies that were criticized in the Florida shooting investigation?",
+        "a": "Factual responses to questions with information found broadly across public sources",
         "options": [
-            "Theft and vandalism",
-            "Assault and battery",
-            "Suspicion of attempted murder, grievous bodily harm, dangerous driving, and drink driving",
-            "Public disorder and harassment",
-            "Conspiracy to defraud"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why were low-value tobacco products mis-declared as high-value products in the ITC fraud scheme?",
-        "a": "To inflate turnover for refund claims.",
-        "options": [
-            "To confuse customs officials",
-            "To attract more domestic buyers",
-            "To inflate turnover for refund claims",
-            "To reduce shipping costs",
-            "To improve product perception"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the purpose of circulating fake invoices through multiple intermediary firms in the ITC fraud?",
-        "a": "To form a layered chain of transactions and create an artificial trail of trading activity.",
-        "options": [
-            "To diversify business operations",
-            "To avoid market competition",
-            "To form a layered chain of transactions and create an artificial trail of trading activity",
-            "To speed up delivery times",
-            "To qualify for government subsidies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the hi-tech harvester hub scheme under which combine harvesters are distributed?",
-        "a": "To provide hi-tech harvesters to farmers.",
-        "options": [
-            "To promote organic farming",
-            "To encourage manual labor",
-            "To provide hi-tech harvesters to farmers",
-            "To reduce crop rotation",
-            "To increase water usage efficiency"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What assurance did Chief Election Commissioner Gyanesh Kumar give regarding the West Bengal elections?",
-        "a": "To hold free, fair and transparent elections.",
-        "options": [
-            "To ensure high voter turnout",
-            "To strictly implement exit polls",
-            "To hold free, fair and transparent elections",
-            "To prioritize digital voting",
-            "To collaborate with international observers"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the specific activity that masterminds handled centrally for the dummy firms in the ITC fraud?",
-        "a": "GST registration, invoice generation, banking operations, filing of returns and submission of refund claims.",
-        "options": [
-            "Product manufacturing and distribution",
-            "Real estate acquisitions",
-            "GST registration, invoice generation, banking operations, filing of returns and submission of refund claims",
-            "International trade negotiations",
-            "Hiring and training of genuine employees"
-        ],
-        "cat": "Why"
+            "Encouragement for harmful activities",
+            "Promotion of illegal acts",
+            "Factual responses to questions with information found broadly across public sources",
+            "Direct instructions for violence",
+            "Biased and opinionated advice"
+        ]
     }
 ]
