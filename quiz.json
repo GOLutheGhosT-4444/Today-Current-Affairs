@@ -1,720 +1,722 @@
 [
     {
-        "q": "What was Heinrich Klaasen's run tally before the start of the match where Abhishek Sharma surpassed him for the Orange Cap?",
-        "a": "283 runs",
+        "q": "What is the new age group for candidates applying to the Prime Minister Internship Scheme (PMIS)?",
+        "a": "18-25 years",
         "options": [
-            "278 runs",
-            "288 runs",
-            "283 runs",
-            "293 runs",
-            "273 runs"
+            "18-24 years",
+            "19-26 years",
+            "18-25 years",
+            "20-25 years",
+            "17-24 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many runs did Abhishek Sharma score in his innings that led him to clinch the Orange Cap?",
-        "a": "135 runs",
+        "q": "What was the earlier age group for candidates under the Prime Minister Internship Scheme (PMIS) before the recent expansion?",
+        "a": "21-24 years",
         "options": [
-            "140 runs",
-            "130 runs",
-            "135 runs",
-            "145 runs",
-            "125 runs"
+            "20-23 years",
+            "22-25 years",
+            "21-24 years",
+            "21-25 years",
+            "20-24 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In how many balls did Abhishek Sharma score his 135 runs?",
-        "a": "68 balls",
+        "q": "What is the monthly financial assistance interns receive under the Prime Minister Internship Scheme (PMIS) in its third round?",
+        "a": "\u20b99,000",
         "options": [
-            "65 balls",
-            "70 balls",
-            "68 balls",
-            "73 balls",
-            "63 balls"
+            "\u20b98,500",
+            "\u20b99,500",
+            "\u20b99,000",
+            "\u20b98,000",
+            "\u20b910,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Travis Head's score when he departed in the ninth over?",
-        "a": "37 runs",
+        "q": "What percentage of the monthly financial assistance for PMIS interns is financed by the government?",
+        "a": "90%",
         "options": [
-            "35 runs",
-            "40 runs",
-            "37 runs",
-            "42 runs",
-            "32 runs"
+            "85%",
+            "92%",
+            "90%",
+            "88%",
+            "95%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many balls did Abhishek Sharma take to complete his first fifty runs?",
-        "a": "25 balls",
+        "q": "What is the duration of the internship under the Prime Minister Internship Scheme (PMIS)?",
+        "a": "One year",
         "options": [
-            "22 balls",
-            "27 balls",
-            "25 balls",
-            "30 balls",
-            "20 balls"
+            "Six months",
+            "Nine months",
+            "One year",
+            "Two years",
+            "Eighteen months"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many balls did Abhishek Sharma take to complete his second fifty, registering his second IPL hundred?",
-        "a": "22 balls",
+        "q": "How much additional financial assistance do interns receive from the government under PMIS, paid in two tranches?",
+        "a": "\u20b96,000",
         "options": [
-            "25 balls",
-            "20 balls",
-            "22 balls",
-            "27 balls",
-            "19 balls"
+            "\u20b95,500",
+            "\u20b96,200",
+            "\u20b96,000",
+            "\u20b96,500",
+            "\u20b95,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many fours did Abhishek Sharma smash during his innings of 135 not out?",
-        "a": "10 fours",
+        "q": "What was the monthly stipend provided in earlier rounds of the Prime Minister Internship Scheme (PMIS)?",
+        "a": "\u20b95,000",
         "options": [
-            "8 fours",
-            "12 fours",
-            "10 fours",
-            "9 fours",
-            "11 fours"
+            "\u20b94,500",
+            "\u20b95,200",
+            "\u20b95,000",
+            "\u20b94,800",
+            "\u20b95,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many sixes did Abhishek Sharma smash during his innings of 135 not out?",
-        "a": "10 sixes",
+        "q": "How many youth internship opportunities are promised under the PMIS over five years?",
+        "a": "10 million",
         "options": [
-            "8 sixes",
-            "12 sixes",
-            "10 sixes",
-            "9 sixes",
-            "11 sixes"
+            "8 million",
+            "12 million",
+            "10 million",
+            "9 million",
+            "11 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Heinrich Klaasen's score in his innings against Delhi Capitals?",
-        "a": "37 runs",
+        "q": "How many top companies in the country are targeted to provide internship opportunities under the PMIS?",
+        "a": "500 companies",
         "options": [
-            "35 runs",
-            "40 runs",
-            "37 runs",
-            "42 runs",
-            "32 runs"
+            "450 companies",
+            "520 companies",
+            "500 companies",
+            "480 companies",
+            "550 companies"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many balls did Heinrich Klaasen face for his 37 runs?",
-        "a": "13 balls",
+        "q": "What was the combined market capitalization of the 50 next-generation promoter-led companies in 2026, according to the ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "\u20b930.9 trillion",
         "options": [
-            "10 balls",
-            "15 balls",
-            "13 balls",
-            "16 balls",
-            "12 balls"
+            "\u20b931.5 trillion",
+            "\u20b930.5 trillion",
+            "\u20b930.9 trillion",
+            "\u20b929.9 trillion",
+            "\u20b931.2 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is Heinrich Klaasen's current total run tally mentioned in the news?",
-        "a": "320 runs",
+        "q": "By how many times did the Nifty 50 index grow between 2020 and 2026, according to the ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "3 times",
         "options": [
-            "315 runs",
-            "325 runs",
-            "320 runs",
-            "330 runs",
-            "310 runs"
+            "3.2 times",
+            "2.9 times",
+            "3 times",
+            "2.7 times",
+            "3.1 times"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many batters had 300-plus runs at the time of the news article?",
-        "a": "2",
+        "q": "What was the combined market capitalization of the 50 companies as on 31 March 2020, according to the Hurun India report?",
+        "a": "\u20b94.6 trillion",
         "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
+            "\u20b94.5 trillion",
+            "\u20b94.7 trillion",
+            "\u20b94.6 trillion",
+            "\u20b94.4 trillion",
+            "\u20b94.8 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Ishan Kishan's score in his knock that moved him to sixth place?",
-        "a": "25 runs",
+        "q": "How many next-generation leaders are included in the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "63 leaders",
         "options": [
-            "20 runs",
-            "30 runs",
-            "25 runs",
-            "27 runs",
-            "23 runs"
+            "60 leaders",
+            "65 leaders",
+            "63 leaders",
+            "62 leaders",
+            "64 leaders"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many T20 centuries did Abhishek Sharma reach with his innings, drawing level with Virat Kohli?",
-        "a": "9",
+        "q": "What was the growth multiple achieved by Jupiter Wagons, which topped the ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "152.8 times",
         "options": [
-            "8",
-            "10",
-            "9",
-            "7",
-            "11"
+            "150.5 times",
+            "153.2 times",
+            "152.8 times",
+            "151.8 times",
+            "154.0 times"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What significant milestone did Abhishek Sharma complete in T20 cricket in terms of sixes?",
-        "a": "350 sixes",
+        "q": "What was the value creation by Karan Adani of Adani Ports & SEZ, leading in absolute value added?",
+        "a": "\u20b92,67,525 crore",
         "options": [
-            "340 sixes",
-            "360 sixes",
-            "350 sixes",
-            "355 sixes",
-            "345 sixes"
+            "\u20b92,67,000 crore",
+            "\u20b92,68,000 crore",
+            "\u20b92,67,525 crore",
+            "\u20b92,66,525 crore",
+            "\u20b92,67,800 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many IPL runs did Abhishek Sharma complete for Sunrisers Hyderabad?",
-        "a": "2000 runs",
+        "q": "What is the maximum age limit for successors to qualify for the Hurun India Successors 50 ranking?",
+        "a": "50 years",
         "options": [
-            "1950 runs",
-            "2050 runs",
-            "2000 runs",
-            "2100 runs",
-            "1900 runs"
+            "45 years",
+            "52 years",
+            "50 years",
+            "48 years",
+            "55 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many centuries does Chris Gayle lead with in the all-time T20 list?",
-        "a": "22 centuries",
+        "q": "What is the minimum market capitalization required for a company to be included in the Hurun India Successors 50 ranking?",
+        "a": "\u20b95,000 crore",
         "options": [
-            "20 centuries",
-            "24 centuries",
-            "22 centuries",
-            "21 centuries",
-            "23 centuries"
+            "\u20b94,500 crore",
+            "\u20b95,200 crore",
+            "\u20b95,000 crore",
+            "\u20b94,800 crore",
+            "\u20b95,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount, in Indian rupees, has an external SEBI panel recommended the National Stock Exchange of India (NSE) settle pending legal disputes for?",
-        "a": "\u20b91,800 crore",
+        "q": "What was the performance index score of Arun Alagappan of Coromandel International, who topped this index?",
+        "a": "7.0",
         "options": [
-            "\u20b91,750 crore",
-            "\u20b91,850 crore",
-            "\u20b91,800 crore",
-            "\u20b91,900 crore",
-            "\u20b91,700 crore"
+            "6.8",
+            "7.1",
+            "7.0",
+            "6.9",
+            "7.2"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many deaths resulted from the mass shooting at Florida State University?",
-        "a": "2 deaths",
+        "q": "How many companies from the automobile and auto components sector are represented in the Hurun India Successors 50 ranking?",
+        "a": "Nine companies",
         "options": [
-            "1 death",
-            "3 deaths",
-            "2 deaths",
-            "4 deaths",
-            "5 deaths"
+            "Eight companies",
+            "Ten companies",
+            "Nine companies",
+            "Seven companies",
+            "Eleven companies"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many injuries resulted from the mass shooting at Florida State University?",
-        "a": "7 injuries",
+        "q": "What is the market capitalization of Sun Pharmaceutical Industries, the largest company on the Hurun India Successors 50 list by market cap?",
+        "a": "\u20b94,22,007 crore",
         "options": [
-            "6 injuries",
-            "8 injuries",
-            "7 injuries",
-            "9 injuries",
-            "5 injuries"
+            "\u20b94,20,000 crore",
+            "\u20b94,25,000 crore",
+            "\u20b94,22,007 crore",
+            "\u20b94,19,000 crore",
+            "\u20b94,23,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Robert Morales, one of the victims of the Florida State University shooting?",
-        "a": "57",
+        "q": "What is the total market cap of companies headquartered in Maharashtra from the Hurun India Successors 50 ranking?",
+        "a": "\u20b97.74 lakh crore",
         "options": [
-            "55",
-            "60",
-            "57",
-            "58",
-            "56"
+            "\u20b97.70 lakh crore",
+            "\u20b97.78 lakh crore",
+            "\u20b97.74 lakh crore",
+            "\u20b97.68 lakh crore",
+            "\u20b97.80 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Tiru Chabba, one of the victims of the Florida State University shooting?",
-        "a": "45",
+        "q": "What percentage of its revenue does Sun Pharmaceutical Industries generate from exports?",
+        "a": "Nearly 75%",
         "options": [
-            "40",
-            "50",
-            "45",
-            "46",
-            "44"
+            "Nearly 70%",
+            "Nearly 80%",
+            "Nearly 75%",
+            "Nearly 65%",
+            "Nearly 72%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was leading the Orange Cap list before the start of the match between Sunrisers Hyderabad and Delhi Capitals?",
-        "a": "Heinrich Klaasen",
+        "q": "What was the U.S. inflation rate year-on-year in March 2026?",
+        "a": "3.3%",
         "options": [
-            "Abhishek Sharma",
-            "Travis Head",
-            "Heinrich Klaasen",
-            "Shubman Gill",
-            "Virat Kohli"
+            "3.0%",
+            "3.5%",
+            "3.3%",
+            "3.1%",
+            "3.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what percentage did the energy price index increase in March 2026 in the U.S.?",
+        "a": "10.9%",
+        "options": [
+            "10.5%",
+            "11.2%",
+            "10.9%",
+            "10.7%",
+            "11.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the transaction value of the inter-State fake Input Tax Credit (ITC) fraud uncovered in Karnataka?",
+        "a": "\u20b9410 crore",
+        "options": [
+            "\u20b9400 crore",
+            "\u20b9420 crore",
+            "\u20b9410 crore",
+            "\u20b9405 crore",
+            "\u20b9415 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which ministry announced the expansion of eligibility criteria for the Prime Minister Internship Scheme (PMIS)?",
+        "a": "Ministry of Corporate Affairs",
+        "options": [
+            "Ministry of Education",
+            "Ministry of Skill Development and Entrepreneurship",
+            "Ministry of Corporate Affairs",
+            "Ministry of Finance",
+            "Ministry of Labour and Employment"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who clinched the Orange Cap after his innings against Delhi Capitals?",
-        "a": "Abhishek Sharma",
+        "q": "Who is the chief executive of TeamLease Degree Apprenticeship, quoted regarding the PMIS expansion?",
+        "a": "Nipun Sharma",
         "options": [
-            "Heinrich Klaasen",
-            "Travis Head",
-            "Abhishek Sharma",
-            "Shubman Gill",
-            "Virat Kohli"
+            "Nitin Sharma",
+            "Naveen Singh",
+            "Nipun Sharma",
+            "Nitesh Kumar",
+            "Narendra Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was Abhishek Sharma's opening partner who scored 37 runs?",
-        "a": "Travis Head",
+        "q": "Which two entities released the first edition of the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "ASK Private Wealth and Hurun India",
         "options": [
-            "Heinrich Klaasen",
-            "Travis Head",
-            "Ishan Kishan",
-            "Rajat Patidar",
-            "Yashasvi Jaiswal"
+            "ASK Private Wealth and Forbes India",
+            "Hurun India and KPMG",
+            "ASK Private Wealth and Hurun India",
+            "NITI Aayog and Hurun India",
+            "EY and ASK Private Wealth"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who bowled the final over in which Heinrich Klaasen tried to maintain his lead?",
-        "a": "Mukesh Kumar",
+        "q": "Who is the leader of Jupiter Wagons, which topped the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
+        "a": "Vikash Lohia",
         "options": [
-            "Pat Cummins",
-            "Bhuvneshwar Kumar",
-            "Mukesh Kumar",
-            "T Natarajan",
-            "Rashid Khan"
+            "Vikas Singh",
+            "Vikram Lohia",
+            "Vikash Lohia",
+            "Vijay Lohar",
+            "Vivek Sharma"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the captain of Gujarat Titans mentioned in the news?",
-        "a": "Shubman Gill",
+        "q": "Who shared the second spot in the Hurun India Successors 50 ranking with 52.5 times growth in company value?",
+        "a": "Amit Dahanukar and Abhyuday Jindal",
         "options": [
-            "Hardik Pandya",
-            "Rashid Khan",
-            "Shubman Gill",
-            "Kane Williamson",
-            "David Miller"
+            "Karan Adani and Priya Agarwal Hebbar",
+            "Amit Dahanukar and Abhyuday Jindal",
+            "Arun Alagappan and Rajesh Agrawal",
+            "Vikash Lohia and Rama Kirloskar",
+            "Aalok Shanghvi and Vidhi Shanghvi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Royal Challengers Bengaluru (RCB) player mentioned as occupying the fourth spot in the run list?",
-        "a": "Virat Kohli",
+        "q": "Who leads in absolute value added with \u20b92,67,525 crore in value creation in the Hurun India Successors 50 report?",
+        "a": "Karan Adani",
         "options": [
-            "Faf du Plessis",
-            "Glenn Maxwell",
-            "Virat Kohli",
-            "Rajat Patidar",
-            "Dinesh Karthik"
+            "Aalok Shanghvi",
+            "Priya Agarwal Hebbar",
+            "Karan Adani",
+            "Vikash Lohia",
+            "Arun Alagappan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the teen Rajasthan Royals sensation mentioned in the fifth spot?",
-        "a": "Vaibhav Suryavanshi",
+        "q": "Who is the RBI Governor mentioned speaking at a round-table hosted by the Consulate General of India in New York?",
+        "a": "Sanjay Malhotra",
         "options": [
-            "Yashasvi Jaiswal",
-            "Sanju Samson",
-            "Riyan Parag",
-            "Vaibhav Suryavanshi",
-            "Trent Boult"
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Sanjay Malhotra",
+            "Raghuram Rajan",
+            "Subramanian Swamy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the second batter, after Chris Gayle, to strike 10 sixes in a single IPL innings more than once?",
-        "a": "Abhishek Sharma",
+        "q": "Who is the senior Supreme Court lawyer and Rajya Sabha MP who claimed an \"unconstitutional Emergency\" was imposed in West Bengal by the ECI?",
+        "a": "Kapil Sibal",
         "options": [
-            "Virat Kohli",
-            "Rohit Sharma",
-            "Abhishek Sharma",
-            "MS Dhoni",
-            "KL Rahul"
+            "P. Chidambaram",
+            "Abhishek Manu Singhvi",
+            "Kapil Sibal",
+            "Salman Khurshid",
+            "Arvind Kejriwal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which former Sunrisers Hyderabad player, along with David Warner and Kane Williamson, is mentioned in the elite list of completing 2000 IPL runs for SRH, besides Abhishek Sharma?",
-        "a": "Shikhar Dhawan",
+        "q": "Which U.S. President announced a ceasefire on April 7, bringing temporary relief to the MPC meeting?",
+        "a": "Donald Trump",
         "options": [
-            "Yuvraj Singh",
-            "Shikhar Dhawan",
-            "Aaron Finch",
-            "Brendon McCullum",
-            "Dale Steyn"
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Pakistan batter mentioned with 12 T20 centuries in the all-time list?",
-        "a": "Babar Azam",
+        "q": "Who is the Meta spokesperson quoted regarding the company's new AI model training software?",
+        "a": "Andy Stone",
         "options": [
-            "Mohammad Rizwan",
-            "Shoaib Malik",
-            "Babar Azam",
-            "Fakhar Zaman",
-            "Imam-ul-Haq"
+            "Mark Zuckerberg",
+            "Sheryl Sandberg",
+            "Andy Stone",
+            "Adam Mosseri",
+            "Nick Clegg"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Australian batter mentioned with 10 T20 centuries in the all-time list?",
-        "a": "David Warner",
+        "q": "Who represented the West Bengal government in the Supreme Court matter regarding CM Mamata Banerjee's conduct during an ED raid?",
+        "a": "Menaka Guruswamy",
         "options": [
-            "Aaron Finch",
-            "Glenn Maxwell",
-            "Steve Smith",
-            "David Warner",
-            "Mitchell Marsh"
+            "Indira Jaising",
+            "Gopal Subramanium",
+            "Menaka Guruswamy",
+            "Harish Salve",
+            "Ranjit Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Deputy Chief Content Producer at LiveMint who authored the news article?",
-        "a": "Koushik",
+        "q": "Who was the key accused arrested by the Commercial Taxes Department of Karnataka in the inter-State fake ITC fraud?",
+        "a": "Mohammed Tauqeer alias Mohammad",
         "options": [
-            "James Uthmeier",
-            "Neama Rahmani",
-            "Koushik",
-            "Surya Kant",
-            "Vikram Nath"
+            "Shaik Jakeer Hussain",
+            "Mohammed Tauqeer alias Mohammad",
+            "Ahmed Ali",
+            "Ramesh Kumar",
+            "Suresh Sharma"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Florida Attorney General that launched a criminal investigation into an AI chatbot's role in a mass shooting?",
-        "a": "James Uthmeier",
+        "q": "Which two Indian cities each host six of the companies' headquarters from the Hurun India Successors 50 ranking?",
+        "a": "Mumbai and New Delhi",
         "options": [
-            "Neama Rahmani",
-            "Phoenix Ikner",
-            "Robert Morales",
-            "James Uthmeier",
-            "Tiru Chabba"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the alleged gunman in the Florida State University mass shooting?",
-        "a": "Phoenix Ikner",
-        "options": [
-            "Robert Morales",
-            "Tiru Chabba",
-            "Phoenix Ikner",
-            "James Uthmeier",
-            "Neama Rahmani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Justice of India heading the nine-judge Bench for the Sabarimala review case?",
-        "a": "Surya Kant",
-        "options": [
-            "Vikram Nath",
-            "Sandeep Mehta",
-            "Surya Kant",
-            "D.Y. Chandrachud",
-            "N.V. Ramana"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where was the IPL match between Sunrisers Hyderabad and Delhi Capitals played?",
-        "a": "Rajiv Gandhi International stadium",
-        "options": [
-            "Feroz Shah Kotla Ground",
-            "Wankhede Stadium",
-            "Rajiv Gandhi International stadium",
-            "M. Chinnaswamy Stadium",
-            "Narendra Modi Stadium"
+            "Bengaluru and Chennai",
+            "Mumbai and New Delhi",
+            "Hyderabad and Pune",
+            "Ahmedabad and Kolkata",
+            "Surat and Jaipur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did Abhishek Sharma register his first IPL hundred (and also his second)?",
-        "a": "Rajiv Gandhi International stadium",
+        "q": "In which city did RBI Governor Sanjay Malhotra speak at a round-table hosted by the Consulate General of India on April 20, 2026?",
+        "a": "New York",
         "options": [
-            "MA Chidambaram Stadium",
-            "Eden Gardens",
-            "Rajiv Gandhi International stadium",
-            "Sawai Mansingh Stadium",
-            "IS Bindra Stadium"
+            "Washington D.C.",
+            "London",
+            "New York",
+            "Dubai",
+            "Singapore"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city is Maharaja Manindra Chandra College, Koushik's alma mater, located in?",
-        "a": "Kolkata",
+        "q": "In which state did Kapil Sibal claim an \"unconstitutional Emergency\" was imposed by the Election Commission of India?",
+        "a": "West Bengal",
         "options": [
-            "Mumbai",
-            "Delhi",
-            "Kolkata",
-            "Chennai",
-            "Bengaluru"
+            "Uttar Pradesh",
+            "Bihar",
+            "West Bengal",
+            "Odisha",
+            "Assam"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city did Lionel Messi make a historic visit in 2025, as covered by Koushik?",
-        "a": "Kolkata",
+        "q": "At which premises in Kolkata did CM Mamata Banerjee walk into an ongoing Directorate of Enforcement (ED) raid in January?",
+        "a": "I-PAC premises",
         "options": [
-            "Mumbai",
-            "Delhi",
-            "Kolkata",
-            "Chennai",
-            "Bengaluru"
+            "TMC Headquarters",
+            "State Secretariat",
+            "I-PAC premises",
+            "CM's Residence",
+            "Police Headquarters"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is the Florida State University campus located where the mass shooting occurred?",
-        "a": "Tallahassee",
+        "q": "Which state's Commercial Taxes Department arrested a key accused in a massive inter-State fake input tax credit (ITC) fraud?",
+        "a": "Karnataka",
         "options": [
-            "Miami",
-            "Orlando",
-            "Tampa",
-            "Tallahassee",
-            "Jacksonville"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the press conference held by Attorney General James Uthmeier regarding the AI chatbot investigation?",
-        "a": "Tampa",
-        "options": [
-            "Tallahassee",
-            "Miami",
-            "Orlando",
-            "Tampa",
-            "Jacksonville"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Sabarimala temple, central to a Supreme Court review case regarding the exclusion of menstruating women, is located in which Indian state?",
-        "a": "Kerala",
-        "options": [
+            "Kerala",
             "Tamil Nadu",
             "Karnataka",
-            "Kerala",
             "Andhra Pradesh",
-            "Telangana"
+            "Maharashtra"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is Koushik's current primary base of operation mentioned in the article?",
-        "a": "Kolkata and Delhi",
+        "q": "Which state leads with the highest number of companies headquartered from the Hurun India Successors 50 ranking?",
+        "a": "Maharashtra",
         "options": [
-            "Mumbai and Bengaluru",
-            "Chennai and Hyderabad",
-            "Kolkata and Delhi",
-            "Ahmedabad and Pune",
-            "Lucknow and Jaipur"
+            "Gujarat",
+            "Karnataka",
+            "Maharashtra",
+            "Tamil Nadu",
+            "Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "The IPL match between Sunrisers Hyderabad and Delhi Capitals took place on which day of the week?",
-        "a": "Tuesday",
+        "q": "Which university is cited as the most common undergraduate alma mater for successors in the Hurun India Successors 50 list?",
+        "a": "The University of Pennsylvania",
         "options": [
-            "Monday",
-            "Wednesday",
-            "Tuesday",
-            "Thursday",
-            "Friday"
+            "Stanford University",
+            "University of Cambridge",
+            "The University of Pennsylvania",
+            "Oxford University",
+            "IIT Bombay"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which institution leads as the most common postgraduate alma mater for successors in the Hurun India Successors 50 list?",
+        "a": "Harvard Business School",
+        "options": [
+            "London School of Economics",
+            "Wharton School",
+            "Harvard Business School",
+            "INSEAD",
+            "Indian Institute of Management Ahmedabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The 2026 ASK Private Wealth Hurun India Successors 50 ranking analyzed the performance of companies between which years?",
+        "a": "2020 and 2026",
+        "options": [
+            "2019 and 2025",
+            "2020 and 2026",
+            "2021 and 2027",
+            "2018 and 2024",
+            "2022 and 2028"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Koushik join LiveMint as a Deputy Chief Content Producer?",
-        "a": "2024",
+        "q": "When was Muthoot Finance, the oldest company mentioned in the Hurun India Successors 50 list, founded?",
+        "a": "1887",
         "options": [
-            "2022",
-            "2023",
-            "2024",
-            "2025",
-            "2021"
+            "1890",
+            "1885",
+            "1887",
+            "1892",
+            "1880"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Koushik graduate with a Journalism and Mass Communication degree?",
-        "a": "2017",
+        "q": "In March 2026, U.S. inflation climbed to 3.3%, marking the highest level in nearly how many years?",
+        "a": "Nearly two years",
         "options": [
-            "2016",
-            "2018",
-            "2017",
-            "2019",
-            "2015"
+            "Nearly one year",
+            "Nearly three years",
+            "Nearly two years",
+            "Nearly eighteen months",
+            "Nearly two and a half years"
         ],
         "cat": "When"
     },
     {
-        "q": "The FIFA U17 World Cup, on which Koushik reported, was held in which year?",
-        "a": "2017",
+        "q": "The 10.9% increase in energy prices in March 2026 marked the largest monthly gain in the U.S. since which month and year?",
+        "a": "September 2005",
         "options": [
-            "2016",
-            "2018",
-            "2017",
-            "2019",
-            "2015"
+            "August 2005",
+            "October 2006",
+            "September 2005",
+            "July 2004",
+            "November 2007"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did Lionel Messi make his historic visit to Kolkata, as mentioned in the news?",
-        "a": "2025",
+        "q": "When was the last Monetary Policy Committee (MPC) meeting, where members discussed the impact of the West Asia conflict?",
+        "a": "April 6-8",
         "options": [
-            "2024",
-            "2026",
-            "2025",
-            "2023",
-            "2027"
+            "April 1-3",
+            "April 6-8",
+            "March 28-30",
+            "April 10-12",
+            "April 4-6"
         ],
         "cat": "When"
     },
     {
-        "q": "The criminal investigation into the AI chatbot's role in the Florida State University shooting pertains to an attack on which date?",
-        "a": "April 17, 2025",
+        "q": "On what date did U.S. President Donald Trump announce a ceasefire, bringing temporary relief to the MPC meeting?",
+        "a": "April 7",
         "options": [
-            "April 10, 2025",
-            "April 20, 2025",
-            "April 17, 2025",
-            "April 15, 2025",
-            "April 22, 2025"
+            "April 5",
+            "April 9",
+            "April 7",
+            "April 6",
+            "April 8"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Supreme Court seek responses on a plea challenging the validity of the National Investigation Agency Act, 2008?",
-        "a": "April 21, 2026",
+        "q": "On what date did the Supreme Court make a statement regarding West Bengal CM Mamata Banerjee's conduct during an ED raid?",
+        "a": "April 22, 2026",
         "options": [
-            "April 19, 2026",
             "April 20, 2026",
-            "April 21, 2026",
+            "April 24, 2026",
             "April 22, 2026",
+            "April 21, 2026",
             "April 23, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Supreme Court question the Sabarimala tantri regarding age-old religious practices?",
-        "a": "April 21, 2026",
+        "q": "In which month did West Bengal Chief Minister Mamata Banerjee walk into an ongoing ED raid at I-PAC premises in Kolkata?",
+        "a": "January",
         "options": [
-            "April 19, 2026",
-            "April 20, 2026",
-            "April 21, 2026",
-            "April 22, 2026",
-            "April 23, 2026"
+            "December",
+            "February",
+            "January",
+            "March",
+            "November"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the purpose of the Orange Cap in the Indian Premier League (IPL)?",
-        "a": "Given to the player with most runs",
+        "q": "What is the primary aim of the Prime Minister Internship Scheme (PMIS) according to the ministry's statement?",
+        "a": "To integrate classroom learning with practical experience",
         "options": [
-            "Given to the player with most wickets",
-            "Given to the player with most sixes",
-            "Given to the player with most runs",
-            "Given to the player with best strike rate",
-            "Given to the player with most catches"
+            "To provide direct employment",
+            "To offer financial aid to students",
+            "To integrate classroom learning with practical experience",
+            "To encourage entrepreneurship",
+            "To promote higher education enrolment"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why has the National Stock Exchange of India's (NSE) initial public offering (IPO) been delayed for nearly 10 years?",
-        "a": "Allegations of governance lapses and failure to provide equitable access",
+        "q": "The inclusion of new-age sectors like GCCs, renewables, and semiconductors in PMIS signals an intent to align the scheme with what?",
+        "a": "Emerging economic priorities",
         "options": [
-            "Lack of investor interest",
-            "Market volatility",
-            "Allegations of governance lapses and failure to provide equitable access",
-            "Disputes over valuation",
-            "Regulatory approval issues"
+            "Global corporate strategies",
+            "Skill development targets",
+            "Emerging economic priorities",
+            "Digital transformation goals",
+            "Public-private partnerships"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary reason for the criminal investigation launched by Florida Attorney General James Uthmeier regarding the mass shooting?",
-        "a": "To determine if an AI chatbot provided guidance to the alleged gunman",
+        "q": "The changes in the PMIS, including age revision, aim to align the scheme with the objectives of which national policy?",
+        "a": "National Education Policy (NEP)",
         "options": [
-            "To identify the shooter's motive",
-            "To determine if the shooter had accomplices",
-            "To investigate security lapses at the university",
-            "To determine if an AI chatbot provided guidance to the alleged gunman",
-            "To assess the university's emergency response"
+            "National Skill Development Policy",
+            "National Youth Policy",
+            "National Economic Policy",
+            "National Education Policy (NEP)",
+            "National Social Security Policy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the plea challenged in the Supreme Court on April 21, 2026, concerning the National Investigation Agency Act?",
-        "a": "Challenging the validity of the National Investigation Agency Act, 2008",
+        "q": "Under which insurance schemes will interns receive coverage as part of the Prime Minister Internship Scheme (PMIS)?",
+        "a": "Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana",
         "options": [
-            "Seeking amendments to the Act",
-            "Challenging the validity of the National Investigation Agency Act, 2008",
-            "Demanding increased funding for NIA",
-            "Requesting expansion of NIA's powers",
-            "Appointing new director for NIA"
+            "Ayushman Bharat Yojana",
+            "Pradhan Mantri Fasal Bima Yojana",
+            "Pradhan Mantri Jan Dhan Yojana",
+            "Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana",
+            "Atal Pension Yojana"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the backdrop for the Supreme Court's question to the Sabarimala tantri regarding age-old religious practices?",
-        "a": "The exclusion of menstruating women from the temple",
+        "q": "What is the primary purpose of Meta installing new tracking software on its U.S.-based employees\u2019 computers?",
+        "a": "To train its artificial-intelligence models",
         "options": [
-            "Disputes over temple management",
-            "Demand for increased pilgrim facilities",
-            "The exclusion of menstruating women from the temple",
-            "Concerns about environmental impact",
-            "Petition for a new temple structure"
+            "To monitor employee productivity",
+            "To enhance data security",
+            "To train its artificial-intelligence models",
+            "To comply with new regulations",
+            "To improve remote work efficiency"
         ],
         "cat": "Why"
     },
     {
-        "q": "What kind of guidance did the Attorney General allege ChatGPT offered the shooter before the Florida State University attack?",
-        "a": "Detailed answers about weapons, planning, gun/ammunition types, and crowded areas",
+        "q": "What specific areas does Meta aim to improve in its AI models by capturing inputs like mouse movements and keystrokes?",
+        "a": "Choosing from dropdown menus and using keyboard shortcuts",
         "options": [
-            "Information on police response times",
-            "Details on university security protocols",
-            "Psychological manipulation techniques",
-            "Detailed answers about weapons, planning, gun/ammunition types, and crowded areas",
-            "Methods for escaping detection after the crime"
-        ]
+            "Language translation capabilities",
+            "Facial recognition accuracy",
+            "Complex problem-solving",
+            "Choosing from dropdown menus and using keyboard shortcuts",
+            "Real-time communication"
+        ],
+        "cat": "Why"
     },
     {
-        "q": "According to OpenAI, what was the nature of the chatbot's replies that were criticized in the Florida shooting investigation?",
-        "a": "Factual responses to questions with information found broadly across public sources",
+        "q": "Why did all six members of the Monetary Policy Committee (MPC) unanimously vote for a status quo on April 8?",
+        "a": "Temporary relief brought by the ceasefire announced by the U.S. President",
         "options": [
-            "Encouragement for harmful activities",
-            "Promotion of illegal acts",
-            "Factual responses to questions with information found broadly across public sources",
-            "Direct instructions for violence",
-            "Biased and opinionated advice"
-        ]
+            "Stable global oil prices",
+            "Improved domestic economic indicators",
+            "Temporary relief brought by the ceasefire announced by the U.S. President",
+            "Consensus on inflation control",
+            "Government directive"
+        ],
+        "cat": "Why"
     }
 ]
