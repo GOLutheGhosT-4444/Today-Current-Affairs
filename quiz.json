@@ -1,634 +1,502 @@
 [
     {
-        "q": "What is the new age group for candidates applying to the Prime Minister Internship Scheme (PMIS)?",
-        "a": "18-25 years",
+        "q": "What specific level did the Indian rupee weaken past against the U.S. dollar on April 23, 2026?",
+        "a": "94",
         "options": [
-            "18-24 years",
-            "19-26 years",
-            "18-25 years",
-            "20-25 years",
-            "17-24 years"
+            "93.9",
+            "94.1",
+            "94",
+            "93.5",
+            "94.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the earlier age group for candidates under the Prime Minister Internship Scheme (PMIS) before the recent expansion?",
-        "a": "21-24 years",
+        "q": "The news text indicates crude oil prices rose over what dollar amount per barrel?",
+        "a": "$100",
         "options": [
-            "20-23 years",
-            "22-25 years",
-            "21-24 years",
-            "21-25 years",
-            "20-24 years"
+            "$99",
+            "$101",
+            "$100",
+            "$98",
+            "$102"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the monthly financial assistance interns receive under the Prime Minister Internship Scheme (PMIS) in its third round?",
-        "a": "\u20b99,000",
+        "q": "By how many paise did the rupee fall against the dollar on April 23, 2026?",
+        "a": "23 paise",
         "options": [
-            "\u20b98,500",
-            "\u20b99,500",
-            "\u20b99,000",
-            "\u20b98,000",
-            "\u20b910,000"
+            "22 paise",
+            "24 paise",
+            "23 paise",
+            "21 paise",
+            "25 paise"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the monthly financial assistance for PMIS interns is financed by the government?",
-        "a": "90%",
+        "q": "What was the exact value the rupee fell to against the dollar on April 23, 2026?",
+        "a": "94.01",
         "options": [
-            "85%",
-            "92%",
-            "90%",
-            "88%",
-            "95%"
+            "94.00",
+            "94.02",
+            "94.01",
+            "93.99",
+            "94.03"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the duration of the internship under the Prime Minister Internship Scheme (PMIS)?",
-        "a": "One year",
+        "q": "What was the rupee's previous closing value against the dollar as per the news?",
+        "a": "93.78",
         "options": [
-            "Six months",
-            "Nine months",
-            "One year",
-            "Two years",
-            "Eighteen months"
+            "93.77",
+            "93.79",
+            "93.78",
+            "93.76",
+            "93.80"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much additional financial assistance do interns receive from the government under PMIS, paid in two tranches?",
-        "a": "\u20b96,000",
+        "q": "What was the net amount of foreign currency purchased by the RBI from the spot market in February?",
+        "a": "$7.409 billion",
         "options": [
-            "\u20b95,500",
-            "\u20b96,200",
-            "\u20b96,000",
-            "\u20b96,500",
-            "\u20b95,800"
+            "$7.408 billion",
+            "$7.410 billion",
+            "$7.409 billion",
+            "$7.407 billion",
+            "$7.411 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the monthly stipend provided in earlier rounds of the Prime Minister Internship Scheme (PMIS)?",
-        "a": "\u20b95,000",
+        "q": "What was the gross amount of foreign currency purchased by the central bank in February?",
+        "a": "$21.403 billion",
         "options": [
-            "\u20b94,500",
-            "\u20b95,200",
-            "\u20b95,000",
-            "\u20b94,800",
-            "\u20b95,500"
+            "$21.402 billion",
+            "$21.404 billion",
+            "$21.403 billion",
+            "$21.401 billion",
+            "$21.405 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many youth internship opportunities are promised under the PMIS over five years?",
-        "a": "10 million",
+        "q": "What was the gross amount of foreign currency sold by the central bank in February?",
+        "a": "$13.994 billion",
         "options": [
-            "8 million",
-            "12 million",
-            "10 million",
-            "9 million",
-            "11 million"
+            "$13.993 billion",
+            "$13.995 billion",
+            "$13.994 billion",
+            "$13.992 billion",
+            "$13.996 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many top companies in the country are targeted to provide internship opportunities under the PMIS?",
-        "a": "500 companies",
+        "q": "How much foreign currency did the central bank buy in January according to the bulletin?",
+        "a": "$2.526 billion",
         "options": [
-            "450 companies",
-            "520 companies",
-            "500 companies",
-            "480 companies",
-            "550 companies"
+            "$2.525 billion",
+            "$2.527 billion",
+            "$2.526 billion",
+            "$2.524 billion",
+            "$2.528 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the combined market capitalization of the 50 next-generation promoter-led companies in 2026, according to the ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "\u20b930.9 trillion",
+        "q": "What total loan amount did the Bihar Government seek from the RBI?",
+        "a": "\u20b912000 crore",
         "options": [
-            "\u20b931.5 trillion",
-            "\u20b930.5 trillion",
-            "\u20b930.9 trillion",
-            "\u20b929.9 trillion",
-            "\u20b931.2 trillion"
+            "\u20b911900 crore",
+            "\u20b912100 crore",
+            "\u20b912000 crore",
+            "\u20b911800 crore",
+            "\u20b912200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how many times did the Nifty 50 index grow between 2020 and 2026, according to the ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "3 times",
+        "q": "What is the amount of the first instalment of the loan RBI will release to the Bihar Government?",
+        "a": "\u20b94000 crore",
         "options": [
-            "3.2 times",
-            "2.9 times",
-            "3 times",
-            "2.7 times",
-            "3.1 times"
+            "\u20b93900 crore",
+            "\u20b94100 crore",
+            "\u20b94000 crore",
+            "\u20b93800 crore",
+            "\u20b94200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the combined market capitalization of the 50 companies as on 31 March 2020, according to the Hurun India report?",
-        "a": "\u20b94.6 trillion",
+        "q": "The Indian rupee fell X paise to 94.01 against the dollar. If its previous close was 93.78, what is X?",
+        "a": "23 paise",
         "options": [
-            "\u20b94.5 trillion",
-            "\u20b94.7 trillion",
-            "\u20b94.6 trillion",
-            "\u20b94.4 trillion",
-            "\u20b94.8 trillion"
+            "22 paise",
+            "24 paise",
+            "23 paise",
+            "21 paise",
+            "25 paise"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many next-generation leaders are included in the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "63 leaders",
+        "q": "What is the total foreign currency purchased (gross) and sold (gross) by RBI in February, combined?",
+        "a": "$35.397 billion",
         "options": [
-            "60 leaders",
-            "65 leaders",
-            "63 leaders",
-            "62 leaders",
-            "64 leaders"
+            "$35.390 billion",
+            "$35.400 billion",
+            "$35.397 billion",
+            "$35.380 billion",
+            "$35.410 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the growth multiple achieved by Jupiter Wagons, which topped the ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "152.8 times",
+        "q": "How much more did the RBI purchase in February (net) compared to January?",
+        "a": "$4.883 billion",
         "options": [
-            "150.5 times",
-            "153.2 times",
-            "152.8 times",
-            "151.8 times",
-            "154.0 times"
+            "$4.880 billion",
+            "$4.890 billion",
+            "$4.883 billion",
+            "$4.870 billion",
+            "$4.895 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the value creation by Karan Adani of Adani Ports & SEZ, leading in absolute value added?",
-        "a": "\u20b92,67,525 crore",
+        "q": "What is the sum of the total loan sought by Bihar and the first instalment amount?",
+        "a": "\u20b916000 crore",
         "options": [
-            "\u20b92,67,000 crore",
-            "\u20b92,68,000 crore",
-            "\u20b92,67,525 crore",
-            "\u20b92,66,525 crore",
-            "\u20b92,67,800 crore"
+            "\u20b915900 crore",
+            "\u20b916100 crore",
+            "\u20b916000 crore",
+            "\u20b915800 crore",
+            "\u20b916200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the maximum age limit for successors to qualify for the Hurun India Successors 50 ranking?",
-        "a": "50 years",
+        "q": "If the rupee fell from 93.78 to 94.01, what is the numerical difference in its value?",
+        "a": "0.23",
         "options": [
-            "45 years",
-            "52 years",
-            "50 years",
-            "48 years",
-            "55 years"
+            "0.22",
+            "0.24",
+            "0.23",
+            "0.21",
+            "0.25"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum market capitalization required for a company to be included in the Hurun India Successors 50 ranking?",
-        "a": "\u20b95,000 crore",
+        "q": "Considering the rupee level of 94.01 and previous close of 93.78, what is the sum of these two figures?",
+        "a": "187.79",
         "options": [
-            "\u20b94,500 crore",
-            "\u20b95,200 crore",
-            "\u20b95,000 crore",
-            "\u20b94,800 crore",
-            "\u20b95,500 crore"
+            "187.70",
+            "187.80",
+            "187.79",
+            "187.75",
+            "187.85"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the performance index score of Arun Alagappan of Coromandel International, who topped this index?",
-        "a": "7.0",
+        "q": "What is the difference between the gross purchase and net purchase by RBI in February?",
+        "a": "$13.994 billion",
         "options": [
-            "6.8",
-            "7.1",
-            "7.0",
-            "6.9",
-            "7.2"
+            "$13.993 billion",
+            "$13.995 billion",
+            "$13.994 billion",
+            "$13.992 billion",
+            "$13.996 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many companies from the automobile and auto components sector are represented in the Hurun India Successors 50 ranking?",
-        "a": "Nine companies",
+        "q": "The Bihar government's loan request totals \u20b912000 crore. If the first installment is \u20b94000 crore, what amount remains to be disbursed?",
+        "a": "\u20b98000 crore",
         "options": [
-            "Eight companies",
-            "Ten companies",
-            "Nine companies",
-            "Seven companies",
-            "Eleven companies"
+            "\u20b97900 crore",
+            "\u20b98100 crore",
+            "\u20b98000 crore",
+            "\u20b97800 crore",
+            "\u20b98200 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the market capitalization of Sun Pharmaceutical Industries, the largest company on the Hurun India Successors 50 list by market cap?",
-        "a": "\u20b94,22,007 crore",
+        "q": "The Indian rupee weakened past what exact integer level against the U.S. dollar on April 23, 2026?",
+        "a": "94",
         "options": [
-            "\u20b94,20,000 crore",
-            "\u20b94,25,000 crore",
-            "\u20b94,22,007 crore",
-            "\u20b94,19,000 crore",
-            "\u20b94,23,500 crore"
+            "93",
+            "95",
+            "94",
+            "93.5",
+            "94.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total market cap of companies headquartered in Maharashtra from the Hurun India Successors 50 ranking?",
-        "a": "\u20b97.74 lakh crore",
+        "q": "The crude oil prices were reported to have risen over which specific dollar amount per barrel?",
+        "a": "$100",
         "options": [
-            "\u20b97.70 lakh crore",
-            "\u20b97.78 lakh crore",
-            "\u20b97.74 lakh crore",
-            "\u20b97.68 lakh crore",
-            "\u20b97.80 lakh crore"
+            "$99",
+            "$101",
+            "$100",
+            "$98",
+            "$102"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of its revenue does Sun Pharmaceutical Industries generate from exports?",
-        "a": "Nearly 75%",
+        "q": "How many paise did the rupee precisely fall on April 23, 2026?",
+        "a": "23",
         "options": [
-            "Nearly 70%",
-            "Nearly 80%",
-            "Nearly 75%",
-            "Nearly 65%",
-            "Nearly 72%"
+            "22",
+            "24",
+            "23",
+            "21",
+            "25"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the U.S. inflation rate year-on-year in March 2026?",
-        "a": "3.3%",
+        "q": "What was the exact rupee value recorded after it fell 23 paise on April 23, 2026?",
+        "a": "94.01",
         "options": [
-            "3.0%",
-            "3.5%",
-            "3.3%",
-            "3.1%",
-            "3.4%"
+            "94.00",
+            "94.02",
+            "94.01",
+            "93.99",
+            "94.03"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did the energy price index increase in March 2026 in the U.S.?",
-        "a": "10.9%",
+        "q": "What was the precise previous closing value of the rupee against the dollar?",
+        "a": "93.78",
         "options": [
-            "10.5%",
-            "11.2%",
-            "10.9%",
-            "10.7%",
-            "11.0%"
+            "93.77",
+            "93.79",
+            "93.78",
+            "93.76",
+            "93.80"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the transaction value of the inter-State fake Input Tax Credit (ITC) fraud uncovered in Karnataka?",
-        "a": "\u20b9410 crore",
+        "q": "What was the exact net purchase amount of foreign currency by RBI in February in billions of dollars?",
+        "a": "7.409",
         "options": [
-            "\u20b9400 crore",
-            "\u20b9420 crore",
-            "\u20b9410 crore",
-            "\u20b9405 crore",
-            "\u20b9415 crore"
+            "7.408",
+            "7.410",
+            "7.409",
+            "7.407",
+            "7.411"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which ministry announced the expansion of eligibility criteria for the Prime Minister Internship Scheme (PMIS)?",
-        "a": "Ministry of Corporate Affairs",
+        "q": "What was the exact gross purchase amount of foreign currency by RBI in February in billions of dollars?",
+        "a": "21.403",
         "options": [
-            "Ministry of Education",
-            "Ministry of Skill Development and Entrepreneurship",
-            "Ministry of Corporate Affairs",
-            "Ministry of Finance",
-            "Ministry of Labour and Employment"
+            "21.402",
+            "21.404",
+            "21.403",
+            "21.401",
+            "21.405"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the chief executive of TeamLease Degree Apprenticeship, quoted regarding the PMIS expansion?",
-        "a": "Nipun Sharma",
+        "q": "What was the exact gross sale amount of foreign currency by RBI in February in billions of dollars?",
+        "a": "13.994",
         "options": [
-            "Nitin Sharma",
-            "Naveen Singh",
-            "Nipun Sharma",
-            "Nitesh Kumar",
-            "Narendra Singh"
+            "13.993",
+            "13.995",
+            "13.994",
+            "13.992",
+            "13.996"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which two entities released the first edition of the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "ASK Private Wealth and Hurun India",
+        "q": "What was the exact amount of foreign currency bought by the central bank in January in billions of dollars?",
+        "a": "2.526",
         "options": [
-            "ASK Private Wealth and Forbes India",
-            "Hurun India and KPMG",
-            "ASK Private Wealth and Hurun India",
-            "NITI Aayog and Hurun India",
-            "EY and ASK Private Wealth"
+            "2.525",
+            "2.527",
+            "2.526",
+            "2.524",
+            "2.528"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the leader of Jupiter Wagons, which topped the 2026 ASK Private Wealth Hurun India Successors 50 ranking?",
-        "a": "Vikash Lohia",
+        "q": "What was the exact total loan amount sought by the Bihar Government from RBI in crores?",
+        "a": "12000",
         "options": [
-            "Vikas Singh",
-            "Vikram Lohia",
-            "Vikash Lohia",
-            "Vijay Lohar",
-            "Vivek Sharma"
+            "11900",
+            "12100",
+            "12000",
+            "11800",
+            "12200"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who shared the second spot in the Hurun India Successors 50 ranking with 52.5 times growth in company value?",
-        "a": "Amit Dahanukar and Abhyuday Jindal",
+        "q": "What is the exact amount of the first instalment of the loan RBI will release to the Bihar Government in crores?",
+        "a": "4000",
         "options": [
-            "Karan Adani and Priya Agarwal Hebbar",
-            "Amit Dahanukar and Abhyuday Jindal",
-            "Arun Alagappan and Rajesh Agrawal",
-            "Vikash Lohia and Rama Kirloskar",
-            "Aalok Shanghvi and Vidhi Shanghvi"
+            "3900",
+            "4100",
+            "4000",
+            "3800",
+            "4200"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who leads in absolute value added with \u20b92,67,525 crore in value creation in the Hurun India Successors 50 report?",
-        "a": "Karan Adani",
+        "q": "The rupee\u2019s value changed from 93.78 to 94.01. What is the precise absolute change?",
+        "a": "0.23",
         "options": [
-            "Aalok Shanghvi",
-            "Priya Agarwal Hebbar",
-            "Karan Adani",
-            "Vikash Lohia",
-            "Arun Alagappan"
+            "0.22",
+            "0.24",
+            "0.23",
+            "0.21",
+            "0.25"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the RBI Governor mentioned speaking at a round-table hosted by the Consulate General of India in New York?",
-        "a": "Sanjay Malhotra",
+        "q": "Sum of net purchase in Feb ($7.409 billion) and gross sale in Feb ($13.994 billion) is approximately:",
+        "a": "$21.403 billion",
         "options": [
-            "Shaktikanta Das",
-            "Urjit Patel",
-            "Sanjay Malhotra",
-            "Raghuram Rajan",
-            "Subramanian Swamy"
+            "$21.400 billion",
+            "$21.500 billion",
+            "$21.403 billion",
+            "$21.300 billion",
+            "$21.405 billion"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the senior Supreme Court lawyer and Rajya Sabha MP who claimed an \"unconstitutional Emergency\" was imposed in West Bengal by the ECI?",
-        "a": "Kapil Sibal",
+        "q": "The rupee weakened past the 94 level. What is the value when 94 is multiplied by 23 paise (expressed as 0.23)?",
+        "a": "21.62",
         "options": [
-            "P. Chidambaram",
-            "Abhishek Manu Singhvi",
-            "Kapil Sibal",
-            "Salman Khurshid",
-            "Arvind Kejriwal"
+            "21.60",
+            "21.64",
+            "21.62",
+            "21.58",
+            "21.66"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Which U.S. President announced a ceasefire on April 7, bringing temporary relief to the MPC meeting?",
-        "a": "Donald Trump",
+        "q": "If the total loan sought by Bihar is \u20b912000 crore and the first installment is \u20b94000 crore, what percentage of the loan is the first installment?",
+        "a": "33.33%",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "25%",
+            "50%",
+            "33.33%",
+            "40%",
+            "20%"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Meta spokesperson quoted regarding the company's new AI model training software?",
-        "a": "Andy Stone",
+        "q": "On which day of the week did the Indian rupee weaken past the 94 level against the U.S. dollar?",
+        "a": "Thursday",
         "options": [
-            "Mark Zuckerberg",
-            "Sheryl Sandberg",
-            "Andy Stone",
-            "Adam Mosseri",
-            "Nick Clegg"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who represented the West Bengal government in the Supreme Court matter regarding CM Mamata Banerjee's conduct during an ED raid?",
-        "a": "Menaka Guruswamy",
-        "options": [
-            "Indira Jaising",
-            "Gopal Subramanium",
-            "Menaka Guruswamy",
-            "Harish Salve",
-            "Ranjit Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the key accused arrested by the Commercial Taxes Department of Karnataka in the inter-State fake ITC fraud?",
-        "a": "Mohammed Tauqeer alias Mohammad",
-        "options": [
-            "Shaik Jakeer Hussain",
-            "Mohammed Tauqeer alias Mohammad",
-            "Ahmed Ali",
-            "Ramesh Kumar",
-            "Suresh Sharma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which two Indian cities each host six of the companies' headquarters from the Hurun India Successors 50 ranking?",
-        "a": "Mumbai and New Delhi",
-        "options": [
-            "Bengaluru and Chennai",
-            "Mumbai and New Delhi",
-            "Hyderabad and Pune",
-            "Ahmedabad and Kolkata",
-            "Surat and Jaipur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did RBI Governor Sanjay Malhotra speak at a round-table hosted by the Consulate General of India on April 20, 2026?",
-        "a": "New York",
-        "options": [
-            "Washington D.C.",
-            "London",
-            "New York",
-            "Dubai",
-            "Singapore"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which state did Kapil Sibal claim an \"unconstitutional Emergency\" was imposed by the Election Commission of India?",
-        "a": "West Bengal",
-        "options": [
-            "Uttar Pradesh",
-            "Bihar",
-            "West Bengal",
-            "Odisha",
-            "Assam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At which premises in Kolkata did CM Mamata Banerjee walk into an ongoing Directorate of Enforcement (ED) raid in January?",
-        "a": "I-PAC premises",
-        "options": [
-            "TMC Headquarters",
-            "State Secretariat",
-            "I-PAC premises",
-            "CM's Residence",
-            "Police Headquarters"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which state's Commercial Taxes Department arrested a key accused in a massive inter-State fake input tax credit (ITC) fraud?",
-        "a": "Karnataka",
-        "options": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Maharashtra"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which state leads with the highest number of companies headquartered from the Hurun India Successors 50 ranking?",
-        "a": "Maharashtra",
-        "options": [
-            "Gujarat",
-            "Karnataka",
-            "Maharashtra",
-            "Tamil Nadu",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which university is cited as the most common undergraduate alma mater for successors in the Hurun India Successors 50 list?",
-        "a": "The University of Pennsylvania",
-        "options": [
-            "Stanford University",
-            "University of Cambridge",
-            "The University of Pennsylvania",
-            "Oxford University",
-            "IIT Bombay"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which institution leads as the most common postgraduate alma mater for successors in the Hurun India Successors 50 list?",
-        "a": "Harvard Business School",
-        "options": [
-            "London School of Economics",
-            "Wharton School",
-            "Harvard Business School",
-            "INSEAD",
-            "Indian Institute of Management Ahmedabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The 2026 ASK Private Wealth Hurun India Successors 50 ranking analyzed the performance of companies between which years?",
-        "a": "2020 and 2026",
-        "options": [
-            "2019 and 2025",
-            "2020 and 2026",
-            "2021 and 2027",
-            "2018 and 2024",
-            "2022 and 2028"
+            "Wednesday",
+            "Friday",
+            "Thursday",
+            "Tuesday",
+            "Monday"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Muthoot Finance, the oldest company mentioned in the Hurun India Successors 50 list, founded?",
-        "a": "1887",
+        "q": "What was the specific date when the Indian rupee weakened past the 94 level against the U.S. dollar?",
+        "a": "April 23, 2026",
         "options": [
-            "1890",
-            "1885",
-            "1887",
-            "1892",
-            "1880"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In March 2026, U.S. inflation climbed to 3.3%, marking the highest level in nearly how many years?",
-        "a": "Nearly two years",
-        "options": [
-            "Nearly one year",
-            "Nearly three years",
-            "Nearly two years",
-            "Nearly eighteen months",
-            "Nearly two and a half years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The 10.9% increase in energy prices in March 2026 marked the largest monthly gain in the U.S. since which month and year?",
-        "a": "September 2005",
-        "options": [
-            "August 2005",
-            "October 2006",
-            "September 2005",
-            "July 2004",
-            "November 2007"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the last Monetary Policy Committee (MPC) meeting, where members discussed the impact of the West Asia conflict?",
-        "a": "April 6-8",
-        "options": [
-            "April 1-3",
-            "April 6-8",
-            "March 28-30",
-            "April 10-12",
-            "April 4-6"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did U.S. President Donald Trump announce a ceasefire, bringing temporary relief to the MPC meeting?",
-        "a": "April 7",
-        "options": [
-            "April 5",
-            "April 9",
-            "April 7",
-            "April 6",
-            "April 8"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Supreme Court make a statement regarding West Bengal CM Mamata Banerjee's conduct during an ED raid?",
-        "a": "April 22, 2026",
-        "options": [
-            "April 20, 2026",
-            "April 24, 2026",
             "April 22, 2026",
+            "April 24, 2026",
+            "April 23, 2026",
             "April 21, 2026",
-            "April 23, 2026"
+            "April 25, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month did West Bengal Chief Minister Mamata Banerjee walk into an ongoing ED raid at I-PAC premises in Kolkata?",
+        "q": "In which month did the RBI net purchase $7.409 billion from the spot currency market?",
+        "a": "February",
+        "options": [
+            "January",
+            "March",
+            "February",
+            "April",
+            "December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the central bank's monthly bulletin, detailing currency market activity, released?",
+        "a": "Thursday",
+        "options": [
+            "Wednesday",
+            "Friday",
+            "Thursday",
+            "Tuesday",
+            "Monday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the specific date of the release of the RBI's monthly bulletin?",
+        "a": "April 23, 2026",
+        "options": [
+            "April 22, 2026",
+            "April 24, 2026",
+            "April 23, 2026",
+            "April 21, 2026",
+            "April 25, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many consecutive months of net purchase of foreign currency did the central bank register prior to the recent data?",
+        "a": "Second",
+        "options": [
+            "First",
+            "Third",
+            "Second",
+            "Fourth",
+            "Fifth"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For how many consecutive months did the central bank register net sales of foreign currency before the recent net purchases?",
+        "a": "Seven",
+        "options": [
+            "Six",
+            "Eight",
+            "Seven",
+            "Five",
+            "Nine"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month did the central bank buy $2.526 billion as mentioned in the RBI's monthly bulletin data?",
         "a": "January",
         "options": [
-            "December",
             "February",
+            "December",
             "January",
             "March",
             "November"
@@ -636,87 +504,207 @@
         "cat": "When"
     },
     {
-        "q": "What is the primary aim of the Prime Minister Internship Scheme (PMIS) according to the ministry's statement?",
-        "a": "To integrate classroom learning with practical experience",
+        "q": "For how many months have the social security pensions in Bihar been delayed?",
+        "a": "Two months",
         "options": [
-            "To provide direct employment",
-            "To offer financial aid to students",
-            "To integrate classroom learning with practical experience",
-            "To encourage entrepreneurship",
-            "To promote higher education enrolment"
+            "One month",
+            "Three months",
+            "Two months",
+            "Four months",
+            "Five months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "By when will the RBI release the first instalment of \u20b94000 crore to the Bihar Government?",
+        "a": "End of this month",
+        "options": [
+            "End of next month",
+            "Mid of this month",
+            "End of this month",
+            "Beginning of next month",
+            "Mid of next month"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "By when are the remaining instalments of the loan for the Bihar Government expected to be released?",
+        "a": "June 2026",
+        "options": [
+            "May 2026",
+            "July 2026",
+            "June 2026",
+            "April 2026",
+            "August 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The news regarding the rupee weakening and the RBI bulletin release happened on the same date. What year was this?",
+        "a": "2026",
+        "options": [
+            "2025",
+            "2027",
+            "2026",
+            "2024",
+            "2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "If 'this month' refers to April 2026 (based on April 23, 2026 date in news), by what month will the first installment be released?",
+        "a": "April",
+        "options": [
+            "March",
+            "May",
+            "April",
+            "February",
+            "June"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which entity net purchased $7.409 billion from the spot currency market in February?",
+        "a": "Reserve Bank of India (RBI)",
+        "options": [
+            "Ministry of Finance",
+            "State Bank of India",
+            "Reserve Bank of India (RBI)",
+            "Clearing Corporation of India",
+            "Bihar Government"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which central bank's monthly bulletin was released on Thursday, April 23, 2026?",
+        "a": "Reserve Bank of India (RBI)",
+        "options": [
+            "Federal Reserve",
+            "European Central Bank",
+            "Reserve Bank of India (RBI)",
+            "Bank of England",
+            "Bank of Japan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which state government approached the Reserve Bank of India for a loan of \u20b912000 crore?",
+        "a": "Bihar Government",
+        "options": [
+            "Uttar Pradesh Government",
+            "Maharashtra Government",
+            "Bihar Government",
+            "West Bengal Government",
+            "Tamil Nadu Government"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which entity was approached by the Bihar Government for a \u20b912000 crore loan?",
+        "a": "Reserve Bank of India (RBI)",
+        "options": [
+            "World Bank",
+            "International Monetary Fund",
+            "Reserve Bank of India (RBI)",
+            "Asian Development Bank",
+            "State Bank of India"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who are among the beneficiaries of the delayed social security pensions in Bihar for which the loan is sought?",
+        "a": "Elderly and widows",
+        "options": [
+            "Government employees",
+            "Farmers",
+            "Elderly and widows",
+            "Students",
+            "Unemployed youth"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the primary reason cited for the Indian rupee weakening past the 94 level against the U.S. dollar?",
+        "a": "High hedging dollar demand and a broader shift toward safe-haven assets",
+        "options": [
+            "Increased foreign direct investment",
+            "Strong export growth",
+            "High hedging dollar demand and a broader shift toward safe-haven assets",
+            "Surplus in trade balance",
+            "Low crude oil prices"
         ],
         "cat": "Why"
     },
     {
-        "q": "The inclusion of new-age sectors like GCCs, renewables, and semiconductors in PMIS signals an intent to align the scheme with what?",
-        "a": "Emerging economic priorities",
+        "q": "Why did crude oil prices rise over $100 a barrel as per the news?",
+        "a": "Owing to uncertainties around the West Asia conflict",
         "options": [
-            "Global corporate strategies",
-            "Skill development targets",
-            "Emerging economic priorities",
-            "Digital transformation goals",
-            "Public-private partnerships"
+            "Increased global demand",
+            "New oil discoveries",
+            "Owing to uncertainties around the West Asia conflict",
+            "Reduced production by OPEC",
+            "Strong economic growth in China"
         ],
         "cat": "Why"
     },
     {
-        "q": "The changes in the PMIS, including age revision, aim to align the scheme with the objectives of which national policy?",
-        "a": "National Education Policy (NEP)",
+        "q": "What was the primary purpose for the Bihar Government seeking a loan of \u20b912000 crore from the RBI?",
+        "a": "To pay its social security pensions",
         "options": [
-            "National Skill Development Policy",
-            "National Youth Policy",
-            "National Economic Policy",
-            "National Education Policy (NEP)",
-            "National Social Security Policy"
+            "To fund infrastructure projects",
+            "To clear outstanding debts to central government",
+            "To pay its social security pensions",
+            "To boost agricultural output",
+            "To provide subsidies to industries"
         ],
         "cat": "Why"
     },
     {
-        "q": "Under which insurance schemes will interns receive coverage as part of the Prime Minister Internship Scheme (PMIS)?",
-        "a": "Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana",
+        "q": "The RBI bulletin mentioned net purchase of foreign currency for the second consecutive month. What does this signify after seven months of net sales?",
+        "a": "Shift from net sales to net purchases in the currency market",
         "options": [
-            "Ayushman Bharat Yojana",
-            "Pradhan Mantri Fasal Bima Yojana",
-            "Pradhan Mantri Jan Dhan Yojana",
-            "Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana",
-            "Atal Pension Yojana"
+            "Increased rupee depreciation",
+            "Decreased foreign exchange reserves",
+            "Shift from net sales to net purchases in the currency market",
+            "Higher demand for dollar by RBI",
+            "Reduced international trade"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of Meta installing new tracking software on its U.S.-based employees\u2019 computers?",
-        "a": "To train its artificial-intelligence models",
+        "q": "The Indian rupee came under pressure primarily due to rising crude oil prices and what other major factor?",
+        "a": "Uncertainties around the West Asia conflict",
         "options": [
-            "To monitor employee productivity",
-            "To enhance data security",
-            "To train its artificial-intelligence models",
-            "To comply with new regulations",
-            "To improve remote work efficiency"
+            "Strong domestic consumption",
+            "Low inflation rates",
+            "Uncertainties around the West Asia conflict",
+            "High interest rates by RBI",
+            "Stable global economy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific areas does Meta aim to improve in its AI models by capturing inputs like mouse movements and keystrokes?",
-        "a": "Choosing from dropdown menus and using keyboard shortcuts",
+        "q": "Where was the rupee's fall and its new value against the dollar reflected as per the news?",
+        "a": "Clearing Corporation of India platform",
         "options": [
-            "Language translation capabilities",
-            "Facial recognition accuracy",
-            "Complex problem-solving",
-            "Choosing from dropdown menus and using keyboard shortcuts",
-            "Real-time communication"
+            "National Stock Exchange",
+            "Bombay Stock Exchange",
+            "Clearing Corporation of India platform",
+            "RBI headquarters",
+            "Ministry of Finance website"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "Why did all six members of the Monetary Policy Committee (MPC) unanimously vote for a status quo on April 8?",
-        "a": "Temporary relief brought by the ceasefire announced by the U.S. President",
+        "q": "From which market did the Reserve Bank of India net purchase $7.409 billion in February?",
+        "a": "Spot currency market",
         "options": [
-            "Stable global oil prices",
-            "Improved domestic economic indicators",
-            "Temporary relief brought by the ceasefire announced by the U.S. President",
-            "Consensus on inflation control",
-            "Government directive"
+            "Futures market",
+            "Derivatives market",
+            "Spot currency market",
+            "Bond market",
+            "Equity market"
         ],
-        "cat": "Why"
+        "cat": "Where"
     }
 ]
