@@ -1,710 +1,722 @@
 [
     {
-        "q": "What specific level did the Indian rupee weaken past against the U.S. dollar on April 23, 2026?",
-        "a": "94",
+        "q": "How many retirees rely on US Social Security benefits?",
+        "a": "57 million",
         "options": [
-            "93.9",
-            "94.1",
-            "94",
-            "93.5",
-            "94.5"
+            "58 million",
+            "56 million",
+            "57 million",
+            "57.5 million",
+            "56.5 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The news text indicates crude oil prices rose over what dollar amount per barrel?",
-        "a": "$100",
+        "q": "What percentage of the population does the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) include?",
+        "a": "29%",
         "options": [
-            "$99",
-            "$101",
-            "$100",
-            "$98",
-            "$102"
+            "28%",
+            "30%",
+            "29%",
+            "31%",
+            "28.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how many paise did the rupee fall against the dollar on April 23, 2026?",
-        "a": "23 paise",
+        "q": "What percentage of the population does the standard inflation metric, Consumer Price Index (CPI-U), include?",
+        "a": "93%",
         "options": [
-            "22 paise",
-            "24 paise",
-            "23 paise",
-            "21 paise",
-            "25 paise"
+            "92%",
+            "94%",
+            "93%",
+            "92.5%",
+            "93.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the exact value the rupee fell to against the dollar on April 23, 2026?",
-        "a": "94.01",
+        "q": "What was the Cost-of-Living-Adjustment (COLA) percentage set for 2026 based on the 2.8% higher Q3 average in 2025 compared to 2024?",
+        "a": "2.8%",
         "options": [
-            "94.00",
-            "94.02",
-            "94.01",
-            "93.99",
-            "94.03"
+            "2.7%",
+            "2.9%",
+            "2.8%",
+            "2.75%",
+            "2.85%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the rupee's previous closing value against the dollar as per the news?",
-        "a": "93.78",
+        "q": "What was the Cost-of-Living-Adjustment (COLA) percentage set for 2025, based on the 2.5% higher Q3 average in 2024 compared to 2023?",
+        "a": "2.5%",
         "options": [
-            "93.77",
-            "93.79",
-            "93.78",
-            "93.76",
-            "93.80"
+            "2.4%",
+            "2.6%",
+            "2.5%",
+            "2.45%",
+            "2.55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the net amount of foreign currency purchased by the RBI from the spot market in February?",
-        "a": "$7.409 billion",
+        "q": "By how much were Medicare Part B premiums increased, as mentioned in the report?",
+        "a": "$17.90",
         "options": [
-            "$7.408 billion",
-            "$7.410 billion",
-            "$7.409 billion",
-            "$7.407 billion",
-            "$7.411 billion"
+            "$17.80",
+            "$18.00",
+            "$17.90",
+            "$17.85",
+            "$17.95"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the gross amount of foreign currency purchased by the central bank in February?",
-        "a": "$21.403 billion",
+        "q": "What was the new increased amount for Medicare Part B premiums?",
+        "a": "$202.90",
         "options": [
-            "$21.402 billion",
-            "$21.404 billion",
-            "$21.403 billion",
-            "$21.401 billion",
-            "$21.405 billion"
+            "$202.80",
+            "$203.00",
+            "$202.90",
+            "$202.85",
+            "$202.95"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the gross amount of foreign currency sold by the central bank in February?",
-        "a": "$13.994 billion",
+        "q": "If a person's Social Security benefit was $2,000 in 2025, how much more would they have received in 2026 after the 2.8% COLA, before Part B deductions?",
+        "a": "$56",
         "options": [
-            "$13.993 billion",
-            "$13.995 billion",
-            "$13.994 billion",
-            "$13.992 billion",
-            "$13.996 billion"
+            "$55",
+            "$57",
+            "$56",
+            "$55.50",
+            "$56.50"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much foreign currency did the central bank buy in January according to the bulletin?",
-        "a": "$2.526 billion",
+        "q": "What was the net extra benefit received by a person after the 2.8% COLA and the $17.90 increase in Part B premiums?",
+        "a": "$38.10",
         "options": [
-            "$2.525 billion",
-            "$2.527 billion",
-            "$2.526 billion",
-            "$2.524 billion",
-            "$2.528 billion"
+            "$38.00",
+            "$38.20",
+            "$38.10",
+            "$38.05",
+            "$38.15"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What total loan amount did the Bihar Government seek from the RBI?",
-        "a": "\u20b912000 crore",
+        "q": "According to The Senior Citizens League (TSCL), what percentage of their purchasing power have Social Security benefits lost since 2010?",
+        "a": "20%",
         "options": [
-            "\u20b911900 crore",
-            "\u20b912100 crore",
-            "\u20b912000 crore",
-            "\u20b911800 crore",
-            "\u20b912200 crore"
+            "19%",
+            "21%",
+            "20%",
+            "19.5%",
+            "20.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the amount of the first instalment of the loan RBI will release to the Bihar Government?",
-        "a": "\u20b94000 crore",
+        "q": "An amount of $100 in 2010 could buy how much worth of items today, based on the reported loss of purchasing power?",
+        "a": "$80",
         "options": [
-            "\u20b93900 crore",
-            "\u20b94100 crore",
-            "\u20b94000 crore",
-            "\u20b93800 crore",
-            "\u20b94200 crore"
+            "$79",
+            "$81",
+            "$80",
+            "$79.50",
+            "$80.50"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Indian rupee fell X paise to 94.01 against the dollar. If its previous close was 93.78, what is X?",
-        "a": "23 paise",
+        "q": "What is the outlay for the Mines Ministry's incentive scheme for the financial year 2026-27?",
+        "a": "\u20b95,000 crore",
         "options": [
-            "22 paise",
-            "24 paise",
-            "23 paise",
-            "21 paise",
-            "25 paise"
+            "\u20b94,900 crore",
+            "\u20b95,100 crore",
+            "\u20b95,000 crore",
+            "\u20b94,950 crore",
+            "\u20b95,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total foreign currency purchased (gross) and sold (gross) by RBI in February, combined?",
-        "a": "$35.397 billion",
+        "q": "How many of the 26 persons who said they had been human-trafficked to Russia were reported dead by the Union government?",
+        "a": "10",
         "options": [
-            "$35.390 billion",
-            "$35.400 billion",
-            "$35.397 billion",
-            "$35.380 billion",
-            "$35.410 billion"
+            "9",
+            "11",
+            "10",
+            "9.5",
+            "10.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much more did the RBI purchase in February (net) compared to January?",
-        "a": "$4.883 billion",
+        "q": "How many persons were initially reported as \"human-trafficked\" to Russia, according to the Union government's statement?",
+        "a": "26",
         "options": [
-            "$4.880 billion",
-            "$4.890 billion",
-            "$4.883 billion",
-            "$4.870 billion",
-            "$4.895 billion"
+            "25",
+            "27",
+            "26",
+            "25.5",
+            "26.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the sum of the total loan sought by Bihar and the first instalment amount?",
-        "a": "\u20b916000 crore",
+        "q": "How many years of experience does Swati Gandhi have as a digital journalist?",
+        "a": "Four years",
         "options": [
-            "\u20b915900 crore",
-            "\u20b916100 crore",
-            "\u20b916000 crore",
-            "\u20b915800 crore",
-            "\u20b916200 crore"
+            "Three years",
+            "Five years",
+            "Four years",
+            "Three and a half years",
+            "Four and a half years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "If the rupee fell from 93.78 to 94.01, what is the numerical difference in its value?",
-        "a": "0.23",
+        "q": "Who is the digital journalist mentioned in the news text, specializing in international and geopolitical issues?",
+        "a": "Swati Gandhi",
         "options": [
-            "0.22",
-            "0.24",
-            "0.23",
-            "0.21",
-            "0.25"
+            "Aishwarya Bhati",
+            "Swati Sharma",
+            "Swati Gandhi",
+            "Nahida Bristy",
+            "Zamil Limon"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "Considering the rupee level of 94.01 and previous close of 93.78, what is the sum of these two figures?",
-        "a": "187.79",
+        "q": "Which advocacy group is mentioned as reporting the loss of Social Security purchasing power?",
+        "a": "The Senior Citizens League (TSCL)",
         "options": [
-            "187.70",
-            "187.80",
-            "187.79",
-            "187.75",
-            "187.85"
+            "National Council of Senior Citizens",
+            "American Association of Retired Persons (AARP)",
+            "The Senior Citizens League (TSCL)",
+            "Gray Panthers",
+            "Coalition of Seniors for Justice"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What is the difference between the gross purchase and net purchase by RBI in February?",
-        "a": "$13.994 billion",
+        "q": "Which entity floated Paytm Payments Bank Ltd (PPBL) and later distanced itself from it?",
+        "a": "Paytm (One 97 Communications Limited)",
         "options": [
-            "$13.993 billion",
-            "$13.995 billion",
-            "$13.994 billion",
-            "$13.992 billion",
-            "$13.996 billion"
+            "PhonePe",
+            "Google Pay",
+            "Paytm (One 97 Communications Limited)",
+            "MobiKwik",
+            "Airtel Payments Bank"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "The Bihar government's loan request totals \u20b912000 crore. If the first installment is \u20b94000 crore, what amount remains to be disbursed?",
-        "a": "\u20b98000 crore",
-        "options": [
-            "\u20b97900 crore",
-            "\u20b98100 crore",
-            "\u20b98000 crore",
-            "\u20b97800 crore",
-            "\u20b98200 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Indian rupee weakened past what exact integer level against the U.S. dollar on April 23, 2026?",
-        "a": "94",
-        "options": [
-            "93",
-            "95",
-            "94",
-            "93.5",
-            "94.5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The crude oil prices were reported to have risen over which specific dollar amount per barrel?",
-        "a": "$100",
-        "options": [
-            "$99",
-            "$101",
-            "$100",
-            "$98",
-            "$102"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many paise did the rupee precisely fall on April 23, 2026?",
-        "a": "23",
-        "options": [
-            "22",
-            "24",
-            "23",
-            "21",
-            "25"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact rupee value recorded after it fell 23 paise on April 23, 2026?",
-        "a": "94.01",
-        "options": [
-            "94.00",
-            "94.02",
-            "94.01",
-            "93.99",
-            "94.03"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the precise previous closing value of the rupee against the dollar?",
-        "a": "93.78",
-        "options": [
-            "93.77",
-            "93.79",
-            "93.78",
-            "93.76",
-            "93.80"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact net purchase amount of foreign currency by RBI in February in billions of dollars?",
-        "a": "7.409",
-        "options": [
-            "7.408",
-            "7.410",
-            "7.409",
-            "7.407",
-            "7.411"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact gross purchase amount of foreign currency by RBI in February in billions of dollars?",
-        "a": "21.403",
-        "options": [
-            "21.402",
-            "21.404",
-            "21.403",
-            "21.401",
-            "21.405"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact gross sale amount of foreign currency by RBI in February in billions of dollars?",
-        "a": "13.994",
-        "options": [
-            "13.993",
-            "13.995",
-            "13.994",
-            "13.992",
-            "13.996"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact amount of foreign currency bought by the central bank in January in billions of dollars?",
-        "a": "2.526",
-        "options": [
-            "2.525",
-            "2.527",
-            "2.526",
-            "2.524",
-            "2.528"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the exact total loan amount sought by the Bihar Government from RBI in crores?",
-        "a": "12000",
-        "options": [
-            "11900",
-            "12100",
-            "12000",
-            "11800",
-            "12200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the exact amount of the first instalment of the loan RBI will release to the Bihar Government in crores?",
-        "a": "4000",
-        "options": [
-            "3900",
-            "4100",
-            "4000",
-            "3800",
-            "4200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The rupee\u2019s value changed from 93.78 to 94.01. What is the precise absolute change?",
-        "a": "0.23",
-        "options": [
-            "0.22",
-            "0.24",
-            "0.23",
-            "0.21",
-            "0.25"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Sum of net purchase in Feb ($7.409 billion) and gross sale in Feb ($13.994 billion) is approximately:",
-        "a": "$21.403 billion",
-        "options": [
-            "$21.400 billion",
-            "$21.500 billion",
-            "$21.403 billion",
-            "$21.300 billion",
-            "$21.405 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The rupee weakened past the 94 level. What is the value when 94 is multiplied by 23 paise (expressed as 0.23)?",
-        "a": "21.62",
-        "options": [
-            "21.60",
-            "21.64",
-            "21.62",
-            "21.58",
-            "21.66"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "If the total loan sought by Bihar is \u20b912000 crore and the first installment is \u20b94000 crore, what percentage of the loan is the first installment?",
-        "a": "33.33%",
-        "options": [
-            "25%",
-            "50%",
-            "33.33%",
-            "40%",
-            "20%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "On which day of the week did the Indian rupee weaken past the 94 level against the U.S. dollar?",
-        "a": "Thursday",
-        "options": [
-            "Wednesday",
-            "Friday",
-            "Thursday",
-            "Tuesday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the specific date when the Indian rupee weakened past the 94 level against the U.S. dollar?",
-        "a": "April 23, 2026",
-        "options": [
-            "April 22, 2026",
-            "April 24, 2026",
-            "April 23, 2026",
-            "April 21, 2026",
-            "April 25, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month did the RBI net purchase $7.409 billion from the spot currency market?",
-        "a": "February",
-        "options": [
-            "January",
-            "March",
-            "February",
-            "April",
-            "December"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the central bank's monthly bulletin, detailing currency market activity, released?",
-        "a": "Thursday",
-        "options": [
-            "Wednesday",
-            "Friday",
-            "Thursday",
-            "Tuesday",
-            "Monday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the specific date of the release of the RBI's monthly bulletin?",
-        "a": "April 23, 2026",
-        "options": [
-            "April 22, 2026",
-            "April 24, 2026",
-            "April 23, 2026",
-            "April 21, 2026",
-            "April 25, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many consecutive months of net purchase of foreign currency did the central bank register prior to the recent data?",
-        "a": "Second",
-        "options": [
-            "First",
-            "Third",
-            "Second",
-            "Fourth",
-            "Fifth"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how many consecutive months did the central bank register net sales of foreign currency before the recent net purchases?",
-        "a": "Seven",
-        "options": [
-            "Six",
-            "Eight",
-            "Seven",
-            "Five",
-            "Nine"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month did the central bank buy $2.526 billion as mentioned in the RBI's monthly bulletin data?",
-        "a": "January",
-        "options": [
-            "February",
-            "December",
-            "January",
-            "March",
-            "November"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how many months have the social security pensions in Bihar been delayed?",
-        "a": "Two months",
-        "options": [
-            "One month",
-            "Three months",
-            "Two months",
-            "Four months",
-            "Five months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "By when will the RBI release the first instalment of \u20b94000 crore to the Bihar Government?",
-        "a": "End of this month",
-        "options": [
-            "End of next month",
-            "Mid of this month",
-            "End of this month",
-            "Beginning of next month",
-            "Mid of next month"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "By when are the remaining instalments of the loan for the Bihar Government expected to be released?",
-        "a": "June 2026",
-        "options": [
-            "May 2026",
-            "July 2026",
-            "June 2026",
-            "April 2026",
-            "August 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The news regarding the rupee weakening and the RBI bulletin release happened on the same date. What year was this?",
-        "a": "2026",
-        "options": [
-            "2025",
-            "2027",
-            "2026",
-            "2024",
-            "2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "If 'this month' refers to April 2026 (based on April 23, 2026 date in news), by what month will the first installment be released?",
-        "a": "April",
-        "options": [
-            "March",
-            "May",
-            "April",
-            "February",
-            "June"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which entity net purchased $7.409 billion from the spot currency market in February?",
+        "q": "Which regulatory body cancelled the banking licence of Paytm Payments Bank Limited (PPBL)?",
         "a": "Reserve Bank of India (RBI)",
+        "options": [
+            "Securities and Exchange Board of India (SEBI)",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "NITI Aayog",
+            "IRDAI"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Ministry instituted an incentive scheme with an outlay of \u20b95,000 crore for financial year 2026-27?",
+        "a": "Mines Ministry",
         "options": [
             "Ministry of Finance",
-            "State Bank of India",
-            "Reserve Bank of India (RBI)",
-            "Clearing Corporation of India",
-            "Bihar Government"
+            "Ministry of Commerce and Industry",
+            "Mines Ministry",
+            "Ministry of Corporate Affairs",
+            "Ministry of Power"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which central bank's monthly bulletin was released on Thursday, April 23, 2026?",
-        "a": "Reserve Bank of India (RBI)",
+        "q": "Who was arrested in connection with the disappearance and death of a University of South Florida (USF) doctoral student?",
+        "a": "Hisham Saleh Abugharbieh",
         "options": [
-            "Federal Reserve",
-            "European Central Bank",
-            "Reserve Bank of India (RBI)",
-            "Bank of England",
-            "Bank of Japan"
+            "Zamil Limon",
+            "Nahida Bristy",
+            "Hisham Saleh Abugharbieh",
+            "Surya Kant",
+            "Aishwarya Bhati"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which state government approached the Reserve Bank of India for a loan of \u20b912000 crore?",
-        "a": "Bihar Government",
+        "q": "Which USF doctoral student's remains were found on the Howard Frankland Bridge in Tampa Bay?",
+        "a": "Zamil Limon",
         "options": [
-            "Uttar Pradesh Government",
-            "Maharashtra Government",
-            "Bihar Government",
-            "West Bengal Government",
-            "Tamil Nadu Government"
+            "Nahida Bristy",
+            "Swati Gandhi",
+            "Zamil Limon",
+            "Hisham Saleh Abugharbieh",
+            "Mary Jane"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity was approached by the Bihar Government for a \u20b912000 crore loan?",
-        "a": "Reserve Bank of India (RBI)",
+        "q": "Which law enforcement agency arrested Hisham Saleh Abugharbieh in Tampa?",
+        "a": "Hillsborough County Sheriff\u2019s Office",
         "options": [
-            "World Bank",
-            "International Monetary Fund",
-            "Reserve Bank of India (RBI)",
-            "Asian Development Bank",
-            "State Bank of India"
+            "Tampa Police Department",
+            "Florida Department of Law Enforcement",
+            "Hillsborough County Sheriff\u2019s Office",
+            "Federal Bureau of Investigation (FBI)",
+            "Miami-Dade Police Department"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who are among the beneficiaries of the delayed social security pensions in Bihar for which the loan is sought?",
-        "a": "Elderly and widows",
+        "q": "Who is the Chief Justice of India mentioned in the context of the human-trafficking case before the Supreme Court?",
+        "a": "Surya Kant",
         "options": [
-            "Government employees",
-            "Farmers",
-            "Elderly and widows",
-            "Students",
-            "Unemployed youth"
+            "D.Y. Chandrachud",
+            "N.V. Ramana",
+            "Surya Kant",
+            "U.U. Lalit",
+            "Ranjan Gogoi"
         ],
         "cat": "Who"
     },
     {
-        "q": "What was the primary reason cited for the Indian rupee weakening past the 94 level against the U.S. dollar?",
-        "a": "High hedging dollar demand and a broader shift toward safe-haven assets",
+        "q": "Who appeared before the Supreme Court as Additional Solicitor General in the human-trafficking case?",
+        "a": "Aishwarya Bhati",
         "options": [
-            "Increased foreign direct investment",
-            "Strong export growth",
-            "High hedging dollar demand and a broader shift toward safe-haven assets",
-            "Surplus in trade balance",
-            "Low crude oil prices"
+            "Tushar Mehta",
+            "R. Venkataramani",
+            "Aishwarya Bhati",
+            "K.K. Venugopal",
+            "Mukul Rohatgi"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "Why did crude oil prices rise over $100 a barrel as per the news?",
-        "a": "Owing to uncertainties around the West Asia conflict",
+        "q": "Which High Court slammed Uttar Pradesh police for 'chasing couples virtually investigating marriages'?",
+        "a": "Allahabad High Court",
         "options": [
-            "Increased global demand",
-            "New oil discoveries",
-            "Owing to uncertainties around the West Asia conflict",
-            "Reduced production by OPEC",
-            "Strong economic growth in China"
+            "Delhi High Court",
+            "Bombay High Court",
+            "Allahabad High Court",
+            "Calcutta High Court",
+            "Madras High Court"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "What was the primary purpose for the Bihar Government seeking a loan of \u20b912000 crore from the RBI?",
-        "a": "To pay its social security pensions",
+        "q": "Which two Justices of the Allahabad High Court issued the order dated April 21 regarding police practices?",
+        "a": "Justice J.J. Munir and Justice Tarun Saxena",
         "options": [
-            "To fund infrastructure projects",
-            "To clear outstanding debts to central government",
-            "To pay its social security pensions",
-            "To boost agricultural output",
-            "To provide subsidies to industries"
+            "Justice D.Y. Chandrachud and Justice Sanjay Kishan Kaul",
+            "Justice J.J. Munir and Justice Tarun Saxena",
+            "Justice N.V. Ramana and Justice M.R. Shah",
+            "Justice S.A. Bobde and Justice Ashok Bhushan",
+            "Justice U.U. Lalit and Justice Ajay Rastogi"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "The RBI bulletin mentioned net purchase of foreign currency for the second consecutive month. What does this signify after seven months of net sales?",
-        "a": "Shift from net sales to net purchases in the currency market",
+        "q": "Who holds a Bachelor\u2019s degree in English (Honours) from the University of Delhi and a Master\u2019s degree in Journalism and Mass Communication from Guru Gobind Singh Indraprastha University?",
+        "a": "Swati Gandhi",
         "options": [
-            "Increased rupee depreciation",
-            "Decreased foreign exchange reserves",
-            "Shift from net sales to net purchases in the currency market",
-            "Higher demand for dollar by RBI",
-            "Reduced international trade"
+            "Zamil Limon",
+            "Nahida Bristy",
+            "Swati Gandhi",
+            "Aishwarya Bhati",
+            "The Reporter from USA Today"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "The Indian rupee came under pressure primarily due to rising crude oil prices and what other major factor?",
-        "a": "Uncertainties around the West Asia conflict",
+        "q": "From which university was Zamil Limon a doctoral student?",
+        "a": "University of South Florida (USF)",
         "options": [
-            "Strong domestic consumption",
-            "Low inflation rates",
-            "Uncertainties around the West Asia conflict",
-            "High interest rates by RBI",
-            "Stable global economy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Where was the rupee's fall and its new value against the dollar reflected as per the news?",
-        "a": "Clearing Corporation of India platform",
-        "options": [
-            "National Stock Exchange",
-            "Bombay Stock Exchange",
-            "Clearing Corporation of India platform",
-            "RBI headquarters",
-            "Ministry of Finance website"
+            "University of Florida",
+            "Florida State University",
+            "University of South Florida (USF)",
+            "University of Miami",
+            "University of Central Florida"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which market did the Reserve Bank of India net purchase $7.409 billion in February?",
-        "a": "Spot currency market",
+        "q": "In which city was Hisham Saleh Abugharbieh taken into custody?",
+        "a": "Tampa",
         "options": [
-            "Futures market",
-            "Derivatives market",
-            "Spot currency market",
-            "Bond market",
-            "Equity market"
+            "Miami",
+            "Orlando",
+            "Tampa",
+            "Jacksonville",
+            "Tallahassee"
         ],
         "cat": "Where"
+    },
+    {
+        "q": "Where were Zamil Limon's remains later found?",
+        "a": "On the Howard Frankland Bridge in Tampa Bay",
+        "options": [
+            "Near the USF campus",
+            "In an off-campus apartment",
+            "On the Howard Frankland Bridge in Tampa Bay",
+            "In Hillsborough County",
+            "In a nearby county"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Zamil Limon and Nahida Bristy were originally from which country?",
+        "a": "Bangladesh",
+        "options": [
+            "India",
+            "Pakistan",
+            "Bangladesh",
+            "Sri Lanka",
+            "Nepal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "To which country were 26 persons allegedly human-trafficked to fight against Ukraine?",
+        "a": "Russia",
+        "options": [
+            "Belarus",
+            "Syria",
+            "Russia",
+            "China",
+            "North Korea"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Against which country were the human-trafficked persons forced to fight?",
+        "a": "Ukraine",
+        "options": [
+            "Poland",
+            "Georgia",
+            "Ukraine",
+            "Moldova",
+            "Kazakhstan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Allahabad High Court's directive regarding police practices pertains to which Indian state?",
+        "a": "Uttar Pradesh",
+        "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Bihar",
+            "Haryana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Swati Gandhi previously worked at which publication where she covered national affairs, politics, and business?",
+        "a": "Business Standard",
+        "options": [
+            "Live Mint",
+            "The Economic Times",
+            "Business Standard",
+            "The Hindu",
+            "The Indian Express"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which specific quarter does US Social Security consider inflation numbers for setting the annual COLA?",
+        "a": "Q3 (Jul, Aug, Sep)",
+        "options": [
+            "Q1 (Jan, Feb, Mar)",
+            "Q2 (Apr, May, Jun)",
+            "Q3 (Jul, Aug, Sep)",
+            "Q4 (Oct, Nov, Dec)",
+            "All quarters"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which of the following years saw instances where CPI-W numbers were lower than the previous year, but Social Security did not reduce benefits?",
+        "a": "2010, 2011, 2016",
+        "options": [
+            "2009, 2010, 2015",
+            "2010, 2011, 2016",
+            "2011, 2012, 2017",
+            "2008, 2009, 2010",
+            "2012, 2013, 2014"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Paytm (One 97 Communications Limited) disclose its position, distancing itself from PPBL, as mentioned in its filing?",
+        "a": "March 1, 2024",
+        "options": [
+            "April 1, 2024",
+            "March 1, 2024",
+            "February 1, 2024",
+            "March 15, 2024",
+            "February 15, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Reserve Bank of India (RBI) cancel the banking licence issued to Paytm Payments Bank Limited (PPBL)?",
+        "a": "April 24, 2026",
+        "options": [
+            "April 24, 2025",
+            "March 24, 2026",
+            "April 24, 2026",
+            "May 24, 2026",
+            "April 1, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For which financial year did the Mines Ministry institute an incentive scheme with an outlay of \u20b95,000 crore?",
+        "a": "2026-27",
+        "options": [
+            "2025-26",
+            "2026-27",
+            "2027-28",
+            "2024-25",
+            "2023-24"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When were Zamil Limon and Nahida Bristy last seen in separate locations near the USF campus?",
+        "a": "April 16",
+        "options": [
+            "April 15",
+            "April 17",
+            "April 16",
+            "April 14",
+            "April 18"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Union government inform the Supreme Court about the human-trafficking deaths?",
+        "a": "April 24, 2026",
+        "options": [
+            "April 23, 2026",
+            "May 24, 2026",
+            "April 24, 2026",
+            "March 24, 2026",
+            "April 25, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Allahabad High Court's order, directing the DGP Uttar Pradesh to take corrective steps, dated?",
+        "a": "April 21",
+        "options": [
+            "April 20",
+            "April 22",
+            "April 21",
+            "April 19",
+            "April 23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Since which year have Social Security benefits lost 20% of their purchasing power?",
+        "a": "2010",
+        "options": [
+            "2009",
+            "2011",
+            "2010",
+            "2008",
+            "2012"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the annual Cost-of-Living-Adjustment (COLA) in the US Social Security programme?",
+        "a": "To offset some of the effects of inflation",
+        "options": [
+            "To increase the total number of beneficiaries",
+            "To reduce the Social Security fund depletion rate",
+            "To offset some of the effects of inflation",
+            "To align benefits with GDP growth",
+            "To fund Medicare Part B premiums"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why does the US Social Security use the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) instead of the standard CPI-U for COLA calculations?",
+        "a": "CPI-W specifically tracks prices for households where most income is from clerical or hourly work.",
+        "options": [
+            "CPI-U is too broad and includes non-wage earners.",
+            "CPI-W specifically tracks prices for households where most income is from clerical or hourly work.",
+            "CPI-W numbers are typically higher, leading to larger COLAs.",
+            "CPI-W is a more politically neutral index.",
+            "CPI-U is only released quarterly."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Under what circumstances does Social Security not reduce benefits, even if CPI-W numbers for a particular year are lower than the previous year?",
+        "a": "Benefits can only be increased, not decreased.",
+        "options": [
+            "When the President issues an executive order.",
+            "Benefits can only be increased, not decreased.",
+            "Only if the difference is less than 0.5%.",
+            "If the national unemployment rate is above a certain threshold.",
+            "If the beneficiary is over 75 years old."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why are Social Security and Medicare considered linked programs despite being different?",
+        "a": "Many Social Security beneficiaries have their Medicare Part B premiums automatically deducted from their benefits.",
+        "options": [
+            "They share a common funding source.",
+            "Many Social Security beneficiaries have their Medicare Part B premiums automatically deducted from their benefits.",
+            "Both are administered by the same federal agency.",
+            "Eligibility for one automatically grants eligibility for the other.",
+            "They are part of the same legislative act."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What alternative metric has been suggested by some people to determine the COLA, specifically for seniors?",
+        "a": "Consumer Price Index for people aged 62 and older (CPI-E)",
+        "options": [
+            "Producer Price Index (PPI)",
+            "Gross Domestic Product (GDP) deflator",
+            "Consumer Price Index for people aged 62 and older (CPI-E)",
+            "Employment Cost Index (ECI)",
+            "Personal Consumption Expenditures (PCE) price index"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Under which section of the Banking Regulation Act, 1949, did the RBI cancel Paytm Payments Bank Limited\u2019s (PPBL) banking licence?",
+        "a": "Section 22(4)",
+        "options": [
+            "Section 5(b)",
+            "Section 6",
+            "Section 22(4)",
+            "Section 35A",
+            "Section 45"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of the incentive scheme instituted by the Mines Ministry?",
+        "a": "To incentivise states towards ensuring that mines are placed faster for auctions.",
+        "options": [
+            "To boost exports of minerals.",
+            "To incentivise states towards ensuring that mines are placed faster for auctions.",
+            "To provide financial assistance to private mining companies.",
+            "To fund environmental restoration projects in mining areas.",
+            "To increase mineral exploration activities."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Mines Ministry's incentive scheme is incorporated under which larger scheme?",
+        "a": "Scheme for Special Assistance to States for Capital Investment (SASCI)",
+        "options": [
+            "PM Gati Shakti",
+            "National Mineral Policy",
+            "Scheme for Special Assistance to States for Capital Investment (SASCI)",
+            "Aatmanirbhar Bharat Abhiyan",
+            "Make in India"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the RBI's main concern regarding the Indian economy in the wake of the West Asia crisis?",
+        "a": "The possibility of the supply crunch turning into a demand shock in India.",
+        "options": [
+            "Excessive foreign exchange outflow.",
+            "The possibility of the supply crunch turning into a demand shock in India.",
+            "Rapid increase in inflation beyond control.",
+            "Decline in foreign direct investment.",
+            "Stagnation in agricultural output."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "For what primary reason did the Allahabad High Court slam Uttar Pradesh police?",
+        "a": "For 'chasing couples virtually investigating marriages' instead of crimes.",
+        "options": [
+            "For failing to maintain law and order.",
+            "For corruption within the force.",
+            "For 'chasing couples virtually investigating marriages' instead of crimes.",
+            "For misuse of public funds.",
+            "For slow response to emergencies."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was one of the preliminary charges against Hisham Saleh Abugharbieh in the USF student case?",
+        "a": "Domestic violence battery",
+        "options": [
+            "Grand theft auto",
+            "Cyberstalking",
+            "Domestic violence battery",
+            "Embezzlement",
+            "Public intoxication"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is Swati Gandhi's core belief in journalism that shapes her approach?",
+        "a": "Context-driven reporting",
+        "options": [
+            "Sensationalism-driven reporting",
+            "Opinion-led analysis",
+            "Context-driven reporting",
+            "Anonymous source reliance",
+            "Purely statistical analysis"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the major focus of Swati Gandhi's work at Live Mint?",
+        "a": "Business and economic lens on international and geopolitical issues",
+        "options": [
+            "Domestic political analysis",
+            "Business and economic lens on international and geopolitical issues",
+            "Cultural and lifestyle reporting",
+            "Sports journalism",
+            "Technology reviews"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The cancellation of PPBL's licence prohibits it from conducting business as defined in which sections of the Banking Regulation Act, 1949?",
+        "a": "Section 5(b) or any additional business specified under Section 6",
+        "options": [
+            "Section 22(4) only",
+            "Section 5(b) or any additional business specified under Section 6",
+            "Section 10A and Section 10B",
+            "Section 12 and Section 12A",
+            "Section 15 and Section 16"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "One of the human-trafficked petitioners is described as \"voluntarily continuing\" in what activity?",
+        "a": "Fighting against Ukraine",
+        "options": [
+            "Receiving medical treatment in Russia",
+            "Working in a civilian capacity",
+            "Fighting against Ukraine",
+            "Seeking asylum in Russia",
+            "Assisting authorities with investigation"
+        ],
+        "cat": "Why"
     }
 ]
