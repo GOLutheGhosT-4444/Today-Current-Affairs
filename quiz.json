@@ -1,721 +1,853 @@
 [
     {
-        "q": "How many retirees rely on US Social Security benefits?",
-        "a": "57 million",
+        "q": "What is the maximum annual income of a family that would be given preference for undergraduate programs at the University of Madras?",
+        "a": "\u20b93,00,000",
         "options": [
-            "58 million",
-            "56 million",
-            "57 million",
-            "57.5 million",
-            "56.5 million"
+            "\u20b93,10,000",
+            "\u20b92,90,000",
+            "\u20b93,00,000",
+            "\u20b93,05,000",
+            "\u20b92,95,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the population does the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) include?",
-        "a": "29%",
+        "q": "For students applying to the University of Madras, what is the upper limit for annual family income to receive preference for undergraduate programs?",
+        "a": "\u20b93,00,000",
         "options": [
-            "28%",
-            "30%",
-            "29%",
-            "31%",
-            "28.5%"
+            "\u20b92,99,000",
+            "\u20b93,01,000",
+            "\u20b93,00,000",
+            "\u20b93,02,000",
+            "\u20b92,98,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the population does the standard inflation metric, Consumer Price Index (CPI-U), include?",
-        "a": "93%",
+        "q": "An applicant's family annual income should not exceed what amount to receive preference for a UoM undergraduate degree?",
+        "a": "\u20b93,00,000",
         "options": [
-            "92%",
-            "94%",
-            "93%",
-            "92.5%",
-            "93.5%"
+            "\u20b93,00,500",
+            "\u20b92,99,500",
+            "\u20b93,00,000",
+            "\u20b93,01,000",
+            "\u20b92,99,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the Cost-of-Living-Adjustment (COLA) percentage set for 2026 based on the 2.8% higher Q3 average in 2025 compared to 2024?",
-        "a": "2.8%",
+        "q": "What is the specified annual income threshold for family income for preference consideration at the University of Madras?",
+        "a": "\u20b93,00,000",
         "options": [
-            "2.7%",
-            "2.9%",
-            "2.8%",
-            "2.75%",
-            "2.85%"
+            "\u20b92,99,900",
+            "\u20b93,00,100",
+            "\u20b93,00,000",
+            "\u20b93,00,200",
+            "\u20b92,99,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the Cost-of-Living-Adjustment (COLA) percentage set for 2025, based on the 2.5% higher Q3 average in 2024 compared to 2023?",
-        "a": "2.5%",
+        "q": "The annual income criterion for preference in UoM admissions is set at what figure?",
+        "a": "\u20b93,00,000",
         "options": [
-            "2.4%",
-            "2.6%",
-            "2.5%",
-            "2.45%",
-            "2.55%"
+            "\u20b93,00,000",
+            "\u20b93,00,001",
+            "\u20b92,99,999",
+            "\u20b93,00,100",
+            "\u20b92,99,900"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much were Medicare Part B premiums increased, as mentioned in the report?",
-        "a": "$17.90",
+        "q": "What is the maximum financial limit for family income per annum for students seeking preference at the University of Madras?",
+        "a": "\u20b93,00,000",
         "options": [
-            "$17.80",
-            "$18.00",
-            "$17.90",
-            "$17.85",
-            "$17.95"
+            "\u20b93,00,000",
+            "\u20b93,10,000",
+            "\u20b92,90,000",
+            "\u20b93,05,000",
+            "\u20b92,95,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the new increased amount for Medicare Part B premiums?",
-        "a": "$202.90",
+        "q": "For UoM undergraduate applications, the family's annual income must not exceed how much?",
+        "a": "\u20b93,00,000",
         "options": [
-            "$202.80",
-            "$203.00",
-            "$202.90",
-            "$202.85",
-            "$202.95"
+            "\u20b93,00,000",
+            "\u20b92,97,000",
+            "\u20b93,03,000",
+            "\u20b92,98,500",
+            "\u20b93,01,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "If a person's Social Security benefit was $2,000 in 2025, how much more would they have received in 2026 after the 2.8% COLA, before Part B deductions?",
-        "a": "$56",
+        "q": "What is the threshold value for annual family income for students to be considered under the preference categories by the University of Madras?",
+        "a": "\u20b93,00,000",
         "options": [
-            "$55",
-            "$57",
-            "$56",
-            "$55.50",
-            "$56.50"
+            "\u20b92,96,000",
+            "\u20b93,04,000",
+            "\u20b93,00,000",
+            "\u20b92,99,000",
+            "\u20b93,01,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the net extra benefit received by a person after the 2.8% COLA and the $17.90 increase in Part B premiums?",
-        "a": "$38.10",
+        "q": "The University of Madras has set an income ceiling of what amount for family income to grant preference in admissions?",
+        "a": "\u20b93,00,000",
         "options": [
-            "$38.00",
-            "$38.20",
-            "$38.10",
-            "$38.05",
-            "$38.15"
+            "\u20b93,00,000",
+            "\u20b93,00,250",
+            "\u20b92,99,750",
+            "\u20b93,00,500",
+            "\u20b92,99,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to The Senior Citizens League (TSCL), what percentage of their purchasing power have Social Security benefits lost since 2010?",
-        "a": "20%",
+        "q": "To be eligible for preference in UoM undergraduate programs, the family's yearly income must be at or below what financial figure?",
+        "a": "\u20b93,00,000",
         "options": [
-            "19%",
-            "21%",
-            "20%",
-            "19.5%",
-            "20.5%"
+            "\u20b93,00,000",
+            "\u20b93,00,100",
+            "\u20b92,99,900",
+            "\u20b93,00,050",
+            "\u20b92,99,950"
         ],
         "cat": "Amount"
     },
     {
-        "q": "An amount of $100 in 2010 could buy how much worth of items today, based on the reported loss of purchasing power?",
-        "a": "$80",
+        "q": "What is the prescribed maximum annual family income for eligibility under specific preference criteria for UoM?",
+        "a": "\u20b93,00,000",
         "options": [
-            "$79",
-            "$81",
-            "$80",
-            "$79.50",
-            "$80.50"
+            "\u20b93,00,000",
+            "\u20b93,00,002",
+            "\u20b92,99,998",
+            "\u20b93,00,102",
+            "\u20b92,99,898"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the outlay for the Mines Ministry's incentive scheme for the financial year 2026-27?",
-        "a": "\u20b95,000 crore",
+        "q": "The family income limit for UoM preference is stated as what exact amount per annum?",
+        "a": "\u20b93,00,000",
         "options": [
-            "\u20b94,900 crore",
-            "\u20b95,100 crore",
-            "\u20b95,000 crore",
-            "\u20b94,950 crore",
-            "\u20b95,050 crore"
+            "\u20b93,00,000",
+            "\u20b93,00,010",
+            "\u20b92,99,990",
+            "\u20b93,00,020",
+            "\u20b92,99,980"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many of the 26 persons who said they had been human-trafficked to Russia were reported dead by the Union government?",
-        "a": "10",
+        "q": "For UoM admissions, what is the fixed annual income cap for families seeking preferential consideration?",
+        "a": "\u20b93,00,000",
         "options": [
-            "9",
-            "11",
-            "10",
-            "9.5",
-            "10.5"
+            "\u20b93,00,000",
+            "\u20b93,00,005",
+            "\u20b92,99,995",
+            "\u20b93,00,015",
+            "\u20b92,99,985"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many persons were initially reported as \"human-trafficked\" to Russia, according to the Union government's statement?",
-        "a": "26",
+        "q": "What specific annual income figure determines eligibility for preference in University of Madras undergraduate applications?",
+        "a": "\u20b93,00,000",
         "options": [
-            "25",
-            "27",
-            "26",
-            "25.5",
-            "26.5"
+            "\u20b93,00,000",
+            "\u20b93,00,101",
+            "\u20b92,99,899",
+            "\u20b93,00,201",
+            "\u20b92,99,799"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years of experience does Swati Gandhi have as a digital journalist?",
-        "a": "Four years",
+        "q": "The University of Madras has stipulated what amount as the maximum annual family income for certain preference categories?",
+        "a": "\u20b93,00,000",
         "options": [
-            "Three years",
-            "Five years",
-            "Four years",
-            "Three and a half years",
-            "Four and a half years"
+            "\u20b93,00,000",
+            "\u20b93,00,003",
+            "\u20b92,99,997",
+            "\u20b93,00,013",
+            "\u20b92,99,987"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the digital journalist mentioned in the news text, specializing in international and geopolitical issues?",
-        "a": "Swati Gandhi",
+        "q": "Which organization is described as India's leading payments app in the news text?",
+        "a": "Paytm (One 97 Communications Ltd)",
         "options": [
-            "Aishwarya Bhati",
-            "Swati Sharma",
-            "Swati Gandhi",
-            "Nahida Bristy",
-            "Zamil Limon"
+            "Google Pay",
+            "PhonePe",
+            "Paytm (One 97 Communications Ltd)",
+            "BHIM UPI",
+            "Amazon Pay"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which advocacy group is mentioned as reporting the loss of Social Security purchasing power?",
-        "a": "The Senior Citizens League (TSCL)",
+        "q": "Which banking entity's actions by the Reserve Bank of India were discussed in relation to Paytm?",
+        "a": "Paytm Payments Bank Ltd (PPBL)",
         "options": [
-            "National Council of Senior Citizens",
-            "American Association of Retired Persons (AARP)",
-            "The Senior Citizens League (TSCL)",
-            "Gray Panthers",
-            "Coalition of Seniors for Justice"
+            "State Bank of India",
+            "HDFC Bank",
+            "Paytm Payments Bank Ltd (PPBL)",
+            "ICICI Bank",
+            "Axis Bank"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity floated Paytm Payments Bank Ltd (PPBL) and later distanced itself from it?",
-        "a": "Paytm (One 97 Communications Limited)",
+        "q": "Which body clarified that there is no restriction in Islam on women entering mosques to offer namaz?",
+        "a": "All India Muslim Personal Law Board (AIMPLB)",
+        "options": [
+            "Supreme Court of India",
+            "National Commission for Women",
+            "All India Muslim Personal Law Board (AIMPLB)",
+            "Ministry of Minority Affairs",
+            "Islamic Scholars Forum"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who appeared before the Supreme Court as the senior advocate for the All India Muslim Personal Law Board?",
+        "a": "M.R. Shamshad",
+        "options": [
+            "Harish Salve",
+            "Kapil Sibal",
+            "M.R. Shamshad",
+            "P. Chidambaram",
+            "Mukesh Giri"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is mentioned as the Chief Justice of India heading the nine-judge Bench hearing the Sabarimala reference case, according to the news text?",
+        "a": "Surya Kant",
+        "options": [
+            "D.Y. Chandrachud",
+            "Ranjan Gogoi",
+            "Surya Kant",
+            "N.V. Ramana",
+            "U.U. Lalit"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which university has invited applications from students who have passed the Plus Two examination in 2025-26?",
+        "a": "University of Madras (UoM)",
+        "options": [
+            "University of Delhi",
+            "Jawaharlal Nehru University",
+            "University of Madras (UoM)",
+            "Anna University",
+            "Osmania University"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which categories of individuals would be given preference for selection in the University of Madras's undergraduate programs?",
+        "a": "Economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons",
+        "options": [
+            "Students with perfect scores and national sports winners",
+            "Children of government employees and defense personnel only",
+            "Students from urban areas and those with foreign language proficiency",
+            "Economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons",
+            "Only students pursuing science streams and with research experience"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which fintech major, based in Noida, issued a regulatory filing regarding RBI's action on Paytm Payments Bank Ltd?",
+        "a": "Paytm (One 97 Communications Ltd)",
         "options": [
             "PhonePe",
             "Google Pay",
-            "Paytm (One 97 Communications Limited)",
-            "MobiKwik",
-            "Airtel Payments Bank"
+            "Paytm (One 97 Communications Ltd)",
+            "BharatPe",
+            "Mobikwik"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which regulatory body cancelled the banking licence of Paytm Payments Bank Limited (PPBL)?",
+        "q": "Which entity operates independently with no board or management involvement from Paytm?",
+        "a": "Paytm Payments Bank Ltd (PPBL)",
+        "options": [
+            "National Payments Corporation of India",
+            "Reserve Bank of India",
+            "Paytm Payments Bank Ltd (PPBL)",
+            "One 97 Communications Ltd",
+            "State Bank of India"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organization is involved in the Sabarimala reference case and related petitions on women's entry into mosques?",
+        "a": "All India Muslim Personal Law Board (AIMPLB)",
+        "options": [
+            "Hindu Maha Sabha",
+            "Christian Association of India",
+            "All India Muslim Personal Law Board (AIMPLB)",
+            "Sikh Gurdwara Prabandhak Committee",
+            "Jain Community Council"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where is the fintech major Paytm (One 97 Communications Ltd) based?",
+        "a": "Noida",
+        "options": [
+            "Gurugram",
+            "Bengaluru",
+            "Mumbai",
+            "Noida",
+            "Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which court did the All India Muslim Personal Law Board (AIMPLB) make its submission regarding women's entry into mosques?",
+        "a": "Supreme Court of India",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Allahabad High Court",
+            "Supreme Court of India",
+            "Madras High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which university is affiliated with aided and self-financing colleges offering undergraduate degree programs?",
+        "a": "University of Madras",
+        "options": [
+            "University of Mumbai",
+            "University of Calcutta",
+            "University of Madras",
+            "University of Hyderabad",
+            "Banaras Hindu University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The nine-judge Bench headed by CJI Surya Kant is hearing the Sabarimala reference case in which judicial body?",
+        "a": "Supreme Court of India",
+        "options": [
+            "High Court of Kerala",
+            "District Court of Sabarimala",
+            "Supreme Court of India",
+            "National Green Tribunal",
+            "Armed Forces Tribunal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Applications for undergraduate degree programs are being invited for colleges affiliated with which specific university?",
+        "a": "University of Madras",
+        "options": [
+            "Jadavpur University",
+            "Pune University",
+            "University of Madras",
+            "Punjab University",
+            "Gauhati University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Paytm (One 97 Communications Ltd), a fintech major, is described as being based in which city?",
+        "a": "Noida",
+        "options": [
+            "Chennai",
+            "Kolkata",
+            "Hyderabad",
+            "Noida",
+            "Ahmedabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The submission by AIMPLB was made before which apex judicial institution in India?",
+        "a": "Supreme Court of India",
+        "options": [
+            "Lok Adalat",
+            "Consumer Court",
+            "Supreme Court of India",
+            "Election Commission",
+            "Comptroller and Auditor General"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "For which location are undergraduate degree programs open for application by the University of Madras?",
+        "a": "Affiliated colleges",
+        "options": [
+            "Its main campus only",
+            "International partner universities",
+            "Affiliated colleges",
+            "Online distance learning centers",
+            "Vocational training institutes"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did Paytm previously disclose that it does not have any exposure to PPBL?",
+        "a": "March 1, 2024",
+        "options": [
+            "February 28, 2024",
+            "March 1, 2024",
+            "March 15, 2024",
+            "April 1, 2024",
+            "February 1, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which academic year must students have passed their Plus Two examination to be eligible for UoM's undergraduate programs?",
+        "a": "2025-26",
+        "options": [
+            "2024-25",
+            "2026-27",
+            "2025-26",
+            "2023-24",
+            "2022-23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The disclosure by Paytm regarding its non-exposure to PPBL was made on which specific date?",
+        "a": "March 1, 2024",
+        "options": [
+            "March 2, 2024",
+            "February 29, 2024",
+            "March 1, 2024",
+            "February 15, 2024",
+            "March 7, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The University of Madras is inviting applications for the forthcoming academic year from students who passed Plus Two in which period?",
+        "a": "2025-26",
+        "options": [
+            "2021-22",
+            "2027-28",
+            "2025-26",
+            "2020-21",
+            "2028-29"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "As per the news, when was the previous disclosure made by Paytm regarding its arrangements with PPBL?",
+        "a": "March 1, 2024",
+        "options": [
+            "April 1, 2023",
+            "January 1, 2024",
+            "March 1, 2024",
+            "December 31, 2023",
+            "October 26, 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the stated purpose of Paytm's regulatory filing regarding RBI's action on Paytm Payments Bank Ltd?",
+        "a": "To reiterate that it does not have any material business arrangements or exposure with the banking entity.",
+        "options": [
+            "To announce a new partnership with RBI",
+            "To challenge the RBI's decision legally",
+            "To reiterate that it does not have any material business arrangements or exposure with the banking entity.",
+            "To declare a change in its management structure",
+            "To apologize for past financial discrepancies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the All India Muslim Personal Law Board make a submission to the Supreme Court regarding women's entry into mosques?",
+        "a": "To admit there is no restriction in Islam on women entering mosques to offer namaz.",
+        "options": [
+            "To request restrictions on women's entry",
+            "To challenge the Supreme Court's jurisdiction",
+            "To admit there is no restriction in Islam on women entering mosques to offer namaz.",
+            "To seek financial aid for mosque maintenance",
+            "To declare new rules for mosque attendance"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the University of Madras giving preference to certain categories of applicants for its undergraduate programs?",
+        "a": "To support economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons.",
+        "options": [
+            "To increase the diversity of student nationalities",
+            "To comply with international scholarship mandates",
+            "To support economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons.",
+            "To reduce the overall student intake",
+            "To prioritize students from specific geographical regions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why does Paytm state that PPBL operates independently?",
+        "a": "Because it has no board or management involvement from Paytm.",
+        "options": [
+            "To comply with new tax regulations",
+            "To prepare for a merger with another bank",
+            "Because it has no board or management involvement from Paytm.",
+            "To facilitate international expansion",
+            "To offer specialized banking services"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the reason cited for tagging related petitions on women's entry into mosques with the Sabarimala reference case?",
+        "a": "They involve constitutional questions with respect to Articles 25 and 26.",
+        "options": [
+            "To consolidate cases based on similar religious practices",
+            "To expedite the legal process for all religious cases",
+            "They involve constitutional questions with respect to Articles 25 and 26.",
+            "To assess the public opinion on religious matters",
+            "To set a precedent for future inter-faith disputes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the main reason for Paytm's assertion that RBI's action on PPBL has no financial or business impact on the company?",
+        "a": "It does not have any material business arrangements or exposure with the banking entity.",
+        "options": [
+            "Paytm has received a government bailout.",
+            "The impact is fully covered by insurance.",
+            "It does not have any material business arrangements or exposure with the banking entity.",
+            "Paytm is selling off its banking operations.",
+            "The RBI's action was temporary and has been revoked."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is the University of Madras inviting applications from students who passed Plus Two in 2025-26?",
+        "a": "To pursue undergraduate degree programmes in the forthcoming academic year.",
+        "options": [
+            "To enroll them in vocational training courses",
+            "To recruit them for research fellowships",
+            "To pursue undergraduate degree programmes in the forthcoming academic year.",
+            "To offer postgraduate diploma courses",
+            "To conduct a survey on educational preferences"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What constitutional questions are involved in the cases related to women's entry into mosques, prompting them to be tagged with the Sabarimala case?",
+        "a": "Questions with respect to Articles 25 and 26.",
+        "options": [
+            "Questions with respect to Articles 14 and 21.",
+            "Questions with respect to Articles 32 and 226.",
+            "Questions with respect to Articles 25 and 26.",
+            "Questions with respect to Articles 19 and 20.",
+            "Questions with respect to Articles 15 and 16."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Paytm make a regulatory filing regarding the RBI's action on PPBL?",
+        "a": "To reiterate that the action has no financial or business impact on Paytm.",
+        "options": [
+            "To announce a new CEO for PPBL",
+            "To clarify new RBI guidelines for all payment banks",
+            "To reiterate that the action has no financial or business impact on Paytm.",
+            "To explain PPBL's new product launches",
+            "To seek public opinion on the RBI's decision"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The AIMPLB's admission to the Supreme Court serves what purpose regarding women's rights in Islam?",
+        "a": "To clarify that women are not restricted from entering mosques for namaz.",
+        "options": [
+            "To impose stricter rules for women in mosques.",
+            "To suggest separate prayer areas for men and women.",
+            "To clarify that women are not restricted from entering mosques for namaz.",
+            "To advocate for a ban on women's entry into mosques.",
+            "To highlight gender-specific rituals in mosques."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "For what reason does Paytm state that PPBL has no board or management involvement from its side?",
+        "a": "To emphasize PPBL's independent operational status.",
+        "options": [
+            "To facilitate a takeover by another company.",
+            "To comply with new international banking standards.",
+            "To emphasize PPBL's independent operational status.",
+            "To reduce its own regulatory burden.",
+            "To merge with another financial institution."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core reason for the preference criteria implemented by the University of Madras for admissions?",
+        "a": "To provide support to vulnerable and disadvantaged student groups.",
+        "options": [
+            "To increase revenue through higher application fees.",
+            "To limit the number of applicants from certain states.",
+            "To provide support to vulnerable and disadvantaged student groups.",
+            "To promote specific academic disciplines.",
+            "To comply with international student quotas."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is it significant that women\u2019s entry into mosques petitions are tagged with the Sabarimala reference case?",
+        "a": "Because both involve fundamental constitutional questions related to religious freedom and equality.",
+        "options": [
+            "Because the cases share similar historical backgrounds.",
+            "Because both religious sites are in the same geographical region.",
+            "Because both involve fundamental constitutional questions related to religious freedom and equality.",
+            "Because they seek to establish a universal dress code for religious places.",
+            "Because they deal with the financial management of religious institutions."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which Indian financial regulatory body's action on Paytm Payments Bank Ltd was mentioned in the news?",
         "a": "Reserve Bank of India (RBI)",
         "options": [
             "Securities and Exchange Board of India (SEBI)",
             "Ministry of Finance",
             "Reserve Bank of India (RBI)",
-            "NITI Aayog",
-            "IRDAI"
+            "Insurance Regulatory and Development Authority of India (IRDAI)",
+            "Pension Fund Regulatory and Development Authority (PFRDA)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Ministry instituted an incentive scheme with an outlay of \u20b95,000 crore for financial year 2026-27?",
-        "a": "Mines Ministry",
+        "q": "The phrase 'One 97 Communications Ltd' refers to which entity in the context of the payments app?",
+        "a": "Paytm",
         "options": [
-            "Ministry of Finance",
-            "Ministry of Commerce and Industry",
-            "Mines Ministry",
-            "Ministry of Corporate Affairs",
-            "Ministry of Power"
+            "Google",
+            "Apple",
+            "Paytm",
+            "Reliance",
+            "SoftBank"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was arrested in connection with the disappearance and death of a University of South Florida (USF) doctoral student?",
-        "a": "Hisham Saleh Abugharbieh",
+        "q": "Which specific Articles of the Constitution are mentioned in relation to the Sabarimala reference case and related petitions?",
+        "a": "Articles 25 and 26",
         "options": [
-            "Zamil Limon",
-            "Nahida Bristy",
-            "Hisham Saleh Abugharbieh",
-            "Surya Kant",
-            "Aishwarya Bhati"
+            "Articles 14 and 19",
+            "Articles 25 and 26",
+            "Articles 32 and 226",
+            "Articles 21 and 44",
+            "Articles 15 and 16"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the type of degree program for which the University of Madras has invited applications?",
+        "a": "Undergraduate degree programme",
+        "options": [
+            "Postgraduate diploma program",
+            "Doctoral research program",
+            "Undergraduate degree programme",
+            "Vocational certification course",
+            "Short-term executive education"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Paytm's regulatory filing stated that it does not have any 'material business arrangements or exposure' with which banking entity?",
+        "a": "Paytm Payments Bank Ltd (PPBL)",
+        "options": [
+            "Reserve Bank of India",
+            "State Bank of India",
+            "Paytm Payments Bank Ltd (PPBL)",
+            "National Payments Corporation of India",
+            "HDFC Bank"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which USF doctoral student's remains were found on the Howard Frankland Bridge in Tampa Bay?",
-        "a": "Zamil Limon",
+        "q": "Who disclosed that the company does not have any exposure to PPBL on March 1, 2024?",
+        "a": "Paytm (One 97 Communications Ltd)",
         "options": [
-            "Nahida Bristy",
-            "Swati Gandhi",
-            "Zamil Limon",
-            "Hisham Saleh Abugharbieh",
-            "Mary Jane"
+            "Reserve Bank of India",
+            "Paytm Payments Bank Ltd (PPBL)",
+            "Paytm (One 97 Communications Ltd)",
+            "All India Muslim Personal Law Board",
+            "University of Madras"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which law enforcement agency arrested Hisham Saleh Abugharbieh in Tampa?",
-        "a": "Hillsborough County Sheriff\u2019s Office",
+        "q": "The University of Madras (UoM) is inviting applications for admissions in which academic year?",
+        "a": "Forthcoming academic year",
         "options": [
-            "Tampa Police Department",
-            "Florida Department of Law Enforcement",
-            "Hillsborough County Sheriff\u2019s Office",
-            "Federal Bureau of Investigation (FBI)",
-            "Miami-Dade Police Department"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Justice of India mentioned in the context of the human-trafficking case before the Supreme Court?",
-        "a": "Surya Kant",
-        "options": [
-            "D.Y. Chandrachud",
-            "N.V. Ramana",
-            "Surya Kant",
-            "U.U. Lalit",
-            "Ranjan Gogoi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who appeared before the Supreme Court as Additional Solicitor General in the human-trafficking case?",
-        "a": "Aishwarya Bhati",
-        "options": [
-            "Tushar Mehta",
-            "R. Venkataramani",
-            "Aishwarya Bhati",
-            "K.K. Venugopal",
-            "Mukul Rohatgi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which High Court slammed Uttar Pradesh police for 'chasing couples virtually investigating marriages'?",
-        "a": "Allahabad High Court",
-        "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Allahabad High Court",
-            "Calcutta High Court",
-            "Madras High Court"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which two Justices of the Allahabad High Court issued the order dated April 21 regarding police practices?",
-        "a": "Justice J.J. Munir and Justice Tarun Saxena",
-        "options": [
-            "Justice D.Y. Chandrachud and Justice Sanjay Kishan Kaul",
-            "Justice J.J. Munir and Justice Tarun Saxena",
-            "Justice N.V. Ramana and Justice M.R. Shah",
-            "Justice S.A. Bobde and Justice Ashok Bhushan",
-            "Justice U.U. Lalit and Justice Ajay Rastogi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who holds a Bachelor\u2019s degree in English (Honours) from the University of Delhi and a Master\u2019s degree in Journalism and Mass Communication from Guru Gobind Singh Indraprastha University?",
-        "a": "Swati Gandhi",
-        "options": [
-            "Zamil Limon",
-            "Nahida Bristy",
-            "Swati Gandhi",
-            "Aishwarya Bhati",
-            "The Reporter from USA Today"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "From which university was Zamil Limon a doctoral student?",
-        "a": "University of South Florida (USF)",
-        "options": [
-            "University of Florida",
-            "Florida State University",
-            "University of South Florida (USF)",
-            "University of Miami",
-            "University of Central Florida"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was Hisham Saleh Abugharbieh taken into custody?",
-        "a": "Tampa",
-        "options": [
-            "Miami",
-            "Orlando",
-            "Tampa",
-            "Jacksonville",
-            "Tallahassee"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where were Zamil Limon's remains later found?",
-        "a": "On the Howard Frankland Bridge in Tampa Bay",
-        "options": [
-            "Near the USF campus",
-            "In an off-campus apartment",
-            "On the Howard Frankland Bridge in Tampa Bay",
-            "In Hillsborough County",
-            "In a nearby county"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Zamil Limon and Nahida Bristy were originally from which country?",
-        "a": "Bangladesh",
-        "options": [
-            "India",
-            "Pakistan",
-            "Bangladesh",
-            "Sri Lanka",
-            "Nepal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "To which country were 26 persons allegedly human-trafficked to fight against Ukraine?",
-        "a": "Russia",
-        "options": [
-            "Belarus",
-            "Syria",
-            "Russia",
-            "China",
-            "North Korea"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Against which country were the human-trafficked persons forced to fight?",
-        "a": "Ukraine",
-        "options": [
-            "Poland",
-            "Georgia",
-            "Ukraine",
-            "Moldova",
-            "Kazakhstan"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Allahabad High Court's directive regarding police practices pertains to which Indian state?",
-        "a": "Uttar Pradesh",
-        "options": [
-            "Madhya Pradesh",
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Bihar",
-            "Haryana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi previously worked at which publication where she covered national affairs, politics, and business?",
-        "a": "Business Standard",
-        "options": [
-            "Live Mint",
-            "The Economic Times",
-            "Business Standard",
-            "The Hindu",
-            "The Indian Express"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which specific quarter does US Social Security consider inflation numbers for setting the annual COLA?",
-        "a": "Q3 (Jul, Aug, Sep)",
-        "options": [
-            "Q1 (Jan, Feb, Mar)",
-            "Q2 (Apr, May, Jun)",
-            "Q3 (Jul, Aug, Sep)",
-            "Q4 (Oct, Nov, Dec)",
-            "All quarters"
+            "Previous academic year",
+            "Current academic year",
+            "Forthcoming academic year",
+            "Next to next academic year",
+            "Last academic year"
         ],
         "cat": "When"
     },
     {
-        "q": "Which of the following years saw instances where CPI-W numbers were lower than the previous year, but Social Security did not reduce benefits?",
-        "a": "2010, 2011, 2016",
-        "options": [
-            "2009, 2010, 2015",
-            "2010, 2011, 2016",
-            "2011, 2012, 2017",
-            "2008, 2009, 2010",
-            "2012, 2013, 2014"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Paytm (One 97 Communications Limited) disclose its position, distancing itself from PPBL, as mentioned in its filing?",
+        "q": "What date was mentioned for the previous disclosure by Paytm regarding its business arrangements with PPBL?",
         "a": "March 1, 2024",
         "options": [
-            "April 1, 2024",
-            "March 1, 2024",
             "February 1, 2024",
-            "March 15, 2024",
-            "February 15, 2024"
+            "March 1, 2024",
+            "April 1, 2024",
+            "February 15, 2024",
+            "March 10, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Reserve Bank of India (RBI) cancel the banking licence issued to Paytm Payments Bank Limited (PPBL)?",
-        "a": "April 24, 2026",
+        "q": "For which specific academic year are students who passed Plus Two eligible to apply for UoM undergraduate programs?",
+        "a": "2025-26",
         "options": [
-            "April 24, 2025",
-            "March 24, 2026",
-            "April 24, 2026",
-            "May 24, 2026",
-            "April 1, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For which financial year did the Mines Ministry institute an incentive scheme with an outlay of \u20b95,000 crore?",
-        "a": "2026-27",
-        "options": [
+            "2023-24",
+            "2024-25",
             "2025-26",
             "2026-27",
-            "2027-28",
-            "2024-25",
-            "2023-24"
+            "2027-28"
         ],
         "cat": "When"
     },
     {
-        "q": "When were Zamil Limon and Nahida Bristy last seen in separate locations near the USF campus?",
-        "a": "April 16",
+        "q": "When were the conditions of non-exposure to PPBL 'previously disclosed' by Paytm?",
+        "a": "March 1, 2024",
         "options": [
-            "April 15",
-            "April 17",
-            "April 16",
-            "April 14",
-            "April 18"
+            "March 31, 2024",
+            "February 15, 2024",
+            "March 1, 2024",
+            "April 15, 2024",
+            "January 31, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Union government inform the Supreme Court about the human-trafficking deaths?",
-        "a": "April 24, 2026",
+        "q": "What specific year combination for Plus Two examination pass is required for UoM admissions?",
+        "a": "2025-26",
         "options": [
-            "April 23, 2026",
-            "May 24, 2026",
-            "April 24, 2026",
-            "March 24, 2026",
-            "April 25, 2026"
+            "2020-21",
+            "2022-23",
+            "2025-26",
+            "2019-20",
+            "2021-22"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the Allahabad High Court's order, directing the DGP Uttar Pradesh to take corrective steps, dated?",
-        "a": "April 21",
+        "q": "What is the exact disclosure date mentioned by Paytm regarding its lack of material business arrangements with PPBL?",
+        "a": "March 1, 2024",
         "options": [
-            "April 20",
-            "April 22",
-            "April 21",
-            "April 19",
-            "April 23"
+            "March 1, 2023",
+            "April 1, 2024",
+            "March 1, 2024",
+            "February 1, 2025",
+            "March 31, 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "Since which year have Social Security benefits lost 20% of their purchasing power?",
-        "a": "2010",
+        "q": "The University of Madras is inviting applications for admission in which coming academic period?",
+        "a": "Forthcoming academic year",
         "options": [
-            "2009",
-            "2011",
-            "2010",
-            "2008",
-            "2012"
+            "Current semester",
+            "Next quarter",
+            "Forthcoming academic year",
+            "Past academic session",
+            "Upcoming winter break"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of the annual Cost-of-Living-Adjustment (COLA) in the US Social Security programme?",
-        "a": "To offset some of the effects of inflation",
+        "q": "The crucial information about Paytm's financial independence from PPBL was shared on which particular calendar date?",
+        "a": "March 1, 2024",
         "options": [
-            "To increase the total number of beneficiaries",
-            "To reduce the Social Security fund depletion rate",
-            "To offset some of the effects of inflation",
-            "To align benefits with GDP growth",
-            "To fund Medicare Part B premiums"
+            "March 5, 2024",
+            "February 20, 2024",
+            "March 1, 2024",
+            "April 10, 2024",
+            "February 10, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Students who cleared Plus Two exams in 2025-26 are eligible for what at the University of Madras?",
+        "a": "Undergraduate degree programme",
+        "options": [
+            "Short-term skill courses",
+            "Exchange programs abroad",
+            "Undergraduate degree programme",
+            "Internship opportunities",
+            "Faculty positions"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why does the US Social Security use the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) instead of the standard CPI-U for COLA calculations?",
-        "a": "CPI-W specifically tracks prices for households where most income is from clerical or hourly work.",
+        "q": "The AIMPLB's admission before the Supreme Court clarifies what specific aspect of religious practice for Muslim women?",
+        "a": "No restriction on women entering mosques to offer namaz.",
         "options": [
-            "CPI-U is too broad and includes non-wage earners.",
-            "CPI-W specifically tracks prices for households where most income is from clerical or hourly work.",
-            "CPI-W numbers are typically higher, leading to larger COLAs.",
-            "CPI-W is a more politically neutral index.",
-            "CPI-U is only released quarterly."
+            "Requirement for a male guardian for mosque entry.",
+            "Mandatory segregation of genders in mosques.",
+            "No restriction on women entering mosques to offer namaz.",
+            "Restrictions on clothing for women in mosques.",
+            "Specific timings for women's prayers in mosques."
         ],
         "cat": "Why"
     },
     {
-        "q": "Under what circumstances does Social Security not reduce benefits, even if CPI-W numbers for a particular year are lower than the previous year?",
-        "a": "Benefits can only be increased, not decreased.",
+        "q": "The regulatory filing by Paytm aimed to confirm what about its relationship with PPBL?",
+        "a": "No financial or business impact on Paytm.",
         "options": [
-            "When the President issues an executive order.",
-            "Benefits can only be increased, not decreased.",
-            "Only if the difference is less than 0.5%.",
-            "If the national unemployment rate is above a certain threshold.",
-            "If the beneficiary is over 75 years old."
+            "An impending merger between them.",
+            "New joint ventures with PPBL.",
+            "No financial or business impact on Paytm.",
+            "Shared management control over PPBL.",
+            "A significant increase in business dealings with PPBL."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why are Social Security and Medicare considered linked programs despite being different?",
-        "a": "Many Social Security beneficiaries have their Medicare Part B premiums automatically deducted from their benefits.",
+        "q": "What is the reason for PPBL's independent operation from Paytm?",
+        "a": "Lack of board or management involvement from Paytm.",
         "options": [
-            "They share a common funding source.",
-            "Many Social Security beneficiaries have their Medicare Part B premiums automatically deducted from their benefits.",
-            "Both are administered by the same federal agency.",
-            "Eligibility for one automatically grants eligibility for the other.",
-            "They are part of the same legislative act."
+            "Different legal jurisdictions.",
+            "Strategic market diversification.",
+            "Lack of board or management involvement from Paytm.",
+            "Conflicting business objectives.",
+            "Different customer bases."
         ],
         "cat": "Why"
     },
     {
-        "q": "What alternative metric has been suggested by some people to determine the COLA, specifically for seniors?",
-        "a": "Consumer Price Index for people aged 62 and older (CPI-E)",
+        "q": "The constitutional questions tagged with the Sabarimala case are related to which specific aspects of law?",
+        "a": "Articles 25 and 26.",
         "options": [
-            "Producer Price Index (PPI)",
-            "Gross Domestic Product (GDP) deflator",
-            "Consumer Price Index for people aged 62 and older (CPI-E)",
-            "Employment Cost Index (ECI)",
-            "Personal Consumption Expenditures (PCE) price index"
+            "Economic reforms.",
+            "Environmental protection.",
+            "Articles 25 and 26.",
+            "Intellectual property rights.",
+            "International treaties."
         ],
         "cat": "Why"
     },
     {
-        "q": "Under which section of the Banking Regulation Act, 1949, did the RBI cancel Paytm Payments Bank Limited\u2019s (PPBL) banking licence?",
-        "a": "Section 22(4)",
+        "q": "Paytm's regulatory filing sought to clarify that RBI's action on PPBL would not affect which aspect of Paytm?",
+        "a": "Financial or business operations.",
         "options": [
-            "Section 5(b)",
-            "Section 6",
-            "Section 22(4)",
-            "Section 35A",
-            "Section 45"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose of the incentive scheme instituted by the Mines Ministry?",
-        "a": "To incentivise states towards ensuring that mines are placed faster for auctions.",
-        "options": [
-            "To boost exports of minerals.",
-            "To incentivise states towards ensuring that mines are placed faster for auctions.",
-            "To provide financial assistance to private mining companies.",
-            "To fund environmental restoration projects in mining areas.",
-            "To increase mineral exploration activities."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Mines Ministry's incentive scheme is incorporated under which larger scheme?",
-        "a": "Scheme for Special Assistance to States for Capital Investment (SASCI)",
-        "options": [
-            "PM Gati Shakti",
-            "National Mineral Policy",
-            "Scheme for Special Assistance to States for Capital Investment (SASCI)",
-            "Aatmanirbhar Bharat Abhiyan",
-            "Make in India"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the RBI's main concern regarding the Indian economy in the wake of the West Asia crisis?",
-        "a": "The possibility of the supply crunch turning into a demand shock in India.",
-        "options": [
-            "Excessive foreign exchange outflow.",
-            "The possibility of the supply crunch turning into a demand shock in India.",
-            "Rapid increase in inflation beyond control.",
-            "Decline in foreign direct investment.",
-            "Stagnation in agricultural output."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "For what primary reason did the Allahabad High Court slam Uttar Pradesh police?",
-        "a": "For 'chasing couples virtually investigating marriages' instead of crimes.",
-        "options": [
-            "For failing to maintain law and order.",
-            "For corruption within the force.",
-            "For 'chasing couples virtually investigating marriages' instead of crimes.",
-            "For misuse of public funds.",
-            "For slow response to emergencies."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was one of the preliminary charges against Hisham Saleh Abugharbieh in the USF student case?",
-        "a": "Domestic violence battery",
-        "options": [
-            "Grand theft auto",
-            "Cyberstalking",
-            "Domestic violence battery",
-            "Embezzlement",
-            "Public intoxication"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is Swati Gandhi's core belief in journalism that shapes her approach?",
-        "a": "Context-driven reporting",
-        "options": [
-            "Sensationalism-driven reporting",
-            "Opinion-led analysis",
-            "Context-driven reporting",
-            "Anonymous source reliance",
-            "Purely statistical analysis"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the major focus of Swati Gandhi's work at Live Mint?",
-        "a": "Business and economic lens on international and geopolitical issues",
-        "options": [
-            "Domestic political analysis",
-            "Business and economic lens on international and geopolitical issues",
-            "Cultural and lifestyle reporting",
-            "Sports journalism",
-            "Technology reviews"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The cancellation of PPBL's licence prohibits it from conducting business as defined in which sections of the Banking Regulation Act, 1949?",
-        "a": "Section 5(b) or any additional business specified under Section 6",
-        "options": [
-            "Section 22(4) only",
-            "Section 5(b) or any additional business specified under Section 6",
-            "Section 10A and Section 10B",
-            "Section 12 and Section 12A",
-            "Section 15 and Section 16"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "One of the human-trafficked petitioners is described as \"voluntarily continuing\" in what activity?",
-        "a": "Fighting against Ukraine",
-        "options": [
-            "Receiving medical treatment in Russia",
-            "Working in a civilian capacity",
-            "Fighting against Ukraine",
-            "Seeking asylum in Russia",
-            "Assisting authorities with investigation"
+            "Their mobile app design.",
+            "Their international partnerships.",
+            "Financial or business operations.",
+            "Their advertising campaigns.",
+            "Their employee benefits."
         ],
         "cat": "Why"
     }
