@@ -1,853 +1,721 @@
 [
     {
-        "q": "What is the maximum annual income of a family that would be given preference for undergraduate programs at the University of Madras?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,10,000",
-            "\u20b92,90,000",
-            "\u20b93,00,000",
-            "\u20b93,05,000",
-            "\u20b92,95,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For students applying to the University of Madras, what is the upper limit for annual family income to receive preference for undergraduate programs?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b92,99,000",
-            "\u20b93,01,000",
-            "\u20b93,00,000",
-            "\u20b93,02,000",
-            "\u20b92,98,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "An applicant's family annual income should not exceed what amount to receive preference for a UoM undergraduate degree?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,500",
-            "\u20b92,99,500",
-            "\u20b93,00,000",
-            "\u20b93,01,000",
-            "\u20b92,99,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the specified annual income threshold for family income for preference consideration at the University of Madras?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b92,99,900",
-            "\u20b93,00,100",
-            "\u20b93,00,000",
-            "\u20b93,00,200",
-            "\u20b92,99,800"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The annual income criterion for preference in UoM admissions is set at what figure?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,001",
-            "\u20b92,99,999",
-            "\u20b93,00,100",
-            "\u20b92,99,900"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum financial limit for family income per annum for students seeking preference at the University of Madras?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,10,000",
-            "\u20b92,90,000",
-            "\u20b93,05,000",
-            "\u20b92,95,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For UoM undergraduate applications, the family's annual income must not exceed how much?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b92,97,000",
-            "\u20b93,03,000",
-            "\u20b92,98,500",
-            "\u20b93,01,500"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the threshold value for annual family income for students to be considered under the preference categories by the University of Madras?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b92,96,000",
-            "\u20b93,04,000",
-            "\u20b93,00,000",
-            "\u20b92,99,000",
-            "\u20b93,01,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The University of Madras has set an income ceiling of what amount for family income to grant preference in admissions?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,250",
-            "\u20b92,99,750",
-            "\u20b93,00,500",
-            "\u20b92,99,500"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To be eligible for preference in UoM undergraduate programs, the family's yearly income must be at or below what financial figure?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,100",
-            "\u20b92,99,900",
-            "\u20b93,00,050",
-            "\u20b92,99,950"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the prescribed maximum annual family income for eligibility under specific preference criteria for UoM?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,002",
-            "\u20b92,99,998",
-            "\u20b93,00,102",
-            "\u20b92,99,898"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The family income limit for UoM preference is stated as what exact amount per annum?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,010",
-            "\u20b92,99,990",
-            "\u20b93,00,020",
-            "\u20b92,99,980"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For UoM admissions, what is the fixed annual income cap for families seeking preferential consideration?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,005",
-            "\u20b92,99,995",
-            "\u20b93,00,015",
-            "\u20b92,99,985"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What specific annual income figure determines eligibility for preference in University of Madras undergraduate applications?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,101",
-            "\u20b92,99,899",
-            "\u20b93,00,201",
-            "\u20b92,99,799"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The University of Madras has stipulated what amount as the maximum annual family income for certain preference categories?",
-        "a": "\u20b93,00,000",
-        "options": [
-            "\u20b93,00,000",
-            "\u20b93,00,003",
-            "\u20b92,99,997",
-            "\u20b93,00,013",
-            "\u20b92,99,987"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which organization is described as India's leading payments app in the news text?",
-        "a": "Paytm (One 97 Communications Ltd)",
-        "options": [
-            "Google Pay",
-            "PhonePe",
-            "Paytm (One 97 Communications Ltd)",
-            "BHIM UPI",
-            "Amazon Pay"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which banking entity's actions by the Reserve Bank of India were discussed in relation to Paytm?",
-        "a": "Paytm Payments Bank Ltd (PPBL)",
-        "options": [
-            "State Bank of India",
-            "HDFC Bank",
-            "Paytm Payments Bank Ltd (PPBL)",
-            "ICICI Bank",
-            "Axis Bank"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which body clarified that there is no restriction in Islam on women entering mosques to offer namaz?",
-        "a": "All India Muslim Personal Law Board (AIMPLB)",
+        "q": "Which organization announced the stringent security plan for the second phase of West Bengal Assembly polls?",
+        "a": "Election Commission of India (ECI)",
         "options": [
             "Supreme Court of India",
-            "National Commission for Women",
-            "All India Muslim Personal Law Board (AIMPLB)",
-            "Ministry of Minority Affairs",
-            "Islamic Scholars Forum"
+            "Ministry of Home Affairs",
+            "West Bengal Police Department",
+            "Election Commission of India (ECI)",
+            "Central Reserve Police Force"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who appeared before the Supreme Court as the senior advocate for the All India Muslim Personal Law Board?",
-        "a": "M.R. Shamshad",
+        "q": "Who is primarily responsible for carrying out constituency-wise deployment as per the ECI's directive?",
+        "a": "Security personnel",
         "options": [
-            "Harish Salve",
-            "Kapil Sibal",
-            "M.R. Shamshad",
-            "P. Chidambaram",
-            "Mukesh Giri"
+            "Local Magistrates",
+            "Polling Booth Officers",
+            "Security personnel",
+            "Volunteer groups",
+            "District Collectors"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is mentioned as the Chief Justice of India heading the nine-judge Bench hearing the Sabarimala reference case, according to the news text?",
-        "a": "Surya Kant",
+        "q": "Which entity mentioned that any attempt to disrupt voting or obstruct electors would be dealt with firmly?",
+        "a": "An official",
         "options": [
-            "D.Y. Chandrachud",
-            "Ranjan Gogoi",
-            "Surya Kant",
-            "N.V. Ramana",
-            "U.U. Lalit"
+            "The Chief Minister of West Bengal",
+            "The Director General of Police",
+            "The Union Home Secretary",
+            "An official",
+            "The Presiding Officer"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which university has invited applications from students who have passed the Plus Two examination in 2025-26?",
-        "a": "University of Madras (UoM)",
+        "q": "Who issued the directive for security personnel to step up area domination exercises?",
+        "a": "Election Commission of India (ECI)",
         "options": [
-            "University of Delhi",
-            "Jawaharlal Nehru University",
-            "University of Madras (UoM)",
-            "Anna University",
-            "Osmania University"
+            "State Election Commissioner",
+            "Union Law Ministry",
+            "District Election Officer",
+            "Election Commission of India (ECI)",
+            "Home Guard Commandant"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which categories of individuals would be given preference for selection in the University of Madras's undergraduate programs?",
-        "a": "Economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons",
+        "q": "Who are the primary beneficiaries the ECI aims to protect by ensuring fear-free franchise exercise?",
+        "a": "Voters",
         "options": [
-            "Students with perfect scores and national sports winners",
-            "Children of government employees and defense personnel only",
-            "Students from urban areas and those with foreign language proficiency",
-            "Economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons",
-            "Only students pursuing science streams and with research experience"
+            "Polling Agents",
+            "Political Candidates",
+            "Voters",
+            "Election Observers",
+            "Media Personnel"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which fintech major, based in Noida, issued a regulatory filing regarding RBI's action on Paytm Payments Bank Ltd?",
-        "a": "Paytm (One 97 Communications Ltd)",
+        "q": "According to the news, who confirmed the firm handling of disruptions and obstructions?",
+        "a": "An official",
         "options": [
-            "PhonePe",
-            "Google Pay",
-            "Paytm (One 97 Communications Ltd)",
-            "BharatPe",
-            "Mobikwik"
+            "The ECI Chairman",
+            "The West Bengal Governor",
+            "The Union Election Commissioner",
+            "An official",
+            "The State Chief Secretary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity operates independently with no board or management involvement from Paytm?",
-        "a": "Paytm Payments Bank Ltd (PPBL)",
+        "q": "Which body is making clear that any disruption to voting would be dealt with firmly?",
+        "a": "ECI",
         "options": [
-            "National Payments Corporation of India",
-            "Reserve Bank of India",
-            "Paytm Payments Bank Ltd (PPBL)",
-            "One 97 Communications Ltd",
-            "State Bank of India"
+            "West Bengal Chief Electoral Officer",
+            "National Security Advisor",
+            "ECI",
+            "Indian Army",
+            "Border Security Force"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization is involved in the Sabarimala reference case and related petitions on women's entry into mosques?",
-        "a": "All India Muslim Personal Law Board (AIMPLB)",
+        "q": "Who is tasked with ensuring that voters can exercise their franchise without fear under the new plan?",
+        "a": "Security personnel",
         "options": [
-            "Hindu Maha Sabha",
-            "Christian Association of India",
-            "All India Muslim Personal Law Board (AIMPLB)",
-            "Sikh Gurdwara Prabandhak Committee",
-            "Jain Community Council"
+            "Political Parties",
+            "Vigilance Committees",
+            "Security personnel",
+            "Local community leaders",
+            "Judiciary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where is the fintech major Paytm (One 97 Communications Ltd) based?",
-        "a": "Noida",
+        "q": "Who announced the security plan on Sunday, April 26, 2026?",
+        "a": "Election Commission of India (ECI)",
         "options": [
-            "Gurugram",
-            "Bengaluru",
-            "Mumbai",
-            "Noida",
-            "Delhi"
+            "Ministry of Defence",
+            "Directorate General of Civil Aviation",
+            "West Bengal State Election Commission",
+            "Election Commission of India (ECI)",
+            "National Disaster Response Force"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The stringent security plan explicitly targets individuals attempting what specific actions?",
+        "a": "To disrupt voting or obstruct electors",
+        "options": [
+            "Peaceful protests",
+            "Journalism",
+            "Election observation",
+            "Political party campaigning",
+            "To disrupt voting or obstruct electors"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who gave the directive for constituency-wise deployment as part of the security measures?",
+        "a": "ECI",
+        "options": [
+            "State Home Department",
+            "Local Police Chiefs",
+            "ECI",
+            "Paramilitary Forces",
+            "District Magistrates"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which group is directed to carry out area domination exercises in sensitive neighbourhoods?",
+        "a": "Security personnel",
+        "options": [
+            "Civil Defence Volunteers",
+            "National Cadet Corps",
+            "Security personnel",
+            "Local administrative staff",
+            "Public Relations Officers"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "An official confirmed the ECI's announcement regarding stringent security for which specific activity?",
+        "a": "West Bengal Assembly polls",
+        "options": [
+            "National Referendum",
+            "Municipal Elections",
+            "West Bengal Assembly polls",
+            "Presidential Elections",
+            "By-elections"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What kind of personnel received directives from the ECI regarding deployment and exercises?",
+        "a": "Security personnel",
+        "options": [
+            "Administrative personnel",
+            "Medical personnel",
+            "Security personnel",
+            "Logistics personnel",
+            "IT personnel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is expected to face firm action if they attempt to obstruct electors during the polls?",
+        "a": "Those attempting to obstruct electors",
+        "options": [
+            "Election candidates",
+            "Political party agents",
+            "Media representatives",
+            "Law enforcement officials",
+            "Those attempting to obstruct electors"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which state are the Assembly polls, for which the security plan was announced, taking place?",
+        "a": "West Bengal",
+        "options": [
+            "Assam",
+            "Kerala",
+            "West Bengal",
+            "Tamil Nadu",
+            "Puducherry"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which court did the All India Muslim Personal Law Board (AIMPLB) make its submission regarding women's entry into mosques?",
-        "a": "Supreme Court of India",
+        "q": "The ECI's security plan is specifically for which phase of the West Bengal Assembly polls?",
+        "a": "Second phase",
         "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Allahabad High Court",
-            "Supreme Court of India",
-            "Madras High Court"
+            "First phase",
+            "Second phase",
+            "Third phase",
+            "Fourth phase",
+            "Final phase"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which university is affiliated with aided and self-financing colleges offering undergraduate degree programs?",
-        "a": "University of Madras",
+        "q": "Where will constituency-wise deployment be a key part of the security plan?",
+        "a": "West Bengal constituencies",
         "options": [
-            "University of Mumbai",
-            "University of Calcutta",
-            "University of Madras",
-            "University of Hyderabad",
-            "Banaras Hindu University"
+            "Urban centers only",
+            "Border areas only",
+            "West Bengal constituencies",
+            "State capital only",
+            "Rural areas only"
         ],
         "cat": "Where"
     },
     {
-        "q": "The nine-judge Bench headed by CJI Surya Kant is hearing the Sabarimala reference case in which judicial body?",
-        "a": "Supreme Court of India",
+        "q": "Which specific areas are mentioned for intensified area domination exercises?",
+        "a": "Interior lanes and sensitive neighbourhoods",
         "options": [
-            "High Court of Kerala",
-            "District Court of Sabarimala",
-            "Supreme Court of India",
-            "National Green Tribunal",
-            "Armed Forces Tribunal"
+            "Government buildings",
+            "Main arterial roads",
+            "Interior lanes and sensitive neighbourhoods",
+            "Industrial zones",
+            "Shopping malls"
         ],
         "cat": "Where"
     },
     {
-        "q": "Applications for undergraduate degree programs are being invited for colleges affiliated with which specific university?",
-        "a": "University of Madras",
+        "q": "The Assembly polls mentioned in the news are for which specific state's legislature?",
+        "a": "West Bengal",
         "options": [
-            "Jadavpur University",
-            "Pune University",
-            "University of Madras",
-            "Punjab University",
-            "Gauhati University"
+            "Odisha",
+            "Jharkhand",
+            "West Bengal",
+            "Bihar",
+            "Uttar Pradesh"
         ],
         "cat": "Where"
     },
     {
-        "q": "Paytm (One 97 Communications Ltd), a fintech major, is described as being based in which city?",
-        "a": "Noida",
+        "q": "Besides sensitive neighbourhoods, where else will area domination exercises be stepped up?",
+        "a": "Interior lanes",
         "options": [
-            "Chennai",
-            "Kolkata",
-            "Hyderabad",
-            "Noida",
-            "Ahmedabad"
+            "Marketplaces",
+            "Bus terminals",
+            "Interior lanes",
+            "Railway stations",
+            "Schools"
         ],
         "cat": "Where"
     },
     {
-        "q": "The submission by AIMPLB was made before which apex judicial institution in India?",
-        "a": "Supreme Court of India",
+        "q": "The ECI's plan ensures security measures are applied to which administrative divisions during polls?",
+        "a": "Constituencies",
         "options": [
-            "Lok Adalat",
-            "Consumer Court",
-            "Supreme Court of India",
-            "Election Commission",
-            "Comptroller and Auditor General"
+            "Districts",
+            "Sub-divisions",
+            "Wards",
+            "Constituencies",
+            "Blocks"
         ],
         "cat": "Where"
     },
     {
-        "q": "For which location are undergraduate degree programs open for application by the University of Madras?",
-        "a": "Affiliated colleges",
+        "q": "The security plan is aimed at preventing disruptions in voting activities within what geographical scope?",
+        "a": "West Bengal",
         "options": [
-            "Its main campus only",
-            "International partner universities",
-            "Affiliated colleges",
-            "Online distance learning centers",
-            "Vocational training institutes"
+            "National level",
+            "Zonal level",
+            "West Bengal",
+            "Regional level",
+            "International level"
         ],
         "cat": "Where"
     },
     {
-        "q": "When did Paytm previously disclose that it does not have any exposure to PPBL?",
-        "a": "March 1, 2024",
+        "q": "Where are voters expected to exercise their franchise without fear under the new plan?",
+        "a": "Polling stations/Constituencies (in West Bengal)",
         "options": [
-            "February 28, 2024",
-            "March 1, 2024",
-            "March 15, 2024",
-            "April 1, 2024",
-            "February 1, 2024"
+            "Home voting",
+            "Postal ballot centers",
+            "Polling stations/Constituencies (in West Bengal)",
+            "Online platforms",
+            "Any public place"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which kind of neighbourhoods will see stepped-up area domination exercises?",
+        "a": "Sensitive neighbourhoods",
+        "options": [
+            "Affluent neighbourhoods",
+            "Commercial neighbourhoods",
+            "Sensitive neighbourhoods",
+            "Historical neighbourhoods",
+            "Residential neighbourhoods"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The ECI's security measures are applicable for the polls taking place in which part of India?",
+        "a": "Eastern India",
+        "options": [
+            "Northern India",
+            "Southern India",
+            "Eastern India",
+            "Western India",
+            "Central India"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The stringent security plan primarily focuses on ensuring smooth conduct of polls in what specific region?",
+        "a": "West Bengal",
+        "options": [
+            "North East region",
+            "Deccan Plateau",
+            "West Bengal",
+            "Himalayan Foothills",
+            "Coastal plains"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The 'area domination exercises' are specific to what types of locations for security enhancement?",
+        "a": "Interior lanes and sensitive neighbourhoods",
+        "options": [
+            "Major highways",
+            "State borders",
+            "Interior lanes and sensitive neighbourhoods",
+            "Tourist spots",
+            "National parks"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The deployment under the security plan will be managed on what basis?",
+        "a": "Constituency-wise",
+        "options": [
+            "District-wise",
+            "Block-wise",
+            "Constituency-wise",
+            "Village-wise",
+            "City-wise"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where are electors expected to cast their votes securely under the ECI's plan?",
+        "a": "Polling booths/Constituencies",
+        "options": [
+            "Local community centers",
+            "Government offices",
+            "Polling booths/Constituencies",
+            "Public parks",
+            "Private residences"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which day of the week did the ECI announce the stringent security plan?",
+        "a": "Sunday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
         ],
         "cat": "When"
     },
     {
-        "q": "In which academic year must students have passed their Plus Two examination to be eligible for UoM's undergraduate programs?",
-        "a": "2025-26",
+        "q": "The announcement of the security plan was made on which specific date?",
+        "a": "April 26, 2026",
         "options": [
-            "2024-25",
-            "2026-27",
-            "2025-26",
-            "2023-24",
-            "2022-23"
+            "March 25, 2025",
+            "April 26, 2026",
+            "May 27, 2027",
+            "June 28, 2028",
+            "February 29, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "The disclosure by Paytm regarding its non-exposure to PPBL was made on which specific date?",
-        "a": "March 1, 2024",
+        "q": "In which month was the ECI's stringent security plan announced?",
+        "a": "April",
         "options": [
-            "March 2, 2024",
-            "February 29, 2024",
-            "March 1, 2024",
-            "February 15, 2024",
-            "March 7, 2024"
+            "January",
+            "February",
+            "March",
+            "April",
+            "May"
         ],
         "cat": "When"
     },
     {
-        "q": "The University of Madras is inviting applications for the forthcoming academic year from students who passed Plus Two in which period?",
-        "a": "2025-26",
+        "q": "What is the year associated with the announcement of the security plan for West Bengal Assembly polls?",
+        "a": "2026",
         "options": [
-            "2021-22",
-            "2027-28",
-            "2025-26",
-            "2020-21",
-            "2028-29"
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "As per the news, when was the previous disclosure made by Paytm regarding its arrangements with PPBL?",
-        "a": "March 1, 2024",
+        "q": "The date of the announcement, April 26, falls on which day number of the month?",
+        "a": "26th",
         "options": [
-            "April 1, 2023",
-            "January 1, 2024",
-            "March 1, 2024",
-            "December 31, 2023",
-            "October 26, 2023"
+            "24th",
+            "25th",
+            "26th",
+            "27th",
+            "28th"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the stated purpose of Paytm's regulatory filing regarding RBI's action on Paytm Payments Bank Ltd?",
-        "a": "To reiterate that it does not have any material business arrangements or exposure with the banking entity.",
+        "q": "The ECI announced the plan on a date in the second half of which month?",
+        "a": "April",
         "options": [
-            "To announce a new partnership with RBI",
-            "To challenge the RBI's decision legally",
-            "To reiterate that it does not have any material business arrangements or exposure with the banking entity.",
-            "To declare a change in its management structure",
-            "To apologize for past financial discrepancies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the All India Muslim Personal Law Board make a submission to the Supreme Court regarding women's entry into mosques?",
-        "a": "To admit there is no restriction in Islam on women entering mosques to offer namaz.",
-        "options": [
-            "To request restrictions on women's entry",
-            "To challenge the Supreme Court's jurisdiction",
-            "To admit there is no restriction in Islam on women entering mosques to offer namaz.",
-            "To seek financial aid for mosque maintenance",
-            "To declare new rules for mosque attendance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the University of Madras giving preference to certain categories of applicants for its undergraduate programs?",
-        "a": "To support economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons.",
-        "options": [
-            "To increase the diversity of student nationalities",
-            "To comply with international scholarship mandates",
-            "To support economically backward strata, orphans, children of widows/widowers, first graduates of family, and transgender persons.",
-            "To reduce the overall student intake",
-            "To prioritize students from specific geographical regions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why does Paytm state that PPBL operates independently?",
-        "a": "Because it has no board or management involvement from Paytm.",
-        "options": [
-            "To comply with new tax regulations",
-            "To prepare for a merger with another bank",
-            "Because it has no board or management involvement from Paytm.",
-            "To facilitate international expansion",
-            "To offer specialized banking services"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the reason cited for tagging related petitions on women's entry into mosques with the Sabarimala reference case?",
-        "a": "They involve constitutional questions with respect to Articles 25 and 26.",
-        "options": [
-            "To consolidate cases based on similar religious practices",
-            "To expedite the legal process for all religious cases",
-            "They involve constitutional questions with respect to Articles 25 and 26.",
-            "To assess the public opinion on religious matters",
-            "To set a precedent for future inter-faith disputes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main reason for Paytm's assertion that RBI's action on PPBL has no financial or business impact on the company?",
-        "a": "It does not have any material business arrangements or exposure with the banking entity.",
-        "options": [
-            "Paytm has received a government bailout.",
-            "The impact is fully covered by insurance.",
-            "It does not have any material business arrangements or exposure with the banking entity.",
-            "Paytm is selling off its banking operations.",
-            "The RBI's action was temporary and has been revoked."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why is the University of Madras inviting applications from students who passed Plus Two in 2025-26?",
-        "a": "To pursue undergraduate degree programmes in the forthcoming academic year.",
-        "options": [
-            "To enroll them in vocational training courses",
-            "To recruit them for research fellowships",
-            "To pursue undergraduate degree programmes in the forthcoming academic year.",
-            "To offer postgraduate diploma courses",
-            "To conduct a survey on educational preferences"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What constitutional questions are involved in the cases related to women's entry into mosques, prompting them to be tagged with the Sabarimala case?",
-        "a": "Questions with respect to Articles 25 and 26.",
-        "options": [
-            "Questions with respect to Articles 14 and 21.",
-            "Questions with respect to Articles 32 and 226.",
-            "Questions with respect to Articles 25 and 26.",
-            "Questions with respect to Articles 19 and 20.",
-            "Questions with respect to Articles 15 and 16."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did Paytm make a regulatory filing regarding the RBI's action on PPBL?",
-        "a": "To reiterate that the action has no financial or business impact on Paytm.",
-        "options": [
-            "To announce a new CEO for PPBL",
-            "To clarify new RBI guidelines for all payment banks",
-            "To reiterate that the action has no financial or business impact on Paytm.",
-            "To explain PPBL's new product launches",
-            "To seek public opinion on the RBI's decision"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The AIMPLB's admission to the Supreme Court serves what purpose regarding women's rights in Islam?",
-        "a": "To clarify that women are not restricted from entering mosques for namaz.",
-        "options": [
-            "To impose stricter rules for women in mosques.",
-            "To suggest separate prayer areas for men and women.",
-            "To clarify that women are not restricted from entering mosques for namaz.",
-            "To advocate for a ban on women's entry into mosques.",
-            "To highlight gender-specific rituals in mosques."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "For what reason does Paytm state that PPBL has no board or management involvement from its side?",
-        "a": "To emphasize PPBL's independent operational status.",
-        "options": [
-            "To facilitate a takeover by another company.",
-            "To comply with new international banking standards.",
-            "To emphasize PPBL's independent operational status.",
-            "To reduce its own regulatory burden.",
-            "To merge with another financial institution."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the core reason for the preference criteria implemented by the University of Madras for admissions?",
-        "a": "To provide support to vulnerable and disadvantaged student groups.",
-        "options": [
-            "To increase revenue through higher application fees.",
-            "To limit the number of applicants from certain states.",
-            "To provide support to vulnerable and disadvantaged student groups.",
-            "To promote specific academic disciplines.",
-            "To comply with international student quotas."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why is it significant that women\u2019s entry into mosques petitions are tagged with the Sabarimala reference case?",
-        "a": "Because both involve fundamental constitutional questions related to religious freedom and equality.",
-        "options": [
-            "Because the cases share similar historical backgrounds.",
-            "Because both religious sites are in the same geographical region.",
-            "Because both involve fundamental constitutional questions related to religious freedom and equality.",
-            "Because they seek to establish a universal dress code for religious places.",
-            "Because they deal with the financial management of religious institutions."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which Indian financial regulatory body's action on Paytm Payments Bank Ltd was mentioned in the news?",
-        "a": "Reserve Bank of India (RBI)",
-        "options": [
-            "Securities and Exchange Board of India (SEBI)",
-            "Ministry of Finance",
-            "Reserve Bank of India (RBI)",
-            "Insurance Regulatory and Development Authority of India (IRDAI)",
-            "Pension Fund Regulatory and Development Authority (PFRDA)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The phrase 'One 97 Communications Ltd' refers to which entity in the context of the payments app?",
-        "a": "Paytm",
-        "options": [
-            "Google",
-            "Apple",
-            "Paytm",
-            "Reliance",
-            "SoftBank"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which specific Articles of the Constitution are mentioned in relation to the Sabarimala reference case and related petitions?",
-        "a": "Articles 25 and 26",
-        "options": [
-            "Articles 14 and 19",
-            "Articles 25 and 26",
-            "Articles 32 and 226",
-            "Articles 21 and 44",
-            "Articles 15 and 16"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the type of degree program for which the University of Madras has invited applications?",
-        "a": "Undergraduate degree programme",
-        "options": [
-            "Postgraduate diploma program",
-            "Doctoral research program",
-            "Undergraduate degree programme",
-            "Vocational certification course",
-            "Short-term executive education"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Paytm's regulatory filing stated that it does not have any 'material business arrangements or exposure' with which banking entity?",
-        "a": "Paytm Payments Bank Ltd (PPBL)",
-        "options": [
-            "Reserve Bank of India",
-            "State Bank of India",
-            "Paytm Payments Bank Ltd (PPBL)",
-            "National Payments Corporation of India",
-            "HDFC Bank"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who disclosed that the company does not have any exposure to PPBL on March 1, 2024?",
-        "a": "Paytm (One 97 Communications Ltd)",
-        "options": [
-            "Reserve Bank of India",
-            "Paytm Payments Bank Ltd (PPBL)",
-            "Paytm (One 97 Communications Ltd)",
-            "All India Muslim Personal Law Board",
-            "University of Madras"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The University of Madras (UoM) is inviting applications for admissions in which academic year?",
-        "a": "Forthcoming academic year",
-        "options": [
-            "Previous academic year",
-            "Current academic year",
-            "Forthcoming academic year",
-            "Next to next academic year",
-            "Last academic year"
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
         ],
         "cat": "When"
     },
     {
-        "q": "What date was mentioned for the previous disclosure by Paytm regarding its business arrangements with PPBL?",
-        "a": "March 1, 2024",
+        "q": "Which specific year is indicated for the West Bengal Assembly polls mentioned in the news?",
+        "a": "2026",
         "options": [
-            "February 1, 2024",
-            "March 1, 2024",
-            "April 1, 2024",
-            "February 15, 2024",
-            "March 10, 2024"
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2027"
         ],
         "cat": "When"
     },
     {
-        "q": "For which specific academic year are students who passed Plus Two eligible to apply for UoM undergraduate programs?",
-        "a": "2025-26",
+        "q": "The news reports an event that took place on which particular day and year?",
+        "a": "Sunday, April 26, 2026",
         "options": [
-            "2023-24",
-            "2024-25",
-            "2025-26",
-            "2026-27",
-            "2027-28"
+            "Saturday, April 25, 2025",
+            "Sunday, April 26, 2026",
+            "Monday, April 27, 2027",
+            "Tuesday, April 28, 2028",
+            "Friday, April 24, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "When were the conditions of non-exposure to PPBL 'previously disclosed' by Paytm?",
-        "a": "March 1, 2024",
+        "q": "The announcement date specifies the 26th day of which month?",
+        "a": "April",
         "options": [
-            "March 31, 2024",
-            "February 15, 2024",
-            "March 1, 2024",
-            "April 15, 2024",
-            "January 31, 2024"
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
         ],
         "cat": "When"
     },
     {
-        "q": "What specific year combination for Plus Two examination pass is required for UoM admissions?",
-        "a": "2025-26",
+        "q": "The ECI's announcement was reported as being made on what specific numerical date?",
+        "a": "26th April",
         "options": [
-            "2020-21",
-            "2022-23",
-            "2025-26",
-            "2019-20",
-            "2021-22"
+            "20th March",
+            "22nd May",
+            "24th June",
+            "26th April",
+            "28th July"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the exact disclosure date mentioned by Paytm regarding its lack of material business arrangements with PPBL?",
-        "a": "March 1, 2024",
+        "q": "The security plan was announced on the last Sunday of which month, given the date was April 26, 2026?",
+        "a": "April",
         "options": [
-            "March 1, 2023",
-            "April 1, 2024",
-            "March 1, 2024",
-            "February 1, 2025",
-            "March 31, 2023"
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
         ],
         "cat": "When"
     },
     {
-        "q": "The University of Madras is inviting applications for admission in which coming academic period?",
-        "a": "Forthcoming academic year",
+        "q": "Which year is explicitly mentioned in the context of the ECI's announcement regarding election security?",
+        "a": "2026",
         "options": [
-            "Current semester",
-            "Next quarter",
-            "Forthcoming academic year",
-            "Past academic session",
-            "Upcoming winter break"
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028"
         ],
         "cat": "When"
     },
     {
-        "q": "The crucial information about Paytm's financial independence from PPBL was shared on which particular calendar date?",
-        "a": "March 1, 2024",
+        "q": "The news text places the announcement of the security plan in which specific quarter of the year?",
+        "a": "Second quarter",
         "options": [
-            "March 5, 2024",
-            "February 20, 2024",
-            "March 1, 2024",
-            "April 10, 2024",
-            "February 10, 2024"
+            "First quarter",
+            "Second quarter",
+            "Third quarter",
+            "Fourth quarter",
+            "Not specified"
         ],
         "cat": "When"
     },
     {
-        "q": "Students who cleared Plus Two exams in 2025-26 are eligible for what at the University of Madras?",
-        "a": "Undergraduate degree programme",
+        "q": "What day of the week corresponds to the date April 26, 2026, as per the news?",
+        "a": "Sunday",
         "options": [
-            "Short-term skill courses",
-            "Exchange programs abroad",
-            "Undergraduate degree programme",
-            "Internship opportunities",
-            "Faculty positions"
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The date given in the news text, April 26, 2026, falls within which specific calendar year?",
+        "a": "2026",
+        "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the stringent security plan announced by the ECI?",
+        "a": "To ensure voters can exercise their franchise without fear",
+        "options": [
+            "To speed up voting process",
+            "To increase voter turnout",
+            "To ensure voters can exercise their franchise without fear",
+            "To reduce campaign expenses",
+            "To demonstrate ECI's authority"
         ],
         "cat": "Why"
     },
     {
-        "q": "The AIMPLB's admission before the Supreme Court clarifies what specific aspect of religious practice for Muslim women?",
-        "a": "No restriction on women entering mosques to offer namaz.",
+        "q": "Why would attempts to disrupt voting be dealt with firmly?",
+        "a": "To ensure smooth and fair conduct of polls",
         "options": [
-            "Requirement for a male guardian for mosque entry.",
-            "Mandatory segregation of genders in mosques.",
-            "No restriction on women entering mosques to offer namaz.",
-            "Restrictions on clothing for women in mosques.",
-            "Specific timings for women's prayers in mosques."
+            "To penalize political parties",
+            "To demonstrate police power",
+            "To ensure smooth and fair conduct of polls",
+            "To collect legal fees",
+            "To discourage media presence"
         ],
         "cat": "Why"
     },
     {
-        "q": "The regulatory filing by Paytm aimed to confirm what about its relationship with PPBL?",
-        "a": "No financial or business impact on Paytm.",
+        "q": "The ECI directed security personnel to step up area domination exercises for what reason?",
+        "a": "To ensure voters can exercise their franchise without fear",
         "options": [
-            "An impending merger between them.",
-            "New joint ventures with PPBL.",
-            "No financial or business impact on Paytm.",
-            "Shared management control over PPBL.",
-            "A significant increase in business dealings with PPBL."
+            "To map election boundaries",
+            "To identify new polling stations",
+            "To ensure voters can exercise their franchise without fear",
+            "To conduct public awareness campaigns",
+            "To gather intelligence on candidates"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the reason for PPBL's independent operation from Paytm?",
-        "a": "Lack of board or management involvement from Paytm.",
+        "q": "What is the stated objective of dealing firmly with those who obstruct electors?",
+        "a": "To protect the democratic process",
         "options": [
-            "Different legal jurisdictions.",
-            "Strategic market diversification.",
-            "Lack of board or management involvement from Paytm.",
-            "Conflicting business objectives.",
-            "Different customer bases."
+            "To enforce curfew",
+            "To increase police presence",
+            "To protect the democratic process",
+            "To facilitate faster counting",
+            "To limit public gatherings"
         ],
         "cat": "Why"
     },
     {
-        "q": "The constitutional questions tagged with the Sabarimala case are related to which specific aspects of law?",
-        "a": "Articles 25 and 26.",
+        "q": "What kind of plan did the ECI announce to address election security concerns?",
+        "a": "A stringent security plan",
         "options": [
-            "Economic reforms.",
-            "Environmental protection.",
-            "Articles 25 and 26.",
-            "Intellectual property rights.",
-            "International treaties."
+            "A flexible campaign plan",
+            "A relaxed observer plan",
+            "A stringent security plan",
+            "A provisional voting plan",
+            "A comprehensive outreach plan"
         ],
         "cat": "Why"
     },
     {
-        "q": "Paytm's regulatory filing sought to clarify that RBI's action on PPBL would not affect which aspect of Paytm?",
-        "a": "Financial or business operations.",
+        "q": "The ECI's overall aim with this security plan is to guarantee what fundamental aspect of elections?",
+        "a": "Free and fair elections",
         "options": [
-            "Their mobile app design.",
-            "Their international partnerships.",
-            "Financial or business operations.",
-            "Their advertising campaigns.",
-            "Their employee benefits."
+            "Cost-effectiveness",
+            "Efficiency",
+            "Free and fair elections",
+            "Technological advancement",
+            "Political neutrality"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is constituency-wise deployment mandated by the ECI?",
+        "a": "To ensure targeted security coverage",
+        "options": [
+            "To centralize command",
+            "To increase administrative burden",
+            "To ensure targeted security coverage",
+            "To provide employment opportunities",
+            "To conduct demographic surveys"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The security plan is described as 'stringent' because of its clear directive to deal with what?",
+        "a": "Any attempt to disrupt voting or obstruct electors",
+        "options": [
+            "Minor administrative errors",
+            "Lack of voter awareness",
+            "Any attempt to disrupt voting or obstruct electors",
+            "Logistical challenges",
+            "Candidate misconduct"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What problem is the security plan primarily designed to solve or prevent?",
+        "a": "Disruption of voting and obstruction of electors",
+        "options": [
+            "Low voter turnout",
+            "Misinformation campaigns",
+            "Disruption of voting and obstruction of electors",
+            "Budget overruns",
+            "Lack of infrastructure"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The phrase 'without fear' in the news text refers to the condition for whom and for what activity?",
+        "a": "Voters exercising their franchise",
+        "options": [
+            "Officials conducting duties",
+            "Media reporting news",
+            "Voters exercising their franchise",
+            "Security personnel patrolling",
+            "Candidates campaigning"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The ECI made it clear that firm action would be taken to deter what specific activities?",
+        "a": "Disrupting voting or obstructing electors",
+        "options": [
+            "Public debates",
+            "Door-to-door campaigning",
+            "Disrupting voting or obstructing electors",
+            "Peaceful rallies",
+            "Polling booth reviews"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the underlying reason for deploying security personnel in interior lanes and sensitive neighbourhoods?",
+        "a": "To build voter confidence and deter malpractices",
+        "options": [
+            "To monitor traffic",
+            "To conduct census",
+            "To build voter confidence and deter malpractices",
+            "To assist with voter registration",
+            "To regulate local businesses"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The ECI's directive emphasizes ensuring that voters exercise their 'franchise'. What does 'franchise' mean in this context?",
+        "a": "The right to vote",
+        "options": [
+            "A business model",
+            "A legal contract",
+            "The right to vote",
+            "A brand identity",
+            "A specific territory"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the core principle the ECI is upholding with its stringent security measures?",
+        "a": "Integrity of the electoral process",
+        "options": [
+            "Economic growth",
+            "Cultural preservation",
+            "Integrity of the electoral process",
+            "Social harmony",
+            "Technological innovation"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The announcement implies a commitment from the ECI to maintain what during the polls?",
+        "a": "Law and order and voter safety",
+        "options": [
+            "Political favoritism",
+            "Media silence",
+            "Law and order and voter safety",
+            "Reduced security presence",
+            "Unrestricted public access"
         ],
         "cat": "Why"
     }
