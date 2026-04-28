@@ -1,238 +1,322 @@
 [
     {
-        "q": "Which organization announced the stringent security plan for the second phase of West Bengal Assembly polls?",
-        "a": "Election Commission of India (ECI)",
+        "q": "As per the Phi Commerce report, what percentage of digital transactions did UPI account for in 2024?",
+        "a": "65%",
         "options": [
-            "Supreme Court of India",
-            "Ministry of Home Affairs",
-            "West Bengal Police Department",
-            "Election Commission of India (ECI)",
-            "Central Reserve Police Force"
+            "60%",
+            "70%",
+            "65%",
+            "55%",
+            "75%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the share of Equated Monthly Instalments (EMIs) in digital transactions in 2025, according to the Phi Commerce report?",
+        "a": "10%",
+        "options": [
+            "15%",
+            "5%",
+            "10%",
+            "20%",
+            "8%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in satellite bandwidth prices announced by NewSpace India Ltd (NSIL)?",
+        "a": "20%",
+        "options": [
+            "15%",
+            "25%",
+            "20%",
+            "10%",
+            "30%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the annual cost of a 36 megahertz (MHz) Ku-band transponder capacity from NSIL before the recent price hike?",
+        "a": "\u20b96.6 crore",
+        "options": [
+            "\u20b96.0 crore",
+            "\u20b97.0 crore",
+            "\u20b96.6 crore",
+            "\u20b95.5 crore",
+            "\u20b97.5 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the new annual cost for a 36 megahertz (MHz) Ku-band transponder capacity from NSIL after the 20% price increase?",
+        "a": "\u20b97.92 crore",
+        "options": [
+            "\u20b97.50 crore",
+            "\u20b98.00 crore",
+            "\u20b97.92 crore",
+            "\u20b97.20 crore",
+            "\u20b98.25 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was NewSpace India Ltd (NSIL)'s total revenue from operations in FY25?",
+        "a": "\u20b92,761 crore",
+        "options": [
+            "\u20b92,700 crore",
+            "\u20b92,800 crore",
+            "\u20b92,761 crore",
+            "\u20b92,650 crore",
+            "\u20b92,900 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much revenue did NSIL generate from satellite bandwidth sales in FY25?",
+        "a": "\u20b91,422 crore",
+        "options": [
+            "\u20b91,400 crore",
+            "\u20b91,500 crore",
+            "\u20b91,422 crore",
+            "\u20b91,350 crore",
+            "\u20b91,480 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of NSIL's total revenue from operations in FY25 came from satellite bandwidth sales?",
+        "a": "51%",
+        "options": [
+            "45%",
+            "55%",
+            "51%",
+            "48%",
+            "52%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "A complaint filed with SEBI alleged fund diversion and money laundering involving more than what amount in a SRA project in Mumbai?",
+        "a": "\u20b9275 crore",
+        "options": [
+            "\u20b9250 crore",
+            "\u20b9300 crore",
+            "\u20b9275 crore",
+            "\u20b9260 crore",
+            "\u20b9290 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the value of affordable housing projects for which the men in Hawaii paid bribes to secure approvals?",
+        "a": "More than $11 million",
+        "options": [
+            "$10 million",
+            "$12 million",
+            "More than $11 million",
+            "$9 million",
+            "$13 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the approximate amount of bribes and kickbacks paid or promised in the Hawaii bribery scheme?",
+        "a": "Nearly $2 million",
+        "options": [
+            "$1 million",
+            "$3 million",
+            "Nearly $2 million",
+            "$1.5 million",
+            "$2.5 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many high schools in Telangana are part of the initiative to strengthen legal literacy and child protection mechanisms?",
+        "a": "5,711",
+        "options": [
+            "5,000",
+            "6,000",
+            "5,711",
+            "5,500",
+            "5,800"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which entity published the 'How India Pays 2025-26' report on India's digital payments landscape?",
+        "a": "Phi Commerce",
+        "options": [
+            "RBI",
+            "NPCI",
+            "Phi Commerce",
+            "Deloitte",
+            "KPMG"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is primarily responsible for carrying out constituency-wise deployment as per the ECI's directive?",
-        "a": "Security personnel",
+        "q": "Which organization is the commercial arm of the Indian Space Research Organisation (Isro)?",
+        "a": "NewSpace India Ltd (NSIL)",
         "options": [
-            "Local Magistrates",
-            "Polling Booth Officers",
-            "Security personnel",
-            "Volunteer groups",
-            "District Collectors"
+            "Antrix Corp",
+            "DRDO",
+            "NewSpace India Ltd (NSIL)",
+            "Hindustan Aeronautics Limited",
+            "Bharat Dynamics Limited"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity mentioned that any attempt to disrupt voting or obstruct electors would be dealt with firmly?",
-        "a": "An official",
+        "q": "Who is the Chief Manager of Satellite Services at NSIL, mentioned in the letter to users regarding price revision?",
+        "a": "Nilanjan Routh",
         "options": [
-            "The Chief Minister of West Bengal",
-            "The Director General of Police",
-            "The Union Home Secretary",
-            "An official",
-            "The Presiding Officer"
+            "S. Somanath",
+            "K. Sivan",
+            "Nilanjan Routh",
+            "Anurag Singh",
+            "Rajeshwari Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who issued the directive for security personnel to step up area domination exercises?",
-        "a": "Election Commission of India (ECI)",
+        "q": "Which company partnered with NSIL for Gsat-24 in 2022, securing a unique pricing model and a long-term contract?",
+        "a": "Tata Play",
         "options": [
-            "State Election Commissioner",
-            "Union Law Ministry",
-            "District Election Officer",
-            "Election Commission of India (ECI)",
-            "Home Guard Commandant"
+            "Airtel Digital TV",
+            "Dish TV",
+            "Tata Play",
+            "Videocon d2h",
+            "Sun Direct"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who are the primary beneficiaries the ECI aims to protect by ensuring fear-free franchise exercise?",
-        "a": "Voters",
+        "q": "Which company received approval for a Non-Banking Financial Company (NBFC) license from the RBI?",
+        "a": "One MobiKwik Systems Ltd",
         "options": [
-            "Polling Agents",
-            "Political Candidates",
-            "Voters",
-            "Election Observers",
-            "Media Personnel"
+            "Paytm",
+            "PhonePe",
+            "One MobiKwik Systems Ltd",
+            "Google Pay",
+            "Freecharge"
         ],
         "cat": "Who"
     },
     {
-        "q": "According to the news, who confirmed the firm handling of disruptions and obstructions?",
-        "a": "An official",
+        "q": "Who filed the complaint with SEBI regarding alleged fund diversion in a SRA project in Mumbai?",
+        "a": "Nikesh Raghani",
         "options": [
-            "The ECI Chairman",
-            "The West Bengal Governor",
-            "The Union Election Commissioner",
-            "An official",
-            "The State Chief Secretary"
+            "Anand Sharma",
+            "Rakesh Kumar",
+            "Nikesh Raghani",
+            "Sanjay Gupta",
+            "Priya Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which body is making clear that any disruption to voting would be dealt with firmly?",
-        "a": "ECI",
+        "q": "Who was the housing specialist at the Hawaii County Office of Housing and Community Development that received bribes in the US case?",
+        "a": "Alan Scott Rudo",
         "options": [
-            "West Bengal Chief Electoral Officer",
-            "National Security Advisor",
-            "ECI",
-            "Indian Army",
-            "Border Security Force"
+            "Rajesh Budhabhatti",
+            "Gary Zamber",
+            "Alan Scott Rudo",
+            "Paul Sulla",
+            "David Porter"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is tasked with ensuring that voters can exercise their franchise without fear under the new plan?",
-        "a": "Security personnel",
+        "q": "Who is the Commander of the U.S. Pacific Air Forces who visited India from April 19 to 25?",
+        "a": "General Kevin Schneider",
         "options": [
-            "Political Parties",
-            "Vigilance Committees",
-            "Security personnel",
-            "Local community leaders",
-            "Judiciary"
+            "General Mark Milley",
+            "General Kevin Schneider",
+            "General Charles Q. Brown Jr.",
+            "Admiral John C. Aquilino",
+            "General Randy George"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who announced the security plan on Sunday, April 26, 2026?",
-        "a": "Election Commission of India (ECI)",
+        "q": "Which authority did the Telangana State government sign an MoU with to strengthen legal literacy and child protection mechanisms in schools?",
+        "a": "Telangana State Legal Services Authority (TSLSA)",
         "options": [
-            "Ministry of Defence",
-            "Directorate General of Civil Aviation",
-            "West Bengal State Election Commission",
-            "Election Commission of India (ECI)",
-            "National Disaster Response Force"
+            "NITI Aayog",
+            "Ministry of Education",
+            "Telangana State Legal Services Authority (TSLSA)",
+            "UNICEF India",
+            "National Human Rights Commission"
         ],
         "cat": "Who"
     },
     {
-        "q": "The stringent security plan explicitly targets individuals attempting what specific actions?",
-        "a": "To disrupt voting or obstruct electors",
+        "q": "Who assumed charge as Special Commissioner and Ex-officio Secretary of the State Information and Public Relations Department in Telangana?",
+        "a": "G. Mukunda Reddy",
         "options": [
-            "Peaceful protests",
-            "Journalism",
-            "Election observation",
-            "Political party campaigning",
-            "To disrupt voting or obstruct electors"
+            "C.H. Priyanka",
+            "A. Revanth Reddy",
+            "G. Mukunda Reddy",
+            "Ponguleti Srinivasa Reddy",
+            "K. Kavitha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who gave the directive for constituency-wise deployment as part of the security measures?",
-        "a": "ECI",
+        "q": "Who was the outgoing commissioner of the State Information and Public Relations Department in Telangana, replaced by G. Mukunda Reddy?",
+        "a": "C.H. Priyanka",
         "options": [
-            "State Home Department",
-            "Local Police Chiefs",
-            "ECI",
-            "Paramilitary Forces",
-            "District Magistrates"
+            "G. Mukunda Reddy",
+            "A. Revanth Reddy",
+            "C.H. Priyanka",
+            "Ponguleti Srinivasa Reddy",
+            "K. Keshava Rao"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which group is directed to carry out area domination exercises in sensitive neighbourhoods?",
-        "a": "Security personnel",
+        "q": "Who is the Chief Minister of Telangana, mentioned by G. Mukunda Reddy when addressing officials?",
+        "a": "A. Revanth Reddy",
         "options": [
-            "Civil Defence Volunteers",
-            "National Cadet Corps",
-            "Security personnel",
-            "Local administrative staff",
-            "Public Relations Officers"
+            "K. Chandrashekar Rao",
+            "A. Revanth Reddy",
+            "N. Chandrababu Naidu",
+            "Y.S. Jagan Mohan Reddy",
+            "P. Chidambaram"
         ],
         "cat": "Who"
     },
     {
-        "q": "An official confirmed the ECI's announcement regarding stringent security for which specific activity?",
-        "a": "West Bengal Assembly polls",
+        "q": "Where did the men involved in the multimillion-dollar bribery scheme for affordable housing projects receive their prison sentences?",
+        "a": "US (District of Hawaii)",
         "options": [
-            "National Referendum",
-            "Municipal Elections",
-            "West Bengal Assembly polls",
-            "Presidential Elections",
-            "By-elections"
+            "India",
+            "UK",
+            "US",
+            "Canada",
+            "Australia"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "What kind of personnel received directives from the ECI regarding deployment and exercises?",
-        "a": "Security personnel",
+        "q": "The alleged fund diversion and money laundering case investigated by SEBI is related to an SRA project in which area of Mumbai?",
+        "a": "Khot Dongri in Malad East",
         "options": [
-            "Administrative personnel",
-            "Medical personnel",
-            "Security personnel",
-            "Logistics personnel",
-            "IT personnel"
+            "Bandra West",
+            "Andheri East",
+            "Khot Dongri in Malad East",
+            "Juhu",
+            "Colaba"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Who is expected to face firm action if they attempt to obstruct electors during the polls?",
-        "a": "Those attempting to obstruct electors",
-        "options": [
-            "Election candidates",
-            "Political party agents",
-            "Media representatives",
-            "Law enforcement officials",
-            "Those attempting to obstruct electors"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which state are the Assembly polls, for which the security plan was announced, taking place?",
+        "q": "Where was voting held for the first phase of the 2026 Assembly elections on April 23?",
         "a": "West Bengal",
         "options": [
             "Assam",
-            "Kerala",
-            "West Bengal",
-            "Tamil Nadu",
-            "Puducherry"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The ECI's security plan is specifically for which phase of the West Bengal Assembly polls?",
-        "a": "Second phase",
-        "options": [
-            "First phase",
-            "Second phase",
-            "Third phase",
-            "Fourth phase",
-            "Final phase"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where will constituency-wise deployment be a key part of the security plan?",
-        "a": "West Bengal constituencies",
-        "options": [
-            "Urban centers only",
-            "Border areas only",
-            "West Bengal constituencies",
-            "State capital only",
-            "Rural areas only"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which specific areas are mentioned for intensified area domination exercises?",
-        "a": "Interior lanes and sensitive neighbourhoods",
-        "options": [
-            "Government buildings",
-            "Main arterial roads",
-            "Interior lanes and sensitive neighbourhoods",
-            "Industrial zones",
-            "Shopping malls"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Assembly polls mentioned in the news are for which specific state's legislature?",
-        "a": "West Bengal",
-        "options": [
             "Odisha",
-            "Jharkhand",
             "West Bengal",
             "Bihar",
             "Uttar Pradesh"
@@ -240,482 +324,398 @@
         "cat": "Where"
     },
     {
-        "q": "Besides sensitive neighbourhoods, where else will area domination exercises be stepped up?",
-        "a": "Interior lanes",
+        "q": "General Kevin Schneider, Commander of the U.S. Pacific Air Forces, visited which country from April 19 to 25?",
+        "a": "India",
         "options": [
-            "Marketplaces",
-            "Bus terminals",
-            "Interior lanes",
-            "Railway stations",
-            "Schools"
+            "Japan",
+            "South Korea",
+            "India",
+            "Vietnam",
+            "Philippines"
         ],
         "cat": "Where"
     },
     {
-        "q": "The ECI's plan ensures security measures are applied to which administrative divisions during polls?",
-        "a": "Constituencies",
+        "q": "The MoU to strengthen legal literacy and child protection mechanisms in schools was signed by the State government in which state?",
+        "a": "Telangana",
         "options": [
-            "Districts",
-            "Sub-divisions",
-            "Wards",
-            "Constituencies",
-            "Blocks"
+            "Andhra Pradesh",
+            "Kerala",
+            "Telangana",
+            "Karnataka",
+            "Tamil Nadu"
         ],
         "cat": "Where"
     },
     {
-        "q": "The security plan is aimed at preventing disruptions in voting activities within what geographical scope?",
-        "a": "West Bengal",
+        "q": "G. Mukunda Reddy assumed charge as Special Commissioner at which secretariat?",
+        "a": "Dr. B.R. Ambedkar State Secretariat",
         "options": [
-            "National level",
-            "Zonal level",
-            "West Bengal",
-            "Regional level",
-            "International level"
+            "Raj Bhavan",
+            "State Assembly Building",
+            "Dr. B.R. Ambedkar State Secretariat",
+            "Telangana High Court",
+            "Chief Minister's Office"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where are voters expected to exercise their franchise without fear under the new plan?",
-        "a": "Polling stations/Constituencies (in West Bengal)",
+        "q": "To which district was the outgoing commissioner C.H. Priyanka posted as District Collector?",
+        "a": "Narayanpet",
         "options": [
-            "Home voting",
-            "Postal ballot centers",
-            "Polling stations/Constituencies (in West Bengal)",
-            "Online platforms",
-            "Any public place"
+            "Mahabubnagar",
+            "Siddipet",
+            "Narayanpet",
+            "Warangal",
+            "Nalgonda"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which kind of neighbourhoods will see stepped-up area domination exercises?",
-        "a": "Sensitive neighbourhoods",
+        "q": "Which US state was the center of the bribery conspiracy involving a public official in affordable housing projects?",
+        "a": "Hawaii",
         "options": [
-            "Affluent neighbourhoods",
-            "Commercial neighbourhoods",
-            "Sensitive neighbourhoods",
-            "Historical neighbourhoods",
-            "Residential neighbourhoods"
+            "California",
+            "Florida",
+            "Hawaii",
+            "New York",
+            "Texas"
         ],
         "cat": "Where"
     },
     {
-        "q": "The ECI's security measures are applicable for the polls taking place in which part of India?",
-        "a": "Eastern India",
+        "q": "In which specific office did Alan Scott Rudo work, who was bribed in the Hawaii case?",
+        "a": "Hawaii County Office of Housing and Community Development",
         "options": [
-            "Northern India",
-            "Southern India",
-            "Eastern India",
-            "Western India",
-            "Central India"
+            "Hawaii State Department of Commerce",
+            "Hawaii County Office of Housing and Community Development",
+            "Honolulu City Council",
+            "Maui County Planning Department",
+            "Department of Land and Natural Resources"
         ],
         "cat": "Where"
     },
     {
-        "q": "The stringent security plan primarily focuses on ensuring smooth conduct of polls in what specific region?",
-        "a": "West Bengal",
+        "q": "Which specific market does the Phi Commerce report focus on for digital payments?",
+        "a": "India",
         "options": [
-            "North East region",
-            "Deccan Plateau",
-            "West Bengal",
-            "Himalayan Foothills",
-            "Coastal plains"
+            "Global",
+            "Southeast Asia",
+            "India",
+            "North America",
+            "Europe"
         ],
         "cat": "Where"
     },
     {
-        "q": "The 'area domination exercises' are specific to what types of locations for security enhancement?",
-        "a": "Interior lanes and sensitive neighbourhoods",
+        "q": "Which location hosted the SRA project at Rani Sati Marg, subject of the SEBI complaint?",
+        "a": "Malad East, Mumbai",
         "options": [
-            "Major highways",
-            "State borders",
-            "Interior lanes and sensitive neighbourhoods",
-            "Tourist spots",
-            "National parks"
+            "Dadar, Mumbai",
+            "Malad East, Mumbai",
+            "Thane, Maharashtra",
+            "Pune, Maharashtra",
+            "Nagpur, Maharashtra"
         ],
         "cat": "Where"
     },
     {
-        "q": "The deployment under the security plan will be managed on what basis?",
-        "a": "Constituency-wise",
+        "q": "In which region of India are the Gsat satellites commercially managed by NSIL primarily core broadcasting infrastructure for Indian companies?",
+        "a": "India",
         "options": [
-            "District-wise",
-            "Block-wise",
-            "Constituency-wise",
-            "Village-wise",
-            "City-wise"
+            "Global",
+            "South Asia",
+            "India",
+            "ASEAN",
+            "Middle East"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where are electors expected to cast their votes securely under the ECI's plan?",
-        "a": "Polling booths/Constituencies",
+        "q": "When will the Reserve Bank of India's (RBI) rejigged rules for classifying bad loans become effective?",
+        "a": "April 1, 2027",
         "options": [
-            "Local community centers",
-            "Government offices",
-            "Polling booths/Constituencies",
-            "Public parks",
-            "Private residences"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which day of the week did the ECI announce the stringent security plan?",
-        "a": "Sunday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Sunday"
+            "April 1, 2026",
+            "October 1, 2026",
+            "April 1, 2027",
+            "January 1, 2027",
+            "July 1, 2027"
         ],
         "cat": "When"
     },
     {
-        "q": "The announcement of the security plan was made on which specific date?",
-        "a": "April 26, 2026",
+        "q": "On what date were the RBI's Master Directions regarding bad loan classification released?",
+        "a": "April 27, 2026",
         "options": [
-            "March 25, 2025",
-            "April 26, 2026",
-            "May 27, 2027",
-            "June 28, 2028",
-            "February 29, 2024"
+            "March 27, 2026",
+            "April 1, 2027",
+            "April 27, 2026",
+            "May 27, 2026",
+            "June 27, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month was the ECI's stringent security plan announced?",
-        "a": "April",
+        "q": "In which year did prices broadly retreat toward targets after central banks raised interest rates in response to inflation?",
+        "a": "By 2025",
         "options": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May"
+            "By 2024",
+            "By 2026",
+            "By 2025",
+            "By 2023",
+            "By 2027"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the year associated with the announcement of the security plan for West Bengal Assembly polls?",
-        "a": "2026",
+        "q": "The three men in the Hawaii bribery case were convicted in which month and year?",
+        "a": "June 2025",
         "options": [
-            "2023",
-            "2024",
-            "2025",
-            "2026",
-            "2027"
+            "May 2025",
+            "July 2025",
+            "June 2025",
+            "August 2025",
+            "April 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "The date of the announcement, April 26, falls on which day number of the month?",
-        "a": "26th",
+        "q": "When will voters exercise their franchise for the second phase of the West Bengal Assembly elections?",
+        "a": "April 29",
         "options": [
-            "24th",
-            "25th",
-            "26th",
-            "27th",
-            "28th"
+            "April 23",
+            "May 4",
+            "April 29",
+            "May 1",
+            "April 28"
         ],
         "cat": "When"
     },
     {
-        "q": "The ECI announced the plan on a date in the second half of which month?",
-        "a": "April",
+        "q": "On which date were votes counted for the West Bengal Assembly elections?",
+        "a": "May 4",
         "options": [
-            "March",
-            "April",
+            "April 23",
+            "April 29",
+            "May 4",
+            "May 1",
+            "May 7"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did NewSpace India took over commercial operations of Isro\u2019s satellite fleet?",
+        "a": "April 2021",
+        "options": [
+            "April 2020",
+            "April 2022",
+            "April 2021",
+            "January 2021",
+            "December 2020"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "According to the Phi Commerce report, in which month do education payments typically peak?",
+        "a": "June",
+        "options": [
             "May",
+            "July",
             "June",
-            "July"
+            "August",
+            "September"
         ],
         "cat": "When"
     },
     {
-        "q": "Which specific year is indicated for the West Bengal Assembly polls mentioned in the news?",
-        "a": "2026",
+        "q": "In which month does e-commerce see its highest activity, likely reflecting pre-festive sales?",
+        "a": "August",
         "options": [
-            "2023",
-            "2024",
-            "2025",
-            "2026",
-            "2027"
+            "July",
+            "September",
+            "August",
+            "October",
+            "November"
         ],
         "cat": "When"
     },
     {
-        "q": "The news reports an event that took place on which particular day and year?",
-        "a": "Sunday, April 26, 2026",
+        "q": "The price revision by NSIL is the first since which year for government satellites?",
+        "a": "2016",
         "options": [
-            "Saturday, April 25, 2025",
-            "Sunday, April 26, 2026",
-            "Monday, April 27, 2027",
-            "Tuesday, April 28, 2028",
-            "Friday, April 24, 2024"
+            "2015",
+            "2017",
+            "2016",
+            "2014",
+            "2018"
         ],
         "cat": "When"
     },
     {
-        "q": "The announcement date specifies the 26th day of which month?",
-        "a": "April",
+        "q": "In which year did the opening up of India\u2019s space sector occur, leading to NSIL undertaking commercial activities?",
+        "a": "2020",
         "options": [
-            "March",
-            "April",
-            "May",
-            "June",
-            "July"
+            "2019",
+            "2021",
+            "2020",
+            "2018",
+            "2022"
         ],
         "cat": "When"
     },
     {
-        "q": "The ECI's announcement was reported as being made on what specific numerical date?",
-        "a": "26th April",
+        "q": "During which hours do retail, e-commerce, and electronics transactions peak, marking an evening window for high-value spending?",
+        "a": "8 PM and 11 PM",
         "options": [
-            "20th March",
-            "22nd May",
-            "24th June",
-            "26th April",
-            "28th July"
+            "6 PM and 9 PM",
+            "7 PM and 10 PM",
+            "8 PM and 11 PM",
+            "9 PM and 12 AM",
+            "5 PM and 8 PM"
         ],
         "cat": "When"
     },
     {
-        "q": "The security plan was announced on the last Sunday of which month, given the date was April 26, 2026?",
-        "a": "April",
+        "q": "According to the Phi Commerce report, what is the primary reason UPI remains the most preferred mode for digital transactions?",
+        "a": "Speed and convenience",
         "options": [
-            "March",
-            "April",
-            "May",
-            "June",
-            "July"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which year is explicitly mentioned in the context of the ECI's announcement regarding election security?",
-        "a": "2026",
-        "options": [
-            "2024",
-            "2025",
-            "2026",
-            "2027",
-            "2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The news text places the announcement of the security plan in which specific quarter of the year?",
-        "a": "Second quarter",
-        "options": [
-            "First quarter",
-            "Second quarter",
-            "Third quarter",
-            "Fourth quarter",
-            "Not specified"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What day of the week corresponds to the date April 26, 2026, as per the news?",
-        "a": "Sunday",
-        "options": [
-            "Saturday",
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Sunday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The date given in the news text, April 26, 2026, falls within which specific calendar year?",
-        "a": "2026",
-        "options": [
-            "2024",
-            "2025",
-            "2026",
-            "2027",
-            "2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the stringent security plan announced by the ECI?",
-        "a": "To ensure voters can exercise their franchise without fear",
-        "options": [
-            "To speed up voting process",
-            "To increase voter turnout",
-            "To ensure voters can exercise their franchise without fear",
-            "To reduce campaign expenses",
-            "To demonstrate ECI's authority"
+            "Lower transaction fees",
+            "Cashback offers",
+            "Speed and convenience",
+            "Security features",
+            "Wider acceptance"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why would attempts to disrupt voting be dealt with firmly?",
-        "a": "To ensure smooth and fair conduct of polls",
+        "q": "Why did the share of EMIs drop in digital transactions, according to the Phi Commerce report?",
+        "a": "Shift toward more flexible, split-pay options",
         "options": [
-            "To penalize political parties",
-            "To demonstrate police power",
-            "To ensure smooth and fair conduct of polls",
-            "To collect legal fees",
-            "To discourage media presence"
+            "Increased interest rates",
+            "Reduced credit availability",
+            "Shift toward more flexible, split-pay options",
+            "Consumer preference for upfront payments",
+            "Regulatory changes"
         ],
         "cat": "Why"
     },
     {
-        "q": "The ECI directed security personnel to step up area domination exercises for what reason?",
-        "a": "To ensure voters can exercise their franchise without fear",
+        "q": "What is the primary purpose behind NSIL's decision to revise satellite bandwidth prices after a decade?",
+        "a": "To signal a reset in how scarce orbital capacity is priced amid shifting demand",
         "options": [
-            "To map election boundaries",
-            "To identify new polling stations",
-            "To ensure voters can exercise their franchise without fear",
-            "To conduct public awareness campaigns",
-            "To gather intelligence on candidates"
+            "To match international pricing standards",
+            "To increase profitability for ISRO",
+            "To signal a reset in how scarce orbital capacity is priced amid shifting demand",
+            "To reduce demand for DTH services",
+            "To fund new satellite launches"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated objective of dealing firmly with those who obstruct electors?",
-        "a": "To protect the democratic process",
+        "q": "What was the reason for the decline in DTH usage mentioned in the news text?",
+        "a": "Competition from OTT platforms, rising broadband penetration, smart TVs, and free television services.",
         "options": [
-            "To enforce curfew",
-            "To increase police presence",
-            "To protect the democratic process",
-            "To facilitate faster counting",
-            "To limit public gatherings"
+            "Increased subscription costs",
+            "Lack of new content",
+            "Competition from OTT platforms, rising broadband penetration, smart TVs, and free television services.",
+            "Technical issues with DTH services",
+            "Government regulations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What kind of plan did the ECI announce to address election security concerns?",
-        "a": "A stringent security plan",
+        "q": "What is the main objective behind MobiKwik's launch of MobiKwik Financial Services Private Ltd (MFSPL)?",
+        "a": "To expand its regulated lending capabilities",
         "options": [
-            "A flexible campaign plan",
-            "A relaxed observer plan",
-            "A stringent security plan",
-            "A provisional voting plan",
-            "A comprehensive outreach plan"
+            "To diversify into insurance",
+            "To enter wealth management",
+            "To expand its regulated lending capabilities",
+            "To launch a new digital wallet",
+            "To offer credit cards directly"
         ],
         "cat": "Why"
     },
     {
-        "q": "The ECI's overall aim with this security plan is to guarantee what fundamental aspect of elections?",
-        "a": "Free and fair elections",
+        "q": "What is the stated purpose of the RBI's rejigged rules for classifying bad loans?",
+        "a": "To strengthen credit risk management practices, improve comparability, and align with international standards",
         "options": [
-            "Cost-effectiveness",
-            "Efficiency",
-            "Free and fair elections",
-            "Technological advancement",
-            "Political neutrality"
+            "To reduce the number of bad loans",
+            "To simplify the recovery process",
+            "To strengthen credit risk management practices, improve comparability, and align with international standards",
+            "To provide more flexibility to banks",
+            "To increase loan disbursement"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why is constituency-wise deployment mandated by the ECI?",
-        "a": "To ensure targeted security coverage",
+        "q": "What was the core reason behind the bribery scheme in Hawaii, as described by Assistant Attorney General A. Tysen Duva?",
+        "a": "To enrich themselves instead of building homes for struggling families",
         "options": [
-            "To centralize command",
-            "To increase administrative burden",
-            "To ensure targeted security coverage",
-            "To provide employment opportunities",
-            "To conduct demographic surveys"
+            "To fund political campaigns",
+            "To avoid taxes",
+            "To enrich themselves instead of building homes for struggling families",
+            "To create a housing monopoly",
+            "To reduce construction costs"
         ],
         "cat": "Why"
     },
     {
-        "q": "The security plan is described as 'stringent' because of its clear directive to deal with what?",
-        "a": "Any attempt to disrupt voting or obstruct electors",
+        "q": "What was Prime Minister Narendra Modi's emphasized aim for West Bengal in his letter on the last day of election campaigning?",
+        "a": "To transform every challenge in West Bengal into an opportunity",
         "options": [
-            "Minor administrative errors",
-            "Lack of voter awareness",
-            "Any attempt to disrupt voting or obstruct electors",
-            "Logistical challenges",
-            "Candidate misconduct"
+            "To ensure peaceful elections",
+            "To highlight past government achievements",
+            "To transform every challenge in West Bengal into an opportunity",
+            "To promote local industries",
+            "To attract foreign investment"
         ],
         "cat": "Why"
     },
     {
-        "q": "What problem is the security plan primarily designed to solve or prevent?",
-        "a": "Disruption of voting and obstruction of electors",
+        "q": "What was the primary goal of General Kevin Schneider's visit to India?",
+        "a": "Reaffirming the U.S.\u2019s commitment to strengthening its strategic defence partnership with India",
         "options": [
-            "Low voter turnout",
-            "Misinformation campaigns",
-            "Disruption of voting and obstruction of electors",
-            "Budget overruns",
-            "Lack of infrastructure"
+            "To discuss trade agreements",
+            "To promote cultural exchange",
+            "Reaffirming the U.S.\u2019s commitment to strengthening its strategic defence partnership with India",
+            "To explore joint space missions",
+            "To recruit personnel for the US military"
         ],
         "cat": "Why"
     },
     {
-        "q": "The phrase 'without fear' in the news text refers to the condition for whom and for what activity?",
-        "a": "Voters exercising their franchise",
+        "q": "What is the main aim of the MoU signed between the Telangana State government and TSLSA regarding schools?",
+        "a": "To strengthen legal literacy and child protection mechanisms in schools",
         "options": [
-            "Officials conducting duties",
-            "Media reporting news",
-            "Voters exercising their franchise",
-            "Security personnel patrolling",
-            "Candidates campaigning"
+            "To improve digital education infrastructure",
+            "To promote sports activities",
+            "To strengthen legal literacy and child protection mechanisms in schools",
+            "To introduce new vocational courses",
+            "To provide financial aid to students"
         ],
         "cat": "Why"
     },
     {
-        "q": "The ECI made it clear that firm action would be taken to deter what specific activities?",
-        "a": "Disrupting voting or obstructing electors",
+        "q": "Why did G. Mukunda Reddy emphasize the key role of the Information Department after taking charge?",
+        "a": "In disseminating government welfare and development programmes to the public",
         "options": [
-            "Public debates",
-            "Door-to-door campaigning",
-            "Disrupting voting or obstructing electors",
-            "Peaceful rallies",
-            "Polling booth reviews"
+            "In managing public records",
+            "In organizing official events",
+            "In disseminating government welfare and development programmes to the public",
+            "In media relations for ministers",
+            "In internal communications for the secretariat"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the underlying reason for deploying security personnel in interior lanes and sensitive neighbourhoods?",
-        "a": "To build voter confidence and deter malpractices",
+        "q": "According to the Phi Commerce report, why do cards emerge as a strong second choice in sectors like retail?",
+        "a": "Reflecting their role in higher-value, discretionary purchases",
         "options": [
-            "To monitor traffic",
-            "To conduct census",
-            "To build voter confidence and deter malpractices",
-            "To assist with voter registration",
-            "To regulate local businesses"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The ECI's directive emphasizes ensuring that voters exercise their 'franchise'. What does 'franchise' mean in this context?",
-        "a": "The right to vote",
-        "options": [
-            "A business model",
-            "A legal contract",
-            "The right to vote",
-            "A brand identity",
-            "A specific territory"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the core principle the ECI is upholding with its stringent security measures?",
-        "a": "Integrity of the electoral process",
-        "options": [
-            "Economic growth",
-            "Cultural preservation",
-            "Integrity of the electoral process",
-            "Social harmony",
-            "Technological innovation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The announcement implies a commitment from the ECI to maintain what during the polls?",
-        "a": "Law and order and voter safety",
-        "options": [
-            "Political favoritism",
-            "Media silence",
-            "Law and order and voter safety",
-            "Reduced security presence",
-            "Unrestricted public access"
+            "Because of attractive reward points",
+            "Due to widespread ATM availability",
+            "Reflecting their role in higher-value, discretionary purchases",
+            "For ease of online payments",
+            "To avoid carrying cash"
         ],
         "cat": "Why"
     }
