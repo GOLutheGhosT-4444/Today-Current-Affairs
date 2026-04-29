@@ -1,721 +1,753 @@
 [
     {
-        "q": "As per the Phi Commerce report, what percentage of digital transactions did UPI account for in 2024?",
-        "a": "65%",
+        "q": "How many police observers were initially listed by the Election Commission of India on April 17?",
+        "a": "84",
         "options": [
-            "60%",
-            "70%",
-            "65%",
-            "55%",
-            "75%"
+            "82",
+            "86",
+            "84",
+            "80",
+            "88"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the share of Equated Monthly Instalments (EMIs) in digital transactions in 2025, according to the Phi Commerce report?",
-        "a": "10%",
+        "q": "For how many Assembly constituencies in South 24 Parganas was Ajay Pal Sharma appointed as a police observer?",
+        "a": "4",
         "options": [
-            "15%",
-            "5%",
-            "10%",
-            "20%",
-            "8%"
+            "3",
+            "5",
+            "4",
+            "2",
+            "6"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage increase in satellite bandwidth prices announced by NewSpace India Ltd (NSIL)?",
-        "a": "20%",
+        "q": "How many illegal telecom centres, including SIM box operations, were \"dismantled\" by the Department of Telecom in the past two years?",
+        "a": "44",
         "options": [
-            "15%",
-            "25%",
-            "20%",
-            "10%",
-            "30%"
+            "42",
+            "46",
+            "44",
+            "40",
+            "48"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the annual cost of a 36 megahertz (MHz) Ku-band transponder capacity from NSIL before the recent price hike?",
-        "a": "\u20b96.6 crore",
+        "q": "Ajay Pal Sharma belongs to which batch of IPS officers?",
+        "a": "2011",
         "options": [
-            "\u20b96.0 crore",
-            "\u20b97.0 crore",
-            "\u20b96.6 crore",
-            "\u20b95.5 crore",
-            "\u20b97.5 crore"
+            "2010",
+            "2012",
+            "2011",
+            "2013",
+            "2014"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the new annual cost for a 36 megahertz (MHz) Ku-band transponder capacity from NSIL after the 20% price increase?",
-        "a": "\u20b97.92 crore",
+        "q": "Parmar Smit Parshottamdas, whom Ajay Pal Sharma replaced, belongs to which batch of IPS officers?",
+        "a": "2017",
         "options": [
-            "\u20b97.50 crore",
-            "\u20b98.00 crore",
-            "\u20b97.92 crore",
-            "\u20b97.20 crore",
-            "\u20b98.25 crore"
+            "2016",
+            "2018",
+            "2017",
+            "2015",
+            "2019"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was NewSpace India Ltd (NSIL)'s total revenue from operations in FY25?",
-        "a": "\u20b92,761 crore",
+        "q": "How many distinct IPS officer batches are mentioned in the news text?",
+        "a": "2",
         "options": [
-            "\u20b92,700 crore",
-            "\u20b92,800 crore",
-            "\u20b92,761 crore",
-            "\u20b92,650 crore",
-            "\u20b92,900 crore"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much revenue did NSIL generate from satellite bandwidth sales in FY25?",
-        "a": "\u20b91,422 crore",
+        "q": "How many specific years are explicitly mentioned in the context of IPS batches in the given news text?",
+        "a": "2",
         "options": [
-            "\u20b91,400 crore",
-            "\u20b91,500 crore",
-            "\u20b91,422 crore",
-            "\u20b91,350 crore",
-            "\u20b91,480 crore"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of NSIL's total revenue from operations in FY25 came from satellite bandwidth sales?",
-        "a": "51%",
+        "q": "How many specific locations or regions within West Bengal are mentioned in relation to Ajay Pal Sharma's observation duty or related events?",
+        "a": "3",
         "options": [
-            "45%",
-            "55%",
-            "51%",
-            "48%",
-            "52%"
+            "2",
+            "4",
+            "3",
+            "1",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "A complaint filed with SEBI alleged fund diversion and money laundering involving more than what amount in a SRA project in Mumbai?",
-        "a": "\u20b9275 crore",
+        "q": "How many different states are identified as cadres for the IPS officers mentioned in the news?",
+        "a": "2",
         "options": [
-            "\u20b9250 crore",
-            "\u20b9300 crore",
-            "\u20b9275 crore",
-            "\u20b9260 crore",
-            "\u20b9290 crore"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the value of affordable housing projects for which the men in Hawaii paid bribes to secure approvals?",
-        "a": "More than $11 million",
+        "q": "The report on dismantling illegal telecom centres by the DoT generally covers a period identified as how many years?",
+        "a": "2",
         "options": [
-            "$10 million",
-            "$12 million",
-            "More than $11 million",
-            "$9 million",
-            "$13 million"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate amount of bribes and kickbacks paid or promised in the Hawaii bribery scheme?",
-        "a": "Nearly $2 million",
+        "q": "How many government bodies or departments are explicitly mentioned as being involved in the DoT's action against illegal telecom centres?",
+        "a": "2",
         "options": [
-            "$1 million",
-            "$3 million",
-            "Nearly $2 million",
-            "$1.5 million",
-            "$2.5 million"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many high schools in Telangana are part of the initiative to strengthen legal literacy and child protection mechanisms?",
-        "a": "5,711",
+        "q": "How many types of illegal operations are specifically named as being targeted by the DoT's dismantling efforts?",
+        "a": "1",
         "options": [
-            "5,000",
-            "6,000",
-            "5,711",
-            "5,500",
-            "5,800"
+            "2",
+            "1",
+            "3",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which entity published the 'How India Pays 2025-26' report on India's digital payments landscape?",
-        "a": "Phi Commerce",
+        "q": "How many different cadres are explicitly mentioned for the IPS officers in the news text?",
+        "a": "2",
         "options": [
-            "RBI",
-            "NPCI",
-            "Phi Commerce",
-            "Deloitte",
-            "KPMG"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the numerical difference between the IPS batch years of Ajay Pal Sharma and Parmar Smit Parshottamdas?",
+        "a": "6",
+        "options": [
+            "5",
+            "7",
+            "6",
+            "4",
+            "8"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many key stakeholders or institutions are involved in the report concerning DoT's actions as per the news?",
+        "a": "3",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "1",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The ECI's initial list, which did not include Ajay Pal Sharma, contained how many police observers?",
+        "a": "84",
+        "options": [
+            "83",
+            "85",
+            "84",
+            "81",
+            "87"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Ajay Pal Sharma was assigned to how many Assembly constituencies?",
+        "a": "4",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "3",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Department of Telecom 'dismantled' a total number of illegal telecom centres. What was this number?",
+        "a": "44",
+        "options": [
+            "43",
+            "45",
+            "44",
+            "41",
+            "47"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many IPS officers are explicitly identified by name in the provided news text?",
+        "a": "2",
+        "options": [
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the numerical identifier for Ajay Pal Sharma's IPS batch?",
+        "a": "2011",
+        "options": [
+            "2010",
+            "2012",
+            "2011",
+            "2013",
+            "2014"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was appointed as the police observer for four Assembly constituencies in South 24 Parganas?",
+        "a": "Ajay Pal Sharma",
+        "options": [
+            "Parmar Smit Parshottamdas",
+            "Jahangir Khan",
+            "Ajay Pal Sharma",
+            "An unnamed IPS officer",
+            "A Home Ministry official"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization is the commercial arm of the Indian Space Research Organisation (Isro)?",
-        "a": "NewSpace India Ltd (NSIL)",
+        "q": "Who did Ajay Pal Sharma replace as the police observer for South 24 Parganas?",
+        "a": "Parmar Smit Parshottamdas",
         "options": [
-            "Antrix Corp",
-            "DRDO",
-            "NewSpace India Ltd (NSIL)",
-            "Hindustan Aeronautics Limited",
-            "Bharat Dynamics Limited"
+            "Jahangir Khan",
+            "A senior ECI official",
+            "Parmar Smit Parshottamdas",
+            "A local police chief",
+            "A Home Ministry Secretary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Manager of Satellite Services at NSIL, mentioned in the letter to users regarding price revision?",
-        "a": "Nilanjan Routh",
+        "q": "Who is the Trinamool Congress candidate whose whereabouts were allegedly sought in a viral video?",
+        "a": "Jahangir Khan",
         "options": [
-            "S. Somanath",
-            "K. Sivan",
-            "Nilanjan Routh",
-            "Anurag Singh",
-            "Rajeshwari Singh"
+            "Ajay Pal Sharma",
+            "Parmar Smit Parshottamdas",
+            "Jahangir Khan",
+            "A local politician",
+            "An ECI nominee"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company partnered with NSIL for Gsat-24 in 2022, securing a unique pricing model and a long-term contract?",
-        "a": "Tata Play",
+        "q": "Which organization released the initial list of 84 police observers on April 17?",
+        "a": "Election Commission of India (ECI)",
         "options": [
-            "Airtel Digital TV",
-            "Dish TV",
-            "Tata Play",
-            "Videocon d2h",
-            "Sun Direct"
+            "Department of Telecom",
+            "Home Ministry",
+            "Supreme Court",
+            "Election Commission of India (ECI)",
+            "Uttar Pradesh Police"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company received approval for a Non-Banking Financial Company (NBFC) license from the RBI?",
-        "a": "One MobiKwik Systems Ltd",
+        "q": "Which department \"dismantled\" 44 illegal telecom centres across the country?",
+        "a": "Department of Telecom (DoT)",
         "options": [
-            "Paytm",
-            "PhonePe",
-            "One MobiKwik Systems Ltd",
-            "Google Pay",
-            "Freecharge"
+            "Home Ministry",
+            "Supreme Court",
+            "Election Commission of India",
+            "Department of Telecom (DoT)",
+            "Local law enforcement agencies"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who filed the complaint with SEBI regarding alleged fund diversion in a SRA project in Mumbai?",
-        "a": "Nikesh Raghani",
+        "q": "Which ministry submitted a report in the Supreme Court regarding the dismantling of illegal telecom centres?",
+        "a": "Home Ministry",
         "options": [
-            "Anand Sharma",
-            "Rakesh Kumar",
-            "Nikesh Raghani",
-            "Sanjay Gupta",
-            "Priya Singh"
+            "Department of Telecom",
+            "Ministry of Finance",
+            "Home Ministry",
+            "Ministry of External Affairs",
+            "Ministry of Law and Justice"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the housing specialist at the Hawaii County Office of Housing and Community Development that received bribes in the US case?",
-        "a": "Alan Scott Rudo",
+        "q": "Who is the 2017-batch IPS officer from Odisha cadre mentioned in the text?",
+        "a": "Parmar Smit Parshottamdas",
         "options": [
-            "Rajesh Budhabhatti",
-            "Gary Zamber",
-            "Alan Scott Rudo",
-            "Paul Sulla",
-            "David Porter"
+            "Ajay Pal Sharma",
+            "Jahangir Khan",
+            "Parmar Smit Parshottamdas",
+            "An unnamed senior IPS officer",
+            "A Chief Secretary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Commander of the U.S. Pacific Air Forces who visited India from April 19 to 25?",
-        "a": "General Kevin Schneider",
+        "q": "Which IPS officer belongs to the Uttar Pradesh cadre and is mentioned in the news?",
+        "a": "Ajay Pal Sharma",
         "options": [
-            "General Mark Milley",
-            "General Kevin Schneider",
-            "General Charles Q. Brown Jr.",
-            "Admiral John C. Aquilino",
-            "General Randy George"
+            "Parmar Smit Parshottamdas",
+            "Jahangir Khan",
+            "Ajay Pal Sharma",
+            "A West Bengal Cadre officer",
+            "An Odisha Cadre officer"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which authority did the Telangana State government sign an MoU with to strengthen legal literacy and child protection mechanisms in schools?",
-        "a": "Telangana State Legal Services Authority (TSLSA)",
+        "q": "Who is currently posted as Deputy Inspector General of Police in Prayagraj?",
+        "a": "Ajay Pal Sharma",
         "options": [
-            "NITI Aayog",
-            "Ministry of Education",
-            "Telangana State Legal Services Authority (TSLSA)",
-            "UNICEF India",
-            "National Human Rights Commission"
+            "Parmar Smit Parshottamdas",
+            "Jahangir Khan",
+            "Ajay Pal Sharma",
+            "The Chief Election Commissioner",
+            "A local SP"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who assumed charge as Special Commissioner and Ex-officio Secretary of the State Information and Public Relations Department in Telangana?",
-        "a": "G. Mukunda Reddy",
+        "q": "Which judicial body received the Home Ministry's report on DoT's actions against illegal telecom centres?",
+        "a": "Supreme Court",
         "options": [
-            "C.H. Priyanka",
-            "A. Revanth Reddy",
-            "G. Mukunda Reddy",
-            "Ponguleti Srinivasa Reddy",
-            "K. Kavitha"
+            "High Court",
+            "District Court",
+            "Supreme Court",
+            "Lok Adalat",
+            "National Green Tribunal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the outgoing commissioner of the State Information and Public Relations Department in Telangana, replaced by G. Mukunda Reddy?",
-        "a": "C.H. Priyanka",
+        "q": "Who appeared in a viral video clip allegedly warning locals in Falta?",
+        "a": "Ajay Pal Sharma",
         "options": [
-            "G. Mukunda Reddy",
-            "A. Revanth Reddy",
-            "C.H. Priyanka",
-            "Ponguleti Srinivasa Reddy",
-            "K. Keshava Rao"
+            "Jahangir Khan",
+            "Parmar Smit Parshottamdas",
+            "Ajay Pal Sharma",
+            "A local MLA",
+            "An unknown police officer"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of Telangana, mentioned by G. Mukunda Reddy when addressing officials?",
-        "a": "A. Revanth Reddy",
+        "q": "Who is the IPS officer from Odisha cadre mentioned in the news text?",
+        "a": "Parmar Smit Parshottamdas",
         "options": [
-            "K. Chandrashekar Rao",
-            "A. Revanth Reddy",
-            "N. Chandrababu Naidu",
-            "Y.S. Jagan Mohan Reddy",
-            "P. Chidambaram"
+            "Ajay Pal Sharma",
+            "Jahangir Khan",
+            "Parmar Smit Parshottamdas",
+            "A UP Cadre officer",
+            "An ECI official"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where did the men involved in the multimillion-dollar bribery scheme for affordable housing projects receive their prison sentences?",
-        "a": "US (District of Hawaii)",
+        "q": "Which entity coordinates with local law enforcement agencies for dismantling illegal telecom centres?",
+        "a": "Department of Telecom (DoT)",
         "options": [
-            "India",
-            "UK",
-            "US",
-            "Canada",
-            "Australia"
+            "Home Ministry",
+            "Supreme Court",
+            "Election Commission of India",
+            "Department of Telecom (DoT)",
+            "Uttar Pradesh Police"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "The alleged fund diversion and money laundering case investigated by SEBI is related to an SRA project in which area of Mumbai?",
-        "a": "Khot Dongri in Malad East",
+        "q": "Who was the Trinamool Congress candidate mentioned in connection with a viral video clip?",
+        "a": "Jahangir Khan",
         "options": [
-            "Bandra West",
-            "Andheri East",
-            "Khot Dongri in Malad East",
-            "Juhu",
-            "Colaba"
+            "Ajay Pal Sharma",
+            "Parmar Smit Parshottamdas",
+            "Jahangir Khan",
+            "A political observer",
+            "A local party leader"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Where was voting held for the first phase of the 2026 Assembly elections on April 23?",
-        "a": "West Bengal",
+        "q": "Which batch IPS officer is Ajay Pal Sharma?",
+        "a": "2011-batch",
         "options": [
-            "Assam",
+            "2010-batch",
+            "2012-batch",
+            "2011-batch",
+            "2013-batch",
+            "2014-batch"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Ajay Pal Sharma belongs to the IPS cadre of which Indian state?",
+        "a": "Uttar Pradesh",
+        "options": [
             "Odisha",
             "West Bengal",
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Madhya Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Parmar Smit Parshottamdas belongs to the IPS cadre of which Indian state?",
+        "a": "Odisha",
+        "options": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Odisha",
             "Bihar",
-            "Uttar Pradesh"
+            "Gujarat"
         ],
         "cat": "Where"
     },
     {
-        "q": "General Kevin Schneider, Commander of the U.S. Pacific Air Forces, visited which country from April 19 to 25?",
-        "a": "India",
+        "q": "In which state is Falta, where the viral video incident involving Ajay Pal Sharma occurred, located?",
+        "a": "West Bengal",
         "options": [
-            "Japan",
-            "South Korea",
-            "India",
-            "Vietnam",
-            "Philippines"
+            "Uttar Pradesh",
+            "Odisha",
+            "West Bengal",
+            "Jharkhand",
+            "Bihar"
         ],
         "cat": "Where"
     },
     {
-        "q": "The MoU to strengthen legal literacy and child protection mechanisms in schools was signed by the State government in which state?",
-        "a": "Telangana",
+        "q": "Which specific constituency is associated with Trinamool Congress candidate Jahangir Khan in West Bengal?",
+        "a": "Diamond Harbour",
         "options": [
-            "Andhra Pradesh",
-            "Kerala",
-            "Telangana",
-            "Karnataka",
-            "Tamil Nadu"
+            "Falta",
+            "South 24 Parganas",
+            "Diamond Harbour",
+            "Kolkata South",
+            "Barrackpore"
         ],
         "cat": "Where"
     },
     {
-        "q": "G. Mukunda Reddy assumed charge as Special Commissioner at which secretariat?",
-        "a": "Dr. B.R. Ambedkar State Secretariat",
+        "q": "In which district's Assembly constituencies was Ajay Pal Sharma appointed as police observer?",
+        "a": "South 24 Parganas",
         "options": [
-            "Raj Bhavan",
-            "State Assembly Building",
-            "Dr. B.R. Ambedkar State Secretariat",
-            "Telangana High Court",
-            "Chief Minister's Office"
+            "Diamond Harbour",
+            "Falta",
+            "North 24 Parganas",
+            "South 24 Parganas",
+            "Purba Medinipur"
         ],
         "cat": "Where"
     },
     {
-        "q": "To which district was the outgoing commissioner C.H. Priyanka posted as District Collector?",
-        "a": "Narayanpet",
+        "q": "In which city is Ajay Pal Sharma currently posted as Deputy Inspector General of Police?",
+        "a": "Prayagraj",
         "options": [
-            "Mahabubnagar",
-            "Siddipet",
-            "Narayanpet",
-            "Warangal",
-            "Nalgonda"
+            "Lucknow",
+            "Agra",
+            "Varanasi",
+            "Prayagraj",
+            "Kanpur"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which US state was the center of the bribery conspiracy involving a public official in affordable housing projects?",
-        "a": "Hawaii",
+        "q": "The Department of Telecom \"dismantled\" illegal telecom centres in which geographical scope?",
+        "a": "Across the country",
         "options": [
-            "California",
-            "Florida",
-            "Hawaii",
-            "New York",
-            "Texas"
+            "Specific states",
+            "Northern India",
+            "Across the country",
+            "Urban areas only",
+            "Border regions"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which specific office did Alan Scott Rudo work, who was bribed in the Hawaii case?",
-        "a": "Hawaii County Office of Housing and Community Development",
+        "q": "The Home Ministry's report on DoT's actions was submitted to which apex judicial body?",
+        "a": "Supreme Court",
         "options": [
-            "Hawaii State Department of Commerce",
-            "Hawaii County Office of Housing and Community Development",
-            "Honolulu City Council",
-            "Maui County Planning Department",
-            "Department of Land and Natural Resources"
+            "Delhi High Court",
+            "National Green Tribunal",
+            "Supreme Court",
+            "Calcutta High Court",
+            "Central Administrative Tribunal"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which specific market does the Phi Commerce report focus on for digital payments?",
-        "a": "India",
+        "q": "Where was the alleged viral video clip involving Ajay Pal Sharma reported to have originated from?",
+        "a": "Falta",
         "options": [
-            "Global",
-            "Southeast Asia",
-            "India",
-            "North America",
-            "Europe"
+            "Prayagraj",
+            "Diamond Harbour",
+            "Falta",
+            "South 24 Parganas",
+            "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which location hosted the SRA project at Rani Sati Marg, subject of the SEBI complaint?",
-        "a": "Malad East, Mumbai",
+        "q": "The Home Ministry report refers to actions taken by the DoT nationwide. To which court was this report submitted?",
+        "a": "Supreme Court",
         "options": [
-            "Dadar, Mumbai",
-            "Malad East, Mumbai",
-            "Thane, Maharashtra",
-            "Pune, Maharashtra",
-            "Nagpur, Maharashtra"
+            "High Court",
+            "International Court of Justice",
+            "Supreme Court",
+            "District Court",
+            "Appellate Tribunal"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which region of India are the Gsat satellites commercially managed by NSIL primarily core broadcasting infrastructure for Indian companies?",
-        "a": "India",
+        "q": "On which date was the Election Commission of India's initial list of 84 police observers released?",
+        "a": "April 17",
         "options": [
-            "Global",
-            "South Asia",
-            "India",
-            "ASEAN",
-            "Middle East"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When will the Reserve Bank of India's (RBI) rejigged rules for classifying bad loans become effective?",
-        "a": "April 1, 2027",
-        "options": [
-            "April 1, 2026",
-            "October 1, 2026",
-            "April 1, 2027",
-            "January 1, 2027",
-            "July 1, 2027"
+            "April 15",
+            "April 18",
+            "April 17",
+            "April 16",
+            "April 19"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date were the RBI's Master Directions regarding bad loan classification released?",
-        "a": "April 27, 2026",
+        "q": "The Department of Telecom's sustained action against illegal telecom centres \"happened between\" which two specific months/years?",
+        "a": "April 2024 and October 2025",
         "options": [
-            "March 27, 2026",
-            "April 1, 2027",
-            "April 27, 2026",
-            "May 27, 2026",
-            "June 27, 2026"
+            "April 2023 and October 2024",
+            "May 2024 and November 2025",
+            "April 2024 and October 2025",
+            "March 2024 and September 2025",
+            "June 2024 and December 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did prices broadly retreat toward targets after central banks raised interest rates in response to inflation?",
-        "a": "By 2025",
+        "q": "The Home Ministry report stated that DoT's actions covered a general timeframe of how many past years?",
+        "a": "Past two years",
         "options": [
-            "By 2024",
-            "By 2026",
-            "By 2025",
-            "By 2023",
-            "By 2027"
+            "Past one year",
+            "Past three years",
+            "Past two years",
+            "Past five years",
+            "Past six months"
         ],
         "cat": "When"
     },
     {
-        "q": "The three men in the Hawaii bribery case were convicted in which month and year?",
-        "a": "June 2025",
+        "q": "Ajay Pal Sharma was \"brought in\" as the police observer on which day of the week, as per the text?",
+        "a": "Sunday",
         "options": [
-            "May 2025",
-            "July 2025",
-            "June 2025",
-            "August 2025",
-            "April 2025"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Saturday"
         ],
         "cat": "When"
     },
     {
-        "q": "When will voters exercise their franchise for the second phase of the West Bengal Assembly elections?",
-        "a": "April 29",
+        "q": "In which year did Parmar Smit Parshottamdas join the IPS cadre?",
+        "a": "2017",
         "options": [
-            "April 23",
-            "May 4",
-            "April 29",
-            "May 1",
-            "April 28"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date were votes counted for the West Bengal Assembly elections?",
-        "a": "May 4",
-        "options": [
-            "April 23",
-            "April 29",
-            "May 4",
-            "May 1",
-            "May 7"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did NewSpace India took over commercial operations of Isro\u2019s satellite fleet?",
-        "a": "April 2021",
-        "options": [
-            "April 2020",
-            "April 2022",
-            "April 2021",
-            "January 2021",
-            "December 2020"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "According to the Phi Commerce report, in which month do education payments typically peak?",
-        "a": "June",
-        "options": [
-            "May",
-            "July",
-            "June",
-            "August",
-            "September"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month does e-commerce see its highest activity, likely reflecting pre-festive sales?",
-        "a": "August",
-        "options": [
-            "July",
-            "September",
-            "August",
-            "October",
-            "November"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The price revision by NSIL is the first since which year for government satellites?",
-        "a": "2016",
-        "options": [
-            "2015",
-            "2017",
             "2016",
-            "2014",
-            "2018"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the opening up of India\u2019s space sector occur, leading to NSIL undertaking commercial activities?",
-        "a": "2020",
-        "options": [
-            "2019",
-            "2021",
-            "2020",
             "2018",
-            "2022"
+            "2017",
+            "2015",
+            "2019"
         ],
         "cat": "When"
     },
     {
-        "q": "During which hours do retail, e-commerce, and electronics transactions peak, marking an evening window for high-value spending?",
-        "a": "8 PM and 11 PM",
+        "q": "What is the batch year of IPS officer Ajay Pal Sharma?",
+        "a": "2011",
         "options": [
-            "6 PM and 9 PM",
-            "7 PM and 10 PM",
-            "8 PM and 11 PM",
-            "9 PM and 12 AM",
-            "5 PM and 8 PM"
+            "2010",
+            "2012",
+            "2011",
+            "2013",
+            "2014"
         ],
         "cat": "When"
     },
     {
-        "q": "According to the Phi Commerce report, what is the primary reason UPI remains the most preferred mode for digital transactions?",
-        "a": "Speed and convenience",
+        "q": "The sustained action by DoT mentioned in the report began in which month of 2024?",
+        "a": "April",
         "options": [
-            "Lower transaction fees",
-            "Cashback offers",
-            "Speed and convenience",
-            "Security features",
-            "Wider acceptance"
+            "March",
+            "May",
+            "April",
+            "June",
+            "July"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The reported sustained action by DoT is stated to conclude in which month of 2025?",
+        "a": "October",
+        "options": [
+            "September",
+            "November",
+            "October",
+            "August",
+            "December"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the alleged reason for Ajay Pal Sharma's initial exclusion from the ECI's list of police observers?",
+        "a": "A viral video clip allegedly warning locals",
+        "options": [
+            "Poor performance record",
+            "Political affiliations",
+            "A viral video clip allegedly warning locals",
+            "Health reasons",
+            "Deployment in another state"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the share of EMIs drop in digital transactions, according to the Phi Commerce report?",
-        "a": "Shift toward more flexible, split-pay options",
+        "q": "What is the primary purpose of the Department of Telecom's action to \"dismantle\" illegal telecom centres?",
+        "a": "To curb illegal telecom activities, including SIM box operations",
         "options": [
-            "Increased interest rates",
-            "Reduced credit availability",
-            "Shift toward more flexible, split-pay options",
-            "Consumer preference for upfront payments",
-            "Regulatory changes"
+            "To improve network coverage",
+            "To increase revenue",
+            "To curb illegal telecom activities, including SIM box operations",
+            "To introduce new technologies",
+            "To regulate call tariffs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose behind NSIL's decision to revise satellite bandwidth prices after a decade?",
-        "a": "To signal a reset in how scarce orbital capacity is priced amid shifting demand",
+        "q": "Why was Parmar Smit Parshottamdas replaced as a police observer in South 24 Parganas?",
+        "a": "He was replaced by Ajay Pal Sharma.",
         "options": [
-            "To match international pricing standards",
-            "To increase profitability for ISRO",
-            "To signal a reset in how scarce orbital capacity is priced amid shifting demand",
-            "To reduce demand for DTH services",
-            "To fund new satellite launches"
+            "His retirement",
+            "His transfer to another state",
+            "He was replaced by Ajay Pal Sharma",
+            "A promotion",
+            "Unspecified official reasons"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for the decline in DTH usage mentioned in the news text?",
-        "a": "Competition from OTT platforms, rising broadband penetration, smart TVs, and free television services.",
+        "q": "The Home Ministry submitted a report to the Supreme Court for what purpose related to DoT?",
+        "a": "To detail the dismantling of illegal telecom centres by DoT",
         "options": [
-            "Increased subscription costs",
-            "Lack of new content",
-            "Competition from OTT platforms, rising broadband penetration, smart TVs, and free television services.",
-            "Technical issues with DTH services",
-            "Government regulations"
+            "To seek new directives for telecom policy",
+            "To challenge DoT's actions",
+            "To detail the dismantling of illegal telecom centres by DoT",
+            "To report on 5G rollout",
+            "To request funds for infrastructure development"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main objective behind MobiKwik's launch of MobiKwik Financial Services Private Ltd (MFSPL)?",
-        "a": "To expand its regulated lending capabilities",
+        "q": "What was the alleged activity shown in the viral video clip involving Ajay Pal Sharma?",
+        "a": "Warning locals of severe consequences",
         "options": [
-            "To diversify into insurance",
-            "To enter wealth management",
-            "To expand its regulated lending capabilities",
-            "To launch a new digital wallet",
-            "To offer credit cards directly"
+            "Distributing relief materials",
+            "Conducting a public meeting",
+            "Warning locals of severe consequences",
+            "Investigating a cybercrime",
+            "Supervising election preparations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of the RBI's rejigged rules for classifying bad loans?",
-        "a": "To strengthen credit risk management practices, improve comparability, and align with international standards",
+        "q": "The Department of Telecom specifically targeted what type of illegal operations during its sustained action?",
+        "a": "SIM box operations",
         "options": [
-            "To reduce the number of bad loans",
-            "To simplify the recovery process",
-            "To strengthen credit risk management practices, improve comparability, and align with international standards",
-            "To provide more flexibility to banks",
-            "To increase loan disbursement"
+            "Illegal data mining",
+            "Network hacking",
+            "SIM box operations",
+            "Call centre fraud",
+            "Bulk SMS spamming"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the core reason behind the bribery scheme in Hawaii, as described by Assistant Attorney General A. Tysen Duva?",
-        "a": "To enrich themselves instead of building homes for struggling families",
+        "q": "What was the explicit reason mentioned for Ajay Pal Sharma's non-inclusion in the ECI's initial list?",
+        "a": "His appearance in a viral video clip allegedly warning locals",
         "options": [
-            "To fund political campaigns",
-            "To avoid taxes",
-            "To enrich themselves instead of building homes for struggling families",
-            "To create a housing monopoly",
-            "To reduce construction costs"
+            "His transfer request",
+            "Lack of experience",
+            "His appearance in a viral video clip allegedly warning locals",
+            "Being on leave",
+            "Not meeting eligibility criteria"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was Prime Minister Narendra Modi's emphasized aim for West Bengal in his letter on the last day of election campaigning?",
-        "a": "To transform every challenge in West Bengal into an opportunity",
+        "q": "Why was Ajay Pal Sharma appointed as a police observer for four Assembly constituencies in South 24 Parganas?",
+        "a": "To replace Parmar Smit Parshottamdas",
         "options": [
-            "To ensure peaceful elections",
-            "To highlight past government achievements",
-            "To transform every challenge in West Bengal into an opportunity",
-            "To promote local industries",
-            "To attract foreign investment"
+            "To lead a new investigative unit",
+            "To manage local law enforcement agencies",
+            "To replace Parmar Smit Parshottamdas",
+            "To oversee infrastructure projects",
+            "To conduct a special audit"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary goal of General Kevin Schneider's visit to India?",
-        "a": "Reaffirming the U.S.\u2019s commitment to strengthening its strategic defence partnership with India",
+        "q": "What was the objective of the coordination between DoT and local law enforcement agencies?",
+        "a": "To carry out sustained action against illegal telecom centres",
         "options": [
-            "To discuss trade agreements",
-            "To promote cultural exchange",
-            "Reaffirming the U.S.\u2019s commitment to strengthening its strategic defence partnership with India",
-            "To explore joint space missions",
-            "To recruit personnel for the US military"
+            "To establish new communication networks",
+            "To conduct a census",
+            "To carry out sustained action against illegal telecom centres",
+            "To provide legal training to police",
+            "To resolve inter-departmental disputes"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main aim of the MoU signed between the Telangana State government and TSLSA regarding schools?",
-        "a": "To strengthen legal literacy and child protection mechanisms in schools",
+        "q": "What was the specific subject of the viral video clip involving Ajay Pal Sharma that led to his initial non-inclusion?",
+        "a": "Allegedly warning locals of severe consequences for not revealing whereabouts of a candidate",
         "options": [
-            "To improve digital education infrastructure",
-            "To promote sports activities",
-            "To strengthen legal literacy and child protection mechanisms in schools",
-            "To introduce new vocational courses",
-            "To provide financial aid to students"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did G. Mukunda Reddy emphasize the key role of the Information Department after taking charge?",
-        "a": "In disseminating government welfare and development programmes to the public",
-        "options": [
-            "In managing public records",
-            "In organizing official events",
-            "In disseminating government welfare and development programmes to the public",
-            "In media relations for ministers",
-            "In internal communications for the secretariat"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the Phi Commerce report, why do cards emerge as a strong second choice in sectors like retail?",
-        "a": "Reflecting their role in higher-value, discretionary purchases",
-        "options": [
-            "Because of attractive reward points",
-            "Due to widespread ATM availability",
-            "Reflecting their role in higher-value, discretionary purchases",
-            "For ease of online payments",
-            "To avoid carrying cash"
+            "A public awareness campaign, A routine police drill, Allegedly warning locals of severe consequences for not revealing whereabouts of a candidate, An award ceremony, A sports event"
         ],
         "cat": "Why"
     }
