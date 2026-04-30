@@ -1,753 +1,817 @@
 [
     {
-        "q": "How many police observers were initially listed by the Election Commission of India on April 17?",
-        "a": "84",
+        "q": "What is the reported range of the US Dark Eagle hypersonic missile?",
+        "a": "More than 1,725 miles",
         "options": [
-            "82",
-            "86",
-            "84",
-            "80",
-            "88"
+            "More than 1,700 miles",
+            "More than 1,750 miles",
+            "More than 1,725 miles",
+            "More than 1,600 miles",
+            "More than 1,800 miles"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many Assembly constituencies in South 24 Parganas was Ajay Pal Sharma appointed as a police observer?",
-        "a": "4",
+        "q": "What is the reported range of the US Precision Strike Missile?",
+        "a": "More than 300 miles",
         "options": [
-            "3",
-            "5",
-            "4",
-            "2",
-            "6"
+            "More than 250 miles",
+            "More than 350 miles",
+            "More than 300 miles",
+            "More than 280 miles",
+            "More than 320 miles"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many illegal telecom centres, including SIM box operations, were \"dismantled\" by the Department of Telecom in the past two years?",
-        "a": "44",
+        "q": "What is the approximate cost of each Lockheed Martin Corp. Dark Eagle missile?",
+        "a": "$15 million",
         "options": [
-            "42",
-            "46",
-            "44",
-            "40",
-            "48"
+            "$15.5 million",
+            "$14.5 million",
+            "$15 million",
+            "$14.8 million",
+            "$15.2 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Ajay Pal Sharma belongs to which batch of IPS officers?",
-        "a": "2011",
+        "q": "According to the Government Accountability Office, what is the approximate cost of each Dark Eagle battery?",
+        "a": "$2.7 billion",
         "options": [
-            "2010",
-            "2012",
-            "2011",
-            "2013",
-            "2014"
+            "$2.5 billion",
+            "$2.8 billion",
+            "$2.7 billion",
+            "$2.65 billion",
+            "$2.75 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Parmar Smit Parshottamdas, whom Ajay Pal Sharma replaced, belongs to which batch of IPS officers?",
-        "a": "2017",
+        "q": "How many Dark Eagle missiles are reportedly in existence?",
+        "a": "No more than eight",
         "options": [
-            "2016",
-            "2018",
-            "2017",
-            "2015",
-            "2019"
+            "No more than six",
+            "No more than ten",
+            "No more than eight",
+            "No more than seven",
+            "No more than nine"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many distinct IPS officer batches are mentioned in the news text?",
-        "a": "2",
+        "q": "Approximately how many JASSM-ER cruise missiles have been fired so far in the conflict mentioned?",
+        "a": "1,100",
         "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
+            "1,050",
+            "1,150",
+            "1,100",
+            "1,080",
+            "1,120"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many specific years are explicitly mentioned in the context of IPS batches in the given news text?",
-        "a": "2",
+        "q": "Which US entity has asked to send the Dark Eagle hypersonic missile to the Middle East?",
+        "a": "US Central Command",
         "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many specific locations or regions within West Bengal are mentioned in relation to Ajay Pal Sharma's observation duty or related events?",
-        "a": "3",
-        "options": [
-            "2",
-            "4",
-            "3",
-            "1",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many different states are identified as cadres for the IPS officers mentioned in the news?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The report on dismantling illegal telecom centres by the DoT generally covers a period identified as how many years?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many government bodies or departments are explicitly mentioned as being involved in the DoT's action against illegal telecom centres?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many types of illegal operations are specifically named as being targeted by the DoT's dismantling efforts?",
-        "a": "1",
-        "options": [
-            "2",
-            "1",
-            "3",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many different cadres are explicitly mentioned for the IPS officers in the news text?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the numerical difference between the IPS batch years of Ajay Pal Sharma and Parmar Smit Parshottamdas?",
-        "a": "6",
-        "options": [
-            "5",
-            "7",
-            "6",
-            "4",
-            "8"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many key stakeholders or institutions are involved in the report concerning DoT's actions as per the news?",
-        "a": "3",
-        "options": [
-            "2",
-            "4",
-            "3",
-            "1",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The ECI's initial list, which did not include Ajay Pal Sharma, contained how many police observers?",
-        "a": "84",
-        "options": [
-            "83",
-            "85",
-            "84",
-            "81",
-            "87"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Ajay Pal Sharma was assigned to how many Assembly constituencies?",
-        "a": "4",
-        "options": [
-            "1",
-            "2",
-            "4",
-            "3",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Department of Telecom 'dismantled' a total number of illegal telecom centres. What was this number?",
-        "a": "44",
-        "options": [
-            "43",
-            "45",
-            "44",
-            "41",
-            "47"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many IPS officers are explicitly identified by name in the provided news text?",
-        "a": "2",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the numerical identifier for Ajay Pal Sharma's IPS batch?",
-        "a": "2011",
-        "options": [
-            "2010",
-            "2012",
-            "2011",
-            "2013",
-            "2014"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was appointed as the police observer for four Assembly constituencies in South 24 Parganas?",
-        "a": "Ajay Pal Sharma",
-        "options": [
-            "Parmar Smit Parshottamdas",
-            "Jahangir Khan",
-            "Ajay Pal Sharma",
-            "An unnamed IPS officer",
-            "A Home Ministry official"
+            "US Indo-Pacific Command",
+            "US European Command",
+            "US Central Command",
+            "US Northern Command",
+            "US Special Operations Command"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who did Ajay Pal Sharma replace as the police observer for South 24 Parganas?",
-        "a": "Parmar Smit Parshottamdas",
+        "q": "Which company manufactures the Dark Eagle hypersonic missile?",
+        "a": "Lockheed Martin Corp.",
         "options": [
-            "Jahangir Khan",
-            "A senior ECI official",
-            "Parmar Smit Parshottamdas",
-            "A local police chief",
-            "A Home Ministry Secretary"
+            "Boeing",
+            "Raytheon Technologies",
+            "Lockheed Martin Corp.",
+            "Northrop Grumman",
+            "General Dynamics"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Trinamool Congress candidate whose whereabouts were allegedly sought in a viral video?",
-        "a": "Jahangir Khan",
+        "q": "Who is identified as Bloomberg Economics Defense Lead in the news text?",
+        "a": "Becca Wasser",
         "options": [
-            "Ajay Pal Sharma",
-            "Parmar Smit Parshottamdas",
-            "Jahangir Khan",
-            "A local politician",
-            "An ECI nominee"
+            "Tony Capaccio",
+            "Becca Wasser",
+            "Donald Trump",
+            "Samuel Alito",
+            "Elena Kagan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization released the initial list of 84 police observers on April 17?",
-        "a": "Election Commission of India (ECI)",
+        "q": "To which region has US Central Command asked to send the Dark Eagle hypersonic missile?",
+        "a": "Middle East",
         "options": [
-            "Department of Telecom",
-            "Home Ministry",
-            "Supreme Court",
-            "Election Commission of India (ECI)",
-            "Uttar Pradesh Police"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which department \"dismantled\" 44 illegal telecom centres across the country?",
-        "a": "Department of Telecom (DoT)",
-        "options": [
-            "Home Ministry",
-            "Supreme Court",
-            "Election Commission of India",
-            "Department of Telecom (DoT)",
-            "Local law enforcement agencies"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which ministry submitted a report in the Supreme Court regarding the dismantling of illegal telecom centres?",
-        "a": "Home Ministry",
-        "options": [
-            "Department of Telecom",
-            "Ministry of Finance",
-            "Home Ministry",
-            "Ministry of External Affairs",
-            "Ministry of Law and Justice"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the 2017-batch IPS officer from Odisha cadre mentioned in the text?",
-        "a": "Parmar Smit Parshottamdas",
-        "options": [
-            "Ajay Pal Sharma",
-            "Jahangir Khan",
-            "Parmar Smit Parshottamdas",
-            "An unnamed senior IPS officer",
-            "A Chief Secretary"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which IPS officer belongs to the Uttar Pradesh cadre and is mentioned in the news?",
-        "a": "Ajay Pal Sharma",
-        "options": [
-            "Parmar Smit Parshottamdas",
-            "Jahangir Khan",
-            "Ajay Pal Sharma",
-            "A West Bengal Cadre officer",
-            "An Odisha Cadre officer"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is currently posted as Deputy Inspector General of Police in Prayagraj?",
-        "a": "Ajay Pal Sharma",
-        "options": [
-            "Parmar Smit Parshottamdas",
-            "Jahangir Khan",
-            "Ajay Pal Sharma",
-            "The Chief Election Commissioner",
-            "A local SP"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which judicial body received the Home Ministry's report on DoT's actions against illegal telecom centres?",
-        "a": "Supreme Court",
-        "options": [
-            "High Court",
-            "District Court",
-            "Supreme Court",
-            "Lok Adalat",
-            "National Green Tribunal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who appeared in a viral video clip allegedly warning locals in Falta?",
-        "a": "Ajay Pal Sharma",
-        "options": [
-            "Jahangir Khan",
-            "Parmar Smit Parshottamdas",
-            "Ajay Pal Sharma",
-            "A local MLA",
-            "An unknown police officer"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the IPS officer from Odisha cadre mentioned in the news text?",
-        "a": "Parmar Smit Parshottamdas",
-        "options": [
-            "Ajay Pal Sharma",
-            "Jahangir Khan",
-            "Parmar Smit Parshottamdas",
-            "A UP Cadre officer",
-            "An ECI official"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which entity coordinates with local law enforcement agencies for dismantling illegal telecom centres?",
-        "a": "Department of Telecom (DoT)",
-        "options": [
-            "Home Ministry",
-            "Supreme Court",
-            "Election Commission of India",
-            "Department of Telecom (DoT)",
-            "Uttar Pradesh Police"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Trinamool Congress candidate mentioned in connection with a viral video clip?",
-        "a": "Jahangir Khan",
-        "options": [
-            "Ajay Pal Sharma",
-            "Parmar Smit Parshottamdas",
-            "Jahangir Khan",
-            "A political observer",
-            "A local party leader"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which batch IPS officer is Ajay Pal Sharma?",
-        "a": "2011-batch",
-        "options": [
-            "2010-batch",
-            "2012-batch",
-            "2011-batch",
-            "2013-batch",
-            "2014-batch"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Ajay Pal Sharma belongs to the IPS cadre of which Indian state?",
-        "a": "Uttar Pradesh",
-        "options": [
-            "Odisha",
-            "West Bengal",
-            "Uttar Pradesh",
-            "Rajasthan",
-            "Madhya Pradesh"
+            "Europe",
+            "Asia-Pacific",
+            "Middle East",
+            "Africa",
+            "South America"
         ],
         "cat": "Where"
     },
     {
-        "q": "Parmar Smit Parshottamdas belongs to the IPS cadre of which Indian state?",
-        "a": "Odisha",
+        "q": "The Dark Eagle hypersonic missile is sought for possible use against which country?",
+        "a": "Iran",
         "options": [
-            "Uttar Pradesh",
-            "West Bengal",
-            "Odisha",
-            "Bihar",
-            "Gujarat"
+            "Syria",
+            "Iraq",
+            "Iran",
+            "Yemen",
+            "Afghanistan"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which state is Falta, where the viral video incident involving Ajay Pal Sharma occurred, located?",
-        "a": "West Bengal",
+        "q": "Since when has a ceasefire been in place between the US and Iran, as per the news?",
+        "a": "April 9",
         "options": [
-            "Uttar Pradesh",
-            "Odisha",
-            "West Bengal",
-            "Jharkhand",
-            "Bihar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which specific constituency is associated with Trinamool Congress candidate Jahangir Khan in West Bengal?",
-        "a": "Diamond Harbour",
-        "options": [
-            "Falta",
-            "South 24 Parganas",
-            "Diamond Harbour",
-            "Kolkata South",
-            "Barrackpore"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which district's Assembly constituencies was Ajay Pal Sharma appointed as police observer?",
-        "a": "South 24 Parganas",
-        "options": [
-            "Diamond Harbour",
-            "Falta",
-            "North 24 Parganas",
-            "South 24 Parganas",
-            "Purba Medinipur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city is Ajay Pal Sharma currently posted as Deputy Inspector General of Police?",
-        "a": "Prayagraj",
-        "options": [
-            "Lucknow",
-            "Agra",
-            "Varanasi",
-            "Prayagraj",
-            "Kanpur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Department of Telecom \"dismantled\" illegal telecom centres in which geographical scope?",
-        "a": "Across the country",
-        "options": [
-            "Specific states",
-            "Northern India",
-            "Across the country",
-            "Urban areas only",
-            "Border regions"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Home Ministry's report on DoT's actions was submitted to which apex judicial body?",
-        "a": "Supreme Court",
-        "options": [
-            "Delhi High Court",
-            "National Green Tribunal",
-            "Supreme Court",
-            "Calcutta High Court",
-            "Central Administrative Tribunal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the alleged viral video clip involving Ajay Pal Sharma reported to have originated from?",
-        "a": "Falta",
-        "options": [
-            "Prayagraj",
-            "Diamond Harbour",
-            "Falta",
-            "South 24 Parganas",
-            "Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Home Ministry report refers to actions taken by the DoT nationwide. To which court was this report submitted?",
-        "a": "Supreme Court",
-        "options": [
-            "High Court",
-            "International Court of Justice",
-            "Supreme Court",
-            "District Court",
-            "Appellate Tribunal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date was the Election Commission of India's initial list of 84 police observers released?",
-        "a": "April 17",
-        "options": [
-            "April 15",
-            "April 18",
-            "April 17",
-            "April 16",
-            "April 19"
+            "April 8",
+            "April 10",
+            "April 9",
+            "April 11",
+            "April 7"
         ],
         "cat": "When"
     },
     {
-        "q": "The Department of Telecom's sustained action against illegal telecom centres \"happened between\" which two specific months/years?",
-        "a": "April 2024 and October 2025",
+        "q": "What is a primary stated purpose for deploying the Dark Eagle hypersonic missile to the Middle East?",
+        "a": "To hit ballistic-missile launchers deep inside the country.",
         "options": [
-            "April 2023 and October 2024",
-            "May 2024 and November 2025",
-            "April 2024 and October 2025",
-            "March 2024 and September 2025",
-            "June 2024 and December 2025"
+            "To conduct reconnaissance missions",
+            "To provide air support for ground troops",
+            "To hit ballistic-missile launchers deep inside the country.",
+            "To defend against drone attacks",
+            "To protect shipping lanes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the justification for seeking a longer-range missile system like Dark Eagle?",
+        "a": "Iran has moved its launchers out of range of the Precision Strike Missile.",
+        "options": [
+            "To enhance surveillance capabilities",
+            "Iran has moved its launchers out of range of the Precision Strike Missile.",
+            "To counter cyber threats",
+            "To secure oil fields",
+            "To evacuate personnel"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Besides operational use, what signal would the deployment of the Dark Eagle send to Russia and China?",
+        "a": "That the US is finally able to match a capability they've mastered.",
+        "options": [
+            "That the US seeks peace talks",
+            "That the US is withdrawing from the region",
+            "That the US is finally able to match a capability they've mastered.",
+            "That the US is increasing economic sanctions",
+            "That the US is expanding diplomatic ties"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the vote count in the Supreme Court's ruling that curbed the Voting Rights Act?",
+        "a": "6-3",
+        "options": [
+            "5-4",
+            "7-2",
+            "6-3",
+            "8-1",
+            "9-0"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year was the 15th Amendment, which followed the US Civil War, ratified?",
+        "a": "1870",
+        "options": [
+            "1865",
+            "1875",
+            "1870",
+            "1860",
+            "1880"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately what percentage of Louisiana's population is Black, as mentioned in the context of redistricting?",
+        "a": "Roughly 30%",
+        "options": [
+            "Roughly 25%",
+            "Roughly 35%",
+            "Roughly 30%",
+            "Roughly 28%",
+            "Roughly 32%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many of Louisiana's six House members are African-American?",
+        "a": "Two",
+        "options": [
+            "One",
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to progressive groups, how many congressional districts with primarily Black or Hispanic populations were at risk due to the Supreme Court ruling?",
+        "a": "As many as 19",
+        "options": [
+            "As many as 15",
+            "As many as 20",
+            "As many as 19",
+            "As many as 18",
+            "As many as 21"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who authored the Supreme Court's majority opinion that restricted the use of the Voting Rights Act for creating majority-minority districts?",
+        "a": "Justice Samuel Alito",
+        "options": [
+            "Justice Elena Kagan",
+            "Justice Clarence Thomas",
+            "Justice Samuel Alito",
+            "Justice Stephen Breyer",
+            "Justice John Roberts"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who authored the dissenting opinion stating the ruling rendered the Voting Rights Act 'all but a dead letter'?",
+        "a": "Justice Elena Kagan",
+        "options": [
+            "Justice Samuel Alito",
+            "Justice Sonia Sotomayor",
+            "Justice Elena Kagan",
+            "Justice Ketanji Brown Jackson",
+            "Justice Brett Kavanaugh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which US President's administration supported the challenge to Louisiana's redistricting map?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is mentioned as a digital journalist at Live Mint specializing in international and geopolitical issues?",
+        "a": "Swati Gandhi",
+        "options": [
+            "Gulam Jeelani",
+            "Sugam Singhal",
+            "Swati Gandhi",
+            "Sanchari Ghosh",
+            "Mausam Jha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is identified as the Political Affairs Editor on the Live Mint team?",
+        "a": "Gulam Jeelani",
+        "options": [
+            "Sugam Singhal",
+            "Chanchal",
+            "Gulam Jeelani",
+            "Sanchari Ghosh",
+            "Pratik Prashant Mukane"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which state's election map was at the center of the Supreme Court's ruling on the Voting Rights Act?",
+        "a": "Louisiana",
+        "options": [
+            "Alabama",
+            "Texas",
+            "Louisiana",
+            "Georgia",
+            "Florida"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When is Louisiana's primary election scheduled, as mentioned in the news?",
+        "a": "May 16",
+        "options": [
+            "May 15",
+            "May 17",
+            "May 16",
+            "May 14",
+            "May 18"
         ],
         "cat": "When"
     },
     {
-        "q": "The Home Ministry report stated that DoT's actions covered a general timeframe of how many past years?",
-        "a": "Past two years",
+        "q": "When are the midterm elections scheduled to take place, which Republicans aim to win?",
+        "a": "November",
         "options": [
-            "Past one year",
-            "Past three years",
-            "Past two years",
-            "Past five years",
-            "Past six months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Ajay Pal Sharma was \"brought in\" as the police observer on which day of the week, as per the text?",
-        "a": "Sunday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Sunday",
-            "Saturday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Parmar Smit Parshottamdas join the IPS cadre?",
-        "a": "2017",
-        "options": [
-            "2016",
-            "2018",
-            "2017",
-            "2015",
-            "2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the batch year of IPS officer Ajay Pal Sharma?",
-        "a": "2011",
-        "options": [
-            "2010",
-            "2012",
-            "2011",
-            "2013",
-            "2014"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The sustained action by DoT mentioned in the report began in which month of 2024?",
-        "a": "April",
-        "options": [
-            "March",
-            "May",
-            "April",
-            "June",
-            "July"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The reported sustained action by DoT is stated to conclude in which month of 2025?",
-        "a": "October",
-        "options": [
-            "September",
-            "November",
             "October",
-            "August",
-            "December"
+            "December",
+            "November",
+            "September",
+            "August"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the alleged reason for Ajay Pal Sharma's initial exclusion from the ECI's list of police observers?",
-        "a": "A viral video clip allegedly warning locals",
+        "q": "On what date did the Supreme Court agree with the challenge to Louisiana's redistricting map, as mentioned in the news?",
+        "a": "April 24",
         "options": [
-            "Poor performance record",
-            "Political affiliations",
-            "A viral video clip allegedly warning locals",
-            "Health reasons",
-            "Deployment in another state"
+            "April 23",
+            "April 25",
+            "April 24",
+            "April 22",
+            "April 26"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Since what year has the Voting Rights Act been largely weakened by the US Supreme Court?",
+        "a": "2013",
+        "options": [
+            "2012",
+            "2014",
+            "2013",
+            "2011",
+            "2015"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What did Congress intend Section 2 of the Voting Rights Act to achieve when enacted?",
+        "a": "To bar electoral maps that would result in diluting the clout of minority voters.",
+        "options": [
+            "To establish voter registration drives",
+            "To finance political campaigns",
+            "To bar electoral maps that would result in diluting the clout of minority voters.",
+            "To regulate campaign advertising",
+            "To oversee election security"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the Department of Telecom's action to \"dismantle\" illegal telecom centres?",
-        "a": "To curb illegal telecom activities, including SIM box operations",
+        "q": "What specific right did the 15th Amendment aim to ensure?",
+        "a": "The right to vote is not denied on account of race, color or previous condition of servitude.",
         "options": [
-            "To improve network coverage",
-            "To increase revenue",
-            "To curb illegal telecom activities, including SIM box operations",
-            "To introduce new technologies",
-            "To regulate call tariffs"
+            "The right to free speech",
+            "The right to bear arms",
+            "The right to vote is not denied on account of race, color or previous condition of servitude.",
+            "The right to a fair trial",
+            "The right to privacy"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was Parmar Smit Parshottamdas replaced as a police observer in South 24 Parganas?",
-        "a": "He was replaced by Ajay Pal Sharma.",
+        "q": "According to Bloomberg, why is the Supreme Court's ruling likely to help Republicans?",
+        "a": "Disputed districts like Louisiana tend to vote for Democrats.",
         "options": [
-            "His retirement",
-            "His transfer to another state",
-            "He was replaced by Ajay Pal Sharma",
-            "A promotion",
-            "Unspecified official reasons"
+            "It increases Republican voter turnout",
+            "It simplifies the election process",
+            "Disputed districts like Louisiana tend to vote for Democrats.",
+            "It favors rural areas",
+            "It reduces campaign costs"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Home Ministry submitted a report to the Supreme Court for what purpose related to DoT?",
-        "a": "To detail the dismantling of illegal telecom centres by DoT",
+        "q": "Which regulatory body appointed Care Ratings Ltd. as the Past Risk and Return Verification Agency (PaRRVA)?",
+        "a": "SEBI",
         "options": [
-            "To seek new directives for telecom policy",
-            "To challenge DoT's actions",
-            "To detail the dismantling of illegal telecom centres by DoT",
-            "To report on 5G rollout",
-            "To request funds for infrastructure development"
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "PFRDA",
+            "FSDC"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which agency was appointed by SEBI to function as the Past Risk and Return Verification Agency (PaRRVA)?",
+        "a": "Care Ratings Ltd.",
+        "options": [
+            "CRISIL Ratings Ltd.",
+            "ICRA Ltd.",
+            "CARE Ratings Ltd.",
+            "India Ratings & Research Pvt. Ltd.",
+            "Brickwork Ratings India Pvt. Ltd."
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date did SEBI release the circular announcing the appointment of PaRRVA?",
+        "a": "April 29, 2026",
+        "options": [
+            "April 28, 2026",
+            "April 30, 2026",
+            "April 29, 2026",
+            "April 27, 2026",
+            "May 1, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When will Care Ratings Ltd. (CRL) begin its operations as PaRRVA?",
+        "a": "May 4, 2026",
+        "options": [
+            "May 3, 2026",
+            "May 5, 2026",
+            "May 4, 2026",
+            "May 2, 2026",
+            "May 6, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "By what date must Investment Advisors (IAs) and Research Analysts (RAs) enroll for PaRRVA?",
+        "a": "August 3, 2026",
+        "options": [
+            "August 2, 2026",
+            "August 4, 2026",
+            "August 3, 2026",
+            "August 1, 2026",
+            "August 5, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "After how many years from the date of operationalization of PaRRVA will IAs/RAs be restricted from using past performance data prior to that date?",
+        "a": "Two years",
+        "options": [
+            "One year",
+            "Three years",
+            "Two years",
+            "Six months",
+            "Four years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary function of the newly appointed Past Risk and Return Verification Agency (PaRRVA)?",
+        "a": "To vet Investment advisors and research analysts for their past performance and risk.",
+        "options": [
+            "To regulate stock exchanges",
+            "To manage mutual funds",
+            "To vet Investment advisors and research analysts for their past performance and risk.",
+            "To oversee corporate governance",
+            "To sanction market manipulations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the alleged activity shown in the viral video clip involving Ajay Pal Sharma?",
-        "a": "Warning locals of severe consequences",
+        "q": "Which entities, in addition to Investment Advisors and Research Analysts, will PaRRVA also include for vetting?",
+        "a": "Stock brokers and algorithm traders",
         "options": [
-            "Distributing relief materials",
-            "Conducting a public meeting",
-            "Warning locals of severe consequences",
-            "Investigating a cybercrime",
-            "Supervising election preparations"
+            "Banks and insurance companies",
+            "Mutual fund distributors",
+            "Stock brokers and algorithm traders",
+            "Private equity firms",
+            "Hedge funds"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Department of Telecom specifically targeted what type of illegal operations during its sustained action?",
-        "a": "SIM box operations",
+        "q": "What is the maximum asset size for non-deposit taking NBFCs to be exempted from registration and reserve fund requirements by RBI?",
+        "a": "Less than \u20b91,000 crore",
         "options": [
-            "Illegal data mining",
-            "Network hacking",
-            "SIM box operations",
-            "Call centre fraud",
-            "Bulk SMS spamming"
+            "Less than \u20b9500 crore",
+            "Less than \u20b91,500 crore",
+            "Less than \u20b91,000 crore",
+            "Less than \u20b9900 crore",
+            "Less than \u20b91,100 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which institution has exempted certain non-deposit taking NBFCs from registration and reserve fund requirements?",
+        "a": "RBI",
+        "options": [
+            "SEBI",
+            "IRDAI",
+            "PFRDA",
+            "RBI",
+            "NABARD"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "From when will the RBI's exemption for certain NBFCs become effective?",
+        "a": "July 1, 2026",
+        "options": [
+            "June 1, 2026",
+            "August 1, 2026",
+            "July 1, 2026",
+            "June 15, 2026",
+            "July 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the RBI issue the circular reducing compliance requirements for certain NBFCs?",
+        "a": "April 29, 2026",
+        "options": [
+            "April 28, 2026",
+            "April 30, 2026",
+            "April 29, 2026",
+            "April 27, 2026",
+            "May 1, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the main purpose behind RBI's exemption for certain NBFCs?",
+        "a": "Reducing compliance requirements",
+        "options": [
+            "Increasing liquidity in the market",
+            "Encouraging foreign investment",
+            "Reducing compliance requirements",
+            "Promoting digital transactions",
+            "Strengthening regulatory oversight"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the explicit reason mentioned for Ajay Pal Sharma's non-inclusion in the ECI's initial list?",
-        "a": "His appearance in a viral video clip allegedly warning locals",
+        "q": "Besides asset size, what is another key condition for non-deposit taking NBFCs to qualify for RBI's exemption?",
+        "a": "Not availing public funds",
         "options": [
-            "His transfer request",
-            "Lack of experience",
-            "His appearance in a viral video clip allegedly warning locals",
-            "Being on leave",
-            "Not meeting eligibility criteria"
+            "Being publicly listed",
+            "Having a strong credit rating",
+            "Not availing public funds",
+            "Operating in rural areas",
+            "Focusing on green financing"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was Ajay Pal Sharma appointed as a police observer for four Assembly constituencies in South 24 Parganas?",
-        "a": "To replace Parmar Smit Parshottamdas",
+        "q": "Who delivered a speech in the US Congress, referencing 'A Tale of Two Georges'?",
+        "a": "King Charles III",
         "options": [
-            "To lead a new investigative unit",
-            "To manage local law enforcement agencies",
-            "To replace Parmar Smit Parshottamdas",
-            "To oversee infrastructure projects",
-            "To conduct a special audit"
+            "Queen Elizabeth II",
+            "Prince William",
+            "King Charles III",
+            "Prince Harry",
+            "Prime Minister Rishi Sunak"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the first President referenced by King Charles III in his speech to the US Congress?",
+        "a": "George Washington",
+        "options": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "George Washington",
+            "John Adams",
+            "Franklin D. Roosevelt"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was King Charles III's five-times Great Grandfather, also referenced in his speech?",
+        "a": "King George III",
+        "options": [
+            "King George II",
+            "King George IV",
+            "King George III",
+            "King Edward VII",
+            "Queen Victoria"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the US figure invoked by King Charles III to remind the United States that actions matter more than words?",
+        "a": "Lincoln",
+        "options": [
+            "Jefferson",
+            "Washington",
+            "Lincoln",
+            "Franklin",
+            "Roosevelt"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did King Charles III deliver his historic speech referencing 'A Tale of Two Georges'?",
+        "a": "US Congress",
+        "options": [
+            "White House",
+            "United Nations HQ",
+            "US Congress",
+            "Pentagon",
+            "Smithsonian Museum"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which famous palace was referenced in King Charles III's humorous anecdote about a Member of Parliament 'hostage'?",
+        "a": "Buckingham Palace",
+        "options": [
+            "Windsor Castle",
+            "Kensington Palace",
+            "Buckingham Palace",
+            "Balmoral Castle",
+            "Holyroodhouse"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The news text states King Charles III was visiting Washington for the twentieth time. What was the significance of this particular visit?",
+        "a": "It was his first visit as king.",
+        "options": [
+            "It was his last visit to the US",
+            "It was his first state visit",
+            "It was his first visit as king",
+            "It was his shortest visit",
+            "It was his first time addressing Congress"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary effect of King Charles III's 'Two Georges' line at the beginning of his speech?",
+        "a": "It acknowledged the most awkward truth in Anglo-American history and defused it.",
+        "options": [
+            "It provoked debate",
+            "It introduced a historical inaccuracy",
+            "It acknowledged the most awkward truth in Anglo-American history and defused it.",
+            "It was a call to reclaim colonies",
+            "It praised US economic power"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the objective of the coordination between DoT and local law enforcement agencies?",
-        "a": "To carry out sustained action against illegal telecom centres",
+        "q": "What implicit conclusion did King Charles III convey through his series of jokes and historical references regarding power and institutions?",
+        "a": "Power that refuses limits does not last; institutions that respect limits endure.",
         "options": [
-            "To establish new communication networks",
-            "To conduct a census",
-            "To carry out sustained action against illegal telecom centres",
-            "To provide legal training to police",
-            "To resolve inter-departmental disputes"
+            "Monarchies are inherently superior to republics",
+            "Democracy is only effective with strong central leadership",
+            "Power that refuses limits does not last; institutions that respect limits endure.",
+            "History is irrelevant to modern governance",
+            "Economic strength is the sole determinant of institutional survival"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the specific subject of the viral video clip involving Ajay Pal Sharma that led to his initial non-inclusion?",
-        "a": "Allegedly warning locals of severe consequences for not revealing whereabouts of a candidate",
+        "q": "King Charles III's joke about the British parliamentary tradition of holding an MP 'hostage' served as a lesson in what?",
+        "a": "Institutional theatre.",
         "options": [
-            "A public awareness campaign, A routine police drill, Allegedly warning locals of severe consequences for not revealing whereabouts of a candidate, An award ceremony, A sports event"
+            "Modern security protocols",
+            "Royal family traditions",
+            "Institutional theatre.",
+            "Economic policy-making",
+            "International diplomacy"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Dark Eagle hypersonic missile is designed to glide to its target at what speed?",
+        "a": "More than five times the speed of sound",
+        "options": [
+            "More than two times the speed of sound",
+            "More than three times the speed of sound",
+            "More than five times the speed of sound",
+            "More than six times the speed of sound",
+            "More than four times the speed of sound"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which news agency quoted legal experts stating some states are likely to enact new electoral maps?",
+        "a": "Reuters",
+        "options": [
+            "Bloomberg",
+            "NBC",
+            "Associated Press",
+            "Reuters",
+            "The New York Times"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The US Supreme Court ruling on April 24, 2026, on Louisiana's redistricting map was seen as strengthening the efforts of which political party?",
+        "a": "Republican",
+        "options": [
+            "Democratic",
+            "Independent",
+            "Republican",
+            "Green",
+            "Libertarian"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific type of missile was the Dark Eagle designed to fight against?",
+        "a": "Chinese or Russian advanced air defenses",
+        "options": [
+            "Ballistic missiles",
+            "Cruise missiles",
+            "Chinese or Russian advanced air defenses",
+            "Submarine-launched missiles",
+            "Anti-tank missiles"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court's 6-3 ruling on the Voting Rights Act effectively struck down an electoral map that gave power to whom?",
+        "a": "Minority voters",
+        "options": [
+            "Majority voters",
+            "Rural voters",
+            "Minority voters",
+            "Independent voters",
+            "Republican voters"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the common name for the Long-Range Hypersonic Weapon (LRHW)?",
+        "a": "Dark Eagle",
+        "options": [
+            "Precision Strike Missile",
+            "JASSM-ER",
+            "Dark Eagle",
+            "Thunderbolt",
+            "Sky Serpent"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What specific aspect of the Voting Rights Act did the Supreme Court's decision announced Wednesday weaken?",
+        "a": "Section 2",
+        "options": [
+            "Section 1",
+            "Section 3",
+            "Section 2",
+            "Section 4",
+            "Section 5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Indian city is often mentioned in Livemint's national news coverage, alongside Delhi and Mumbai?",
+        "a": "Bengaluru",
+        "options": [
+            "Kolkata",
+            "Chennai",
+            "Bengaluru",
+            "Hyderabad",
+            "Ahmedabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The US has transferred most of its supplies of which stealthy cruise missile to the Iran conflict?",
+        "a": "JASSM-ER",
+        "options": [
+            "Tomahawk",
+            "Harpoon",
+            "JASSM-ER",
+            "Storm Shadow",
+            "Scalp EG"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Supreme Court kept which section of the Voting Rights Act intact, despite weakening it?",
+        "a": "Section 2",
+        "options": [
+            "Section 1",
+            "Section 3",
+            "Section 2",
+            "Section 4",
+            "Section 5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What did Justice Alito write that Section 2 of the Voting Rights Act must now focus on enforcing?",
+        "a": "The Constitution's prohibition on intentional racial discrimination under the 15th Amendment",
+        "options": [
+            "The equal protection clause of the 14th Amendment",
+            "The Constitution's prohibition on intentional racial discrimination under the 15th Amendment",
+            "The regulation of federal elections",
+            "The rights of states to draw their own maps",
+            "The principle of 'one person, one vote'"
         ],
         "cat": "Why"
     }
