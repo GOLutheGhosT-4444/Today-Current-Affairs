@@ -1,817 +1,721 @@
 [
     {
-        "q": "What is the reported range of the US Dark Eagle hypersonic missile?",
-        "a": "More than 1,725 miles",
+        "q": "What is the total outlay for the Incentive Scheme for Promotion of Critical Mineral Recycling?",
+        "a": "\u20b91,500 crore",
         "options": [
-            "More than 1,700 miles",
-            "More than 1,750 miles",
-            "More than 1,725 miles",
-            "More than 1,600 miles",
-            "More than 1,800 miles"
+            "\u20b91,490 crore",
+            "\u20b91,510 crore",
+            "\u20b91,500 crore",
+            "\u20b91,505 crore",
+            "\u20b91,495 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the reported range of the US Precision Strike Missile?",
-        "a": "More than 300 miles",
+        "q": "How many companies have been declared eligible by the Ministry of Mines for the Critical Mineral Recycling incentive scheme?",
+        "a": "58",
         "options": [
-            "More than 250 miles",
-            "More than 350 miles",
-            "More than 300 miles",
-            "More than 280 miles",
-            "More than 320 miles"
+            "57",
+            "59",
+            "58",
+            "56",
+            "60"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate cost of each Lockheed Martin Corp. Dark Eagle missile?",
-        "a": "$15 million",
+        "q": "The PIL alleging banking fraud by ADAG firms mentioned alleged loan frauds exceeding what specific amount?",
+        "a": "\u20b940,000 crore",
         "options": [
-            "$15.5 million",
-            "$14.5 million",
-            "$15 million",
-            "$14.8 million",
-            "$15.2 million"
+            "\u20b939,900 crore",
+            "\u20b940,100 crore",
+            "\u20b940,000 crore",
+            "\u20b939,950 crore",
+            "\u20b940,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to the Government Accountability Office, what is the approximate cost of each Dark Eagle battery?",
-        "a": "$2.7 billion",
+        "q": "The Supreme Court's observation on amending abortion law involved a minor rape survivor of what age?",
+        "a": "15 years",
         "options": [
-            "$2.5 billion",
-            "$2.8 billion",
-            "$2.7 billion",
-            "$2.65 billion",
-            "$2.75 billion"
+            "16 years",
+            "14 years",
+            "15 years",
+            "13 years",
+            "17 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Dark Eagle missiles are reportedly in existence?",
-        "a": "No more than eight",
+        "q": "A 15-year-old rape survivor was allowed to terminate a pregnancy of how many weeks by a recent top court decision?",
+        "a": "30 weeks",
         "options": [
-            "No more than six",
-            "No more than ten",
-            "No more than eight",
-            "No more than seven",
-            "No more than nine"
+            "29 weeks",
+            "31 weeks",
+            "30 weeks",
+            "28 weeks",
+            "32 weeks"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many JASSM-ER cruise missiles have been fired so far in the conflict mentioned?",
-        "a": "1,100",
+        "q": "The Integrated Satellite Township project in Bengaluru South district is estimated to be implemented at what cost?",
+        "a": "\u20b918,133 crore",
         "options": [
-            "1,050",
-            "1,150",
-            "1,100",
-            "1,080",
-            "1,120"
+            "\u20b918,123 crore",
+            "\u20b918,143 crore",
+            "\u20b918,133 crore",
+            "\u20b918,130 crore",
+            "\u20b918,135 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which US entity has asked to send the Dark Eagle hypersonic missile to the Middle East?",
-        "a": "US Central Command",
+        "q": "What is the total bank guarantee amount agreed upon by the Cabinet for the Bengaluru Integrated Satellite Township project?",
+        "a": "\u20b97,500 crore",
         "options": [
-            "US Indo-Pacific Command",
-            "US European Command",
-            "US Central Command",
-            "US Northern Command",
-            "US Special Operations Command"
+            "\u20b97,490 crore",
+            "\u20b97,510 crore",
+            "\u20b97,500 crore",
+            "\u20b97,495 crore",
+            "\u20b97,505 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Bengaluru Integrated Satellite Township project will require the acquisition of how many acres of land?",
+        "a": "7,404 acres",
+        "options": [
+            "7,394 acres",
+            "7,414 acres",
+            "7,404 acres",
+            "7,400 acres",
+            "7,408 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Land acquisition for the Bengaluru Integrated Satellite Township project will cover how many villages in Ramanagara taluk?",
+        "a": "Nine",
+        "options": [
+            "Eight",
+            "Ten",
+            "Nine",
+            "Seven",
+            "Eleven"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Incentive Scheme for Promotion of Critical Mineral Recycling is worth how many crores?",
+        "a": "\u20b91,500 crore",
+        "options": [
+            "\u20b91,490 crore",
+            "\u20b91,510 crore",
+            "\u20b91,500 crore",
+            "\u20b91,505 crore",
+            "\u20b91,495 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many entities were deemed eligible for the critical mineral recycling scheme by the Ministry of Mines?",
+        "a": "58",
+        "options": [
+            "57",
+            "59",
+            "58",
+            "56",
+            "60"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The PIL against ADAG firms sought investigation into alleged loan frauds worth what amount?",
+        "a": "\u20b940,000 crore",
+        "options": [
+            "\u20b939,900 crore",
+            "\u20b940,100 crore",
+            "\u20b940,000 crore",
+            "\u20b939,950 crore",
+            "\u20b940,050 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the specific age of the minor rape victim involved in the Supreme Court's discussion on abortion law amendment?",
+        "a": "15 years",
+        "options": [
+            "16 years",
+            "14 years",
+            "15 years",
+            "13 years",
+            "17 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Supreme Court declined a curative petition regarding the termination of a pregnancy of how many weeks?",
+        "a": "30 weeks",
+        "options": [
+            "29 weeks",
+            "31 weeks",
+            "30 weeks",
+            "28 weeks",
+            "32 weeks"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The capital expenditure for the Integrated Satellite Township project in Bengaluru is pegged at what amount?",
+        "a": "\u20b918,133 crore",
+        "options": [
+            "\u20b918,123 crore",
+            "\u20b918,143 crore",
+            "\u20b918,133 crore",
+            "\u20b918,130 crore",
+            "\u20b918,135 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What sum did the Cabinet agree to provide as a bank guarantee for the Bengaluru Integrated Satellite Township project?",
+        "a": "\u20b97,500 crore",
+        "options": [
+            "\u20b97,490 crore",
+            "\u20b97,510 crore",
+            "\u20b97,500 crore",
+            "\u20b97,495 crore",
+            "\u20b97,505 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many acres of land are to be acquired for the Integrated Satellite Township project in Bengaluru South district?",
+        "a": "7,404 acres",
+        "options": [
+            "7,394 acres",
+            "7,414 acres",
+            "7,404 acres",
+            "7,400 acres",
+            "7,408 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In how many distinct villages of Ramanagara taluk will land be acquired for the Bengaluru Integrated Satellite Township project?",
+        "a": "Nine",
+        "options": [
+            "Eight",
+            "Ten",
+            "Nine",
+            "Seven",
+            "Eleven"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The incentive scheme for critical mineral recycling is designed to augment recycling capacity for separation and production of critical minerals from secondary sources, and is valued at what amount?",
+        "a": "\u20b91,500 crore",
+        "options": [
+            "\u20b91,490 crore",
+            "\u20b91,510 crore",
+            "\u20b91,500 crore",
+            "\u20b91,505 crore",
+            "\u20b91,495 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Out of the numerous applicants, how many companies received eligibility to participate in the critical mineral recycling scheme?",
+        "a": "58",
+        "options": [
+            "57",
+            "59",
+            "58",
+            "56",
+            "60"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Former bureaucrat E.A.S Sarma filed a PIL seeking investigation into alleged loan frauds exceeding how much by ADAG firms?",
+        "a": "\u20b940,000 crore",
+        "options": [
+            "\u20b939,900 crore",
+            "\u20b940,100 crore",
+            "\u20b940,000 crore",
+            "\u20b939,950 crore",
+            "\u20b940,050 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Supreme Court was approached with a curative petition concerning a 15-year-old rape survivor's pregnancy which was how many weeks along?",
+        "a": "30 weeks",
+        "options": [
+            "29 weeks",
+            "31 weeks",
+            "30 weeks",
+            "28 weeks",
+            "32 weeks"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The State government approved the Integrated Satellite Township project in Bengaluru, which has an overall cost of what amount?",
+        "a": "\u20b918,133 crore",
+        "options": [
+            "\u20b918,123 crore",
+            "\u20b918,143 crore",
+            "\u20b918,133 crore",
+            "\u20b918,130 crore",
+            "\u20b918,135 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "To support the Integrated Satellite Township project, what specific value of bank guarantee was approved by the Cabinet?",
+        "a": "\u20b97,500 crore",
+        "options": [
+            "\u20b97,490 crore",
+            "\u20b97,510 crore",
+            "\u20b97,500 crore",
+            "\u20b97,495 crore",
+            "\u20b97,505 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many villages in Ramanagara taluk are slated for land acquisition as part of the Bengaluru Integrated Satellite Township project?",
+        "a": "Nine",
+        "options": [
+            "Eight",
+            "Ten",
+            "Nine",
+            "Seven",
+            "Eleven"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the exact value of the incentive scheme for promoting critical mineral recycling?",
+        "a": "\u20b91,500 crore",
+        "options": [
+            "\u20b91,490 crore",
+            "\u20b91,510 crore",
+            "\u20b91,500 crore",
+            "\u20b91,505 crore",
+            "\u20b91,495 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "A PIL sought a court-monitored investigation into alleged loan frauds by ADAG firms amounting to more than what figure?",
+        "a": "\u20b940,000 crore",
+        "options": [
+            "\u20b939,900 crore",
+            "\u20b940,100 crore",
+            "\u20b940,000 crore",
+            "\u20b939,950 crore",
+            "\u20b940,050 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Ministry informed about the eligibility of 58 companies for the Incentive Scheme for Promotion of Critical Mineral Recycling?",
+        "a": "Ministry of Mines",
+        "options": [
+            "Ministry of Environment",
+            "Ministry of Steel",
+            "Ministry of Mines",
+            "Ministry of Commerce",
+            "Ministry of Heavy Industries"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company manufactures the Dark Eagle hypersonic missile?",
-        "a": "Lockheed Martin Corp.",
+        "q": "Who filed the PIL alleging large-scale banking fraud involving ADAG and its firms?",
+        "a": "E.A.S Sarma",
         "options": [
-            "Boeing",
-            "Raytheon Technologies",
-            "Lockheed Martin Corp.",
-            "Northrop Grumman",
-            "General Dynamics"
+            "Anil Ambani",
+            "Surya Kant",
+            "E.A.S Sarma",
+            "Joymalya Bagchi",
+            "N. Biren Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is identified as Bloomberg Economics Defense Lead in the news text?",
-        "a": "Becca Wasser",
+        "q": "Who were the members of the Supreme Court Bench hearing the PIL on ADAG alleged banking fraud?",
+        "a": "Chief Justice Surya Kant and Justice Joymalya Bagchi",
         "options": [
-            "Tony Capaccio",
-            "Becca Wasser",
-            "Donald Trump",
-            "Samuel Alito",
-            "Elena Kagan"
+            "Chief Justice D.Y. Chandrachud and Justice P.S. Narasimha",
+            "Chief Justice Surya Kant and Justice Joymalya Bagchi",
+            "Justice Sanjiv Khanna and Justice B.R. Gavai",
+            "Chief Justice U.U. Lalit and Justice S. Ravindra Bhat",
+            "Justice Hima Kohli and Justice Bela M. Trivedi"
         ],
         "cat": "Who"
     },
     {
-        "q": "To which region has US Central Command asked to send the Dark Eagle hypersonic missile?",
-        "a": "Middle East",
+        "q": "Which group and its firms are primarily accused in the PIL alleging large-scale banking fraud?",
+        "a": "Anil Dhirubhai Ambani Group (ADAG)",
         "options": [
-            "Europe",
-            "Asia-Pacific",
-            "Middle East",
-            "Africa",
-            "South America"
+            "Tata Group",
+            "Reliance Industries",
+            "Anil Dhirubhai Ambani Group (ADAG)",
+            "Essar Group",
+            "Adani Group"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Supreme Court asked which entity to amend the abortion law to remove the time limit for minor rape victims?",
+        "a": "Union government",
+        "options": [
+            "State governments",
+            "Ministry of Health",
+            "Union government",
+            "Medical Council of India",
+            "Parliament"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who were the Justices on the Bench that made observations regarding the amendment of the abortion law?",
+        "a": "Chief Justice of India Surya Kant and Joymalya Bagchi",
+        "options": [
+            "Justice D.Y. Chandrachud and Justice Hima Kohli",
+            "Justice Sanjiv Khanna and Justice B.R. Gavai",
+            "Chief Justice of India Surya Kant and Joymalya Bagchi",
+            "Justice J.B. Pardiwala and Justice Manoj Misra",
+            "Justice Bela M. Trivedi and Justice Vikram Nath"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which NGO was directed by the Supreme Court to hand over the leaked audio tapes regarding ethnic violence in Manipur?",
+        "a": "Kuki Organisation for Human Rights",
+        "options": [
+            "Naga Peoples' Movement",
+            "Meitei Youth Front",
+            "Kuki Organisation for Human Rights",
+            "Human Rights Watch India",
+            "Indigenous Tribal Leaders' Forum"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the former Chief Minister of Manipur allegedly implicated in orchestrating or inciting ethnic violence, according to leaked audio tapes?",
+        "a": "N. Biren Singh",
+        "options": [
+            "Okram Ibobi Singh",
+            "Rishang Keishing",
+            "N. Biren Singh",
+            "Radhabinod Koijam",
+            "W. Nipamacha Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which government body gave in-principle approval to the Integrated Satellite Township project in Bengaluru South district?",
+        "a": "The State government",
+        "options": [
+            "Central Government",
+            "Local Municipal Corporation",
+            "The State government",
+            "Ministry of Urban Development",
+            "Bengaluru Development Authority"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which entity agreed to provide a bank guarantee for the Integrated Satellite Township project in Bengaluru?",
+        "a": "The Cabinet",
+        "options": [
+            "The Chief Minister's Office",
+            "The Finance Ministry",
+            "The Cabinet",
+            "The Governor's Office",
+            "The Legislative Assembly"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Apart from Chief Justice Surya Kant, who else was part of the Bench hearing the PIL on ADAG fraud?",
+        "a": "Justice Joymalya Bagchi",
+        "options": [
+            "Justice D.Y. Chandrachud",
+            "Justice Sanjiv Khanna",
+            "Justice Joymalya Bagchi",
+            "Justice P.S. Narasimha",
+            "Justice Hima Kohli"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who else was on the Bench with Chief Justice of India Surya Kant when the observation on amending abortion law was made?",
+        "a": "Joymalya Bagchi",
+        "options": [
+            "D.Y. Chandrachud",
+            "Joymalya Bagchi",
+            "Sanjiv Khanna",
+            "B.R. Gavai",
+            "Hima Kohli"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the hearing on the PIL alleging banking fraud by ADAG firms deferred by the Supreme Court?",
+        "a": "Supreme Court",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Supreme Court",
+            "National Company Law Tribunal",
+            "Parliament House"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Dark Eagle hypersonic missile is sought for possible use against which country?",
-        "a": "Iran",
+        "q": "The Supreme Court made observations about amending the abortion law for minor rape victims in which country?",
+        "a": "India",
         "options": [
-            "Syria",
-            "Iraq",
-            "Iran",
-            "Yemen",
-            "Afghanistan"
+            "USA",
+            "UK",
+            "Canada",
+            "India",
+            "Australia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Since when has a ceasefire been in place between the US and Iran, as per the news?",
-        "a": "April 9",
+        "q": "To which specific lab was the Kuki Organisation for Human Rights directed to hand over the leaked audio tapes for forensic analysis?",
+        "a": "National forensic lab",
         "options": [
-            "April 8",
-            "April 10",
-            "April 9",
-            "April 11",
-            "April 7"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is a primary stated purpose for deploying the Dark Eagle hypersonic missile to the Middle East?",
-        "a": "To hit ballistic-missile launchers deep inside the country.",
-        "options": [
-            "To conduct reconnaissance missions",
-            "To provide air support for ground troops",
-            "To hit ballistic-missile launchers deep inside the country.",
-            "To defend against drone attacks",
-            "To protect shipping lanes"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the justification for seeking a longer-range missile system like Dark Eagle?",
-        "a": "Iran has moved its launchers out of range of the Precision Strike Missile.",
-        "options": [
-            "To enhance surveillance capabilities",
-            "Iran has moved its launchers out of range of the Precision Strike Missile.",
-            "To counter cyber threats",
-            "To secure oil fields",
-            "To evacuate personnel"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Besides operational use, what signal would the deployment of the Dark Eagle send to Russia and China?",
-        "a": "That the US is finally able to match a capability they've mastered.",
-        "options": [
-            "That the US seeks peace talks",
-            "That the US is withdrawing from the region",
-            "That the US is finally able to match a capability they've mastered.",
-            "That the US is increasing economic sanctions",
-            "That the US is expanding diplomatic ties"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the vote count in the Supreme Court's ruling that curbed the Voting Rights Act?",
-        "a": "6-3",
-        "options": [
-            "5-4",
-            "7-2",
-            "6-3",
-            "8-1",
-            "9-0"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year was the 15th Amendment, which followed the US Civil War, ratified?",
-        "a": "1870",
-        "options": [
-            "1865",
-            "1875",
-            "1870",
-            "1860",
-            "1880"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately what percentage of Louisiana's population is Black, as mentioned in the context of redistricting?",
-        "a": "Roughly 30%",
-        "options": [
-            "Roughly 25%",
-            "Roughly 35%",
-            "Roughly 30%",
-            "Roughly 28%",
-            "Roughly 32%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many of Louisiana's six House members are African-American?",
-        "a": "Two",
-        "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "According to progressive groups, how many congressional districts with primarily Black or Hispanic populations were at risk due to the Supreme Court ruling?",
-        "a": "As many as 19",
-        "options": [
-            "As many as 15",
-            "As many as 20",
-            "As many as 19",
-            "As many as 18",
-            "As many as 21"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who authored the Supreme Court's majority opinion that restricted the use of the Voting Rights Act for creating majority-minority districts?",
-        "a": "Justice Samuel Alito",
-        "options": [
-            "Justice Elena Kagan",
-            "Justice Clarence Thomas",
-            "Justice Samuel Alito",
-            "Justice Stephen Breyer",
-            "Justice John Roberts"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who authored the dissenting opinion stating the ruling rendered the Voting Rights Act 'all but a dead letter'?",
-        "a": "Justice Elena Kagan",
-        "options": [
-            "Justice Samuel Alito",
-            "Justice Sonia Sotomayor",
-            "Justice Elena Kagan",
-            "Justice Ketanji Brown Jackson",
-            "Justice Brett Kavanaugh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which US President's administration supported the challenge to Louisiana's redistricting map?",
-        "a": "Donald Trump",
-        "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is mentioned as a digital journalist at Live Mint specializing in international and geopolitical issues?",
-        "a": "Swati Gandhi",
-        "options": [
-            "Gulam Jeelani",
-            "Sugam Singhal",
-            "Swati Gandhi",
-            "Sanchari Ghosh",
-            "Mausam Jha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is identified as the Political Affairs Editor on the Live Mint team?",
-        "a": "Gulam Jeelani",
-        "options": [
-            "Sugam Singhal",
-            "Chanchal",
-            "Gulam Jeelani",
-            "Sanchari Ghosh",
-            "Pratik Prashant Mukane"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which state's election map was at the center of the Supreme Court's ruling on the Voting Rights Act?",
-        "a": "Louisiana",
-        "options": [
-            "Alabama",
-            "Texas",
-            "Louisiana",
-            "Georgia",
-            "Florida"
+            "State Forensic Lab",
+            "CBI Forensic Lab",
+            "National forensic lab",
+            "Private Forensic Agency",
+            "NIA Forensic Division"
         ],
         "cat": "Where"
     },
     {
-        "q": "When is Louisiana's primary election scheduled, as mentioned in the news?",
-        "a": "May 16",
+        "q": "The alleged ethnic violence, in which N. Biren Singh is implicated by leaked audio tapes, occurred in which Indian state?",
+        "a": "Manipur",
         "options": [
+            "Nagaland",
+            "Assam",
+            "Manipur",
+            "Mizoram",
+            "Meghalaya"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Integrated Satellite Township project, with its significant cost and land acquisition, is located in which district of Bengaluru?",
+        "a": "Bengaluru South district",
+        "options": [
+            "Bengaluru North district",
+            "Bengaluru Urban district",
+            "Bengaluru South district",
+            "Bengaluru Rural district",
+            "Ramnagar district"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The land acquisition for the Integrated Satellite Township project in Bengaluru involves nine villages in which specific taluk?",
+        "a": "Ramanagara taluk",
+        "options": [
+            "Kanakapura taluk",
+            "Magadi taluk",
+            "Ramanagara taluk",
+            "Channapatna taluk",
+            "Harohalli taluk"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The hearing on the PIL alleging banking fraud by ADAG firms was deferred in which judicial body?",
+        "a": "Supreme Court",
+        "options": [
+            "High Court of Delhi",
+            "National Green Tribunal",
+            "Supreme Court",
+            "Economic Offences Court",
+            "Central Administrative Tribunal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The direction to amend the abortion law to remove the time limit on medical termination of unwanted pregnancies was issued by which apex court?",
+        "a": "Supreme Court of India",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Supreme Court of India",
+            "Calcutta High Court",
+            "Madras High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Integrated Satellite Township project is planned for Bengaluru, specifically within which broad geographical subdivision?",
+        "a": "Bengaluru South district",
+        "options": [
+            "Bengaluru North district",
+            "Bengaluru Central district",
+            "Bengaluru South district",
+            "Bengaluru East district",
+            "Bengaluru West district"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "To what specific date was the Supreme Court hearing on the PIL alleging ADAG banking fraud deferred?",
+        "a": "May 8",
+        "options": [
+            "May 1",
             "May 15",
-            "May 17",
-            "May 16",
-            "May 14",
-            "May 18"
+            "May 8",
+            "April 30",
+            "June 1"
         ],
         "cat": "When"
     },
     {
-        "q": "When are the midterm elections scheduled to take place, which Republicans aim to win?",
-        "a": "November",
+        "q": "On what specific date did the Supreme Court ask the Union government to amend the abortion law?",
+        "a": "April 30, 2026",
         "options": [
-            "October",
-            "December",
-            "November",
-            "September",
-            "August"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Supreme Court agree with the challenge to Louisiana's redistricting map, as mentioned in the news?",
-        "a": "April 24",
-        "options": [
-            "April 23",
-            "April 25",
-            "April 24",
-            "April 22",
-            "April 26"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Since what year has the Voting Rights Act been largely weakened by the US Supreme Court?",
-        "a": "2013",
-        "options": [
-            "2012",
-            "2014",
-            "2013",
-            "2011",
-            "2015"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What did Congress intend Section 2 of the Voting Rights Act to achieve when enacted?",
-        "a": "To bar electoral maps that would result in diluting the clout of minority voters.",
-        "options": [
-            "To establish voter registration drives",
-            "To finance political campaigns",
-            "To bar electoral maps that would result in diluting the clout of minority voters.",
-            "To regulate campaign advertising",
-            "To oversee election security"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific right did the 15th Amendment aim to ensure?",
-        "a": "The right to vote is not denied on account of race, color or previous condition of servitude.",
-        "options": [
-            "The right to free speech",
-            "The right to bear arms",
-            "The right to vote is not denied on account of race, color or previous condition of servitude.",
-            "The right to a fair trial",
-            "The right to privacy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Bloomberg, why is the Supreme Court's ruling likely to help Republicans?",
-        "a": "Disputed districts like Louisiana tend to vote for Democrats.",
-        "options": [
-            "It increases Republican voter turnout",
-            "It simplifies the election process",
-            "Disputed districts like Louisiana tend to vote for Democrats.",
-            "It favors rural areas",
-            "It reduces campaign costs"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which regulatory body appointed Care Ratings Ltd. as the Past Risk and Return Verification Agency (PaRRVA)?",
-        "a": "SEBI",
-        "options": [
-            "RBI",
-            "IRDAI",
-            "SEBI",
-            "PFRDA",
-            "FSDC"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which agency was appointed by SEBI to function as the Past Risk and Return Verification Agency (PaRRVA)?",
-        "a": "Care Ratings Ltd.",
-        "options": [
-            "CRISIL Ratings Ltd.",
-            "ICRA Ltd.",
-            "CARE Ratings Ltd.",
-            "India Ratings & Research Pvt. Ltd.",
-            "Brickwork Ratings India Pvt. Ltd."
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date did SEBI release the circular announcing the appointment of PaRRVA?",
-        "a": "April 29, 2026",
-        "options": [
-            "April 28, 2026",
-            "April 30, 2026",
             "April 29, 2026",
-            "April 27, 2026",
-            "May 1, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When will Care Ratings Ltd. (CRL) begin its operations as PaRRVA?",
-        "a": "May 4, 2026",
-        "options": [
-            "May 3, 2026",
-            "May 5, 2026",
-            "May 4, 2026",
-            "May 2, 2026",
-            "May 6, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "By what date must Investment Advisors (IAs) and Research Analysts (RAs) enroll for PaRRVA?",
-        "a": "August 3, 2026",
-        "options": [
-            "August 2, 2026",
-            "August 4, 2026",
-            "August 3, 2026",
-            "August 1, 2026",
-            "August 5, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "After how many years from the date of operationalization of PaRRVA will IAs/RAs be restricted from using past performance data prior to that date?",
-        "a": "Two years",
-        "options": [
-            "One year",
-            "Three years",
-            "Two years",
-            "Six months",
-            "Four years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary function of the newly appointed Past Risk and Return Verification Agency (PaRRVA)?",
-        "a": "To vet Investment advisors and research analysts for their past performance and risk.",
-        "options": [
-            "To regulate stock exchanges",
-            "To manage mutual funds",
-            "To vet Investment advisors and research analysts for their past performance and risk.",
-            "To oversee corporate governance",
-            "To sanction market manipulations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which entities, in addition to Investment Advisors and Research Analysts, will PaRRVA also include for vetting?",
-        "a": "Stock brokers and algorithm traders",
-        "options": [
-            "Banks and insurance companies",
-            "Mutual fund distributors",
-            "Stock brokers and algorithm traders",
-            "Private equity firms",
-            "Hedge funds"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the maximum asset size for non-deposit taking NBFCs to be exempted from registration and reserve fund requirements by RBI?",
-        "a": "Less than \u20b91,000 crore",
-        "options": [
-            "Less than \u20b9500 crore",
-            "Less than \u20b91,500 crore",
-            "Less than \u20b91,000 crore",
-            "Less than \u20b9900 crore",
-            "Less than \u20b91,100 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which institution has exempted certain non-deposit taking NBFCs from registration and reserve fund requirements?",
-        "a": "RBI",
-        "options": [
-            "SEBI",
-            "IRDAI",
-            "PFRDA",
-            "RBI",
-            "NABARD"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "From when will the RBI's exemption for certain NBFCs become effective?",
-        "a": "July 1, 2026",
-        "options": [
-            "June 1, 2026",
-            "August 1, 2026",
-            "July 1, 2026",
-            "June 15, 2026",
-            "July 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the RBI issue the circular reducing compliance requirements for certain NBFCs?",
-        "a": "April 29, 2026",
-        "options": [
-            "April 28, 2026",
             "April 30, 2026",
+            "May 1, 2026",
+            "March 30, 2026",
+            "April 28, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Supreme Court direct the Kuki Organisation for Human Rights to hand over the leaked audio tapes concerning Manipur violence?",
+        "a": "April 30, 2026",
+        "options": [
             "April 29, 2026",
-            "April 27, 2026",
-            "May 1, 2026"
+            "April 30, 2026",
+            "May 1, 2026",
+            "March 30, 2026",
+            "April 28, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the main purpose behind RBI's exemption for certain NBFCs?",
-        "a": "Reducing compliance requirements",
+        "q": "The ethnic violence in Manipur, which allegedly implicates former CM N. Biren Singh, occurred during which period?",
+        "a": "2023\u20132024",
         "options": [
-            "Increasing liquidity in the market",
-            "Encouraging foreign investment",
-            "Reducing compliance requirements",
-            "Promoting digital transactions",
-            "Strengthening regulatory oversight"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Besides asset size, what is another key condition for non-deposit taking NBFCs to qualify for RBI's exemption?",
-        "a": "Not availing public funds",
-        "options": [
-            "Being publicly listed",
-            "Having a strong credit rating",
-            "Not availing public funds",
-            "Operating in rural areas",
-            "Focusing on green financing"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who delivered a speech in the US Congress, referencing 'A Tale of Two Georges'?",
-        "a": "King Charles III",
-        "options": [
-            "Queen Elizabeth II",
-            "Prince William",
-            "King Charles III",
-            "Prince Harry",
-            "Prime Minister Rishi Sunak"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the first President referenced by King Charles III in his speech to the US Congress?",
-        "a": "George Washington",
-        "options": [
-            "Thomas Jefferson",
-            "Abraham Lincoln",
-            "George Washington",
-            "John Adams",
-            "Franklin D. Roosevelt"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was King Charles III's five-times Great Grandfather, also referenced in his speech?",
-        "a": "King George III",
-        "options": [
-            "King George II",
-            "King George IV",
-            "King George III",
-            "King Edward VII",
-            "Queen Victoria"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the US figure invoked by King Charles III to remind the United States that actions matter more than words?",
-        "a": "Lincoln",
-        "options": [
-            "Jefferson",
-            "Washington",
-            "Lincoln",
-            "Franklin",
-            "Roosevelt"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where did King Charles III deliver his historic speech referencing 'A Tale of Two Georges'?",
-        "a": "US Congress",
-        "options": [
-            "White House",
-            "United Nations HQ",
-            "US Congress",
-            "Pentagon",
-            "Smithsonian Museum"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which famous palace was referenced in King Charles III's humorous anecdote about a Member of Parliament 'hostage'?",
-        "a": "Buckingham Palace",
-        "options": [
-            "Windsor Castle",
-            "Kensington Palace",
-            "Buckingham Palace",
-            "Balmoral Castle",
-            "Holyroodhouse"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The news text states King Charles III was visiting Washington for the twentieth time. What was the significance of this particular visit?",
-        "a": "It was his first visit as king.",
-        "options": [
-            "It was his last visit to the US",
-            "It was his first state visit",
-            "It was his first visit as king",
-            "It was his shortest visit",
-            "It was his first time addressing Congress"
+            "2022\u20132023",
+            "2023\u20132024",
+            "2021\u20132022",
+            "2024\u20132025",
+            "2020\u20132021"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary effect of King Charles III's 'Two Georges' line at the beginning of his speech?",
-        "a": "It acknowledged the most awkward truth in Anglo-American history and defused it.",
+        "q": "The State government gave in-principle approval to the Bengaluru Integrated Satellite Township project on which day?",
+        "a": "Thursday",
         "options": [
-            "It provoked debate",
-            "It introduced a historical inaccuracy",
-            "It acknowledged the most awkward truth in Anglo-American history and defused it.",
-            "It was a call to reclaim colonies",
-            "It praised US economic power"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what day did the Cabinet agree to provide a bank guarantee for the Bengaluru Integrated Satellite Township project?",
+        "a": "Thursday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the Incentive Scheme for Promotion of Critical Mineral Recycling?",
+        "a": "Augmenting recycling capacity for separation and production of critical minerals from secondary sources",
+        "options": [
+            "Promoting new mining projects for critical minerals",
+            "Subsidizing import of critical minerals",
+            "Augmenting recycling capacity for separation and production of critical minerals from secondary sources",
+            "Funding research into alternative materials",
+            "Regulating the export of critical minerals"
         ],
         "cat": "Why"
     },
     {
-        "q": "What implicit conclusion did King Charles III convey through his series of jokes and historical references regarding power and institutions?",
-        "a": "Power that refuses limits does not last; institutions that respect limits endure.",
+        "q": "What was the reason for E.A.S Sarma filing a PIL against ADAG and its firms?",
+        "a": "Alleging large-scale banking fraud involving ADAG and its firms",
         "options": [
-            "Monarchies are inherently superior to republics",
-            "Democracy is only effective with strong central leadership",
-            "Power that refuses limits does not last; institutions that respect limits endure.",
-            "History is irrelevant to modern governance",
-            "Economic strength is the sole determinant of institutional survival"
+            "To commend ADAG's financial performance",
+            "Alleging large-scale banking fraud involving ADAG and its firms",
+            "Seeking details on ADAG's CSR activities",
+            "To challenge ADAG's infrastructure projects",
+            "Demanding an audit of ADAG's overseas investments"
         ],
         "cat": "Why"
     },
     {
-        "q": "King Charles III's joke about the British parliamentary tradition of holding an MP 'hostage' served as a lesson in what?",
-        "a": "Institutional theatre.",
+        "q": "Why did the Supreme Court ask the Union government to amend the abortion law?",
+        "a": "To remove the time limit on medical termination of unwanted pregnancies in the case of minor rape victims",
         "options": [
-            "Modern security protocols",
-            "Royal family traditions",
-            "Institutional theatre.",
-            "Economic policy-making",
-            "International diplomacy"
+            "To make abortion illegal for all cases",
+            "To extend the time limit for all pregnancies to 30 weeks",
+            "To remove the time limit on medical termination of unwanted pregnancies in the case of minor rape victims",
+            "To introduce mandatory counseling before abortion",
+            "To allow self-medication for abortion"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Dark Eagle hypersonic missile is designed to glide to its target at what speed?",
-        "a": "More than five times the speed of sound",
+        "q": "What was the Supreme Court's reason for refusing to entertain the curative petition filed by the government regarding the abortion law?",
+        "a": "Against a recent decision allowing a 15-year-old rape survivor to terminate a 30-week pregnancy",
         "options": [
-            "More than two times the speed of sound",
-            "More than three times the speed of sound",
-            "More than five times the speed of sound",
-            "More than six times the speed of sound",
-            "More than four times the speed of sound"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which news agency quoted legal experts stating some states are likely to enact new electoral maps?",
-        "a": "Reuters",
-        "options": [
-            "Bloomberg",
-            "NBC",
-            "Associated Press",
-            "Reuters",
-            "The New York Times"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The US Supreme Court ruling on April 24, 2026, on Louisiana's redistricting map was seen as strengthening the efforts of which political party?",
-        "a": "Republican",
-        "options": [
-            "Democratic",
-            "Independent",
-            "Republican",
-            "Green",
-            "Libertarian"
+            "The petition was filed too late",
+            "It was not within the court's jurisdiction",
+            "Against a recent decision allowing a 15-year-old rape survivor to terminate a 30-week pregnancy",
+            "The government withdrew the petition",
+            "The matter was already settled by a lower court"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific type of missile was the Dark Eagle designed to fight against?",
-        "a": "Chinese or Russian advanced air defenses",
+        "q": "What was the alleged reason for N. Biren Singh's implication in the leaked audio tapes regarding Manipur?",
+        "a": "Orchestrating or inciting ethnic violence in the State",
         "options": [
-            "Ballistic missiles",
-            "Cruise missiles",
-            "Chinese or Russian advanced air defenses",
-            "Submarine-launched missiles",
-            "Anti-tank missiles"
+            "Discussing border security issues",
+            "Orchestrating or inciting ethnic violence in the State",
+            "Planning economic development projects",
+            "Reviewing police reforms",
+            "Negotiating peace treaties"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Supreme Court's 6-3 ruling on the Voting Rights Act effectively struck down an electoral map that gave power to whom?",
-        "a": "Minority voters",
+        "q": "Why did the Cabinet agree to provide a bank guarantee for the Bengaluru Integrated Satellite Township project?",
+        "a": "To support the project which will entail acquisition of 7,404 acres",
         "options": [
-            "Majority voters",
-            "Rural voters",
-            "Minority voters",
-            "Independent voters",
-            "Republican voters"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the common name for the Long-Range Hypersonic Weapon (LRHW)?",
-        "a": "Dark Eagle",
-        "options": [
-            "Precision Strike Missile",
-            "JASSM-ER",
-            "Dark Eagle",
-            "Thunderbolt",
-            "Sky Serpent"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What specific aspect of the Voting Rights Act did the Supreme Court's decision announced Wednesday weaken?",
-        "a": "Section 2",
-        "options": [
-            "Section 1",
-            "Section 3",
-            "Section 2",
-            "Section 4",
-            "Section 5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which Indian city is often mentioned in Livemint's national news coverage, alongside Delhi and Mumbai?",
-        "a": "Bengaluru",
-        "options": [
-            "Kolkata",
-            "Chennai",
-            "Bengaluru",
-            "Hyderabad",
-            "Ahmedabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The US has transferred most of its supplies of which stealthy cruise missile to the Iran conflict?",
-        "a": "JASSM-ER",
-        "options": [
-            "Tomahawk",
-            "Harpoon",
-            "JASSM-ER",
-            "Storm Shadow",
-            "Scalp EG"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Supreme Court kept which section of the Voting Rights Act intact, despite weakening it?",
-        "a": "Section 2",
-        "options": [
-            "Section 1",
-            "Section 3",
-            "Section 2",
-            "Section 4",
-            "Section 5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What did Justice Alito write that Section 2 of the Voting Rights Act must now focus on enforcing?",
-        "a": "The Constitution's prohibition on intentional racial discrimination under the 15th Amendment",
-        "options": [
-            "The equal protection clause of the 14th Amendment",
-            "The Constitution's prohibition on intentional racial discrimination under the 15th Amendment",
-            "The regulation of federal elections",
-            "The rights of states to draw their own maps",
-            "The principle of 'one person, one vote'"
+            "To increase state revenue",
+            "To subsidize housing for government employees",
+            "To support the project which will entail acquisition of 7,404 acres",
+            "To attract foreign direct investment",
+            "To fund environmental impact studies"
         ],
         "cat": "Why"
     }
