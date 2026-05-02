@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the total outlay for the Incentive Scheme for Promotion of Critical Mineral Recycling?",
-        "a": "\u20b91,500 crore",
+        "q": "What percentage of India's GDP does agriculture account for, as mentioned in the news text?",
+        "a": "15-16%",
         "options": [
-            "\u20b91,490 crore",
-            "\u20b91,510 crore",
-            "\u20b91,500 crore",
-            "\u20b91,505 crore",
-            "\u20b91,495 crore"
+            "14-15%",
+            "16-17%",
+            "15-16%",
+            "13-14%",
+            "17-18%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many companies have been declared eligible by the Ministry of Mines for the Critical Mineral Recycling incentive scheme?",
-        "a": "58",
+        "q": "What percentage of the Indian population does agriculture support, according to the provided text?",
+        "a": "46%",
         "options": [
-            "57",
-            "59",
-            "58",
-            "56",
-            "60"
+            "45%",
+            "47%",
+            "46%",
+            "44%",
+            "48%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The PIL alleging banking fraud by ADAG firms mentioned alleged loan frauds exceeding what specific amount?",
-        "a": "\u20b940,000 crore",
+        "q": "How many basis points could a good monsoon add to India's GDP growth, as estimated by economists?",
+        "a": "20\u201340 basis points",
         "options": [
-            "\u20b939,900 crore",
-            "\u20b940,100 crore",
-            "\u20b940,000 crore",
-            "\u20b939,950 crore",
-            "\u20b940,050 crore"
+            "15\u201335 basis points",
+            "20\u201340 basis points",
+            "25\u201345 basis points",
+            "10\u201330 basis points",
+            "30\u201350 basis points"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Supreme Court's observation on amending abortion law involved a minor rape survivor of what age?",
-        "a": "15 years",
+        "q": "What is India's GDP growth currently projected at for FY27, according to RBI and multilateral agencies?",
+        "a": "6.5\u20136.8%",
         "options": [
-            "16 years",
-            "14 years",
-            "15 years",
-            "13 years",
-            "17 years"
+            "6.4\u20136.7%",
+            "6.6\u20136.9%",
+            "6.5\u20136.8%",
+            "6.3\u20136.6%",
+            "6.7\u20137.0%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "A 15-year-old rape survivor was allowed to terminate a pregnancy of how many weeks by a recent top court decision?",
-        "a": "30 weeks",
+        "q": "What was the retail inflation rate in India in March, as per the news?",
+        "a": "3.4%",
         "options": [
-            "29 weeks",
-            "31 weeks",
-            "30 weeks",
-            "28 weeks",
-            "32 weeks"
+            "3.3%",
+            "3.5%",
+            "3.4%",
+            "3.2%",
+            "3.6%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Integrated Satellite Township project in Bengaluru South district is estimated to be implemented at what cost?",
-        "a": "\u20b918,133 crore",
+        "q": "What is the Reserve Bank of India\u2019s medium-term target for retail inflation?",
+        "a": "4%",
         "options": [
-            "\u20b918,123 crore",
-            "\u20b918,143 crore",
-            "\u20b918,133 crore",
-            "\u20b918,130 crore",
-            "\u20b918,135 crore"
+            "3.5%",
+            "4.5%",
+            "4%",
+            "3%",
+            "5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total bank guarantee amount agreed upon by the Cabinet for the Bengaluru Integrated Satellite Township project?",
-        "a": "\u20b97,500 crore",
+        "q": "What is the long period average (LPA) of rainfall over the country as a whole during May, based on 1971-2020 data?",
+        "a": "61.4 mm",
         "options": [
-            "\u20b97,490 crore",
-            "\u20b97,510 crore",
-            "\u20b97,500 crore",
-            "\u20b97,495 crore",
-            "\u20b97,505 crore"
+            "61.3 mm",
+            "61.5 mm",
+            "61.4 mm",
+            "61.2 mm",
+            "61.6 mm"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Bengaluru Integrated Satellite Township project will require the acquisition of how many acres of land?",
-        "a": "7,404 acres",
+        "q": "What percentage of the long-period average was the southwest monsoon projected to be this year by IMD on 13 April?",
+        "a": "Around 92%",
         "options": [
-            "7,394 acres",
-            "7,414 acres",
-            "7,404 acres",
-            "7,400 acres",
-            "7,408 acres"
+            "Around 91%",
+            "Around 93%",
+            "Around 92%",
+            "Around 90%",
+            "Around 94%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Land acquisition for the Bengaluru Integrated Satellite Township project will cover how many villages in Ramanagara taluk?",
-        "a": "Nine",
+        "q": "What percentage of rainfall is considered normal for the southwest monsoon?",
+        "a": "96-104%",
         "options": [
-            "Eight",
-            "Ten",
-            "Nine",
-            "Seven",
-            "Eleven"
+            "95-103%",
+            "97-105%",
+            "96-104%",
+            "94-102%",
+            "98-106%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Incentive Scheme for Promotion of Critical Mineral Recycling is worth how many crores?",
-        "a": "\u20b91,500 crore",
+        "q": "What was India's space industry annual revenue, as per Department of Science and Technology data in December?",
+        "a": "$8.4 billion",
         "options": [
-            "\u20b91,490 crore",
-            "\u20b91,510 crore",
-            "\u20b91,500 crore",
-            "\u20b91,505 crore",
-            "\u20b91,495 crore"
+            "$8.3 billion",
+            "$8.5 billion",
+            "$8.4 billion",
+            "$8.2 billion",
+            "$8.6 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many entities were deemed eligible for the critical mineral recycling scheme by the Ministry of Mines?",
-        "a": "58",
+        "q": "What percentage of the world's space markets did India's space industry account for with its $8.4 billion revenue?",
+        "a": "About 2%",
         "options": [
-            "57",
-            "59",
-            "58",
-            "56",
-            "60"
+            "About 1%",
+            "About 3%",
+            "About 2%",
+            "About 1.5%",
+            "About 2.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The PIL against ADAG firms sought investigation into alleged loan frauds worth what amount?",
-        "a": "\u20b940,000 crore",
+        "q": "By 2033, to what value could India's space industry expand, according to government estimates?",
+        "a": "$44 billion",
         "options": [
-            "\u20b939,900 crore",
-            "\u20b940,100 crore",
-            "\u20b940,000 crore",
-            "\u20b939,950 crore",
-            "\u20b940,050 crore"
+            "$43 billion",
+            "$45 billion",
+            "$44 billion",
+            "$42 billion",
+            "$46 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the specific age of the minor rape victim involved in the Supreme Court's discussion on abortion law amendment?",
-        "a": "15 years",
+        "q": "What annual revenue did In-Space project India would generate from rocket launch missions by 2033?",
+        "a": "$3.5 billion",
         "options": [
-            "16 years",
-            "14 years",
-            "15 years",
-            "13 years",
-            "17 years"
+            "$3.4 billion",
+            "$3.6 billion",
+            "$3.5 billion",
+            "$3.3 billion",
+            "$3.7 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The Supreme Court declined a curative petition regarding the termination of a pregnancy of how many weeks?",
-        "a": "30 weeks",
+        "q": "For what value did Hindustan Aeronautics Ltd (HAL) win the bid from Isro to 'privatize' the SSLV in June 2025?",
+        "a": "\u20b9511-crore",
         "options": [
-            "29 weeks",
-            "31 weeks",
-            "30 weeks",
-            "28 weeks",
-            "32 weeks"
+            "\u20b9510-crore",
+            "\u20b9512-crore",
+            "\u20b9511-crore",
+            "\u20b9509-crore",
+            "\u20b9513-crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The capital expenditure for the Integrated Satellite Township project in Bengaluru is pegged at what amount?",
-        "a": "\u20b918,133 crore",
+        "q": "What is Isro's budget allocation for this current year?",
+        "a": "\u20b913,706 crore",
         "options": [
-            "\u20b918,123 crore",
-            "\u20b918,143 crore",
-            "\u20b918,133 crore",
-            "\u20b918,130 crore",
-            "\u20b918,135 crore"
+            "\u20b913,705 crore",
+            "\u20b913,707 crore",
+            "\u20b913,706 crore",
+            "\u20b913,704 crore",
+            "\u20b913,708 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What sum did the Cabinet agree to provide as a bank guarantee for the Bengaluru Integrated Satellite Township project?",
-        "a": "\u20b97,500 crore",
+        "q": "What percentage of \u20b92000 banknotes in circulation have been returned as of May 1, 2026?",
+        "a": "98.47%",
         "options": [
-            "\u20b97,490 crore",
-            "\u20b97,510 crore",
-            "\u20b97,500 crore",
-            "\u20b97,495 crore",
-            "\u20b97,505 crore"
+            "98.46%",
+            "98.48%",
+            "98.47%",
+            "98.45%",
+            "98.49%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many acres of land are to be acquired for the Integrated Satellite Township project in Bengaluru South district?",
-        "a": "7,404 acres",
+        "q": "What was the Goods and Services Tax (GST) revenue in April 2026?",
+        "a": "Rs 2.43 lakh crore",
         "options": [
-            "7,394 acres",
-            "7,414 acres",
-            "7,404 acres",
-            "7,400 acres",
-            "7,408 acres"
+            "Rs 2.42 lakh crore",
+            "Rs 2.44 lakh crore",
+            "Rs 2.43 lakh crore",
+            "Rs 2.41 lakh crore",
+            "Rs 2.45 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In how many distinct villages of Ramanagara taluk will land be acquired for the Bengaluru Integrated Satellite Township project?",
-        "a": "Nine",
+        "q": "What was the total worth of UPI transactions in FY26?",
+        "a": "\u20b9314 lakh crore",
         "options": [
-            "Eight",
-            "Ten",
-            "Nine",
-            "Seven",
-            "Eleven"
+            "\u20b9313 lakh crore",
+            "\u20b9315 lakh crore",
+            "\u20b9314 lakh crore",
+            "\u20b9312 lakh crore",
+            "\u20b9316 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The incentive scheme for critical mineral recycling is designed to augment recycling capacity for separation and production of critical minerals from secondary sources, and is valued at what amount?",
-        "a": "\u20b91,500 crore",
+        "q": "How many matches will the US host in the 2026 World Cup?",
+        "a": "78",
         "options": [
-            "\u20b91,490 crore",
-            "\u20b91,510 crore",
-            "\u20b91,500 crore",
-            "\u20b91,505 crore",
-            "\u20b91,495 crore"
+            "77",
+            "79",
+            "78",
+            "76",
+            "80"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Out of the numerous applicants, how many companies received eligibility to participate in the critical mineral recycling scheme?",
-        "a": "58",
+        "q": "How many matches will Canada and Mexico each stage in the 2026 World Cup?",
+        "a": "13",
         "options": [
-            "57",
-            "59",
-            "58",
-            "56",
-            "60"
+            "12",
+            "14",
+            "13",
+            "11",
+            "15"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Former bureaucrat E.A.S Sarma filed a PIL seeking investigation into alleged loan frauds exceeding how much by ADAG firms?",
-        "a": "\u20b940,000 crore",
+        "q": "Who is the Director General of the India Meteorological Department (IMD)?",
+        "a": "Mrutyunjay Mohapatra",
         "options": [
-            "\u20b939,900 crore",
-            "\u20b940,100 crore",
-            "\u20b940,000 crore",
-            "\u20b939,950 crore",
-            "\u20b940,050 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Supreme Court was approached with a curative petition concerning a 15-year-old rape survivor's pregnancy which was how many weeks along?",
-        "a": "30 weeks",
-        "options": [
-            "29 weeks",
-            "31 weeks",
-            "30 weeks",
-            "28 weeks",
-            "32 weeks"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The State government approved the Integrated Satellite Township project in Bengaluru, which has an overall cost of what amount?",
-        "a": "\u20b918,133 crore",
-        "options": [
-            "\u20b918,123 crore",
-            "\u20b918,143 crore",
-            "\u20b918,133 crore",
-            "\u20b918,130 crore",
-            "\u20b918,135 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To support the Integrated Satellite Township project, what specific value of bank guarantee was approved by the Cabinet?",
-        "a": "\u20b97,500 crore",
-        "options": [
-            "\u20b97,490 crore",
-            "\u20b97,510 crore",
-            "\u20b97,500 crore",
-            "\u20b97,495 crore",
-            "\u20b97,505 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many villages in Ramanagara taluk are slated for land acquisition as part of the Bengaluru Integrated Satellite Township project?",
-        "a": "Nine",
-        "options": [
-            "Eight",
-            "Ten",
-            "Nine",
-            "Seven",
-            "Eleven"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the exact value of the incentive scheme for promoting critical mineral recycling?",
-        "a": "\u20b91,500 crore",
-        "options": [
-            "\u20b91,490 crore",
-            "\u20b91,510 crore",
-            "\u20b91,500 crore",
-            "\u20b91,505 crore",
-            "\u20b91,495 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "A PIL sought a court-monitored investigation into alleged loan frauds by ADAG firms amounting to more than what figure?",
-        "a": "\u20b940,000 crore",
-        "options": [
-            "\u20b939,900 crore",
-            "\u20b940,100 crore",
-            "\u20b940,000 crore",
-            "\u20b939,950 crore",
-            "\u20b940,050 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which Ministry informed about the eligibility of 58 companies for the Incentive Scheme for Promotion of Critical Mineral Recycling?",
-        "a": "Ministry of Mines",
-        "options": [
-            "Ministry of Environment",
-            "Ministry of Steel",
-            "Ministry of Mines",
-            "Ministry of Commerce",
-            "Ministry of Heavy Industries"
+            "Mrutyunjay Mohapatra",
+            "Abhash Kumar",
+            "Pawan Goenka",
+            "Pawan Kumar Chandana",
+            "Srinath Ravichandran"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who filed the PIL alleging large-scale banking fraud involving ADAG and its firms?",
-        "a": "E.A.S Sarma",
+        "q": "Which economist, assistant professor at Delhi University, is quoted on the positive implications of better rainfall?",
+        "a": "Abhash Kumar",
         "options": [
-            "Anil Ambani",
-            "Surya Kant",
-            "E.A.S Sarma",
-            "Joymalya Bagchi",
-            "N. Biren Singh"
+            "Satyadarshi Kunal",
+            "Abhash Kumar",
+            "Mrutyunjay Mohapatra",
+            "Vijay C. Roy",
+            "Subhash"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who were the members of the Supreme Court Bench hearing the PIL on ADAG alleged banking fraud?",
-        "a": "Chief Justice Surya Kant and Justice Joymalya Bagchi",
+        "q": "Who is the journalist with over 21 years of experience covering various news beats, who joined Mint in February 2025?",
+        "a": "Vijay C. Roy",
         "options": [
-            "Chief Justice D.Y. Chandrachud and Justice P.S. Narasimha",
-            "Chief Justice Surya Kant and Justice Joymalya Bagchi",
-            "Justice Sanjiv Khanna and Justice B.R. Gavai",
-            "Chief Justice U.U. Lalit and Justice S. Ravindra Bhat",
-            "Justice Hima Kohli and Justice Bela M. Trivedi"
+            "Subhash",
+            "Vijay C. Roy",
+            "Ravi K.",
+            "Satyadarshi Kunal",
+            "Pawan Goenka"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which group and its firms are primarily accused in the PIL alleging large-scale banking fraud?",
-        "a": "Anil Dhirubhai Ambani Group (ADAG)",
+        "q": "Who is the infrastructure editor at Mint?",
+        "a": "Subhash",
         "options": [
-            "Tata Group",
-            "Reliance Industries",
-            "Anil Dhirubhai Ambani Group (ADAG)",
-            "Essar Group",
-            "Adani Group"
+            "Vijay C. Roy",
+            "Abhash Kumar",
+            "Subhash",
+            "Satyadarshi Kunal",
+            "Ravi K."
         ],
         "cat": "Who"
     },
     {
-        "q": "The Supreme Court asked which entity to amend the abortion law to remove the time limit for minor rape victims?",
-        "a": "Union government",
+        "q": "Who heads the space authorization body Indian National Space Promotion and Authorization Centre (In-Space)?",
+        "a": "Pawan Goenka",
         "options": [
-            "State governments",
-            "Ministry of Health",
-            "Union government",
-            "Medical Council of India",
-            "Parliament"
+            "Pawan Goenka",
+            "Pawan Kumar Chandana",
+            "Srinath Ravichandran",
+            "Mrutyunjay Mohapatra",
+            "Ravi K."
         ],
         "cat": "Who"
     },
     {
-        "q": "Who were the Justices on the Bench that made observations regarding the amendment of the abortion law?",
-        "a": "Chief Justice of India Surya Kant and Joymalya Bagchi",
+        "q": "Which company outbid Adani Defence Systems and Bharat Dynamics Ltd to win the SSLV privatization contract?",
+        "a": "Hindustan Aeronautics Ltd (HAL)",
         "options": [
-            "Justice D.Y. Chandrachud and Justice Hima Kohli",
-            "Justice Sanjiv Khanna and Justice B.R. Gavai",
-            "Chief Justice of India Surya Kant and Joymalya Bagchi",
-            "Justice J.B. Pardiwala and Justice Manoj Misra",
-            "Justice Bela M. Trivedi and Justice Vikram Nath"
+            "Adani Defence Systems",
+            "Bharat Dynamics Ltd",
+            "NewSpace India Ltd (NSIL)",
+            "Hindustan Aeronautics Ltd (HAL)",
+            "Skyroot Aerospace"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which NGO was directed by the Supreme Court to hand over the leaked audio tapes regarding ethnic violence in Manipur?",
-        "a": "Kuki Organisation for Human Rights",
+        "q": "Who is the chief executive officer and co-founder of India\u2019s most-funded private space startup, Skyroot Aerospace?",
+        "a": "Pawan Kumar Chandana",
         "options": [
-            "Naga Peoples' Movement",
-            "Meitei Youth Front",
-            "Kuki Organisation for Human Rights",
-            "Human Rights Watch India",
-            "Indigenous Tribal Leaders' Forum"
+            "Srinath Ravichandran",
+            "Pawan Goenka",
+            "Pawan Kumar Chandana",
+            "Mrutyunjay Mohapatra",
+            "Abhash Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former Chief Minister of Manipur allegedly implicated in orchestrating or inciting ethnic violence, according to leaked audio tapes?",
-        "a": "N. Biren Singh",
+        "q": "Who is the CEO of Agnikul Cosmos, mentioned in the news for an expected commercial launch?",
+        "a": "Srinath Ravichandran",
         "options": [
-            "Okram Ibobi Singh",
-            "Rishang Keishing",
-            "N. Biren Singh",
-            "Radhabinod Koijam",
-            "W. Nipamacha Singh"
+            "Pawan Kumar Chandana",
+            "Srinath Ravichandran",
+            "Pawan Goenka",
+            "Mrutyunjay Mohapatra",
+            "Abhash Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which government body gave in-principle approval to the Integrated Satellite Township project in Bengaluru South district?",
-        "a": "The State government",
+        "q": "Who is the Partner at Induslaw, quoted on the RBI's new ECL framework?",
+        "a": "Satyadarshi Kunal",
         "options": [
-            "Central Government",
-            "Local Municipal Corporation",
-            "The State government",
-            "Ministry of Urban Development",
-            "Bengaluru Development Authority"
+            "Satyadarshi Kunal",
+            "Abhash Kumar",
+            "Vijay C. Roy",
+            "Subhash",
+            "Ravi K."
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity agreed to provide a bank guarantee for the Integrated Satellite Township project in Bengaluru?",
-        "a": "The Cabinet",
+        "q": "Who has taken charge as the 22nd Chairman and Managing Director (CMD) of Hindustan Aeronautics Limited (HAL)?",
+        "a": "Ravi K.",
         "options": [
-            "The Chief Minister's Office",
-            "The Finance Ministry",
-            "The Cabinet",
-            "The Governor's Office",
-            "The Legislative Assembly"
+            "Ravi K.",
+            "Pawan Goenka",
+            "Srinath Ravichandran",
+            "Pawan Kumar Chandana",
+            "Mrutyunjay Mohapatra"
         ],
         "cat": "Who"
     },
     {
-        "q": "Apart from Chief Justice Surya Kant, who else was part of the Bench hearing the PIL on ADAG fraud?",
-        "a": "Justice Joymalya Bagchi",
+        "q": "Which player was involved in the Champions League knockout playoff incident with Vin\u00edcius J\u00fanior, leading to new FIFA rules?",
+        "a": "Gianluca Prestianni",
         "options": [
-            "Justice D.Y. Chandrachud",
-            "Justice Sanjiv Khanna",
-            "Justice Joymalya Bagchi",
-            "Justice P.S. Narasimha",
-            "Justice Hima Kohli"
+            "Gianluca Prestianni",
+            "Achraf Hakimi",
+            "Brahim D\u00edaz",
+            "Pape Gueye",
+            "Fran\u00e7ois Letexier"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who else was on the Bench with Chief Justice of India Surya Kant when the observation on amending abortion law was made?",
-        "a": "Joymalya Bagchi",
+        "q": "Who is the current FIFA president who indicated support for the measure regarding players covering their mouths?",
+        "a": "Gianni Infantino",
         "options": [
-            "D.Y. Chandrachud",
-            "Joymalya Bagchi",
-            "Sanjiv Khanna",
-            "B.R. Gavai",
-            "Hima Kohli"
+            "Gianni Infantino",
+            "Fran\u00e7ois Letexier",
+            "Achraf Hakimi",
+            "Pape Gueye",
+            "Gianluca Prestianni"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where was the hearing on the PIL alleging banking fraud by ADAG firms deferred by the Supreme Court?",
-        "a": "Supreme Court",
+        "q": "Where is the southwest monsoon expected to make a timely arrival between May 15 and 20?",
+        "a": "Andaman and Nicobar Islands",
         "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Supreme Court",
-            "National Company Law Tribunal",
-            "Parliament House"
+            "Kerala Coast",
+            "Andaman and Nicobar Islands",
+            "Gujarat",
+            "Himachal Pradesh",
+            "Maharashtra"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court made observations about amending the abortion law for minor rape victims in which country?",
-        "a": "India",
+        "q": "Which region's conflict is mentioned as disrupting energy and food markets, putting pressure on economic projections?",
+        "a": "West Asia",
         "options": [
-            "USA",
-            "UK",
-            "Canada",
-            "India",
-            "Australia"
+            "East Asia",
+            "West Asia",
+            "North Africa",
+            "South America",
+            "East Africa"
         ],
         "cat": "Where"
     },
     {
-        "q": "To which specific lab was the Kuki Organisation for Human Rights directed to hand over the leaked audio tapes for forensic analysis?",
-        "a": "National forensic lab",
+        "q": "Where are above-normal heatwave days likely during May, according to the IMD outlook?",
+        "a": "Foothills of the Himalayas such as Himachal Pradesh and Uttarakhand, east coast states, Gujarat and Maharashtra",
         "options": [
-            "State Forensic Lab",
-            "CBI Forensic Lab",
-            "National forensic lab",
-            "Private Forensic Agency",
-            "NIA Forensic Division"
+            "North-East India",
+            "Central Plains",
+            "Foothills of the Himalayas such as Himachal Pradesh and Uttarakhand, east coast states, Gujarat and Maharashtra",
+            "Southern Peninsular Region",
+            "Western Desert Areas"
         ],
         "cat": "Where"
     },
     {
-        "q": "The alleged ethnic violence, in which N. Biren Singh is implicated by leaked audio tapes, occurred in which Indian state?",
-        "a": "Manipur",
+        "q": "Where is the headquarters of Hindustan Aeronautics Limited (HAL) located?",
+        "a": "Bengaluru",
         "options": [
-            "Nagaland",
-            "Assam",
-            "Manipur",
-            "Mizoram",
-            "Meghalaya"
+            "Chennai",
+            "Hyderabad",
+            "Mumbai",
+            "Bengaluru",
+            "New Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Integrated Satellite Township project, with its significant cost and land acquisition, is located in which district of Bengaluru?",
-        "a": "Bengaluru South district",
+        "q": "From which city was Skyroot Aerospace's 'Vikram' rocket flagged off for transfer to Isro's launch pad?",
+        "a": "Hyderabad",
         "options": [
-            "Bengaluru North district",
-            "Bengaluru Urban district",
-            "Bengaluru South district",
-            "Bengaluru Rural district",
-            "Ramnagar district"
+            "Bengaluru",
+            "Chennai",
+            "Mumbai",
+            "Hyderabad",
+            "Thiruvananthapuram"
         ],
         "cat": "Where"
     },
     {
-        "q": "The land acquisition for the Integrated Satellite Township project in Bengaluru involves nine villages in which specific taluk?",
-        "a": "Ramanagara taluk",
+        "q": "Where is Isro's rocket launch pad located, to which Skyroot's Vikram rocket was transferred?",
+        "a": "Sriharikota",
         "options": [
-            "Kanakapura taluk",
-            "Magadi taluk",
-            "Ramanagara taluk",
-            "Channapatna taluk",
-            "Harohalli taluk"
+            "Kalpakkam",
+            "Thumba",
+            "Balasore",
+            "Sriharikota",
+            "Chandipur"
         ],
         "cat": "Where"
     },
     {
-        "q": "The hearing on the PIL alleging banking fraud by ADAG firms was deferred in which judicial body?",
-        "a": "Supreme Court",
+        "q": "In which city was the International Football Association Board (IFAB) meeting held, where the rule change for mouth-covering confrontations was approved?",
+        "a": "Vancouver, British Columbia",
         "options": [
-            "High Court of Delhi",
-            "National Green Tribunal",
-            "Supreme Court",
-            "Economic Offences Court",
-            "Central Administrative Tribunal"
+            "London, England",
+            "Zurich, Switzerland",
+            "Paris, France",
+            "Vancouver, British Columbia",
+            "New York, USA"
         ],
         "cat": "Where"
     },
     {
-        "q": "The direction to amend the abortion law to remove the time limit on medical termination of unwanted pregnancies was issued by which apex court?",
-        "a": "Supreme Court of India",
+        "q": "Which three countries are hosting the 2026 World Cup?",
+        "a": "US, Canada, and Mexico",
         "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Supreme Court of India",
-            "Calcutta High Court",
-            "Madras High Court"
+            "Brazil, Argentina, and Chile",
+            "Germany, France, and Italy",
+            "US, Canada, and Mexico",
+            "Japan, South Korea, and China",
+            "England, Scotland, and Ireland"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Integrated Satellite Township project is planned for Bengaluru, specifically within which broad geographical subdivision?",
-        "a": "Bengaluru South district",
+        "q": "In which city and country was the Champions League opening phase soccer match between Juventus and Benfica played on January 21, 2026?",
+        "a": "Turin, Italy",
         "options": [
-            "Bengaluru North district",
-            "Bengaluru Central district",
-            "Bengaluru South district",
-            "Bengaluru East district",
-            "Bengaluru West district"
+            "Madrid, Spain",
+            "Turin, Italy",
+            "Lisbon, Portugal",
+            "Manchester, England",
+            "Munich, Germany"
         ],
         "cat": "Where"
     },
     {
-        "q": "To what specific date was the Supreme Court hearing on the PIL alleging ADAG banking fraud deferred?",
-        "a": "May 8",
+        "q": "Which Indian state government implemented a compulsory 10-year operations and maintenance (O&M) \u2018warranty\u2019 for rural drinking water schemes?",
+        "a": "Uttar Pradesh",
         "options": [
-            "May 1",
-            "May 15",
-            "May 8",
-            "April 30",
-            "June 1"
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Bihar",
+            "Uttar Pradesh",
+            "Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When does the India Meteorological Department (IMD) expect conditions for the arrival of the south-west monsoon to become favourable over the Andaman and Nicobar Islands?",
+        "a": "Between May 15 and 20",
+        "options": [
+            "Between May 10 and 15",
+            "Between May 20 and 25",
+            "Between May 15 and 20",
+            "Between May 1 and 5",
+            "Between May 25 and 30"
         ],
         "cat": "When"
     },
     {
-        "q": "On what specific date did the Supreme Court ask the Union government to amend the abortion law?",
-        "a": "April 30, 2026",
+        "q": "When is the IMD likely to announce the onset date for monsoon?",
+        "a": "In the second week of May",
         "options": [
-            "April 29, 2026",
-            "April 30, 2026",
-            "May 1, 2026",
-            "March 30, 2026",
-            "April 28, 2026"
+            "In the first week of May",
+            "In the second week of May",
+            "In the third week of May",
+            "In the fourth week of May",
+            "In early June"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Supreme Court direct the Kuki Organisation for Human Rights to hand over the leaked audio tapes concerning Manipur violence?",
-        "a": "April 30, 2026",
+        "q": "When did retail inflation edge up to 3.4% from 3.21%?",
+        "a": "March",
         "options": [
-            "April 29, 2026",
-            "April 30, 2026",
-            "May 1, 2026",
-            "March 30, 2026",
-            "April 28, 2026"
+            "January",
+            "February",
+            "March",
+            "April",
+            "December"
         ],
         "cat": "When"
     },
     {
-        "q": "The ethnic violence in Manipur, which allegedly implicates former CM N. Biren Singh, occurred during which period?",
-        "a": "2023\u20132024",
+        "q": "According to the news, based on data from which period is the Long Period Average (LPA) of rainfall over the country as a whole during May calculated?",
+        "a": "1971-2020",
         "options": [
-            "2022\u20132023",
-            "2023\u20132024",
-            "2021\u20132022",
-            "2024\u20132025",
-            "2020\u20132021"
+            "1970-2019",
+            "1972-2021",
+            "1971-2020",
+            "1960-2010",
+            "1980-2020"
         ],
         "cat": "When"
     },
     {
-        "q": "The State government gave in-principle approval to the Bengaluru Integrated Satellite Township project on which day?",
-        "a": "Thursday",
+        "q": "When did Vijay C. Roy join Mint as a journalist?",
+        "a": "February 2025",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "January 2024",
+            "March 2025",
+            "February 2025",
+            "April 2026",
+            "December 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "On what day did the Cabinet agree to provide a bank guarantee for the Bengaluru Integrated Satellite Township project?",
-        "a": "Thursday",
+        "q": "When was the Small Satellite Launch Vehicle (SSLV) first demonstrated by Isro?",
+        "a": "August 2022",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "July 2022",
+            "September 2022",
+            "August 2022",
+            "June 2022",
+            "October 2022"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of the Incentive Scheme for Promotion of Critical Mineral Recycling?",
-        "a": "Augmenting recycling capacity for separation and production of critical minerals from secondary sources",
+        "q": "When were the new norms for expected credit loss (ECL) provisioning framework directed by RBI to kick in?",
+        "a": "April 2027",
         "options": [
-            "Promoting new mining projects for critical minerals",
-            "Subsidizing import of critical minerals",
-            "Augmenting recycling capacity for separation and production of critical minerals from secondary sources",
-            "Funding research into alternative materials",
-            "Regulating the export of critical minerals"
+            "March 2027",
+            "May 2027",
+            "April 2027",
+            "June 2027",
+            "January 2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Reserve Bank announce the withdrawal of \u20b92,000 denomination banknotes from circulation?",
+        "a": "May 19, 2023",
+        "options": [
+            "May 18, 2023",
+            "May 20, 2023",
+            "May 19, 2023",
+            "April 19, 2023",
+            "June 19, 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Africa Cup of Nations final take place, leading to a new FIFA rule regarding players leaving the pitch?",
+        "a": "January 18, 2026",
+        "options": [
+            "December 18, 2025",
+            "February 18, 2026",
+            "January 18, 2026",
+            "March 18, 2026",
+            "November 18, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Uttar Pradesh government announce the implementation of a 10-year O&M \u2018warranty\u2019 for rural drinking water schemes?",
+        "a": "Friday (May 1, 2026)",
+        "options": [
+            "Thursday (April 30, 2026)",
+            "Saturday (May 2, 2026)",
+            "Friday (May 1, 2026)",
+            "Wednesday (April 29, 2026)",
+            "Monday (May 4, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of early signs of strong pre-monsoon rainfall for the domestic economy?",
+        "a": "To provide a domestic cushion by boosting farm output and easing food prices.",
+        "options": [
+            "To reduce urban migration",
+            "To boost industrial production",
+            "To provide a domestic cushion by boosting farm output and easing food prices",
+            "To increase export earnings",
+            "To lower crude oil prices"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for E.A.S Sarma filing a PIL against ADAG and its firms?",
-        "a": "Alleging large-scale banking fraud involving ADAG and its firms",
+        "q": "Why is a favourable start to the monsoon cycle considered critical for India\u2019s economy?",
+        "a": "Because agriculture accounts for 15-16% of GDP and supports nearly 46% of the population.",
         "options": [
-            "To commend ADAG's financial performance",
-            "Alleging large-scale banking fraud involving ADAG and its firms",
-            "Seeking details on ADAG's CSR activities",
-            "To challenge ADAG's infrastructure projects",
-            "Demanding an audit of ADAG's overseas investments"
+            "To improve trade balance",
+            "To reduce government expenditure",
+            "To increase foreign investments",
+            "Because agriculture accounts for 15-16% of GDP and supports nearly 46% of the population",
+            "To strengthen the manufacturing sector"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court ask the Union government to amend the abortion law?",
-        "a": "To remove the time limit on medical termination of unwanted pregnancies in the case of minor rape victims",
+        "q": "What is the main reason mentioned for the introduction of the Expected Credit Loss (ECL) framework by RBI?",
+        "a": "To calculate the provisioning requirement of banks to account for losses.",
         "options": [
-            "To make abortion illegal for all cases",
-            "To extend the time limit for all pregnancies to 30 weeks",
-            "To remove the time limit on medical termination of unwanted pregnancies in the case of minor rape victims",
-            "To introduce mandatory counseling before abortion",
-            "To allow self-medication for abortion"
+            "To increase bank profitability",
+            "To reduce interest rates",
+            "To calculate the provisioning requirement of banks to account for losses",
+            "To streamline digital payments",
+            "To encourage foreign direct investment"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the Supreme Court's reason for refusing to entertain the curative petition filed by the government regarding the abortion law?",
-        "a": "Against a recent decision allowing a 15-year-old rape survivor to terminate a 30-week pregnancy",
+        "q": "What is the primary goal of the 'Jal Arpan' initiative launched by the Uttar Pradesh government under the Jal Jeevan Mission?",
+        "a": "To empower villagers by transforming them from passive recipients into active participants, thereby granting them ownership, accountability, and leadership in the management of local water supply systems.",
         "options": [
-            "The petition was filed too late",
-            "It was not within the court's jurisdiction",
-            "Against a recent decision allowing a 15-year-old rape survivor to terminate a 30-week pregnancy",
-            "The government withdrew the petition",
-            "The matter was already settled by a lower court"
+            "To increase agricultural productivity",
+            "To promote tourism",
+            "To empower villagers by transforming them from passive recipients into active participants, thereby granting them ownership, accountability, and leadership in the management of local water supply systems",
+            "To fund urban development projects",
+            "To provide free electricity to rural households"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the alleged reason for N. Biren Singh's implication in the leaked audio tapes regarding Manipur?",
-        "a": "Orchestrating or inciting ethnic violence in the State",
+        "q": "What is the main objective behind FIFA's new red card rule concerning players covering their mouths while confronting an opponent?",
+        "a": "To address concerns about abuse allegations and discriminatory language in modern football.",
         "options": [
-            "Discussing border security issues",
-            "Orchestrating or inciting ethnic violence in the State",
-            "Planning economic development projects",
-            "Reviewing police reforms",
-            "Negotiating peace treaties"
+            "To speed up game play",
+            "To penalize dissent against referee decisions",
+            "To address concerns about abuse allegations and discriminatory language in modern football",
+            "To reduce physical altercations",
+            "To ensure fair play in goal celebrations"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Cabinet agree to provide a bank guarantee for the Bengaluru Integrated Satellite Township project?",
-        "a": "To support the project which will entail acquisition of 7,404 acres",
+        "q": "Why did FIFA introduce a new rule imposing immediate red cards for players leaving the pitch in protest at refereeing decisions?",
+        "a": "In direct response to events at the 2025 Africa Cup of Nations final where Senegal players walked off the pitch in protest.",
         "options": [
-            "To increase state revenue",
-            "To subsidize housing for government employees",
-            "To support the project which will entail acquisition of 7,404 acres",
-            "To attract foreign direct investment",
-            "To fund environmental impact studies"
+            "To promote sportsmanship",
+            "To enforce stricter time-keeping",
+            "In direct response to events at the 2025 Africa Cup of Nations final where Senegal players walked off the pitch in protest",
+            "To prevent match-fixing",
+            "To encourage fair play awards"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the two yellow card reset points introduced for the 2026 World Cup?",
+        "a": "To reflect the longer format and ensure players are less likely to miss decisive matches due to accumulated cautions earlier in the tournament.",
+        "options": [
+            "To increase the number of fouls",
+            "To simplify refereeing decisions",
+            "To reflect the longer format and ensure players are less likely to miss decisive matches due to accumulated cautions earlier in the tournament",
+            "To promote aggressive play",
+            "To reduce the overall number of yellow cards"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary reason why small rockets like SSLV are considered the way forward for global space markets?",
+        "a": "They are seen as more cost-effective than the previous generation of large, multi-billion-dollar satellites.",
+        "options": [
+            "They can carry heavier payloads",
+            "They are faster to launch",
+            "They are seen as more cost-effective than the previous generation of large, multi-billion-dollar satellites",
+            "They can reach higher orbits",
+            "They are more environmentally friendly"
         ],
         "cat": "Why"
     }
