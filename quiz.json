@@ -1,722 +1,758 @@
 [
     {
-        "q": "Who has been appointed as a deputy Governor of the Reserve Bank of India?",
-        "a": "Rohit Jain",
+        "q": "The total number of personnel participating in this year's African Lion across the four host countries is stated to be over how many?",
+        "a": "7,000",
         "options": [
-            "Rahul Sharma",
-            "Rakesh Jha",
-            "Rohit Jain",
-            "Rohan Singh",
-            "Ritesh Kumar"
+            "6,500",
+            "7,000",
+            "7,500",
+            "6,800",
+            "7,200"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Rohit Jain has been appointed to which position in the Reserve Bank of India?",
-        "a": "Deputy Governor",
+        "q": "Approximately how many military personnel from more than 40 countries initially participated in the African Lion 2026 exercise?",
+        "a": "5,000",
         "options": [
-            "Governor",
-            "Executive Director",
-            "Chief General Manager",
-            "Deputy Governor",
-            "Chief Economist"
+            "4,800",
+            "5,200",
+            "5,000",
+            "4,900",
+            "5,100"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "The appointment of Rohit Jain as a deputy Governor was made by which entity?",
-        "a": "Government",
+        "q": "What is the approximate lower bound for the number of countries participating in the African Lion military exercise?",
+        "a": "40",
         "options": [
-            "RBI Board",
-            "Ministry of Finance",
-            "President of India",
-            "Government",
-            "Prime Minister's Office"
+            "35",
+            "38",
+            "40",
+            "42",
+            "45"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "To which institution has Rohit Jain been appointed as a deputy Governor?",
-        "a": "Reserve Bank of India",
+        "q": "The African Lion 2026 military exercise began late in which month?",
+        "a": "April",
         "options": [
-            "State Bank of India",
-            "NITI Aayog",
-            "Reserve Bank of India",
-            "SEBI",
-            "IRDAI"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the name of the nine-year-old mountaineer mentioned in the news text?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Vikas Singh",
-            "Varun Raj",
-            "Vihaan Ram",
-            "Vishal Reddy",
-            "Vivek Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Vihaan Ram is known for successfully scaling which mountain?",
-        "a": "Mount Kosciuszko",
-        "options": [
-            "Mount Everest",
-            "Mount Kilimanjaro",
-            "Mount Fuji",
-            "Mount Kosciuszko",
-            "Mount Elbrus"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who undertook an expedition carrying a banner urging youth to \u2018Say No to Drugs\u2019?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohit Jain",
-            "The Government",
-            "A spokesperson from RBI",
-            "Vihaan Ram",
-            "An unknown mountaineer"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who seeks to promote a drug-free lifestyle through his climbs?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohit Jain",
-            "The Government",
-            "The Reserve Bank of India",
-            "Vihaan Ram",
-            "A youth organization"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who encourages young people to focus on health, sports and positive goals?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohit Jain",
-            "The Ministry of Health",
-            "The Sports Authority of India",
-            "Vihaan Ram",
-            "A non-profit organization"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The news text states that Rohit Jain was appointed as a deputy Governor. Who made this appointment?",
-        "a": "The government",
-        "options": [
-            "RBI Governor",
-            "Finance Minister",
-            "Prime Minister",
-            "The government",
-            "Chief Justice of India"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is described as a nine-year-old mountaineer from Hanuma Thanda?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohan Singh",
-            "Kartik Reddy",
-            "Vihaan Ram",
-            "Arjun Varma",
-            "Sumit Patil"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which official's appointment to the RBI will take effect from May 3?",
-        "a": "Rohit Jain",
-        "options": [
-            "Rahul Jain",
-            "Rohan Mehta",
-            "Rohit Jain",
-            "Rajesh Sharma",
-            "Ritesh Agarwal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the individual who scaled the highest peak on the Australian continent?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohit Jain",
-            "Mark Smith",
-            "David Lee",
-            "Vihaan Ram",
-            "Jane Doe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is seeking to promote a drug-free lifestyle via mountaineering?",
-        "a": "Vihaan Ram",
-        "options": [
-            "Rohit Jain",
-            "The Sports Minister",
-            "A government agency",
-            "Vihaan Ram",
-            "A health expert"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the age of the mountaineer Vihaan Ram?",
-        "a": "Nine years",
-        "options": [
-            "Seven years",
-            "Eight years",
-            "Nine years",
-            "Ten years",
-            "Eleven years"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Mount Kosciuszko is the highest peak on which continent?",
-        "a": "Australian continent",
-        "options": [
-            "Asian continent",
-            "African continent",
-            "South American continent",
-            "Australian continent",
-            "European continent"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Vihaan Ram hails from Hanuma Thanda, which is located in which mandal?",
-        "a": "Dhoolimitta mandal",
-        "options": [
-            "Kodimitta mandal",
-            "Cheriyal mandal",
-            "Dhoolimitta mandal",
-            "Ghanpur mandal",
-            "Jangaon mandal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Dhoolimitta mandal, where Vihaan Ram resides, is part of which district?",
-        "a": "Siddipet district",
-        "options": [
-            "Medak district",
-            "Karimnagar district",
-            "Warangal district",
-            "Siddipet district",
-            "Nalgonda district"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which village is Vihaan Ram from, according to the news text?",
-        "a": "Hanuma Thanda",
-        "options": [
-            "Malda Thanda",
-            "Ramu Thanda",
-            "Hanuma Thanda",
-            "Ganesha Thanda",
-            "Lakshmi Thanda"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where is Mount Kosciuszko specifically located, as per its continental description?",
-        "a": "Australian continent",
-        "options": [
-            "African continent",
-            "North American continent",
-            "Asian continent",
-            "Australian continent",
-            "South American continent"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which district is mentioned as the origin of the mountaineer Vihaan Ram?",
-        "a": "Siddipet district",
-        "options": [
-            "Adilabad district",
-            "Nizamabad district",
-            "Siddipet district",
-            "Khammam district",
-            "Mahabubnagar district"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Hanuma Thanda, the village of Vihaan Ram, falls under which administrative division?",
-        "a": "Dhoolimitta mandal",
-        "options": [
-            "Gajwel mandal",
-            "Kondapak mandal",
-            "Dhoolimitta mandal",
-            "Wargal mandal",
-            "Raikode mandal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which peak, scaled by Vihaan Ram, is described as the highest in Australia?",
-        "a": "Mount Kosciuszko",
-        "options": [
-            "Mount Fuji",
-            "Mount Everest",
-            "Mount Kosciuszko",
-            "Mount Aconcagua",
-            "Mont Blanc"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Vihaan Ram is from Dhoolimitta mandal, located in which Indian state (implied by district)?",
-        "a": "Telangana",
-        "options": [
-            "Andhra Pradesh",
-            "Karnataka",
-            "Maharashtra",
-            "Telangana",
-            "Tamil Nadu"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The highest peak on the Australian continent is Mount Kosciuszko. Where did Vihaan Ram scale it?",
-        "a": "Australia",
-        "options": [
-            "New Zealand",
-            "Papua New Guinea",
-            "Indonesia",
-            "Australia",
-            "Antarctica"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which village did the nine-year-old mountaineer Vihaan Ram originate?",
-        "a": "Hanuma Thanda",
-        "options": [
-            "Lal Thanda",
-            "Sita Thanda",
-            "Hanuma Thanda",
-            "Krishna Thanda",
-            "Rama Thanda"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the mandal name associated with Vihaan Ram's origin?",
-        "a": "Dhoolimitta",
-        "options": [
-            "Siddipet",
-            "Gajwel",
-            "Cheriyal",
-            "Dhoolimitta",
-            "Kondapak"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which district is Dhoolimitta mandal situated, according to the news?",
-        "a": "Siddipet",
-        "options": [
-            "Medchal",
-            "Sangareddy",
-            "Siddipet",
-            "Jangaon",
-            "Bhongir"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The news text mentions a specific district from where Vihaan Ram hails. What is it?",
-        "a": "Siddipet",
-        "options": [
-            "Hyderabad",
-            "Rangareddy",
-            "Siddipet",
-            "Khammam",
-            "Nalgonda"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which continent's highest peak was scaled by Vihaan Ram?",
-        "a": "Australian",
-        "options": [
-            "Asian",
-            "European",
-            "African",
-            "South American",
-            "Australian"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date will Rohit Jain's appointment as deputy Governor of RBI take effect?",
-        "a": "May 3",
-        "options": [
-            "May 1",
-            "May 2",
-            "May 3",
-            "May 4",
-            "May 5"
+            "March",
+            "April",
+            "May",
+            "June",
+            "February"
         ],
         "cat": "When"
     },
     {
-        "q": "For what duration has Rohit Jain been appointed as a deputy Governor of the RBI?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Two and a half years",
-            "Three years",
-            "Three and a half years",
-            "Four years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Vihaan Ram, the mountaineer, is how many years old?",
-        "a": "Nine years",
-        "options": [
-            "Seven years",
-            "Eight years",
-            "Nine years",
-            "Ten years",
-            "Eleven years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The appointment of Rohit Jain is effective from May 3 for how many years?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Two and a half years",
-            "Three years",
-            "Three and a half years",
-            "Four years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The news states Vihaan Ram is how many years old?",
-        "a": "Nine years",
-        "options": [
-            "Eight years",
-            "Ten years",
-            "Nine years",
-            "Eleven years",
-            "Twelve years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Rohit Jain's term as deputy Governor of RBI commences on which month and day?",
-        "a": "May 3",
-        "options": [
-            "April 30",
-            "May 1",
-            "May 3",
-            "June 3",
-            "July 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The notice specified the tenure for Rohit Jain's appointment. What is the length of this tenure?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Five years",
-            "Three years",
-            "Four years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "A nine-year-old mountaineer, Vihaan Ram, scaled Mount Kosciuszko. What is his age?",
-        "a": "Nine years",
-        "options": [
-            "Eight years",
-            "Ten years",
-            "Eleven years",
-            "Seven years",
-            "Nine years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When does Rohit Jain's appointment as Deputy Governor officially begin?",
-        "a": "May 3",
-        "options": [
-            "May 1",
-            "May 2",
-            "May 3",
-            "May 4",
-            "May 5"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The period for which Rohit Jain has been appointed as Deputy Governor is specified as how long?",
-        "a": "Three years",
-        "options": [
-            "One year",
-            "Two years",
-            "Three years",
-            "Four years",
-            "Five years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The news mentions a specific age for Vihaan Ram. What is it?",
-        "a": "Nine years",
-        "options": [
-            "Seven years",
-            "Eight years",
-            "Nine years",
-            "Ten years",
-            "Twelve years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the effective date of Rohit Jain's appointment?",
-        "a": "May 3",
-        "options": [
-            "May 1",
-            "May 2",
-            "May 3",
-            "June 3",
-            "April 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The duration of Rohit Jain's appointment is given as a specific number of years. How many?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Four years",
-            "Three years",
-            "Five years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How old is Vihaan Ram, the mountaineer from Siddipet district?",
-        "a": "Nine years",
-        "options": [
-            "Eight years",
-            "Ten years",
-            "Nine years",
-            "Seven years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Rohit Jain's tenure as Deputy Governor starts in which month?",
+        "q": "The African Lion 2026 military exercise is scheduled to run until which month?",
         "a": "May",
         "options": [
             "April",
+            "May",
             "June",
             "July",
-            "May",
-            "August"
+            "March"
         ],
         "cat": "When"
     },
     {
-        "q": "What social message did Vihaan Ram carry on a banner during his expedition?",
-        "a": "\u2018Say No to Drugs\u2019",
+        "q": "The African Lion 2026 military exercise concludes on which date?",
+        "a": "May 8",
         "options": [
-            "\u2018Save the Environment\u2019",
-            "\u2018Clean India\u2019",
-            "\u2018Say No to Drugs\u2019",
-            "\u2018Educate Girls\u2019",
-            "\u2018Plant Trees\u2019"
+            "May 1",
+            "May 5",
+            "May 8",
+            "May 10",
+            "May 12"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The African Lion military exercise has been running since which year?",
+        "a": "2004",
+        "options": [
+            "2000",
+            "2002",
+            "2004",
+            "2006",
+            "2008"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did a helicopter crash kill US Marines during African Lion in Agadir?",
+        "a": "2012",
+        "options": [
+            "2008",
+            "2010",
+            "2012",
+            "2014",
+            "2016"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Two US service members went missing during African Lion 2026. Which country's forces launched a search-and-rescue effort alongside the US?",
+        "a": "Morocco",
+        "options": [
+            "Ghana",
+            "Senegal",
+            "Morocco",
+            "Tunisia",
+            "Mali"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which command stated that the incident involving missing US service members occurred at Cap Draa Training Area?",
+        "a": "United States Africa Command (AFRICOM)",
+        "options": [
+            "US Central Command",
+            "US European Command",
+            "United States Africa Command (AFRICOM)",
+            "US Southern Command",
+            "US Indo-Pacific Command"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The incident involving missing US service members occurred at which training area?",
+        "a": "Cap Draa Training Area",
+        "options": [
+            "Agadir Military Base",
+            "Tan-Tan Airfield",
+            "Cap Draa Training Area",
+            "Rabat Naval Port",
+            "Marrakech Desert Camp"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Near which Moroccan city did the incident involving missing US service members occur?",
+        "a": "Tan-Tan",
+        "options": [
+            "Agadir",
+            "Rabat",
+            "Marrakech",
+            "Tan-Tan",
+            "Casablanca"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Cap Draa Training Area is approximately how many miles from the Atlantic Ocean?",
+        "a": "15 miles",
+        "options": [
+            "5 miles",
+            "10 miles",
+            "15 miles",
+            "20 miles",
+            "25 miles"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which southern Moroccan city did the African Lion 2026 military exercise begin?",
+        "a": "Agadir",
+        "options": [
+            "Marrakech",
+            "Casablanca",
+            "Rabat",
+            "Agadir",
+            "Fez"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which of the following is NOT a host nation for this year's African Lion military exercise?",
+        "a": "Algeria",
+        "options": [
+            "Ghana",
+            "Morocco",
+            "Senegal",
+            "Tunisia",
+            "Algeria"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The African Lion military exercise traditionally features high-ranking military officials from Washington and several of its top allies from which continent?",
+        "a": "Africa",
+        "options": [
+            "Europe",
+            "Asia",
+            "Africa",
+            "South America",
+            "North America"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Swati Gandhi holds a Master\u2019s degree in Journalism and Mass Communication from which university?",
+        "a": "Guru Gobind Singh Indraprastha University",
+        "options": [
+            "University of Delhi",
+            "Jawaharlal Nehru University",
+            "Guru Gobind Singh Indraprastha University",
+            "Jamia Millia Islamia",
+            "Amity University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Swati Gandhi holds a Bachelor\u2019s degree in English (Honours) from which university?",
+        "a": "University of Delhi",
+        "options": [
+            "Jawaharlal Nehru University",
+            "University of Delhi",
+            "Guru Gobind Singh Indraprastha University",
+            "Jamia Millia Islamia",
+            "Banaras Hindu University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the primary purpose of the African Lion military exercise?",
+        "a": "To boost regional security cooperation and refine the readiness of participating forces for global crises.",
+        "options": [
+            "To conduct counter-terrorism operations exclusively",
+            "To train for Arctic warfare scenarios",
+            "To boost regional security cooperation and refine the readiness of participating forces for global crises",
+            "To establish permanent US military bases in Africa",
+            "To promote cultural exchange programs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary lifestyle that Vihaan Ram seeks to promote through his climbs?",
-        "a": "A drug-free lifestyle",
+        "q": "According to a US Defense official, the disappearance of the two US service members is NOT linked to what?",
+        "a": "Terrorism",
         "options": [
-            "An adventurous lifestyle",
-            "A vegetarian lifestyle",
-            "A drug-free lifestyle",
-            "A disciplined lifestyle",
-            "A digital-free lifestyle"
+            "Navigational error",
+            "Equipment malfunction",
+            "Natural disaster",
+            "Terrorism",
+            "Training accident"
         ],
         "cat": "Why"
     },
     {
-        "q": "What three areas does Vihaan Ram encourage young people to focus on?",
-        "a": "Health, sports and positive goals",
+        "q": "Which digital journalist specializes in international and geopolitical issues, with a focus on how global developments affect India?",
+        "a": "Swati Gandhi",
         "options": [
-            "Wealth, power, and fame",
-            "Education, career, and travel",
-            "Health, sports and positive goals",
-            "Technology, innovation, and entrepreneurship",
-            "Art, music, and literature"
+            "Barkha Dutt",
+            "Ravish Kumar",
+            "Arnab Goswami",
+            "Swati Gandhi",
+            "Rajdeep Sardesai"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "At which organization does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
+        "a": "Live Mint",
+        "options": [
+            "Business Standard",
+            "The Hindu",
+            "Live Mint",
+            "The Economic Times",
+            "Indian Express"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Swati Gandhi previously worked at which organization, covering national affairs, politics, and business?",
+        "a": "Business Standard",
+        "options": [
+            "Live Mint",
+            "The Times of India",
+            "Business Standard",
+            "Hindustan Times",
+            "India Today"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The incident involving the missing US service members occurred on which day of the week?",
+        "a": "Saturday",
+        "options": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many US Marines were killed in the helicopter crash during African Lion in 2012?",
+        "a": "Two",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many US Marines were injured in the helicopter crash during African Lion in 2012?",
+        "a": "Two",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the specific emphasis of Swati Gandhi's work at Live Mint?",
+        "a": "Examining how global political developments, foreign policy decisions, and power shifts impact markets, industries, and India\u2019s strategic and economic interests.",
+        "options": [
+            "Focusing solely on domestic Indian politics",
+            "Examining how global political developments, foreign policy decisions, and power shifts impact markets, industries, and India\u2019s strategic and economic interests",
+            "Reporting on celebrity news and lifestyle",
+            "Covering local city events and culture",
+            "Analyzing historical events without current relevance"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the specific slogan on the banner carried by Vihaan Ram?",
-        "a": "\u2018Say No to Drugs\u2019",
+        "q": "What is the total financial outlay for the incentive scheme to promote coal gasification projects?",
+        "a": "\u20b937,500 crore",
         "options": [
-            "\u2018Go Green\u2019",
-            "\u2018Stay Active\u2019",
-            "\u2018Say No to Drugs\u2019",
-            "\u2018Read More\u2019",
-            "\u2018Be Kind\u2019"
+            "\u20b937,000 crore",
+            "\u20b937,500 crore",
+            "\u20b938,000 crore",
+            "\u20b936,500 crore",
+            "\u20b938,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which ministry has prepared a Cabinet note on the scheme to promote coal gasification projects?",
+        "a": "Coal Ministry",
+        "options": [
+            "Power Ministry",
+            "Finance Ministry",
+            "Coal Ministry",
+            "Ministry of New and Renewable Energy",
+            "Ministry of Environment, Forest and Climate Change"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which government body is likely to approve the \u20b937,500 crore incentive scheme for coal gasification projects?",
+        "a": "The Cabinet",
+        "options": [
+            "The Parliament",
+            "The Prime Minister's Office",
+            "The Cabinet",
+            "NITI Aayog",
+            "The Ministry of Coal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is one of the key aims of the incentive scheme to promote coal gasification projects, besides boosting clean energy?",
+        "a": "Reducing import dependence",
+        "options": [
+            "Increasing coal exports",
+            "Reducing import dependence",
+            "Subsidizing private mining companies",
+            "Creating new jobs in the coal industry only",
+            "Diversifying energy sources through oil exploration"
         ],
         "cat": "Why"
     },
     {
-        "q": "The purpose of Vihaan Ram's climbs is to encourage young people to focus on positive goals, health, and what other activity?",
-        "a": "Sports",
+        "q": "The coal gasification projects incentive scheme is aimed at boosting which type of energy production?",
+        "a": "Clean energy",
         "options": [
-            "Studies",
-            "Arts",
-            "Music",
-            "Sports",
-            "Volunteering"
+            "Nuclear energy",
+            "Thermal energy",
+            "Clean energy",
+            "Hydroelectric energy",
+            "Solar energy"
         ],
         "cat": "Why"
     },
     {
-        "q": "Vihaan Ram\u2019s expedition had a social message related to which issue?",
-        "a": "Drug-free lifestyle",
+        "q": "The Nightingale\u2019s Forest is located in which country?",
+        "a": "Serbia",
         "options": [
-            "Environmental conservation",
-            "Poverty eradication",
-            "Gender equality",
-            "Drug-free lifestyle",
-            "Animal welfare"
+            "Croatia",
+            "Bulgaria",
+            "Serbia",
+            "Romania",
+            "Hungary"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Nightingale\u2019s Forest is described as a rare patch of thick greenery in the flat, farming region of which part of Serbia?",
+        "a": "Northeastern",
+        "options": [
+            "Southwestern",
+            "Northwestern",
+            "Southeastern",
+            "Northeastern",
+            "Central"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the size of the Nightingale\u2019s Forest in hectares?",
+        "a": "2-hectare",
+        "options": [
+            "1-hectare",
+            "1.5-hectare",
+            "2-hectare",
+            "2.5-hectare",
+            "3-hectare"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the purchase price of Nightingale\u2019s Forest in euros?",
+        "a": "8,000 euros",
+        "options": [
+            "7,500 euros",
+            "8,000 euros",
+            "8,500 euros",
+            "7,800 euros",
+            "8,200 euros"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the purchase price of Nightingale\u2019s Forest in US dollars?",
+        "a": "$9,500",
+        "options": [
+            "$9,000",
+            "$9,200",
+            "$9,500",
+            "$9,800",
+            "$10,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Bird Protection and Study Society bought the Nightingale\u2019s Forest in which year relative to the news report?",
+        "a": "Last year",
+        "options": [
+            "Two years ago",
+            "Last year",
+            "This year",
+            "Three years ago",
+            "Five years ago"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How quickly was the purchase price for Nightingale\u2019s Forest collected through crowdfunding?",
+        "a": "Less than a month",
+        "options": [
+            "Within a week",
+            "Within two weeks",
+            "Less than a month",
+            "In two months",
+            "Over three months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Approximately how many years ago was the Bird Protection and Study Society launched?",
+        "a": "30 years ago",
+        "options": [
+            "20 years ago",
+            "25 years ago",
+            "30 years ago",
+            "35 years ago",
+            "40 years ago"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which society bought the Nightingale\u2019s Forest to preserve it?",
+        "a": "Bird Protection and Study Society",
+        "options": [
+            "Serbian Forestry Department",
+            "Nature Conservation Trust",
+            "Bird Protection and Study Society",
+            "Wildlife Preservation Group",
+            "Environmental Action Committee"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the representative of the Bird Protection and Study Society quoted in the article about Nightingale's Forest?",
+        "a": "Uros Stojiljkovic",
+        "options": [
+            "Natasa Jancic",
+            "Ivan Petrovic",
+            "Uros Stojiljkovic",
+            "Dragan Markovic",
+            "Elena Novak"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was involved in the crowdfunding campaign for Nightingale\u2019s Forest and mentioned the continued donations?",
+        "a": "Natasa Jancic",
+        "options": [
+            "Uros Stojiljkovic",
+            "Natasa Jancic",
+            "Milos Pavlovic",
+            "Ana Petrova",
+            "Darko Jovanovic"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the primary reason for the Bird Protection and Study Society to buy Nightingale\u2019s Forest?",
+        "a": "To preserve the forest and set an example in environmental protection",
+        "options": [
+            "To establish a new bird watching tourism spot",
+            "To convert it into farmland",
+            "To harvest its timber for profit",
+            "To preserve the forest and set an example in environmental protection",
+            "To conduct scientific research only"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core message Vihaan Ram conveys to youth regarding substance use?",
-        "a": "Say No to Drugs",
+        "q": "What specific environmental problem is Serbia facing, according to the article, which contributes to growing interest in nature protection?",
+        "a": "Air and river pollution and waste management",
         "options": [
-            "Be responsible with drugs",
-            "Learn about drug effects",
-            "Say No to Drugs",
-            "Drugs are dangerous",
-            "Avoid peer pressure"
+            "Excessive rainfall",
+            "Desertification",
+            "Air and river pollution and waste management",
+            "Volcanic eruptions",
+            "Tsunami threats"
         ],
         "cat": "Why"
     },
     {
-        "q": "Besides health and positive goals, what else does Vihaan Ram promote for young people?",
-        "a": "Sports",
+        "q": "What potential fate did the society representative, Uros Stojiljkovic, suggest the trees in Nightingale's Forest would have faced if someone else had bought the privately-owned land?",
+        "a": "They probably would have been cut down.",
         "options": [
-            "Academic excellence",
-            "Financial literacy",
-            "Social media usage",
-            "Sports",
-            "Political awareness"
+            "They would have been replanted",
+            "They would have been sold to a wildlife sanctuary",
+            "They probably would have been cut down",
+            "They would have been incorporated into a new park",
+            "They would have been left untouched indefinitely"
         ],
         "cat": "Why"
     },
     {
-        "q": "What kind of lifestyle does Vihaan Ram advocate for through his mountaineering efforts?",
-        "a": "Drug-free",
+        "q": "What kind of reporting approach does Swati Gandhi believe in strongly?",
+        "a": "Context-driven reporting",
         "options": [
-            "Eco-friendly",
-            "Minimalist",
-            "Drug-free",
-            "Tech-savvy",
-            "Global"
+            "Opinion-based reporting",
+            "Sensationalist reporting",
+            "Context-driven reporting",
+            "Breaking news only reporting",
+            "Analysis-free reporting"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific appeal did Vihaan Ram's banner make to the youth?",
-        "a": "To \u2018Say No to Drugs\u2019",
+        "q": "What is one of Swati Gandhi's key interests outside of her immediate work focus?",
+        "a": "Global political economy and the intersection of geopolitics with business",
         "options": [
-            "To 'Be Brave'",
-            "To 'Reach High'",
-            "To \u2018Say No to Drugs\u2019",
-            "To 'Explore More'",
-            "To 'Protect Nature'"
+            "Local sports events",
+            "Fashion design",
+            "Global political economy and the intersection of geopolitics with business",
+            "Classical music composition",
+            "Amateur gardening"
         ],
         "cat": "Why"
     },
     {
-        "q": "Vihaan Ram aims to encourage young people to focus on what kind of goals?",
-        "a": "Positive goals",
+        "q": "On which social media platform did Morocco's armed forces announce the missing US service members?",
+        "a": "Facebook",
         "options": [
-            "Financial goals",
-            "Career goals",
-            "Positive goals",
-            "Academic goals",
-            "Travel goals"
+            "Twitter",
+            "Instagram",
+            "Facebook",
+            "LinkedIn",
+            "YouTube"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which military branch is NOT explicitly mentioned as having active-duty members participating in African Lion, according to AP's list?",
+        "a": "Navy",
+        "options": [
+            "National Guard",
+            "Army Reserve",
+            "Air Force",
+            "Marine Corps",
+            "Navy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The African Lion 2026 exercise began on what specific date?",
+        "a": "April 27",
+        "options": [
+            "April 20",
+            "April 25",
+            "April 27",
+            "May 1",
+            "May 5"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many nations are hosting the African Lion 2026 exercise?",
+        "a": "Four",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The \u20b937,500 crore incentive scheme for coal gasification projects is aimed at reducing dependence on what?",
+        "a": "Imports",
+        "options": [
+            "Exports",
+            "Renewable energy",
+            "Imports",
+            "Domestic production",
+            "Foreign aid"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which of the following is NOT among the focuses Vihaan Ram encourages for young people?",
-        "a": "Wealth",
+        "q": "What was a key economic factor that made Nightingale's Forest vulnerable to being cut down before its purchase?",
+        "a": "The value of timber was higher than the land price.",
         "options": [
-            "Health",
-            "Sports",
-            "Positive goals",
-            "Drug-free lifestyle",
-            "Wealth"
+            "Lack of local interest in nature",
+            "High demand for firewood",
+            "The value of timber was higher than the land price",
+            "The land was unsuitable for agriculture",
+            "It was a remote, unmonitored area"
         ],
         "cat": "Why"
     },
     {
-        "q": "Vihaan Ram's message 'Say No to Drugs' is targeted at which demographic?",
-        "a": "Youth",
+        "q": "According to Natasa Jancic, what does the growth of the Bird Protection and Study Society into a community of nature lovers signify?",
+        "a": "Mounting interest in the environment",
         "options": [
-            "Children",
-            "Adults",
-            "Elderly",
-            "Youth",
-            "All citizens"
+            "Decline in bird populations",
+            "Increase in hunting activities",
+            "Mounting interest in the environment",
+            "Expansion of urban development",
+            "Shift towards industrialization"
         ],
         "cat": "Why"
     },
     {
-        "q": "The ultimate purpose of Vihaan Ram's social message is to foster what among young people?",
-        "a": "A drug-free lifestyle",
+        "q": "Serbia, where Nightingale's Forest is located, is part of which European region?",
+        "a": "The Balkans",
         "options": [
-            "Mountaineering skills",
-            "Academic success",
-            "A drug-free lifestyle",
-            "Environmental activism",
-            "Political engagement"
+            "Scandinavian Peninsula",
+            "Iberian Peninsula",
+            "The Balkans",
+            "Baltic States",
+            "Central European Plain"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the underlying belief expressed by Natasa Jancic about collective action for nature protection?",
+        "a": "Individually, we can\u2019t do much, but as an active and stable community, we can achieve a lot.",
+        "options": [
+            "Individual efforts are always sufficient",
+            "Nature protection is solely the government's responsibility",
+            "Individually, we can\u2019t do much, but as an active and stable community, we can achieve a lot",
+            "Crowdfunding is ineffective for environmental causes",
+            "Only experts can contribute meaningfully to conservation"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the key pillars Vihaan Ram wants youth to focus on, alongside sports and positive goals?",
-        "a": "Health",
+        "q": "What vision does Uros Stojiljkovic propose for broader environmental impact, drawing from the Nightingale's Forest success?",
+        "a": "Every village or town should have a Nightingale\u2019s Forest of its own for a cumulative effect.",
         "options": [
-            "Education",
-            "Wealth",
-            "Fame",
-            "Health",
-            "Entertainment"
+            "Larger national parks are the only solution",
+            "International treaties are more effective than local efforts",
+            "Every village or town should have a Nightingale\u2019s Forest of its own for a cumulative effect",
+            "Developing eco-tourism is the sole path",
+            "Focusing on industrial green initiatives only"
         ],
         "cat": "Why"
+    },
+    {
+        "q": "Why have frustrated military leaders in Mali, Burkina Faso, and Niger ousted elected governments since 2020?",
+        "a": "Citing failures to control violence",
+        "options": [
+            "To join the European Union",
+            "To expand trade with Western nations",
+            "To adopt democratic reforms",
+            "Citing failures to control violence",
+            "To promote free market policies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why has Rabat remained a key US ally in the volatile region, considering the political shifts in neighboring countries?",
+        "a": "It has maintained consistent ties with Western nations amidst regional instability.",
+        "options": [
+            "It has recently adopted anti-Western policies",
+            "Its military leaders have ousted elected governments",
+            "It has maintained consistent ties with Western nations amidst regional instability",
+            "It faces no internal violence or political unrest",
+            "It has diversified its alliances away from the US"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The African Lion military exercise is described as the largest US annual joint military exercise on which continent?",
+        "a": "Africa",
+        "options": [
+            "Asia",
+            "Europe",
+            "South America",
+            "Africa",
+            "North America"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which specific branch of the US military is mentioned as participating in African Lion, along with National Guard, Army Reserve, and Marine Corps?",
+        "a": "Air Force",
+        "options": [
+            "Navy",
+            "Space Force",
+            "Coast Guard",
+            "Air Force",
+            "Cyber Command"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What did the Moroccan armed forces state was the exact location where the two US service members went missing on Saturday evening?",
+        "a": "Near a cliff at Cap Draa in the Tan-Tan area",
+        "options": [
+            "Agadir city center",
+            "Inside a military camp in Ghana",
+            "Near a cliff at Cap Draa in the Tan-Tan area",
+            "Off the coast of Senegal",
+            "Within a training facility in Tunisia"
+        ],
+        "cat": "Where"
     }
 ]
