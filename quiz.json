@@ -1,758 +1,722 @@
 [
     {
-        "q": "The total number of personnel participating in this year's African Lion across the four host countries is stated to be over how many?",
-        "a": "7,000",
+        "q": "On what date did the US Supreme Court temporarily restore broad access to the abortion pill mifepristone?",
+        "a": "May 4",
         "options": [
-            "6,500",
-            "7,000",
-            "7,500",
-            "6,800",
-            "7,200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many military personnel from more than 40 countries initially participated in the African Lion 2026 exercise?",
-        "a": "5,000",
-        "options": [
-            "4,800",
-            "5,200",
-            "5,000",
-            "4,900",
-            "5,100"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the approximate lower bound for the number of countries participating in the African Lion military exercise?",
-        "a": "40",
-        "options": [
-            "35",
-            "38",
-            "40",
-            "42",
-            "45"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The African Lion 2026 military exercise began late in which month?",
-        "a": "April",
-        "options": [
-            "March",
-            "April",
-            "May",
-            "June",
-            "February"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The African Lion 2026 military exercise is scheduled to run until which month?",
-        "a": "May",
-        "options": [
-            "April",
-            "May",
-            "June",
-            "July",
-            "March"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The African Lion 2026 military exercise concludes on which date?",
-        "a": "May 8",
-        "options": [
-            "May 1",
+            "May 3",
             "May 5",
-            "May 8",
-            "May 10",
-            "May 12"
+            "May 4",
+            "May 6",
+            "May 7"
         ],
         "cat": "When"
     },
     {
-        "q": "The African Lion military exercise has been running since which year?",
-        "a": "2004",
+        "q": "Which Justice signed the temporary order restoring broad access to mifepristone?",
+        "a": "Samuel Alito",
         "options": [
-            "2000",
-            "2002",
-            "2004",
-            "2006",
-            "2008"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did a helicopter crash kill US Marines during African Lion in Agadir?",
-        "a": "2012",
-        "options": [
-            "2008",
-            "2010",
-            "2012",
-            "2014",
-            "2016"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Two US service members went missing during African Lion 2026. Which country's forces launched a search-and-rescue effort alongside the US?",
-        "a": "Morocco",
-        "options": [
-            "Ghana",
-            "Senegal",
-            "Morocco",
-            "Tunisia",
-            "Mali"
+            "John Roberts",
+            "Amy Coney Barrett",
+            "Clarence Thomas",
+            "Elena Kagan",
+            "Samuel Alito"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which command stated that the incident involving missing US service members occurred at Cap Draa Training Area?",
-        "a": "United States Africa Command (AFRICOM)",
+        "q": "What was the primary purpose of the US Supreme Court's temporary order regarding mifepristone?",
+        "a": "Restore broad access to the abortion pill",
         "options": [
-            "US Central Command",
-            "US European Command",
-            "United States Africa Command (AFRICOM)",
-            "US Southern Command",
-            "US Indo-Pacific Command"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The incident involving missing US service members occurred at which training area?",
-        "a": "Cap Draa Training Area",
-        "options": [
-            "Agadir Military Base",
-            "Tan-Tan Airfield",
-            "Cap Draa Training Area",
-            "Rabat Naval Port",
-            "Marrakech Desert Camp"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Near which Moroccan city did the incident involving missing US service members occur?",
-        "a": "Tan-Tan",
-        "options": [
-            "Agadir",
-            "Rabat",
-            "Marrakech",
-            "Tan-Tan",
-            "Casablanca"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Cap Draa Training Area is approximately how many miles from the Atlantic Ocean?",
-        "a": "15 miles",
-        "options": [
-            "5 miles",
-            "10 miles",
-            "15 miles",
-            "20 miles",
-            "25 miles"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which southern Moroccan city did the African Lion 2026 military exercise begin?",
-        "a": "Agadir",
-        "options": [
-            "Marrakech",
-            "Casablanca",
-            "Rabat",
-            "Agadir",
-            "Fez"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which of the following is NOT a host nation for this year's African Lion military exercise?",
-        "a": "Algeria",
-        "options": [
-            "Ghana",
-            "Morocco",
-            "Senegal",
-            "Tunisia",
-            "Algeria"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The African Lion military exercise traditionally features high-ranking military officials from Washington and several of its top allies from which continent?",
-        "a": "Africa",
-        "options": [
-            "Europe",
-            "Asia",
-            "Africa",
-            "South America",
-            "North America"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi holds a Master\u2019s degree in Journalism and Mass Communication from which university?",
-        "a": "Guru Gobind Singh Indraprastha University",
-        "options": [
-            "University of Delhi",
-            "Jawaharlal Nehru University",
-            "Guru Gobind Singh Indraprastha University",
-            "Jamia Millia Islamia",
-            "Amity University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi holds a Bachelor\u2019s degree in English (Honours) from which university?",
-        "a": "University of Delhi",
-        "options": [
-            "Jawaharlal Nehru University",
-            "University of Delhi",
-            "Guru Gobind Singh Indraprastha University",
-            "Jamia Millia Islamia",
-            "Banaras Hindu University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the primary purpose of the African Lion military exercise?",
-        "a": "To boost regional security cooperation and refine the readiness of participating forces for global crises.",
-        "options": [
-            "To conduct counter-terrorism operations exclusively",
-            "To train for Arctic warfare scenarios",
-            "To boost regional security cooperation and refine the readiness of participating forces for global crises",
-            "To establish permanent US military bases in Africa",
-            "To promote cultural exchange programs"
+            "Impose new limits on the pill",
+            "Ban mail delivery of the pill",
+            "Require in-person doctor visits",
+            "Overturn Roe v. Wade",
+            "Restore broad access to the abortion pill"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to a US Defense official, the disappearance of the two US service members is NOT linked to what?",
-        "a": "Terrorism",
+        "q": "In which year did the Supreme Court decision that overturned Roe v. Wade take place?",
+        "a": "2022",
         "options": [
-            "Navigational error",
-            "Equipment malfunction",
-            "Natural disaster",
-            "Terrorism",
-            "Training accident"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which digital journalist specializes in international and geopolitical issues, with a focus on how global developments affect India?",
-        "a": "Swati Gandhi",
-        "options": [
-            "Barkha Dutt",
-            "Ravish Kumar",
-            "Arnab Goswami",
-            "Swati Gandhi",
-            "Rajdeep Sardesai"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "At which organization does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
-        "a": "Live Mint",
-        "options": [
-            "Business Standard",
-            "The Hindu",
-            "Live Mint",
-            "The Economic Times",
-            "Indian Express"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Swati Gandhi previously worked at which organization, covering national affairs, politics, and business?",
-        "a": "Business Standard",
-        "options": [
-            "Live Mint",
-            "The Times of India",
-            "Business Standard",
-            "Hindustan Times",
-            "India Today"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The incident involving the missing US service members occurred on which day of the week?",
-        "a": "Saturday",
-        "options": [
-            "Friday",
-            "Saturday",
-            "Sunday",
-            "Monday",
-            "Tuesday"
+            "2021",
+            "2023",
+            "2022",
+            "2020",
+            "2019"
         ],
         "cat": "When"
     },
     {
-        "q": "How many US Marines were killed in the helicopter crash during African Lion in 2012?",
-        "a": "Two",
+        "q": "What was a key restriction imposed by a federal appeals court that threatened to reduce access to mifepristone?",
+        "a": "Required in-person doctor visits",
         "options": [
-            "One",
-            "Two",
-            "Three",
+            "Expanded mail delivery",
+            "Protected doctors prescribing pills",
+            "Allowed patients in restrictive states access",
+            "Required in-person doctor visits",
+            "Lowered the age limit for access"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How long is the US Supreme Court's temporary decision on mifepristone expected to last initially?",
+        "a": "About a week",
+        "options": [
+            "About a month",
+            "About a week",
+            "Until year-end",
+            "Indefinitely",
+            "For three days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did US forces destroy Iranian boats and intercept missiles and drones in the Strait of Hormuz?",
+        "a": "May 4",
+        "options": [
+            "May 3",
+            "May 4",
+            "May 5",
+            "April 7",
+            "April 8"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who is the head of the US Central Command (CENTCOM)?",
+        "a": "Admiral Brad Cooper",
+        "options": [
+            "Donald Trump",
+            "Samuel Alito",
+            "Maj. Gen. Ali Abdollahi",
+            "Stephane Dujarric",
+            "Admiral Brad Cooper"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The incidents involving US forces and Iranian boats/missiles unfolded in and around which strategic location?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Persian Gulf",
+            "Gulf of Oman",
+            "Strait of Hormuz",
+            "Arabian Sea",
+            "Red Sea"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the name of the military-backed effort launched by US forces aimed at restoring commercial shipping through the Strait of Hormuz?",
+        "a": "Project Freedom",
+        "options": [
+            "Operation Shield",
+            "Gulf Initiative",
+            "Project Freedom",
+            "Maritime Security Plan",
+            "Strait Guardian"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many Iranian boats did US Apache and Seahawk helicopters strike during the confrontation?",
+        "a": "Six",
+        "options": [
+            "Five",
+            "Seven",
+            "Six",
             "Four",
-            "Five"
+            "Eight"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many US Marines were injured in the helicopter crash during African Lion in 2012?",
-        "a": "Two",
+        "q": "Who announced the 'Project Freedom' initiative on Sunday?",
+        "a": "President Donald Trump",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the specific emphasis of Swati Gandhi's work at Live Mint?",
-        "a": "Examining how global political developments, foreign policy decisions, and power shifts impact markets, industries, and India\u2019s strategic and economic interests.",
-        "options": [
-            "Focusing solely on domestic Indian politics",
-            "Examining how global political developments, foreign policy decisions, and power shifts impact markets, industries, and India\u2019s strategic and economic interests",
-            "Reporting on celebrity news and lifestyle",
-            "Covering local city events and culture",
-            "Analyzing historical events without current relevance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the total financial outlay for the incentive scheme to promote coal gasification projects?",
-        "a": "\u20b937,500 crore",
-        "options": [
-            "\u20b937,000 crore",
-            "\u20b937,500 crore",
-            "\u20b938,000 crore",
-            "\u20b936,500 crore",
-            "\u20b938,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which ministry has prepared a Cabinet note on the scheme to promote coal gasification projects?",
-        "a": "Coal Ministry",
-        "options": [
-            "Power Ministry",
-            "Finance Ministry",
-            "Coal Ministry",
-            "Ministry of New and Renewable Energy",
-            "Ministry of Environment, Forest and Climate Change"
+            "Admiral Brad Cooper",
+            "Maj. Gen. Ali Abdollahi",
+            "US Secretary of State",
+            "President Donald Trump",
+            "UN Secretary-General"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which government body is likely to approve the \u20b937,500 crore incentive scheme for coal gasification projects?",
-        "a": "The Cabinet",
+        "q": "According to President Trump, what was the primary goal of 'Project Freedom'?",
+        "a": "Restore freedom of navigation and assist commercial ships stranded",
         "options": [
-            "The Parliament",
-            "The Prime Minister's Office",
-            "The Cabinet",
-            "NITI Aayog",
-            "The Ministry of Coal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is one of the key aims of the incentive scheme to promote coal gasification projects, besides boosting clean energy?",
-        "a": "Reducing import dependence",
-        "options": [
-            "Increasing coal exports",
-            "Reducing import dependence",
-            "Subsidizing private mining companies",
-            "Creating new jobs in the coal industry only",
-            "Diversifying energy sources through oil exploration"
+            "Impose a naval blockade on Iran",
+            "Launch an attack on Iranian ports",
+            "Strengthen Iranian naval presence",
+            "Restore freedom of navigation and assist commercial ships stranded",
+            "Escort US Navy destroyers"
         ],
         "cat": "Why"
     },
     {
-        "q": "The coal gasification projects incentive scheme is aimed at boosting which type of energy production?",
-        "a": "Clean energy",
+        "q": "The UAE authorities in which emirate reported an Iranian drone strike on a major oil facility?",
+        "a": "Fujairah",
         "options": [
-            "Nuclear energy",
-            "Thermal energy",
-            "Clean energy",
-            "Hydroelectric energy",
-            "Solar energy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Nightingale\u2019s Forest is located in which country?",
-        "a": "Serbia",
-        "options": [
-            "Croatia",
-            "Bulgaria",
-            "Serbia",
-            "Romania",
-            "Hungary"
+            "Dubai",
+            "Abu Dhabi",
+            "Sharjah",
+            "Fujairah",
+            "Ras Al Khaimah"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Nightingale\u2019s Forest is described as a rare patch of thick greenery in the flat, farming region of which part of Serbia?",
-        "a": "Northeastern",
-        "options": [
-            "Southwestern",
-            "Northwestern",
-            "Southeastern",
-            "Northeastern",
-            "Central"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the size of the Nightingale\u2019s Forest in hectares?",
-        "a": "2-hectare",
-        "options": [
-            "1-hectare",
-            "1.5-hectare",
-            "2-hectare",
-            "2.5-hectare",
-            "3-hectare"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the purchase price of Nightingale\u2019s Forest in euros?",
-        "a": "8,000 euros",
-        "options": [
-            "7,500 euros",
-            "8,000 euros",
-            "8,500 euros",
-            "7,800 euros",
-            "8,200 euros"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the purchase price of Nightingale\u2019s Forest in US dollars?",
-        "a": "$9,500",
-        "options": [
-            "$9,000",
-            "$9,200",
-            "$9,500",
-            "$9,800",
-            "$10,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Bird Protection and Study Society bought the Nightingale\u2019s Forest in which year relative to the news report?",
-        "a": "Last year",
-        "options": [
-            "Two years ago",
-            "Last year",
-            "This year",
-            "Three years ago",
-            "Five years ago"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How quickly was the purchase price for Nightingale\u2019s Forest collected through crowdfunding?",
-        "a": "Less than a month",
-        "options": [
-            "Within a week",
-            "Within two weeks",
-            "Less than a month",
-            "In two months",
-            "Over three months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Approximately how many years ago was the Bird Protection and Study Society launched?",
-        "a": "30 years ago",
-        "options": [
-            "20 years ago",
-            "25 years ago",
-            "30 years ago",
-            "35 years ago",
-            "40 years ago"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which society bought the Nightingale\u2019s Forest to preserve it?",
-        "a": "Bird Protection and Study Society",
-        "options": [
-            "Serbian Forestry Department",
-            "Nature Conservation Trust",
-            "Bird Protection and Study Society",
-            "Wildlife Preservation Group",
-            "Environmental Action Committee"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the representative of the Bird Protection and Study Society quoted in the article about Nightingale's Forest?",
-        "a": "Uros Stojiljkovic",
-        "options": [
-            "Natasa Jancic",
-            "Ivan Petrovic",
-            "Uros Stojiljkovic",
-            "Dragan Markovic",
-            "Elena Novak"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was involved in the crowdfunding campaign for Nightingale\u2019s Forest and mentioned the continued donations?",
-        "a": "Natasa Jancic",
-        "options": [
-            "Uros Stojiljkovic",
-            "Natasa Jancic",
-            "Milos Pavlovic",
-            "Ana Petrova",
-            "Darko Jovanovic"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the primary reason for the Bird Protection and Study Society to buy Nightingale\u2019s Forest?",
-        "a": "To preserve the forest and set an example in environmental protection",
-        "options": [
-            "To establish a new bird watching tourism spot",
-            "To convert it into farmland",
-            "To harvest its timber for profit",
-            "To preserve the forest and set an example in environmental protection",
-            "To conduct scientific research only"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific environmental problem is Serbia facing, according to the article, which contributes to growing interest in nature protection?",
-        "a": "Air and river pollution and waste management",
-        "options": [
-            "Excessive rainfall",
-            "Desertification",
-            "Air and river pollution and waste management",
-            "Volcanic eruptions",
-            "Tsunami threats"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What potential fate did the society representative, Uros Stojiljkovic, suggest the trees in Nightingale's Forest would have faced if someone else had bought the privately-owned land?",
-        "a": "They probably would have been cut down.",
-        "options": [
-            "They would have been replanted",
-            "They would have been sold to a wildlife sanctuary",
-            "They probably would have been cut down",
-            "They would have been incorporated into a new park",
-            "They would have been left untouched indefinitely"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What kind of reporting approach does Swati Gandhi believe in strongly?",
-        "a": "Context-driven reporting",
-        "options": [
-            "Opinion-based reporting",
-            "Sensationalist reporting",
-            "Context-driven reporting",
-            "Breaking news only reporting",
-            "Analysis-free reporting"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of Swati Gandhi's key interests outside of her immediate work focus?",
-        "a": "Global political economy and the intersection of geopolitics with business",
-        "options": [
-            "Local sports events",
-            "Fashion design",
-            "Global political economy and the intersection of geopolitics with business",
-            "Classical music composition",
-            "Amateur gardening"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On which social media platform did Morocco's armed forces announce the missing US service members?",
-        "a": "Facebook",
-        "options": [
-            "Twitter",
-            "Instagram",
-            "Facebook",
-            "LinkedIn",
-            "YouTube"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which military branch is NOT explicitly mentioned as having active-duty members participating in African Lion, according to AP's list?",
-        "a": "Navy",
-        "options": [
-            "National Guard",
-            "Army Reserve",
-            "Air Force",
-            "Marine Corps",
-            "Navy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The African Lion 2026 exercise began on what specific date?",
-        "a": "April 27",
-        "options": [
-            "April 20",
-            "April 25",
-            "April 27",
-            "May 1",
-            "May 5"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many nations are hosting the African Lion 2026 exercise?",
-        "a": "Four",
+        "q": "How many Indian nationals were reported injured in the Iranian drone strike on the Fujairah oil facility?",
+        "a": "Three",
         "options": [
             "Two",
-            "Three",
             "Four",
+            "Three",
             "Five",
             "Six"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The \u20b937,500 crore incentive scheme for coal gasification projects is aimed at reducing dependence on what?",
-        "a": "Imports",
+        "q": "The fragile ceasefire between Washington and Tehran took effect last month, specifically on which date?",
+        "a": "April 7",
         "options": [
-            "Exports",
-            "Renewable energy",
-            "Imports",
-            "Domestic production",
-            "Foreign aid"
+            "May 4",
+            "April 6",
+            "April 7",
+            "April 8",
+            "May 3"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What did the Iranian military describe their launches near US warships as?",
+        "a": "Warning shots",
+        "options": [
+            "Defensive maneuvers",
+            "Pre-emptive strikes",
+            "Warning shots",
+            "Training exercises",
+            "Retaliatory attacks"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was a key economic factor that made Nightingale's Forest vulnerable to being cut down before its purchase?",
-        "a": "The value of timber was higher than the land price.",
+        "q": "Which Iranian commander warned that foreign military forces entering the Strait of Hormuz would face attack?",
+        "a": "Maj. Gen. Ali Abdollahi",
         "options": [
-            "Lack of local interest in nature",
-            "High demand for firewood",
-            "The value of timber was higher than the land price",
-            "The land was unsuitable for agriculture",
-            "It was a remote, unmonitored area"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Natasa Jancic, what does the growth of the Bird Protection and Study Society into a community of nature lovers signify?",
-        "a": "Mounting interest in the environment",
-        "options": [
-            "Decline in bird populations",
-            "Increase in hunting activities",
-            "Mounting interest in the environment",
-            "Expansion of urban development",
-            "Shift towards industrialization"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Serbia, where Nightingale's Forest is located, is part of which European region?",
-        "a": "The Balkans",
-        "options": [
-            "Scandinavian Peninsula",
-            "Iberian Peninsula",
-            "The Balkans",
-            "Baltic States",
-            "Central European Plain"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the underlying belief expressed by Natasa Jancic about collective action for nature protection?",
-        "a": "Individually, we can\u2019t do much, but as an active and stable community, we can achieve a lot.",
-        "options": [
-            "Individual efforts are always sufficient",
-            "Nature protection is solely the government's responsibility",
-            "Individually, we can\u2019t do much, but as an active and stable community, we can achieve a lot",
-            "Crowdfunding is ineffective for environmental causes",
-            "Only experts can contribute meaningfully to conservation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What vision does Uros Stojiljkovic propose for broader environmental impact, drawing from the Nightingale's Forest success?",
-        "a": "Every village or town should have a Nightingale\u2019s Forest of its own for a cumulative effect.",
-        "options": [
-            "Larger national parks are the only solution",
-            "International treaties are more effective than local efforts",
-            "Every village or town should have a Nightingale\u2019s Forest of its own for a cumulative effect",
-            "Developing eco-tourism is the sole path",
-            "Focusing on industrial green initiatives only"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why have frustrated military leaders in Mali, Burkina Faso, and Niger ousted elected governments since 2020?",
-        "a": "Citing failures to control violence",
-        "options": [
-            "To join the European Union",
-            "To expand trade with Western nations",
-            "To adopt democratic reforms",
-            "Citing failures to control violence",
-            "To promote free market policies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why has Rabat remained a key US ally in the volatile region, considering the political shifts in neighboring countries?",
-        "a": "It has maintained consistent ties with Western nations amidst regional instability.",
-        "options": [
-            "It has recently adopted anti-Western policies",
-            "Its military leaders have ousted elected governments",
-            "It has maintained consistent ties with Western nations amidst regional instability",
-            "It faces no internal violence or political unrest",
-            "It has diversified its alliances away from the US"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The African Lion military exercise is described as the largest US annual joint military exercise on which continent?",
-        "a": "Africa",
-        "options": [
-            "Asia",
-            "Europe",
-            "South America",
-            "Africa",
-            "North America"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which specific branch of the US military is mentioned as participating in African Lion, along with National Guard, Army Reserve, and Marine Corps?",
-        "a": "Air Force",
-        "options": [
-            "Navy",
-            "Space Force",
-            "Coast Guard",
-            "Air Force",
-            "Cyber Command"
+            "Ayatollah Ali Khamenei",
+            "Hassan Rouhani",
+            "Javad Zarif",
+            "Maj. Gen. Ali Abdollahi",
+            "Qassem Soleimani"
         ],
         "cat": "Who"
     },
     {
-        "q": "What did the Moroccan armed forces state was the exact location where the two US service members went missing on Saturday evening?",
-        "a": "Near a cliff at Cap Draa in the Tan-Tan area",
+        "q": "Roughly what percentage of the world's oil and liquefied natural gas (LNG) transited through the Strait of Hormuz before the war began in late February?",
+        "a": "20%",
         "options": [
-            "Agadir city center",
-            "Inside a military camp in Ghana",
-            "Near a cliff at Cap Draa in the Tan-Tan area",
-            "Off the coast of Senegal",
-            "Within a training facility in Tunisia"
+            "15%",
+            "25%",
+            "20%",
+            "30%",
+            "18%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How long had the ceasefire between the US and Iran persisted before the renewed hostilities cast doubt on its stability?",
+        "a": "Over three weeks",
+        "options": [
+            "Over two months",
+            "Over three weeks",
+            "Less than a week",
+            "Over a year",
+            "Exactly one month"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which UN spokesperson expressed concern over the renewed violence in the Strait of Hormuz?",
+        "a": "Stephane Dujarric",
+        "options": [
+            "Ant\u00f3nio Guterres",
+            "Ban Ki-moon",
+            "Kofi Annan",
+            "Stephane Dujarric",
+            "Boutros Boutros-Ghali"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What did the UN spokesperson stress the need to maintain in the strategic waterway?",
+        "a": "Freedom of navigation",
+        "options": [
+            "A naval blockade",
+            "Iranian sovereignty",
+            "Military exercises",
+            "Freedom of navigation",
+            "A no-fly zone"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many drones and missiles did Iran fire at the UAE between February 28 and the ceasefire on April 8?",
+        "a": "More than 2,800",
+        "options": [
+            "More than 2,700",
+            "More than 2,800",
+            "More than 2,900",
+            "More than 2,500",
+            "More than 3,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The initial total warfare between the U.S. and Israel with Iran began on which date, causing the strait's closure?",
+        "a": "Feb. 28",
+        "options": [
+            "Feb. 27",
+            "Feb. 28",
+            "March 1",
+            "March 15",
+            "Jan. 28"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the approximate surge in energy prices caused by Iran's functional shutdown of the Strait of Hormuz?",
+        "a": "50% or more",
+        "options": [
+            "45% or more",
+            "50% or more",
+            "55% or more",
+            "40% or more",
+            "60% or more"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many personnel did CENTCOM state it would support the rescue mission with?",
+        "a": "15,000",
+        "options": [
+            "14,000",
+            "16,000",
+            "15,000",
+            "10,000",
+            "20,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many aircraft did CENTCOM state it would support the rescue mission with for the mission in the Strait of Hormuz?",
+        "a": "Over 100",
+        "options": [
+            "Over 90",
+            "Over 110",
+            "Over 100",
+            "Over 80",
+            "Over 120"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which country did President Trump urge to participate in the 'Project Freedom' mission?",
+        "a": "South Korea",
+        "options": [
+            "Japan",
+            "Saudi Arabia",
+            "UAE",
+            "South Korea",
+            "India"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did the U.S.-led Joint Maritime Information Center advise ships to cross the strait to utilize an 'enhanced security area'?",
+        "a": "Oman's waters",
+        "options": [
+            "Iranian waters",
+            "UAE waters",
+            "International waters",
+            "Oman's waters",
+            "Saudi Arabian waters"
         ],
         "cat": "Where"
+    },
+    {
+        "q": "For how long had many commercial ships and their crews been confined to the Strait of Hormuz, reportedly facing critical shortages?",
+        "a": "Over two months",
+        "options": [
+            "Over one month",
+            "Over three months",
+            "Over two months",
+            "Less than a month",
+            "Over four months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the net direct tax collection in India in FY26 after adjusting for refunds?",
+        "a": "\u20b923.4 trillion",
+        "options": [
+            "\u20b923.5 trillion",
+            "\u20b923.4 trillion",
+            "\u20b923.3 trillion",
+            "\u20b923.6 trillion",
+            "\u20b923.2 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the lowered revised direct tax revenue target for FY26 as per the Union budget?",
+        "a": "\u20b924.2 trillion",
+        "options": [
+            "\u20b924.1 trillion",
+            "\u20b924.3 trillion",
+            "\u20b924.2 trillion",
+            "\u20b924.0 trillion",
+            "\u20b924.4 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage shortfall in tax receipts from the revised estimates for FY26?",
+        "a": "3.3%",
+        "options": [
+            "3.2%",
+            "3.4%",
+            "3.3%",
+            "3.5%",
+            "3.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much corporate tax was collected in India during FY26?",
+        "a": "\u20b910.99 trillion",
+        "options": [
+            "\u20b910.98 trillion",
+            "\u20b911.00 trillion",
+            "\u20b910.99 trillion",
+            "\u20b910.97 trillion",
+            "\u20b911.01 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in corporate tax collection in FY26 compared to FY25?",
+        "a": "11.4%",
+        "options": [
+            "11.3%",
+            "11.5%",
+            "11.4%",
+            "11.2%",
+            "11.6%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the personal income tax collection in India in FY26?",
+        "a": "\u20b911.83 trillion",
+        "options": [
+            "\u20b911.82 trillion",
+            "\u20b911.84 trillion",
+            "\u20b911.83 trillion",
+            "\u20b911.81 trillion",
+            "\u20b911.85 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the revised target for personal income tax in FY26?",
+        "a": "\u20b913.12 trillion",
+        "options": [
+            "\u20b913.11 trillion",
+            "\u20b913.13 trillion",
+            "\u20b913.12 trillion",
+            "\u20b913.10 trillion",
+            "\u20b913.14 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much did Securities Transaction Tax (STT) fetch the government in India in FY26?",
+        "a": "\u20b957,522 crore",
+        "options": [
+            "\u20b957,520 crore",
+            "\u20b957,524 crore",
+            "\u20b957,522 crore",
+            "\u20b957,521 crore",
+            "\u20b957,523 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much in tax refunds did the Indian government issue in FY26?",
+        "a": "\u20b94.71 trillion",
+        "options": [
+            "\u20b94.70 trillion",
+            "\u20b94.72 trillion",
+            "\u20b94.71 trillion",
+            "\u20b94.69 trillion",
+            "\u20b94.73 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the direct tax collection target for FY27?",
+        "a": "\u20b926.97 trillion",
+        "options": [
+            "\u20b926.96 trillion",
+            "\u20b926.98 trillion",
+            "\u20b926.97 trillion",
+            "\u20b926.95 trillion",
+            "\u20b926.99 trillion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the challenging growth requirement for direct tax collection in FY27?",
+        "a": "15.2%",
+        "options": [
+            "15.1%",
+            "15.3%",
+            "15.2%",
+            "15.0%",
+            "15.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "On what date was the Union budget for FY27 presented?",
+        "a": "1 February",
+        "options": [
+            "31 January",
+            "2 February",
+            "1 February",
+            "15 March",
+            "1 April"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the purpose of the government restructuring personal income tax slabs and rates and offering a rebate for individuals earning up to \u20b912 lakh annually in the FY26 budget?",
+        "a": "To boost household consumption, savings, and investments",
+        "options": [
+            "To increase government revenue",
+            "To simplify tax filing",
+            "To boost household consumption, savings, and investments",
+            "To reduce fiscal deficit",
+            "To encourage foreign investment"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is mentioned as a partner at Deloitte India, commenting on the direct tax collections?",
+        "a": "Rohinton Sidhwa",
+        "options": [
+            "Gireesh",
+            "Sugam Singhal",
+            "Rohinton Sidhwa",
+            "Chanchal",
+            "Sanchari Ghosh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the annual income threshold for individuals to receive a rebate after the FY26 budget restructuring?",
+        "a": "Up to \u20b912 lakh",
+        "options": [
+            "Up to \u20b910 lakh",
+            "Up to \u20b915 lakh",
+            "Up to \u20b912 lakh",
+            "Up to \u20b98 lakh",
+            "Up to \u20b914 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was President Donald Trump\u2019s approval rating according to the new ABC News/Washington Post/Ipsos poll?",
+        "a": "37%",
+        "options": [
+            "36%",
+            "38%",
+            "37%",
+            "35%",
+            "39%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was President Donald Trump\u2019s disapproval rating in the poll?",
+        "a": "62%",
+        "options": [
+            "61%",
+            "63%",
+            "62%",
+            "60%",
+            "64%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans disapprove of Trump\u2019s handling of the cost of living?",
+        "a": "76%",
+        "options": [
+            "75%",
+            "77%",
+            "76%",
+            "74%",
+            "78%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans disapprove of Trump\u2019s handling of inflation?",
+        "a": "72%",
+        "options": [
+            "71%",
+            "73%",
+            "72%",
+            "70%",
+            "74%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans disapprove of Trump\u2019s management of the economy overall?",
+        "a": "65%",
+        "options": [
+            "64%",
+            "66%",
+            "65%",
+            "63%",
+            "67%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans disapprove of how Trump is managing the situation involving Iran?",
+        "a": "66%",
+        "options": [
+            "65%",
+            "67%",
+            "66%",
+            "64%",
+            "68%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was Trump\u2019s approval level among independent voters in the poll?",
+        "a": "25%",
+        "options": [
+            "24%",
+            "26%",
+            "25%",
+            "23%",
+            "27%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Republicans overall approve of Trump\u2019s performance?",
+        "a": "85%",
+        "options": [
+            "84%",
+            "86%",
+            "85%",
+            "83%",
+            "87%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The number of Republicans who 'strongly approve' of Trump dropped from 53% last year to what percentage?",
+        "a": "45%",
+        "options": [
+            "44%",
+            "46%",
+            "45%",
+            "43%",
+            "47%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans approve of Trump\u2019s handling of the US-Mexico border?",
+        "a": "45%",
+        "options": [
+            "44%",
+            "46%",
+            "45%",
+            "43%",
+            "47%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of registered voters said they would back the Democratic candidate if congressional elections were held today?",
+        "a": "49%",
+        "options": [
+            "48%",
+            "50%",
+            "49%",
+            "47%",
+            "51%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of registered voters said they would back the Republican candidate if congressional elections were held today?",
+        "a": "44%",
+        "options": [
+            "43%",
+            "45%",
+            "44%",
+            "42%",
+            "46%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of Americans believe the Democratic Party is 'too liberal'?",
+        "a": "53%",
+        "options": [
+            "52%",
+            "54%",
+            "53%",
+            "51%",
+            "55%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total number of US adults surveyed for the ABC News/Washington Post/Ipsos poll?",
+        "a": "2,560",
+        "options": [
+            "2,550",
+            "2,570",
+            "2,560",
+            "2,540",
+            "2,580"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the margin of error for the ABC News/Washington Post/Ipsos poll?",
+        "a": "Plus or minus two percentage points",
+        "options": [
+            "Plus or minus one percentage point",
+            "Plus or minus three percentage points",
+            "Plus or minus two percentage points",
+            "Plus or minus 0.5 percentage points",
+            "Plus or minus four percentage points"
+        ],
+        "cat": "Amount"
     }
 ]
