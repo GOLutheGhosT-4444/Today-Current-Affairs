@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the Asset Under Management (AUM) threshold for an index to be considered a \u2018Significant Index\u2019 by SEBI?",
-        "a": "\u20b920,000 Crore",
+        "q": "What is the maximum 'aggregate holding' approved by RBI for Kotak Mahindra Bank to acquire in AU Small Finance Bank?",
+        "a": "9.99%",
         "options": [
-            "\u20b920,100 Crore",
-            "\u20b919,900 Crore",
-            "\u20b920,000 Crore",
-            "\u20b920,050 Crore",
-            "\u20b919,950 Crore"
+            "9.85%",
+            "10.05%",
+            "9.99%",
+            "9.97%",
+            "9.93%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much loan will the Bihar government take from the World Bank for urban development?",
-        "a": "500 million U.S. dollars",
+        "q": "What was One97 Communications' consolidated profit in the fourth quarter ended March 2026?",
+        "a": "\u20b9183 crore",
         "options": [
-            "510 million U.S. dollars",
-            "490 million U.S. dollars",
-            "500 million U.S. dollars",
-            "505 million U.S. dollars",
-            "495 million U.S. dollars"
+            "\u20b9193 crore",
+            "\u20b9183 crore",
+            "\u20b9173 crore",
+            "\u20b9203 crore",
+            "\u20b9163 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What revised amount has been sanctioned as a \u201ccash gap subsidy\u201d for the running of 400 e-buses in Bihar?",
-        "a": "\u20b9517.16 crore",
+        "q": "What was One97 Communications' consolidated revenue from operations in the fourth quarter ended March 2026?",
+        "a": "\u20b92,264 crore",
         "options": [
-            "\u20b9517.26 crore",
-            "\u20b9517.06 crore",
-            "\u20b9517.16 crore",
-            "\u20b9517.36 crore",
-            "\u20b9517.46 crore"
+            "\u20b92,254 crore",
+            "\u20b92,274 crore",
+            "\u20b92,264 crore",
+            "\u20b92,284 crore",
+            "\u20b92,244 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many electric AC buses are to be purchased under PM E-Bus Sewa Yojana for Bihar?",
-        "a": "400",
+        "q": "What was One97 Communications' consolidated loss in the fourth quarter ended March 2025 (a year prior)?",
+        "a": "\u20b9545 crore",
         "options": [
-            "410",
-            "390",
-            "400",
-            "405",
-            "395"
+            "\u20b9555 crore",
+            "\u20b9535 crore",
+            "\u20b9545 crore",
+            "\u20b9565 crore",
+            "\u20b9525 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many electric AC buses are specifically allocated for Patna under the PM E-Bus Sewa Yojana?",
-        "a": "150",
+        "q": "What was One97 Communications' consolidated revenue from operations in the March 2025 quarter?",
+        "a": "\u20b91,912 crore",
         "options": [
-            "155",
-            "145",
-            "150",
-            "160",
-            "140"
+            "\u20b91,902 crore",
+            "\u20b91,922 crore",
+            "\u20b91,912 crore",
+            "\u20b91,932 crore",
+            "\u20b91,908 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many electric AC buses are allocated for Muzaffarpur (and similarly for Bhagalpur, Gaya, Darbhanga, and Purnea) under the PM E-Bus Sewa Yojana?",
-        "a": "50",
+        "q": "What was One97 Communications' consolidated profit for the financial year ended March 2026?",
+        "a": "\u20b9552 crore",
         "options": [
-            "55",
-            "45",
-            "50",
-            "60",
-            "40"
+            "\u20b9542 crore",
+            "\u20b9562 crore",
+            "\u20b9552 crore",
+            "\u20b9572 crore",
+            "\u20b9532 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much land will be transferred to the Airport Authority of India (AAI), Patna, free of cost?",
-        "a": "1.85 acres",
+        "q": "What was One97 Communications' consolidated loss for the financial year ended March 2025?",
+        "a": "\u20b9663 crore",
         "options": [
-            "1.86 acres",
-            "1.84 acres",
-            "1.85 acres",
-            "1.87 acres",
-            "1.83 acres"
+            "\u20b9653 crore",
+            "\u20b9673 crore",
+            "\u20b9663 crore",
+            "\u20b9683 crore",
+            "\u20b9643 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated expenditure administratively approved by the Bihar Cabinet for the maintenance of State roads?",
-        "a": "\u20b915,967.03 crore",
+        "q": "What was One97 Communications' annual revenue from operations in FY26?",
+        "a": "\u20b98,437 crore",
         "options": [
-            "\u20b915,967.13 crore",
-            "\u20b915,966.93 crore",
-            "\u20b915,967.03 crore",
-            "\u20b915,967.23 crore",
-            "\u20b915,966.83 crore"
+            "\u20b98,427 crore",
+            "\u20b98,447 crore",
+            "\u20b98,437 crore",
+            "\u20b98,457 crore",
+            "\u20b98,417 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many decisions were taken at the recent Bihar Cabinet meeting chaired by Chief Minister Samrat Choudhary?",
-        "a": "20",
+        "q": "What was One97 Communications' annual revenue from operations in FY25?",
+        "a": "\u20b96,900 crore",
         "options": [
-            "21",
-            "19",
-            "20",
-            "22",
-            "18"
+            "\u20b96,890 crore",
+            "\u20b96,910 crore",
+            "\u20b96,900 crore",
+            "\u20b96,920 crore",
+            "\u20b96,880 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Chandranath Rath, the aide of BJP leader Suvendu Adhikari, when he was shot dead?",
-        "a": "41",
+        "q": "What is the expected Consumer Price Index (CPI) in April 2026, according to Bank of Baroda?",
+        "a": "4%",
         "options": [
-            "42",
-            "40",
-            "41",
-            "43",
-            "39"
+            "3.9%",
+            "4.1%",
+            "4%",
+            "4.2%",
+            "3.8%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many significant indices were mentioned by SEBI in the list of significant indices?",
-        "a": "48",
+        "q": "By what percentage did Tomato prices increase in April 2026 compared to the same month last fiscal year?",
+        "a": "35.8%",
         "options": [
-            "49",
-            "47",
-            "48",
-            "50",
-            "46"
+            "35.5%",
+            "35.8%",
+            "36.0%",
+            "35.2%",
+            "36.1%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many months should the daily average cumulative AUM exceed the threshold to be considered a 'Significant Index' by SEBI?",
-        "a": "six months",
+        "q": "What was the decline in arrival statistics of Tomato, Onion, and Potato (TOP) in April 2026 over April 2025?",
+        "a": "12.8%",
         "options": [
-            "seven months",
-            "five months",
-            "six months",
-            "eight months",
-            "four months"
+            "12.5%",
+            "13.0%",
+            "12.8%",
+            "12.2%",
+            "13.1%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which regulatory body specified the criteria for a \u2018Significant Index\u2019 for mutual funds?",
-        "a": "Securities and Exchange Board of India (SEBI)",
+        "q": "By what percentage did the price of packed mustard oil increase in the reporting month (April 2026)?",
+        "a": "10.8%",
         "options": [
-            "Reserve Bank of India (RBI)",
-            "Insurance Regulatory and Development Authority of India (IRDAI)",
-            "Securities and Exchange Board of India (SEBI)",
-            "Pension Fund Regulatory and Development Authority (PFRDA)",
-            "Ministry of Finance"
+            "10.5%",
+            "11.0%",
+            "10.8%",
+            "10.2%",
+            "11.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in soya oil prices in the reporting month (April 2026)?",
+        "a": "7.8%",
+        "options": [
+            "7.5%",
+            "8.0%",
+            "7.8%",
+            "7.2%",
+            "8.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what percentage did sunflower oil prices increase in the reporting month (April 2026)?",
+        "a": "15.2%",
+        "options": [
+            "15.0%",
+            "15.5%",
+            "15.2%",
+            "14.8%",
+            "15.3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the approximate population of Qeshm Island, an Iranian strategic territory?",
+        "a": "150,000",
+        "options": [
+            "140,000",
+            "160,000",
+            "150,000",
+            "155,000",
+            "145,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the trading price of AU Small Finance Bank shares on the BSE on May 7, 2026?",
+        "a": "\u20b91,034.60",
+        "options": [
+            "\u20b91,034.50",
+            "\u20b91,034.70",
+            "\u20b91,034.60",
+            "\u20b91,034.40",
+            "\u20b91,034.80"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the trading price of Federal Bank shares on the BSE on May 7, 2026?",
+        "a": "\u20b9297.40",
+        "options": [
+            "\u20b9297.30",
+            "\u20b9297.50",
+            "\u20b9297.40",
+            "\u20b9297.60",
+            "\u20b9297.20"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which bank received RBI approval to acquire up to 9.99% each in AU Small Finance Bank and Federal Bank?",
+        "a": "Kotak Mahindra Bank",
+        "options": [
+            "HDFC Bank",
+            "ICICI Bank",
+            "Kotak Mahindra Bank",
+            "Axis Bank",
+            "State Bank of India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which international organization will provide a loan of 500 million U.S. dollars to Bihar for urban development?",
-        "a": "World Bank",
+        "q": "Who is the current President and Group CFO of One97 Communications (Paytm)?",
+        "a": "Madhur Deora",
         "options": [
-            "International Monetary Fund (IMF)",
-            "Asian Development Bank (ADB)",
-            "World Bank",
-            "New Development Bank (NDB)",
-            "United Nations Development Programme (UNDP)"
+            "Vijay Shekhar Sharma",
+            "Madhur Deora",
+            "Renu Satti",
+            "Amit Nayyar",
+            "Bhavesh Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who chaired the Bihar Cabinet meeting where several key decisions, including the World Bank loan, were approved?",
-        "a": "Chief Minister Samrat Choudhary",
+        "q": "Who is the Iranian Foreign Ministry spokesperson mentioned as reviewing proposals delivered via Pakistan?",
+        "a": "Esmail Baghaei",
         "options": [
-            "Chief Minister Nitish Kumar",
-            "Chief Minister Samrat Choudhary",
-            "Finance Minister Vijay Kumar Choudhary",
-            "Chief Secretary Amir Subhani",
-            "Additional Chief Secretary Arvind Kumar Choudhary"
+            "Javad Zarif",
+            "Esmail Baghaei",
+            "Ali Khamenei",
+            "Hassan Rouhani",
+            "Mahmoud Ahmadinejad"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who briefed reporters in a post-cabinet briefing regarding the decisions taken by the Bihar Cabinet?",
-        "a": "Additional Chief Secretary Arvind Kumar Choudhary",
+        "q": "Who is the Pakistan's Foreign Ministry Spokesperson who expressed hope for a peaceful solution regarding Iran-US tensions?",
+        "a": "Tahir Andrabi",
         "options": [
-            "Chief Minister Samrat Choudhary",
-            "Finance Minister Vijay Kumar Choudhary",
-            "Additional Chief Secretary Arvind Kumar Choudhary",
-            "Cabinet Secretary Rajiv Gauba",
-            "Home Secretary Ajay Kumar Bhalla"
+            "Arif Alvi",
+            "Shah Mahmood Qureshi",
+            "Imran Khan",
+            "Tahir Andrabi",
+            "Asif Ali Zardari"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity will receive 1.85 acres of land from the Bihar government for infrastructure development?",
-        "a": "Airport Authority of India (AAI)",
+        "q": "Which US President has issued conflicting signals on the conflict near the Strait of Hormuz?",
+        "a": "Donald Trump",
         "options": [
-            "Indian Railways",
-            "National Highways Authority of India (NHAI)",
-            "Airport Authority of India (AAI)",
-            "Bihar State Road Development Corporation",
-            "Patna Municipal Corporation"
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "After whom has the Government Medical College and Hospital being built at Sitamarhi been named?",
-        "a": "Maa Sita",
+        "q": "Who is the Economist at Bank of Baroda who authored the research note on essential commodities prices?",
+        "a": "Dipanwita Mazumdar",
         "options": [
-            "Lord Ram",
-            "Maa Sita",
-            "Maharishi Valmiki",
-            "Gautama Buddha",
-            "Ashoka the Great"
+            "Arundhati Bhattacharya",
+            "Shanti Ekambaram",
+            "Dipanwita Mazumdar",
+            "Chanda Kochhar",
+            "Kalpana Morparia"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the close aide of BJP leader Suvendu Adhikari who was shot dead in West Bengal?",
-        "a": "Chandranath Rath",
+        "q": "Who is the controversial streamer who reportedly faced a lifetime ban from Australia?",
+        "a": "Nico \u2018Sneako\u2019 Kenn De Balinthazy",
         "options": [
-            "Subrata Bakshi",
-            "Partha Chatterjee",
-            "Chandranath Rath",
-            "Firhad Hakim",
-            "Sourav Ganguly"
+            "Andrew Tate",
+            "Jake Paul",
+            "Nico \u2018Sneako\u2019 Kenn De Balinthazy",
+            "Logan Paul",
+            "PewDiePie"
         ],
         "cat": "Who"
     },
     {
-        "q": "Chandranath Rath, who was recently shot dead, was a close aide of which prominent BJP leader?",
-        "a": "Suvendu Adhikari",
+        "q": "Who reportedly issued a lifetime ban against Sneako from Australia?",
+        "a": "Troy Burke",
         "options": [
-            "Dilip Ghosh",
-            "J.P. Nadda",
-            "Amit Shah",
-            "Suvendu Adhikari",
-            "Smriti Irani"
+            "Scott Morrison",
+            "Anthony Albanese",
+            "Troy Burke",
+            "Peter Dutton",
+            "Penny Wong"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was Chandranath Rath's mother, who held a position in a local panchayat body in Purba Medinipur during the TMC years?",
-        "a": "Hasi Rath",
+        "q": "Who was the former New Zealand rugby player and boxer mentioned as spending time with Sneako during his Southeast Asia tour?",
+        "a": "Sonny Bill Williams",
         "options": [
-            "Sujata Mondal",
-            "Hasi Rath",
-            "Mamata Banerjee",
-            "Arpita Mukherjee",
-            "Chandana Bauri"
+            "Richie McCaw",
+            "Dan Carter",
+            "Sonny Bill Williams",
+            "Jonah Lomu",
+            "Ma'a Nonu"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which government did Suvendu Adhikari serve as a Minister in, around 2019, when Chandranath Rath formally joined his official team?",
-        "a": "Mamata Banerjee government",
+        "q": "Who headed the Supreme Court Bench that questioned the debate in Parliament regarding the Election Commission appointments?",
+        "a": "Justice Dipankar Datta",
         "options": [
-            "Left Front government",
-            "Mamata Banerjee government",
-            "NDA government (Centre)",
-            "Manmohan Singh government",
-            "Atal Bihari Vajpayee government"
+            "Justice D.Y. Chandrachud",
+            "Justice S.K. Kaul",
+            "Justice Dipankar Datta",
+            "Justice Sanjiv Khanna",
+            "Justice B.R. Gavai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which state government constituted the Bihar Artificial Intelligence Mission?",
-        "a": "Bihar",
+        "q": "Who represented the Association for Democratic Reforms in the Supreme Court case concerning Election Commission appointments?",
+        "a": "Prashant Bhushan",
         "options": [
-            "Uttar Pradesh",
-            "Jharkhand",
-            "West Bengal",
-            "Bihar",
-            "Odisha"
+            "Harish Salve",
+            "Kapil Sibal",
+            "Prashant Bhushan",
+            "Abhishek Manu Singhvi",
+            "P. Chidambaram"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which officials in Bihar will be provided with quality training in Artificial Intelligence?",
-        "a": "Members of both the State legislative assembly and council, State Government\u2019s officials and other staff",
+        "q": "Which AIMIM MP was mentioned as the sole objector to the proposed law on Election Commission appointments in Parliament?",
+        "a": "Asaduddin Owaisi",
         "options": [
-            "Only State legislative assembly members",
-            "Only State council members",
-            "Only State Government officials",
-            "Members of both the State legislative assembly and council, State Government\u2019s officials and other staff",
-            "Only employees of AI Mission"
+            "Akbaruddin Owaisi",
+            "Sultan Salahuddin Owaisi",
+            "Asaduddin Owaisi",
+            "Imtiaz Jaleel",
+            "Syed Ahmed Pasha Quadri"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where will the 500 million U.S. dollar loan from the World Bank be utilized for urban development and economic growth?",
-        "a": "Bihar",
+        "q": "Near which strategic Iranian territory in the Persian Gulf did the missile exchange reportedly occur?",
+        "a": "Qeshm Island",
         "options": [
-            "Uttar Pradesh",
-            "West Bengal",
-            "Bihar",
-            "Odisha",
-            "Jharkhand"
+            "Kish Island",
+            "Kharg Island",
+            "Qeshm Island",
+            "Lavan Island",
+            "Sirri Island"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city will 150 electric AC buses be purchased under PM E-Bus Sewa Yojana in Bihar?",
-        "a": "Patna",
+        "q": "Which body of water saw US naval vessels reportedly come under missile fire near Iran?",
+        "a": "Strait of Hormuz",
         "options": [
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Gaya",
-            "Patna",
-            "Darbhanga"
+            "Persian Gulf",
+            "Gulf of Oman",
+            "Strait of Hormuz",
+            "Arabian Sea",
+            "Red Sea"
         ],
         "cat": "Where"
     },
     {
-        "q": "Apart from Patna, which city is slated to receive 50 electric AC buses under the PM E-Bus Sewa Yojana?",
-        "a": "Purnea",
+        "q": "In which part of Tehran were loud explosions and defensive fire activity reported?",
+        "a": "Western Tehran",
         "options": [
-            "Purnea",
-            "Arrah",
-            "Chhapra",
-            "Motihari",
-            "Siwan"
+            "Northern Tehran",
+            "Southern Tehran",
+            "Western Tehran",
+            "Eastern Tehran",
+            "Central Tehran"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is the Government Medical College and Hospital, which has been named after \u201cMaa Sita,\u201d being built?",
-        "a": "Sitamarhi",
+        "q": "Near which southern Iranian city were blasts also reported, according to semiofficial news agencies?",
+        "a": "Bandar Abbas",
         "options": [
-            "Patna",
-            "Muzaffarpur",
-            "Sitamarhi",
-            "Gaya",
-            "Bhagalpur"
+            "Shiraz",
+            "Isfahan",
+            "Tabriz",
+            "Bandar Abbas",
+            "Mashhad"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which district of West Bengal was Chandranath Rath, the aide of Suvendu Adhikari, shot dead?",
-        "a": "North 24 Parganas district",
+        "q": "Where did Nico \u2018Sneako\u2019 Kenn De Balinthazy travel after finishing his Southeast Asia tour?",
+        "a": "Australia",
         "options": [
-            "Purba Medinipur district",
-            "South 24 Parganas district",
-            "North 24 Parganas district",
-            "Howrah district",
-            "Hooghly district"
+            "New Zealand",
+            "United States",
+            "Australia",
+            "Canada",
+            "United Kingdom"
         ],
         "cat": "Where"
     },
     {
-        "q": "Chandranath Rath, who was shot dead, originally hailed from which place in Purba Medinipur district?",
-        "a": "Chandipur",
+        "q": "Which country is acting as a mediator for proposals delivered to Iran regarding US tensions?",
+        "a": "Pakistan",
         "options": [
-            "Nandigram",
-            "Kanthi",
-            "Tamralipta",
-            "Chandipur",
-            "Haldia"
+            "China",
+            "Russia",
+            "Pakistan",
+            "India",
+            "Oman"
         ],
         "cat": "Where"
     },
     {
-        "q": "Chandranath Rath completed his studies at which institution before joining the Indian Air Force?",
-        "a": "Rahara Ramakrishna Mission",
+        "q": "Which country did Sneako claim he was followed by federal agents in?",
+        "a": "Australia",
         "options": [
-            "Belur Math",
-            "Ramakrishna Mission Vidyalaya, Narendrapur",
-            "Rahara Ramakrishna Mission",
-            "Vivekananda Mission Asram",
-            "Ramakrishna Mission Institute of Culture"
+            "New Zealand",
+            "United States",
+            "Australia",
+            "Indonesia",
+            "Malaysia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Near which area was Chandranath Rath's vehicle intercepted and he was shot by assailants?",
-        "a": "Madhyamgram\u2019s Doharia area",
+        "q": "In which states did IMD issue warnings of heatwave in May 2026, impacting TOP producing regions?",
+        "a": "East Coast States, Gujarat and Maharashtra",
         "options": [
-            "Barasat",
-            "Dum Dum",
-            "Madhyamgram\u2019s Doharia area",
-            "Barrackpore",
-            "Budge Budge"
+            "Punjab, Haryana and Rajasthan",
+            "Uttar Pradesh, Bihar and West Bengal",
+            "East Coast States, Gujarat and Maharashtra",
+            "Madhya Pradesh, Chhattisgarh and Odisha",
+            "Karnataka, Kerala and Tamil Nadu"
         ],
         "cat": "Where"
     },
     {
-        "q": "Chandranath Rath was part of the core team during several high-voltage political battles, including the BJP\u2019s campaign in which constituency?",
-        "a": "Bhabanipur",
+        "q": "Where did Sneako write \"You only live once, but you will be dead forever\" from on April 27?",
+        "a": "Southeast Asia",
         "options": [
-            "Nandigram",
-            "Singur",
-            "Bhabanipur",
-            "Kanthi",
-            "Diamond Harbour"
+            "Australia",
+            "United States",
+            "New Zealand",
+            "Southeast Asia",
+            "Dubai"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which department's conference room was the post-cabinet briefing held by Additional Chief Secretary Arvind Kumar Choudhary?",
-        "a": "IPRD\u2019s conference room",
+        "q": "The Supreme Court's 2023 judgment regarding Election Commission appointments was given in the case of Anoop Baranwal versus which entity?",
+        "a": "Union of India",
         "options": [
-            "Finance Department",
-            "Cabinet Secretariat Department",
-            "General Administration Department",
-            "IPRD\u2019s conference room",
-            "Chief Minister's Office"
+            "State of Uttar Pradesh",
+            "Election Commission of India",
+            "Union of India",
+            "Parliament of India",
+            "President of India"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which Indian state is aiming to establish itself as one of the leading states in Artificial Intelligence through its new mission?",
-        "a": "Bihar",
+        "q": "The landmark Indira Nehru Gandhi versus Raj Narain case in 1975, which triggered the Emergency, was heard in which court?",
+        "a": "Supreme Court",
         "options": [
-            "Maharashtra",
-            "Karnataka",
-            "Telangana",
-            "Uttar Pradesh",
-            "Bihar"
+            "Delhi High Court",
+            "Allahabad High Court",
+            "Supreme Court",
+            "Bombay High Court",
+            "Calcutta High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the land belonging to the industrial area, Patna (urban), abutting the airport campus, that was transferred to AAI?",
-        "a": "Patna",
+        "q": "Which country's media reported claims of a streamer being banned for hate speech?",
+        "a": "Australia",
         "options": [
-            "Gaya",
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Darbhanga",
-            "Patna"
+            "United Kingdom",
+            "United States",
+            "Canada",
+            "Australia",
+            "New Zealand"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did SEBI release the circular specifying the AUM threshold for \u2018Significant Indices\u2019?",
-        "a": "6 May 2026",
+        "q": "On which date did Iranian state media report the missile fire incident near the Strait of Hormuz?",
+        "a": "Thursday (May 7)",
         "options": [
-            "6 June 2026",
-            "6 April 2026",
-            "6 May 2026",
-            "7 May 2026",
-            "5 May 2026"
+            "May 6",
+            "May 7",
+            "May 8",
+            "May 5",
+            "May 4"
         ],
         "cat": "When"
     },
     {
-        "q": "How frequently will the AUM threshold for 'Significant Indices' be tested by SEBI?",
-        "a": "every six months",
+        "q": "On which date did the Reserve Bank of India accord its approval to Kotak Mahindra Bank for acquiring a stake in AU Small Finance Bank and Federal Bank?",
+        "a": "May 6",
         "options": [
-            "every three months",
-            "every year",
-            "every six months",
-            "every quarter",
-            "every nine months"
+            "May 5",
+            "May 6",
+            "May 7",
+            "May 4",
+            "May 8"
         ],
         "cat": "When"
     },
     {
-        "q": "The six-month period for testing AUM for 'Significant Indices' by SEBI ends on which two dates each year?",
-        "a": "30th June and 31st December",
+        "q": "When did One97 Communications report its consolidated profit for the fourth quarter ended March 2026?",
+        "a": "Wednesday (May 6, 2026)",
         "options": [
-            "31st March and 30th September",
-            "30th June and 31st December",
-            "31st July and 31st January",
-            "30th April and 31st October",
-            "31st August and 28th February"
+            "May 5, 2026",
+            "May 6, 2026",
+            "May 7, 2026",
+            "May 4, 2026",
+            "May 8, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Index providers who do not come under RBI jurisdiction must submit an application for registration to SEBI within what timeframe from the circular's date?",
-        "a": "six months",
+        "q": "When was the banking licence issued to Paytm Payments Bank (PPBL) cancelled by the RBI?",
+        "a": "April 2026",
         "options": [
-            "three months",
-            "nine months",
-            "six months",
-            "twelve months",
-            "one month"
+            "March 2026",
+            "April 2026",
+            "May 2026",
+            "February 2026",
+            "June 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day did the Bihar Cabinet give its nod to the World Bank loan and other decisions?",
-        "a": "Wednesday (May 7, 2026)",
+        "q": "What is the financial year end for which Paytm posted a consolidated profit of \u20b9552 crore?",
+        "a": "March 2026",
         "options": [
-            "Tuesday (May 6, 2026)",
-            "Thursday (May 8, 2026)",
-            "Wednesday (May 7, 2026)",
-            "Monday (May 5, 2026)",
-            "Friday (May 9, 2026)"
+            "March 2025",
+            "March 2026",
+            "March 2027",
+            "December 2025",
+            "December 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "From which financial year will the PM E-Bus Sewa Yojana be implemented in Bihar for the next 12 years?",
-        "a": "financial year 2026-27",
+        "q": "In which month and year is the Consumer Price Index (CPI) expected to be 4% according to Bank of Baroda?",
+        "a": "April 2026",
         "options": [
-            "financial year 2025-26",
-            "financial year 2027-28",
-            "financial year 2026-27",
-            "financial year 2024-25",
-            "financial year 2023-24"
+            "March 2026",
+            "April 2026",
+            "May 2026",
+            "June 2026",
+            "February 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Until what date has the implementation of the Bihar Industrial Investment Promotion Package (BIIPP) 2025 been extended?",
-        "a": "June 30, 2026",
+        "q": "When did Sky News Australia air a segment calling Sneako \u201cblatantly anti-Semitic\u201d?",
+        "a": "May 5",
         "options": [
-            "March 31, 2026",
-            "July 31, 2026",
-            "June 30, 2026",
-            "May 31, 2026",
-            "August 31, 2026"
+            "May 4",
+            "May 5",
+            "May 6",
+            "May 7",
+            "May 3"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the previous effective expiry date of the Bihar Industrial Investment Promotion Package (BIIPP) 2025 before its extension?",
-        "a": "March 31, 2026",
+        "q": "On which date did Sneako post the message \u201cI am ready to die\u201d?",
+        "a": "May 7, 2026",
         "options": [
-            "June 30, 2026",
-            "February 28, 2026",
-            "March 31, 2026",
-            "April 30, 2026",
-            "January 31, 2026"
+            "May 6, 2026",
+            "May 7, 2026",
+            "May 5, 2026",
+            "May 4, 2026",
+            "May 8, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The tenure of the Seventh State Finance Commission in Bihar has been extended until which date?",
-        "a": "30 September 2026",
+        "q": "When was the Supreme Court's judgment in Anoop Baranwal versus Union of India, which introduced a new mechanism for appointing Election Commissioners?",
+        "a": "2023",
         "options": [
-            "31 August 2026",
-            "31 October 2026",
-            "30 September 2026",
-            "31 July 2026",
-            "30 November 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which night was Chandranath Rath, the aide of Suvendu Adhikari, shot dead?",
-        "a": "Wednesday (May 6, 2026) night",
-        "options": [
-            "Tuesday (May 5, 2026) night",
-            "Thursday (May 7, 2026) night",
-            "Wednesday (May 6, 2026) night",
-            "Friday (May 8, 2026) night",
-            "Monday (May 4, 2026) night"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Chandranath Rath formally become part of Suvendu Adhikari\u2019s official team?",
-        "a": "around 2019",
-        "options": [
-            "around 2018",
-            "around 2020",
-            "around 2019",
-            "around 2021",
-            "around 2017"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Chandranath Rath's mother, Hasi Rath, shift her allegiance to the BJP along with Suvendu Adhikari?",
-        "a": "2020",
-        "options": [
-            "2019",
-            "2021",
-            "2020",
             "2022",
-            "2018"
+            "2023",
+            "2024",
+            "2021",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of SEBI defining an index as a \u2018Significant Index\u2019 for mutual funds?",
-        "a": "To specify criteria for benchmarks tracked by mutual funds for regulatory purposes.",
+        "q": "In which year was the landmark Indira Nehru Gandhi versus Raj Narain case decided by the Supreme Court?",
+        "a": "1975",
         "options": [
-            "To reduce the number of indices in the market",
-            "To specify criteria for benchmarks tracked by mutual funds for regulatory purposes",
-            "To encourage new index providers",
-            "To increase AUM in mutual funds",
-            "To simplify investment choices for retail investors"
+            "1974",
+            "1975",
+            "1976",
+            "1973",
+            "1977"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why did US naval vessels reportedly come under missile fire near the Strait of Hormuz, according to Iranian state media?",
+        "a": "Following an American attack on its oil tanker",
+        "options": [
+            "To conduct naval exercises",
+            "To secure a maritime corridor",
+            "Following an American attack on its oil tanker",
+            "To transport military cargo",
+            "To rescue stranded vessels"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why are index providers, not under RBI, required to submit an application for registration to SEBI?",
-        "a": "To ensure regulatory oversight of all relevant index providers in the capital market.",
+        "q": "Why has Iran reportedly created a new government agency to regulate and tax vessels passing through the Strait of Hormuz?",
+        "a": "To regulate and tax vessels passing through the Strait of Hormuz",
         "options": [
-            "To promote competition among index providers",
-            "To reduce the number of indices available",
-            "To increase revenue for SEBI",
-            "To ensure regulatory oversight of all relevant index providers in the capital market",
-            "To limit foreign participation in the index market"
+            "To promote tourism",
+            "To enhance maritime security",
+            "To facilitate trade agreements",
+            "To regulate and tax vessels passing through the Strait of Hormuz",
+            "To establish a new naval base"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main objective behind Bihar taking a 500 million U.S. dollar loan from the World Bank?",
-        "a": "To make the state economically stronger and develop integrated urban economic regions.",
+        "q": "Why did One97 Communications rule out applying for a Non-Banking Financial Company (NBFC) licence?",
+        "a": "Prefers a partnership model with blue-chip lending partners",
         "options": [
-            "To fund agricultural projects",
-            "To repay existing debts",
-            "To make the state economically stronger and develop integrated urban economic regions",
-            "To build new state highways",
-            "To provide financial aid to citizens"
+            "Lack of capital",
+            "RBI restrictions",
+            "Prefers a partnership model with blue-chip lending partners",
+            "Focus on international expansion",
+            "Insufficient market share"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core purpose of imparting Artificial Intelligence (AI) training to Bihar's legislative members and government staff?",
-        "a": "To establish Bihar as a leading state in AI and promote effective governance.",
+        "q": "Why did the RBI cancel the banking licence issued to Paytm Payments Bank (PPBL)?",
+        "a": "Non-compliance with norms and affairs detrimental to depositors' interest",
         "options": [
-            "To attract foreign investment in AI",
-            "To replace human workers with AI systems",
-            "To establish Bihar as a leading state in AI and promote effective governance",
-            "To increase the state's IT exports",
-            "To reduce the state's budget deficit"
+            "Low profitability",
+            "Change in business strategy",
+            "Non-compliance with norms and affairs detrimental to depositors' interest",
+            "Merger with another bank",
+            "Voluntary surrender of license"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the aim of the Bihar Artificial Intelligence Mission constituted by the State Government?",
-        "a": "To establish the state as one of the leading states in AI.",
+        "q": "What is the primary reason mentioned for potential upside risks to inflation in the coming months, according to Bank of Baroda?",
+        "a": "Heatwave warnings impacting TOP arrivals",
         "options": [
-            "To develop self-driving cars in Bihar",
-            "To replace all government employees with AI",
-            "To establish the state as one of the leading states in AI",
-            "To create a new AI-powered cryptocurrency",
-            "To develop advanced robotics for manufacturing"
+            "Increase in exports",
+            "Decline in global energy prices",
+            "Heatwave warnings impacting TOP arrivals",
+            "Stable international prices",
+            "Increase in agricultural subsidies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the Bihar government\u2019s sanctioned \u201ccash gap subsidy\u201d for the 400 e-buses?",
-        "a": "To compensate for the running costs of the e-buses for the next 12 years.",
+        "q": "Why was streamer Sneako reportedly banned from Australia?",
+        "a": "Allegedly spreading hate speech",
         "options": [
-            "To purchase new electric vehicles for officials",
-            "To provide free bus rides to citizens",
-            "To compensate for the running costs of the e-buses for the next 12 years",
-            "To build new bus depots",
-            "To incentivize private bus operators"
+            "Visa violations",
+            "Tax evasion",
+            "Allegedly spreading hate speech",
+            "Illegal immigration",
+            "Participating in unauthorized protests"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the reason for the Bihar Cabinet\u2019s decision to transfer 1.85 acres of land to the Airport Authority of India (AAI), Patna?",
-        "a": "For the development of infrastructure relating to the airport and other purposes.",
+        "q": "What was the purpose of the Supreme Court's 2023 judgment in Anoop Baranwal versus Union of India regarding Election Commission appointments?",
+        "a": "To introduce a more participatory appointment process",
         "options": [
-            "To establish a new industrial park",
-            "To build a residential complex for AAI staff",
-            "For the development of infrastructure relating to the airport and other purposes",
-            "To expand agricultural land",
-            "To set up a wildlife sanctuary"
+            "To reduce the term of Election Commissioners",
+            "To expand the powers of the Election Commission",
+            "To introduce a more participatory appointment process",
+            "To streamline election procedures",
+            "To increase funding for the Election Commission"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Bihar Cabinet extend the implementation of the Bihar Industrial Investment Promotion Package (BIIPP) 2025?",
-        "a": "To maintain continuity in industrial investment in the state following investor interest.",
+        "q": "What did the Supreme Court emphasize in the 1975 Indira Nehru Gandhi versus Raj Narain case as an \"essential postulate of democracy\"?",
+        "a": "Principle of free and fair elections",
         "options": [
-            "To reduce industrial pollution",
-            "To attract more foreign tourists",
-            "To maintain continuity in industrial investment in the state following investor interest",
-            "To decrease the number of industries",
-            "To increase agricultural output"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the main objectives of the Bihar Building (Amendment) Bylaws, 2026, approved by the Cabinet?",
-        "a": "To reduce the loss of commercial land and ease growing pressure on cities from rapid urbanisation.",
-        "options": [
-            "To encourage taller residential buildings",
-            "To promote green building initiatives",
-            "To reduce the loss of commercial land and ease growing pressure on cities from rapid urbanisation",
-            "To simplify residential construction permits only",
-            "To increase property taxes for commercial properties"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the objective behind promoting commercial activities and simplifying the building construction permission process through the new Bylaws?",
-        "a": "To make life easier for every citizen by promoting modern technology and accountable governance.",
-        "options": [
-            "To restrict commercial development",
-            "To centralize all building approvals",
-            "To make life easier for every citizen by promoting modern technology and accountable governance",
-            "To increase bureaucratic hurdles",
-            "To discourage innovation in construction"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reason for the speculation that Chandranath Rath could be entrusted with a larger administrative responsibility?",
-        "a": "If Mr. Adhikari assumed a bigger role in government after the Assembly polls.",
-        "options": [
-            "Because of his long service in the IAF",
-            "Due to his corporate sector experience",
-            "If Mr. Adhikari assumed a bigger role in government after the Assembly polls",
-            "His popularity among local voters",
-            "His academic qualifications"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why does SEBI specify that the AUM threshold for \u2018Significant Indices\u2019 will be tested every six months?",
-        "a": "To ensure that the daily average cumulative AUM continues to exceed the threshold for maintaining \u2018Significant Index\u2019 status.",
-        "options": [
-            "To reduce administrative burden on index providers",
-            "To align with fiscal year-end reports",
-            "To ensure that the daily average cumulative AUM continues to exceed the threshold for maintaining \u2018Significant Index\u2019 status",
-            "To adjust to market fluctuations more frequently",
-            "To provide more data points for research"
+            "Principle of judicial review",
+            "Principle of parliamentary sovereignty",
+            "Principle of free and fair elections",
+            "Principle of economic equality",
+            "Principle of federalism"
         ],
         "cat": "Why"
     }
