@@ -1,721 +1,721 @@
 [
     {
-        "q": "What is the maximum 'aggregate holding' approved by RBI for Kotak Mahindra Bank to acquire in AU Small Finance Bank?",
-        "a": "9.99%",
+        "q": "What is the total amount approved by the International Monetary Fund (IMF) for immediate release to Pakistan following the completion of a scheduled review?",
+        "a": "$1.32 billion",
         "options": [
-            "9.85%",
-            "10.05%",
-            "9.99%",
-            "9.97%",
-            "9.93%"
+            "$1.1 billion",
+            "$220 million",
+            "$1.32 billion",
+            "$4.8 billion",
+            "$7 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated profit in the fourth quarter ended March 2026?",
-        "a": "\u20b9183 crore",
+        "q": "How much funding was allowed for immediate draw under the Extended Fund Facility (EFF) for Pakistan in the latest disbursement?",
+        "a": "Around $1.1 billion",
         "options": [
-            "\u20b9193 crore",
-            "\u20b9183 crore",
-            "\u20b9173 crore",
-            "\u20b9203 crore",
-            "\u20b9163 crore"
+            "Approximately $1.2 billion",
+            "Roughly $1.0 billion",
+            "Around $1.1 billion",
+            "Close to $900 million",
+            "Exactly $1.32 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated revenue from operations in the fourth quarter ended March 2026?",
-        "a": "\u20b92,264 crore",
+        "q": "What was the approximate amount disbursed to Pakistan under the Resilience and Sustainability Facility (RSF)?",
+        "a": "$220 million",
         "options": [
-            "\u20b92,254 crore",
-            "\u20b92,274 crore",
-            "\u20b92,264 crore",
-            "\u20b92,284 crore",
-            "\u20b92,244 crore"
+            "$200 million",
+            "$220 million",
+            "$250 million",
+            "$180 million",
+            "$300 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated loss in the fourth quarter ended March 2025 (a year prior)?",
-        "a": "\u20b9545 crore",
+        "q": "Including the latest disbursement, what is the total IMF support under the current arrangements provided to Pakistan?",
+        "a": "About $4.8 billion",
         "options": [
-            "\u20b9555 crore",
-            "\u20b9535 crore",
-            "\u20b9545 crore",
-            "\u20b9565 crore",
-            "\u20b9525 crore"
+            "Approximately $4.5 billion",
+            "About $4.8 billion",
+            "Roughly $5.0 billion",
+            "Nearly $4.2 billion",
+            "Exactly $7 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated revenue from operations in the March 2025 quarter?",
-        "a": "\u20b91,912 crore",
+        "q": "What is the broader total value of the IMF programme agreed with Pakistan?",
+        "a": "$7 billion",
         "options": [
-            "\u20b91,902 crore",
-            "\u20b91,922 crore",
-            "\u20b91,912 crore",
-            "\u20b91,932 crore",
-            "\u20b91,908 crore"
+            "$6 billion",
+            "$6.5 billion",
+            "$7 billion",
+            "$7.5 billion",
+            "$5 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated profit for the financial year ended March 2026?",
-        "a": "\u20b9552 crore",
+        "q": "What was the total Goods and Services Tax (GST) collection in fiscal 2025, according to the Clear Tax report?",
+        "a": "\u20b922.8 lakh crore",
         "options": [
-            "\u20b9542 crore",
-            "\u20b9562 crore",
-            "\u20b9552 crore",
-            "\u20b9572 crore",
-            "\u20b9532 crore"
+            "\u20b920.5 lakh crore",
+            "\u20b921.8 lakh crore",
+            "\u20b922.8 lakh crore",
+            "\u20b923.5 lakh crore",
+            "\u20b924.0 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' consolidated loss for the financial year ended March 2025?",
-        "a": "\u20b9663 crore",
+        "q": "By what percentage did GST tax collections increase in fiscal 2025?",
+        "a": "9.4%",
         "options": [
-            "\u20b9653 crore",
-            "\u20b9673 crore",
-            "\u20b9663 crore",
-            "\u20b9683 crore",
-            "\u20b9643 crore"
+            "8.5%",
+            "9.0%",
+            "9.4%",
+            "10.0%",
+            "10.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' annual revenue from operations in FY26?",
-        "a": "\u20b98,437 crore",
+        "q": "How many tax notices were issued in fiscal 2025, as stated in the Clear Tax report?",
+        "a": "200,000",
         "options": [
-            "\u20b98,427 crore",
-            "\u20b98,447 crore",
-            "\u20b98,437 crore",
-            "\u20b98,457 crore",
-            "\u20b98,417 crore"
+            "180,000",
+            "190,000",
+            "200,000",
+            "210,000",
+            "220,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was One97 Communications' annual revenue from operations in FY25?",
-        "a": "\u20b96,900 crore",
+        "q": "What was the percentage increase in the number of tax notices issued in fiscal 2025?",
+        "a": "33.3%",
         "options": [
-            "\u20b96,890 crore",
-            "\u20b96,910 crore",
-            "\u20b96,900 crore",
-            "\u20b96,920 crore",
-            "\u20b96,880 crore"
+            "30.0%",
+            "31.5%",
+            "33.3%",
+            "35.0%",
+            "36.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the expected Consumer Price Index (CPI) in April 2026, according to Bank of Baroda?",
-        "a": "4%",
+        "q": "What percentage of enterprises in the Clear Tax study received at least one notice caused by a mismatch between their own GSTR-1 and 3B filing in FY 2025?",
+        "a": "80%",
         "options": [
-            "3.9%",
-            "4.1%",
-            "4%",
-            "4.2%",
-            "3.8%"
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "50%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did Tomato prices increase in April 2026 compared to the same month last fiscal year?",
-        "a": "35.8%",
+        "q": "How high did Mount Dukono spew volcanic ash during its eruption on Friday?",
+        "a": "10 km",
         "options": [
-            "35.5%",
-            "35.8%",
-            "36.0%",
-            "35.2%",
-            "36.1%"
+            "5 km",
+            "7 km",
+            "10 km",
+            "12 km",
+            "8 km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the decline in arrival statistics of Tomato, Onion, and Potato (TOP) in April 2026 over April 2025?",
-        "a": "12.8%",
+        "q": "Approximately how many small-scale eruptions were recorded at Mount Dukono by the end of March?",
+        "a": "Nearly 200",
         "options": [
-            "12.5%",
-            "13.0%",
-            "12.8%",
-            "12.2%",
-            "13.1%"
+            "Nearly 100",
+            "Roughly 150",
+            "Nearly 200",
+            "Over 250",
+            "About 300"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did the price of packed mustard oil increase in the reporting month (April 2026)?",
-        "a": "10.8%",
+        "q": "What is the recommended radius around Mount Dukono's crater where tourists and climbers should not carry out activities, as warned by PVMBG?",
+        "a": "Four-kilometre",
         "options": [
-            "10.5%",
-            "11.0%",
-            "10.8%",
-            "10.2%",
-            "11.1%"
+            "One-kilometre",
+            "Two-kilometre",
+            "Three-kilometre",
+            "Four-kilometre",
+            "Five-kilometre"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage increase in soya oil prices in the reporting month (April 2026)?",
-        "a": "7.8%",
+        "q": "How many state universities in West Bengal were subject to the Supreme Court order for Vice-Chancellor appointments?",
+        "a": "Three",
         "options": [
-            "7.5%",
-            "8.0%",
-            "7.8%",
-            "7.2%",
-            "8.1%"
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did sunflower oil prices increase in the reporting month (April 2026)?",
-        "a": "15.2%",
+        "q": "What was the total number of state-aided universities involved in the dispute between the governor and the former chief minister of West Bengal?",
+        "a": "36",
         "options": [
-            "15.0%",
-            "15.5%",
-            "15.2%",
-            "14.8%",
-            "15.3%"
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate population of Qeshm Island, an Iranian strategic territory?",
-        "a": "150,000",
+        "q": "How many letters from MLAs would the TVK party hypothetically need to produce to prove a majority, as mentioned in the writ petition?",
+        "a": "118",
         "options": [
-            "140,000",
-            "160,000",
-            "150,000",
-            "155,000",
-            "145,000"
+            "110",
+            "115",
+            "118",
+            "120",
+            "125"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the trading price of AU Small Finance Bank shares on the BSE on May 7, 2026?",
-        "a": "\u20b91,034.60",
+        "q": "Which international financial institution approved the release of about $1.32 billion to Pakistan?",
+        "a": "International Monetary Fund (IMF)",
         "options": [
-            "\u20b91,034.50",
-            "\u20b91,034.70",
-            "\u20b91,034.60",
-            "\u20b91,034.40",
-            "\u20b91,034.80"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the trading price of Federal Bank shares on the BSE on May 7, 2026?",
-        "a": "\u20b9297.40",
-        "options": [
-            "\u20b9297.30",
-            "\u20b9297.50",
-            "\u20b9297.40",
-            "\u20b9297.60",
-            "\u20b9297.20"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which bank received RBI approval to acquire up to 9.99% each in AU Small Finance Bank and Federal Bank?",
-        "a": "Kotak Mahindra Bank",
-        "options": [
-            "HDFC Bank",
-            "ICICI Bank",
-            "Kotak Mahindra Bank",
-            "Axis Bank",
-            "State Bank of India"
+            "World Bank",
+            "Asian Development Bank",
+            "International Monetary Fund (IMF)",
+            "European Central Bank",
+            "Bank for International Settlements"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current President and Group CFO of One97 Communications (Paytm)?",
-        "a": "Madhur Deora",
+        "q": "Who is identified as the head of the local rescue agency in charge of the Mount Dukono search operation?",
+        "a": "Iwan Ramdani",
         "options": [
-            "Vijay Shekhar Sharma",
-            "Madhur Deora",
-            "Renu Satti",
-            "Amit Nayyar",
-            "Bhavesh Gupta"
+            "Erlichson Pasaribu",
+            "Lana Saria",
+            "Alex Djangu",
+            "Iwan Ramdani",
+            "Swati Gandhi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Iranian Foreign Ministry spokesperson mentioned as reviewing proposals delivered via Pakistan?",
-        "a": "Esmail Baghaei",
+        "q": "Who is the North Halmahera Police Chief mentioned in connection with the Mount Dukono eruption?",
+        "a": "Erlichson Pasaribu",
         "options": [
-            "Javad Zarif",
-            "Esmail Baghaei",
-            "Ali Khamenei",
-            "Hassan Rouhani",
-            "Mahmoud Ahmadinejad"
+            "Iwan Ramdani",
+            "Lana Saria",
+            "Erlichson Pasaribu",
+            "Alex Djangu",
+            "C. Joseph Vijay"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Pakistan's Foreign Ministry Spokesperson who expressed hope for a peaceful solution regarding Iran-US tensions?",
-        "a": "Tahir Andrabi",
+        "q": "Who is the head of Indonesia's volcanology agency mentioned in the context of the Mount Dukono eruption?",
+        "a": "Lana Saria",
         "options": [
-            "Arif Alvi",
-            "Shah Mahmood Qureshi",
-            "Imran Khan",
-            "Tahir Andrabi",
-            "Asif Ali Zardari"
+            "Erlichson Pasaribu",
+            "Iwan Ramdani",
+            "Lana Saria",
+            "Alex Djangu",
+            "Swati Gandhi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US President has issued conflicting signals on the conflict near the Strait of Hormuz?",
-        "a": "Donald Trump",
+        "q": "Who is the Indonesian mountain guide quoted regarding the lack of climbing restrictions at Mount Dukono?",
+        "a": "Alex Djangu",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "Iwan Ramdani",
+            "Erlichson Pasaribu",
+            "Lana Saria",
+            "Alex Djangu",
+            "C. Joseph Vijay"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Economist at Bank of Baroda who authored the research note on essential commodities prices?",
-        "a": "Dipanwita Mazumdar",
+        "q": "Who is the West Bengal governor asked by the Supreme Court to appoint Vice Chancellors to state universities?",
+        "a": "R.N. Ravi",
         "options": [
-            "Arundhati Bhattacharya",
-            "Shanti Ekambaram",
-            "Dipanwita Mazumdar",
-            "Chanda Kochhar",
-            "Kalpana Morparia"
+            "Mamata Banerjee",
+            "Surya Kant",
+            "R.N. Ravi",
+            "U.U. Lalit",
+            "Joymalya Bagchi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the controversial streamer who reportedly faced a lifetime ban from Australia?",
-        "a": "Nico \u2018Sneako\u2019 Kenn De Balinthazy",
+        "q": "Who headed the search-cum-selection committee for Vice-Chancellor appointments in West Bengal universities?",
+        "a": "U.U. Lalit",
         "options": [
-            "Andrew Tate",
-            "Jake Paul",
-            "Nico \u2018Sneako\u2019 Kenn De Balinthazy",
-            "Logan Paul",
-            "PewDiePie"
+            "R.N. Ravi",
+            "Mamata Banerjee",
+            "R. Venkataramani",
+            "U.U. Lalit",
+            "Jaideep Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who reportedly issued a lifetime ban against Sneako from Australia?",
-        "a": "Troy Burke",
+        "q": "Who was the former chief minister of West Bengal involved in the dispute over Vice-Chancellor appointments?",
+        "a": "Mamata Banerjee",
         "options": [
-            "Scott Morrison",
-            "Anthony Albanese",
-            "Troy Burke",
-            "Peter Dutton",
-            "Penny Wong"
+            "R.N. Ravi",
+            "Mamata Banerjee",
+            "Surya Kant",
+            "U.U. Lalit",
+            "Joymalya Bagchi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the former New Zealand rugby player and boxer mentioned as spending time with Sneako during his Southeast Asia tour?",
-        "a": "Sonny Bill Williams",
+        "q": "Who represented the office of the governor in the Supreme Court case regarding West Bengal VCs?",
+        "a": "R. Venkataramani",
         "options": [
-            "Richie McCaw",
-            "Dan Carter",
-            "Sonny Bill Williams",
-            "Jonah Lomu",
-            "Ma'a Nonu"
+            "Jaideep Gupta",
+            "U.U. Lalit",
+            "R. Venkataramani",
+            "Surya Kant",
+            "Joymalya Bagchi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who headed the Supreme Court Bench that questioned the debate in Parliament regarding the Election Commission appointments?",
-        "a": "Justice Dipankar Datta",
+        "q": "Who represented the state government of West Bengal in the Supreme Court case regarding VC appointments?",
+        "a": "Jaideep Gupta",
         "options": [
-            "Justice D.Y. Chandrachud",
-            "Justice S.K. Kaul",
-            "Justice Dipankar Datta",
-            "Justice Sanjiv Khanna",
-            "Justice B.R. Gavai"
+            "R. Venkataramani",
+            "U.U. Lalit",
+            "Jaideep Gupta",
+            "R.N. Ravi",
+            "Mamata Banerjee"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who represented the Association for Democratic Reforms in the Supreme Court case concerning Election Commission appointments?",
-        "a": "Prashant Bhushan",
+        "q": "Who filed the writ petition in the Supreme Court regarding the formation of the government in Tamil Nadu?",
+        "a": "Ezhilarasi P.",
         "options": [
-            "Harish Salve",
-            "Kapil Sibal",
-            "Prashant Bhushan",
-            "Abhishek Manu Singhvi",
-            "P. Chidambaram"
+            "C. Joseph Vijay",
+            "Rajendra Arlekar",
+            "A. Lakshminarayanan",
+            "Ezhilarasi P.",
+            "Surya Kant"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which AIMIM MP was mentioned as the sole objector to the proposed law on Election Commission appointments in Parliament?",
-        "a": "Asaduddin Owaisi",
+        "q": "Who is the president of the Tamilaga Vettri Kazhagam (TVK) party mentioned in the writ petition?",
+        "a": "C. Joseph Vijay",
         "options": [
-            "Akbaruddin Owaisi",
-            "Sultan Salahuddin Owaisi",
-            "Asaduddin Owaisi",
-            "Imtiaz Jaleel",
-            "Syed Ahmed Pasha Quadri"
+            "Ezhilarasi P.",
+            "Rajendra Arlekar",
+            "C. Joseph Vijay",
+            "A. Lakshminarayanan",
+            "Surya Kant"
         ],
         "cat": "Who"
     },
     {
-        "q": "Near which strategic Iranian territory in the Persian Gulf did the missile exchange reportedly occur?",
-        "a": "Qeshm Island",
+        "q": "Who is the current Tamil Nadu Governor mentioned in the writ petition?",
+        "a": "Rajendra Arlekar",
         "options": [
-            "Kish Island",
-            "Kharg Island",
-            "Qeshm Island",
-            "Lavan Island",
-            "Sirri Island"
+            "C. Joseph Vijay",
+            "Ezhilarasi P.",
+            "Rajendra Arlekar",
+            "A. Lakshminarayanan",
+            "M.K. Stalin"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Which body of water saw US naval vessels reportedly come under missile fire near Iran?",
-        "a": "Strait of Hormuz",
+        "q": "Which political party provided a letter of support to the TVK, as mentioned in the writ petition?",
+        "a": "Congress",
         "options": [
-            "Persian Gulf",
-            "Gulf of Oman",
-            "Strait of Hormuz",
-            "Arabian Sea",
-            "Red Sea"
+            "BJP",
+            "DMK",
+            "AIADMK",
+            "Congress",
+            "CPI(M)"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "In which part of Tehran were loud explosions and defensive fire activity reported?",
-        "a": "Western Tehran",
+        "q": "According to the Clear Tax report, which corporate professionals were primarily surveyed for the 'State of Tax Assurance Report 2026'?",
+        "a": "Chief Financial Officers (CFOs)",
         "options": [
-            "Northern Tehran",
-            "Southern Tehran",
-            "Western Tehran",
-            "Eastern Tehran",
-            "Central Tehran"
+            "Chief Executive Officers (CEOs)",
+            "Chief Operating Officers (COOs)",
+            "Chief Financial Officers (CFOs)",
+            "Human Resources Managers",
+            "Sales Directors"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Near which southern Iranian city were blasts also reported, according to semiofficial news agencies?",
-        "a": "Bandar Abbas",
+        "q": "Which news agency's reporting on the IMF board decision for Pakistan was cited in the article?",
+        "a": "Reuters",
         "options": [
-            "Shiraz",
-            "Isfahan",
-            "Tabriz",
-            "Bandar Abbas",
-            "Mashhad"
+            "Bloomberg",
+            "Associated Press",
+            "Reuters",
+            "The Wall Street Journal",
+            "BBC News"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Where did Nico \u2018Sneako\u2019 Kenn De Balinthazy travel after finishing his Southeast Asia tour?",
-        "a": "Australia",
+        "q": "How many Singapore nationals were among the 17 people evacuated from Mount Dukono following the eruption?",
+        "a": "Seven",
         "options": [
-            "New Zealand",
-            "United States",
-            "Australia",
-            "Canada",
-            "United Kingdom"
+            "Five",
+            "Six",
+            "Seven",
+            "Eight",
+            "Nine"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Which country is acting as a mediator for proposals delivered to Iran regarding US tensions?",
+        "q": "Which country received the $1.32 billion disbursement from the International Monetary Fund?",
         "a": "Pakistan",
         "options": [
-            "China",
-            "Russia",
-            "Pakistan",
             "India",
-            "Oman"
+            "Bangladesh",
+            "Pakistan",
+            "Sri Lanka",
+            "Nepal"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country did Sneako claim he was followed by federal agents in?",
-        "a": "Australia",
+        "q": "Mount Dukono, which erupted recently, is located on which Indonesian island?",
+        "a": "Halmahera Island",
         "options": [
-            "New Zealand",
+            "Java Island",
+            "Sumatra Island",
+            "Halmahera Island",
+            "Bali Island",
+            "Borneo Island"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which province of Indonesia is Mount Dukono located?",
+        "a": "North Maluku province",
+        "options": [
+            "West Java",
+            "East Nusa Tenggara",
+            "North Maluku province",
+            "Central Java",
+            "Bali"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Indonesia is situated on which major geographical feature known for high seismic activity?",
+        "a": "Pacific 'Ring of Fire'",
+        "options": [
+            "Atlantic Mid-Ocean Ridge",
+            "Himalayan Mountain Range",
+            "Pacific 'Ring of Fire'",
+            "East African Rift Valley",
+            "Andes Mountains"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which Indian state is the dispute over Vice-Chancellor appointments mentioned in the Supreme Court news?",
+        "a": "West Bengal",
+        "options": [
+            "Bihar",
+            "Odisha",
+            "West Bengal",
+            "Assam",
+            "Jharkhand"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which of the following universities is NOT one of the three where VCs are to be appointed following the Supreme Court order in West Bengal?",
+        "a": "Jadavpur University",
+        "options": [
+            "North Bengal University",
+            "Maulana Abul Kalam Azad University of Technology",
+            "Netaji Subhash Open University",
+            "Jadavpur University",
+            "All are mentioned."
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The writ petition regarding government formation was filed in the Supreme Court concerning which Indian state?",
+        "a": "Tamil Nadu",
+        "options": [
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Telangana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The petitioner, Ezhilarasi P., regarding the Tamil Nadu Governor's actions, is based in which city?",
+        "a": "Chennai",
+        "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Chennai",
+            "Kochi",
+            "Mumbai"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which country's Goods and Services Tax (GST) payment conflicts were analyzed in the Clear Tax report?",
+        "a": "India",
+        "options": [
             "United States",
-            "Australia",
-            "Indonesia",
-            "Malaysia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which states did IMD issue warnings of heatwave in May 2026, impacting TOP producing regions?",
-        "a": "East Coast States, Gujarat and Maharashtra",
-        "options": [
-            "Punjab, Haryana and Rajasthan",
-            "Uttar Pradesh, Bihar and West Bengal",
-            "East Coast States, Gujarat and Maharashtra",
-            "Madhya Pradesh, Chhattisgarh and Odisha",
-            "Karnataka, Kerala and Tamil Nadu"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did Sneako write \"You only live once, but you will be dead forever\" from on April 27?",
-        "a": "Southeast Asia",
-        "options": [
-            "Australia",
-            "United States",
-            "New Zealand",
-            "Southeast Asia",
-            "Dubai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court's 2023 judgment regarding Election Commission appointments was given in the case of Anoop Baranwal versus which entity?",
-        "a": "Union of India",
-        "options": [
-            "State of Uttar Pradesh",
-            "Election Commission of India",
-            "Union of India",
-            "Parliament of India",
-            "President of India"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The landmark Indira Nehru Gandhi versus Raj Narain case in 1975, which triggered the Emergency, was heard in which court?",
-        "a": "Supreme Court",
-        "options": [
-            "Delhi High Court",
-            "Allahabad High Court",
-            "Supreme Court",
-            "Bombay High Court",
-            "Calcutta High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country's media reported claims of a streamer being banned for hate speech?",
-        "a": "Australia",
-        "options": [
             "United Kingdom",
-            "United States",
-            "Canada",
+            "India",
             "Australia",
-            "New Zealand"
+            "Canada"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which date did Iranian state media report the missile fire incident near the Strait of Hormuz?",
-        "a": "Thursday (May 7)",
+        "q": "The IMF's official communication regarding Pakistan's program conditions was published on its...",
+        "a": "Official website",
         "options": [
-            "May 6",
-            "May 7",
-            "May 8",
-            "May 5",
-            "May 4"
+            "Social media channels",
+            "Annual report",
+            "Official website",
+            "Press conference transcript",
+            "Quarterly newsletter"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what specific date did the Supreme Court issue its order regarding the appointment of VCs in West Bengal?",
+        "a": "May 8, 2026",
+        "options": [
+            "May 8, 2025",
+            "June 8, 2026",
+            "May 8, 2026",
+            "July 8, 2024",
+            "May 8, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the Reserve Bank of India accord its approval to Kotak Mahindra Bank for acquiring a stake in AU Small Finance Bank and Federal Bank?",
-        "a": "May 6",
+        "q": "Within how many weeks are the three shortlisted persons to be appointed as VCs in West Bengal, as per the Supreme Court order?",
+        "a": "Four weeks",
         "options": [
-            "May 5",
-            "May 6",
-            "May 7",
-            "May 4",
-            "May 8"
+            "Two weeks",
+            "Three weeks",
+            "Four weeks",
+            "Six weeks",
+            "Eight weeks"
         ],
         "cat": "When"
     },
     {
-        "q": "When did One97 Communications report its consolidated profit for the fourth quarter ended March 2026?",
-        "a": "Wednesday (May 6, 2026)",
-        "options": [
-            "May 5, 2026",
-            "May 6, 2026",
-            "May 7, 2026",
-            "May 4, 2026",
-            "May 8, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the banking licence issued to Paytm Payments Bank (PPBL) cancelled by the RBI?",
-        "a": "April 2026",
-        "options": [
-            "March 2026",
-            "April 2026",
-            "May 2026",
-            "February 2026",
-            "June 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the financial year end for which Paytm posted a consolidated profit of \u20b9552 crore?",
-        "a": "March 2026",
-        "options": [
-            "March 2025",
-            "March 2026",
-            "March 2027",
-            "December 2025",
-            "December 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month and year is the Consumer Price Index (CPI) expected to be 4% according to Bank of Baroda?",
-        "a": "April 2026",
-        "options": [
-            "March 2026",
-            "April 2026",
-            "May 2026",
-            "June 2026",
-            "February 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Sky News Australia air a segment calling Sneako \u201cblatantly anti-Semitic\u201d?",
-        "a": "May 5",
-        "options": [
-            "May 4",
-            "May 5",
-            "May 6",
-            "May 7",
-            "May 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did Sneako post the message \u201cI am ready to die\u201d?",
-        "a": "May 7, 2026",
-        "options": [
-            "May 6, 2026",
-            "May 7, 2026",
-            "May 5, 2026",
-            "May 4, 2026",
-            "May 8, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Supreme Court's judgment in Anoop Baranwal versus Union of India, which introduced a new mechanism for appointing Election Commissioners?",
+        "q": "When was the plea filed by the West Bengal government regarding the VC appointments that the Supreme Court disposed of?",
         "a": "2023",
         "options": [
             "2022",
             "2023",
             "2024",
-            "2021",
-            "2025"
+            "2025",
+            "2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the landmark Indira Nehru Gandhi versus Raj Narain case decided by the Supreme Court?",
-        "a": "1975",
+        "q": "On what date did the Supreme Court constitute the search-cum-selection committee headed by former CJI Lalit to oversee VC appointments?",
+        "a": "July 8, 2024",
         "options": [
-            "1974",
-            "1975",
-            "1976",
-            "1973",
-            "1977"
+            "June 8, 2022",
+            "July 8, 2023",
+            "July 8, 2024",
+            "May 8, 2026",
+            "August 8, 2024"
         ],
         "cat": "When"
     },
     {
-        "q": "Why did US naval vessels reportedly come under missile fire near the Strait of Hormuz, according to Iranian state media?",
-        "a": "Following an American attack on its oil tanker",
+        "q": "When was the West Bengal Universities (Amendment) Bill 2022 passed by the state legislature?",
+        "a": "June 2022",
         "options": [
-            "To conduct naval exercises",
-            "To secure a maritime corridor",
-            "Following an American attack on its oil tanker",
-            "To transport military cargo",
-            "To rescue stranded vessels"
+            "April 2022",
+            "May 2022",
+            "June 2022",
+            "July 2022",
+            "August 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was the writ petition filed in the Supreme Court regarding the Tamil Nadu Governor's role in government formation?",
+        "a": "May 8, 2026",
+        "options": [
+            "May 8, 2025",
+            "May 8, 2026",
+            "April 8, 2026",
+            "June 8, 2026",
+            "May 7, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Mount Dukono erupt on Friday, spewing volcanic ash?",
+        "a": "07:41 AM local time",
+        "options": [
+            "06:00 AM local time",
+            "07:41 AM local time",
+            "08:30 AM local time",
+            "09:15 AM local time",
+            "10:00 AM local time"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Since when has the Center for Volcanology and Geological Hazard Mitigation (PVMBG) warned tourists against activities within a four-kilometre radius of Mount Dukono's crater?",
+        "a": "December 2024",
+        "options": [
+            "January 2024",
+            "March 2024",
+            "December 2024",
+            "January 2025",
+            "March 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did volcanic activity at Mount Dukono pick up again, after decreasing the previous year?",
+        "a": "End of March",
+        "options": [
+            "Early March",
+            "End of March",
+            "Early April",
+            "End of April",
+            "May"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "According to Police Chief Pasaribu, since when has climbing Mount Dukono been banned?",
+        "a": "An earlier eruption in 2024",
+        "options": [
+            "An earlier eruption in 2023",
+            "An earlier eruption in 2024",
+            "Last year",
+            "This year",
+            "Never officially banned"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary focus of the IMF program for Pakistan, as reiterated by the Fund?",
+        "a": "Restoring macroeconomic stability and strengthening fiscal discipline.",
+        "options": [
+            "Promoting regional trade agreements.",
+            "Restoring macroeconomic stability and strengthening fiscal discipline.",
+            "Funding large-scale infrastructure projects.",
+            "Developing social welfare programs exclusively.",
+            "Providing military aid."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why has Iran reportedly created a new government agency to regulate and tax vessels passing through the Strait of Hormuz?",
-        "a": "To regulate and tax vessels passing through the Strait of Hormuz",
+        "q": "What critical steps are emphasized by the IMF for Pakistan given persistent external pressures and global economic uncertainty?",
+        "a": "Maintaining tight macroeconomic policies and advancing reforms in revenue mobilisation.",
         "options": [
-            "To promote tourism",
-            "To enhance maritime security",
-            "To facilitate trade agreements",
-            "To regulate and tax vessels passing through the Strait of Hormuz",
-            "To establish a new naval base"
+            "Increasing import tariffs and reducing exports.",
+            "Implementing lax macroeconomic policies and reducing tax rates.",
+            "Maintaining tight macroeconomic policies and advancing reforms in revenue mobilisation.",
+            "Focusing solely on agricultural development.",
+            "Nationalizing foreign assets."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did One97 Communications rule out applying for a Non-Banking Financial Company (NBFC) licence?",
-        "a": "Prefers a partnership model with blue-chip lending partners",
+        "q": "According to the Clear Tax report, what was the primary reason for 80% of enterprises receiving GST notices in FY 2025?",
+        "a": "Internal system mismatches between GSTR-1 and 3B filing.",
         "options": [
-            "Lack of capital",
-            "RBI restrictions",
-            "Prefers a partnership model with blue-chip lending partners",
-            "Focus on international expansion",
-            "Insufficient market share"
+            "Complex GST rate structure.",
+            "Intentional tax evasion.",
+            "Internal system mismatches between GSTR-1 and 3B filing.",
+            "Frequent changes in tax laws.",
+            "Lack of tax consultants."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the RBI cancel the banking licence issued to Paytm Payments Bank (PPBL)?",
-        "a": "Non-compliance with norms and affairs detrimental to depositors' interest",
+        "q": "Why was the search operation for the missing hikers on Mount Dukono temporarily halted on Friday evening?",
+        "a": "Mount Dukono was expected to continue erupting, making night search dangerous.",
         "options": [
-            "Low profitability",
-            "Change in business strategy",
-            "Non-compliance with norms and affairs detrimental to depositors' interest",
-            "Merger with another bank",
-            "Voluntary surrender of license"
+            "Bad weather conditions unrelated to the volcano.",
+            "Insufficient rescue personnel.",
+            "Mount Dukono was expected to continue erupting, making night search dangerous.",
+            "All hikers had been accounted for.",
+            "A new rescue strategy was being developed."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary reason mentioned for potential upside risks to inflation in the coming months, according to Bank of Baroda?",
-        "a": "Heatwave warnings impacting TOP arrivals",
+        "q": "Why is Indonesia particularly prone to seismic activity and volcanic eruptions?",
+        "a": "Its location on the Pacific 'Ring of Fire'.",
         "options": [
-            "Increase in exports",
-            "Decline in global energy prices",
-            "Heatwave warnings impacting TOP arrivals",
-            "Stable international prices",
-            "Increase in agricultural subsidies"
+            "Its high population density.",
+            "Its location on the Pacific 'Ring of Fire'.",
+            "Its large number of islands.",
+            "Its tropical climate.",
+            "Its proximity to the equator."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was streamer Sneako reportedly banned from Australia?",
-        "a": "Allegedly spreading hate speech",
+        "q": "What was the purpose of the West Bengal Universities (Amendment) Bill 2022, passed by the state legislature?",
+        "a": "To replace the governor with the chief minister as the chancellor of state-run universities.",
         "options": [
-            "Visa violations",
-            "Tax evasion",
-            "Allegedly spreading hate speech",
-            "Illegal immigration",
-            "Participating in unauthorized protests"
+            "To increase university funding.",
+            "To establish new universities.",
+            "To replace the governor with the chief minister as the chancellor of state-run universities.",
+            "To revise the university curriculum.",
+            "To introduce entrance exams for VC positions."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of the Supreme Court's 2023 judgment in Anoop Baranwal versus Union of India regarding Election Commission appointments?",
-        "a": "To introduce a more participatory appointment process",
+        "q": "What does the writ petition filed by Ezhilarasi P. argue would 'sound the death-knell for democracy' in Tamil Nadu?",
+        "a": "The Governor inviting post-poll coalition parties instead of the single largest party.",
         "options": [
-            "To reduce the term of Election Commissioners",
-            "To expand the powers of the Election Commission",
-            "To introduce a more participatory appointment process",
-            "To streamline election procedures",
-            "To increase funding for the Election Commission"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What did the Supreme Court emphasize in the 1975 Indira Nehru Gandhi versus Raj Narain case as an \"essential postulate of democracy\"?",
-        "a": "Principle of free and fair elections",
-        "options": [
-            "Principle of judicial review",
-            "Principle of parliamentary sovereignty",
-            "Principle of free and fair elections",
-            "Principle of economic equality",
-            "Principle of federalism"
+            "Inviting the single largest party to form the government.",
+            "Holding a floor test immediately after swearing-in.",
+            "The Governor inviting post-poll coalition parties instead of the single largest party.",
+            "Delaying the swearing-in ceremony.",
+            "Requiring the TVK to produce letters from all MLAs before invitation."
         ],
         "cat": "Why"
     }
