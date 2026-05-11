@@ -1,722 +1,722 @@
 [
     {
-        "q": "Approximately how many officers working at the RBI are estimated to be impacted by the change in the promotion policy?",
-        "a": "8,000",
+        "q": "What was the approximate range of price hikes recently implemented by leading FMCG companies?",
+        "a": "3%-5%",
         "options": [
-            "7,500",
-            "8,500",
-            "8,000",
-            "9,000",
-            "7,000"
+            "2%-4%",
+            "3%-5%",
+            "4%-6%",
+            "5%-7%",
+            "1%-3%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum number of years of service required in a grade for eligibility to certain allowances under the existing RBI promotion policy?",
-        "a": "Five years",
+        "q": "What percentage of inflation is Dabur India currently facing this fiscal?",
+        "a": "10%",
         "options": [
-            "Two years",
-            "Three years",
-            "Four years",
-            "Five years",
-            "Six years"
+            "8%",
+            "12%",
+            "10%",
+            "9%",
+            "11%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to CENTCOM, how many Iranian vessels have US forces disabled since April 13?",
-        "a": "Four",
+        "q": "What percentage price increase has Dabur India already implemented across its business?",
+        "a": "4%",
         "options": [
-            "Two",
-            "Three",
-            "Five",
-            "Six",
-            "Four"
+            "3%",
+            "5%",
+            "4%",
+            "6%",
+            "2%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many commercial ships were redirected by US forces during the blockade period mentioned in the news?",
-        "a": "58",
+        "q": "What percentage rise in fuel and packaging costs has Britannia indicated due to geopolitical developments?",
+        "a": "20%",
         "options": [
-            "50",
-            "55",
-            "60",
-            "62",
-            "58"
+            "18%",
+            "22%",
+            "20%",
+            "15%",
+            "25%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated weight class of Pixxel\u2019s Pathfinder satellite?",
-        "a": "200 kg class",
+        "q": "What was the estimated range of cost inflation for HUL on its material cost base?",
+        "a": "8%-10%",
         "options": [
-            "100 kg class",
-            "150 kg class",
-            "200 kg class",
-            "250 kg class",
-            "300 kg class"
+            "7%-9%",
+            "8%-10%",
+            "9%-11%",
+            "6%-8%",
+            "10%-12%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to Elon Musk, how much power could Starship deliver to high Earth orbit annually?",
-        "a": "100 GW/year",
+        "q": "What was the range of price increase HUL had already taken, depending on its portfolio?",
+        "a": "2%-5%",
         "options": [
-            "50 GW/year",
-            "75 GW/year",
-            "100 GW/year",
-            "125 GW/year",
-            "150 GW/year"
+            "1%-4%",
+            "3%-6%",
+            "2%-5%",
+            "4%-7%",
+            "0%-3%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many satellites does Pixxel CEO Awais Ahmed estimate would be needed to replace a data centre in India?",
-        "a": "100-500",
+        "q": "What is the weighted average surge in input costs Pidilite Industries is bracing for?",
+        "a": "40%-50%",
         "options": [
-            "50-100",
-            "100-500",
-            "500-1000",
-            "1000-2000",
-            "2000-5000"
+            "35%-45%",
+            "40%-50%",
+            "45%-55%",
+            "30%-40%",
+            "50%-60%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to Awais Ahmed, within how many months could 100-500 satellites be launched if funding were available?",
-        "a": "24 months",
+        "q": "What is the lower bound of the guided EBITDA corridor Pidilite Industries aims to maintain?",
+        "a": "20%",
         "options": [
-            "12 months",
-            "18 months",
-            "24 months",
-            "30 months",
-            "36 months"
+            "18%",
+            "22%",
+            "20%",
+            "19%",
+            "21%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many MLAs-elect extended support to the TVK to form the government in Tamil Nadu?",
-        "a": "120",
+        "q": "What is the upper bound of the guided EBITDA corridor Pidilite Industries aims to maintain?",
+        "a": "24%",
         "options": [
-            "115",
-            "120",
-            "125",
-            "130",
-            "135"
+            "22%",
+            "26%",
+            "24%",
+            "23%",
+            "25%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total membership strength of the Tamil Nadu Assembly, as mentioned in the news text?",
-        "a": "234 members",
+        "q": "What percentage price hike has Marico taken in its value-added hair oil portfolio?",
+        "a": "6%-7%",
         "options": [
-            "220 members",
-            "230 members",
-            "234 members",
-            "240 members",
-            "250 members"
+            "5%-6%",
+            "7%-8%",
+            "6%-7%",
+            "4%-5%",
+            "8%-9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Iranian-flagged oil tankers were disabled by US naval forces in the Gulf of Oman?",
-        "a": "Two",
+        "q": "Which one of the following is a popular smaller SKU (Stock Keeping Unit) price point retained by FMCG companies?",
+        "a": "\u20b95",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
+            "\u20b97",
+            "\u20b912",
+            "\u20b95",
+            "\u20b98",
+            "\u20b96"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many US Navy destroyers did President Donald Trump confirm came under attack while transiting the Strait of Hormuz?",
-        "a": "Three",
+        "q": "What is another popular smaller SKU price point retained by FMCG companies to maintain sales volumes?",
+        "a": "\u20b910",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
+            "\u20b99",
+            "\u20b911",
+            "\u20b910",
+            "\u20b912",
+            "\u20b913"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated horizon (in years) for cost parity between space-based and terrestrial data crunching, according to Pixxel CEO Awais Ahmed?",
-        "a": "5-10 years",
+        "q": "What is the third popular smaller SKU price point retained by FMCG companies mentioned in the text?",
+        "a": "\u20b915",
         "options": [
-            "1-2 years",
-            "2-5 years",
-            "5-10 years",
-            "10-15 years",
-            "15-20 years"
+            "\u20b914",
+            "\u20b916",
+            "\u20b915",
+            "\u20b917",
+            "\u20b918"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated long-term proposition (in years) for a wholesale replacement of terrestrial cloud by space-based computation, according to academic reviews?",
-        "a": "10-30 years",
+        "q": "What is the minimum percentage of recent price hikes mentioned for FMCG companies?",
+        "a": "3%",
         "options": [
-            "1-5 years",
-            "5-10 years",
-            "10-30 years",
-            "30-50 years",
-            "50+ years"
+            "2%",
+            "4%",
+            "3%",
+            "1%",
+            "5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many days of leave did Ranjan Kumar initially take from the Jharkhand Police in December 2007?",
-        "a": "Two days",
+        "q": "What is the maximum percentage of recent price hikes mentioned for FMCG companies?",
+        "a": "5%",
         "options": [
-            "One day",
-            "Two days",
-            "Three days",
-            "Four days",
-            "Five days"
+            "4%",
+            "6%",
+            "5%",
+            "7%",
+            "3%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was the police constable whose dismissal for fraud and impersonation was upheld by the Supreme Court?",
-        "a": "Ranjan Kumar",
+        "q": "What is the minimum percentage of HUL's cost inflation on its material cost base?",
+        "a": "8%",
         "options": [
-            "Santosh Kumar",
-            "Ahsanuddin Amanullah",
-            "R. Mahadevan",
-            "Ranjan Kumar",
-            "Garvit Bhirani"
+            "7%",
+            "9%",
+            "8%",
+            "6%",
+            "10%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the maximum percentage of Pidilite Industries' weighted average surge in input costs?",
+        "a": "50%",
+        "options": [
+            "45%",
+            "55%",
+            "50%",
+            "48%",
+            "52%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the minimum percentage of price hike taken by Marico in its value-added hair oil portfolio?",
+        "a": "6%",
+        "options": [
+            "5%",
+            "7%",
+            "6%",
+            "4%",
+            "8%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Global CEO of Dabur India?",
+        "a": "Mohit Malhotra",
+        "options": [
+            "Rakshit Hargave",
+            "Niranjan Gupta",
+            "Mohit Malhotra",
+            "Sudhanshu Vats",
+            "Ravi Jaipuria"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current RBI Governor addressed in the letter from the officers' union regarding promotion policy?",
-        "a": "Sanjay Malhotra",
+        "q": "Who is the Managing Director and CEO of Britannia?",
+        "a": "Rakshit Hargave",
         "options": [
-            "Shaktikanta Das",
-            "Raghuram Rajan",
-            "Sanjay Malhotra",
-            "Urjit Patel",
-            "Duvvuri Subbarao"
+            "Mohit Malhotra",
+            "Rakshit Hargave",
+            "Niranjan Gupta",
+            "Saugata Gupta",
+            "Sunil D\u2019Souza"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Iranian military force issued a warning to the US regarding attacks on its oil tankers or commercial vessels?",
-        "a": "Islamic Revolutionary Guard Corps (IRGC)",
+        "q": "Who is the CFO of HUL mentioned in the news text?",
+        "a": "Niranjan Gupta",
         "options": [
-            "Iranian Army",
-            "IRGC Navy Command",
-            "IRGC Aerospace Force",
-            "Islamic Revolutionary Guard Corps (IRGC)",
-            "Iranian Air Force"
+            "Sudhanshu Vats",
+            "Ravi Jaipuria",
+            "Mohit Malhotra",
+            "Niranjan Gupta",
+            "Manish Tiwary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Executive Officer of Pixxel, the Bengaluru-based imaging satellite company?",
-        "a": "Awais Ahmed",
+        "q": "Who is the Managing Director of Pidilite Industries?",
+        "a": "Sudhanshu Vats",
         "options": [
-            "Elon Musk",
-            "Jeff Bezos",
-            "Awais Ahmed",
-            "Sanjay Malhotra",
-            "Garvit Bhirani"
+            "Rakshit Hargave",
+            "Niranjan Gupta",
+            "Saugata Gupta",
+            "Sudhanshu Vats",
+            "Sunil D\u2019Souza"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the outgoing Chief Minister of Tamil Nadu, as mentioned in the news text?",
-        "a": "M. K. Stalin",
+        "q": "Who is the Chairperson of Varun Beverages?",
+        "a": "Ravi Jaipuria",
         "options": [
-            "Vijay",
-            "K.M. Kader Mohideen",
-            "M. K. Stalin",
-            "P. Shanmugam",
-            "M. Veerapandian"
+            "Mohit Malhotra",
+            "Ravi Jaipuria",
+            "Manish Tiwary",
+            "Sudhanshu Vats",
+            "Niranjan Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US President confirmed that US Navy destroyers had come under attack while transiting the Strait of Hormuz?",
-        "a": "Donald Trump",
+        "q": "Who is the MD & CEO of Marico?",
+        "a": "Saugata Gupta",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "Rakshit Hargave",
+            "Mohit Malhotra",
+            "Saugata Gupta",
+            "Sunil D\u2019Souza",
+            "Ravi Jaipuria"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which AI firm is partnering with Pixxel to launch India's first 'orbital data centre' satellite, Pathfinder?",
-        "a": "Sarvam",
+        "q": "Who is the Managing Director and CEO of Tata Consumer Products Ltd?",
+        "a": "Sunil D\u2019Souza",
         "options": [
-            "Google",
-            "Microsoft",
-            "Sarvam",
-            "OpenAI",
-            "IBM"
+            "Mohit Malhotra",
+            "Sunil D\u2019Souza",
+            "Manish Tiwary",
+            "Sudhanshu Vats",
+            "Niranjan Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the chief of the Tamilaga Vetri Kazhagam (TVK) party, who staked claim to form the government?",
-        "a": "Vijay",
+        "q": "Who is the Chairman and Managing Director of Nestle India?",
+        "a": "Manish Tiwary",
         "options": [
-            "M. K. Stalin",
-            "Thol. Thirumavalavan",
-            "Vijay",
-            "K.M. Kader Mohideen",
-            "Rajendra Vishwanath Arlekar"
+            "Ravi Jaipuria",
+            "Saugata Gupta",
+            "Sunil D\u2019Souza",
+            "Mohit Malhotra",
+            "Manish Tiwary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which other financial sector regulator's officers staged a protest in 2024 to press for wage-related issues?",
-        "a": "Securities and Exchange Board of India (Sebi)",
+        "q": "Which FMCG company owns the popular brands Good Day, Marie Gold, and Milk Bikis?",
+        "a": "Britannia",
         "options": [
-            "IRDAI",
-            "PFRDA",
-            "NABARD",
-            "Securities and Exchange Board of India (Sebi)",
-            "NHB"
+            "Dabur India",
+            "HUL",
+            "Britannia",
+            "Marico",
+            "Nestle India"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who were the Supreme Court justices on the Bench that upheld the constable's dismissal?",
-        "a": "Ahsanuddin Amanullah and R. Mahadevan",
+        "q": "Which company is known for brands like Surf Excel, Lifebuoy, and Lakme?",
+        "a": "HUL",
         "options": [
-            "D.Y. Chandrachud and S.K. Kaul",
-            "U.U. Lalit and B.R. Gavai",
-            "Ahsanuddin Amanullah and R. Mahadevan",
-            "N.V. Ramana and Hrishikesh Roy",
-            "S.A. Bobde and L. Nageswara Rao"
+            "Pidilite Industries",
+            "Tata Consumer Products Ltd",
+            "Britannia",
+            "HUL",
+            "Varun Beverages"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which political party did Thol. Thirumavalavan, mentioned in the Tamil Nadu news, belong to as its president?",
-        "a": "Viduthalai Chiruthaigal Katchi (VCK)",
+        "q": "Fevicol, Dr. Fixit, and M-Seal are popular brands owned by which company?",
+        "a": "Pidilite Industries",
         "options": [
-            "DMK",
-            "AIADMK",
-            "Viduthalai Chiruthaigal Katchi (VCK)",
-            "CPI(M)",
-            "IUML"
+            "Marico",
+            "Dabur India",
+            "Pidilite Industries",
+            "HUL",
+            "Nestle India"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which state police force did Ranjan Kumar initially secure employment in May 2005?",
-        "a": "Jharkhand Police",
+        "q": "Which company owns brands such as Parachute, Saffola, and Livon?",
+        "a": "Marico",
         "options": [
-            "Bihar Police",
-            "Uttar Pradesh Police",
-            "Jharkhand Police",
-            "West Bengal Police",
-            "Odisha Police"
+            "Britannia",
+            "Marico",
+            "Tata Consumer Products Ltd",
+            "Varun Beverages",
+            "Dabur India"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Where were protests staged by RBI officers against recent policy changes on Friday, May 8, 2026?",
-        "a": "Mumbai and various regional offices",
+        "q": "Which company's Global CEO stated they expect double-digit growth this year despite inflation?",
+        "a": "Dabur India",
         "options": [
-            "New Delhi",
-            "Chennai",
-            "Mumbai and various regional offices",
-            "Kolkata",
-            "Bengaluru"
+            "HUL",
+            "Marico",
+            "Britannia",
+            "Dabur India",
+            "Pidilite Industries"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Which key global energy transit route was mentioned in the context of escalating tensions between Iran and Washington?",
-        "a": "Strait of Hormuz",
+        "q": "Which company's MD & CEO discussed price adjustments for packs above \u20b910 and grammage adjustments?",
+        "a": "Britannia",
         "options": [
-            "Suez Canal",
-            "Panama Canal",
-            "Strait of Hormuz",
-            "Malacca Strait",
-            "Bab-el-Mandeb Strait"
+            "HUL",
+            "Marico",
+            "Britannia",
+            "Pidilite Industries",
+            "Tata Consumer Products Ltd"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "In which city is Pixxel, the imaging satellite company partnering with Sarvam, based?",
-        "a": "Bengaluru",
+        "q": "Which company's CFO mentioned evaluating the cost environment for further pricing interventions?",
+        "a": "HUL",
         "options": [
-            "Mumbai",
-            "New Delhi",
-            "Bengaluru",
-            "Hyderabad",
-            "Chennai"
+            "Dabur India",
+            "Pidilite Industries",
+            "Marico",
+            "HUL",
+            "Varun Beverages"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "In which city did TVK chief Vijay meet the Governor to stake claim to form the government?",
-        "a": "Chennai",
+        "q": "Which company's Managing Director mentioned raising prices twice this year in April and May?",
+        "a": "Pidilite Industries",
         "options": [
-            "Coimbatore",
-            "Madurai",
-            "Chennai",
-            "Trichy",
-            "Salem"
+            "Britannia",
+            "Dabur India",
+            "HUL",
+            "Pidilite Industries",
+            "Marico"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "In which body of water were the two Iranian-flagged oil tankers disabled by US naval forces?",
-        "a": "Gulf of Oman",
+        "q": "Which company's Chairperson noted that 'B-brands' selling water have reduced discounts?",
+        "a": "Varun Beverages",
         "options": [
-            "Persian Gulf",
-            "Red Sea",
-            "Gulf of Oman",
-            "Arabian Sea",
-            "Mediterranean Sea"
+            "Nestle India",
+            "Tata Consumer Products Ltd",
+            "Marico",
+            "HUL",
+            "Varun Beverages"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Where did Ranjan Kumar stop reporting for duty in January 2008 under an assumed identity?",
-        "a": "Patna",
+        "q": "Which company's MD & CEO stated that margin pressures remain manageable for now due to a diversified portfolio?",
+        "a": "Tata Consumer Products Ltd",
         "options": [
-            "Ranchi",
-            "Dhanbad",
-            "Patna",
-            "Gaya",
-            "Muzaffarpur"
+            "Nestle India",
+            "Dabur India",
+            "Marico",
+            "Tata Consumer Products Ltd",
+            "Britannia"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Which High Court's ruling did the Supreme Court overturn regarding the constable's dismissal?",
-        "a": "Jharkhand High Court",
+        "q": "In which month did Pidilite Industries first raise prices this year?",
+        "a": "April",
         "options": [
-            "Bihar High Court",
-            "Calcutta High Court",
-            "Jharkhand High Court",
-            "Allahabad High Court",
-            "Orissa High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "What is the name of the building in Chennai where TVK chief Vijay met Governor Rajendra Vishwanath Arlekar?",
-        "a": "Lok Bhavan",
-        "options": [
-            "Fort St. George",
-            "Raj Bhavan",
-            "Lok Bhavan",
-            "Secretariat",
-            "Anna Arivalayam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which US aircraft carrier did the F/A-18 Super Hornet operate when it fired munitions into Iranian vessels?",
-        "a": "USS George H.W. Bush",
-        "options": [
-            "USS Nimitz",
-            "USS George Washington",
-            "USS Ronald Reagan",
-            "USS George H.W. Bush",
-            "USS Dwight D. Eisenhower"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which of the following is one of the two state police forces allegedly defrauded by Ranjan Kumar?",
-        "a": "Jharkhand Police",
-        "options": [
-            "Uttar Pradesh Police",
-            "Madhya Pradesh Police",
-            "Rajasthan Police",
-            "Jharkhand Police",
-            "Punjab Police"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When did Ranjan Kumar join the Jharkhand Police as a constable?",
-        "a": "May 2005",
-        "options": [
-            "December 2007",
-            "January 2008",
-            "May 2005",
-            "May 2006",
-            "December 2006"
+            "March",
+            "May",
+            "April",
+            "June",
+            "February"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did RBI officers stage protests against recent promotion policy changes?",
-        "a": "Friday, May 8, 2026",
+        "q": "In which month did Pidilite Industries implement its second price hike this year?",
+        "a": "May",
         "options": [
-            "Thursday, May 7, 2026",
-            "Friday, May 8, 2026",
-            "Saturday, May 9, 2026",
-            "Wednesday, May 6, 2026",
-            "Monday, May 11, 2026"
+            "April",
+            "June",
+            "May",
+            "July",
+            "March"
         ],
         "cat": "When"
     },
     {
-        "q": "When is Pixxel\u2019s Pathfinder satellite, India\u2019s first 'orbital data centre', scheduled for orbit?",
-        "a": "Fourth quarter of 2026",
+        "q": "For which fiscal period did Dabur India's Global CEO mention facing 10% inflation?",
+        "a": "This fiscal",
         "options": [
-            "First quarter of 2026",
-            "Second quarter of 2026",
-            "Third quarter of 2026",
-            "Fourth quarter of 2026",
-            "First quarter of 2027"
+            "Last fiscal",
+            "Next fiscal",
+            "This fiscal",
+            "Current quarter",
+            "Next quarter"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did M. K. Stalin make his statement regarding the continuation of DMK's schemes?",
-        "a": "Saturday, May 9, 2026",
+        "q": "For which period does Varun Beverages remain covered for raw material requirements?",
+        "a": "Current quarter",
         "options": [
-            "Friday, May 8, 2026",
-            "Saturday, May 9, 2026",
-            "Sunday, May 10, 2026",
-            "Thursday, May 7, 2026",
-            "Monday, May 11, 2026"
+            "Next quarter",
+            "Last quarter",
+            "Current quarter",
+            "Next year",
+            "This month"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Ranjan Kumar proceed on a two-day leave from the Jharkhand Police?",
-        "a": "December 2007",
+        "q": "When did FMCG makers implement price hikes of 3%-5%?",
+        "a": "Recently",
         "options": [
-            "May 2005",
-            "January 2008",
-            "December 2007",
-            "November 2007",
-            "December 2008"
+            "Last year",
+            "Next month",
+            "Recently",
+            "Next quarter",
+            "Last fiscal"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the letter from the Reserve Bank of India Officers' Association (RBIOA) dated?",
-        "a": "May 8",
+        "q": "How many times had Pidilite Industries already raised prices this year before evaluating further increases?",
+        "a": "Twice",
         "options": [
-            "May 1",
-            "May 5",
-            "May 8",
-            "May 10",
-            "May 15"
+            "Once",
+            "Thrice",
+            "Twice",
+            "Four times",
+            "Never"
         ],
         "cat": "When"
     },
     {
-        "q": "When did US President Donald Trump confirm that three US Navy destroyers had come under attack while transiting the Strait of Hormuz?",
-        "a": "Thursday",
+        "q": "What is a primary reason cited by FMCG companies for expected calibrated price hikes?",
+        "a": "Rising crude-linked inflation",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Elon Musk post on X about scaling up Starlink V3 satellites with high-speed laser links?",
-        "a": "2025",
-        "options": [
-            "2023",
-            "2024",
-            "2025",
-            "2026",
-            "2027"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the political uncertainty in Tamil Nadu come to an end, with TVK staking claim to form the government?",
-        "a": "Saturday evening, May 9, 2026",
-        "options": [
-            "Friday evening, May 8, 2026",
-            "Saturday evening, May 9, 2026",
-            "Sunday evening, May 10, 2026",
-            "Monday evening, May 11, 2026",
-            "Tuesday evening, May 12, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Ranjan Kumar stop reporting for duty in Patna under the assumed identity of Santosh Kumar?",
-        "a": "January 2008",
-        "options": [
-            "December 2007",
-            "January 2008",
-            "February 2008",
-            "March 2008",
-            "April 2008"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did officers of the Securities and Exchange Board of India (Sebi) stage a protest to press for wage-related issues?",
-        "a": "2024",
-        "options": [
-            "2022",
-            "2023",
-            "2024",
-            "2025",
-            "2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did Pixxel announce its partnership with Sarvam to launch India's first 'orbital data centre' satellite?",
-        "a": "May 4",
-        "options": [
-            "May 1",
-            "May 2",
-            "May 3",
-            "May 4",
-            "May 5"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary reason for Ranjan Kumar\u2019s dismissal from police service, as upheld by the Supreme Court?",
-        "a": "Fraud, impersonation, and unauthorized absence",
-        "options": [
-            "Insubordination",
-            "Corruption charges",
-            "Misconduct during duty",
-            "Fraud, impersonation, and unauthorized absence",
-            "Failure to meet performance targets"
+            "Decreased logistics costs",
+            "Stable currency rates",
+            "Rising crude-linked inflation",
+            "Increased consumer demand only",
+            "Reduced packaging costs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main purpose of the RBI officers' union letter to Governor Sanjay Malhotra?",
-        "a": "To correct the promotion policy and restore a time-bound system",
+        "q": "What is the main purpose behind FMCG companies' decision to implement price hikes and shrink pack sizes?",
+        "a": "To balance their margins",
         "options": [
-            "To demand salary increments",
-            "To request additional holidays",
-            "To protest against staff transfers",
-            "To correct the promotion policy and restore a time-bound system",
-            "To seek better housing facilities"
+            "To increase market share aggressively",
+            "To reduce product quality",
+            "To balance their margins",
+            "To comply with government regulations",
+            "To exit certain product segments"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for Iran\u2019s Islamic Revolutionary Guard Corps\u2019 warning to the US?",
-        "a": "Any further attacks on Iranian oil tankers or commercial vessels",
+        "q": "Why are FMCG companies resorting to shrinking pack sizes while retaining popular smaller SKUs?",
+        "a": "To maintain sales volumes",
         "options": [
-            "US military exercises in the region",
-            "Sanctions imposed by the US",
-            "Any further attacks on Iranian oil tankers or commercial vessels",
-            "US intelligence gathering activities",
-            "Disputes over fishing rights"
+            "To reduce manufacturing complexity",
+            "To lower overall product quality",
+            "To target niche markets",
+            "To maintain sales volumes",
+            "To pass on promotional benefits"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of Pixxel\u2019s Pathfinder satellite, as described in the news?",
-        "a": "To launch India's first 'orbital data centre' satellite to train and run AI models in orbit",
+        "q": "What is a key factor enabling Dabur India to expect double-digit growth this year despite inflation?",
+        "a": "A mix of value growth through price increases along with volume growth",
         "options": [
-            "To improve satellite communication speeds globally",
-            "To provide high-resolution weather imagery",
-            "To launch India's first 'orbital data centre' satellite to train and run AI models in orbit",
-            "To monitor deforestation in Amazon rainforests",
-            "To facilitate inter-planetary travel research"
+            "Reducing advertising expenditure significantly",
+            "Introducing only premium products",
+            "A mix of value growth through price increases along with volume growth",
+            "Focusing solely on international markets",
+            "Acquiring smaller competitors"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main reason M. K. Stalin urged the new Tamil Nadu government to continue DMK's schemes?",
-        "a": "To ensure people continue to benefit and the state witnesses continued development",
+        "q": "Why is Britannia considering both direct price increases and grammage reduction?",
+        "a": "To offset nearly a 20% rise in fuel and packaging costs",
         "options": [
-            "To secure his legacy as Chief Minister",
-            "To garner political support for future elections",
-            "To fulfill international commitments",
-            "To ensure people continue to benefit and the state witnesses continued development",
-            "To attract foreign investment"
+            "To align with global pricing standards",
+            "To increase product innovation",
+            "To offset nearly a 20% rise in fuel and packaging costs",
+            "To expand into new product categories",
+            "To simplify supply chain operations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What article of the Constitution did the Supreme Court invoke to uphold the dismissal of Ranjan Kumar?",
-        "a": "Article 142",
+        "q": "Why did HUL take price increases to the extent of 2%-5%?",
+        "a": "Due to cost inflation of around 8%-10% on its material cost base",
         "options": [
-            "Article 21",
-            "Article 32",
-            "Article 142",
-            "Article 226",
-            "Article 356"
+            "To gain competitive advantage",
+            "Due to decrease in raw material costs",
+            "To fund new research and development",
+            "Due to cost inflation of around 8%-10% on its material cost base",
+            "To comply with new tax regulations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What principle did the RBIOA demand be introduced across all cadres from Grade A to Grade E?",
-        "a": "'One Grade, One Allowance'",
+        "q": "What is the primary reason Pidilite Industries is bracing for another round of price hikes?",
+        "a": "To offset a weighted average surge of 40%-50% in input costs",
         "options": [
-            "'Performance-Based Promotions'",
-            "'Seniority-Based Promotions'",
-            "'One Grade, One Allowance'",
-            "'Merit-Based Incentives'",
-            "'Flexible Working Hours'"
+            "To increase brand visibility",
+            "To expand factory capacity",
+            "To offset a weighted average surge of 40%-50% in input costs",
+            "To enter new geographical markets",
+            "To reduce workforce size"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one major advantage of moving computation to space, as proponents argue?",
-        "a": "Continuous solar power offering free electricity",
+        "q": "Why have companies selling packaged water and beverages, like Varun Beverages, started cutting discounts?",
+        "a": "Amid rising costs",
         "options": [
-            "Lower gravitational pull",
-            "Easier access to raw materials",
-            "Continuous solar power offering free electricity",
-            "Reduced cyber security threats",
-            "Availability of skilled workforce"
+            "To increase market share",
+            "To liquidate old stock",
+            "Amid rising costs",
+            "To introduce new product lines",
+            "Due to decreased competition"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one major challenge for GPUs in space due to the vacuum environment?",
-        "a": "Elimination of convection for heat dissipation",
+        "q": "How is Marico mitigating its cost pressures?",
+        "a": "Through calibrated pricing actions and cost management initiatives",
         "options": [
-            "Lack of atmospheric pressure",
-            "Higher rate of data corruption",
-            "Elimination of convection for heat dissipation",
-            "Difficulty in chip manufacturing",
-            "Interference from cosmic dust"
+            "By reducing product portfolio diversity",
+            "By outsourcing all production",
+            "Through calibrated pricing actions and cost management initiatives",
+            "By increasing advertising spend drastically",
+            "By focusing only on urban markets"
         ],
         "cat": "Why"
     },
     {
-        "q": "What did the Supreme Court emphasize about public employment, especially in the police force?",
-        "a": "It cannot be used as a means to commit fraud",
+        "q": "What is mentioned as a major pain point for Britannia besides rising fuel costs?",
+        "a": "Higher prices of laminates used in packaging",
         "options": [
-            "It should prioritize efficiency over integrity",
-            "It must be open to all citizens regardless of credentials",
-            "It is primarily for social service",
-            "It cannot be used as a means to commit fraud",
-            "It requires constant surveillance of employees"
+            "Reduced consumer spending",
+            "Increased labor availability",
+            "Higher prices of laminates used in packaging",
+            "Lack of new product innovation",
+            "Decrease in product demand"
         ],
         "cat": "Why"
     },
     {
-        "q": "What kind of identity pattern was indicated by genealogical records and electoral rolls in the constable's case?",
-        "a": "Deliberately altered identity pattern",
+        "q": "What type of prices contribute to the inflationary impact directly visible in Britannia's operating costs?",
+        "a": "LPG and PNG",
         "options": [
-            "Unintentionally mismatched records",
-            "Evidence of two separate individuals",
-            "Deliberately altered identity pattern",
-            "Errors in data entry",
-            "Typographical discrepancies"
+            "Diesel and Petrol",
+            "Electricity and Water",
+            "LPG and PNG",
+            "Coal and Kerosene",
+            "Natural Gas and Biofuel"
         ],
         "cat": "Why"
+    },
+    {
+        "q": "According to HUL, what further raised input costs besides crude oil-linked supply chain disruptions?",
+        "a": "Continued currency depreciation",
+        "options": [
+            "Increased government subsidies",
+            "Stable global trade relations",
+            "Continued currency depreciation",
+            "Reduced import tariffs",
+            "Abundant raw material availability"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is Pidilite's focus while continuing to pass on cost increases in a calibrated fashion?",
+        "a": "Growth while remaining in its guided EBITDA corridor",
+        "options": [
+            "Reducing market share",
+            "Exiting non-core businesses",
+            "Growth while remaining in its guided EBITDA corridor",
+            "Investing heavily in non-FMCG sectors",
+            "Selling off brand assets"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one internal cost efficiency strategy mentioned by FMCG companies to cushion the impact of inflation?",
+        "a": "Trimming discounts and promotions",
+        "options": [
+            "Increasing marketing budgets",
+            "Expanding product lines",
+            "Trimming discounts and promotions",
+            "Opening new manufacturing plants",
+            "Hiring more sales personnel"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What kind of tensions are mentioned as causing disruptions in global supply chains?",
+        "a": "Geopolitical tensions",
+        "options": [
+            "Economic tensions",
+            "Social tensions",
+            "Geopolitical tensions",
+            "Technological tensions",
+            "Environmental tensions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why does Tata Consumer Products Ltd currently have manageable margin pressures despite rising costs?",
+        "a": "Because of the company's diversified portfolio",
+        "options": [
+            "Due to government price controls",
+            "Because of the company's diversified portfolio",
+            "Due to significant export subsidies",
+            "Because of reduced employee wages",
+            "Due to stable global commodity prices"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which specific business segment is Dabur India expecting growth to pick up despite inflation?",
+        "a": "India business",
+        "options": [
+            "International markets",
+            "Rural markets",
+            "India business",
+            "Online sales channel",
+            "North American operations"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where are popular smaller SKUs of \u20b95, \u20b910 or \u20b915 being retained by FMCG companies to maintain sales volumes?",
+        "a": "In the market",
+        "options": [
+            "In warehouses",
+            "In online stores only",
+            "In the market",
+            "In specialty stores",
+            "In export channels"
+        ],
+        "cat": "Where"
     }
 ]
