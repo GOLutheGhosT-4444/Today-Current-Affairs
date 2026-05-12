@@ -1,722 +1,722 @@
 [
     {
-        "q": "What was the approximate range of price hikes recently implemented by leading FMCG companies?",
-        "a": "3%-5%",
+        "q": "Approximately how many names were removed from West Bengal's electoral rolls during the Special Intensive Revision (SIR) exercise?",
+        "a": "91 lakh",
         "options": [
-            "2%-4%",
-            "3%-5%",
-            "4%-6%",
-            "5%-7%",
-            "1%-3%"
+            "91 lakh",
+            "88 lakh",
+            "95 lakh",
+            "80 lakh",
+            "100 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of inflation is Dabur India currently facing this fiscal?",
-        "a": "10%",
+        "q": "How many seats did the BJP win in the 294-member West Bengal legislative assembly?",
+        "a": "207",
         "options": [
-            "8%",
-            "12%",
-            "10%",
-            "9%",
-            "11%"
+            "207",
+            "205",
+            "210",
+            "198",
+            "212"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage price increase has Dabur India already implemented across its business?",
-        "a": "4%",
+        "q": "How many seats was the All India Trinamool Congress (AITC) reduced to in the West Bengal assembly elections?",
+        "a": "80",
         "options": [
-            "3%",
-            "5%",
-            "4%",
-            "6%",
-            "2%"
+            "80",
+            "78",
+            "82",
+            "75",
+            "85"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage rise in fuel and packaging costs has Britannia indicated due to geopolitical developments?",
-        "a": "20%",
+        "q": "What was the victory margin of the BJP in one of the 31 seats mentioned where the margin was less than the deleted votes during SIR?",
+        "a": "862",
         "options": [
-            "18%",
-            "22%",
-            "20%",
-            "15%",
-            "25%"
+            "862",
+            "855",
+            "868",
+            "870",
+            "850"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated range of cost inflation for HUL on its material cost base?",
-        "a": "8%-10%",
+        "q": "How many votes were under adjudication in appeals before the tribunals for the specific seat with a margin of 862?",
+        "a": "5,432",
         "options": [
-            "7%-9%",
-            "8%-10%",
-            "9%-11%",
-            "6%-8%",
-            "10%-12%"
+            "5,432",
+            "5,400",
+            "5,450",
+            "5,390",
+            "5,420"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the range of price increase HUL had already taken, depending on its portfolio?",
-        "a": "2%-5%",
+        "q": "How many appeals were filed by voters in Appellate Tribunals against their exclusion from West Bengal's electoral roll?",
+        "a": "34 lakh",
         "options": [
-            "1%-4%",
-            "3%-6%",
-            "2%-5%",
-            "4%-7%",
-            "0%-3%"
+            "34 lakh",
+            "33 lakh",
+            "35 lakh",
+            "30 lakh",
+            "36 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the weighted average surge in input costs Pidilite Industries is bracing for?",
-        "a": "40%-50%",
+        "q": "How many judicial officers were gheraoed in Malda on April 1, ahead of the elections?",
+        "a": "7",
         "options": [
-            "35%-45%",
-            "40%-50%",
-            "45%-55%",
-            "30%-40%",
-            "50%-60%"
+            "7",
+            "6",
+            "8",
+            "5",
+            "9"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the lower bound of the guided EBITDA corridor Pidilite Industries aims to maintain?",
-        "a": "20%",
-        "options": [
-            "18%",
-            "22%",
-            "20%",
-            "19%",
-            "21%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the upper bound of the guided EBITDA corridor Pidilite Industries aims to maintain?",
-        "a": "24%",
-        "options": [
-            "22%",
-            "26%",
-            "24%",
-            "23%",
-            "25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage price hike has Marico taken in its value-added hair oil portfolio?",
-        "a": "6%-7%",
-        "options": [
-            "5%-6%",
-            "7%-8%",
-            "6%-7%",
-            "4%-5%",
-            "8%-9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which one of the following is a popular smaller SKU (Stock Keeping Unit) price point retained by FMCG companies?",
-        "a": "\u20b95",
-        "options": [
-            "\u20b97",
-            "\u20b912",
-            "\u20b95",
-            "\u20b98",
-            "\u20b96"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is another popular smaller SKU price point retained by FMCG companies to maintain sales volumes?",
-        "a": "\u20b910",
-        "options": [
-            "\u20b99",
-            "\u20b911",
-            "\u20b910",
-            "\u20b912",
-            "\u20b913"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the third popular smaller SKU price point retained by FMCG companies mentioned in the text?",
-        "a": "\u20b915",
-        "options": [
-            "\u20b914",
-            "\u20b916",
-            "\u20b915",
-            "\u20b917",
-            "\u20b918"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the minimum percentage of recent price hikes mentioned for FMCG companies?",
-        "a": "3%",
-        "options": [
-            "2%",
-            "4%",
-            "3%",
-            "1%",
-            "5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum percentage of recent price hikes mentioned for FMCG companies?",
-        "a": "5%",
-        "options": [
-            "4%",
-            "6%",
-            "5%",
-            "7%",
-            "3%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the minimum percentage of HUL's cost inflation on its material cost base?",
-        "a": "8%",
-        "options": [
-            "7%",
-            "9%",
-            "8%",
-            "6%",
-            "10%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum percentage of Pidilite Industries' weighted average surge in input costs?",
-        "a": "50%",
-        "options": [
-            "45%",
-            "55%",
-            "50%",
-            "48%",
-            "52%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the minimum percentage of price hike taken by Marico in its value-added hair oil portfolio?",
+        "q": "What is HSBC's forecast for India's real GDP growth in FY27?",
         "a": "6%",
         "options": [
-            "5%",
-            "7%",
             "6%",
-            "4%",
-            "8%"
+            "6.2%",
+            "5.8%",
+            "6.5%",
+            "5.9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the Global CEO of Dabur India?",
-        "a": "Mohit Malhotra",
+        "q": "What was HSBC's previous forecast for India's real GDP growth in FY26?",
+        "a": "7.4%",
         "options": [
-            "Rakshit Hargave",
-            "Niranjan Gupta",
-            "Mohit Malhotra",
-            "Sudhanshu Vats",
-            "Ravi Jaipuria"
+            "7.4%",
+            "7.2%",
+            "7.5%",
+            "7.0%",
+            "7.3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the Reserve Bank's estimate for India's GDP growth for 2026-27?",
+        "a": "6.9%",
+        "options": [
+            "6.9%",
+            "7.0%",
+            "6.8%",
+            "7.1%",
+            "6.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to HSBC, what percentage point can the El Nino/temperature channel add to inflation over a year?",
+        "a": "0.5 percentage point",
+        "options": [
+            "0.5 percentage point",
+            "0.4 percentage point",
+            "0.6 percentage point",
+            "0.3 percentage point",
+            "0.7 percentage point"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is HSBC's pegged headline inflation for FY27?",
+        "a": "5.6%",
+        "options": [
+            "5.6%",
+            "5.5%",
+            "5.7%",
+            "5.8%",
+            "5.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the upper tolerance limit for headline inflation set by the central bank?",
+        "a": "6%",
+        "options": [
+            "6%",
+            "5.5%",
+            "6.5%",
+            "5%",
+            "7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of hike per litre on petrol and diesel prices did HSBC account for in its forecast?",
+        "a": "\u20b97",
+        "options": [
+            "\u20b97",
+            "\u20b96",
+            "\u20b98",
+            "\u20b96.50",
+            "\u20b97.50"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What are oil marketers reportedly suffering losses of, per year, according to the news?",
+        "a": "\u20b930,000 crore",
+        "options": [
+            "\u20b930,000 crore",
+            "\u20b929,000 crore",
+            "\u20b931,000 crore",
+            "\u20b928,000 crore",
+            "\u20b932,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What would be the average inflation for FY27 if petrol/diesel price hikes do not happen, according to HSBC?",
+        "a": "5.3%",
+        "options": [
+            "5.3%",
+            "5.2%",
+            "5.4%",
+            "5.0%",
+            "5.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many tonnes of gold does India import annually?",
+        "a": "800 tonnes",
+        "options": [
+            "800 tonnes",
+            "750 tonnes",
+            "820 tonnes",
+            "780 tonnes",
+            "850 tonnes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many tonnes of gold are estimated to be locked away annually as passive investments by individuals?",
+        "a": "200 tonnes",
+        "options": [
+            "200 tonnes",
+            "190 tonnes",
+            "210 tonnes",
+            "180 tonnes",
+            "220 tonnes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage does the gems and jewellery sector contribute to India's GDP?",
+        "a": "7%",
+        "options": [
+            "7%",
+            "6%",
+            "8%",
+            "7.5%",
+            "6.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated under-recovery faced by India's oil-marketing companies as mentioned by the Union Petroleum Minister?",
+        "a": "\u20b92 lakh crore",
+        "options": [
+            "\u20b92 lakh crore",
+            "\u20b91.9 lakh crore",
+            "\u20b92.1 lakh crore",
+            "\u20b91.8 lakh crore",
+            "\u20b92.2 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What are the estimated losses for oil-marketing companies in the ongoing quarter?",
+        "a": "\u20b91 lakh crore",
+        "options": [
+            "\u20b91 lakh crore",
+            "\u20b995,000 crore",
+            "\u20b91.05 lakh crore",
+            "\u20b990,000 crore",
+            "\u20b91.1 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated daily loss for oil-marketing companies due to selling products at a lower cost than purchase?",
+        "a": "\u20b91,000 crore",
+        "options": [
+            "\u20b91,000 crore",
+            "\u20b9950 crore",
+            "\u20b91,050 crore",
+            "\u20b9900 crore",
+            "\u20b91,100 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many days of crude oil stocks does India have, as per the Informal Group of Ministers (IGoM) meeting?",
+        "a": "60 days",
+        "options": [
+            "60 days",
+            "55 days",
+            "65 days",
+            "50 days",
+            "70 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the amount of health insurance provided annually to each eligible household under the Ayushman Bharat scheme?",
+        "a": "\u20b95 lakh",
+        "options": [
+            "\u20b95 lakh",
+            "\u20b94.5 lakh",
+            "\u20b95.5 lakh",
+            "\u20b94 lakh",
+            "\u20b96 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the loss caused by a recent fire outbreak at a painting shop in Ramanattukara?",
+        "a": "\u20b91.5 crore",
+        "options": [
+            "\u20b91.5 crore",
+            "\u20b91.4 crore",
+            "\u20b91.6 crore",
+            "\u20b91.3 crore",
+            "\u20b91.7 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many commercial establishments are located in Ramanattukara?",
+        "a": "900",
+        "options": [
+            "900",
+            "880",
+            "920",
+            "850",
+            "950"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who has been appointed as the Chief Secretary of the Suvendu Adhikari-led BJP government in West Bengal?",
+        "a": "Manoj Agarwal",
+        "options": [
+            "Manoj Agarwal",
+            "Dushyant Nariala",
+            "Nandini Chakravorty",
+            "Suvendu Adhikari",
+            "Arjun Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Managing Director and CEO of Britannia?",
-        "a": "Rakshit Hargave",
+        "q": "Who is the current Chief Minister of West Bengal, representing the BJP?",
+        "a": "Suvendu Adhikari",
         "options": [
-            "Mohit Malhotra",
-            "Rakshit Hargave",
-            "Niranjan Gupta",
-            "Saugata Gupta",
-            "Sunil D\u2019Souza"
+            "Suvendu Adhikari",
+            "Manoj Agarwal",
+            "Mamata Banerjee",
+            "Hardeep Singh Puri",
+            "Dushyant Nariala"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the CFO of HUL mentioned in the news text?",
-        "a": "Niranjan Gupta",
+        "q": "Who was the incumbent Chief Secretary of West Bengal before Manoj Agarwal's appointment, and was subsequently appointed Principal Resident Commissioner in New Delhi?",
+        "a": "Dushyant Nariala",
         "options": [
-            "Sudhanshu Vats",
-            "Ravi Jaipuria",
-            "Mohit Malhotra",
-            "Niranjan Gupta",
-            "Manish Tiwary"
+            "Dushyant Nariala",
+            "Nandini Chakravorty",
+            "Manoj Agarwal",
+            "Suvendu Adhikari",
+            "Sujata Sharma"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Managing Director of Pidilite Industries?",
-        "a": "Sudhanshu Vats",
+        "q": "Who is the Chairman of the All India Gem and Jewellery Domestic Council (GJC)?",
+        "a": "Rajesh Rokde",
         "options": [
-            "Rakshit Hargave",
-            "Niranjan Gupta",
-            "Saugata Gupta",
-            "Sudhanshu Vats",
-            "Sunil D\u2019Souza"
+            "Rajesh Rokde",
+            "Avinash Gupta",
+            "C. Vinod Hayagriv",
+            "B. Muthu Venkatraman",
+            "Sujata Sharma"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chairperson of Varun Beverages?",
-        "a": "Ravi Jaipuria",
+        "q": "Who made the call to citizens on Sunday to use public transport more and curtail gold purchases and international flight trips for a year?",
+        "a": "Prime Minister Narendra Modi",
         "options": [
-            "Mohit Malhotra",
-            "Ravi Jaipuria",
-            "Manish Tiwary",
-            "Sudhanshu Vats",
-            "Niranjan Gupta"
+            "Prime Minister Narendra Modi",
+            "Hardeep Singh Puri",
+            "Sujata Sharma",
+            "Rajesh Rokde",
+            "Suvendu Adhikari"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the MD & CEO of Marico?",
-        "a": "Saugata Gupta",
+        "q": "Who is the Joint Secretary at the Union Petroleum Ministry, who stated there is no proposal for a bailout package to oil-marketing companies?",
+        "a": "Sujata Sharma",
         "options": [
-            "Rakshit Hargave",
-            "Mohit Malhotra",
-            "Saugata Gupta",
-            "Sunil D\u2019Souza",
-            "Ravi Jaipuria"
+            "Sujata Sharma",
+            "Hardeep Singh Puri",
+            "C. Senthil Rajan",
+            "Rajesh Rokde",
+            "Dushyant Nariala"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Managing Director and CEO of Tata Consumer Products Ltd?",
-        "a": "Sunil D\u2019Souza",
+        "q": "Who is the Union Petroleum Minister who posted on social media about the under-recoveries faced by India\u2019s oil-marketing companies?",
+        "a": "Hardeep Singh Puri",
         "options": [
-            "Mohit Malhotra",
-            "Sunil D\u2019Souza",
-            "Manish Tiwary",
-            "Sudhanshu Vats",
-            "Niranjan Gupta"
+            "Hardeep Singh Puri",
+            "Sujata Sharma",
+            "C. Senthil Rajan",
+            "Narendra Modi",
+            "Suvendu Adhikari"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chairman and Managing Director of Nestle India?",
-        "a": "Manish Tiwary",
+        "q": "Who is the Congress leader and MLA from Sringeri Assembly Constituency who received interim relief from the Supreme Court?",
+        "a": "T.D. Raje Gowda",
         "options": [
-            "Ravi Jaipuria",
-            "Saugata Gupta",
-            "Sunil D\u2019Souza",
-            "Mohit Malhotra",
-            "Manish Tiwary"
+            "T.D. Raje Gowda",
+            "D.N. Jeevaraj",
+            "Kapil Sibal",
+            "Siddaramaiah",
+            "U.T. Khader"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which FMCG company owns the popular brands Good Day, Marie Gold, and Milk Bikis?",
-        "a": "Britannia",
+        "q": "Who is the BJP candidate and rival of T.D. Raje Gowda in the Sringeri Assembly Constituency?",
+        "a": "D.N. Jeevaraj",
         "options": [
-            "Dabur India",
-            "HUL",
-            "Britannia",
-            "Marico",
-            "Nestle India"
+            "D.N. Jeevaraj",
+            "T.D. Raje Gowda",
+            "U.T. Khader",
+            "Siddaramaiah",
+            "Kapil Sibal"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company is known for brands like Surf Excel, Lifebuoy, and Lakme?",
-        "a": "HUL",
+        "q": "Who is the current Chief Justice of India, part of the SC Bench that heard Mamata Banerjee's claims on SIR?",
+        "a": "Surya Kant",
         "options": [
-            "Pidilite Industries",
-            "Tata Consumer Products Ltd",
-            "Britannia",
-            "HUL",
-            "Varun Beverages"
+            "Surya Kant",
+            "Joymalya Bagchi",
+            "T.S. Sivagnanam",
+            "Dama Seshadri Naidu",
+            "Sanjay Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Fevicol, Dr. Fixit, and M-Seal are popular brands owned by which company?",
-        "a": "Pidilite Industries",
+        "q": "Who previously chaired the State Highways Authority and was involved in planning the elevated corridor over the Kona Expressway?",
+        "a": "Manoj Agarwal",
         "options": [
-            "Marico",
-            "Dabur India",
-            "Pidilite Industries",
-            "HUL",
-            "Nestle India"
+            "Manoj Agarwal",
+            "Suvendu Adhikari",
+            "Dushyant Nariala",
+            "Nandini Chakravorty",
+            "Hardeep Singh Puri"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company owns brands such as Parachute, Saffola, and Livon?",
-        "a": "Marico",
+        "q": "Who administered the oath as MLA to D.N. Jeevaraj from the Karnataka Assembly?",
+        "a": "U.T. Khader",
         "options": [
-            "Britannia",
-            "Marico",
-            "Tata Consumer Products Ltd",
-            "Varun Beverages",
-            "Dabur India"
+            "U.T. Khader",
+            "Siddaramaiah",
+            "T.D. Raje Gowda",
+            "D.N. Jeevaraj",
+            "Basavaraj Bommai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company's Global CEO stated they expect double-digit growth this year despite inflation?",
-        "a": "Dabur India",
+        "q": "Who is the journalist mentioned as Deputy Chief Content Producer at LiveMint?",
+        "a": "Garvit Bhirani",
         "options": [
-            "HUL",
-            "Marico",
-            "Britannia",
-            "Dabur India",
-            "Pidilite Industries"
+            "Garvit Bhirani",
+            "P. Rasheed",
+            "C. Vinod Hayagriv",
+            "B. Muthu Venkatraman",
+            "Avinash Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company's MD & CEO discussed price adjustments for packs above \u20b910 and grammage adjustments?",
-        "a": "Britannia",
+        "q": "Manoj Agarwal, the newly appointed Chief Secretary, is an alumnus of which IIT?",
+        "a": "IIT Kanpur",
         "options": [
-            "HUL",
-            "Marico",
-            "Britannia",
-            "Pidilite Industries",
-            "Tata Consumer Products Ltd"
+            "IIT Kanpur",
+            "IIT Delhi",
+            "IIT Bombay",
+            "IIT Madras",
+            "IIT Kharagpur"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which company's CFO mentioned evaluating the cost environment for further pricing interventions?",
-        "a": "HUL",
+        "q": "To which city's port does the Kona Expressway project aim to improve connectivity?",
+        "a": "Kolkata",
         "options": [
-            "Dabur India",
-            "Pidilite Industries",
-            "Marico",
-            "HUL",
-            "Varun Beverages"
+            "Kolkata",
+            "Mumbai",
+            "Delhi",
+            "Hyderabad",
+            "Chennai"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which company's Managing Director mentioned raising prices twice this year in April and May?",
-        "a": "Pidilite Industries",
+        "q": "Which highway links Kolkata with Delhi, as mentioned in the context of Kona Expressway?",
+        "a": "National Highway 19",
         "options": [
-            "Britannia",
-            "Dabur India",
-            "HUL",
-            "Pidilite Industries",
-            "Marico"
+            "National Highway 19",
+            "National Highway 16",
+            "National Highway 2",
+            "National Highway 44",
+            "National Highway 48"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which company's Chairperson noted that 'B-brands' selling water have reduced discounts?",
-        "a": "Varun Beverages",
+        "q": "Where was Dushyant Nariala appointed as Principal Resident Commissioner after being replaced as Chief Secretary?",
+        "a": "New Delhi",
         "options": [
-            "Nestle India",
-            "Tata Consumer Products Ltd",
-            "Marico",
-            "HUL",
-            "Varun Beverages"
+            "New Delhi",
+            "Kolkata",
+            "Mumbai",
+            "Bengaluru",
+            "Hyderabad"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which company's MD & CEO stated that margin pressures remain manageable for now due to a diversified portfolio?",
-        "a": "Tata Consumer Products Ltd",
+        "q": "Which region's conflict has led to a sharp surge in oil prices?",
+        "a": "West Asia",
         "options": [
-            "Nestle India",
-            "Dabur India",
-            "Marico",
-            "Tata Consumer Products Ltd",
-            "Britannia"
+            "West Asia",
+            "East Asia",
+            "South Asia",
+            "North Africa",
+            "Europe"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "In which month did Pidilite Industries first raise prices this year?",
-        "a": "April",
+        "q": "Which city is the third largest gold jewellery manufacturing hub in India?",
+        "a": "Coimbatore",
         "options": [
-            "March",
-            "May",
-            "April",
-            "June",
-            "February"
+            "Coimbatore",
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Bengaluru"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "In which month did Pidilite Industries implement its second price hike this year?",
-        "a": "May",
+        "q": "Where did Prime Minister Narendra Modi address a public rally on Sunday, May 10, 2026, calling for reduced petrol/diesel consumption?",
+        "a": "Hyderabad",
         "options": [
-            "April",
-            "June",
-            "May",
+            "Hyderabad",
+            "New Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city's civic polls were initially scheduled between June 14 and 24, but sought an extension until September 30?",
+        "a": "Bengaluru",
+        "options": [
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad",
+            "Mumbai",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which constituency in Karnataka does Congress leader T.D. Raje Gowda represent as an MLA?",
+        "a": "Sringeri Assembly Constituency",
+        "options": [
+            "Sringeri Assembly Constituency",
+            "Malda Assembly Constituency",
+            "Kona Assembly Constituency",
+            "Ramanattukara Assembly Constituency",
+            "Chikmagalur Assembly Constituency"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which town is there a long-standing demand for a dedicated mini fire station due to delays in emergency response?",
+        "a": "Ramanattukara",
+        "options": [
+            "Ramanattukara",
+            "Meenchanda",
+            "Vellimadukunnu",
+            "Malappuram",
+            "Kozhikode"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which month is Manoj Agarwal, the new Chief Secretary of West Bengal, due for retirement?",
+        "a": "July",
+        "options": [
             "July",
-            "March"
+            "August",
+            "June",
+            "September",
+            "May"
         ],
         "cat": "When"
     },
     {
-        "q": "For which fiscal period did Dabur India's Global CEO mention facing 10% inflation?",
-        "a": "This fiscal",
+        "q": "When did the Supreme Court set the June 30 deadline for the civic polls in Bengaluru?",
+        "a": "January 2026",
         "options": [
-            "Last fiscal",
-            "Next fiscal",
-            "This fiscal",
-            "Current quarter",
-            "Next quarter"
+            "January 2026",
+            "December 2025",
+            "February 2026",
+            "March 2026",
+            "November 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "For which period does Varun Beverages remain covered for raw material requirements?",
-        "a": "Current quarter",
+        "q": "The term of the erstwhile Bruhat Bengaluru Mahanagara Palike (BBMP) council expired in which month and year?",
+        "a": "September 2020",
         "options": [
-            "Next quarter",
-            "Last quarter",
-            "Current quarter",
-            "Next year",
-            "This month"
+            "September 2020",
+            "January 2026",
+            "June 2020",
+            "December 2020",
+            "March 2021"
         ],
         "cat": "When"
     },
     {
-        "q": "When did FMCG makers implement price hikes of 3%-5%?",
-        "a": "Recently",
+        "q": "By what date did the Karnataka State Election Commission (SEC) seek an extension to hold the Bengaluru civic polls?",
+        "a": "September 30",
         "options": [
-            "Last year",
-            "Next month",
-            "Recently",
-            "Next quarter",
-            "Last fiscal"
+            "September 30",
+            "June 30",
+            "August 30",
+            "October 30",
+            "July 30"
         ],
         "cat": "When"
     },
     {
-        "q": "How many times had Pidilite Industries already raised prices this year before evaluating further increases?",
-        "a": "Twice",
+        "q": "On what date did the Supreme Court order the constitution of Appellate Tribunals to adjudicate SIR appeals in West Bengal?",
+        "a": "March 11",
         "options": [
-            "Once",
-            "Thrice",
-            "Twice",
-            "Four times",
-            "Never"
+            "March 11",
+            "April 13",
+            "April 21",
+            "March 1",
+            "February 11"
         ],
         "cat": "When"
     },
     {
-        "q": "What is a primary reason cited by FMCG companies for expected calibrated price hikes?",
-        "a": "Rising crude-linked inflation",
+        "q": "On what date did the Malda gherao incident involving seven judicial officers occur?",
+        "a": "April 1",
         "options": [
-            "Decreased logistics costs",
-            "Stable currency rates",
-            "Rising crude-linked inflation",
-            "Increased consumer demand only",
-            "Reduced packaging costs"
+            "April 1",
+            "March 11",
+            "April 13",
+            "April 21",
+            "May 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what day did Prime Minister Narendra Modi welcome the decision of the West Bengal government to implement Ayushman Bharat?",
+        "a": "Tuesday (May 12, 2026)",
+        "options": [
+            "Tuesday (May 12, 2026)",
+            "Monday (May 11, 2026)",
+            "Sunday (May 10, 2026)",
+            "Wednesday (May 13, 2026)",
+            "Saturday (May 9, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary purpose of Manoj Agarwal's decision to distribute food coupons through government officials during the COVID-19 pandemic?",
+        "a": "To prevent political interference",
+        "options": [
+            "To prevent political interference",
+            "To speed up distribution",
+            "To reduce administrative costs",
+            "To ensure wider reach",
+            "To track beneficiaries better"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main purpose behind FMCG companies' decision to implement price hikes and shrink pack sizes?",
-        "a": "To balance their margins",
+        "q": "What is the stated aim of the elevated corridor project over the Kona Expressway?",
+        "a": "To reduce traffic congestion",
         "options": [
-            "To increase market share aggressively",
-            "To reduce product quality",
-            "To balance their margins",
-            "To comply with government regulations",
-            "To exit certain product segments"
+            "To reduce traffic congestion",
+            "To increase toll collection",
+            "To beautify the city",
+            "To promote tourism",
+            "To create new commercial zones"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why are FMCG companies resorting to shrinking pack sizes while retaining popular smaller SKUs?",
-        "a": "To maintain sales volumes",
+        "q": "What is the main purpose of the Ayushman Bharat scheme?",
+        "a": "To ensure top-quality and affordable healthcare",
         "options": [
-            "To reduce manufacturing complexity",
-            "To lower overall product quality",
-            "To target niche markets",
-            "To maintain sales volumes",
-            "To pass on promotional benefits"
+            "To ensure top-quality and affordable healthcare",
+            "To provide free education",
+            "To boost rural employment",
+            "To promote housing for all",
+            "To improve sanitation facilities"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a key factor enabling Dabur India to expect double-digit growth this year despite inflation?",
-        "a": "A mix of value growth through price increases along with volume growth",
+        "q": "What is the primary reason cited by the All India Gem and Jewellery Domestic Council (GJC) for a revitalised Gold Monetisation Scheme (GMS)?",
+        "a": "To mobilise idle household gold",
         "options": [
-            "Reducing advertising expenditure significantly",
-            "Introducing only premium products",
-            "A mix of value growth through price increases along with volume growth",
-            "Focusing solely on international markets",
-            "Acquiring smaller competitors"
+            "To mobilise idle household gold",
+            "To increase gold imports",
+            "To promote gold jewellery sales",
+            "To reduce customs duties on gold",
+            "To encourage foreign investment in gold"
         ],
         "cat": "Why"
-    },
-    {
-        "q": "Why is Britannia considering both direct price increases and grammage reduction?",
-        "a": "To offset nearly a 20% rise in fuel and packaging costs",
-        "options": [
-            "To align with global pricing standards",
-            "To increase product innovation",
-            "To offset nearly a 20% rise in fuel and packaging costs",
-            "To expand into new product categories",
-            "To simplify supply chain operations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did HUL take price increases to the extent of 2%-5%?",
-        "a": "Due to cost inflation of around 8%-10% on its material cost base",
-        "options": [
-            "To gain competitive advantage",
-            "Due to decrease in raw material costs",
-            "To fund new research and development",
-            "Due to cost inflation of around 8%-10% on its material cost base",
-            "To comply with new tax regulations"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary reason Pidilite Industries is bracing for another round of price hikes?",
-        "a": "To offset a weighted average surge of 40%-50% in input costs",
-        "options": [
-            "To increase brand visibility",
-            "To expand factory capacity",
-            "To offset a weighted average surge of 40%-50% in input costs",
-            "To enter new geographical markets",
-            "To reduce workforce size"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why have companies selling packaged water and beverages, like Varun Beverages, started cutting discounts?",
-        "a": "Amid rising costs",
-        "options": [
-            "To increase market share",
-            "To liquidate old stock",
-            "Amid rising costs",
-            "To introduce new product lines",
-            "Due to decreased competition"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How is Marico mitigating its cost pressures?",
-        "a": "Through calibrated pricing actions and cost management initiatives",
-        "options": [
-            "By reducing product portfolio diversity",
-            "By outsourcing all production",
-            "Through calibrated pricing actions and cost management initiatives",
-            "By increasing advertising spend drastically",
-            "By focusing only on urban markets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is mentioned as a major pain point for Britannia besides rising fuel costs?",
-        "a": "Higher prices of laminates used in packaging",
-        "options": [
-            "Reduced consumer spending",
-            "Increased labor availability",
-            "Higher prices of laminates used in packaging",
-            "Lack of new product innovation",
-            "Decrease in product demand"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What type of prices contribute to the inflationary impact directly visible in Britannia's operating costs?",
-        "a": "LPG and PNG",
-        "options": [
-            "Diesel and Petrol",
-            "Electricity and Water",
-            "LPG and PNG",
-            "Coal and Kerosene",
-            "Natural Gas and Biofuel"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to HUL, what further raised input costs besides crude oil-linked supply chain disruptions?",
-        "a": "Continued currency depreciation",
-        "options": [
-            "Increased government subsidies",
-            "Stable global trade relations",
-            "Continued currency depreciation",
-            "Reduced import tariffs",
-            "Abundant raw material availability"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is Pidilite's focus while continuing to pass on cost increases in a calibrated fashion?",
-        "a": "Growth while remaining in its guided EBITDA corridor",
-        "options": [
-            "Reducing market share",
-            "Exiting non-core businesses",
-            "Growth while remaining in its guided EBITDA corridor",
-            "Investing heavily in non-FMCG sectors",
-            "Selling off brand assets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one internal cost efficiency strategy mentioned by FMCG companies to cushion the impact of inflation?",
-        "a": "Trimming discounts and promotions",
-        "options": [
-            "Increasing marketing budgets",
-            "Expanding product lines",
-            "Trimming discounts and promotions",
-            "Opening new manufacturing plants",
-            "Hiring more sales personnel"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What kind of tensions are mentioned as causing disruptions in global supply chains?",
-        "a": "Geopolitical tensions",
-        "options": [
-            "Economic tensions",
-            "Social tensions",
-            "Geopolitical tensions",
-            "Technological tensions",
-            "Environmental tensions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why does Tata Consumer Products Ltd currently have manageable margin pressures despite rising costs?",
-        "a": "Because of the company's diversified portfolio",
-        "options": [
-            "Due to government price controls",
-            "Because of the company's diversified portfolio",
-            "Due to significant export subsidies",
-            "Because of reduced employee wages",
-            "Due to stable global commodity prices"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which specific business segment is Dabur India expecting growth to pick up despite inflation?",
-        "a": "India business",
-        "options": [
-            "International markets",
-            "Rural markets",
-            "India business",
-            "Online sales channel",
-            "North American operations"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where are popular smaller SKUs of \u20b95, \u20b910 or \u20b915 being retained by FMCG companies to maintain sales volumes?",
-        "a": "In the market",
-        "options": [
-            "In warehouses",
-            "In online stores only",
-            "In the market",
-            "In specialty stores",
-            "In export channels"
-        ],
-        "cat": "Where"
     }
 ]
