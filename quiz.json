@@ -1,721 +1,721 @@
 [
     {
-        "q": "Approximately how many names were removed from West Bengal's electoral rolls during the Special Intensive Revision (SIR) exercise?",
-        "a": "91 lakh",
+        "q": "What was the retail inflation rate recorded in April 2026?",
+        "a": "3.5%",
         "options": [
-            "91 lakh",
-            "88 lakh",
-            "95 lakh",
-            "80 lakh",
-            "100 lakh"
+            "3.4%",
+            "3.6%",
+            "3.5%",
+            "3.3%",
+            "3.7%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many seats did the BJP win in the 294-member West Bengal legislative assembly?",
-        "a": "207",
+        "q": "What was the inflation rate for food and beverages in April 2026?",
+        "a": "4%",
         "options": [
-            "207",
-            "205",
-            "210",
-            "198",
-            "212"
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.0%",
+            "4.2%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many seats was the All India Trinamool Congress (AITC) reduced to in the West Bengal assembly elections?",
-        "a": "80",
+        "q": "What was the inflation rate in the restaurant and accommodation services sector in April 2026?",
+        "a": "4.2%",
         "options": [
-            "80",
-            "78",
-            "82",
-            "75",
-            "85"
+            "2.9%",
+            "4.1%",
+            "4.3%",
+            "4.2%",
+            "4.0%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the victory margin of the BJP in one of the 31 seats mentioned where the margin was less than the deleted votes during SIR?",
-        "a": "862",
+        "q": "What was the inflation rate in the transport sector in April 2026?",
+        "a": "-0.01%",
         "options": [
-            "862",
-            "855",
-            "868",
-            "870",
-            "850"
+            "0%",
+            "-0.02%",
+            "0.01%",
+            "-0.01%",
+            "0.05%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many votes were under adjudication in appeals before the tribunals for the specific seat with a margin of 862?",
-        "a": "5,432",
+        "q": "By what percentage did prices of transport of goods increase in the month mentioned?",
+        "a": "7.6%",
         "options": [
-            "5,432",
-            "5,400",
-            "5,450",
-            "5,390",
-            "5,420"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many appeals were filed by voters in Appellate Tribunals against their exclusion from West Bengal's electoral roll?",
-        "a": "34 lakh",
-        "options": [
-            "34 lakh",
-            "33 lakh",
-            "35 lakh",
-            "30 lakh",
-            "36 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many judicial officers were gheraoed in Malda on April 1, ahead of the elections?",
-        "a": "7",
-        "options": [
-            "7",
-            "6",
-            "8",
-            "5",
-            "9"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is HSBC's forecast for India's real GDP growth in FY27?",
-        "a": "6%",
-        "options": [
-            "6%",
-            "6.2%",
-            "5.8%",
-            "6.5%",
-            "5.9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was HSBC's previous forecast for India's real GDP growth in FY26?",
-        "a": "7.4%",
-        "options": [
-            "7.4%",
-            "7.2%",
             "7.5%",
-            "7.0%",
-            "7.3%"
+            "7.7%",
+            "7.6%",
+            "7.8%",
+            "7.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the Reserve Bank's estimate for India's GDP growth for 2026-27?",
-        "a": "6.9%",
+        "q": "What was the inflation rate for clothing and footwear in April 2026?",
+        "a": "2.8%",
         "options": [
-            "6.9%",
-            "7.0%",
-            "6.8%",
-            "7.1%",
-            "6.7%"
+            "2.75%",
+            "2.9%",
+            "2.8%",
+            "3.0%",
+            "2.7%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to HSBC, what percentage point can the El Nino/temperature channel add to inflation over a year?",
-        "a": "0.5 percentage point",
+        "q": "What was the inflation rate for health services in April 2026?",
+        "a": "1.6%",
         "options": [
-            "0.5 percentage point",
-            "0.4 percentage point",
-            "0.6 percentage point",
-            "0.3 percentage point",
-            "0.7 percentage point"
+            "1.7%",
+            "1.5%",
+            "1.6%",
+            "1.8%",
+            "1.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is HSBC's pegged headline inflation for FY27?",
-        "a": "5.6%",
+        "q": "What was the inflation rate for information and communication in April 2026?",
+        "a": "0.5%",
         "options": [
-            "5.6%",
-            "5.5%",
-            "5.7%",
-            "5.8%",
-            "5.4%"
+            "0.3%",
+            "0.4%",
+            "0.6%",
+            "0.5%",
+            "0.7%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the upper tolerance limit for headline inflation set by the central bank?",
-        "a": "6%",
+        "q": "What was the inflation rate for education in April 2026?",
+        "a": "3.1%",
         "options": [
-            "6%",
-            "5.5%",
-            "6.5%",
-            "5%",
-            "7%"
+            "3.3%",
+            "3.0%",
+            "3.2%",
+            "3.1%",
+            "3.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount of hike per litre on petrol and diesel prices did HSBC account for in its forecast?",
-        "a": "\u20b97",
-        "options": [
-            "\u20b97",
-            "\u20b96",
-            "\u20b98",
-            "\u20b96.50",
-            "\u20b97.50"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What are oil marketers reportedly suffering losses of, per year, according to the news?",
-        "a": "\u20b930,000 crore",
-        "options": [
-            "\u20b930,000 crore",
-            "\u20b929,000 crore",
-            "\u20b931,000 crore",
-            "\u20b928,000 crore",
-            "\u20b932,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What would be the average inflation for FY27 if petrol/diesel price hikes do not happen, according to HSBC?",
-        "a": "5.3%",
-        "options": [
-            "5.3%",
-            "5.2%",
-            "5.4%",
-            "5.0%",
-            "5.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many tonnes of gold does India import annually?",
-        "a": "800 tonnes",
-        "options": [
-            "800 tonnes",
-            "750 tonnes",
-            "820 tonnes",
-            "780 tonnes",
-            "850 tonnes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many tonnes of gold are estimated to be locked away annually as passive investments by individuals?",
-        "a": "200 tonnes",
-        "options": [
-            "200 tonnes",
-            "190 tonnes",
-            "210 tonnes",
-            "180 tonnes",
-            "220 tonnes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage does the gems and jewellery sector contribute to India's GDP?",
-        "a": "7%",
-        "options": [
-            "7%",
-            "6%",
-            "8%",
-            "7.5%",
-            "6.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated under-recovery faced by India's oil-marketing companies as mentioned by the Union Petroleum Minister?",
-        "a": "\u20b92 lakh crore",
-        "options": [
-            "\u20b92 lakh crore",
-            "\u20b91.9 lakh crore",
-            "\u20b92.1 lakh crore",
-            "\u20b91.8 lakh crore",
-            "\u20b92.2 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What are the estimated losses for oil-marketing companies in the ongoing quarter?",
-        "a": "\u20b91 lakh crore",
+        "q": "What is the estimated under-recovery figure that OMCs are staring at during the quarter, as mentioned by the Union Petroleum Minister?",
+        "a": "Up to \u20b92 lakh crore",
         "options": [
             "\u20b91 lakh crore",
-            "\u20b995,000 crore",
-            "\u20b91.05 lakh crore",
-            "\u20b990,000 crore",
-            "\u20b91.1 lakh crore"
+            "\u20b91.5 lakh crore",
+            "\u20b92.5 lakh crore",
+            "Up to \u20b92 lakh crore",
+            "\u20b93 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated daily loss for oil-marketing companies due to selling products at a lower cost than purchase?",
-        "a": "\u20b91,000 crore",
+        "q": "What is the estimated loss figure that OMCs are expected to scale to, as per the Union Petroleum Minister's statement?",
+        "a": "About \u20b91 lakh crore",
         "options": [
-            "\u20b91,000 crore",
-            "\u20b9950 crore",
-            "\u20b91,050 crore",
-            "\u20b9900 crore",
-            "\u20b91,100 crore"
+            "\u20b92 lakh crore",
+            "\u20b91.5 lakh crore",
+            "\u20b90.5 lakh crore",
+            "About \u20b91 lakh crore",
+            "\u20b90.75 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many days of crude oil stocks does India have, as per the Informal Group of Ministers (IGoM) meeting?",
+        "q": "India has how many days of crude oil reserves, as stated by the Petroleum Minister?",
         "a": "60 days",
         "options": [
-            "60 days",
-            "55 days",
-            "65 days",
+            "45 days",
             "50 days",
-            "70 days"
+            "60 days",
+            "75 days",
+            "90 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the amount of health insurance provided annually to each eligible household under the Ayushman Bharat scheme?",
-        "a": "\u20b95 lakh",
+        "q": "What is the current domestic production of LPG in India, as per the Union Petroleum Minister?",
+        "a": "54,000 metric tonnes per day",
         "options": [
-            "\u20b95 lakh",
-            "\u20b94.5 lakh",
-            "\u20b95.5 lakh",
-            "\u20b94 lakh",
-            "\u20b96 lakh"
+            "35,000 metric tonnes per day",
+            "36,000 metric tonnes per day",
+            "50,000 metric tonnes per day",
+            "54,000 metric tonnes per day",
+            "60,000 metric tonnes per day"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the loss caused by a recent fire outbreak at a painting shop in Ramanattukara?",
-        "a": "\u20b91.5 crore",
+        "q": "How many kilometers of border land did the West Bengal Government hand over to the BSF over the past three years?",
+        "a": "78 km",
         "options": [
-            "\u20b91.5 crore",
-            "\u20b91.4 crore",
-            "\u20b91.6 crore",
-            "\u20b91.3 crore",
-            "\u20b91.7 crore"
+            "121 km",
+            "75 km",
+            "80 km",
+            "78 km",
+            "90 km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many commercial establishments are located in Ramanattukara?",
-        "a": "900",
+        "q": "What is the total length of the Indo-Bangladesh border in West Bengal?",
+        "a": "2216.7 km",
         "options": [
-            "900",
-            "880",
-            "920",
-            "850",
-            "950"
+            "1647.696 km",
+            "569.004 km",
+            "2216.7 km",
+            "285.25 km",
+            "112.780 km"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who has been appointed as the Chief Secretary of the Suvendu Adhikari-led BJP government in West Bengal?",
-        "a": "Manoj Agarwal",
+        "q": "What is the remaining border length in West Bengal yet to be covered by fence and other infrastructure work?",
+        "a": "569.004 km",
         "options": [
-            "Manoj Agarwal",
-            "Dushyant Nariala",
-            "Nandini Chakravorty",
-            "Suvendu Adhikari",
-            "Arjun Singh"
+            "2216.7 km",
+            "1647.696 km",
+            "569.004 km",
+            "456.224 km",
+            "112.780 km"
         ],
-        "cat": "Who"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the current Chief Minister of West Bengal, representing the BJP?",
-        "a": "Suvendu Adhikari",
+        "q": "How many acres of land purchase and acquisition remained pending for border fencing in West Bengal, according to court data?",
+        "a": "1,156 acres",
         "options": [
-            "Suvendu Adhikari",
-            "Manoj Agarwal",
-            "Mamata Banerjee",
+            "269 acres",
+            "48.49 acres",
+            "1,200 acres",
+            "1,156 acres",
+            "1,100 acres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the retail inflation rate registered in March 2026?",
+        "a": "3.4%",
+        "options": [
+            "3.5%",
+            "3.3%",
+            "3.4%",
+            "3.6%",
+            "3.2%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "India has how many days of LNG reserves, as stated by the Petroleum Minister?",
+        "a": "60 days",
+        "options": [
+            "45 days",
+            "50 days",
+            "60 days",
+            "75 days",
+            "90 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "India has how many days of LPG reserves, as stated by the Petroleum Minister?",
+        "a": "45 days",
+        "options": [
+            "60 days",
+            "50 days",
+            "45 days",
+            "30 days",
+            "75 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the chief economist at Kotak Mahindra Bank mentioned in the news?",
+        "a": "Upasna Bhardwaj",
+        "options": [
+            "Madan Sabnavis",
+            "Rajni Thakur",
             "Hardeep Singh Puri",
-            "Dushyant Nariala"
+            "Upasna Bhardwaj",
+            "Ajay Kumar Bhalla"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the incumbent Chief Secretary of West Bengal before Manoj Agarwal's appointment, and was subsequently appointed Principal Resident Commissioner in New Delhi?",
-        "a": "Dushyant Nariala",
+        "q": "Who is the chief economist at the Bank of Baroda mentioned in the news?",
+        "a": "Madan Sabnavis",
         "options": [
-            "Dushyant Nariala",
-            "Nandini Chakravorty",
-            "Manoj Agarwal",
-            "Suvendu Adhikari",
-            "Sujata Sharma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chairman of the All India Gem and Jewellery Domestic Council (GJC)?",
-        "a": "Rajesh Rokde",
-        "options": [
-            "Rajesh Rokde",
-            "Avinash Gupta",
-            "C. Vinod Hayagriv",
-            "B. Muthu Venkatraman",
-            "Sujata Sharma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who made the call to citizens on Sunday to use public transport more and curtail gold purchases and international flight trips for a year?",
-        "a": "Prime Minister Narendra Modi",
-        "options": [
-            "Prime Minister Narendra Modi",
+            "Upasna Bhardwaj",
+            "Rajni Thakur",
+            "Madan Sabnavis",
             "Hardeep Singh Puri",
-            "Sujata Sharma",
-            "Rajesh Rokde",
-            "Suvendu Adhikari"
+            "Pete Davidson"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Joint Secretary at the Union Petroleum Ministry, who stated there is no proposal for a bailout package to oil-marketing companies?",
-        "a": "Sujata Sharma",
+        "q": "Who is the chief economist at L&T Finance mentioned in the news?",
+        "a": "Rajni Thakur",
         "options": [
-            "Sujata Sharma",
-            "Hardeep Singh Puri",
-            "C. Senthil Rajan",
-            "Rajesh Rokde",
-            "Dushyant Nariala"
+            "Upasna Bhardwaj",
+            "Madan Sabnavis",
+            "Rajni Thakur",
+            "Ajay Kumar Bhalla",
+            "Kevin Hart"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Union Petroleum Minister who posted on social media about the under-recoveries faced by India\u2019s oil-marketing companies?",
+        "q": "Who is the Union Petroleum Minister mentioned in the news?",
         "a": "Hardeep Singh Puri",
         "options": [
-            "Hardeep Singh Puri",
-            "Sujata Sharma",
-            "C. Senthil Rajan",
             "Narendra Modi",
-            "Suvendu Adhikari"
+            "Ajay Kumar Bhalla",
+            "Hardeep Singh Puri",
+            "Pete Davidson",
+            "Charlie Kirk"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Congress leader and MLA from Sringeri Assembly Constituency who received interim relief from the Supreme Court?",
-        "a": "T.D. Raje Gowda",
+        "q": "Who made a controversial joke about Charlie Kirk during Netflix\u2019s live roast of Kevin Hart?",
+        "a": "Pete Davidson",
         "options": [
-            "T.D. Raje Gowda",
-            "D.N. Jeevaraj",
-            "Kapil Sibal",
-            "Siddaramaiah",
-            "U.T. Khader"
+            "Tom Brady",
+            "Kevin Hart",
+            "Jeff Ross",
+            "Pete Davidson",
+            "Dwayne Johnson"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the BJP candidate and rival of T.D. Raje Gowda in the Sringeri Assembly Constituency?",
-        "a": "D.N. Jeevaraj",
+        "q": "Who was the slain conservative activist and founder of Turning Point USA, mentioned in the context of a controversial joke?",
+        "a": "Charlie Kirk",
         "options": [
-            "D.N. Jeevaraj",
-            "T.D. Raje Gowda",
-            "U.T. Khader",
-            "Siddaramaiah",
-            "Kapil Sibal"
+            "Kanye West",
+            "Kevin Hart",
+            "Pete Davidson",
+            "Charlie Kirk",
+            "Tony Hinchcliffe"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Chief Justice of India, part of the SC Bench that heard Mamata Banerjee's claims on SIR?",
-        "a": "Surya Kant",
+        "q": "Who was the subject of Netflix\u2019s live roast event at the Kia Forum?",
+        "a": "Kevin Hart",
         "options": [
-            "Surya Kant",
-            "Joymalya Bagchi",
-            "T.S. Sivagnanam",
-            "Dama Seshadri Naidu",
-            "Sanjay Kumar"
+            "Pete Davidson",
+            "Charlie Kirk",
+            "Tom Brady",
+            "Kevin Hart",
+            "Jeff Ross"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who previously chaired the State Highways Authority and was involved in planning the elevated corridor over the Kona Expressway?",
-        "a": "Manoj Agarwal",
+        "q": "Who was the former Union Home Secretary who filed an affidavit in the Supreme Court in 2023 regarding land acquisition in West Bengal?",
+        "a": "Ajay Kumar Bhalla",
         "options": [
-            "Manoj Agarwal",
-            "Suvendu Adhikari",
-            "Dushyant Nariala",
-            "Nandini Chakravorty",
-            "Hardeep Singh Puri"
+            "Hardeep Singh Puri",
+            "Narendra Modi",
+            "Upasna Bhardwaj",
+            "Ajay Kumar Bhalla",
+            "Madan Sabnavis"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who administered the oath as MLA to D.N. Jeevaraj from the Karnataka Assembly?",
-        "a": "U.T. Khader",
+        "q": "Which rapper was referenced in Pete Davidson's set who had previously faced backlash over antisemitic comments?",
+        "a": "Kanye West",
         "options": [
-            "U.T. Khader",
-            "Siddaramaiah",
-            "T.D. Raje Gowda",
-            "D.N. Jeevaraj",
-            "Basavaraj Bommai"
+            "Tony Hinchcliffe",
+            "Kevin Hart",
+            "Charlie Kirk",
+            "Kanye West",
+            "Tom Brady"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the journalist mentioned as Deputy Chief Content Producer at LiveMint?",
-        "a": "Garvit Bhirani",
+        "q": "Who is the Prime Minister who called for diligent use of retail fuel, as referenced by the Petroleum Minister?",
+        "a": "Narendra Modi",
         "options": [
-            "Garvit Bhirani",
-            "P. Rasheed",
-            "C. Vinod Hayagriv",
-            "B. Muthu Venkatraman",
-            "Avinash Gupta"
+            "Hardeep Singh Puri",
+            "Ajay Kumar Bhalla",
+            "Narendra Modi",
+            "Pete Davidson",
+            "Madan Sabnavis"
         ],
         "cat": "Who"
     },
     {
-        "q": "Manoj Agarwal, the newly appointed Chief Secretary, is an alumnus of which IIT?",
-        "a": "IIT Kanpur",
+        "q": "Who is the comedian targeted by Pete Davidson's joke about his podcast title, \"Please someone f---ing kill Tony\"?",
+        "a": "Tony Hinchcliffe",
         "options": [
-            "IIT Kanpur",
-            "IIT Delhi",
-            "IIT Bombay",
-            "IIT Madras",
-            "IIT Kharagpur"
+            "Kevin Hart",
+            "Charlie Kirk",
+            "Kanye West",
+            "Tony Hinchcliffe",
+            "Tom Brady"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "To which city's port does the Kona Expressway project aim to improve connectivity?",
-        "a": "Kolkata",
+        "q": "Whose father, a firefighter, died during the September 11 attacks, influencing his use of dark humor?",
+        "a": "Pete Davidson",
         "options": [
-            "Kolkata",
-            "Mumbai",
-            "Delhi",
-            "Hyderabad",
-            "Chennai"
+            "Kevin Hart",
+            "Charlie Kirk",
+            "Kanye West",
+            "Tony Hinchcliffe",
+            "Jeff Ross"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "Which highway links Kolkata with Delhi, as mentioned in the context of Kona Expressway?",
-        "a": "National Highway 19",
-        "options": [
-            "National Highway 19",
-            "National Highway 16",
-            "National Highway 2",
-            "National Highway 44",
-            "National Highway 48"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was Dushyant Nariala appointed as Principal Resident Commissioner after being replaced as Chief Secretary?",
-        "a": "New Delhi",
-        "options": [
-            "New Delhi",
-            "Kolkata",
-            "Mumbai",
-            "Bengaluru",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which region's conflict has led to a sharp surge in oil prices?",
+        "q": "Where did the war mentioned in the news start in March 2026?",
         "a": "West Asia",
         "options": [
-            "West Asia",
             "East Asia",
             "South Asia",
-            "North Africa",
-            "Europe"
+            "Europe",
+            "West Asia",
+            "North America"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city is the third largest gold jewellery manufacturing hub in India?",
-        "a": "Coimbatore",
+        "q": "What was the venue for The Roast of Kevin Hart?",
+        "a": "Kia Forum in California",
         "options": [
-            "Coimbatore",
-            "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "Bengaluru"
+            "Madison Square Garden",
+            "Dolby Theatre",
+            "Kia Forum in California",
+            "Staples Center",
+            "Beacon Theatre"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where did Prime Minister Narendra Modi address a public rally on Sunday, May 10, 2026, calling for reduced petrol/diesel consumption?",
-        "a": "Hyderabad",
+        "q": "Where was Charlie Kirk reportedly killed in 2025?",
+        "a": "Utah Valley University",
         "options": [
-            "Hyderabad",
-            "New Delhi",
-            "Bengaluru",
-            "Mumbai",
-            "Kolkata"
+            "Turning Point USA Headquarters",
+            "California",
+            "Utah Valley University",
+            "New York",
+            "Florida"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which city's civic polls were initially scheduled between June 14 and 24, but sought an extension until September 30?",
-        "a": "Bengaluru",
+        "q": "Where was the land acquisition delay for erecting fences along the Bangladesh border discussed in the news?",
+        "a": "West Bengal",
         "options": [
-            "Bengaluru",
-            "Chennai",
-            "Hyderabad",
-            "Mumbai",
-            "Kolkata"
+            "Assam",
+            "Tripura",
+            "Meghalaya",
+            "West Bengal",
+            "Mizoram"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which constituency in Karnataka does Congress leader T.D. Raje Gowda represent as an MLA?",
-        "a": "Sringeri Assembly Constituency",
+        "q": "In which court did the Ministry of Home Affairs (MHA) file an affidavit in 2023 regarding land acquisition?",
+        "a": "Supreme Court",
         "options": [
-            "Sringeri Assembly Constituency",
-            "Malda Assembly Constituency",
-            "Kona Assembly Constituency",
-            "Ramanattukara Assembly Constituency",
-            "Chikmagalur Assembly Constituency"
+            "Calcutta High Court",
+            "Delhi High Court",
+            "Supreme Court",
+            "National Green Tribunal",
+            "Bombay High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which town is there a long-standing demand for a dedicated mini fire station due to delays in emergency response?",
-        "a": "Ramanattukara",
+        "q": "Which Indian state government's policy was identified as a key reason for delays in border fencing?",
+        "a": "West Bengal",
         "options": [
-            "Ramanattukara",
-            "Meenchanda",
-            "Vellimadukunnu",
-            "Malappuram",
-            "Kozhikode"
+            "Assam",
+            "Tripura",
+            "Meghalaya",
+            "West Bengal",
+            "Mizoram"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which month is Manoj Agarwal, the new Chief Secretary of West Bengal, due for retirement?",
-        "a": "July",
+        "q": "In which High Court were submissions made in January regarding the transfer of border land to the BSF by the West Bengal Government?",
+        "a": "Calcutta High Court",
         "options": [
-            "July",
-            "August",
-            "June",
-            "September",
-            "May"
+            "Delhi High Court",
+            "Bombay High Court",
+            "Calcutta High Court",
+            "Madras High Court",
+            "Punjab & Haryana High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which of the following districts is NOT among the nine districts in West Bengal requiring border fencing, as mentioned in the text?",
+        "a": "Purulia",
+        "options": [
+            "Nadia",
+            "Malda",
+            "Purulia",
+            "Darjeeling",
+            "Cooch Behar"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Annual Business Summit 2026, where Union Petroleum Minister Hardeep Singh Puri spoke, was organized by which industry confederation?",
+        "a": "Confederation of Indian Industries\u2019 (CII)",
+        "options": [
+            "FICCI",
+            "ASSOCHAM",
+            "NASSCOM",
+            "Confederation of Indian Industries\u2019 (CII)",
+            "PHDCCI"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Indo-Bangladesh border discussed in the context of land acquisition for fencing is primarily located in which Indian state?",
+        "a": "West Bengal",
+        "options": [
+            "Assam",
+            "Tripura",
+            "Meghalaya",
+            "West Bengal",
+            "Mizoram"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did retail inflation quicken to a 13-month high of 3.5%?",
+        "a": "April 2026",
+        "options": [
+            "March 2026",
+            "February 2026",
+            "April 2026",
+            "January 2026",
+            "May 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Supreme Court set the June 30 deadline for the civic polls in Bengaluru?",
-        "a": "January 2026",
+        "q": "In which month and year did the war in West Asia start, according to the news?",
+        "a": "March 2026",
         "options": [
-            "January 2026",
-            "December 2025",
+            "April 2026",
             "February 2026",
             "March 2026",
-            "November 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The term of the erstwhile Bruhat Bengaluru Mahanagara Palike (BBMP) council expired in which month and year?",
-        "a": "September 2020",
-        "options": [
-            "September 2020",
             "January 2026",
-            "June 2020",
-            "December 2020",
-            "March 2021"
+            "May 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "By what date did the Karnataka State Election Commission (SEC) seek an extension to hold the Bengaluru civic polls?",
-        "a": "September 30",
+        "q": "In which year did Charlie Kirk get killed during a shooting at Utah Valley University?",
+        "a": "2025",
         "options": [
-            "September 30",
-            "June 30",
-            "August 30",
-            "October 30",
-            "July 30"
+            "2023",
+            "2024",
+            "2025",
+            "2026",
+            "2022"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Supreme Court order the constitution of Appellate Tribunals to adjudicate SIR appeals in West Bengal?",
-        "a": "March 11",
+        "q": "In which year was the MHA affidavit filed in the Supreme Court regarding land acquisition delays in West Bengal?",
+        "a": "2023",
         "options": [
+            "2022",
+            "2024",
+            "2023",
+            "2025",
+            "2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was West Bengal's Direct Land Purchase Policy enacted?",
+        "a": "2016",
+        "options": [
+            "2013",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the BJP government in West Bengal announce the transfer of land to the BSF within 45 days?",
+        "a": "May 11",
+        "options": [
+            "April 11",
             "March 11",
-            "April 13",
-            "April 21",
-            "March 1",
+            "May 11",
+            "June 11",
             "February 11"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Malda gherao incident involving seven judicial officers occur?",
-        "a": "April 1",
+        "q": "How long was the deadline set by the BJP government in West Bengal for transferring land to the BSF?",
+        "a": "45-days",
         "options": [
-            "April 1",
-            "March 11",
-            "April 13",
-            "April 21",
-            "May 1"
+            "30-days",
+            "60-days",
+            "45-days",
+            "90-days",
+            "75-days"
         ],
         "cat": "When"
     },
     {
-        "q": "On what day did Prime Minister Narendra Modi welcome the decision of the West Bengal government to implement Ayushman Bharat?",
-        "a": "Tuesday (May 12, 2026)",
+        "q": "The data on the Consumer Price Index (CPI) for which month was discussed in the news?",
+        "a": "April 2026",
         "options": [
-            "Tuesday (May 12, 2026)",
-            "Monday (May 11, 2026)",
-            "Sunday (May 10, 2026)",
-            "Wednesday (May 13, 2026)",
-            "Saturday (May 9, 2026)"
+            "March 2026",
+            "May 2026",
+            "January 2026",
+            "April 2026",
+            "February 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary purpose of Manoj Agarwal's decision to distribute food coupons through government officials during the COVID-19 pandemic?",
-        "a": "To prevent political interference",
+        "q": "In which year was the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR Act) passed?",
+        "a": "2013",
         "options": [
-            "To prevent political interference",
-            "To speed up distribution",
-            "To reduce administrative costs",
-            "To ensure wider reach",
-            "To track beneficiaries better"
+            "2016",
+            "2010",
+            "2013",
+            "2015",
+            "2012"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Pete Davidson's father died during which significant historical event?",
+        "a": "September 11 attacks",
+        "options": [
+            "Gulf War",
+            "Vietnam War",
+            "September 11 attacks",
+            "Pearl Harbor Attack",
+            "World War II"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The MHA informed Parliament about border fencing details in West Bengal in which year relative to the news report (assuming news context is 2026)?",
+        "a": "2025",
+        "options": [
+            "2024",
+            "2023",
+            "2025",
+            "2026",
+            "2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason cited for the quickening of retail inflation in April 2026?",
+        "a": "Higher food inflation and increased restaurant prices",
+        "options": [
+            "Lower fuel prices",
+            "Decreased food prices",
+            "Higher food inflation and increased restaurant prices",
+            "Stable transport costs",
+            "Reduced demand"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated aim of the elevated corridor project over the Kona Expressway?",
-        "a": "To reduce traffic congestion",
+        "q": "What is the reason cited for the outlook on inflation remaining clouded with upside risks?",
+        "a": "Supply side disruptions from geopolitics and El Nino",
         "options": [
-            "To reduce traffic congestion",
-            "To increase toll collection",
-            "To beautify the city",
-            "To promote tourism",
-            "To create new commercial zones"
+            "Reduced consumer spending",
+            "Stable global markets",
+            "Supply side disruptions from geopolitics and El Nino",
+            "Decreased food production",
+            "Lower energy costs"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main purpose of the Ayushman Bharat scheme?",
-        "a": "To ensure top-quality and affordable healthcare",
+        "q": "What was the main reason for the sharp quickening of inflation in the restaurant and accommodation services sector?",
+        "a": "Higher LPG prices for establishments",
         "options": [
-            "To ensure top-quality and affordable healthcare",
-            "To provide free education",
-            "To boost rural employment",
-            "To promote housing for all",
-            "To improve sanitation facilities"
+            "Increased demand",
+            "Lower labor costs",
+            "Higher LPG prices for establishments",
+            "Reduced taxes",
+            "Cheaper raw materials"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary reason cited by the All India Gem and Jewellery Domestic Council (GJC) for a revitalised Gold Monetisation Scheme (GMS)?",
-        "a": "To mobilise idle household gold",
+        "q": "According to Ms. Thakur, why did inflation in the transport sector follow a contractionary direction?",
+        "a": "Largely on account of easing prices for the passenger transport services sector",
         "options": [
-            "To mobilise idle household gold",
-            "To increase gold imports",
-            "To promote gold jewellery sales",
-            "To reduce customs duties on gold",
-            "To encourage foreign investment in gold"
+            "Increased fuel prices",
+            "Higher demand for goods transport",
+            "Largely on account of easing prices for the passenger transport services sector",
+            "Stable public transport fares",
+            "Government subsidies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the core reason identified in the MHA affidavit for the delay in land acquisition for border fencing in West Bengal?",
+        "a": "The policy followed by the former Trinamool Congress government",
+        "options": [
+            "Lack of funds",
+            "Opposition from BSF",
+            "The policy followed by the former Trinamool Congress government",
+            "Geological challenges",
+            "Shortage of manpower"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR Act), 2013?",
+        "a": "Government can take possession of any land needed for a public purpose",
+        "options": [
+            "To restrict land sales",
+            "To promote private land ownership",
+            "Government can take possession of any land needed for a public purpose",
+            "To increase land prices",
+            "To reduce compensation for landowners"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why was the content of the Netflix live roast uncensored?",
+        "a": "Aired live as part of the platform\u2019s comedy festival and not subject to broadcast restrictions",
+        "options": [
+            "Producer's decision",
+            "Lack of audience complaints",
+            "Aired live as part of the platform\u2019s comedy festival and not subject to broadcast restrictions",
+            "Creative freedom of comedians",
+            "Technical limitations"
         ],
         "cat": "Why"
     }
