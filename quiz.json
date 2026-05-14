@@ -1,722 +1,734 @@
 [
     {
-        "q": "What was the retail inflation rate recorded in April 2026?",
-        "a": "3.5%",
+        "q": "How many people survived the plane crash at sea?",
+        "a": "11",
         "options": [
-            "3.4%",
-            "3.6%",
-            "3.5%",
-            "3.3%",
-            "3.7%"
+            "9",
+            "13",
+            "11",
+            "15",
+            "7"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the inflation rate for food and beverages in April 2026?",
-        "a": "4%",
+        "q": "For how many hours did the survivors endure being adrift on a raft?",
+        "a": "Five hours",
         "options": [
-            "3.7%",
-            "3.9%",
-            "4.1%",
-            "4.0%",
-            "4.2%"
+            "Seven hours",
+            "Three hours",
+            "Five hours",
+            "Nine hours",
+            "One hour"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the inflation rate in the restaurant and accommodation services sector in April 2026?",
-        "a": "4.2%",
+        "q": "The aircraft crashed nearly how many miles off Melbourne?",
+        "a": "80 miles",
         "options": [
-            "2.9%",
-            "4.1%",
-            "4.3%",
-            "4.2%",
-            "4.0%"
+            "70 miles",
+            "90 miles",
+            "80 miles",
+            "60 miles",
+            "100 miles"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the inflation rate in the transport sector in April 2026?",
-        "a": "-0.01%",
+        "q": "Which Air Force Major described the survival of all people aboard the crashed aircraft as 'pretty miraculous'?",
+        "a": "Elizabeth Piowaty",
         "options": [
-            "0%",
-            "-0.02%",
-            "0.01%",
-            "-0.01%",
-            "0.05%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By what percentage did prices of transport of goods increase in the month mentioned?",
-        "a": "7.6%",
-        "options": [
-            "7.5%",
-            "7.7%",
-            "7.6%",
-            "7.8%",
-            "7.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the inflation rate for clothing and footwear in April 2026?",
-        "a": "2.8%",
-        "options": [
-            "2.75%",
-            "2.9%",
-            "2.8%",
-            "3.0%",
-            "2.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the inflation rate for health services in April 2026?",
-        "a": "1.6%",
-        "options": [
-            "1.7%",
-            "1.5%",
-            "1.6%",
-            "1.8%",
-            "1.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the inflation rate for information and communication in April 2026?",
-        "a": "0.5%",
-        "options": [
-            "0.3%",
-            "0.4%",
-            "0.6%",
-            "0.5%",
-            "0.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the inflation rate for education in April 2026?",
-        "a": "3.1%",
-        "options": [
-            "3.3%",
-            "3.0%",
-            "3.2%",
-            "3.1%",
-            "3.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated under-recovery figure that OMCs are staring at during the quarter, as mentioned by the Union Petroleum Minister?",
-        "a": "Up to \u20b92 lakh crore",
-        "options": [
-            "\u20b91 lakh crore",
-            "\u20b91.5 lakh crore",
-            "\u20b92.5 lakh crore",
-            "Up to \u20b92 lakh crore",
-            "\u20b93 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated loss figure that OMCs are expected to scale to, as per the Union Petroleum Minister's statement?",
-        "a": "About \u20b91 lakh crore",
-        "options": [
-            "\u20b92 lakh crore",
-            "\u20b91.5 lakh crore",
-            "\u20b90.5 lakh crore",
-            "About \u20b91 lakh crore",
-            "\u20b90.75 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India has how many days of crude oil reserves, as stated by the Petroleum Minister?",
-        "a": "60 days",
-        "options": [
-            "45 days",
-            "50 days",
-            "60 days",
-            "75 days",
-            "90 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the current domestic production of LPG in India, as per the Union Petroleum Minister?",
-        "a": "54,000 metric tonnes per day",
-        "options": [
-            "35,000 metric tonnes per day",
-            "36,000 metric tonnes per day",
-            "50,000 metric tonnes per day",
-            "54,000 metric tonnes per day",
-            "60,000 metric tonnes per day"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many kilometers of border land did the West Bengal Government hand over to the BSF over the past three years?",
-        "a": "78 km",
-        "options": [
-            "121 km",
-            "75 km",
-            "80 km",
-            "78 km",
-            "90 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total length of the Indo-Bangladesh border in West Bengal?",
-        "a": "2216.7 km",
-        "options": [
-            "1647.696 km",
-            "569.004 km",
-            "2216.7 km",
-            "285.25 km",
-            "112.780 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the remaining border length in West Bengal yet to be covered by fence and other infrastructure work?",
-        "a": "569.004 km",
-        "options": [
-            "2216.7 km",
-            "1647.696 km",
-            "569.004 km",
-            "456.224 km",
-            "112.780 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many acres of land purchase and acquisition remained pending for border fencing in West Bengal, according to court data?",
-        "a": "1,156 acres",
-        "options": [
-            "269 acres",
-            "48.49 acres",
-            "1,200 acres",
-            "1,156 acres",
-            "1,100 acres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the retail inflation rate registered in March 2026?",
-        "a": "3.4%",
-        "options": [
-            "3.5%",
-            "3.3%",
-            "3.4%",
-            "3.6%",
-            "3.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India has how many days of LNG reserves, as stated by the Petroleum Minister?",
-        "a": "60 days",
-        "options": [
-            "45 days",
-            "50 days",
-            "60 days",
-            "75 days",
-            "90 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India has how many days of LPG reserves, as stated by the Petroleum Minister?",
-        "a": "45 days",
-        "options": [
-            "60 days",
-            "50 days",
-            "45 days",
-            "30 days",
-            "75 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the chief economist at Kotak Mahindra Bank mentioned in the news?",
-        "a": "Upasna Bhardwaj",
-        "options": [
-            "Madan Sabnavis",
-            "Rajni Thakur",
-            "Hardeep Singh Puri",
-            "Upasna Bhardwaj",
-            "Ajay Kumar Bhalla"
+            "Rory Whipple",
+            "Dan DePodwin",
+            "Elizabeth Piowaty",
+            "Keir Starmer",
+            "Alex Murdaugh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the chief economist at the Bank of Baroda mentioned in the news?",
-        "a": "Madan Sabnavis",
+        "q": "From which airport did the Beechcraft BE30 aircraft take off?",
+        "a": "Marsh Harbour Airport",
         "options": [
-            "Upasna Bhardwaj",
-            "Rajni Thakur",
-            "Madan Sabnavis",
-            "Hardeep Singh Puri",
-            "Pete Davidson"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the chief economist at L&T Finance mentioned in the news?",
-        "a": "Rajni Thakur",
-        "options": [
-            "Upasna Bhardwaj",
-            "Madan Sabnavis",
-            "Rajni Thakur",
-            "Ajay Kumar Bhalla",
-            "Kevin Hart"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Union Petroleum Minister mentioned in the news?",
-        "a": "Hardeep Singh Puri",
-        "options": [
-            "Narendra Modi",
-            "Ajay Kumar Bhalla",
-            "Hardeep Singh Puri",
-            "Pete Davidson",
-            "Charlie Kirk"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who made a controversial joke about Charlie Kirk during Netflix\u2019s live roast of Kevin Hart?",
-        "a": "Pete Davidson",
-        "options": [
-            "Tom Brady",
-            "Kevin Hart",
-            "Jeff Ross",
-            "Pete Davidson",
-            "Dwayne Johnson"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the slain conservative activist and founder of Turning Point USA, mentioned in the context of a controversial joke?",
-        "a": "Charlie Kirk",
-        "options": [
-            "Kanye West",
-            "Kevin Hart",
-            "Pete Davidson",
-            "Charlie Kirk",
-            "Tony Hinchcliffe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the subject of Netflix\u2019s live roast event at the Kia Forum?",
-        "a": "Kevin Hart",
-        "options": [
-            "Pete Davidson",
-            "Charlie Kirk",
-            "Tom Brady",
-            "Kevin Hart",
-            "Jeff Ross"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the former Union Home Secretary who filed an affidavit in the Supreme Court in 2023 regarding land acquisition in West Bengal?",
-        "a": "Ajay Kumar Bhalla",
-        "options": [
-            "Hardeep Singh Puri",
-            "Narendra Modi",
-            "Upasna Bhardwaj",
-            "Ajay Kumar Bhalla",
-            "Madan Sabnavis"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which rapper was referenced in Pete Davidson's set who had previously faced backlash over antisemitic comments?",
-        "a": "Kanye West",
-        "options": [
-            "Tony Hinchcliffe",
-            "Kevin Hart",
-            "Charlie Kirk",
-            "Kanye West",
-            "Tom Brady"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Prime Minister who called for diligent use of retail fuel, as referenced by the Petroleum Minister?",
-        "a": "Narendra Modi",
-        "options": [
-            "Hardeep Singh Puri",
-            "Ajay Kumar Bhalla",
-            "Narendra Modi",
-            "Pete Davidson",
-            "Madan Sabnavis"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the comedian targeted by Pete Davidson's joke about his podcast title, \"Please someone f---ing kill Tony\"?",
-        "a": "Tony Hinchcliffe",
-        "options": [
-            "Kevin Hart",
-            "Charlie Kirk",
-            "Kanye West",
-            "Tony Hinchcliffe",
-            "Tom Brady"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Whose father, a firefighter, died during the September 11 attacks, influencing his use of dark humor?",
-        "a": "Pete Davidson",
-        "options": [
-            "Kevin Hart",
-            "Charlie Kirk",
-            "Kanye West",
-            "Tony Hinchcliffe",
-            "Jeff Ross"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where did the war mentioned in the news start in March 2026?",
-        "a": "West Asia",
-        "options": [
-            "East Asia",
-            "South Asia",
-            "Europe",
-            "West Asia",
-            "North America"
+            "Melbourne Orlando International Airport",
+            "Grand Bahama International Airport",
+            "Vero Beach Regional Airport",
+            "Marsh Harbour Airport",
+            "Patrick Space Force Base"
         ],
         "cat": "Where"
     },
     {
-        "q": "What was the venue for The Roast of Kevin Hart?",
-        "a": "Kia Forum in California",
+        "q": "The 920th Rescue Squadron, which responded to the crash site, is from which base?",
+        "a": "Patrick Space Force Base",
         "options": [
-            "Madison Square Garden",
-            "Dolby Theatre",
-            "Kia Forum in California",
-            "Staples Center",
-            "Beacon Theatre"
+            "Melbourne Orlando International Airport",
+            "Vero Beach Regional Airport",
+            "Grand Bahama International Airport",
+            "Marsh Harbour Airport",
+            "Patrick Space Force Base"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was Charlie Kirk reportedly killed in 2025?",
-        "a": "Utah Valley University",
+        "q": "On which day did the aircraft crash into the sea near Melbourne?",
+        "a": "Tuesday",
         "options": [
-            "Turning Point USA Headquarters",
-            "California",
-            "Utah Valley University",
-            "New York",
-            "Florida"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the land acquisition delay for erecting fences along the Bangladesh border discussed in the news?",
-        "a": "West Bengal",
-        "options": [
-            "Assam",
-            "Tripura",
-            "Meghalaya",
-            "West Bengal",
-            "Mizoram"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which court did the Ministry of Home Affairs (MHA) file an affidavit in 2023 regarding land acquisition?",
-        "a": "Supreme Court",
-        "options": [
-            "Calcutta High Court",
-            "Delhi High Court",
-            "Supreme Court",
-            "National Green Tribunal",
-            "Bombay High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Indian state government's policy was identified as a key reason for delays in border fencing?",
-        "a": "West Bengal",
-        "options": [
-            "Assam",
-            "Tripura",
-            "Meghalaya",
-            "West Bengal",
-            "Mizoram"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which High Court were submissions made in January regarding the transfer of border land to the BSF by the West Bengal Government?",
-        "a": "Calcutta High Court",
-        "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Calcutta High Court",
-            "Madras High Court",
-            "Punjab & Haryana High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which of the following districts is NOT among the nine districts in West Bengal requiring border fencing, as mentioned in the text?",
-        "a": "Purulia",
-        "options": [
-            "Nadia",
-            "Malda",
-            "Purulia",
-            "Darjeeling",
-            "Cooch Behar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Annual Business Summit 2026, where Union Petroleum Minister Hardeep Singh Puri spoke, was organized by which industry confederation?",
-        "a": "Confederation of Indian Industries\u2019 (CII)",
-        "options": [
-            "FICCI",
-            "ASSOCHAM",
-            "NASSCOM",
-            "Confederation of Indian Industries\u2019 (CII)",
-            "PHDCCI"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Indo-Bangladesh border discussed in the context of land acquisition for fencing is primarily located in which Indian state?",
-        "a": "West Bengal",
-        "options": [
-            "Assam",
-            "Tripura",
-            "Meghalaya",
-            "West Bengal",
-            "Mizoram"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "When did retail inflation quicken to a 13-month high of 3.5%?",
-        "a": "April 2026",
-        "options": [
-            "March 2026",
-            "February 2026",
-            "April 2026",
-            "January 2026",
-            "May 2026"
+            "Monday",
+            "Wednesday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did the war in West Asia start, according to the news?",
-        "a": "March 2026",
+        "q": "What device helped rescuers trace the survivors aboard the life raft?",
+        "a": "Emergency locator transmitter (ELT) beacon",
         "options": [
-            "April 2026",
-            "February 2026",
-            "March 2026",
-            "January 2026",
-            "May 2026"
+            "Satellite phone",
+            "GPS tracker",
+            "Emergency locator transmitter (ELT) beacon",
+            "Signal flare",
+            "Radio communication"
         ],
-        "cat": "When"
+        "cat": "Why"
     },
     {
-        "q": "In which year did Charlie Kirk get killed during a shooting at Utah Valley University?",
-        "a": "2025",
+        "q": "In which year did Keir Starmer's Labour Party come to power, ending the Conservatives' 14-year rule?",
+        "a": "2024",
         "options": [
+            "2022",
             "2023",
             "2024",
             "2025",
-            "2026",
-            "2022"
+            "2021"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many seats did the Labour Party lose in the May 7 local elections?",
+        "a": "Over 1,400 seats",
+        "options": [
+            "Under 1,000 seats",
+            "Over 1,400 seats",
+            "Exactly 1,200 seats",
+            "Around 800 seats",
+            "Over 1,600 seats"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many years of Conservative rule did Keir Starmer's Labour Party end when they came to power?",
+        "a": "14-year",
+        "options": [
+            "10-year",
+            "12-year",
+            "14-year",
+            "16-year",
+            "8-year"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current UK Prime Minister confronting the biggest internal revolt of his leadership?",
+        "a": "Keir Starmer",
+        "options": [
+            "Wes Streeting",
+            "Angela Rayner",
+            "Andy Burnham",
+            "Ed Miliband",
+            "Keir Starmer"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Health Secretary was speculated to resign and trigger a leadership challenge against the British Prime Minister?",
+        "a": "Wes Streeting",
+        "options": [
+            "Angela Rayner",
+            "Andy Burnham",
+            "Ed Miliband",
+            "Wes Streeting",
+            "David Miliband"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who served as Starmer's Deputy Prime Minister until she was pressured to resign last fall?",
+        "a": "Angela Rayner",
+        "options": [
+            "Wes Streeting",
+            "Angela Rayner",
+            "Andy Burnham",
+            "Ed Miliband",
+            "Swati Gandhi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did Wes Streeting meet with the British Prime Minister amid leadership speculation?",
+        "a": "Downing Street",
+        "options": [
+            "Parliament Square",
+            "Buckingham Palace",
+            "Downing Street",
+            "Labour Party HQ",
+            "Westminster Abbey"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When Wes Streeting was first elected to Parliament?",
+        "a": "2015",
+        "options": [
+            "2010",
+            "2020",
+            "2015",
+            "2018",
+            "2012"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the MHA affidavit filed in the Supreme Court regarding land acquisition delays in West Bengal?",
-        "a": "2023",
+        "q": "What has Wes Streeting cited as a key achievement of the government during his tenure as Health Secretary?",
+        "a": "Falling National Health Service (NHS) waiting lists",
+        "options": [
+            "Increasing healthcare budget",
+            "Implementing new digital health platforms",
+            "Reducing prescription drug costs",
+            "Falling National Health Service (NHS) waiting lists",
+            "Expanding mental health services"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the length of Alex Murdaugh's federal prison sentence for financial crimes?",
+        "a": "40-year",
+        "options": [
+            "20-year",
+            "30-year",
+            "40-year",
+            "50-year",
+            "60-year"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Alex Murdaugh previously pleaded guilty to stealing roughly how much money from clients?",
+        "a": "$12 million",
+        "options": [
+            "$8 million",
+            "$10 million",
+            "$12 million",
+            "$14 million",
+            "$16 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is Alex Murdaugh's age as mentioned in the news text?",
+        "a": "57-year-old",
+        "options": [
+            "55-year-old",
+            "56-year-old",
+            "57-year-old",
+            "58-year-old",
+            "59-year-old"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Whose actions improperly influenced jurors and undermined Alex Murdaugh\u2019s right to a fair trial?",
+        "a": "Becky Hill",
+        "options": [
+            "Maggie Murdaugh",
+            "Paul Murdaugh",
+            "Becky Hill",
+            "Alex Murdaugh",
+            "Colleton County Judge"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was Alex Murdaugh's wife, a victim in the 2021 shooting deaths?",
+        "a": "Maggie Murdaugh",
+        "options": [
+            "Becky Hill",
+            "Maggie Murdaugh",
+            "Paul Murdaugh",
+            "Swati Gandhi",
+            "Angela Rayner"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Becky Hill, the former clerk of court whose actions influenced jurors, was from which county?",
+        "a": "Colleton County",
+        "options": [
+            "Hampton County",
+            "Orangeburg County",
+            "Richland County",
+            "Colleton County",
+            "Charleston County"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which day did the South Carolina Supreme Court overturn Alex Murdaugh's murder convictions?",
+        "a": "Wednesday (May 13)",
+        "options": [
+            "Monday (May 11)",
+            "Tuesday (May 12)",
+            "Wednesday (May 13)",
+            "Thursday (May 14)",
+            "Friday (May 15)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason the South Carolina Supreme Court overturned Alex Murdaugh's murder convictions?",
+        "a": "Actions by former Colleton County clerk of court Becky Hill improperly influenced jurors",
+        "options": [
+            "Lack of physical evidence linking Murdaugh to the murders",
+            "New alibi presented by Murdaugh's legal team",
+            "Confession by an alternative suspect",
+            "Actions by former Colleton County clerk of court Becky Hill improperly influenced jurors",
+            "The victims were shot at close range with powerful firearms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court directed implementation of provisions from which year's Central Motor Vehicles (CMV) Rules?",
+        "a": "1989",
+        "options": [
+            "1985",
+            "1990",
+            "1989",
+            "1995",
+            "2000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to data placed before Parliament in 2024, what percentage of transport vehicles had speed-limiting devices installed?",
+        "a": "Less than 5%",
+        "options": [
+            "Less than 1%",
+            "Less than 5%",
+            "Less than 10%",
+            "Less than 15%",
+            "Less than 20%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of transport vehicles were found to have vehicle location tracking devices installed, according to 2024 data?",
+        "a": "Fewer than 1%",
+        "options": [
+            "Fewer than 5%",
+            "Fewer than 1%",
+            "Fewer than 10%",
+            "Fewer than 2%",
+            "Fewer than 3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Justices comprised the Supreme Court Bench that issued directions on implementing vehicle safety provisions?",
+        "a": "J.B. Pardiwala and K.V. Viswanathan",
+        "options": [
+            "D.Y. Chandrachud and S.K. Kaul",
+            "J.B. Pardiwala and K.V. Viswanathan",
+            "R.F. Nariman and A.M. Khanwilkar",
+            "L. Nageswara Rao and Hemant Gupta",
+            "Indira Banerjee and Vineet Saran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who filed the Public Interest Litigation (PIL) drawing attention to India\u2019s alarming rate of road fatalities?",
+        "a": "S. Rajasekaran",
+        "options": [
+            "Gaurav Agarwal",
+            "S. Rajasekaran",
+            "J.B. Pardiwala",
+            "K.V. Viswanathan",
+            "Alex Murdaugh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "S. Rajasekaran, who filed the PIL on road safety, is based in which city?",
+        "a": "Coimbatore",
+        "options": [
+            "Chennai",
+            "Bengaluru",
+            "Hyderabad",
+            "Coimbatore",
+            "Kochi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which year was the Motor Vehicles (Vehicle Location Tracking Device and Emergency Button) Order issued by the Road Transport Ministry?",
+        "a": "2018",
+        "options": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the final deadline granted by the Supreme Court to the Union government for constituting the National Road Safety Board?",
+        "a": "Three months",
+        "options": [
+            "One month",
+            "Six months",
+            "Three months",
+            "Twelve months",
+            "Two months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of vehicle location tracking devices as described in the news?",
+        "a": "To continuously transmit a vehicle\u2019s location to a control centre",
+        "options": [
+            "To monitor driver fatigue",
+            "To play music during long journeys",
+            "To regulate engine performance",
+            "To continuously transmit a vehicle\u2019s location to a control centre",
+            "To automatically apply brakes in emergencies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Approximately how many students nationwide had their future upset by the decision to scrap NEET-UG 2026?",
+        "a": "Over 22 lakh",
+        "options": [
+            "Over 10 lakh",
+            "Over 15 lakh",
+            "Over 22 lakh",
+            "Over 25 lakh",
+            "Over 30 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Public Examination (Prevention of Unfair Means) Act was enacted in which year?",
+        "a": "2024",
         "options": [
             "2022",
-            "2024",
             "2023",
+            "2024",
+            "2025",
+            "2021"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which agency, with the approval of the Centre, decided to scrap NEET-UG 2026?",
+        "a": "National Testing Agency (NTA)",
+        "options": [
+            "Central Board of Secondary Education (CBSE)",
+            "University Grants Commission (UGC)",
+            "National Testing Agency (NTA)",
+            "Ministry of Health and Family Welfare",
+            "Central Bureau of Investigation (CBI)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which agency is currently probing the 2026 NEET-UG paper leak?",
+        "a": "Central Bureau of Investigation (CBI)",
+        "options": [
+            "National Testing Agency (NTA)",
+            "State Police",
+            "Central Bureau of Investigation (CBI)",
+            "Ministry of Education",
+            "Supreme Court"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The NEET-UG 2026 cancellation impacted students from which region?",
+        "a": "Nationwide",
+        "options": [
+            "Only Northern states",
+            "Only Southern states",
+            "Select metropolitan cities",
+            "Nationwide",
+            "Only rural areas"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which year did the Supreme Court state that cancelling the NEET (UG) exam would require a high-threshold proof of 'systemic breach'?",
+        "a": "2024",
+        "options": [
+            "2022",
+            "2023",
+            "2024",
             "2025",
             "2021"
         ],
         "cat": "When"
     },
     {
-        "q": "When was West Bengal's Direct Land Purchase Policy enacted?",
-        "a": "2016",
+        "q": "What reason did the NTA state for the cancellation of the 2026 NEET-UG exam?",
+        "a": "\"inputs\" and \"investigative findings\" necessitate the cancellation",
         "options": [
-            "2013",
-            "2015",
-            "2016",
-            "2017",
-            "2018"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the BJP government in West Bengal announce the transfer of land to the BSF within 45 days?",
-        "a": "May 11",
-        "options": [
-            "April 11",
-            "March 11",
-            "May 11",
-            "June 11",
-            "February 11"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How long was the deadline set by the BJP government in West Bengal for transferring land to the BSF?",
-        "a": "45-days",
-        "options": [
-            "30-days",
-            "60-days",
-            "45-days",
-            "90-days",
-            "75-days"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The data on the Consumer Price Index (CPI) for which month was discussed in the news?",
-        "a": "April 2026",
-        "options": [
-            "March 2026",
-            "May 2026",
-            "January 2026",
-            "April 2026",
-            "February 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR Act) passed?",
-        "a": "2013",
-        "options": [
-            "2016",
-            "2010",
-            "2013",
-            "2015",
-            "2012"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Pete Davidson's father died during which significant historical event?",
-        "a": "September 11 attacks",
-        "options": [
-            "Gulf War",
-            "Vietnam War",
-            "September 11 attacks",
-            "Pearl Harbor Attack",
-            "World War II"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The MHA informed Parliament about border fencing details in West Bengal in which year relative to the news report (assuming news context is 2026)?",
-        "a": "2025",
-        "options": [
-            "2024",
-            "2023",
-            "2025",
-            "2026",
-            "2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary reason cited for the quickening of retail inflation in April 2026?",
-        "a": "Higher food inflation and increased restaurant prices",
-        "options": [
-            "Lower fuel prices",
-            "Decreased food prices",
-            "Higher food inflation and increased restaurant prices",
-            "Stable transport costs",
-            "Reduced demand"
+            "Low student participation",
+            "Overlapping with other major exams",
+            "\"inputs\" and \"investigative findings\" necessitate the cancellation",
+            "Technical glitches during the exam",
+            "Lack of qualified invigilators"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the reason cited for the outlook on inflation remaining clouded with upside risks?",
-        "a": "Supply side disruptions from geopolitics and El Nino",
+        "q": "Which of the following was enumerated by the Supreme Court as a hard-hitting consequence of NEET exam cancellation?",
+        "a": "Disruption of the admission schedule for the commencement of medical courses",
         "options": [
-            "Reduced consumer spending",
-            "Stable global markets",
-            "Supply side disruptions from geopolitics and El Nino",
-            "Decreased food production",
-            "Lower energy costs"
+            "Reduction in exam fees",
+            "Increased student enrollment",
+            "Disruption of the admission schedule for the commencement of medical courses",
+            "Lowering of qualifying marks",
+            "Easier access to medical colleges"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main reason for the sharp quickening of inflation in the restaurant and accommodation services sector?",
-        "a": "Higher LPG prices for establishments",
+        "q": "What was the total number of votes mentioned in the Tamil Nadu Legislative Assembly proceedings?",
+        "a": "4,93,25,000 votes",
         "options": [
-            "Increased demand",
-            "Lower labor costs",
-            "Higher LPG prices for establishments",
-            "Reduced taxes",
-            "Cheaper raw materials"
+            "3,50,00,000 votes",
+            "4,00,00,000 votes",
+            "4,93,25,000 votes",
+            "5,20,00,000 votes",
+            "6,00,00,000 votes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many votes did the Tamilaga Vettri Kazhagam (TVK) poll, according to the opposition leader?",
+        "a": "1.72 crore",
+        "options": [
+            "1.20 crore",
+            "1.50 crore",
+            "1.72 crore",
+            "2.00 crore",
+            "2.25 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of votes had rejected the Tamilaga Vettri Kazhagam (TVK), according to the opposition leader?",
+        "a": "65%",
+        "options": [
+            "50%",
+            "55%",
+            "65%",
+            "70%",
+            "75%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the opposition leader who led his party MLAs in a boycott of the confidence motion in Tamil Nadu?",
+        "a": "Udhayanidhi Stalin",
+        "options": [
+            "C. Joseph Vijay",
+            "TTV Dhinakaran",
+            "Premallatha Vijayakant",
+            "Udhayanidhi Stalin",
+            "M.H. Jawahirullah"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the new Chief Minister of Tamil Nadu, whose government faced a confidence motion?",
+        "a": "C. Joseph Vijay",
+        "options": [
+            "Udhayanidhi Stalin",
+            "C. Joseph Vijay",
+            "TTV Dhinakaran",
+            "Rickey Pandit Vettrivel",
+            "K. Nithyanandam"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the DMDK general secretary who warned the government against setting a dangerous precedent of horse-trading?",
+        "a": "Premallatha Vijayakant",
+        "options": [
+            "M.H. Jawahirullah",
+            "M. Thamimun Ansari",
+            "K. Nithyanandam",
+            "Premallatha Vijayakant",
+            "TTV Dhinakaran"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The confidence motion was moved in which legislative body?",
+        "a": "Tamil Nadu Legislative Assembly",
+        "options": [
+            "Parliament of India",
+            "Tamil Nadu Legislative Council",
+            "Tamil Nadu Legislative Assembly",
+            "Chief Minister's Office",
+            "State Secretariat"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which day did the DMK MLAs stage a walkout from the Tamil Nadu Legislative Assembly?",
+        "a": "Wednesday (May 13, 2026)",
+        "options": [
+            "Monday (May 11, 2026)",
+            "Tuesday (May 12, 2026)",
+            "Wednesday (May 13, 2026)",
+            "Thursday (May 14, 2026)",
+            "Friday (May 15, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason given by Udhayanidhi Stalin for the DMK MLAs boycotting the trust vote?",
+        "a": "To reflect public sentiments as people were losing confidence in TVK",
+        "options": [
+            "To protest against the new Chief Minister's policies",
+            "To demand an immediate election",
+            "To reflect public sentiments as people were losing confidence in TVK",
+            "To support the imposition of President\u2019s rule",
+            "To highlight the Chief Minister's social media presence"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to Ms. Thakur, why did inflation in the transport sector follow a contractionary direction?",
-        "a": "Largely on account of easing prices for the passenger transport services sector",
+        "q": "How many persons were interrogated by the Maharashtra Anti-Terrorism Squad (ATS) as part of an operation against Pakistan-based gangsters?",
+        "a": "57",
         "options": [
-            "Increased fuel prices",
-            "Higher demand for goods transport",
-            "Largely on account of easing prices for the passenger transport services sector",
-            "Stable public transport fares",
-            "Government subsidies"
+            "45",
+            "50",
+            "57",
+            "60",
+            "65"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which of the following is one of the Pakistan-based gangster gangs targeted by the Maharashtra ATS operation?",
+        "a": "Shahzad Bhatti gang",
+        "options": [
+            "Dawood Ibrahim gang",
+            "Chhota Rajan gang",
+            "Shahzad Bhatti gang",
+            "Abu Salem gang",
+            "Iqbal Mirchi gang"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which gangster is reported to be operating out of Dubai while traveling between Pakistan, UAE, and other Middle East countries?",
+        "a": "Shahzad Bhatti",
+        "options": [
+            "Dogra",
+            "Chhota Shakeel",
+            "Dawood Ibrahim",
+            "Shahzad Bhatti",
+            "Anees Ibrahim"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which Indian state did the Anti-Terrorism Squad (ATS) conduct an operation against networks linked to Pakistan-based gangsters?",
+        "a": "Maharashtra",
+        "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Punjab",
+            "Maharashtra",
+            "Uttar Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which of the following cities was one of the locations where ATS teams conducted searches?",
+        "a": "Nanded",
+        "options": [
+            "Bengaluru",
+            "Jaipur",
+            "Kolkata",
+            "Bhopal",
+            "Nanded"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "At what time did the ATS operation against Pakistan-based gangster networks begin on Wednesday?",
+        "a": "Around 8 a.m.",
+        "options": [
+            "Around 6 a.m.",
+            "Around 7 a.m.",
+            "Around 8 a.m.",
+            "Around 9 a.m.",
+            "Around 10 a.m."
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary focus of the ATS operation against networks linked to Pakistan-based gangsters?",
+        "a": "Identifying sleeper cells, local operatives, and support systems for arms smuggling or conspiracies",
+        "options": [
+            "Arresting all known gang members",
+            "Recovering stolen valuables",
+            "Disrupting drug trafficking routes",
+            "Identifying sleeper cells, local operatives, and support systems for arms smuggling or conspiracies",
+            "Investigating past unsolved crimes"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the core reason identified in the MHA affidavit for the delay in land acquisition for border fencing in West Bengal?",
-        "a": "The policy followed by the former Trinamool Congress government",
+        "q": "According to officials, how were gangsters operating from across the border primarily recruiting youths from Maharashtra?",
+        "a": "Using social media platforms",
         "options": [
-            "Lack of funds",
-            "Opposition from BSF",
-            "The policy followed by the former Trinamool Congress government",
-            "Geological challenges",
-            "Shortage of manpower"
+            "Through traditional advertising",
+            "Via direct mail campaigns",
+            "Using social media platforms",
+            "Through public rallies",
+            "By organizing sports events"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR Act), 2013?",
-        "a": "Government can take possession of any land needed for a public purpose",
+        "q": "For what purpose are ATS investigators examining bank accounts and financial transactions?",
+        "a": "To determine if funds were routed from Pakistan or other foreign locations through hawala channels",
         "options": [
-            "To restrict land sales",
-            "To promote private land ownership",
-            "Government can take possession of any land needed for a public purpose",
-            "To increase land prices",
-            "To reduce compensation for landowners"
+            "To calculate the total net worth of the gangsters",
+            "To identify the personal expenses of the suspects",
+            "To determine if funds were routed from Pakistan or other foreign locations through hawala channels",
+            "To recover funds for victims",
+            "To assess the impact of the operation on the local economy"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was the content of the Netflix live roast uncensored?",
-        "a": "Aired live as part of the platform\u2019s comedy festival and not subject to broadcast restrictions",
+        "q": "At approximately what time did the aircraft hit the water?",
+        "a": "12:05 pm",
         "options": [
-            "Producer's decision",
-            "Lack of audience complaints",
-            "Aired live as part of the platform\u2019s comedy festival and not subject to broadcast restrictions",
-            "Creative freedom of comedians",
-            "Technical limitations"
+            "11:30 am",
+            "1:15 pm",
+            "12:05 pm",
+            "12:45 pm",
+            "1:30 pm"
         ],
-        "cat": "Why"
+        "cat": "When"
     }
 ]
