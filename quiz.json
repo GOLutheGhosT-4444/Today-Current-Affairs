@@ -1,721 +1,721 @@
 [
     {
-        "q": "How many Labour lawmakers are required to back a challenger to trigger a leadership contest against Keir Starmer?",
-        "a": "81",
+        "q": "Economists are warning that the price of petrol and diesel is expected to rise further by what amount per litre?",
+        "a": "\u20b910",
         "options": [
-            "81",
-            "200",
-            "50",
-            "10",
-            "150"
+            "\u20b99",
+            "\u20b911",
+            "\u20b910",
+            "\u20b912",
+            "\u20b915"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What fraction of US states is required to ratify a constitutional amendment?",
-        "a": "Three-fourths",
+        "q": "India\u2019s state-run oil marketing companies (OMCs) account for approximately what percentage of the domestic fuel retail market?",
+        "a": "90%",
         "options": [
-            "Three-fourths",
-            "One-half",
-            "One-third",
-            "Four-fifths",
-            "All states"
+            "80%",
+            "95%",
+            "90%",
+            "75%",
+            "85%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much were petrol and diesel prices increased per litre on Friday (May 15, 2026) in India?",
-        "a": "\u20b93",
+        "q": "The increase in prices of fuel, cooking gas, and milk is expected to push retail inflation up by what percentage in the coming months?",
+        "a": "0.42%",
         "options": [
+            "0.30%",
+            "0.50%",
+            "0.42%",
+            "0.25%",
+            "0.60%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to a report, OMCs are currently losing what amount on every single litre of fuel they sell?",
+        "a": "\u20b917-18",
+        "options": [
+            "\u20b915-16",
+            "\u20b919-20",
+            "\u20b917-18",
+            "\u20b910-12",
+            "\u20b921-22"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Union government cut excise duty on fuel imports by what amount per litre on 27 March 2026?",
+        "a": "\u20b910",
+        "options": [
+            "\u20b98",
+            "\u20b912",
+            "\u20b910",
+            "\u20b915",
+            "\u20b95"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "OMCs are on track to lose a staggering amount in what range this quarter?",
+        "a": "\u20b9570 to \u20b9580 billion",
+        "options": [
+            "\u20b9400-450 billion",
+            "\u20b9600-650 billion",
+            "\u20b9570-580 billion",
+            "\u20b9300-350 billion",
+            "\u20b9700-750 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Economist Santosh Mehrotra expects Consumer Price Inflation (CPI) to increase by what percentage for every $10 hike in global crude prices?",
+        "a": "0.3%",
+        "options": [
+            "0.1%",
+            "0.5%",
+            "0.3%",
+            "0.2%",
+            "0.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "A $10 increase in international crude prices raises India's current account deficit by about what percentage of GDP?",
+        "a": "0.3%",
+        "options": [
+            "0.1%",
+            "0.5%",
+            "0.3%",
+            "0.2%",
+            "0.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Radhika Rao stated that a 3-5% increase in petrol and diesel prices likely adds what percentage to the headline inflation?",
+        "a": "0.15-0.25%",
+        "options": [
+            "0.10-0.20%",
+            "0.30-0.40%",
+            "0.15-0.25%",
+            "0.05-0.10%",
+            "0.25-0.35%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Rajani Sinha expects CPI inflation to average within what range with higher pass-through to consumers?",
+        "a": "4.6-5.0%",
+        "options": [
+            "4.0-4.5%",
+            "5.0-5.5%",
+            "4.6-5.0%",
+            "3.5-4.0%",
+            "5.5-6.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Amul and Mother Dairy hiked milk prices by what amount per litre?",
+        "a": "\u20b92",
+        "options": [
+            "\u20b91",
             "\u20b93",
             "\u20b92",
-            "\u20b95",
-            "\u20b91",
-            "\u20b94"
+            "\u20b94",
+            "\u20b95"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the new price of petrol per litre in the national capital (Delhi) after the hike on May 15, 2026?",
-        "a": "\u20b997.77",
+        "q": "The FBI is offering a reward of what amount for information leading to Monica Witt's arrest?",
+        "a": "$200,000",
         "options": [
-            "\u20b997.77",
-            "\u20b994.77",
-            "\u20b9103.67",
-            "\u20b990.67",
-            "\u20b9108.74"
+            "$100,000",
+            "$500,000",
+            "$200,000",
+            "$150,000",
+            "$300,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the new price of diesel per litre in the national capital (Delhi) after the hike on May 15, 2026?",
-        "a": "\u20b990.67",
+        "q": "What was the bond amount set for streamer Dalton Eatherly, also known as 'Chud the Builder'?",
+        "a": "$1.25 million",
         "options": [
-            "\u20b990.67",
-            "\u20b987.67",
-            "\u20b997.77",
-            "\u20b993.14",
-            "\u20b995.13"
+            "$1 million",
+            "$1.5 million",
+            "$1.25 million",
+            "$2 million",
+            "$0.75 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was India's April retail inflation rate, which marked a 13-month high?",
-        "a": "3.48%",
+        "q": "How many students received placement offer letters at the 15th Annual Placement Offer Distribution Ceremony of Kingston Engineering College?",
+        "a": "441",
         "options": [
-            "3.48%",
-            "3.4%",
-            "8.3%",
-            "3.88%",
-            "24.71%"
+            "350",
+            "500",
+            "441",
+            "400",
+            "420"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the wholesale inflation rate in April 2026 in India, marking a 42-month high?",
-        "a": "8.3%",
+        "q": "How many Iranian nationals were also indicted along with Monica Witt on charges including conspiracy and attempted computer intrusion?",
+        "a": "Four",
         "options": [
-            "8.3%",
-            "3.48%",
-            "3.88%",
-            "2%",
-            "67.2%"
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage rise in fuel and power prices in India in April 2026?",
-        "a": "24.71%",
+        "q": "Monica Witt served in assignments that included postings in the Middle East for how many years between 2003 and 2008?",
+        "a": "6 years",
         "options": [
-            "24.71%",
-            "67.2%",
-            "8.3%",
-            "3.48%",
-            "4.2%"
+            "4 years",
+            "5 years",
+            "6 years",
+            "7 years",
+            "8 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did petroleum and natural gas prices surge in India in April 2026?",
-        "a": "67.2%",
+        "q": "A disagreement over security during President Trump's visit led to nearly what approximate delay for the media at Beijing's Temple of Heaven?",
+        "a": "90 minutes",
         "options": [
-            "67.2%",
-            "24.71%",
-            "8.3%",
-            "3.48%",
-            "2%"
+            "60 minutes",
+            "120 minutes",
+            "90 minutes",
+            "45 minutes",
+            "75 minutes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What were the reported monthly 'under-recoveries' absorbed by public sector oil marketing companies in India since the U.S.-Israeli war with Iran began?",
-        "a": "\u20b930,000 crore",
+        "q": "Hikes of \u20b910 per litre are expected to cover roughly what percentage of OMCs' under-recoveries?",
+        "a": "50%",
         "options": [
-            "\u20b930,000 crore",
-            "\u20b93,000 crore",
-            "\u20b9300 crore",
-            "\u20b93 lakh crore",
-            "\u20b930 crore"
+            "25%",
+            "75%",
+            "50%",
+            "40%",
+            "60%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the Consumer Food Price Index (CFPI) rise in India in April 2026?",
-        "a": "4.2%",
+        "q": "Which financial services company predicted that the price of petrol and diesel might increase to \u20b910 per litre for OMCs to absorb the crude shock?",
+        "a": "Emkay Global",
         "options": [
-            "4.2%",
-            "3.87%",
-            "3.48%",
-            "8.3%",
-            "67.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By roughly how much has the price of the 19.2 kg commercial LPG cylinder risen in India over revisions since the conflict began?",
-        "a": "\u20b9850-\u20b91,000",
-        "options": [
-            "\u20b9850-\u20b91,000",
-            "\u20b9200",
-            "\u20b9500-\u20b9600",
-            "\u20b9100-\u20b9150",
-            "\u20b91,500-\u20b92,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage has the Indian rupee depreciated against the U.S. dollar in the past two-and-a-half months since the conflict began?",
-        "a": "8.5%",
-        "options": [
-            "8.5%",
-            "2%-3%",
-            "3.48%",
-            "8.3%",
-            "67.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the Reserve Bank of India's (RBI) inflation tolerance band?",
-        "a": "2%-6%",
-        "options": [
-            "2%-6%",
-            "3%-7%",
-            "4%-8%",
-            "1%-5%",
-            "5%-9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In April 2026, inflation in India's crude oil and natural gas sectors stood at a 46-month high. What was this percentage?",
-        "a": "67.2%",
-        "options": [
-            "67.2%",
-            "39.5%",
-            "24.7%",
-            "8.3%",
-            "15.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The fuel and power category in India saw inflation rise to what percentage in April 2026, the highest since October 2022?",
-        "a": "24.7%",
-        "options": [
-            "24.7%",
-            "39.5%",
-            "67.2%",
-            "8.3%",
-            "2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the new price of petrol per litre in Mumbai after the hike on May 15, 2026?",
-        "a": "\u20b9106.68",
-        "options": [
-            "\u20b9106.68",
-            "\u20b993.14",
-            "\u20b997.77",
-            "\u20b9108.74",
-            "\u20b9103.67"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the wholesale food inflation in India in April 2026?",
-        "a": "2%",
-        "options": [
-            "2%",
-            "1.9%",
-            "8.3%",
-            "3.48%",
-            "67.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who resigned as Health Secretary on Thursday in what was seen as a precursor to challenging Keir Starmer's leadership?",
-        "a": "Wes Streeting",
-        "options": [
-            "Wes Streeting",
-            "Angela Rayner",
-            "Andy Burnham",
-            "Keir Starmer",
-            "Boris Johnson"
+            "DBS Bank",
+            "India Ratings and Research",
+            "CareEdge Ratings",
+            "Emkay Global",
+            "Moody's"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current British Prime Minister mentioned in the news text?",
-        "a": "Keir Starmer",
+        "q": "Which economist expects Consumer Price Inflation (CPI) to increase by 0.3% for every $10 hike in global crude prices?",
+        "a": "Santosh Mehrotra",
         "options": [
-            "Keir Starmer",
-            "Wes Streeting",
-            "Angela Rayner",
-            "Rishi Sunak",
-            "Boris Johnson"
+            "Radhika Rao",
+            "Megha Arora",
+            "Rajani Sinha",
+            "Santosh Mehrotra",
+            "Urjit Patel"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the former Deputy Prime Minister mentioned as a likely challenger to Keir Starmer?",
-        "a": "Angela Rayner",
+        "q": "Who is the senior economist and executive director at DBS Bank quoted in the news regarding CPI impact?",
+        "a": "Radhika Rao",
         "options": [
-            "Angela Rayner",
-            "Wes Streeting",
-            "Andy Burnham",
-            "Keir Starmer",
-            "Liz Truss"
+            "Megha Arora",
+            "Rajani Sinha",
+            "Santosh Mehrotra",
+            "Radhika Rao",
+            "Arundhati Bhattacharya"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who introduced the resolution to withhold senators\u2019 salaries during government shutdowns in the US Senate?",
-        "a": "Senator John Kennedy",
+        "q": "Who is the director at India Ratings and Research who commented on the combined effect of petrol, diesel, and milk price on CPI inflation?",
+        "a": "Megha Arora",
         "options": [
-            "Senator John Kennedy",
-            "Senator Lindsey Graham",
-            "Nancy Pelosi",
-            "Chuck Schumer",
-            "Mitch McConnell"
+            "Radhika Rao",
+            "Rajani Sinha",
+            "Santosh Mehrotra",
+            "Megha Arora",
+            "Shaktikanta Das"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who proposed a constitutional amendment to permanently forfeit US lawmakers' pay during shutdown periods?",
-        "a": "Senator Lindsey Graham",
+        "q": "Who is the chief economist at CareEdge Ratings who stated the expected average CPI inflation?",
+        "a": "Rajani Sinha",
         "options": [
-            "Senator Lindsey Graham",
-            "Senator John Kennedy",
+            "Radhika Rao",
+            "Megha Arora",
+            "Santosh Mehrotra",
+            "Rajani Sinha",
+            "Gita Gopinath"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The FBI is searching for which former U.S. Air Force officer, wanted for allegedly spying for Iran?",
+        "a": "Monica Witt",
+        "options": [
+            "Sarah Connor",
+            "Jane Doe",
+            "Monica Witt",
+            "Anna Kournikova",
+            "Natasha Romanoff"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Special Agent in Charge of the Counterintelligence and Cyber Division at the FBI\u2019s Washington Field Office, appealing for information on Monica Witt?",
+        "a": "Daniel Wierzbicki",
+        "options": [
+            "John Smith",
+            "Daniel Wierzbicki",
+            "Robert Mueller",
+            "James Comey",
+            "Christopher Wray"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the real name of the popular streamer known as 'Chud the Builder'?",
+        "a": "Dalton Eatherly",
+        "options": [
+            "David Johnson",
+            "Mark Thompson",
+            "Dalton Eatherly",
+            "Kyle Spencer",
+            "Ethan Hunt"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former US President's 2016 trip to Hangzhou for the G20 Summit was compared to Trump's China visit due to similar tensions over press access and security?",
+        "a": "Barack Obama",
+        "options": [
+            "George W. Bush",
+            "Donald Trump",
+            "Barack Obama",
             "Joe Biden",
-            "Kamala Harris",
-            "Kevin McCarthy"
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Congress general secretary that attacked the Modi government over the petrol and diesel price hike?",
-        "a": "Jairam Ramesh",
+        "q": "Which Goa Congress leader's plea challenging the Ponda Assembly bypoll was closed by the Supreme Court following his death?",
+        "a": "Ketan Bhatikar",
         "options": [
-            "Jairam Ramesh",
-            "Hardeep Singh Puri",
-            "Narendra Modi",
-            "Mallikarjun Kharge",
-            "P. Chidambaram"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Union Petroleum Minister mentioned in the text as indicating a possible raise in retail petrol and diesel prices?",
-        "a": "Hardeep Singh Puri",
-        "options": [
-            "Hardeep Singh Puri",
-            "Narendra Modi",
-            "Jairam Ramesh",
-            "Arun Jaitley",
-            "S. Jaishankar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Prime Minister appealed to people to refrain from \u201cextravagant spending on weddings and travel abroad\u201d?",
-        "a": "Narendra Modi",
-        "options": [
-            "Narendra Modi",
-            "Keir Starmer",
-            "Hardeep Singh Puri",
-            "Joe Biden",
-            "Vladimir Putin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who replaced the Chief Justice of India on the selection panel for Election Commissioners according to the 2023 Act?",
-        "a": "A Cabinet Minister nominated by the Prime Minister",
-        "options": [
-            "A Cabinet Minister nominated by the Prime Minister",
-            "The Leader of the Opposition",
-            "The Attorney-General",
-            "The Chief Election Commissioner",
-            "The Speaker of Lok Sabha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Attorney-General appearing for the Union government in the Supreme Court's hearing on EC appointments?",
-        "a": "R. Venkataramani",
-        "options": [
-            "R. Venkataramani",
-            "Tushar Mehta",
-            "K.K. Venugopal",
-            "Mukul Rohatgi",
-            "Soli Sorabjee"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Justice was heading the Division Bench hearing the petitions challenging the Election Commissioners (Appointment) Act, 2023?",
-        "a": "Justice Dipankar Datta",
-        "options": [
-            "Justice Dipankar Datta",
-            "Justice D.Y. Chandrachud",
-            "Justice S.K. Kaul",
-            "Justice B.R. Gavai",
-            "Justice Surya Kant"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the amicus curiae who apprised the Supreme Court about illegal sand miners excavating beneath the foundation pillars of a bridge over the Chambal river?",
-        "a": "Senior advocate Nikhil Goel",
-        "options": [
-            "Senior advocate Nikhil Goel",
-            "R. Venkataramani",
-            "Harish Salve",
+            "Ravi Naik",
+            "Abhishek Jebraj",
+            "Ketan Bhatikar",
             "P. Chidambaram",
-            "Kapil Sibal"
+            "Rahul Gandhi"
         ],
         "cat": "Who"
     },
     {
-        "q": "From which war did Keir Starmer reportedly keep Britain out, according to Wes Streeting's resignation letter?",
-        "a": "War in Iran",
+        "q": "The Ponda Assembly bypoll was necessitated by the death of which sitting BJP MLA?",
+        "a": "Ravi Naik",
         "options": [
-            "War in Iran",
-            "War in Ukraine",
-            "Syria Conflict",
-            "Iraq War",
-            "Falklands War"
+            "Ketan Bhatikar",
+            "Ravi Naik",
+            "Digambar Kamat",
+            "Pramod Sawant",
+            "Manohar Parrikar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Vellore MP and chairman of Kingston Group of Institutions, mentioned in connection with the placement ceremony?",
+        "a": "D.M. Kathir Anand",
+        "options": [
+            "U.V. Arivazhagu",
+            "S. Thingal Selvan",
+            "K. Karthik",
+            "D.M. Kathir Anand",
+            "M.K. Stalin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The FBI's Counterintelligence and Cyber Division, involved in the search for Monica Witt, is located at which field office?",
+        "a": "Washington Field Office",
+        "options": [
+            "New York Field Office",
+            "Los Angeles Field Office",
+            "Washington Field Office",
+            "Chicago Field Office",
+            "Houston Field Office"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which chamber of the US Congress unanimously approved the resolution to withhold senators\u2019 salaries during government shutdowns?",
-        "a": "The US Senate",
+        "q": "In which US state did the court hearing for streamer Dalton Eatherly (Chud the Builder) take place?",
+        "a": "Tennessee",
         "options": [
-            "The US Senate",
-            "The US House of Representatives",
-            "The Parliament",
-            "The Congress",
-            "The White House"
+            "California",
+            "New York",
+            "Florida",
+            "Texas",
+            "Tennessee"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which US department only reopened last month after a 76-day partial shutdown?",
-        "a": "United States Department of Homeland Security",
+        "q": "President Donald Trump concluded his high-profile two-day visit to which city in China?",
+        "a": "Beijing",
         "options": [
-            "United States Department of Homeland Security",
-            "Department of Education",
-            "Department of Energy",
-            "Department of Veterans Affairs",
-            "Department of the Treasury"
+            "Shanghai",
+            "Hong Kong",
+            "Guangzhou",
+            "Beijing",
+            "Shenzhen"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which region of India were Assembly elections recently concluded, after which fuel prices were hiked?",
-        "a": "Assam, Kerala, Tamil Nadu and West Bengal",
+        "q": "During Trump's visit, a disagreement over security occurred at which Beijing landmark?",
+        "a": "Temple of Heaven",
         "options": [
-            "Assam, Kerala, Tamil Nadu and West Bengal",
-            "Bihar, Jharkhand, Odisha",
-            "Maharashtra, Karnataka, Goa",
-            "Uttar Pradesh, Uttarakhand, Himachal Pradesh",
-            "Madhya Pradesh, Chhattisgarh, Telangana"
+            "Forbidden City",
+            "Great Wall",
+            "Summer Palace",
+            "Temple of Heaven",
+            "Tiananmen Square"
         ],
         "cat": "Where"
     },
     {
-        "q": "The impact of the West Asia crisis was mentioned as a driver for wholesale inflation in which country?",
-        "a": "India",
+        "q": "Trump held meetings with Chinese President Xi Jinping and senior Chinese leaders at which heavily guarded leadership compound in Beijing?",
+        "a": "Zhongnanhai",
         "options": [
-            "India",
-            "China",
-            "Russia",
-            "Brazil",
-            "Germany"
+            "Great Hall of the People",
+            "Diaoyutai State Guesthouse",
+            "Zhongnanhai",
+            "Beijing National Stadium",
+            "Beijing Friendship Hotel"
         ],
         "cat": "Where"
     },
     {
-        "q": "The National Chambal Sanctuary is India\u2019s first and only tri-State riverine protected area spread across Rajasthan, Madhya Pradesh and which other state?",
-        "a": "Uttar Pradesh",
+        "q": "The 2016 G20 Summit, where US and Chinese officials had disputes over press access and security, was held in which Chinese city?",
+        "a": "Hangzhou",
         "options": [
-            "Uttar Pradesh",
-            "Gujarat",
-            "Himachal Pradesh",
-            "Odisha",
-            "Maharashtra"
+            "Beijing",
+            "Shanghai",
+            "Hangzhou",
+            "Chengdu",
+            "Nanjing"
         ],
         "cat": "Where"
     },
     {
-        "q": "Over which river is the bridge located, whose foundation pillars were being excavated by illegal sand miners, leading to NHAI being impleaded?",
-        "a": "Chambal river",
+        "q": "The Ponda Assembly bypoll, which was subsequently cancelled by the Bombay High Court, was for a seat in which Indian state?",
+        "a": "Goa",
         "options": [
-            "Chambal river",
-            "Ganga river",
-            "Brahmaputra river",
-            "Godavari river",
-            "Krishna river"
+            "Maharashtra",
+            "Kerala",
+            "Karnataka",
+            "Goa",
+            "Gujarat"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which two states' senior bureaucrats were summoned by the Supreme Court over rampant illegal sand mining in the National Chambal Sanctuary?",
-        "a": "Rajasthan and Madhya Pradesh",
+        "q": "The Election Commission of India (ECI) has ordered a probe into allegations of foreign nationals casting votes in the recent Assembly election in which Indian state?",
+        "a": "Tamil Nadu",
         "options": [
-            "Rajasthan and Madhya Pradesh",
-            "Uttar Pradesh and Bihar",
-            "Gujarat and Maharashtra",
-            "Tamil Nadu and Andhra Pradesh",
-            "West Bengal and Odisha"
+            "Kerala",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Telangana"
         ],
         "cat": "Where"
     },
     {
-        "q": "When did Keir Starmer bring Labour back to power after 14 years in opposition?",
-        "a": "July 2024",
+        "q": "Kingston Engineering College, which hosted the 15th Annual Placement Offer Distribution Ceremony, is located near Katpadi in which city?",
+        "a": "Vellore",
         "options": [
-            "July 2024",
-            "July 2023",
-            "October 2025",
-            "January 2023",
-            "December 2022"
+            "Chennai",
+            "Coimbatore",
+            "Madurai",
+            "Vellore",
+            "Trichy"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Monica Witt served in assignments between 2003 and 2008 that included postings in which region?",
+        "a": "Middle East",
+        "options": [
+            "Europe",
+            "Asia",
+            "South America",
+            "Africa",
+            "Middle East"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date was the report estimating OMCs' losses and predicting price hikes released?",
+        "a": "15 May",
+        "options": [
+            "10 May",
+            "20 May",
+            "15 May",
+            "25 May",
+            "1 May"
         ],
         "cat": "When"
     },
     {
-        "q": "The next UK election is due by which year, as mentioned in the text?",
-        "a": "2029",
+        "q": "When did the Union government cut excise duty on fuel imports by \u20b910 per litre?",
+        "a": "27 March 2026",
         "options": [
-            "2029",
-            "2024",
-            "2026",
-            "2028",
-            "2030"
+            "20 March 2026",
+            "15 April 2026",
+            "27 March 2026",
+            "10 February 2026",
+            "30 March 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the US Senate unanimously approve the resolution to withhold senators\u2019 salaries during government shutdowns?",
-        "a": "Thursday (May 14)",
+        "q": "In what year was former U.S. Air Force officer Monica Witt charged by the FBI?",
+        "a": "2019",
         "options": [
-            "Thursday (May 14)",
-            "Wednesday (May 13)",
-            "Friday (May 15)",
-            "Tuesday (May 12)",
-            "Monday (May 11)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The new US policy to withhold senators' salaries is scheduled to take effect the day after which general election date?",
-        "a": "November 3",
-        "options": [
-            "November 3",
-            "May 14",
-            "December 15",
-            "August 1",
-            "January 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The United States Department of Homeland Security reopened last month after a partial shutdown that lasted how many days?",
-        "a": "76-day",
-        "options": [
-            "76-day",
-            "43-day",
-            "50-day",
-            "20-day",
-            "100-day"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Fuel prices were last hiked in India in which month and year, before the May 15, 2026 increase?",
-        "a": "April 2022",
-        "options": [
-            "April 2022",
-            "March 2024",
-            "May 2026",
-            "January 2022",
-            "December 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The petrol and diesel price hike on May 15, 2026, was the first rate increase in India in more than how many years?",
-        "a": "Four years",
-        "options": [
-            "Four years",
-            "Two years",
-            "Three years",
-            "Five years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "India\u2019s April retail inflation was at a high for how many months?",
-        "a": "13 months",
-        "options": [
-            "13 months",
-            "42 months",
-            "2 months",
-            "6 months",
-            "1 year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Wholesale inflation in India in April 2026 reached a high of how many months?",
-        "a": "42 months",
-        "options": [
-            "42 months",
-            "13 months",
-            "24 months",
-            "36 months",
-            "18 months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Since when have public sector oil marketing companies in India reportedly been absorbing 'under-recoveries' of nearly \u20b930,000 crore a month?",
-        "a": "Since the U.S.-Israeli war with Iran began",
-        "options": [
-            "Since the U.S.-Israeli war with Iran began",
-            "Since April 2022",
-            "Since March 2024",
-            "Since last year",
-            "Since this financial year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Indian rupee depreciated by nearly 8.5% against the U.S. dollar in how many months since the conflict began?",
-        "a": "Two-and-a-half months",
-        "options": [
-            "Two-and-a-half months",
-            "Six months",
-            "One month",
-            "Three months",
-            "One year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service, and Term of Office) Act was passed in which year?",
-        "a": "2023",
-        "options": [
-            "2023",
-            "2024",
-            "2022",
-            "2021",
+            "2010",
+            "2013",
+            "2019",
+            "2015",
             "2020"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date were senior bureaucrats from Rajasthan and Madhya Pradesh directed to personally appear before the Supreme Court regarding illegal sand mining?",
-        "a": "May 20",
+        "q": "In what year is Monica Witt believed to have defected to Iran?",
+        "a": "2013",
         "options": [
-            "May 20",
-            "May 14",
-            "June 1",
-            "April 15",
-            "July 10"
+            "2008",
+            "2010",
+            "2013",
+            "2015",
+            "2018"
         ],
         "cat": "When"
     },
     {
-        "q": "What reason did Wes Streeting give for resigning, stating that Keir Starmer should not serve out the rest of his term?",
-        "a": "He had lost confidence in Starmer.",
+        "q": "The alleged conspiracy period involving Monica Witt, while in Iran and other locations, spanned from approximately January 2012 to which month and year?",
+        "a": "May 2015",
         "options": [
-            "He had lost confidence in Starmer.",
-            "Starmer kept Britain out of the war in Iran.",
-            "He was offered a better position.",
-            "Starmer praised his stewardship of the NHS.",
-            "He decided to retire from politics."
+            "December 2014",
+            "May 2015",
+            "June 2016",
+            "January 2013",
+            "November 2017"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Bombay High Court issue its order quashing the Ponda Assembly bypoll?",
+        "a": "April 8",
+        "options": [
+            "March 1",
+            "April 8",
+            "May 15",
+            "June 30",
+            "February 28"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Ponda Assembly bypoll originally scheduled to be held?",
+        "a": "April 9",
+        "options": [
+            "April 1",
+            "April 9",
+            "April 15",
+            "May 1",
+            "May 9"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The term of the Goa Assembly, as per the High Court's ruling, was set to expire on what date?",
+        "a": "March 14, 2027",
+        "options": [
+            "December 31, 2026",
+            "March 14, 2027",
+            "January 1, 2027",
+            "April 1, 2027",
+            "February 28, 2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The increase in milk prices by Amul and Mother Dairy was the second such hike in how many months?",
+        "a": "13 months",
+        "options": [
+            "6 months",
+            "9 months",
+            "13 months",
+            "18 months",
+            "24 months"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "President Trump's China trip marked his first visit to the country in nearly how many years?",
+        "a": "A decade",
+        "options": [
+            "5 years",
+            "7 years",
+            "A decade",
+            "12 years",
+            "15 years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which day and date was the Election Commission of India's report sought from returning officers concerning alleged foreign voting?",
+        "a": "Friday (May 15, 2026)",
+        "options": [
+            "Monday (May 11, 2026)",
+            "Tuesday (May 12, 2026)",
+            "Wednesday (May 13, 2026)",
+            "Thursday (May 14, 2026)",
+            "Friday (May 15, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason cited by economists for the expected surge in petrol and diesel prices?",
+        "a": "Crude prices surge amid US-Iran tensions",
+        "options": [
+            "Increase in domestic demand",
+            "Decrease in oil production",
+            "Crude prices surge amid US-Iran tensions",
+            "Government tax hikes",
+            "Operational inefficiencies of OMCs"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did many Labour party members deepen doubts about Starmer\u2019s judgment, vision, and leadership abilities?",
-        "a": "The party's disastrous performance in the local and regional elections last week.",
+        "q": "What is the stated purpose for which the FBI is offering a $200,000 reward for Monica Witt?",
+        "a": "Information leading to her arrest",
         "options": [
-            "The party's disastrous performance in the local and regional elections last week.",
-            "He decided to step aside to allow a 'broad' field of candidates.",
-            "He kept Britain out of the war in Iran.",
-            "He made no reference to the former Health Secretary's criticisms.",
-            "His party had been in opposition for 14 years."
+            "To gather new intelligence",
+            "To identify her accomplices",
+            "Information leading to her arrest",
+            "To understand her motivations",
+            "To recover stolen documents"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the US Senate resolution to withhold senators\u2019 salaries during government shutdowns?",
-        "a": "To impose financial consequences on lawmakers when Congress fails to pass funding bills.",
+        "q": "According to streamer Chud the Builder, what was his reason for firing shots outside the courthouse?",
+        "a": "Self-defense",
         "options": [
-            "To impose financial consequences on lawmakers when Congress fails to pass funding bills.",
-            "To fund federal agencies during shutdowns.",
-            "To reduce the national debt.",
-            "To allow senators to volunteer their time.",
-            "To increase bipartisan cooperation on other issues."
+            "Accidental discharge",
+            "Provocation",
+            "Self-defense",
+            "Retaliation",
+            "To intimidate"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why does Senator John Kennedy's resolution avoid constitutional complications compared to a constitutional amendment?",
-        "a": "It delays lawmakers' pay instead of eliminating it entirely.",
+        "q": "What was the Supreme Court's reason for closing the plea filed by Goa Congress leader Ketan Bhatikar?",
+        "a": "Petitioner's death",
         "options": [
-            "It delays lawmakers' pay instead of eliminating it entirely.",
-            "It requires a simple majority vote.",
-            "It only applies to senators.",
-            "It does not need Presidential assent.",
-            "It is only a temporary measure."
+            "Lack of jurisdiction",
+            "Petitioner's death",
+            "Mootness of the issue",
+            "Withdrawal of petition",
+            "Settlement between parties"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was a major reason cited for the petrol and diesel price hike on May 15, 2026, related to fuel retailers in India?",
-        "a": "Mounting losses of fuel retailers due to surging global crude prices.",
+        "q": "What was the main reason cited by the Bombay High Court for quashing the Ponda Assembly bypoll?",
+        "a": "Violation of the Representation of the People Act",
         "options": [
-            "Mounting losses of fuel retailers due to surging global crude prices.",
-            "To reduce inflation.",
-            "To increase government revenue.",
-            "To align with international prices that were soft.",
-            "To reduce consumption."
+            "Electoral malpractice",
+            "Lack of candidates",
+            "Violation of the Representation of the People Act",
+            "Budgetary constraints",
+            "Public safety concerns"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Centre double import duties on gold and silver, according to the news text?",
-        "a": "In an attempt to discourage safe-haven investments and ease pressure on the rupee.",
+        "q": "What was the primary purpose of the Special Intensive Revision (SIR) exercise conducted in Tamil Nadu regarding electoral rolls?",
+        "a": "Deletion of non-citizen voters",
         "options": [
-            "In an attempt to discourage safe-haven investments and ease pressure on the rupee.",
-            "To make gold and silver more affordable for the common person.",
-            "To decrease demand for precious metals globally.",
-            "To boost domestic production of jewellery.",
-            "To fund government welfare schemes."
+            "Adding new voters",
+            "Updating voter addresses",
+            "Deletion of non-citizen voters",
+            "Registering postal votes",
+            "Conducting mock elections"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to the Supreme Court, what essential element do free and fair elections depend on?",
-        "a": "A truly independent Election Commission of India.",
+        "q": "Which section of the Bharatiya Nyaya Sanhita (BNS) was invoked against those arrested for fraudulent voting, specifically for personation at elections?",
+        "a": "Section 172",
         "options": [
-            "A truly independent Election Commission of India.",
-            "A selection panel with the Prime Minister.",
-            "A Cabinet Minister on the panel.",
-            "A unanimous vote for appointments.",
-            "Parliament enacting laws under Article 324(2)."
+            "Section 101",
+            "Section 225",
+            "Section 172",
+            "Section 302",
+            "Section 420"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the petitioners contend that the Chief Election Commissioner and other Election Commissioners (Appointment) Act, 2023, 'defeated' the Anoop Baranwal judgment?",
-        "a": "The 2023 Act replaced the Chief Justice of India with a Cabinet Minister nominated by the Prime Minister on the selection panel.",
+        "q": "What was the stated objective of President Trump's two-day state visit to Beijing?",
+        "a": "Strengthening ties between Washington and Beijing",
         "options": [
-            "The 2023 Act replaced the Chief Justice of India with a Cabinet Minister nominated by the Prime Minister on the selection panel.",
-            "The Act increased the number of Election Commissioners.",
-            "The Act allowed for immediate resignations without due process.",
-            "The Act removed the power of the Prime Minister entirely.",
-            "The Act made the appointments subject to parliamentary approval only."
+            "Signing new trade deals",
+            "Discussing military cooperation",
+            "Strengthening ties between Washington and Beijing",
+            "Addressing human rights issues",
+            "Finalizing a peace treaty"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was the National Highways Authority of India (NHAI) impleaded in the Supreme Court's proceedings regarding illegal sand mining?",
-        "a": "Concerns surrounding the structural integrity of a bridge over the Chambal river.",
+        "q": "What was the reason for the initial disagreement between a US Secret Service agent and Chinese officials at Beijing's Temple of Heaven?",
+        "a": "The US agent was carrying a firearm",
         "options": [
-            "Concerns surrounding the structural integrity of a bridge over the Chambal river.",
-            "To develop new national parks.",
-            "To provide financial assistance to sand miners.",
-            "To enforce traffic regulations in the sanctuary.",
-            "To build new checkposts for illegal mining."
+            "Media access restrictions",
+            "Protocol differences",
+            "The US agent was carrying a firearm",
+            "Visa issues",
+            "Language barrier"
         ],
         "cat": "Why"
     }
