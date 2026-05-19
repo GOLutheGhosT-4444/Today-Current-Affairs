@@ -1,722 +1,734 @@
 [
     {
-        "q": "How many Navy jets were involved in the collision at Mountain Home Air Force Base?",
-        "a": "Two",
+        "q": "The Supreme Court observed an absence of sustained efforts on the part of States and UTs to build infrastructure for dealing with which specific issue?",
+        "a": "Rising population of stray dogs",
         "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
+            "Waste management and sanitation",
+            "Public transport improvements",
+            "Child welfare programs",
+            "Rising population of stray dogs",
+            "Urban development projects"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "Exactly how many crew members were reported to have safely ejected from the colliding aircraft?",
-        "a": "Four",
+        "q": "Which of the following describes the Animal Birth Control (ABC) framework's implementation across jurisdictions, as per the Supreme Court?",
+        "a": "Sporadic, underfunded and uneven",
         "options": [
-            "Three",
-            "Five",
-            "Four",
-            "Two",
-            "Six"
+            "Consistent, well-funded and uniform",
+            "Sporadic, underfunded and uneven",
+            "Well-planned, adequately funded and localized",
+            "Centralized, overfunded and efficient",
+            "Voluntary, self-funded and diverse"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "The Mountain Home Air Force Base is located approximately how many miles south of Boise?",
-        "a": "50 miles",
+        "q": "Which body issued the standard operating procedures (SOPs) on stray animals, whose validity was challenged in pleas dismissed by the Supreme Court?",
+        "a": "Animal Welfare Board of India",
         "options": [
-            "49 miles",
-            "51 miles",
-            "50 miles",
-            "52 miles",
-            "48 miles"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many parachutes were reportedly seen opening in the sky after the collision?",
-        "a": "Four",
-        "options": [
-            "Three",
-            "Five",
-            "Four",
-            "Two",
-            "Six"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The United States Air Force Thunderbirds headlined the show on how many days?",
-        "a": "Both days",
-        "options": [
-            "One day",
-            "Three days",
-            "Both days",
-            "Four days",
-            "Five days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many distinct categories of capabilities did the Gunfighter Skies Air Show showcase?",
-        "a": "Two",
-        "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many main types of demonstrations were featured throughout the weekend at the air show?",
-        "a": "Two",
-        "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many separate collision incidents are explicitly reported in the provided news text?",
-        "a": "One",
-        "options": [
-            "Two",
-            "Three",
-            "One",
-            "Zero",
-            "Four"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many individuals are explicitly identified by name in the news text?",
-        "a": "One",
-        "options": [
-            "Two",
-            "Three",
-            "One",
-            "Zero",
-            "Four"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the numerical designation of the Fighter Wing public affairs office mentioned in the text?",
-        "a": "366th",
-        "options": [
-            "365th",
-            "367th",
-            "366th",
-            "368th",
-            "364th"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The news outlet (Associated Press) is mentioned as a source of information how many times in the text?",
-        "a": "Three",
-        "options": [
-            "Two",
-            "Four",
-            "Three",
-            "One",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many distinct states of the United States are mentioned in the news text?",
-        "a": "One",
-        "options": [
-            "Two",
-            "Three",
-            "One",
-            "Zero",
-            "Four"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which branch of the US military operated the jets involved in the collision?",
-        "a": "Navy",
-        "options": [
-            "Air Force",
-            "Army",
-            "Navy",
-            "Marines",
-            "Coast Guard"
+            "Ministry of Environment, Forest and Climate Change",
+            "National Animal Rights Commission",
+            "People for the Ethical Treatment of Animals (PETA)",
+            "Animal Welfare Board of India",
+            "Indian Veterinary Council"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who serves as the marketing director for Silver Wings of Idaho, according to the news text?",
-        "a": "Kim Sykes",
+        "q": "What did the Supreme Court dismiss all pleas challenging, specifically related to stray animals?",
+        "a": "Validity of standard operating procedures issued by Animal Welfare Board of India",
         "options": [
-            "Kim Myers",
-            "Kim Sykes",
-            "Jim Sykes",
-            "Lynn Sykes",
-            "Kim Sikes"
+            "Legality of animal shelters",
+            "Implementation of vaccination drives",
+            "Rules regarding pet licensing",
+            "Validity of standard operating procedures issued by Animal Welfare Board of India",
+            "Funding for veterinary hospitals"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who did not immediately release details regarding injuries or the condition of the crew members?",
-        "a": "Officials",
+        "q": "When did the Supreme Court issue its original order to remove stray dogs from public institutions like hospitals and schools, which it later refused to modify?",
+        "a": "November 2025",
         "options": [
-            "Witnesses",
-            "Organizers",
-            "Officials",
-            "Emergency Crews",
-            "AP Reporters"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which entity confirmed in a social media statement that the installation was placed on lockdown?",
-        "a": "Mountain Home Air Force Base",
-        "options": [
-            "Idaho State Police",
-            "Silver Wings of Idaho",
-            "Mountain Home Air Force Base",
-            "The Associated Press",
-            "US Air Force Headquarters"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who responded on Sunday after the two Navy jets collided?",
-        "a": "Emergency crews",
-        "options": [
-            "Local Police",
-            "Firefighters",
-            "Emergency crews",
-            "Medical teams",
-            "Air Traffic Controllers"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was aboard the aircraft that safely ejected before the jets crashed?",
-        "a": "Crew members",
-        "options": [
-            "Passengers",
-            "Pilots only",
-            "Crew members",
-            "Maintenance staff",
-            "Civilians"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who reported seeing smoke afterward, but did not see the actual crash?",
-        "a": "Kim Sykes",
-        "options": [
-            "Kim Sikes",
-            "Jim Sykes",
-            "Kim Myers",
-            "Lynn Sykes",
-            "Kim Sykes"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who described the Gunfighter Skies Air Show as a showcase of aviation history and modern military capabilities?",
-        "a": "Organizers",
-        "options": [
-            "Officials",
-            "Witnesses",
-            "Organizers",
-            "The Air Force",
-            "The Associated Press"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which famous aerial demonstration team headlined the Gunfighter Skies Air Show?",
-        "a": "United States Air Force Thunderbirds",
-        "options": [
-            "Blue Angels",
-            "Golden Knights",
-            "United States Air Force Thunderbirds",
-            "Snowbirds",
-            "Red Arrows"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was answering calls at the 366th Fighter Wing public affairs office?",
-        "a": "A person",
-        "options": [
-            "The Commander",
-            "A pilot",
-            "A person",
-            "The Secretary",
-            "A journalist"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who were reportedly dispatched to the area after the collision occurred?",
-        "a": "Emergency responders",
-        "options": [
-            "Military Police",
-            "Medical personnel",
-            "Emergency responders",
-            "Security Forces",
-            "Cleanup crew"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who provided videos posted online showing parachutes in the sky?",
-        "a": "Multiple witnesses",
-        "options": [
-            "Air Force personnel",
-            "Base officials",
-            "Multiple witnesses",
-            "Security cameras",
-            "News agencies"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where did the two Navy jets collide during an air show?",
-        "a": "Mountain Home Air Force Base",
-        "options": [
-            "Hill Air Force Base",
-            "Nellis Air Force Base",
-            "Mountain Home Air Force Base",
-            "Luke Air Force Base",
-            "Edwards Air Force Base"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which US state is the Mountain Home Air Force Base located?",
-        "a": "Idaho",
-        "options": [
-            "Ohio",
-            "Iowa",
-            "Idaho",
-            "Utah",
-            "Oregon"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which part of Idaho saw the incident involving the jet collision?",
-        "a": "Western Idaho",
-        "options": [
-            "Eastern Idaho",
-            "Northern Idaho",
-            "Western Idaho",
-            "Southern Idaho",
-            "Central Idaho"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The base where the collision occurred is located near which city?",
-        "a": "Boise",
-        "options": [
-            "Pocatello",
-            "Idaho Falls",
-            "Twin Falls",
-            "Boise",
-            "Caldwell"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In what cardinal direction from Boise is the Mountain Home Air Force Base situated?",
-        "a": "South",
-        "options": [
-            "North",
-            "East",
-            "South",
-            "West",
-            "Northwest"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the jet crash itself occur, relative to the base?",
-        "a": "Off base grounds",
-        "options": [
-            "On base grounds",
-            "Near the main runway",
-            "Off base grounds",
-            "In a residential area",
-            "Over a lake"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where were parachutes reportedly seen opening after the aircraft collision?",
-        "a": "In the sky",
-        "options": [
-            "On the ground",
-            "Near the base perimeter",
-            "In the sky",
-            "Over Boise",
-            "On the runway"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the installation confirmed to be placed on lockdown after the incident?",
-        "a": "The installation",
-        "options": [
-            "The main gate",
-            "The control tower",
-            "The installation",
-            "The hangar area",
-            "The nearby town"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where were emergency responders dispatched following the jet collision?",
-        "a": "To the area",
-        "options": [
-            "To the hospital",
-            "To the base command center",
-            "To the area",
-            "To Boise",
-            "To the nearby city"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the planes fall towards after they collided?",
-        "a": "Near the base",
-        "options": [
-            "Into a river",
-            "Away from the base",
-            "Near the base",
-            "Onto the runway",
-            "Into a forest"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where were the witness videos of the parachutes reportedly posted?",
-        "a": "Online",
-        "options": [
-            "On TV news",
-            "To officials directly",
-            "Online",
-            "To the AP",
-            "In local newspapers"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At what specific event did the Navy jet collision occur?",
-        "a": "Gunfighter Skies Air Show",
-        "options": [
-            "Thunderbird Air Festival",
-            "Idaho Air Expo",
-            "Gunfighter Skies Air Show",
-            "Mountain Home Aviation Day",
-            "Boise Air Display"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what day of the week did the Navy jet collision occur?",
-        "a": "Sunday",
-        "options": [
-            "Saturday",
-            "Monday",
-            "Sunday",
-            "Tuesday",
-            "Friday"
+            "October 2025",
+            "December 2025",
+            "November 2024",
+            "November 2026",
+            "September 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What specific date in May did the incident involving the Navy jets take place?",
-        "a": "May 17",
+        "q": "The Supreme Court refused to modify its order regarding the removal of stray dogs from which types of places?",
+        "a": "Public institutions like hospitals, schools, colleges, bus stations, railway stations",
         "options": [
-            "May 16",
-            "May 18",
+            "Private residential complexes",
+            "Religious institutions",
+            "Rural farmlands",
+            "Industrial areas and factories",
+            "Public institutions like hospitals, schools, colleges, bus stations, railway stations"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Paramotor Digital Technology Ltd. confidentially filed its draft red herring prospectus (DRHP) with which regulatory body?",
+        "a": "Securities and Exchange Board of India (SEBI)",
+        "options": [
+            "Reserve Bank of India (RBI)",
+            "National Stock Exchange (NSE)",
+            "Ministry of Corporate Affairs (MCA)",
+            "Securities and Exchange Board of India (SEBI)",
+            "Insurance Regulatory and Development Authority of India (IRDAI)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary purpose behind Paramotor Digital Technology Ltd.'s confidential DRHP filing?",
+        "a": "Toward a potential initial public offering (IPO)",
+        "options": [
+            "To restructure existing debt",
+            "To acquire a smaller fintech company",
+            "To secure a large bank loan",
+            "Toward a potential initial public offering (IPO)",
+            "To report annual financial statements"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which year was Paramotor Digital Technology Ltd. founded?",
+        "a": "2016",
+        "options": [
+            "2015",
+            "2017",
+            "2014",
+            "2018",
+            "2019"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What type of ecosystem does Paramotor Digital Technology Ltd. operate?",
+        "a": "Diversified fintech and enterprise technology ecosystem",
+        "options": [
+            "Agricultural technology solutions",
+            "Healthcare data management",
+            "Real estate investment platform",
+            "Diversified fintech and enterprise technology ecosystem",
+            "Automotive manufacturing and sales"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Paramotor Digital Technology Ltd. serves both consumers and businesses across which country?",
+        "a": "India",
+        "options": [
+            "United States",
+            "United Kingdom",
+            "India",
+            "Singapore",
+            "Australia"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which of Paramotor's portfolio products is described as a prepaid card-based spend management platform?",
+        "a": "SpendPro",
+        "options": [
+            "RewardOn",
+            "yayyy.shop",
+            "DevStack",
+            "SpendPro",
+            "PayGuard"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which Paramotor product is an enterprise rewards and loyalty management solution?",
+        "a": "RewardOn",
+        "options": [
+            "SpendPro",
+            "yayyy.shop",
+            "DevStack",
+            "RewardOn",
+            "LoyalHub"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the name of Paramotor's direct-to-consumer digital gifting marketplace?",
+        "a": "yayyy.shop",
+        "options": [
+            "GiftEase",
+            "SpendPro",
+            "RewardOn",
+            "DevStack",
+            "yayyy.shop"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the Executive Chairperson of Paramotor Digital Technology Ltd.?",
+        "a": "Sonia Asher",
+        "options": [
+            "Rahul Anand",
+            "Deepika Reddy",
+            "Nigam Bhandary",
+            "Sonia Asher",
+            "H.N. Manjunath Gowda"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Managing Director of Paramotor Digital Technology Ltd.?",
+        "a": "Rahul Anand",
+        "options": [
+            "Sonia Asher",
+            "H.N. Manjunath Gowda",
+            "Rahul Anand",
+            "Deepika Reddy",
+            "Nigam Bhandary"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Karnataka Youth Congress convened a meeting on May 18 in which city?",
+        "a": "Bengaluru",
+        "options": [
+            "Chennai",
+            "Hyderabad",
+            "Mumbai",
+            "Bengaluru",
+            "Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date was the meeting convened by the Karnataka Youth Congress at the KPCC office?",
+        "a": "May 18",
+        "options": [
             "May 17",
-            "May 15",
-            "May 19"
+            "May 19",
+            "April 18",
+            "June 18",
+            "March 18"
         ],
         "cat": "When"
     },
     {
-        "q": "During what type of event did the collision happen at Mountain Home Air Force Base?",
-        "a": "An air show",
+        "q": "What was the stated purpose of the meeting convened by the Karnataka Youth Congress on May 18?",
+        "a": "To plan for a protest against the NEET examination fiasco",
         "options": [
-            "A training exercise",
-            "A military parade",
-            "An air show",
-            "A test flight",
-            "A maintenance drill"
+            "To elect new office bearers",
+            "To discuss state election strategies",
+            "To organize a charity drive",
+            "To plan for a protest against the NEET examination fiasco",
+            "To review membership applications"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date is the Congress planning a protest against the NEET examination?",
+        "a": "May 21",
+        "options": [
+            "May 20",
+            "May 22",
+            "June 21",
+            "April 21",
+            "May 25"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the four crew members aboard the aircraft eject safely?",
-        "a": "Before the jets crashed",
+        "q": "What was the specific issue against which the Congress is planning a protest?",
+        "a": "NEET examination fiasco",
         "options": [
-            "After the jets crashed",
-            "During the collision",
-            "Before the jets crashed",
-            "Immediately upon takeoff",
-            "After landing"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When were emergency crews initially reported to have responded to the incident?",
-        "a": "On Sunday",
-        "options": [
-            "On Saturday",
-            "On Monday",
-            "On Sunday",
-            "On Tuesday",
-            "On Friday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was Mountain Home Air Force Base placed on lockdown relative to the incident?",
-        "a": "Following the incident",
-        "options": [
-            "Before the incident",
-            "During the air show planning",
-            "Following the incident",
-            "Hours after the incident",
-            "The next day"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was an investigation reportedly launched into the jet collision?",
-        "a": "Following the incident",
-        "options": [
-            "Weeks later",
-            "Before the air show",
-            "Following the incident",
-            "The next morning",
-            "Months later"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did officials *not immediately* release details regarding the collision?",
-        "a": "After the collision",
-        "options": [
-            "Before the air show",
-            "After the collision",
-            "During the air show",
-            "The next day",
-            "A week later"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Gunfighter Skies Air Show taking place, generally?",
-        "a": "Throughout the weekend",
-        "options": [
-            "On a single day",
-            "For a week",
-            "Throughout the weekend",
-            "Over a month",
-            "During weekdays"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Kim Sykes report seeing smoke, in relation to the crash?",
-        "a": "Afterward",
-        "options": [
-            "Before the crash",
-            "During the crash",
-            "Afterward",
-            "Immediately upon impact",
-            "Hours later"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In what month did the Navy jet collision incident occur?",
-        "a": "May",
-        "options": [
-            "April",
-            "June",
-            "May",
-            "July",
-            "March"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the United States Air Force Thunderbirds headline the Gunfighter Skies Air Show?",
-        "a": "On both days",
-        "options": [
-            "On the first day only",
-            "On the second day only",
-            "On both days",
-            "Throughout the week",
-            "During the opening ceremony"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the primary purpose of the Gunfighter Skies Air Show, as described by organizers?",
-        "a": "A showcase of aviation history and modern military capabilities",
-        "options": [
-            "A recruitment drive for pilots",
-            "A fundraiser for military families",
-            "A showcase of aviation history and modern military capabilities",
-            "A competition for stunt pilots",
-            "A display of civilian aircraft technology"
+            "Rising fuel prices",
+            "Agricultural policy changes",
+            "State budget allocations",
+            "NEET examination fiasco",
+            "Local governance issues"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Gunfighter Skies Air Show feature flying demonstrations?",
-        "a": "To showcase modern military capabilities",
+        "q": "How many people were recently suspended, leading to anger among a section of Youth Congress workers?",
+        "a": "17",
         "options": [
-            "For entertainment only",
-            "To test new aircraft",
-            "To showcase modern military capabilities",
-            "To train new pilots",
-            "To raise public awareness"
+            "16",
+            "18",
+            "15",
+            "19",
+            "20"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the State Youth Congress president mentioned in connection with the suspensions?",
+        "a": "H.N. Manjunath Gowda",
+        "options": [
+            "Sonia Asher",
+            "Rahul Anand",
+            "Deepika Reddy",
+            "Nigam Bhandary",
+            "H.N. Manjunath Gowda"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What reason did Congress sources state for the suspension of party leaders and workers?",
+        "a": "They had not attended a few meetings that had been convened earlier",
+        "options": [
+            "Financial irregularities",
+            "Anti-party activities",
+            "Disciplinary misconduct during a public event",
+            "They had not attended a few meetings that had been convened earlier",
+            "Criticism of senior party leaders"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why were parachute jumps included in the Gunfighter Skies Air Show?",
-        "a": "As part of the aerial demonstrations",
+        "q": "Who was the State Youth Congress vice-president among those recently suspended?",
+        "a": "Deepika Reddy",
         "options": [
-            "As an emergency training drill",
-            "To test new parachute gear",
-            "As part of the aerial demonstrations",
-            "For civilian entertainment",
-            "To set world records"
+            "Sonia Asher",
+            "H.N. Manjunath Gowda",
+            "Nigam Bhandary",
+            "Deepika Reddy",
+            "Rahul Anand"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the State Youth Congress in-charge from whom suspended leaders sought a response regarding their suspension?",
+        "a": "Nigam Bhandary",
+        "options": [
+            "Deepika Reddy",
+            "H.N. Manjunath Gowda",
+            "Sonia Asher",
+            "Rahul Anand",
+            "Nigam Bhandary"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What did Deepika Reddy allege was the true reason for the action taken against her?",
+        "a": "Political vengeance and a conspiracy against women",
+        "options": [
+            "Failure to meet membership targets",
+            "Violation of party guidelines",
+            "Insubordination during a public rally",
+            "Political vengeance and a conspiracy against women",
+            "Misappropriation of funds"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did all four crew members aboard the aircraft eject safely?",
-        "a": "Before the jets crashed",
+        "q": "The Supreme Court noted that the implementation of the Animal Birth Control (ABC) framework primarily remains in what state regarding funding?",
+        "a": "Underfunded",
         "options": [
-            "To practice emergency procedures",
-            "To escape safely before the jets crashed",
-            "As part of the air show stunt",
-            "Due to a technical malfunction only",
-            "Because instructed by ground control"
+            "Overfunded",
+            "Adequately funded",
+            "Self-funded",
+            "Partially funded",
+            "Underfunded"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was Mountain Home Air Force Base placed on lockdown following the incident?",
-        "a": "Following the incident",
+        "q": "What specific aspect of the Animal Birth Control (ABC) framework's implementation was highlighted as 'uneven' by the Supreme Court?",
+        "a": "Its distribution and application across different jurisdictions",
         "options": [
-            "Due to an unrelated security threat",
-            "For a VIP visit",
-            "Following the incident",
-            "To conduct a routine drill",
-            "To prepare for a new deployment"
+            "Its public awareness campaigns",
+            "Its scientific methodology",
+            "Its budget allocation process",
+            "Its distribution and application across different jurisdictions",
+            "Its volunteer recruitment"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why were emergency responders dispatched to the area after the jet collision?",
-        "a": "To manage the incident's aftermath",
+        "q": "What does Paramotor Digital Technology Ltd. operate that serves both consumers and businesses?",
+        "a": "A diversified fintech and enterprise technology ecosystem",
         "options": [
-            "For a planned exercise",
-            "To greet dignitaries",
-            "To manage the incident's aftermath",
-            "To inspect the runway",
-            "To observe the air show"
+            "A chain of retail stores",
+            "A pharmaceutical research facility",
+            "An agricultural commodity trading platform",
+            "A diversified fintech and enterprise technology ecosystem",
+            "A national healthcare network"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was an investigation launched into the collision of the two Navy jets?",
-        "a": "To understand the details of the incident",
+        "q": "Which of the following is NOT a core business area listed for Paramotor Digital Technology Ltd.?",
+        "a": "Real estate brokerage",
         "options": [
-            "To punish the pilots",
-            "To prevent future air shows",
-            "To understand the details of the incident",
-            "To declare the base safe",
-            "To inform the public quickly"
+            "Consumer spend management",
+            "Rewards and loyalty solutions",
+            "Digital gifting",
+            "Enterprise technology services",
+            "Real estate brokerage"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the two aircraft fall towards the ground?",
-        "a": "They collided during the event",
+        "q": "What type of product is Paramotor's 'DevStack' vertical?",
+        "a": "Enterprise technology and software development services",
         "options": [
-            "They ran out of fuel",
-            "They experienced engine failure",
-            "They collided during the event",
-            "They were shot down",
-            "They lost electrical power"
+            "Digital gaming platform",
+            "Health and wellness application",
+            "Online education portal",
+            "Enterprise technology and software development services",
+            "Travel booking system"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did organizers describe the Gunfighter Skies Air Show as showcasing 'aviation history'?",
-        "a": "To highlight the evolution of flight technology",
+        "q": "The professional backgrounds of Paramotor's leaders, Sonia Asher and Rahul Anand, span which fields?",
+        "a": "Banking, payments, and information technology",
         "options": [
-            "To focus solely on modern jets",
-            "To appeal only to historians",
-            "To highlight the evolution of flight technology",
-            "To discredit old aircraft",
-            "To justify military spending"
+            "Law, education, and social work",
+            "Healthcare, hospitality, and media",
+            "Agriculture, manufacturing, and logistics",
+            "Banking, payments, and information technology",
+            "Sports, arts, and politics"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Kim Sykes only see the smoke afterward and not the actual crash?",
-        "a": "She did not visually witness the crash",
+        "q": "The altercation at the Karnataka Youth Congress meeting almost came close to what physical action?",
+        "a": "Fist fight",
         "options": [
-            "She was too far away",
-            "She was indoors",
-            "She did not visually witness the crash",
-            "She arrived late",
-            "She was distracted"
+            "A handshake agreement",
+            "A protest march",
+            "A formal debate",
+            "A fist fight",
+            "A singing competition"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why were emergency crews responding on Sunday, according to the news text?",
-        "a": "After two Navy jets collided",
+        "q": "Which of the following types of public institutions was explicitly mentioned in the SC's November 2025 order regarding stray dogs?",
+        "a": "Railway stations",
         "options": [
-            "For a routine inspection",
-            "For a training drill",
-            "After two Navy jets collided",
-            "Due to a fire alarm",
-            "For crowd control"
+            "National parks",
+            "Private offices",
+            "Religious places",
+            "Railway stations",
+            "Shopping malls"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the nature of the notice issued by Paramotor Digital Technology Ltd. regarding its DRHP filing?",
+        "a": "Public notice",
+        "options": [
+            "Confidential memo",
+            "Internal circular",
+            "Private notification",
+            "Public notice",
+            "Regulatory warning"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of the 'modern military capabilities' aspect of the Gunfighter Skies Air Show?",
-        "a": "To showcase current military advancements",
+        "q": "The Supreme Court dismissed pleas challenging the validity of SOPs issued by the Animal Welfare Board of India related to what?",
+        "a": "Stray animals",
         "options": [
-            "To critique military spending",
-            "To ignore past aviation history",
-            "To showcase current military advancements",
-            "To confuse the audience",
-            "To deter civilian interest"
+            "Livestock breeding",
+            "Pet shop regulations",
+            "Wildlife protection",
+            "Stray animals",
+            "Zoo management"
         ],
         "cat": "Why"
+    },
+    {
+        "q": "Paramotor Digital Technology Ltd. filed its DRHP under which specific route?",
+        "a": "Pre-filing route",
+        "options": [
+            "Fast-track route",
+            "Standard filing route",
+            "Expedited route",
+            "Pre-filing route",
+            "Direct listing route"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What term did the Supreme Court use to describe the unevenness in the implementation of the Animal Birth Control (ABC) framework?",
+        "a": "Across jurisdictions",
+        "options": [
+            "Within states",
+            "Among cities",
+            "Across districts",
+            "Across jurisdictions",
+            "Between rural and urban areas"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does the abbreviation 'DRHP' stand for in the context of capital markets?",
+        "a": "Draft Red Herring Prospectus",
+        "options": [
+            "Digital Regulatory Holding Protocol",
+            "Developing Revenue-Generating Projects",
+            "Draft Red Herring Prospectus",
+            "Direct Retail Holdings Portfolio",
+            "Data Reporting and High Performance"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does 'IPO' stand for in the context of stock markets?",
+        "a": "Initial Public Offering",
+        "options": [
+            "Internal Profit Optimization",
+            "Indian Private Ownership",
+            "International Payment Operations",
+            "Initial Public Offering",
+            "Investment Portfolio Opportunity"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which specific office was the venue for the Karnataka Youth Congress meeting on May 18?",
+        "a": "KPCC office",
+        "options": [
+            "Vidhana Soudha",
+            "Mysore Palace",
+            "Town Hall",
+            "KPCC office",
+            "Gandhi Bhavan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What attitude of State Youth Congress president H.N. Manjunath Gowda was condemned by upset workers?",
+        "a": "Dictatorial attitude",
+        "options": [
+            "Democratic attitude",
+            "Collaborative attitude",
+            "Lenient attitude",
+            "Dictatorial attitude",
+            "Indifferent attitude"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did a person from H.N. Manjunath Gowda's faction question about the suspended leaders who sought an explanation?",
+        "a": "Their locus standi",
+        "options": [
+            "Their educational qualifications",
+            "Their financial background",
+            "Their attendance record at other events",
+            "Their locus standi",
+            "Their social media presence"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court refused to modify its order for the removal of stray dogs from which of the following?",
+        "a": "Bus stations",
+        "options": [
+            "Private residences",
+            "Shopping malls",
+            "Botanical gardens",
+            "Bus stations",
+            "Farmhouses"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What kind of altercation broke out between the two factions at the Karnataka Youth Congress meeting?",
+        "a": "Verbal altercation",
+        "options": [
+            "Formal debate",
+            "Peaceful dialogue",
+            "Collaborative discussion",
+            "Verbal altercation",
+            "Mediation session"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What objects were pushed around by workers during the heated altercation at the Youth Congress meeting?",
+        "a": "Chairs",
+        "options": [
+            "Tables",
+            "Mics",
+            "Files",
+            "Chairs",
+            "Banners"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What type of notice did Paramotor Digital Technology Ltd. issue regarding its confidential DRHP filing?",
+        "a": "Public notice",
+        "options": [
+            "Confidential advisory",
+            "Internal memo",
+            "Private disclosure",
+            "Public notice",
+            "Regulatory alert"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did the Supreme Court refuse to modify regarding its November 2025 order?",
+        "a": "To remove stray dogs from public institutions",
+        "options": [
+            "To provide vaccinations for all stray animals",
+            "To establish more animal shelters nationwide",
+            "To impose stricter penalties on animal cruelty",
+            "To remove stray dogs from public institutions",
+            "To ban all pet ownership in residential areas"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the general status of the Animal Birth Control (ABC) framework as described by the Supreme Court?",
+        "a": "Sporadic, underfunded and uneven across jurisdictions",
+        "options": [
+            "Well-organized, adequately funded and uniformly implemented",
+            "Sporadic, underfunded and uneven across jurisdictions",
+            "Pilot project based, privately funded and regionally successful",
+            "Government-controlled, community-supported and highly efficient",
+            "Externally monitored, globally financed and consistently applied"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific business vertical of Paramotor Digital Technology Ltd. focuses on enterprise technology and software development services?",
+        "a": "DevStack",
+        "options": [
+            "SpendPro",
+            "RewardOn",
+            "yayyy.shop",
+            "DevStack",
+            "TechBuild"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The meeting by Karnataka Youth Congress was held at the KPCC office located in which specific city?",
+        "a": "Bengaluru",
+        "options": [
+            "Mysuru",
+            "Mangaluru",
+            "Hubballi",
+            "Bengaluru",
+            "Belagavi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What kind of technological ecosystem does Paramotor Digital Technology Ltd. operate?",
+        "a": "Fintech and enterprise technology",
+        "options": [
+            "Biotechnology and healthcare",
+            "Automotive and aerospace",
+            "Renewable energy and sustainability",
+            "Fintech and enterprise technology",
+            "Agricultural and food processing"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the Supreme Court's stance on modifying its November 2025 order concerning stray dogs in public institutions?",
+        "a": "Refused to modify",
+        "options": [
+            "Agreed to review",
+            "Modified partially",
+            "Reversed entirely",
+            "Refused to modify",
+            "Postponed decision"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which of Paramotor's solutions is specifically designed for enterprise rewards and loyalty management?",
+        "a": "RewardOn",
+        "options": [
+            "SpendPro",
+            "LoyaltyGenius",
+            "GiftingHub",
+            "DevStack",
+            "RewardOn"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific type of platform is Paramotor's 'SpendPro'?",
+        "a": "Prepaid card-based spend management platform",
+        "options": [
+            "Equity trading platform",
+            "Cryptocurrency exchange platform",
+            "Online banking platform",
+            "Prepaid card-based spend management platform",
+            "Personal loan application platform"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Paramotor's 'yayyy.shop' serves as what kind of marketplace?",
+        "a": "Direct-to-consumer digital gifting marketplace",
+        "options": [
+            "Business-to-business procurement platform",
+            "Consumer electronics retail platform",
+            "Luxury goods auction site",
+            "Direct-to-consumer digital gifting marketplace",
+            "Local artisan craft store"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which category of services does Paramotor's business span, besides consumer spend management and rewards?",
+        "a": "Digital gifting and enterprise technology services",
+        "options": [
+            "Healthcare diagnostics and consultations",
+            "Real estate and property management",
+            "Logistics and supply chain optimization",
+            "Digital gifting and enterprise technology services",
+            "Agricultural produce and distribution"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court noted the Animal Birth Control (ABC) framework's implementation was largely 'sporadic', meaning it lacked what?",
+        "a": "Regularity and consistency",
+        "options": [
+            "Sufficient funding",
+            "Clear legal directives",
+            "Public support",
+            "Regularity and consistency",
+            "International oversight"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which types of customers does Paramotor's diversified fintech and enterprise technology ecosystem serve?",
+        "a": "Both consumers and businesses",
+        "options": [
+            "Only large corporations",
+            "Only individual users",
+            "Only government agencies",
+            "Both consumers and businesses",
+            "Only small and medium enterprises"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The State Youth Congress workers were upset over the recent suspension of people, condemning whose 'dictatorial' attitude?",
+        "a": "H.N. Manjunath Gowda",
+        "options": [
+            "Deepika Reddy",
+            "Nigam Bhandary",
+            "Rahul Anand",
+            "H.N. Manjunath Gowda",
+            "Sonia Asher"
+        ],
+        "cat": "Who"
     }
 ]
