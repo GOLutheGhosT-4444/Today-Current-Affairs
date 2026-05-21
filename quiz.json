@@ -1,734 +1,722 @@
 [
     {
-        "q": "The Supreme Court observed an absence of sustained efforts on the part of States and UTs to build infrastructure for dealing with which specific issue?",
-        "a": "Rising population of stray dogs",
+        "q": "What is the current benchmark interest rate range maintained by the Federal Open Market Committee (FOMC)?",
+        "a": "3.5 per cent to 3.75 per cent",
         "options": [
-            "Waste management and sanitation",
-            "Public transport improvements",
-            "Child welfare programs",
-            "Rising population of stray dogs",
-            "Urban development projects"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which of the following describes the Animal Birth Control (ABC) framework's implementation across jurisdictions, as per the Supreme Court?",
-        "a": "Sporadic, underfunded and uneven",
-        "options": [
-            "Consistent, well-funded and uniform",
-            "Sporadic, underfunded and uneven",
-            "Well-planned, adequately funded and localized",
-            "Centralized, overfunded and efficient",
-            "Voluntary, self-funded and diverse"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which body issued the standard operating procedures (SOPs) on stray animals, whose validity was challenged in pleas dismissed by the Supreme Court?",
-        "a": "Animal Welfare Board of India",
-        "options": [
-            "Ministry of Environment, Forest and Climate Change",
-            "National Animal Rights Commission",
-            "People for the Ethical Treatment of Animals (PETA)",
-            "Animal Welfare Board of India",
-            "Indian Veterinary Council"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What did the Supreme Court dismiss all pleas challenging, specifically related to stray animals?",
-        "a": "Validity of standard operating procedures issued by Animal Welfare Board of India",
-        "options": [
-            "Legality of animal shelters",
-            "Implementation of vaccination drives",
-            "Rules regarding pet licensing",
-            "Validity of standard operating procedures issued by Animal Welfare Board of India",
-            "Funding for veterinary hospitals"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "When did the Supreme Court issue its original order to remove stray dogs from public institutions like hospitals and schools, which it later refused to modify?",
-        "a": "November 2025",
-        "options": [
-            "October 2025",
-            "December 2025",
-            "November 2024",
-            "November 2026",
-            "September 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court refused to modify its order regarding the removal of stray dogs from which types of places?",
-        "a": "Public institutions like hospitals, schools, colleges, bus stations, railway stations",
-        "options": [
-            "Private residential complexes",
-            "Religious institutions",
-            "Rural farmlands",
-            "Industrial areas and factories",
-            "Public institutions like hospitals, schools, colleges, bus stations, railway stations"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Paramotor Digital Technology Ltd. confidentially filed its draft red herring prospectus (DRHP) with which regulatory body?",
-        "a": "Securities and Exchange Board of India (SEBI)",
-        "options": [
-            "Reserve Bank of India (RBI)",
-            "National Stock Exchange (NSE)",
-            "Ministry of Corporate Affairs (MCA)",
-            "Securities and Exchange Board of India (SEBI)",
-            "Insurance Regulatory and Development Authority of India (IRDAI)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary purpose behind Paramotor Digital Technology Ltd.'s confidential DRHP filing?",
-        "a": "Toward a potential initial public offering (IPO)",
-        "options": [
-            "To restructure existing debt",
-            "To acquire a smaller fintech company",
-            "To secure a large bank loan",
-            "Toward a potential initial public offering (IPO)",
-            "To report annual financial statements"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which year was Paramotor Digital Technology Ltd. founded?",
-        "a": "2016",
-        "options": [
-            "2015",
-            "2017",
-            "2014",
-            "2018",
-            "2019"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What type of ecosystem does Paramotor Digital Technology Ltd. operate?",
-        "a": "Diversified fintech and enterprise technology ecosystem",
-        "options": [
-            "Agricultural technology solutions",
-            "Healthcare data management",
-            "Real estate investment platform",
-            "Diversified fintech and enterprise technology ecosystem",
-            "Automotive manufacturing and sales"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Paramotor Digital Technology Ltd. serves both consumers and businesses across which country?",
-        "a": "India",
-        "options": [
-            "United States",
-            "United Kingdom",
-            "India",
-            "Singapore",
-            "Australia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which of Paramotor's portfolio products is described as a prepaid card-based spend management platform?",
-        "a": "SpendPro",
-        "options": [
-            "RewardOn",
-            "yayyy.shop",
-            "DevStack",
-            "SpendPro",
-            "PayGuard"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which Paramotor product is an enterprise rewards and loyalty management solution?",
-        "a": "RewardOn",
-        "options": [
-            "SpendPro",
-            "yayyy.shop",
-            "DevStack",
-            "RewardOn",
-            "LoyalHub"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the name of Paramotor's direct-to-consumer digital gifting marketplace?",
-        "a": "yayyy.shop",
-        "options": [
-            "GiftEase",
-            "SpendPro",
-            "RewardOn",
-            "DevStack",
-            "yayyy.shop"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the Executive Chairperson of Paramotor Digital Technology Ltd.?",
-        "a": "Sonia Asher",
-        "options": [
-            "Rahul Anand",
-            "Deepika Reddy",
-            "Nigam Bhandary",
-            "Sonia Asher",
-            "H.N. Manjunath Gowda"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Managing Director of Paramotor Digital Technology Ltd.?",
-        "a": "Rahul Anand",
-        "options": [
-            "Sonia Asher",
-            "H.N. Manjunath Gowda",
-            "Rahul Anand",
-            "Deepika Reddy",
-            "Nigam Bhandary"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Karnataka Youth Congress convened a meeting on May 18 in which city?",
-        "a": "Bengaluru",
-        "options": [
-            "Chennai",
-            "Hyderabad",
-            "Mumbai",
-            "Bengaluru",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date was the meeting convened by the Karnataka Youth Congress at the KPCC office?",
-        "a": "May 18",
-        "options": [
-            "May 17",
-            "May 19",
-            "April 18",
-            "June 18",
-            "March 18"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the stated purpose of the meeting convened by the Karnataka Youth Congress on May 18?",
-        "a": "To plan for a protest against the NEET examination fiasco",
-        "options": [
-            "To elect new office bearers",
-            "To discuss state election strategies",
-            "To organize a charity drive",
-            "To plan for a protest against the NEET examination fiasco",
-            "To review membership applications"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date is the Congress planning a protest against the NEET examination?",
-        "a": "May 21",
-        "options": [
-            "May 20",
-            "May 22",
-            "June 21",
-            "April 21",
-            "May 25"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the specific issue against which the Congress is planning a protest?",
-        "a": "NEET examination fiasco",
-        "options": [
-            "Rising fuel prices",
-            "Agricultural policy changes",
-            "State budget allocations",
-            "NEET examination fiasco",
-            "Local governance issues"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many people were recently suspended, leading to anger among a section of Youth Congress workers?",
-        "a": "17",
-        "options": [
-            "16",
-            "18",
-            "15",
-            "19",
-            "20"
+            "3.0 per cent to 3.25 per cent",
+            "3.25 per cent to 3.5 per cent",
+            "3.5 per cent to 3.75 per cent",
+            "3.75 per cent to 4.0 per cent",
+            "4.0 per cent to 4.25 per cent"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the State Youth Congress president mentioned in connection with the suspensions?",
-        "a": "H.N. Manjunath Gowda",
+        "q": "How many dissenting votes were recorded at the latest FOMC meeting, marking the highest since 1992?",
+        "a": "Four",
         "options": [
-            "Sonia Asher",
-            "Rahul Anand",
-            "Deepika Reddy",
-            "Nigam Bhandary",
-            "H.N. Manjunath Gowda"
+            "Two",
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the Federal Reserve's target inflation rate?",
+        "a": "Two per cent",
+        "options": [
+            "1.5 per cent",
+            "1.8 per cent",
+            "2.0 per cent",
+            "2.2 per cent",
+            "2.5 per cent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to Goldman Sachs, what annual rate is the Fed\u2019s main inflation gauge expected to show for April?",
+        "a": "3.3 per cent",
+        "options": [
+            "3.0 per cent",
+            "3.1 per cent",
+            "3.3 per cent",
+            "3.5 per cent",
+            "3.7 per cent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the rupee's new all-time low value recorded on Wednesday, May 20, 2026?",
+        "a": "96.95",
+        "options": [
+            "96.85",
+            "96.90",
+            "96.95",
+            "97.00",
+            "97.05"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the rupee's new closing low value recorded on Wednesday, May 20, 2026?",
+        "a": "96.86",
+        "options": [
+            "96.76",
+            "96.81",
+            "96.86",
+            "96.91",
+            "96.96"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By how many paise did the rupee recover from its all-time closing low in early trade on Thursday, May 21, 2026?",
+        "a": "41 paise",
+        "options": [
+            "35 paise",
+            "38 paise",
+            "41 paise",
+            "44 paise",
+            "47 paise"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the opening value of the rupee against the U.S. dollar at the interbank foreign exchange market on Thursday, May 21, 2026?",
+        "a": "96.25",
+        "options": [
+            "96.15",
+            "96.20",
+            "96.25",
+            "96.30",
+            "96.35"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many months of extension did the Supreme Court grant to the Karnataka government for conducting Bengaluru civic polls?",
+        "a": "Two months",
+        "options": [
+            "One month",
+            "Two months",
+            "Three months",
+            "Four months",
+            "Five months"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many additional witnesses does the National Investigation Agency (NIA) still need to examine in the K.A. Najeeb UAPA case?",
+        "a": "276",
+        "options": [
+            "250",
+            "265",
+            "276",
+            "285",
+            "290"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For how many years had K.A. Najeeb languished in jail as an undertrial before being granted bail by the Kerala High Court?",
+        "a": "More than five years",
+        "options": [
+            "More than three years",
+            "More than four years",
+            "More than five years",
+            "More than six years",
+            "More than seven years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the maximum rigorous imprisonment sentence received by other convicted co-accused in the Professor T.J. Joseph attack case?",
+        "a": "Eight years",
+        "options": [
+            "Six years",
+            "Seven years",
+            "Eight years",
+            "Nine years",
+            "Ten years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who chaired the Federal Open Market Committee (FOMC) meeting described in the news, marking his last time in that role?",
+        "a": "Jerome Powell",
+        "options": [
+            "Kevin Warsh",
+            "Donald Trump",
+            "Sanjay Malhotra",
+            "Jerome Powell",
+            "N.V. Ramana"
         ],
         "cat": "Who"
     },
     {
-        "q": "What reason did Congress sources state for the suspension of party leaders and workers?",
-        "a": "They had not attended a few meetings that had been convened earlier",
+        "q": "Who did President Donald Trump appoint to head the US central bank after a lengthy campaign?",
+        "a": "Kevin Warsh",
         "options": [
-            "Financial irregularities",
-            "Anti-party activities",
-            "Disciplinary misconduct during a public event",
-            "They had not attended a few meetings that had been convened earlier",
-            "Criticism of senior party leaders"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who was the State Youth Congress vice-president among those recently suspended?",
-        "a": "Deepika Reddy",
-        "options": [
-            "Sonia Asher",
-            "H.N. Manjunath Gowda",
-            "Nigam Bhandary",
-            "Deepika Reddy",
-            "Rahul Anand"
+            "Jerome Powell",
+            "Janet Yellen",
+            "Kevin Warsh",
+            "Ben Bernanke",
+            "Paul Volcker"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the State Youth Congress in-charge from whom suspended leaders sought a response regarding their suspension?",
-        "a": "Nigam Bhandary",
+        "q": "Who is the current Governor of the Reserve Bank of India (RBI) mentioned in the Bloomberg News report?",
+        "a": "Sanjay Malhotra",
         "options": [
-            "Deepika Reddy",
-            "H.N. Manjunath Gowda",
-            "Sonia Asher",
-            "Rahul Anand",
-            "Nigam Bhandary"
+            "Raghuram Rajan",
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Sanjay Malhotra",
+            "Montek Singh Ahluwalia"
         ],
         "cat": "Who"
     },
     {
-        "q": "What did Deepika Reddy allege was the true reason for the action taken against her?",
-        "a": "Political vengeance and a conspiracy against women",
+        "q": "Who are the two 2020 Delhi riots accused whose bail pleas were heard by the Supreme Court?",
+        "a": "Tasleem Ahmed and Abdul Khalid Saifi",
         "options": [
-            "Failure to meet membership targets",
-            "Violation of party guidelines",
-            "Insubordination during a public rally",
-            "Political vengeance and a conspiracy against women",
-            "Misappropriation of funds"
+            "Umar Khalid and Sharjeel Imam",
+            "Tasleem Ahmed and Abdul Khalid Saifi",
+            "K.A. Najeeb and T.J. Joseph",
+            "Rebecca John and Mehmood Pracha",
+            "Aravind Kumar and P.B. Varale"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "The Supreme Court noted that the implementation of the Animal Birth Control (ABC) framework primarily remains in what state regarding funding?",
-        "a": "Underfunded",
+        "q": "Who appeared as the Additional Solicitor General for the Delhi Police in the Supreme Court for the Delhi riots bail pleas?",
+        "a": "S.V. Raju",
         "options": [
-            "Overfunded",
-            "Adequately funded",
-            "Self-funded",
-            "Partially funded",
-            "Underfunded"
+            "Rebecca John",
+            "Mehmood Pracha",
+            "S.V. Raju",
+            "A.M. Singhvi",
+            "Sanchit Garga"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "What specific aspect of the Animal Birth Control (ABC) framework's implementation was highlighted as 'uneven' by the Supreme Court?",
-        "a": "Its distribution and application across different jurisdictions",
+        "q": "Which Supreme Court Justice heads the three-judge Bench that heard the Bengaluru civic polls extension plea and remarked on 'delaying tactics'?",
+        "a": "Surya Kant",
         "options": [
-            "Its public awareness campaigns",
-            "Its scientific methodology",
-            "Its budget allocation process",
-            "Its distribution and application across different jurisdictions",
-            "Its volunteer recruitment"
+            "N.V. Ramana",
+            "B.V. Nagarathna",
+            "Aravind Kumar",
+            "P.B. Varale",
+            "Surya Kant"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "What does Paramotor Digital Technology Ltd. operate that serves both consumers and businesses?",
-        "a": "A diversified fintech and enterprise technology ecosystem",
+        "q": "Who is the Senior advocate representing Karnataka in the Supreme Court regarding the Bengaluru civic polls extension?",
+        "a": "A.M. Singhvi",
         "options": [
-            "A chain of retail stores",
-            "A pharmaceutical research facility",
-            "An agricultural commodity trading platform",
-            "A diversified fintech and enterprise technology ecosystem",
-            "A national healthcare network"
+            "Sanchit Garga",
+            "A.M. Singhvi",
+            "S.V. Raju",
+            "Rebecca John",
+            "Mehmood Pracha"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "Which of the following is NOT a core business area listed for Paramotor Digital Technology Ltd.?",
-        "a": "Real estate brokerage",
+        "q": "Who was the professor attacked in Kerala whose case led to the Supreme Court upholding bail under UAPA?",
+        "a": "T.J. Joseph",
         "options": [
-            "Consumer spend management",
-            "Rewards and loyalty solutions",
-            "Digital gifting",
-            "Enterprise technology services",
-            "Real estate brokerage"
+            "Umar Khalid",
+            "Sharjeel Imam",
+            "K.A. Najeeb",
+            "T.J. Joseph",
+            "Tasleem Ahmed"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "What type of product is Paramotor's 'DevStack' vertical?",
-        "a": "Enterprise technology and software development services",
+        "q": "What organization were the assailants of Professor T.J. Joseph allegedly members of?",
+        "a": "Popular Front of India (PFI)",
         "options": [
-            "Digital gaming platform",
-            "Health and wellness application",
-            "Online education portal",
-            "Enterprise technology and software development services",
-            "Travel booking system"
+            "National Investigation Agency (NIA)",
+            "Federal Open Market Committee (FOMC)",
+            "Popular Front of India (PFI)",
+            "Reserve Bank of India (RBI)",
+            "Karnataka State Election Commission (KSEC)"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "The professional backgrounds of Paramotor's leaders, Sonia Asher and Rahul Anand, span which fields?",
-        "a": "Banking, payments, and information technology",
+        "q": "Who is the accused whose bail under UAPA was upheld by the Supreme Court in connection with the attack on Professor T.J. Joseph?",
+        "a": "K.A. Najeeb",
         "options": [
-            "Law, education, and social work",
-            "Healthcare, hospitality, and media",
-            "Agriculture, manufacturing, and logistics",
-            "Banking, payments, and information technology",
-            "Sports, arts, and politics"
+            "Tasleem Ahmed",
+            "Abdul Khalid Saifi",
+            "Umar Khalid",
+            "Sharjeel Imam",
+            "K.A. Najeeb"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "The altercation at the Karnataka Youth Congress meeting almost came close to what physical action?",
-        "a": "Fist fight",
+        "q": "Which Supreme Court Justice authored the judgment upholding bail for K.A. Najeeb, emphasizing speedy justice?",
+        "a": "Surya Kant",
         "options": [
-            "A handshake agreement",
-            "A protest march",
-            "A formal debate",
-            "A fist fight",
-            "A singing competition"
+            "N.V. Ramana",
+            "B.V. Nagarathna",
+            "Aravind Kumar",
+            "P.B. Varale",
+            "Surya Kant"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "Which of the following types of public institutions was explicitly mentioned in the SC's November 2025 order regarding stray dogs?",
-        "a": "Railway stations",
+        "q": "Who is the digital journalist specializing in international and geopolitical issues mentioned in the news text?",
+        "a": "Swati Gandhi",
         "options": [
-            "National parks",
-            "Private offices",
-            "Religious places",
-            "Railway stations",
-            "Shopping malls"
+            "Rebecca John",
+            "Sanchit Garga",
+            "Swati Gandhi",
+            "Janet Yellen",
+            "Christine Lagarde"
         ],
-        "cat": "Where"
+        "cat": "Who"
     },
     {
-        "q": "What was the nature of the notice issued by Paramotor Digital Technology Ltd. regarding its DRHP filing?",
-        "a": "Public notice",
+        "q": "The Federal Open Market Committee (FOMC) meeting discussed the impact of an ongoing war in which country on inflation?",
+        "a": "Iran",
         "options": [
-            "Confidential memo",
-            "Internal circular",
-            "Private notification",
-            "Public notice",
-            "Regulatory warning"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court dismissed pleas challenging the validity of SOPs issued by the Animal Welfare Board of India related to what?",
-        "a": "Stray animals",
-        "options": [
-            "Livestock breeding",
-            "Pet shop regulations",
-            "Wildlife protection",
-            "Stray animals",
-            "Zoo management"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Paramotor Digital Technology Ltd. filed its DRHP under which specific route?",
-        "a": "Pre-filing route",
-        "options": [
-            "Fast-track route",
-            "Standard filing route",
-            "Expedited route",
-            "Pre-filing route",
-            "Direct listing route"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What term did the Supreme Court use to describe the unevenness in the implementation of the Animal Birth Control (ABC) framework?",
-        "a": "Across jurisdictions",
-        "options": [
-            "Within states",
-            "Among cities",
-            "Across districts",
-            "Across jurisdictions",
-            "Between rural and urban areas"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does the abbreviation 'DRHP' stand for in the context of capital markets?",
-        "a": "Draft Red Herring Prospectus",
-        "options": [
-            "Digital Regulatory Holding Protocol",
-            "Developing Revenue-Generating Projects",
-            "Draft Red Herring Prospectus",
-            "Direct Retail Holdings Portfolio",
-            "Data Reporting and High Performance"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does 'IPO' stand for in the context of stock markets?",
-        "a": "Initial Public Offering",
-        "options": [
-            "Internal Profit Optimization",
-            "Indian Private Ownership",
-            "International Payment Operations",
-            "Initial Public Offering",
-            "Investment Portfolio Opportunity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which specific office was the venue for the Karnataka Youth Congress meeting on May 18?",
-        "a": "KPCC office",
-        "options": [
-            "Vidhana Soudha",
-            "Mysore Palace",
-            "Town Hall",
-            "KPCC office",
-            "Gandhi Bhavan"
+            "Iraq",
+            "Syria",
+            "Afghanistan",
+            "Iran",
+            "Yemen"
         ],
         "cat": "Where"
     },
     {
-        "q": "What attitude of State Youth Congress president H.N. Manjunath Gowda was condemned by upset workers?",
-        "a": "Dictatorial attitude",
+        "q": "The Delhi riots accused Tasleem Ahmed and Abdul Khalid Saifi challenged an order refusing them bail from which High Court?",
+        "a": "Delhi High Court",
         "options": [
-            "Democratic attitude",
-            "Collaborative attitude",
-            "Lenient attitude",
-            "Dictatorial attitude",
-            "Indifferent attitude"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What did a person from H.N. Manjunath Gowda's faction question about the suspended leaders who sought an explanation?",
-        "a": "Their locus standi",
-        "options": [
-            "Their educational qualifications",
-            "Their financial background",
-            "Their attendance record at other events",
-            "Their locus standi",
-            "Their social media presence"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court refused to modify its order for the removal of stray dogs from which of the following?",
-        "a": "Bus stations",
-        "options": [
-            "Private residences",
-            "Shopping malls",
-            "Botanical gardens",
-            "Bus stations",
-            "Farmhouses"
+            "Bombay High Court",
+            "Madras High Court",
+            "Delhi High Court",
+            "Calcutta High Court",
+            "Allahabad High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "What kind of altercation broke out between the two factions at the Karnataka Youth Congress meeting?",
-        "a": "Verbal altercation",
-        "options": [
-            "Formal debate",
-            "Peaceful dialogue",
-            "Collaborative discussion",
-            "Verbal altercation",
-            "Mediation session"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What objects were pushed around by workers during the heated altercation at the Youth Congress meeting?",
-        "a": "Chairs",
-        "options": [
-            "Tables",
-            "Mics",
-            "Files",
-            "Chairs",
-            "Banners"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What type of notice did Paramotor Digital Technology Ltd. issue regarding its confidential DRHP filing?",
-        "a": "Public notice",
-        "options": [
-            "Confidential advisory",
-            "Internal memo",
-            "Private disclosure",
-            "Public notice",
-            "Regulatory alert"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What did the Supreme Court refuse to modify regarding its November 2025 order?",
-        "a": "To remove stray dogs from public institutions",
-        "options": [
-            "To provide vaccinations for all stray animals",
-            "To establish more animal shelters nationwide",
-            "To impose stricter penalties on animal cruelty",
-            "To remove stray dogs from public institutions",
-            "To ban all pet ownership in residential areas"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the general status of the Animal Birth Control (ABC) framework as described by the Supreme Court?",
-        "a": "Sporadic, underfunded and uneven across jurisdictions",
-        "options": [
-            "Well-organized, adequately funded and uniformly implemented",
-            "Sporadic, underfunded and uneven across jurisdictions",
-            "Pilot project based, privately funded and regionally successful",
-            "Government-controlled, community-supported and highly efficient",
-            "Externally monitored, globally financed and consistently applied"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific business vertical of Paramotor Digital Technology Ltd. focuses on enterprise technology and software development services?",
-        "a": "DevStack",
-        "options": [
-            "SpendPro",
-            "RewardOn",
-            "yayyy.shop",
-            "DevStack",
-            "TechBuild"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The meeting by Karnataka Youth Congress was held at the KPCC office located in which specific city?",
+        "q": "The Supreme Court discussed the conduct of civic polls in which Indian city, granting an extension to the state government?",
         "a": "Bengaluru",
         "options": [
-            "Mysuru",
-            "Mangaluru",
-            "Hubballi",
+            "Mumbai",
+            "Chennai",
+            "Hyderabad",
             "Bengaluru",
-            "Belagavi"
+            "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "What kind of technological ecosystem does Paramotor Digital Technology Ltd. operate?",
-        "a": "Fintech and enterprise technology",
+        "q": "The case where the Supreme Court upheld bail for an individual booked under UAPA involved a brutal attack on a college professor in which Indian state?",
+        "a": "Kerala",
         "options": [
-            "Biotechnology and healthcare",
-            "Automotive and aerospace",
-            "Renewable energy and sustainability",
-            "Fintech and enterprise technology",
-            "Agricultural and food processing"
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Kerala",
+            "Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where did journalist Swati Gandhi previously work before joining Live Mint?",
+        "a": "Business Standard",
+        "options": [
+            "The Hindu",
+            "Times of India",
+            "Indian Express",
+            "Business Standard",
+            "Mint"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "From which university did Swati Gandhi obtain her Bachelor's degree in English (Honours)?",
+        "a": "University of Delhi",
+        "options": [
+            "Jawaharlal Nehru University",
+            "Jamia Millia Islamia",
+            "University of Delhi",
+            "Amity University",
+            "Mumbai University"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "From which university did Swati Gandhi obtain her Master's degree in Journalism and Mass Communication?",
+        "a": "Guru Gobind Singh Indraprastha University",
+        "options": [
+            "Delhi University",
+            "Jawaharlal Nehru University",
+            "Guru Gobind Singh Indraprastha University",
+            "Indian Institute of Mass Communication",
+            "Symbiosis Institute of Media and Communication"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which region did a flare-up of tensions contribute to investor concerns regarding geopolitical risk and oil price sensitivity?",
+        "a": "West Asia",
+        "options": [
+            "East Asia",
+            "North Africa",
+            "South America",
+            "West Asia",
+            "Eastern Europe"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The US President appointed Kevin Warsh to head which central bank?",
+        "a": "US central bank",
+        "options": [
+            "European Central Bank",
+            "Bank of England",
+            "Bank of Japan",
+            "US central bank",
+            "Reserve Bank of India"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The discussion on bail under UAPA referenced the 'Union of India v. K.A. Najeeb' case. In which High Court was Najeeb originally granted bail?",
+        "a": "Kerala High Court",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Kerala High Court",
+            "Madras High Court",
+            "Karnataka High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which university was associated with scholars Umar Khalid and Sharjeel Imam, mentioned in the context of Delhi riots bail cases?",
+        "a": "Jawaharlal Nehru University",
+        "options": [
+            "University of Delhi",
+            "Aligarh Muslim University",
+            "Jawaharlal Nehru University",
+            "Banaras Hindu University",
+            "Jamia Millia Islamia"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "At which publication does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
+        "a": "Live Mint",
+        "options": [
+            "Business Standard",
+            "The Economic Times",
+            "Live Mint",
+            "Financial Express",
+            "The Wall Street Journal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The FOMC meeting where four dissenting votes were recorded marked the highest disagreement since which year?",
+        "a": "1992",
+        "options": [
+            "1988",
+            "1990",
+            "1992",
+            "1994",
+            "1996"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When does market pricing suggest the Federal Reserve's next rate hike could potentially occur?",
+        "a": "Late 2026 or early 2027",
+        "options": [
+            "Early 2025",
+            "Mid 2025",
+            "Late 2026 or early 2027",
+            "Mid 2027",
+            "Early 2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did Bloomberg News report that the RBI was considering options to stabilize the rupee?",
+        "a": "Thursday (May 21, 2026)",
+        "options": [
+            "Monday (May 18, 2026)",
+            "Tuesday (May 19, 2026)",
+            "Wednesday (May 20, 2026)",
+            "Thursday (May 21, 2026)",
+            "Friday (May 22, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the rupee make a new low of 96.95?",
+        "a": "Wednesday (May 20, 2026)",
+        "options": [
+            "Tuesday (May 19, 2026)",
+            "Wednesday (May 20, 2026)",
+            "Thursday (May 21, 2026)",
+            "Friday (May 22, 2026)",
+            "Monday (May 25, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Delhi High Court issue the order refusing bail to Tasleem Ahmed and Abdul Khalid Saifi, which they later challenged in the Supreme Court?",
+        "a": "September 2, 2025",
+        "options": [
+            "August 15, 2025",
+            "September 2, 2025",
+            "October 10, 2025",
+            "November 5, 2025",
+            "December 1, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Supreme Court deny bail to Umar Khalid and Sharjeel Imam while granting relief to five other co-accused in a Delhi riots case?",
+        "a": "January 5, 2026",
+        "options": [
+            "December 20, 2025",
+            "January 5, 2026",
+            "February 10, 2026",
+            "March 1, 2026",
+            "April 15, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court adjourned the hearing for Tasleem Ahmed and Abdul Khalid Saifi's bail pleas to which date?",
+        "a": "May 22",
+        "options": [
+            "May 20",
+            "May 21",
+            "May 22",
+            "May 23",
+            "May 24"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the original deadline for conducting civic polls in Bengaluru as mentioned by the Supreme Court?",
+        "a": "June 30",
+        "options": [
+            "May 31",
+            "June 15",
+            "June 30",
+            "July 15",
+            "July 31"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court extended the deadline for Bengaluru civic polls to which date?",
+        "a": "August 31",
+        "options": [
+            "July 31",
+            "August 15",
+            "August 31",
+            "September 15",
+            "September 30"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the brutal attack on Professor T.J. Joseph occur?",
+        "a": "2010",
+        "options": [
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was K.A. Najeeb, accused in the Professor T.J. Joseph attack case, arrested after absconding?",
+        "a": "2015",
+        "options": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When were the charges framed in the K.A. Najeeb UAPA case?",
+        "a": "November 27, 2020",
+        "options": [
+            "October 15, 2020",
+            "November 10, 27 2020",
+            "November 27, 2020",
+            "December 1, 2020",
+            "January 1, 2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason stated by Federal Reserve officials for potentially requiring further interest rate hikes?",
+        "a": "If the ongoing Iran war keeps pushing inflation higher",
+        "options": [
+            "To stimulate economic growth",
+            "To reduce unemployment rates",
+            "If the ongoing Iran war keeps pushing inflation higher",
+            "To increase consumer spending",
+            "To stabilize bond markets"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the Supreme Court's stance on modifying its November 2025 order concerning stray dogs in public institutions?",
-        "a": "Refused to modify",
+        "q": "What is the dual goal that the Federal Reserve continues to pursue amidst the ongoing conflict?",
+        "a": "Maximum employment and price stability",
         "options": [
-            "Agreed to review",
-            "Modified partially",
-            "Reversed entirely",
-            "Refused to modify",
-            "Postponed decision"
+            "High GDP growth and low interest rates",
+            "Increased exports and reduced imports",
+            "Maximum employment and price stability",
+            "Fiscal consolidation and debt reduction",
+            "Financial sector regulation and oversight"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which of Paramotor's solutions is specifically designed for enterprise rewards and loyalty management?",
-        "a": "RewardOn",
+        "q": "Why did many FOMC participants prefer removing language from the post-meeting statement that suggested an easing bias?",
+        "a": "To maintain flexibility for future rate decisions, including hikes",
         "options": [
-            "SpendPro",
-            "LoyaltyGenius",
-            "GiftingHub",
-            "DevStack",
-            "RewardOn"
+            "To signal a stronger commitment to rate cuts",
+            "To avoid confusing market participants about future policy",
+            "To maintain flexibility for future rate decisions, including hikes",
+            "To indicate an immediate need for further tightening",
+            "To align with President Trump's expectations for rate cuts"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific type of platform is Paramotor's 'SpendPro'?",
-        "a": "Prepaid card-based spend management platform",
+        "q": "What is the main purpose of the Reserve Bank of India (RBI) considering various options, including an interest rate hike?",
+        "a": "To stabilise the rupee",
         "options": [
-            "Equity trading platform",
-            "Cryptocurrency exchange platform",
-            "Online banking platform",
-            "Prepaid card-based spend management platform",
-            "Personal loan application platform"
+            "To boost industrial production",
+            "To control fiscal deficit",
+            "To stabilise the rupee",
+            "To reduce unemployment",
+            "To increase foreign exchange reserves"
         ],
         "cat": "Why"
     },
     {
-        "q": "Paramotor's 'yayyy.shop' serves as what kind of marketplace?",
-        "a": "Direct-to-consumer digital gifting marketplace",
+        "q": "Why did the Delhi Police seek an adjournment for the bail pleas of Tasleem Ahmed and Abdul Khalid Saifi in the Supreme Court?",
+        "a": "To allow the Additional Solicitor General more time to present arguments.",
         "options": [
-            "Business-to-business procurement platform",
-            "Consumer electronics retail platform",
-            "Luxury goods auction site",
-            "Direct-to-consumer digital gifting marketplace",
-            "Local artisan craft store"
+            "To allow the accused to gather more evidence",
+            "To facilitate a settlement between parties",
+            "To allow the Additional Solicitor General more time to present arguments.",
+            "To wait for a larger Bench to be constituted",
+            "To review the case in light of new evidence"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which category of services does Paramotor's business span, besides consumer spend management and rewards?",
-        "a": "Digital gifting and enterprise technology services",
+        "q": "What does the acronym UAPA stand for in the context of the anti-terror laws mentioned in the news?",
+        "a": "Unlawful Activities (Prevention) Act",
         "options": [
-            "Healthcare diagnostics and consultations",
-            "Real estate and property management",
-            "Logistics and supply chain optimization",
-            "Digital gifting and enterprise technology services",
-            "Agricultural produce and distribution"
+            "Unilateral Action Protection Act",
+            "United Anti-terrorism Prevention Act",
+            "Unlawful Activities (Prevention) Act",
+            "Uniform Anti-harassment Policy Act",
+            "Universal Aviation Protocol Act"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Supreme Court noted the Animal Birth Control (ABC) framework's implementation was largely 'sporadic', meaning it lacked what?",
-        "a": "Regularity and consistency",
+        "q": "What was the primary reason cited by the Karnataka government and KSEC for requesting an extension for the Bengaluru civic polls?",
+        "a": "Manpower problems due to Census and Special Intensive Revision of electoral rolls",
         "options": [
-            "Sufficient funding",
-            "Clear legal directives",
-            "Public support",
-            "Regularity and consistency",
-            "International oversight"
+            "Lack of financial resources",
+            "Political instability in the state",
+            "Manpower problems due to Census and Special Intensive Revision of electoral rolls",
+            "Ongoing public holidays and festivals",
+            "Concerns about voter turnout"
         ],
         "cat": "Why"
     },
     {
-        "q": "Which types of customers does Paramotor's diversified fintech and enterprise technology ecosystem serve?",
-        "a": "Both consumers and businesses",
+        "q": "What principle did the Supreme Court uphold in the K.A. Najeeb judgment regarding prolonged incarceration under stringent laws like UAPA?",
+        "a": "Prolonged incarceration and delay in trial could override the stringent bail bar.",
         "options": [
-            "Only large corporations",
-            "Only individual users",
-            "Only government agencies",
-            "Both consumers and businesses",
-            "Only small and medium enterprises"
+            "Bail is strictly prohibited for UAPA accused",
+            "The trial must be completed within one year",
+            "Prolonged incarceration and delay in trial could override the stringent bail bar.",
+            "Accused must remain in custody until all witnesses are examined",
+            "Bail is only granted in cases of minor offenses"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "The State Youth Congress workers were upset over the recent suspension of people, condemning whose 'dictatorial' attitude?",
-        "a": "H.N. Manjunath Gowda",
+        "q": "What specific right does delayed trial and prolonged incarceration violate, as stated in the K.A. Najeeb judgment?",
+        "a": "Right to life and dignity under Article 21",
         "options": [
-            "Deepika Reddy",
-            "Nigam Bhandary",
-            "Rahul Anand",
-            "H.N. Manjunath Gowda",
-            "Sonia Asher"
+            "Right to freedom of speech under Article 19",
+            "Right to equality under Article 14",
+            "Right to property under Article 300A",
+            "Right to life and dignity under Article 21",
+            "Right to education under Article 21A"
         ],
-        "cat": "Who"
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary focus of journalist Swati Gandhi's work at Live Mint?",
+        "a": "International and geopolitical issues through a business and economic lens.",
+        "options": [
+            "Domestic policy and national affairs",
+            "Sports and entertainment news",
+            "Local community events and issues",
+            "International and geopolitical issues through a business and economic lens.",
+            "Technology and innovation trends"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What does Swati Gandhi believe strongly in as her approach to journalism?",
+        "a": "Context-driven reporting",
+        "options": [
+            "Opinion-based analysis",
+            "Sensationalist headlines",
+            "Context-driven reporting",
+            "Purely statistical data presentation",
+            "Interview-only formats"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did Swati Gandhi's academic training in Journalism and Mass Communication emphasize?",
+        "a": "Precision, analytical rigour, and clarity in writing",
+        "options": [
+            "Speed and brevity in reporting",
+            "Creative storytelling and narrative",
+            "Precision, analytical rigour, and clarity in writing",
+            "Broadcast journalism techniques",
+            "Public relations and media management"
+        ],
+        "cat": "Why"
     }
 ]
