@@ -1,18 +1,558 @@
 [
     {
-        "q": "What is the current benchmark interest rate range maintained by the Federal Open Market Committee (FOMC)?",
-        "a": "3.5 per cent to 3.75 per cent",
+        "q": "What was the total sentence in months handed to Aimee Bock, the ringleader of the Feeding Our Future fraud scheme?",
+        "a": "500 months",
         "options": [
-            "3.0 per cent to 3.25 per cent",
-            "3.25 per cent to 3.5 per cent",
-            "3.5 per cent to 3.75 per cent",
-            "3.75 per cent to 4.0 per cent",
-            "4.0 per cent to 4.25 per cent"
+            "480 months",
+            "520 months",
+            "500 months",
+            "490 months",
+            "510 months"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many dissenting votes were recorded at the latest FOMC meeting, marking the highest since 1992?",
+        "q": "How much was Aimee Bock ordered to repay to the federal government?",
+        "a": "$243 million",
+        "options": [
+            "$240 million",
+            "$250 million",
+            "$243 million",
+            "$235 million",
+            "$248 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was convicted as the ringleader of the \"Feeding Our Future\" fraud scheme?",
+        "a": "Aimee Bock",
+        "options": [
+            "Rebeca Kline",
+            "Swati Gandhi",
+            "Aimee Bock",
+            "Akash",
+            "Prashanth"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which US state was Aimee Bock sentenced for the \"Feeding Our Future\" fraud scheme?",
+        "a": "Minnesota",
+        "options": [
+            "California",
+            "Texas",
+            "Minnesota",
+            "New York",
+            "Florida"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the primary purpose of the federal child nutrition program that Aimee Bock defrauded?",
+        "a": "To provide free meals to low-income children and adults",
+        "options": [
+            "To fund educational scholarships",
+            "To provide free meals to low-income children and adults",
+            "To support local businesses",
+            "To develop community infrastructure",
+            "To offer tax advice"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the estimated total amount of money the \"Feeding Our Future\" organization defrauded from the federal child nutrition program?",
+        "a": "$250 million",
+        "options": [
+            "$200 million",
+            "$243 million",
+            "$250 million",
+            "$300 million",
+            "$190 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what year did the amount connected to \"Feeding Our Future\" surge to approximately $200 million?",
+        "a": "2021",
+        "options": [
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What percentage of administrative fees did \"Feeding Our Future\" allegedly collect from fraudulent reimbursement requests?",
+        "a": "10-15 percent",
+        "options": [
+            "5-10 percent",
+            "10-15 percent",
+            "15-20 percent",
+            "20-25 percent",
+            "8-12 percent"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many daily meals did one organization claim to serve in January 2021 before it dramatically surged to a higher figure?",
+        "a": "300 children",
+        "options": [
+            "250 children",
+            "300 children",
+            "350 children",
+            "400 children",
+            "200 children"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "To what figure did the daily meal claims of one organization surge by February 2021?",
+        "a": "3,290 daily meals",
+        "options": [
+            "2,500 daily meals",
+            "3,000 daily meals",
+            "3,290 daily meals",
+            "3,500 daily meals",
+            "4,000 daily meals"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the approximate amount of reimbursements received by the organization mentioned in the FBI affidavit in that year?",
+        "a": "$3.6 million",
+        "options": [
+            "$3.0 million",
+            "$3.2 million",
+            "$3.6 million",
+            "$4.0 million",
+            "$3.8 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the Assistant US Attorney who stated that Aimee Bock \"orchestrated\" the fraud?",
+        "a": "Rebeca Kline",
+        "options": [
+            "Swati Gandhi",
+            "Aimee Bock",
+            "Rebeca Kline",
+            "Pronab Mohanty",
+            "Arvind Panagariya"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What prison sentence did prosecutors seek for Aimee Bock?",
+        "a": "50 years",
+        "options": [
+            "40 years",
+            "45 years",
+            "50 years",
+            "30 years",
+            "60 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the chairman of the Sixteenth Finance Commission who commented on the rupee depreciation?",
+        "a": "Arvind Panagariya",
+        "options": [
+            "Shaktikanta Das",
+            "Nirmala Sitharaman",
+            "Arvind Panagariya",
+            "Raghuram Rajan",
+            "Urjit Patel"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "According to Arvind Panagariya, what should the RBI not let prevent it from letting the exchange rate fall?",
+        "a": "Psychology of \u20b9100 per dollar",
+        "options": [
+            "Inflation concerns",
+            "Psychology of \u20b9100 per dollar",
+            "Foreign capital outflows",
+            "Interest rate differentials",
+            "Government pressure"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date did Arvind Panagariya make his statement regarding the rupee's exchange rate?",
+        "a": "May 21, 2026",
+        "options": [
+            "May 20, 2026",
+            "May 21, 2026",
+            "May 22, 2026",
+            "May 15, 2026",
+            "June 1, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "To what level did the rupee nearly touch against a dollar in intraday trade on May 21, 2026?",
+        "a": "\u20b997",
+        "options": [
+            "\u20b995",
+            "\u20b996",
+            "\u20b997",
+            "\u20b998",
+            "\u20b999"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What reason did Arvind Panagariya give for India being well-positioned to absorb some inflationary pressure accompanying rupee depreciation?",
+        "a": "Prudent monetary management by RBI resulting in low inflation",
+        "options": [
+            "High foreign exchange reserves",
+            "Prudent monetary management by RBI resulting in low inflation",
+            "Strong economic growth",
+            "Increased exports",
+            "Reduced import bill"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which district of Madhya Pradesh is the Adani Group\u2019s coal block project located?",
+        "a": "Singrauli",
+        "options": [
+            "Bhopal",
+            "Indore",
+            "Singrauli",
+            "Jabalpur",
+            "Gwalior"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the Supreme Court decline to interfere with the environmental clearances for the Adani Group project?",
+        "a": "May 21, 2026",
+        "options": [
+            "May 20, 2026",
+            "May 21, 2026",
+            "May 22, 2026",
+            "April 22, 2026",
+            "January 22, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which subsidiary of Adani Power was granted environmental clearance for the coal block project?",
+        "a": "Mahan Energen Ltd.",
+        "options": [
+            "Adani Green Energy",
+            "Adani Transmission",
+            "Mahan Energen Ltd.",
+            "Adani Enterprises",
+            "Adani Ports"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "When was the environmental clearance for Mahan Energen Ltd. originally granted by the statutory authority?",
+        "a": "May 2025",
+        "options": [
+            "March 2025",
+            "April 2025",
+            "May 2025",
+            "June 2025",
+            "July 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Who filed the plea challenging the environmental clearances for the Adani Group\u2019s project?",
+        "a": "Ajay Dubey",
+        "options": [
+            "A.N.S. Nadkarni",
+            "Siddharth Gupta",
+            "Ajay Dubey",
+            "P.S. Narasimha",
+            "Alok Aradhe"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many days is the ordinary limitation period to challenge orders under Section 16 of the National Green Tribunal Act, 2010?",
+        "a": "30 days",
+        "options": [
+            "15 days",
+            "30 days",
+            "45 days",
+            "60 days",
+            "90 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the maximum permissible extension period beyond the ordinary limitation under the NGT Act?",
+        "a": "60 days",
+        "options": [
+            "15 days",
+            "30 days",
+            "60 days",
+            "90 days",
+            "45 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many lakh trees would be felled by the Adani Group project, as argued by the petitioner?",
+        "a": "6 lakh",
+        "options": [
+            "4 lakh",
+            "5 lakh",
+            "6 lakh",
+            "7 lakh",
+            "8 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Across approximately how many square kilometres of dense evergreen forest would the Adani Group project lead to felling of trees?",
+        "a": "27 square kilometres",
+        "options": [
+            "20 square kilometres",
+            "25 square kilometres",
+            "27 square kilometres",
+            "30 square kilometres",
+            "35 square kilometres"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "When was the forest clearance for the Adani Group project uploaded on the website of the Union Ministry of Environment, Forest and Climate Change (MoEF&CC)?",
+        "a": "May 10, 2025",
+        "options": [
+            "May 1, 2025",
+            "May 5, 2025",
+            "May 10, 2025",
+            "May 15, 2025",
+            "May 20, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the approximate number of trees highlighted in newspaper reports in December 2025 as being subject to large-scale deforestation?",
+        "a": "70,000 trees",
+        "options": [
+            "50,000 trees",
+            "60,000 trees",
+            "70,000 trees",
+            "80,000 trees",
+            "90,000 trees"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the area of reserved dense forest land allocated for the coal block project to an Adani Power subsidiary?",
+        "a": "1,397.54 hectares",
+        "options": [
+            "1,200.54 hectares",
+            "1,300.54 hectares",
+            "1,397.54 hectares",
+            "1,400.54 hectares",
+            "1,500.54 hectares"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What criterion did the MoEF&CC use to classify certain areas as \"no-go areas\" for coal mining during 2011-12?",
+        "a": "High forest density and canopy cover above 0.40\u20130.50",
+        "options": [
+            "Economic backwardness",
+            "High population density",
+            "High forest density and canopy cover above 0.40\u20130.50",
+            "Proximity to urban centers",
+            "Presence of rare mineral deposits"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which period did the MoEF&CC classify certain dense forest areas in MP and Chhattisgarh as \"no-go areas\"?",
+        "a": "2011-12",
+        "options": [
+            "2008-09",
+            "2010-11",
+            "2011-12",
+            "2013-14",
+            "2015-16"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which Indian city were four fake call centres busted for cheating U.S. citizens?",
+        "a": "Bengaluru",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Who heads the Karnataka State Cyber Command?",
+        "a": "Pronab Mohanty",
+        "options": [
+            "Prashanth",
+            "Akash",
+            "Pronab Mohanty",
+            "Aimee Bock",
+            "Ajay Dubey"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Name one of the arrested accused from Uttar Pradesh in the Bengaluru fake call centre scam.",
+        "a": "Akash",
+        "options": [
+            "Prashanth",
+            "Akash",
+            "Mohanty",
+            "Singh",
+            "Verma"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Name one of the arrested accused from Delhi in the Bengaluru fake call centre scam.",
+        "a": "Prashanth",
+        "options": [
+            "Akash",
+            "Prashanth",
+            "Mohanty",
+            "Gupta",
+            "Sharma"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many SSDs were seized during the raids on the fake call centres in Bengaluru?",
+        "a": "44",
+        "options": [
+            "34",
+            "38",
+            "44",
+            "48",
+            "54"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many CPUs were seized during the raids on the fake call centres in Bengaluru?",
+        "a": "9",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "11",
+            "13"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many employees were reportedly working for the fake call centre operation busted in Bengaluru?",
+        "a": "120",
+        "options": [
+            "80",
+            "100",
+            "120",
+            "150",
+            "180"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For how many years had the fake call centre racket in Bengaluru allegedly been functioning?",
+        "a": "Four years",
+        "options": [
+            "Two years",
+            "Three years",
+            "Four years",
+            "Five years",
+            "Six years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the amount of financial transactions exceeding in the last few months alone for the fake call centre racket in Bengaluru?",
+        "a": "\u20b940 crore",
+        "options": [
+            "\u20b920 crore",
+            "\u20b930 crore",
+            "\u20b940 crore",
+            "\u20b950 crore",
+            "\u20b960 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What method did the accused use to siphon off large sums of money obtained from U.S. citizens in the Bengaluru call centre scam?",
+        "a": "Multiple shell companies",
+        "options": [
+            "Direct bank transfers",
+            "Cryptocurrency investments",
+            "Multiple shell companies",
+            "Physical cash withdrawals",
+            "International wire transfers"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Which body announced polls for 24 Rajya Sabha seats?",
+        "a": "Election Commission of India (ECI)",
+        "options": [
+            "Parliament of India",
+            "Prime Minister's Office",
+            "Election Commission of India (ECI)",
+            "Supreme Court of India",
+            "Ministry of Home Affairs"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "How many Rajya Sabha seats were announced for polls by the ECI?",
+        "a": "24",
+        "options": [
+            "20",
+            "22",
+            "24",
+            "26",
+            "28"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "On what date did the Election Commission of India announce the polls for 24 Rajya Sabha seats?",
+        "a": "May 22, 2026",
+        "options": [
+            "May 20, 2026",
+            "May 21, 2026",
+            "May 22, 2026",
+            "June 8, 2026",
+            "June 18, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When will the elections for the 24 Rajya Sabha seats be held?",
+        "a": "June 18",
+        "options": [
+            "June 8",
+            "June 15",
+            "June 18",
+            "June 21",
+            "July 19"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many seats each will have elections in Andhra Pradesh, Gujarat and Karnataka for the Rajya Sabha polls?",
         "a": "Four",
         "options": [
             "Two",
@@ -24,699 +564,159 @@
         "cat": "Amount"
     },
     {
-        "q": "What is the Federal Reserve's target inflation rate?",
-        "a": "Two per cent",
+        "q": "How many seats each will have elections in Madhya Pradesh and Rajasthan for the Rajya Sabha polls?",
+        "a": "Three",
         "options": [
-            "1.5 per cent",
-            "1.8 per cent",
-            "2.0 per cent",
-            "2.2 per cent",
-            "2.5 per cent"
+            "Two",
+            "Three",
+            "Four",
+            "One",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to Goldman Sachs, what annual rate is the Fed\u2019s main inflation gauge expected to show for April?",
-        "a": "3.3 per cent",
+        "q": "What is the last date for filing nominations for the upcoming Rajya Sabha elections?",
+        "a": "June 8",
         "options": [
-            "3.0 per cent",
-            "3.1 per cent",
-            "3.3 per cent",
-            "3.5 per cent",
-            "3.7 per cent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the rupee's new all-time low value recorded on Wednesday, May 20, 2026?",
-        "a": "96.95",
-        "options": [
-            "96.85",
-            "96.90",
-            "96.95",
-            "97.00",
-            "97.05"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the rupee's new closing low value recorded on Wednesday, May 20, 2026?",
-        "a": "96.86",
-        "options": [
-            "96.76",
-            "96.81",
-            "96.86",
-            "96.91",
-            "96.96"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By how many paise did the rupee recover from its all-time closing low in early trade on Thursday, May 21, 2026?",
-        "a": "41 paise",
-        "options": [
-            "35 paise",
-            "38 paise",
-            "41 paise",
-            "44 paise",
-            "47 paise"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the opening value of the rupee against the U.S. dollar at the interbank foreign exchange market on Thursday, May 21, 2026?",
-        "a": "96.25",
-        "options": [
-            "96.15",
-            "96.20",
-            "96.25",
-            "96.30",
-            "96.35"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many months of extension did the Supreme Court grant to the Karnataka government for conducting Bengaluru civic polls?",
-        "a": "Two months",
-        "options": [
-            "One month",
-            "Two months",
-            "Three months",
-            "Four months",
-            "Five months"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many additional witnesses does the National Investigation Agency (NIA) still need to examine in the K.A. Najeeb UAPA case?",
-        "a": "276",
-        "options": [
-            "250",
-            "265",
-            "276",
-            "285",
-            "290"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For how many years had K.A. Najeeb languished in jail as an undertrial before being granted bail by the Kerala High Court?",
-        "a": "More than five years",
-        "options": [
-            "More than three years",
-            "More than four years",
-            "More than five years",
-            "More than six years",
-            "More than seven years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the maximum rigorous imprisonment sentence received by other convicted co-accused in the Professor T.J. Joseph attack case?",
-        "a": "Eight years",
-        "options": [
-            "Six years",
-            "Seven years",
-            "Eight years",
-            "Nine years",
-            "Ten years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who chaired the Federal Open Market Committee (FOMC) meeting described in the news, marking his last time in that role?",
-        "a": "Jerome Powell",
-        "options": [
-            "Kevin Warsh",
-            "Donald Trump",
-            "Sanjay Malhotra",
-            "Jerome Powell",
-            "N.V. Ramana"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who did President Donald Trump appoint to head the US central bank after a lengthy campaign?",
-        "a": "Kevin Warsh",
-        "options": [
-            "Jerome Powell",
-            "Janet Yellen",
-            "Kevin Warsh",
-            "Ben Bernanke",
-            "Paul Volcker"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Governor of the Reserve Bank of India (RBI) mentioned in the Bloomberg News report?",
-        "a": "Sanjay Malhotra",
-        "options": [
-            "Raghuram Rajan",
-            "Shaktikanta Das",
-            "Urjit Patel",
-            "Sanjay Malhotra",
-            "Montek Singh Ahluwalia"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who are the two 2020 Delhi riots accused whose bail pleas were heard by the Supreme Court?",
-        "a": "Tasleem Ahmed and Abdul Khalid Saifi",
-        "options": [
-            "Umar Khalid and Sharjeel Imam",
-            "Tasleem Ahmed and Abdul Khalid Saifi",
-            "K.A. Najeeb and T.J. Joseph",
-            "Rebecca John and Mehmood Pracha",
-            "Aravind Kumar and P.B. Varale"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who appeared as the Additional Solicitor General for the Delhi Police in the Supreme Court for the Delhi riots bail pleas?",
-        "a": "S.V. Raju",
-        "options": [
-            "Rebecca John",
-            "Mehmood Pracha",
-            "S.V. Raju",
-            "A.M. Singhvi",
-            "Sanchit Garga"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Supreme Court Justice heads the three-judge Bench that heard the Bengaluru civic polls extension plea and remarked on 'delaying tactics'?",
-        "a": "Surya Kant",
-        "options": [
-            "N.V. Ramana",
-            "B.V. Nagarathna",
-            "Aravind Kumar",
-            "P.B. Varale",
-            "Surya Kant"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Senior advocate representing Karnataka in the Supreme Court regarding the Bengaluru civic polls extension?",
-        "a": "A.M. Singhvi",
-        "options": [
-            "Sanchit Garga",
-            "A.M. Singhvi",
-            "S.V. Raju",
-            "Rebecca John",
-            "Mehmood Pracha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the professor attacked in Kerala whose case led to the Supreme Court upholding bail under UAPA?",
-        "a": "T.J. Joseph",
-        "options": [
-            "Umar Khalid",
-            "Sharjeel Imam",
-            "K.A. Najeeb",
-            "T.J. Joseph",
-            "Tasleem Ahmed"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What organization were the assailants of Professor T.J. Joseph allegedly members of?",
-        "a": "Popular Front of India (PFI)",
-        "options": [
-            "National Investigation Agency (NIA)",
-            "Federal Open Market Committee (FOMC)",
-            "Popular Front of India (PFI)",
-            "Reserve Bank of India (RBI)",
-            "Karnataka State Election Commission (KSEC)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the accused whose bail under UAPA was upheld by the Supreme Court in connection with the attack on Professor T.J. Joseph?",
-        "a": "K.A. Najeeb",
-        "options": [
-            "Tasleem Ahmed",
-            "Abdul Khalid Saifi",
-            "Umar Khalid",
-            "Sharjeel Imam",
-            "K.A. Najeeb"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Supreme Court Justice authored the judgment upholding bail for K.A. Najeeb, emphasizing speedy justice?",
-        "a": "Surya Kant",
-        "options": [
-            "N.V. Ramana",
-            "B.V. Nagarathna",
-            "Aravind Kumar",
-            "P.B. Varale",
-            "Surya Kant"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the digital journalist specializing in international and geopolitical issues mentioned in the news text?",
-        "a": "Swati Gandhi",
-        "options": [
-            "Rebecca John",
-            "Sanchit Garga",
-            "Swati Gandhi",
-            "Janet Yellen",
-            "Christine Lagarde"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The Federal Open Market Committee (FOMC) meeting discussed the impact of an ongoing war in which country on inflation?",
-        "a": "Iran",
-        "options": [
-            "Iraq",
-            "Syria",
-            "Afghanistan",
-            "Iran",
-            "Yemen"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Delhi riots accused Tasleem Ahmed and Abdul Khalid Saifi challenged an order refusing them bail from which High Court?",
-        "a": "Delhi High Court",
-        "options": [
-            "Bombay High Court",
-            "Madras High Court",
-            "Delhi High Court",
-            "Calcutta High Court",
-            "Allahabad High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court discussed the conduct of civic polls in which Indian city, granting an extension to the state government?",
-        "a": "Bengaluru",
-        "options": [
-            "Mumbai",
-            "Chennai",
-            "Hyderabad",
-            "Bengaluru",
-            "Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The case where the Supreme Court upheld bail for an individual booked under UAPA involved a brutal attack on a college professor in which Indian state?",
-        "a": "Kerala",
-        "options": [
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Kerala",
-            "Maharashtra"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did journalist Swati Gandhi previously work before joining Live Mint?",
-        "a": "Business Standard",
-        "options": [
-            "The Hindu",
-            "Times of India",
-            "Indian Express",
-            "Business Standard",
-            "Mint"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which university did Swati Gandhi obtain her Bachelor's degree in English (Honours)?",
-        "a": "University of Delhi",
-        "options": [
-            "Jawaharlal Nehru University",
-            "Jamia Millia Islamia",
-            "University of Delhi",
-            "Amity University",
-            "Mumbai University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which university did Swati Gandhi obtain her Master's degree in Journalism and Mass Communication?",
-        "a": "Guru Gobind Singh Indraprastha University",
-        "options": [
-            "Delhi University",
-            "Jawaharlal Nehru University",
-            "Guru Gobind Singh Indraprastha University",
-            "Indian Institute of Mass Communication",
-            "Symbiosis Institute of Media and Communication"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which region did a flare-up of tensions contribute to investor concerns regarding geopolitical risk and oil price sensitivity?",
-        "a": "West Asia",
-        "options": [
-            "East Asia",
-            "North Africa",
-            "South America",
-            "West Asia",
-            "Eastern Europe"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The US President appointed Kevin Warsh to head which central bank?",
-        "a": "US central bank",
-        "options": [
-            "European Central Bank",
-            "Bank of England",
-            "Bank of Japan",
-            "US central bank",
-            "Reserve Bank of India"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The discussion on bail under UAPA referenced the 'Union of India v. K.A. Najeeb' case. In which High Court was Najeeb originally granted bail?",
-        "a": "Kerala High Court",
-        "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Kerala High Court",
-            "Madras High Court",
-            "Karnataka High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which university was associated with scholars Umar Khalid and Sharjeel Imam, mentioned in the context of Delhi riots bail cases?",
-        "a": "Jawaharlal Nehru University",
-        "options": [
-            "University of Delhi",
-            "Aligarh Muslim University",
-            "Jawaharlal Nehru University",
-            "Banaras Hindu University",
-            "Jamia Millia Islamia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At which publication does Swati Gandhi currently focus on international and geopolitical issues through a business and economic lens?",
-        "a": "Live Mint",
-        "options": [
-            "Business Standard",
-            "The Economic Times",
-            "Live Mint",
-            "Financial Express",
-            "The Wall Street Journal"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The FOMC meeting where four dissenting votes were recorded marked the highest disagreement since which year?",
-        "a": "1992",
-        "options": [
-            "1988",
-            "1990",
-            "1992",
-            "1994",
-            "1996"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When does market pricing suggest the Federal Reserve's next rate hike could potentially occur?",
-        "a": "Late 2026 or early 2027",
-        "options": [
-            "Early 2025",
-            "Mid 2025",
-            "Late 2026 or early 2027",
-            "Mid 2027",
-            "Early 2028"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did Bloomberg News report that the RBI was considering options to stabilize the rupee?",
-        "a": "Thursday (May 21, 2026)",
-        "options": [
-            "Monday (May 18, 2026)",
-            "Tuesday (May 19, 2026)",
-            "Wednesday (May 20, 2026)",
-            "Thursday (May 21, 2026)",
-            "Friday (May 22, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the rupee make a new low of 96.95?",
-        "a": "Wednesday (May 20, 2026)",
-        "options": [
-            "Tuesday (May 19, 2026)",
-            "Wednesday (May 20, 2026)",
-            "Thursday (May 21, 2026)",
-            "Friday (May 22, 2026)",
-            "Monday (May 25, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Delhi High Court issue the order refusing bail to Tasleem Ahmed and Abdul Khalid Saifi, which they later challenged in the Supreme Court?",
-        "a": "September 2, 2025",
-        "options": [
-            "August 15, 2025",
-            "September 2, 2025",
-            "October 10, 2025",
-            "November 5, 2025",
-            "December 1, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Supreme Court deny bail to Umar Khalid and Sharjeel Imam while granting relief to five other co-accused in a Delhi riots case?",
-        "a": "January 5, 2026",
-        "options": [
-            "December 20, 2025",
-            "January 5, 2026",
-            "February 10, 2026",
-            "March 1, 2026",
-            "April 15, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court adjourned the hearing for Tasleem Ahmed and Abdul Khalid Saifi's bail pleas to which date?",
-        "a": "May 22",
-        "options": [
-            "May 20",
-            "May 21",
-            "May 22",
-            "May 23",
-            "May 24"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the original deadline for conducting civic polls in Bengaluru as mentioned by the Supreme Court?",
-        "a": "June 30",
-        "options": [
-            "May 31",
+            "June 1",
+            "June 5",
+            "June 8",
             "June 15",
-            "June 30",
-            "July 15",
-            "July 31"
+            "June 18"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court extended the deadline for Bengaluru civic polls to which date?",
-        "a": "August 31",
+        "q": "How many years after putting on hold trials in sedition cases did the Supreme Court issue a clarification?",
+        "a": "Four years",
         "options": [
-            "July 31",
-            "August 15",
-            "August 31",
-            "September 15",
-            "September 30"
+            "Two years",
+            "Three years",
+            "Four years",
+            "Five years",
+            "Six years"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did the brutal attack on Professor T.J. Joseph occur?",
-        "a": "2010",
+        "q": "Who was the Chief Justice of India heading the bench that issued the clarification on sedition cases?",
+        "a": "Surya Kant",
         "options": [
-            "2008",
-            "2009",
-            "2010",
-            "2011",
-            "2012"
+            "N.V. Ramana",
+            "U.U. Lalit",
+            "D.Y. Chandrachud",
+            "Surya Kant",
+            "Ranjan Gogoi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Under which section of the Indian Penal Code (IPC) is the offence of sedition defined?",
+        "a": "Section 124A",
+        "options": [
+            "Section 120A",
+            "Section 124A",
+            "Section 130A",
+            "Section 144A",
+            "Section 153A"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "On what date did the Supreme Court issue an interim order in 2022 to put on hold trials in sedition cases?",
+        "a": "May 11, 2022",
+        "options": [
+            "May 1, 2022",
+            "May 11, 2022",
+            "May 21, 2022",
+            "April 11, 2022",
+            "June 11, 2022"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was K.A. Najeeb, accused in the Professor T.J. Joseph attack case, arrested after absconding?",
-        "a": "2015",
+        "q": "Who was the Chief Justice of India heading the bench that issued the interim order on sedition cases in May 2022?",
+        "a": "N.V. Ramana",
         "options": [
-            "2013",
-            "2014",
-            "2015",
-            "2016",
-            "2017"
+            "Surya Kant",
+            "Joymalya Bagchi",
+            "Vipul M. Pancholi",
+            "N.V. Ramana",
+            "D.Y. Chandrachud"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is Section 152 of the Bharatiya Nyaya Sanhita (BNS) challenged for, according to petitioners?",
+        "a": "Repackaged version of the colonial-era sedition law",
+        "options": [
+            "Criminalizing economic fraud",
+            "Repackaged version of the colonial-era sedition law",
+            "Defining electoral malpractice",
+            "Regulating cybercrime",
+            "Restricting freedom of religion"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "For how many years has the petitioner in the sedition case, whose plea was heard by the Supreme Court, remained incarcerated?",
+        "a": "17 years",
+        "options": [
+            "10 years",
+            "12 years",
+            "15 years",
+            "17 years",
+            "20 years"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current Chief Minister of Himachal Pradesh?",
+        "a": "Sukhvinder Singh Sukhu",
+        "options": [
+            "Jai Ram Thakur",
+            "Prem Kumar Dhumal",
+            "Sukhvinder Singh Sukhu",
+            "Virbhadra Singh",
+            "Anurag Thakur"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In how many out of 48 municipal bodies did Congress-backed candidates win in the recent Himachal Pradesh urban local body elections?",
+        "a": "26",
+        "options": [
+            "20",
+            "22",
+            "24",
+            "26",
+            "28"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In which year did the Congress government assume power in Himachal Pradesh, as mentioned by the CM?",
+        "a": "2022",
+        "options": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
         ],
         "cat": "When"
     },
     {
-        "q": "When were the charges framed in the K.A. Najeeb UAPA case?",
-        "a": "November 27, 2020",
+        "q": "The recent urban elections in Himachal Pradesh are considered a trailer ahead of the assembly polls of which year?",
+        "a": "2027",
         "options": [
-            "October 15, 2020",
-            "November 10, 27 2020",
-            "November 27, 2020",
-            "December 1, 2020",
-            "January 1, 2021"
+            "2025",
+            "2026",
+            "2027",
+            "2028",
+            "2029"
         ],
         "cat": "When"
-    },
-    {
-        "q": "What is the primary reason stated by Federal Reserve officials for potentially requiring further interest rate hikes?",
-        "a": "If the ongoing Iran war keeps pushing inflation higher",
-        "options": [
-            "To stimulate economic growth",
-            "To reduce unemployment rates",
-            "If the ongoing Iran war keeps pushing inflation higher",
-            "To increase consumer spending",
-            "To stabilize bond markets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the dual goal that the Federal Reserve continues to pursue amidst the ongoing conflict?",
-        "a": "Maximum employment and price stability",
-        "options": [
-            "High GDP growth and low interest rates",
-            "Increased exports and reduced imports",
-            "Maximum employment and price stability",
-            "Fiscal consolidation and debt reduction",
-            "Financial sector regulation and oversight"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did many FOMC participants prefer removing language from the post-meeting statement that suggested an easing bias?",
-        "a": "To maintain flexibility for future rate decisions, including hikes",
-        "options": [
-            "To signal a stronger commitment to rate cuts",
-            "To avoid confusing market participants about future policy",
-            "To maintain flexibility for future rate decisions, including hikes",
-            "To indicate an immediate need for further tightening",
-            "To align with President Trump's expectations for rate cuts"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main purpose of the Reserve Bank of India (RBI) considering various options, including an interest rate hike?",
-        "a": "To stabilise the rupee",
-        "options": [
-            "To boost industrial production",
-            "To control fiscal deficit",
-            "To stabilise the rupee",
-            "To reduce unemployment",
-            "To increase foreign exchange reserves"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the Delhi Police seek an adjournment for the bail pleas of Tasleem Ahmed and Abdul Khalid Saifi in the Supreme Court?",
-        "a": "To allow the Additional Solicitor General more time to present arguments.",
-        "options": [
-            "To allow the accused to gather more evidence",
-            "To facilitate a settlement between parties",
-            "To allow the Additional Solicitor General more time to present arguments.",
-            "To wait for a larger Bench to be constituted",
-            "To review the case in light of new evidence"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does the acronym UAPA stand for in the context of the anti-terror laws mentioned in the news?",
-        "a": "Unlawful Activities (Prevention) Act",
-        "options": [
-            "Unilateral Action Protection Act",
-            "United Anti-terrorism Prevention Act",
-            "Unlawful Activities (Prevention) Act",
-            "Uniform Anti-harassment Policy Act",
-            "Universal Aviation Protocol Act"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the primary reason cited by the Karnataka government and KSEC for requesting an extension for the Bengaluru civic polls?",
-        "a": "Manpower problems due to Census and Special Intensive Revision of electoral rolls",
-        "options": [
-            "Lack of financial resources",
-            "Political instability in the state",
-            "Manpower problems due to Census and Special Intensive Revision of electoral rolls",
-            "Ongoing public holidays and festivals",
-            "Concerns about voter turnout"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What principle did the Supreme Court uphold in the K.A. Najeeb judgment regarding prolonged incarceration under stringent laws like UAPA?",
-        "a": "Prolonged incarceration and delay in trial could override the stringent bail bar.",
-        "options": [
-            "Bail is strictly prohibited for UAPA accused",
-            "The trial must be completed within one year",
-            "Prolonged incarceration and delay in trial could override the stringent bail bar.",
-            "Accused must remain in custody until all witnesses are examined",
-            "Bail is only granted in cases of minor offenses"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific right does delayed trial and prolonged incarceration violate, as stated in the K.A. Najeeb judgment?",
-        "a": "Right to life and dignity under Article 21",
-        "options": [
-            "Right to freedom of speech under Article 19",
-            "Right to equality under Article 14",
-            "Right to property under Article 300A",
-            "Right to life and dignity under Article 21",
-            "Right to education under Article 21A"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary focus of journalist Swati Gandhi's work at Live Mint?",
-        "a": "International and geopolitical issues through a business and economic lens.",
-        "options": [
-            "Domestic policy and national affairs",
-            "Sports and entertainment news",
-            "Local community events and issues",
-            "International and geopolitical issues through a business and economic lens.",
-            "Technology and innovation trends"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What does Swati Gandhi believe strongly in as her approach to journalism?",
-        "a": "Context-driven reporting",
-        "options": [
-            "Opinion-based analysis",
-            "Sensationalist headlines",
-            "Context-driven reporting",
-            "Purely statistical data presentation",
-            "Interview-only formats"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What did Swati Gandhi's academic training in Journalism and Mass Communication emphasize?",
-        "a": "Precision, analytical rigour, and clarity in writing",
-        "options": [
-            "Speed and brevity in reporting",
-            "Creative storytelling and narrative",
-            "Precision, analytical rigour, and clarity in writing",
-            "Broadcast journalism techniques",
-            "Public relations and media management"
-        ],
-        "cat": "Why"
     }
 ]
