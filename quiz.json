@@ -1,78 +1,582 @@
 [
     {
-        "q": "What was the total sentence in months handed to Aimee Bock, the ringleader of the Feeding Our Future fraud scheme?",
-        "a": "500 months",
+        "q": "What is the revised GDP growth forecast for India for 2026-27 by Icra?",
+        "a": "6.2%",
         "options": [
-            "480 months",
-            "520 months",
-            "500 months",
-            "490 months",
-            "510 months"
+            "6.5%",
+            "6.0%",
+            "6.2%",
+            "6.3%",
+            "6.1%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much was Aimee Bock ordered to repay to the federal government?",
-        "a": "$243 million",
+        "q": "By how many basis points did the United Nations cut India\u2019s GDP growth projection for calendar year 2026?",
+        "a": "20 basis points",
         "options": [
-            "$240 million",
-            "$250 million",
-            "$243 million",
-            "$235 million",
-            "$248 million"
+            "25 basis points",
+            "15 basis points",
+            "20 basis points",
+            "30 basis points",
+            "10 basis points"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was convicted as the ringleader of the \"Feeding Our Future\" fraud scheme?",
-        "a": "Aimee Bock",
+        "q": "What was India's core infrastructure sector growth year-on-year in April?",
+        "a": "1.7%",
         "options": [
-            "Rebeca Kline",
-            "Swati Gandhi",
-            "Aimee Bock",
-            "Akash",
-            "Prashanth"
+            "1.2%",
+            "2.0%",
+            "1.7%",
+            "1.5%",
+            "1.9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in cement output year-on-year in April?",
+        "a": "9.4%",
+        "options": [
+            "8.9%",
+            "9.1%",
+            "9.4%",
+            "9.7%",
+            "9.9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the peak power demand recorded on Thursday amid a persistent heatwave?",
+        "a": "270.73 GW",
+        "options": [
+            "271.00 GW",
+            "269.50 GW",
+            "270.73 GW",
+            "270.00 GW",
+            "271.50 GW"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount did Adani Enterprises agree to pay to settle a US probe?",
+        "a": "$275 million",
+        "options": [
+            "$280 million",
+            "$270 million",
+            "$275 million",
+            "$265 million",
+            "$285 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the revenue of Ola Electric in FY26?",
+        "a": "\u20b92,253 crore",
+        "options": [
+            "\u20b92,300 crore",
+            "\u20b92,200 crore",
+            "\u20b92,253 crore",
+            "\u20b92,260 crore",
+            "\u20b92,240 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of employees did TCS ask managers to classify in the lowest performance band during its latest appraisal cycle?",
+        "a": "5%",
+        "options": [
+            "6%",
+            "4%",
+            "5%",
+            "7%",
+            "3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many essential medicines is the Centre considering for a one-time price increase?",
+        "a": "384",
+        "options": [
+            "390",
+            "380",
+            "384",
+            "388",
+            "375"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of urban Indian parents ranked excessive screen time and digital addiction among their top three worries for children in a Mint survey?",
+        "a": "65%",
+        "options": [
+            "60%",
+            "70%",
+            "65%",
+            "55%",
+            "68%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the estimated liquidity surplus in the banking system as on May 21?",
+        "a": "\u20b958,876.29 crore",
+        "options": [
+            "\u20b959,000 crore",
+            "\u20b958,500 crore",
+            "\u20b958,876.29 crore",
+            "\u20b960,000 crore",
+            "\u20b958,700 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the cut-off rate at which the RBI infused funds in the three-day variable rate repo (VRR) auction on May 22, 2026?",
+        "a": "5.26%",
+        "options": [
+            "5.20%",
+            "5.30%",
+            "5.26%",
+            "5.25%",
+            "5.28%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of surplus did the RBI approve to transfer to the Central Government as dividend for the accounting year 2025-26?",
+        "a": "\u20b92,86,588.46 crore",
+        "options": [
+            "\u20b92,87,000 crore",
+            "\u20b92,86,000 crore",
+            "\u20b92,86,588.46 crore",
+            "\u20b92,85,500 crore",
+            "\u20b92,86,800 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the RBI balance sheet did the board decide to maintain the Contingent Risk Buffer (CRB) at for FY26?",
+        "a": "6.5%",
+        "options": [
+            "7.0%",
+            "6.0%",
+            "6.5%",
+            "7.5%",
+            "5.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total balance sheet size of the RBI as on March 31, 2026?",
+        "a": "\u20b991,97,121.08 crore",
+        "options": [
+            "\u20b992,00,000 crore",
+            "\u20b991,90,000 crore",
+            "\u20b991,97,121.08 crore",
+            "\u20b992,10,000 crore",
+            "\u20b991,80,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How old was Isaac, Danny Go's son, at the time of his death?",
+        "a": "14 years old",
+        "options": [
+            "12 years old",
+            "16 years old",
+            "14 years old",
+            "15 years old",
+            "13 years old"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many months of interim bail did the Supreme Court grant to two accused in the 2020 Delhi riots case?",
+        "a": "Six months",
+        "options": [
+            "Three months",
+            "Nine months",
+            "Six months",
+            "Four months",
+            "Eight months"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of personal bonds were the Delhi riots accused directed to furnish for interim bail?",
+        "a": "\u20b92 lakh each",
+        "options": [
+            "\u20b91 lakh each",
+            "\u20b93 lakh each",
+            "\u20b92 lakh each",
+            "\u20b92.5 lakh each",
+            "\u20b91.5 lakh each"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the previous liquidity surplus in the banking system as on May 20?",
+        "a": "\u20b91.51 lakh crore",
+        "options": [
+            "\u20b91.50 lakh crore",
+            "\u20b91.55 lakh crore",
+            "\u20b91.51 lakh crore",
+            "\u20b91.49 lakh crore",
+            "\u20b91.52 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage decline in crude oil output year-on-year in April?",
+        "a": "3.9%",
+        "options": [
+            "3.5%",
+            "4.0%",
+            "3.9%",
+            "4.2%",
+            "3.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in the RBI's gross income over the previous year?",
+        "a": "26.42%",
+        "options": [
+            "26.00%",
+            "27.00%",
+            "26.42%",
+            "26.50%",
+            "26.30%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in the RBI's expenditure before risk provisions over the previous year?",
+        "a": "27.6%",
+        "options": [
+            "27.0%",
+            "28.0%",
+            "27.6%",
+            "27.5%",
+            "27.8%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage of respondents in the Mint survey who cited concerns around physical safety and pollution as top worries for children?",
+        "a": "51%",
+        "options": [
+            "50%",
+            "52%",
+            "51%",
+            "53%",
+            "49%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage of respondents in the Mint survey who cited lack of open spaces as a major concern for children?",
+        "a": "42%",
+        "options": [
+            "40%",
+            "45%",
+            "42%",
+            "41%",
+            "43%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the initial GDP growth forecast for India for 2026-27 by Icra before it was cut?",
+        "a": "6.5%",
+        "options": [
+            "6.2%",
+            "6.3%",
+            "6.5%",
+            "6.0%",
+            "6.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current Governor of the Reserve Bank of India (RBI) under whose chairmanship the 623rd board meeting was held?",
+        "a": "Sanjay Malhotra",
+        "options": [
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Sanjay Malhotra",
+            "Raghuram Rajan",
+            "Subbarao"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which US state was Aimee Bock sentenced for the \"Feeding Our Future\" fraud scheme?",
-        "a": "Minnesota",
+        "q": "Who is the Polish author mentioned in the news text, who won the 2018 Nobel Prize in Literature?",
+        "a": "Olga Tokarczuk",
         "options": [
-            "California",
-            "Texas",
-            "Minnesota",
-            "New York",
-            "Florida"
+            "Wis\u0142awa Szymborska",
+            "Henryk Sienkiewicz",
+            "Olga Tokarczuk",
+            "Czes\u0142aw Mi\u0142osz",
+            "Adam Mickiewicz"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the YouTube celebrity known as Danny Go, whose son Isaac passed away?",
+        "a": "Daniel Coleman",
+        "options": [
+            "David Coleman",
+            "Danny Wilson",
+            "Daniel Coleman",
+            "Dylan Thomas",
+            "Damon Cole"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Solicitor-General who submitted to the Supreme Court that the government would bring back people alleged to have been 'pushed' into Bangladesh?",
+        "a": "Tushar Mehta",
+        "options": [
+            "Ranjit Kumar",
+            "Mukesh Rohatgi",
+            "Tushar Mehta",
+            "Harish Salve",
+            "K.K. Venugopal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Chief Minister of Punjab who announced the removal of stray dogs from high footfall public spaces as per Supreme Court directions?",
+        "a": "Bhagwant Mann",
+        "options": [
+            "Arvind Kejriwal",
+            "Capt. Amarinder Singh",
+            "Bhagwant Mann",
+            "Parkash Singh Badal",
+            "Charanjit Singh Channi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which rating agency cut India's GDP growth forecast for 2026-27 from 6.5% to 6.2%?",
+        "a": "Icra",
+        "options": [
+            "Moody's",
+            "S&P",
+            "Fitch",
+            "Icra",
+            "Crisil"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was one of the Delhi riots accused granted six months of interim bail by the Supreme Court?",
+        "a": "Abdul Khalid Saifi",
+        "options": [
+            "Umar Khalid",
+            "Sharjeel Imam",
+            "Abdul Khalid Saifi",
+            "Gulfisha Fatima",
+            "K.A. Najeeb"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which novelist reacted strongly against the use of AI in literature, comparing it to 'marrying a vibrator' at Impact\u201926?",
+        "a": "Szczepan Twardoch",
+        "options": [
+            "Olga Tokarczuk",
+            "Ziemowit Szczerek",
+            "Jacek Dukaj",
+            "Andrzej Stasiuk",
+            "Szczepan Twardoch"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the father of Sunali Khatun, the woman at the center of the alleged illegal deportation case?",
+        "a": "Bhodu Sekh",
+        "options": [
+            "Kapil Sibal",
+            "Sanjay Hegde",
+            "Tushar Mehta",
+            "Bhodu Sekh",
+            "Mohammed Ali"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which organization conducted the survey on urban Indian parenting anxieties in association with Mint?",
+        "a": "YouGov India",
+        "options": [
+            "NITI Aayog",
+            "Oxford University",
+            "YouGov India",
+            "Gallup",
+            "Pew Research Center"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which region of the world is the ongoing conflict cited as a reason for trimming India's economic growth outlook and disrupting pharmaceutical supplies?",
+        "a": "West Asia",
+        "options": [
+            "East Asia",
+            "West Asia",
+            "Eastern Europe",
+            "North Africa",
+            "South America"
         ],
         "cat": "Where"
     },
     {
-        "q": "What was the primary purpose of the federal child nutrition program that Aimee Bock defrauded?",
-        "a": "To provide free meals to low-income children and adults",
+        "q": "In which Indian city are petrol prices reported to be the highest among the four metro cities mentioned?",
+        "a": "Kolkata",
         "options": [
-            "To fund educational scholarships",
-            "To provide free meals to low-income children and adults",
-            "To support local businesses",
-            "To develop community infrastructure",
-            "To offer tax advice"
+            "Mumbai",
+            "Delhi",
+            "Chennai",
+            "Kolkata",
+            "Bengaluru"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "What was the estimated total amount of money the \"Feeding Our Future\" organization defrauded from the federal child nutrition program?",
-        "a": "$250 million",
+        "q": "In which city was the 623rd meeting of the Central Board of Directors of Reserve Bank of India held?",
+        "a": "Mumbai",
         "options": [
-            "$200 million",
-            "$243 million",
-            "$250 million",
-            "$300 million",
-            "$190 million"
+            "Delhi",
+            "Bengaluru",
+            "Chennai",
+            "Kolkata",
+            "Mumbai"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "By what year did the amount connected to \"Feeding Our Future\" surge to approximately $200 million?",
+        "q": "In which Polish city did Olga Tokarczuk make remarks about AI at Impact\u201926, triggering a debate?",
+        "a": "Pozna\u0144",
+        "options": [
+            "Warsaw",
+            "Krak\u00f3w",
+            "Pozna\u0144",
+            "Gda\u0144sk",
+            "Wroc\u0142aw"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where was the short-range ballistic missile Agni-1 successfully test-launched from?",
+        "a": "Integrated Test Range in Balasore, Odisha",
+        "options": [
+            "Sriharikota, Andhra Pradesh",
+            "Pokhran, Rajasthan",
+            "Integrated Test Range in Balasore, Odisha",
+            "Thumba, Kerala",
+            "Kurnool, Andhra Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which High Court initially set aside the Union government's decision to deport Sunali Khatun and others to Bangladesh?",
+        "a": "Calcutta High Court",
+        "options": [
+            "Delhi High Court",
+            "Bombay High Court",
+            "Madras High Court",
+            "Calcutta High Court",
+            "Allahabad High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Supreme Court granted interim bail to accused in which prominent riot case?",
+        "a": "2020 Delhi riots case",
+        "options": [
+            "Gujarat riots case",
+            "Muzaffarnagar riots case",
+            "2020 Delhi riots case",
+            "Mumbai riots case",
+            "Bengaluru riots case"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which state will stray dogs be removed from all high footfall public spaces as per Supreme Court directions?",
+        "a": "Punjab",
+        "options": [
+            "Haryana",
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Himachal Pradesh",
+            "Punjab"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Adani Enterprises settled a US probe related to purchases of LPG from which sanctioned country?",
+        "a": "Iran",
+        "options": [
+            "North Korea",
+            "Syria",
+            "Iran",
+            "Cuba",
+            "Venezuela"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "When did the second retail fuel price hike (around 90 paise a litre) occur, as mentioned in the news?",
+        "a": "Tuesday",
+        "options": [
+            "Monday",
+            "Wednesday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date was the previous \u20b93-per-litre fuel hike, the first in four years, implemented?",
+        "a": "15 May",
+        "options": [
+            "10 May",
+            "20 May",
+            "15 May",
+            "12 May",
+            "18 May"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which accounting year did the RBI approve the transfer of surplus to the Central Government as dividend?",
+        "a": "2025-26",
+        "options": [
+            "2024-25",
+            "2026-27",
+            "2025-26",
+            "2023-24",
+            "2022-23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "As of which date was the RBI's balance sheet reported to have expanded to \u20b991,97,121.08 crore?",
+        "a": "March 31, 2026",
+        "options": [
+            "April 30, 2026",
+            "March 31, 2025",
+            "March 31, 2026",
+            "February 28, 2026",
+            "January 31, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was Danny Go's YouTube channel, which now has over 4.5 million subscribers, launched?",
         "a": "2021",
         "options": [
             "2019",
@@ -84,639 +588,255 @@
         "cat": "When"
     },
     {
-        "q": "What percentage of administrative fees did \"Feeding Our Future\" allegedly collect from fraudulent reimbursement requests?",
-        "a": "10-15 percent",
+        "q": "When did Olga Tokarczuk win the Nobel Prize in Literature?",
+        "a": "2018",
         "options": [
-            "5-10 percent",
-            "10-15 percent",
-            "15-20 percent",
-            "20-25 percent",
-            "8-12 percent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many daily meals did one organization claim to serve in January 2021 before it dramatically surged to a higher figure?",
-        "a": "300 children",
-        "options": [
-            "250 children",
-            "300 children",
-            "350 children",
-            "400 children",
-            "200 children"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "To what figure did the daily meal claims of one organization surge by February 2021?",
-        "a": "3,290 daily meals",
-        "options": [
-            "2,500 daily meals",
-            "3,000 daily meals",
-            "3,290 daily meals",
-            "3,500 daily meals",
-            "4,000 daily meals"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the approximate amount of reimbursements received by the organization mentioned in the FBI affidavit in that year?",
-        "a": "$3.6 million",
-        "options": [
-            "$3.0 million",
-            "$3.2 million",
-            "$3.6 million",
-            "$4.0 million",
-            "$3.8 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the Assistant US Attorney who stated that Aimee Bock \"orchestrated\" the fraud?",
-        "a": "Rebeca Kline",
-        "options": [
-            "Swati Gandhi",
-            "Aimee Bock",
-            "Rebeca Kline",
-            "Pronab Mohanty",
-            "Arvind Panagariya"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What prison sentence did prosecutors seek for Aimee Bock?",
-        "a": "50 years",
-        "options": [
-            "40 years",
-            "45 years",
-            "50 years",
-            "30 years",
-            "60 years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the chairman of the Sixteenth Finance Commission who commented on the rupee depreciation?",
-        "a": "Arvind Panagariya",
-        "options": [
-            "Shaktikanta Das",
-            "Nirmala Sitharaman",
-            "Arvind Panagariya",
-            "Raghuram Rajan",
-            "Urjit Patel"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "According to Arvind Panagariya, what should the RBI not let prevent it from letting the exchange rate fall?",
-        "a": "Psychology of \u20b9100 per dollar",
-        "options": [
-            "Inflation concerns",
-            "Psychology of \u20b9100 per dollar",
-            "Foreign capital outflows",
-            "Interest rate differentials",
-            "Government pressure"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date did Arvind Panagariya make his statement regarding the rupee's exchange rate?",
-        "a": "May 21, 2026",
-        "options": [
-            "May 20, 2026",
-            "May 21, 2026",
-            "May 22, 2026",
-            "May 15, 2026",
-            "June 1, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "To what level did the rupee nearly touch against a dollar in intraday trade on May 21, 2026?",
-        "a": "\u20b997",
-        "options": [
-            "\u20b995",
-            "\u20b996",
-            "\u20b997",
-            "\u20b998",
-            "\u20b999"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What reason did Arvind Panagariya give for India being well-positioned to absorb some inflationary pressure accompanying rupee depreciation?",
-        "a": "Prudent monetary management by RBI resulting in low inflation",
-        "options": [
-            "High foreign exchange reserves",
-            "Prudent monetary management by RBI resulting in low inflation",
-            "Strong economic growth",
-            "Increased exports",
-            "Reduced import bill"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which district of Madhya Pradesh is the Adani Group\u2019s coal block project located?",
-        "a": "Singrauli",
-        "options": [
-            "Bhopal",
-            "Indore",
-            "Singrauli",
-            "Jabalpur",
-            "Gwalior"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date did the Supreme Court decline to interfere with the environmental clearances for the Adani Group project?",
-        "a": "May 21, 2026",
-        "options": [
-            "May 20, 2026",
-            "May 21, 2026",
-            "May 22, 2026",
-            "April 22, 2026",
-            "January 22, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which subsidiary of Adani Power was granted environmental clearance for the coal block project?",
-        "a": "Mahan Energen Ltd.",
-        "options": [
-            "Adani Green Energy",
-            "Adani Transmission",
-            "Mahan Energen Ltd.",
-            "Adani Enterprises",
-            "Adani Ports"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "When was the environmental clearance for Mahan Energen Ltd. originally granted by the statutory authority?",
-        "a": "May 2025",
-        "options": [
-            "March 2025",
-            "April 2025",
-            "May 2025",
-            "June 2025",
-            "July 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who filed the plea challenging the environmental clearances for the Adani Group\u2019s project?",
-        "a": "Ajay Dubey",
-        "options": [
-            "A.N.S. Nadkarni",
-            "Siddharth Gupta",
-            "Ajay Dubey",
-            "P.S. Narasimha",
-            "Alok Aradhe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many days is the ordinary limitation period to challenge orders under Section 16 of the National Green Tribunal Act, 2010?",
-        "a": "30 days",
-        "options": [
-            "15 days",
-            "30 days",
-            "45 days",
-            "60 days",
-            "90 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum permissible extension period beyond the ordinary limitation under the NGT Act?",
-        "a": "60 days",
-        "options": [
-            "15 days",
-            "30 days",
-            "60 days",
-            "90 days",
-            "45 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many lakh trees would be felled by the Adani Group project, as argued by the petitioner?",
-        "a": "6 lakh",
-        "options": [
-            "4 lakh",
-            "5 lakh",
-            "6 lakh",
-            "7 lakh",
-            "8 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Across approximately how many square kilometres of dense evergreen forest would the Adani Group project lead to felling of trees?",
-        "a": "27 square kilometres",
-        "options": [
-            "20 square kilometres",
-            "25 square kilometres",
-            "27 square kilometres",
-            "30 square kilometres",
-            "35 square kilometres"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "When was the forest clearance for the Adani Group project uploaded on the website of the Union Ministry of Environment, Forest and Climate Change (MoEF&CC)?",
-        "a": "May 10, 2025",
-        "options": [
-            "May 1, 2025",
-            "May 5, 2025",
-            "May 10, 2025",
-            "May 15, 2025",
-            "May 20, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the approximate number of trees highlighted in newspaper reports in December 2025 as being subject to large-scale deforestation?",
-        "a": "70,000 trees",
-        "options": [
-            "50,000 trees",
-            "60,000 trees",
-            "70,000 trees",
-            "80,000 trees",
-            "90,000 trees"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the area of reserved dense forest land allocated for the coal block project to an Adani Power subsidiary?",
-        "a": "1,397.54 hectares",
-        "options": [
-            "1,200.54 hectares",
-            "1,300.54 hectares",
-            "1,397.54 hectares",
-            "1,400.54 hectares",
-            "1,500.54 hectares"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What criterion did the MoEF&CC use to classify certain areas as \"no-go areas\" for coal mining during 2011-12?",
-        "a": "High forest density and canopy cover above 0.40\u20130.50",
-        "options": [
-            "Economic backwardness",
-            "High population density",
-            "High forest density and canopy cover above 0.40\u20130.50",
-            "Proximity to urban centers",
-            "Presence of rare mineral deposits"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which period did the MoEF&CC classify certain dense forest areas in MP and Chhattisgarh as \"no-go areas\"?",
-        "a": "2011-12",
-        "options": [
-            "2008-09",
-            "2010-11",
-            "2011-12",
-            "2013-14",
-            "2015-16"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which Indian city were four fake call centres busted for cheating U.S. citizens?",
-        "a": "Bengaluru",
-        "options": [
-            "Delhi",
-            "Mumbai",
-            "Bengaluru",
-            "Chennai",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Who heads the Karnataka State Cyber Command?",
-        "a": "Pronab Mohanty",
-        "options": [
-            "Prashanth",
-            "Akash",
-            "Pronab Mohanty",
-            "Aimee Bock",
-            "Ajay Dubey"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Name one of the arrested accused from Uttar Pradesh in the Bengaluru fake call centre scam.",
-        "a": "Akash",
-        "options": [
-            "Prashanth",
-            "Akash",
-            "Mohanty",
-            "Singh",
-            "Verma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Name one of the arrested accused from Delhi in the Bengaluru fake call centre scam.",
-        "a": "Prashanth",
-        "options": [
-            "Akash",
-            "Prashanth",
-            "Mohanty",
-            "Gupta",
-            "Sharma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many SSDs were seized during the raids on the fake call centres in Bengaluru?",
-        "a": "44",
-        "options": [
-            "34",
-            "38",
-            "44",
-            "48",
-            "54"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many CPUs were seized during the raids on the fake call centres in Bengaluru?",
-        "a": "9",
-        "options": [
-            "5",
-            "7",
-            "9",
-            "11",
-            "13"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many employees were reportedly working for the fake call centre operation busted in Bengaluru?",
-        "a": "120",
-        "options": [
-            "80",
-            "100",
-            "120",
-            "150",
-            "180"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For how many years had the fake call centre racket in Bengaluru allegedly been functioning?",
-        "a": "Four years",
-        "options": [
-            "Two years",
-            "Three years",
-            "Four years",
-            "Five years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the amount of financial transactions exceeding in the last few months alone for the fake call centre racket in Bengaluru?",
-        "a": "\u20b940 crore",
-        "options": [
-            "\u20b920 crore",
-            "\u20b930 crore",
-            "\u20b940 crore",
-            "\u20b950 crore",
-            "\u20b960 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What method did the accused use to siphon off large sums of money obtained from U.S. citizens in the Bengaluru call centre scam?",
-        "a": "Multiple shell companies",
-        "options": [
-            "Direct bank transfers",
-            "Cryptocurrency investments",
-            "Multiple shell companies",
-            "Physical cash withdrawals",
-            "International wire transfers"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Which body announced polls for 24 Rajya Sabha seats?",
-        "a": "Election Commission of India (ECI)",
-        "options": [
-            "Parliament of India",
-            "Prime Minister's Office",
-            "Election Commission of India (ECI)",
-            "Supreme Court of India",
-            "Ministry of Home Affairs"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "How many Rajya Sabha seats were announced for polls by the ECI?",
-        "a": "24",
-        "options": [
-            "20",
-            "22",
-            "24",
-            "26",
-            "28"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "On what date did the Election Commission of India announce the polls for 24 Rajya Sabha seats?",
-        "a": "May 22, 2026",
-        "options": [
-            "May 20, 2026",
-            "May 21, 2026",
-            "May 22, 2026",
-            "June 8, 2026",
-            "June 18, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When will the elections for the 24 Rajya Sabha seats be held?",
-        "a": "June 18",
-        "options": [
-            "June 8",
-            "June 15",
-            "June 18",
-            "June 21",
-            "July 19"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many seats each will have elections in Andhra Pradesh, Gujarat and Karnataka for the Rajya Sabha polls?",
-        "a": "Four",
-        "options": [
-            "Two",
-            "Three",
-            "Four",
-            "Five",
-            "Six"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many seats each will have elections in Madhya Pradesh and Rajasthan for the Rajya Sabha polls?",
-        "a": "Three",
-        "options": [
-            "Two",
-            "Three",
-            "Four",
-            "One",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the last date for filing nominations for the upcoming Rajya Sabha elections?",
-        "a": "June 8",
-        "options": [
-            "June 1",
-            "June 5",
-            "June 8",
-            "June 15",
-            "June 18"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How many years after putting on hold trials in sedition cases did the Supreme Court issue a clarification?",
-        "a": "Four years",
-        "options": [
-            "Two years",
-            "Three years",
-            "Four years",
-            "Five years",
-            "Six years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who was the Chief Justice of India heading the bench that issued the clarification on sedition cases?",
-        "a": "Surya Kant",
-        "options": [
-            "N.V. Ramana",
-            "U.U. Lalit",
-            "D.Y. Chandrachud",
-            "Surya Kant",
-            "Ranjan Gogoi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Under which section of the Indian Penal Code (IPC) is the offence of sedition defined?",
-        "a": "Section 124A",
-        "options": [
-            "Section 120A",
-            "Section 124A",
-            "Section 130A",
-            "Section 144A",
-            "Section 153A"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "On what date did the Supreme Court issue an interim order in 2022 to put on hold trials in sedition cases?",
-        "a": "May 11, 2022",
-        "options": [
-            "May 1, 2022",
-            "May 11, 2022",
-            "May 21, 2022",
-            "April 11, 2022",
-            "June 11, 2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who was the Chief Justice of India heading the bench that issued the interim order on sedition cases in May 2022?",
-        "a": "N.V. Ramana",
-        "options": [
-            "Surya Kant",
-            "Joymalya Bagchi",
-            "Vipul M. Pancholi",
-            "N.V. Ramana",
-            "D.Y. Chandrachud"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is Section 152 of the Bharatiya Nyaya Sanhita (BNS) challenged for, according to petitioners?",
-        "a": "Repackaged version of the colonial-era sedition law",
-        "options": [
-            "Criminalizing economic fraud",
-            "Repackaged version of the colonial-era sedition law",
-            "Defining electoral malpractice",
-            "Regulating cybercrime",
-            "Restricting freedom of religion"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "For how many years has the petitioner in the sedition case, whose plea was heard by the Supreme Court, remained incarcerated?",
-        "a": "17 years",
-        "options": [
-            "10 years",
-            "12 years",
-            "15 years",
-            "17 years",
-            "20 years"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the current Chief Minister of Himachal Pradesh?",
-        "a": "Sukhvinder Singh Sukhu",
-        "options": [
-            "Jai Ram Thakur",
-            "Prem Kumar Dhumal",
-            "Sukhvinder Singh Sukhu",
-            "Virbhadra Singh",
-            "Anurag Thakur"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In how many out of 48 municipal bodies did Congress-backed candidates win in the recent Himachal Pradesh urban local body elections?",
-        "a": "26",
-        "options": [
-            "20",
-            "22",
-            "24",
-            "26",
-            "28"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In which year did the Congress government assume power in Himachal Pradesh, as mentioned by the CM?",
-        "a": "2022",
-        "options": [
+            "2017",
+            "2019",
+            "2018",
             "2020",
-            "2021",
-            "2022",
-            "2023",
-            "2024"
+            "2016"
         ],
         "cat": "When"
     },
     {
-        "q": "The recent urban elections in Himachal Pradesh are considered a trailer ahead of the assembly polls of which year?",
-        "a": "2027",
+        "q": "The Supreme Court referred the Delhi riots bail case to a larger Bench on which day of the week, as mentioned in the news?",
+        "a": "Friday",
         "options": [
-            "2025",
-            "2026",
-            "2027",
-            "2028",
-            "2029"
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
         ],
         "cat": "When"
+    },
+    {
+        "q": "In which quarter of 2026 did the RBI report a moderation in labour market conditions?",
+        "a": "January-March 2026 quarter",
+        "options": [
+            "April-June 2026 quarter",
+            "October-December 2025 quarter",
+            "January-March 2026 quarter",
+            "July-September 2026 quarter",
+            "July-September 2025 quarter"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the FASTag Annual Pass scheme introduced, which the RBI attributed to a decline in monthly toll transactions?",
+        "a": "August 2025",
+        "options": [
+            "September 2025",
+            "July 2025",
+            "August 2025",
+            "June 2025",
+            "October 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason stated for the dimming of India's 2026-27 growth outlook?",
+        "a": "Rising external uncertainties and economic fallout of the West Asia war",
+        "options": [
+            "Domestic demand slowdown",
+            "Inflation concerns",
+            "Rising external uncertainties and economic fallout of the West Asia war",
+            "Weak industrial production",
+            "Decline in services sector"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the stated purpose of the state-run companies raising petrol and diesel prices?",
+        "a": "To reduce losses incurred by oil marketing companies (OMCs) amid high global crude oil prices",
+        "options": [
+            "To boost government revenue",
+            "To curb fuel consumption",
+            "To reduce losses incurred by oil marketing companies (OMCs) amid high global crude oil prices",
+            "To align with international prices",
+            "To discourage private vehicle usage"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the Mint analysis, why are strong quarterly numbers alone no longer enough to sustain stock rallies?",
+        "a": "Growing investor caution around future growth visibility and durability of earnings momentum",
+        "options": [
+            "Lower trading volumes",
+            "Increased regulatory scrutiny",
+            "Growing investor caution around future growth visibility and durability of earnings momentum",
+            "Lack of new IPOs",
+            "Political instability"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the main reason for the record high peak power demand on Thursday?",
+        "a": "Persistent heatwave in some parts of the country",
+        "options": [
+            "Increased industrial activity",
+            "Growth in commercial sector",
+            "Persistent heatwave in some parts of the country",
+            "Expansion of residential areas",
+            "Festival season demand"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did the Mint survey find to be the biggest concern among urban Indian parents regarding their children?",
+        "a": "Excessive screen time and digital addiction",
+        "options": [
+            "Academic pressure",
+            "Physical safety and pollution",
+            "Excessive screen time and digital addiction",
+            "Lifestyle diseases",
+            "Lack of open spaces"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the RBI inject transient liquidity into the banking system through a three-day variable rate repo (VRR) auction?",
+        "a": "To inject short-term liquidity into the banking system",
+        "options": [
+            "To control inflation",
+            "To absorb excess liquidity",
+            "To inject short-term liquidity into the banking system",
+            "To stabilize the rupee",
+            "To encourage lending"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Supreme Court refer the question of prolonged incarceration overriding stringent bail curbs under UAPA to a larger Bench?",
+        "a": "To ensure parity, consistency, and institutional fidelity in the application of binding precedents",
+        "options": [
+            "To criticize the Delhi High Court's ruling",
+            "To expedite the trial process",
+            "To ensure parity, consistency, and institutional fidelity in the application of binding precedents",
+            "To amend the UAPA law",
+            "To reduce the backlog of cases"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What percentage was the decline in fertilizer output year-on-year in April?",
+        "a": "8.6%",
+        "options": [
+            "24.6%",
+            "10.0%",
+            "8.6%",
+            "9.0%",
+            "8.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in electricity generation year-on-year in April?",
+        "a": "4.1%",
+        "options": [
+            "3.5%",
+            "4.5%",
+            "4.1%",
+            "4.0%",
+            "3.9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage fall in petroleum refinery products during April?",
+        "a": "0.5%",
+        "options": [
+            "1.0%",
+            "0.2%",
+            "0.5%",
+            "0.7%",
+            "0.3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the RBI Governor mentioned in the January ruling of the Justice Kumar-headed Bench, which refused bail to activists Umar Khalid and Sharjeel Imam?",
+        "a": "Justice Aravind Kumar",
+        "options": [
+            "Justice P. B. Varale",
+            "Justice B.V. Nagarathna",
+            "Justice Ujjal Bhuyan",
+            "Justice Aravind Kumar",
+            "Chief Justice Surya Kant"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which month did the RBI's monthly bulletin for April 2026 release its latest State of the Economy report?",
+        "a": "April",
+        "options": [
+            "March",
+            "May",
+            "April",
+            "June",
+            "February"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Isaac, Danny Go's son, begin battling stage 3 mouth cancer?",
+        "a": "Late 2025",
+        "options": [
+            "Early 2025",
+            "Mid 2025",
+            "Late 2025",
+            "Early 2026",
+            "Mid 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the initial percentage fall in fertilizer output recorded in March, which later eased in April?",
+        "a": "24.6%",
+        "options": [
+            "8.6%",
+            "20.0%",
+            "24.6%",
+            "22.0%",
+            "26.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in steel production year-on-year in April?",
+        "a": "6.2%",
+        "options": [
+            "5.8%",
+            "6.0%",
+            "6.2%",
+            "6.5%",
+            "6.1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Why did Danny Go cancel the rest of his Danny Go! Tour?",
+        "a": "To stay with his family after Isaac\u2019s condition became worse",
+        "options": [
+            "Due to low ticket sales",
+            "To work on new projects",
+            "To stay with his family after Isaac\u2019s condition became worse",
+            "Due to health issues",
+            "To pursue acting career"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What framework provides flexibility to maintain the CRB within the range of 4.5-7.5% of the balance sheet size?",
+        "a": "Revised Economic Capital Framework (ECF)",
+        "options": [
+            "Basel III Framework",
+            "Financial Stability Framework",
+            "Revised Economic Capital Framework (ECF)",
+            "Monetary Policy Framework",
+            "Credit Policy Framework"
+        ],
+        "cat": "Why"
     }
 ]
