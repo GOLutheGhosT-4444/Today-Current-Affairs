@@ -1,202 +1,70 @@
 [
     {
-        "q": "What is the revised GDP growth forecast for India for 2026-27 by Icra?",
-        "a": "6.2%",
+        "q": "What was Twisha Sharma's age at the time of her death?",
+        "a": "33 years",
         "options": [
-            "6.5%",
-            "6.0%",
-            "6.2%",
-            "6.3%",
-            "6.1%"
+            "30 years",
+            "32 years",
+            "33 years",
+            "31 years",
+            "34 years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how many basis points did the United Nations cut India\u2019s GDP growth projection for calendar year 2026?",
-        "a": "20 basis points",
+        "q": "For how many days was Samarth Singh remanded to police custody?",
+        "a": "Seven days",
         "options": [
-            "25 basis points",
-            "15 basis points",
-            "20 basis points",
-            "30 basis points",
-            "10 basis points"
+            "Six days",
+            "Eight days",
+            "Seven days",
+            "Five days",
+            "Ten days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was India's core infrastructure sector growth year-on-year in April?",
-        "a": "1.7%",
+        "q": "What is the existing non-National Eligibility Test (NET) fellowship amount per month provided by the Central University of Rajasthan (CUoR)?",
+        "a": "\u20b98,000",
         "options": [
-            "1.2%",
-            "2.0%",
-            "1.7%",
-            "1.5%",
-            "1.9%"
+            "\u20b97,500",
+            "\u20b98,500",
+            "\u20b98,000",
+            "\u20b99,000",
+            "\u20b97,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage increase in cement output year-on-year in April?",
-        "a": "9.4%",
+        "q": "What is the additional monthly financial support provided to research scholars under the new CUoR scheme?",
+        "a": "\u20b95,000",
         "options": [
-            "8.9%",
-            "9.1%",
-            "9.4%",
-            "9.7%",
-            "9.9%"
+            "\u20b94,500",
+            "\u20b95,500",
+            "\u20b95,000",
+            "\u20b96,000",
+            "\u20b94,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the peak power demand recorded on Thursday amid a persistent heatwave?",
-        "a": "270.73 GW",
+        "q": "What is the additional contingency grant provided to research scholars under the new CUoR scheme for research-related expenses?",
+        "a": "\u20b910,000",
         "options": [
-            "271.00 GW",
-            "269.50 GW",
-            "270.73 GW",
-            "270.00 GW",
-            "271.50 GW"
+            "\u20b99,500",
+            "\u20b910,500",
+            "\u20b910,000",
+            "\u20b911,000",
+            "\u20b99,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What amount did Adani Enterprises agree to pay to settle a US probe?",
-        "a": "$275 million",
-        "options": [
-            "$280 million",
-            "$270 million",
-            "$275 million",
-            "$265 million",
-            "$285 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the revenue of Ola Electric in FY26?",
-        "a": "\u20b92,253 crore",
-        "options": [
-            "\u20b92,300 crore",
-            "\u20b92,200 crore",
-            "\u20b92,253 crore",
-            "\u20b92,260 crore",
-            "\u20b92,240 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of employees did TCS ask managers to classify in the lowest performance band during its latest appraisal cycle?",
-        "a": "5%",
-        "options": [
-            "6%",
-            "4%",
-            "5%",
-            "7%",
-            "3%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many essential medicines is the Centre considering for a one-time price increase?",
-        "a": "384",
-        "options": [
-            "390",
-            "380",
-            "384",
-            "388",
-            "375"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of urban Indian parents ranked excessive screen time and digital addiction among their top three worries for children in a Mint survey?",
-        "a": "65%",
-        "options": [
-            "60%",
-            "70%",
-            "65%",
-            "55%",
-            "68%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the estimated liquidity surplus in the banking system as on May 21?",
-        "a": "\u20b958,876.29 crore",
-        "options": [
-            "\u20b959,000 crore",
-            "\u20b958,500 crore",
-            "\u20b958,876.29 crore",
-            "\u20b960,000 crore",
-            "\u20b958,700 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the cut-off rate at which the RBI infused funds in the three-day variable rate repo (VRR) auction on May 22, 2026?",
-        "a": "5.26%",
-        "options": [
-            "5.20%",
-            "5.30%",
-            "5.26%",
-            "5.25%",
-            "5.28%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount of surplus did the RBI approve to transfer to the Central Government as dividend for the accounting year 2025-26?",
-        "a": "\u20b92,86,588.46 crore",
-        "options": [
-            "\u20b92,87,000 crore",
-            "\u20b92,86,000 crore",
-            "\u20b92,86,588.46 crore",
-            "\u20b92,85,500 crore",
-            "\u20b92,86,800 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the RBI balance sheet did the board decide to maintain the Contingent Risk Buffer (CRB) at for FY26?",
-        "a": "6.5%",
-        "options": [
-            "7.0%",
-            "6.0%",
-            "6.5%",
-            "7.5%",
-            "5.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total balance sheet size of the RBI as on March 31, 2026?",
-        "a": "\u20b991,97,121.08 crore",
-        "options": [
-            "\u20b992,00,000 crore",
-            "\u20b991,90,000 crore",
-            "\u20b991,97,121.08 crore",
-            "\u20b992,10,000 crore",
-            "\u20b991,80,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How old was Isaac, Danny Go's son, at the time of his death?",
-        "a": "14 years old",
-        "options": [
-            "12 years old",
-            "16 years old",
-            "14 years old",
-            "15 years old",
-            "13 years old"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many months of interim bail did the Supreme Court grant to two accused in the 2020 Delhi riots case?",
+        "q": "For how many months of interim bail did the Supreme Court grant to Abdul Khalid Saifi and Tasleem Ahmad in the 2020 Delhi riots case?",
         "a": "Six months",
         "options": [
-            "Three months",
-            "Nine months",
+            "Five months",
+            "Seven months",
             "Six months",
             "Four months",
             "Eight months"
@@ -204,638 +72,650 @@
         "cat": "Amount"
     },
     {
-        "q": "What amount of personal bonds were the Delhi riots accused directed to furnish for interim bail?",
-        "a": "\u20b92 lakh each",
+        "q": "How many years had Umar Khalid spent in jail before being denied bail in the Delhi riots 'larger conspiracy' case?",
+        "a": "Over five years",
         "options": [
-            "\u20b91 lakh each",
-            "\u20b93 lakh each",
-            "\u20b92 lakh each",
-            "\u20b92.5 lakh each",
-            "\u20b91.5 lakh each"
+            "Over four years",
+            "Over six years",
+            "Over five years",
+            "Over three years",
+            "Over seven years"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the previous liquidity surplus in the banking system as on May 20?",
-        "a": "\u20b91.51 lakh crore",
+        "q": "What is the approximate conviction rate under the Unlawful Activities (Prevention) Act (UAPA) across the country, as pointed out in the Andrabi judgment?",
+        "a": "2-6%",
         "options": [
-            "\u20b91.50 lakh crore",
-            "\u20b91.55 lakh crore",
-            "\u20b91.51 lakh crore",
-            "\u20b91.49 lakh crore",
-            "\u20b91.52 lakh crore"
+            "1-5%",
+            "3-7%",
+            "2-6%",
+            "4-8%",
+            "5-9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage decline in crude oil output year-on-year in April?",
-        "a": "3.9%",
+        "q": "How many people were injured in the massive missile and drone assault on Kyiv on Sunday?",
+        "a": "At least 10 people",
         "options": [
-            "3.5%",
-            "4.0%",
-            "3.9%",
-            "4.2%",
-            "3.7%"
+            "At least 8 people",
+            "At least 12 people",
+            "At least 10 people",
+            "At least 9 people",
+            "At least 11 people"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage increase in the RBI's gross income over the previous year?",
-        "a": "26.42%",
+        "q": "According to Moscow's claim, how many people were killed in prior Ukrainian attacks in Russian-occupied territory, which served as a reason for the Kyiv assault?",
+        "a": "18 people",
         "options": [
-            "26.00%",
-            "27.00%",
-            "26.42%",
-            "26.50%",
-            "26.30%"
+            "16 people",
+            "20 people",
+            "18 people",
+            "17 people",
+            "19 people"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage increase in the RBI's expenditure before risk provisions over the previous year?",
-        "a": "27.6%",
+        "q": "At what speed, described in Mach, does the Oreshnik hypersonic ballistic missile travel, according to Russian President Vladimir Putin?",
+        "a": "Mach 10",
         "options": [
-            "27.0%",
-            "28.0%",
-            "27.6%",
-            "27.5%",
-            "27.8%"
+            "Mach 8",
+            "Mach 12",
+            "Mach 10",
+            "Mach 9",
+            "Mach 11"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage of respondents in the Mint survey who cited concerns around physical safety and pollution as top worries for children?",
-        "a": "51%",
+        "q": "How many members were on the team of doctors from AIIMS Delhi who flew to Bhopal for Twisha Sharma's second autopsy?",
+        "a": "Four-member team",
         "options": [
-            "50%",
-            "52%",
-            "51%",
-            "53%",
-            "49%"
+            "Three-member team",
+            "Five-member team",
+            "Four-member team",
+            "Two-member team",
+            "Six-member team"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the percentage of respondents in the Mint survey who cited lack of open spaces as a major concern for children?",
-        "a": "42%",
+        "q": "How many other pending applications did Twisha Sharma's family's legal counsel mention for preservation, besides the passport submission?",
+        "a": "Three other pending applications",
         "options": [
-            "40%",
-            "45%",
-            "42%",
-            "41%",
-            "43%"
+            "Two other pending applications",
+            "Four other pending applications",
+            "Three other pending applications",
+            "Five other pending applications",
+            "One other pending application"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the initial GDP growth forecast for India for 2026-27 by Icra before it was cut?",
-        "a": "6.5%",
+        "q": "How many districts of Kyiv were reported to have suffered damage during the recent missile attack?",
+        "a": "At least nine districts",
         "options": [
-            "6.2%",
-            "6.3%",
-            "6.5%",
-            "6.0%",
-            "6.4%"
+            "At least eight districts",
+            "At least ten districts",
+            "At least nine districts",
+            "At least seven districts",
+            "At least six districts"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Governor of the Reserve Bank of India (RBI) under whose chairmanship the 623rd board meeting was held?",
-        "a": "Sanjay Malhotra",
+        "q": "For a minimum of how many years will research scholars continue to receive the scheme benefit at CUoR?",
+        "a": "Three years",
         "options": [
-            "Shaktikanta Das",
-            "Urjit Patel",
-            "Sanjay Malhotra",
-            "Raghuram Rajan",
-            "Subbarao"
+            "Two years",
+            "Four years",
+            "Three years",
+            "Five years",
+            "One year"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total monthly financial support a research scholar from the second semester onwards will receive at CUoR, combining existing and additional funds?",
+        "a": "\u20b913,000",
+        "options": [
+            "\u20b912,500",
+            "\u20b913,500",
+            "\u20b913,000",
+            "\u20b912,000",
+            "\u20b914,000"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the Chief Justice of India (CJI) heading the bench that is likely to consider the Twisha Sharma 'dowry' death case?",
+        "a": "Surya Kant",
+        "options": [
+            "Joymalya Bagchi",
+            "Vipul Pancholi",
+            "Surya Kant",
+            "Anand Bhalerao",
+            "Mohan Yadav"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Polish author mentioned in the news text, who won the 2018 Nobel Prize in Literature?",
-        "a": "Olga Tokarczuk",
+        "q": "Who is the husband of Twisha Sharma, identified as the prime accused in her dowry death case?",
+        "a": "Samarth Singh",
         "options": [
-            "Wis\u0142awa Szymborska",
-            "Henryk Sienkiewicz",
-            "Olga Tokarczuk",
-            "Czes\u0142aw Mi\u0142osz",
-            "Adam Mickiewicz"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the YouTube celebrity known as Danny Go, whose son Isaac passed away?",
-        "a": "Daniel Coleman",
-        "options": [
-            "David Coleman",
-            "Danny Wilson",
-            "Daniel Coleman",
-            "Dylan Thomas",
-            "Damon Cole"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Solicitor-General who submitted to the Supreme Court that the government would bring back people alleged to have been 'pushed' into Bangladesh?",
-        "a": "Tushar Mehta",
-        "options": [
-            "Ranjit Kumar",
-            "Mukesh Rohatgi",
-            "Tushar Mehta",
-            "Harish Salve",
-            "K.K. Venugopal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Chief Minister of Punjab who announced the removal of stray dogs from high footfall public spaces as per Supreme Court directions?",
-        "a": "Bhagwant Mann",
-        "options": [
-            "Arvind Kejriwal",
-            "Capt. Amarinder Singh",
-            "Bhagwant Mann",
-            "Parkash Singh Badal",
-            "Charanjit Singh Channi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which rating agency cut India's GDP growth forecast for 2026-27 from 6.5% to 6.2%?",
-        "a": "Icra",
-        "options": [
-            "Moody's",
-            "S&P",
-            "Fitch",
-            "Icra",
-            "Crisil"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was one of the Delhi riots accused granted six months of interim bail by the Supreme Court?",
-        "a": "Abdul Khalid Saifi",
-        "options": [
-            "Umar Khalid",
-            "Sharjeel Imam",
+            "Ankur Pandey",
             "Abdul Khalid Saifi",
-            "Gulfisha Fatima",
-            "K.A. Najeeb"
+            "Samarth Singh",
+            "Tasleem Ahmad",
+            "Umar Khalid"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which novelist reacted strongly against the use of AI in literature, comparing it to 'marrying a vibrator' at Impact\u201926?",
-        "a": "Szczepan Twardoch",
+        "q": "Who is the retired district additional judge (ADJ) and mother of Samarth Singh, also named in the FIR for the Twisha Sharma case?",
+        "a": "Giribala Singh",
         "options": [
-            "Olga Tokarczuk",
-            "Ziemowit Szczerek",
-            "Jacek Dukaj",
-            "Andrzej Stasiuk",
-            "Szczepan Twardoch"
+            "Twisha Sharma",
+            "Giribala Singh",
+            "Nagarathna Singh",
+            "Anjaria Singh",
+            "Jyoti Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the father of Sunali Khatun, the woman at the center of the alleged illegal deportation case?",
-        "a": "Bhodu Sekh",
+        "q": "Who is the legal counsel representing Twisha Sharma's family in the dowry death case?",
+        "a": "Ankur Pandey",
         "options": [
-            "Kapil Sibal",
-            "Sanjay Hegde",
-            "Tushar Mehta",
-            "Bhodu Sekh",
-            "Mohammed Ali"
+            "Samarth Singh",
+            "S.V. Raju",
+            "Ankur Pandey",
+            "Justice Bhuyan",
+            "Justice Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization conducted the survey on urban Indian parenting anxieties in association with Mint?",
-        "a": "YouGov India",
+        "q": "Who is the Vice-Chancellor of the Central University of Rajasthan (CUoR) who announced the new research promotion scheme?",
+        "a": "Anand Bhalerao",
         "options": [
-            "NITI Aayog",
-            "Oxford University",
-            "YouGov India",
-            "Gallup",
-            "Pew Research Center"
+            "Surya Kant",
+            "Tymur Tkachenko",
+            "Anand Bhalerao",
+            "Mykola Kalashnyk",
+            "Mohan Yadav"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which region of the world is the ongoing conflict cited as a reason for trimming India's economic growth outlook and disrupting pharmaceutical supplies?",
-        "a": "West Asia",
+        "q": "Who authored the 2021 Supreme Court judgment in Union of India v. K.A. Najeeb, which settled the principle on prolonged incarceration?",
+        "a": "Justice Surya Kant",
         "options": [
-            "East Asia",
-            "West Asia",
-            "Eastern Europe",
-            "North Africa",
-            "South America"
+            "Justice Joymalya Bagchi",
+            "Justice Vipul Pancholi",
+            "Justice Surya Kant",
+            "Justice A.M. Khanwilkar",
+            "Justice Ujjal Bhuyan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who authored the judgment in Syed Iftikhar Andrabi v. National Investigation Agency, which voiced serious reservations about smaller Benches 'hollowing out' the Najeeb principle?",
+        "a": "Justice Bhuyan",
+        "options": [
+            "Justice Nagarathna",
+            "Justice Aravind Kumar",
+            "Justice N.V. Anjaria",
+            "Justice Bhuyan",
+            "Justice Khanwilkar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the head of the Kyiv city military administration who reported on the mass ballistic missile attack?",
+        "a": "Tymur Tkachenko",
+        "options": [
+            "Vitalii Klitschko",
+            "Volodymyr Zelenskyy",
+            "Tymur Tkachenko",
+            "Mykola Kalashnyk",
+            "Vladimir Putin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Mayor of Kyiv who stated that a school building was damaged in the Shevchenkivsky district during the missile attack?",
+        "a": "Vitalii Klitschko",
+        "options": [
+            "Tymur Tkachenko",
+            "Volodymyr Zelenskyy",
+            "Vitalii Klitschko",
+            "Mykola Kalashnyk",
+            "Vladimir Putin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Ukrainian President who warned of a possible major airstrike involving the Oreshnik hypersonic ballistic missile?",
+        "a": "Volodymyr Zelenskyy",
+        "options": [
+            "Vitalii Klitschko",
+            "Tymur Tkachenko",
+            "Volodymyr Zelenskyy",
+            "Mykola Kalashnyk",
+            "Vladimir Putin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who claimed that the Oreshnik missile travels at Mach 10 and can penetrate underground bunkers several floors deep?",
+        "a": "Russian President Vladimir Putin",
+        "options": [
+            "Ukrainian President Volodymyr Zelenskyy",
+            "Kyiv Mayor Vitalii Klitschko",
+            "Russian President Vladimir Putin",
+            "Tymur Tkachenko",
+            "Mykola Kalashnyk"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is currently serving as chairperson of the Lokpal, and previously headed the Division Bench for the 2019 National Investigation Agency v. Zahoor Ahmad Shah Watali judgment?",
+        "a": "Justice A.M. Khanwilkar",
+        "options": [
+            "Justice Surya Kant",
+            "Justice Ujjal Bhuyan",
+            "Justice Aravind Kumar",
+            "Justice A.M. Khanwilkar",
+            "Justice N.V. Anjaria"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which city was Twisha Sharma's marital home, where she was found hanging?",
+        "a": "Bhopal",
+        "options": [
+            "Noida",
+            "Delhi",
+            "Bhopal",
+            "Ajmer",
+            "Lviv"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Indian city are petrol prices reported to be the highest among the four metro cities mentioned?",
-        "a": "Kolkata",
+        "q": "Twisha Sharma was a native of which Indian city?",
+        "a": "Noida",
         "options": [
-            "Mumbai",
+            "Bhopal",
             "Delhi",
-            "Chennai",
-            "Kolkata",
-            "Bengaluru"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city was the 623rd meeting of the Central Board of Directors of Reserve Bank of India held?",
-        "a": "Mumbai",
-        "options": [
-            "Delhi",
-            "Bengaluru",
-            "Chennai",
-            "Kolkata",
+            "Noida",
+            "Ajmer",
             "Mumbai"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Polish city did Olga Tokarczuk make remarks about AI at Impact\u201926, triggering a debate?",
-        "a": "Pozna\u0144",
-        "options": [
-            "Warsaw",
-            "Krak\u00f3w",
-            "Pozna\u0144",
-            "Gda\u0144sk",
-            "Wroc\u0142aw"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the short-range ballistic missile Agni-1 successfully test-launched from?",
-        "a": "Integrated Test Range in Balasore, Odisha",
-        "options": [
-            "Sriharikota, Andhra Pradesh",
-            "Pokhran, Rajasthan",
-            "Integrated Test Range in Balasore, Odisha",
-            "Thumba, Kerala",
-            "Kurnool, Andhra Pradesh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which High Court initially set aside the Union government's decision to deport Sunali Khatun and others to Bangladesh?",
-        "a": "Calcutta High Court",
+        "q": "Which High Court did Samarth Singh withdraw his anticipatory bail application from?",
+        "a": "Madhya Pradesh High Court",
         "options": [
             "Delhi High Court",
-            "Bombay High Court",
-            "Madras High Court",
-            "Calcutta High Court",
-            "Allahabad High Court"
+            "Supreme Court",
+            "Madhya Pradesh High Court",
+            "Rajasthan High Court",
+            "Bombay High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court granted interim bail to accused in which prominent riot case?",
-        "a": "2020 Delhi riots case",
+        "q": "From which city did the team of doctors fly to Bhopal to conduct Twisha Sharma's second autopsy?",
+        "a": "AIIMS Delhi",
         "options": [
-            "Gujarat riots case",
-            "Muzaffarnagar riots case",
-            "2020 Delhi riots case",
-            "Mumbai riots case",
-            "Bengaluru riots case"
+            "Bhopal",
+            "Mumbai",
+            "Delhi",
+            "Chennai",
+            "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which state will stray dogs be removed from all high footfall public spaces as per Supreme Court directions?",
-        "a": "Punjab",
+        "q": "Where is the Central University of Rajasthan (CUoR) situated?",
+        "a": "Bandar Sindri in Ajmer district",
         "options": [
-            "Haryana",
-            "Uttar Pradesh",
-            "Rajasthan",
-            "Himachal Pradesh",
-            "Punjab"
+            "Bhopal",
+            "Noida",
+            "Kyiv",
+            "Bandar Sindri in Ajmer district",
+            "Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Adani Enterprises settled a US probe related to purchases of LPG from which sanctioned country?",
-        "a": "Iran",
+        "q": "Which Ukrainian capital city was subjected to a massive overnight missile and drone assault on Sunday?",
+        "a": "Kyiv",
         "options": [
-            "North Korea",
-            "Syria",
-            "Iran",
-            "Cuba",
-            "Venezuela"
+            "Lviv",
+            "Dnipro",
+            "Kyiv",
+            "Odessa",
+            "Kharkiv"
         ],
         "cat": "Where"
     },
     {
-        "q": "When did the second retail fuel price hike (around 90 paise a litre) occur, as mentioned in the news?",
-        "a": "Tuesday",
+        "q": "Which districts of Kyiv were initially reported to be affected by the missile attack?",
+        "a": "Shevchenkivsky, Dniprovsky, and Podilsky districts",
         "options": [
-            "Monday",
-            "Wednesday",
-            "Tuesday",
-            "Thursday",
-            "Friday"
+            "Shevchenkivsky, Lvivsky, and Odesky districts",
+            "Shevchenkivsky, Dniprovsky, and Podilsky districts",
+            "Kyivsky, Kharkivsky, and Zeleny districts",
+            "Dniprovsky, Lvivsky, and Zeleny districts",
+            "Podilsky, Odesky, and Kharkivsky districts"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which Ukrainian city was the Oreshnik hypersonic ballistic missile first deployed in November 2024?",
+        "a": "Dnipro",
+        "options": [
+            "Lviv",
+            "Kyiv",
+            "Dnipro",
+            "Kharkiv",
+            "Odesa"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which region of Ukraine was the Oreshnik missile used again earlier this year, after its initial deployment?",
+        "a": "Lviv region",
+        "options": [
+            "Kyiv region",
+            "Odessa region",
+            "Lviv region",
+            "Kharkiv region",
+            "Dnipro region"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Delhi riots case, related to UAPA bail discussions, refers to incidents in which Indian city?",
+        "a": "Delhi",
+        "options": [
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Delhi",
+            "Bengaluru"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Supreme Court registered the suo motu case concerning Twisha Sharma's death at which specific location?",
+        "a": "Supreme Court",
+        "options": [
+            "Madhya Pradesh High Court",
+            "Noida Police Station",
+            "Bhopal District Court",
+            "Supreme Court",
+            "AIIMS Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which country does the UAPA law empower the Centre to designate individuals as 'terrorists'?",
+        "a": "India",
+        "options": [
+            "Pakistan",
+            "Ukraine",
+            "Russia",
+            "India",
+            "USA"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date is the Supreme Court bench headed by CJI Surya Kant likely to consider the Twisha Sharma 'dowry' death case?",
+        "a": "Monday, May 25",
+        "options": [
+            "Tuesday, May 26",
+            "Monday, May 25",
+            "Sunday, May 24",
+            "Wednesday, May 27",
+            "Saturday, May 23"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date was the previous \u20b93-per-litre fuel hike, the first in four years, implemented?",
-        "a": "15 May",
+        "q": "When was Twisha Sharma found hanging at her marital home in Bhopal?",
+        "a": "May 12",
         "options": [
-            "10 May",
-            "20 May",
-            "15 May",
-            "12 May",
-            "18 May"
+            "May 10",
+            "May 14",
+            "May 12",
+            "May 11",
+            "May 13"
         ],
         "cat": "When"
     },
     {
-        "q": "In which accounting year did the RBI approve the transfer of surplus to the Central Government as dividend?",
-        "a": "2025-26",
+        "q": "When did Twisha Sharma marry Bhopal resident Samarth Singh?",
+        "a": "December 25, 2025",
         "options": [
-            "2024-25",
-            "2026-27",
-            "2025-26",
-            "2023-24",
-            "2022-23"
+            "December 25, 2024",
+            "December 25, 2025",
+            "January 1, 2025",
+            "November 15, 2025",
+            "February 14, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "As of which date was the RBI's balance sheet reported to have expanded to \u20b991,97,121.08 crore?",
-        "a": "March 31, 2026",
+        "q": "From which academic session onwards will research scholars be eligible for the new CUoR research promotion scheme benefits?",
+        "a": "Academic session of 2025 onwards",
         "options": [
-            "April 30, 2026",
-            "March 31, 2025",
-            "March 31, 2026",
-            "February 28, 2026",
-            "January 31, 2026"
+            "Academic session of 2024 onwards",
+            "Academic session of 2026 onwards",
+            "Academic session of 2025 onwards",
+            "Academic session of 2023 onwards",
+            "Academic session of 2027 onwards"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Danny Go's YouTube channel, which now has over 4.5 million subscribers, launched?",
+        "q": "On what date did the Supreme Court grant six months of interim bail to Abdul Khalid Saifi and Tasleem Ahmad in the 2020 Delhi riots case?",
+        "a": "May 22",
+        "options": [
+            "May 20",
+            "May 24",
+            "May 22",
+            "May 21",
+            "May 23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the 2021 judgment, Union of India v. K.A. Najeeb, settled by a three-judge Bench of the Supreme Court?",
         "a": "2021",
         "options": [
-            "2019",
             "2020",
+            "2022",
             "2021",
+            "2019",
+            "2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Bench of Justices B.V. Nagarathna and Ujjal Bhuyan issue the Syed Iftikhar Andrabi v. National Investigation Agency verdict?",
+        "a": "May 18",
+        "options": [
+            "May 16",
+            "May 20",
+            "May 18",
+            "May 17",
+            "May 19"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Supreme Court judgment in Gulfisha Fatima v. State, Government of NCT Delhi, which denied bail to Umar Khalid and Sharjeel Imam?",
+        "a": "January 5, 2026",
+        "options": [
+            "February 5, 2026",
+            "January 5, 2026",
+            "December 5, 2025",
+            "March 5, 2026",
+            "April 5, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the Delhi riots case, concerning UAPA charges, originally occur?",
+        "a": "2020",
+        "options": [
+            "2019",
+            "2021",
+            "2020",
             "2022",
             "2018"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Olga Tokarczuk win the Nobel Prize in Literature?",
-        "a": "2018",
+        "q": "In which year did the Supreme Court issue the National Investigation Agency v. Zahoor Ahmad Shah Watali judgment?",
+        "a": "2019",
         "options": [
-            "2017",
-            "2019",
             "2018",
             "2020",
-            "2016"
+            "2019",
+            "2021",
+            "2017"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court referred the Delhi riots bail case to a larger Bench on which day of the week, as mentioned in the news?",
-        "a": "Friday",
+        "q": "What is the primary purpose of the new research promotion scheme launched by the Central University of Rajasthan (CUoR)?",
+        "a": "To empower scholars financially and encourage them to pursue quality research without financial stress.",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which quarter of 2026 did the RBI report a moderation in labour market conditions?",
-        "a": "January-March 2026 quarter",
-        "options": [
-            "April-June 2026 quarter",
-            "October-December 2025 quarter",
-            "January-March 2026 quarter",
-            "July-September 2026 quarter",
-            "July-September 2025 quarter"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the FASTag Annual Pass scheme introduced, which the RBI attributed to a decline in monthly toll transactions?",
-        "a": "August 2025",
-        "options": [
-            "September 2025",
-            "July 2025",
-            "August 2025",
-            "June 2025",
-            "October 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary reason stated for the dimming of India's 2026-27 growth outlook?",
-        "a": "Rising external uncertainties and economic fallout of the West Asia war",
-        "options": [
-            "Domestic demand slowdown",
-            "Inflation concerns",
-            "Rising external uncertainties and economic fallout of the West Asia war",
-            "Weak industrial production",
-            "Decline in services sector"
+            "To increase the number of international publications.",
+            "To empower scholars financially and encourage them to pursue quality research without financial stress.",
+            "To reduce the administrative burden on faculty members.",
+            "To attract more foreign students to the university.",
+            "To fund infrastructure development within the campus."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the stated purpose of the state-run companies raising petrol and diesel prices?",
-        "a": "To reduce losses incurred by oil marketing companies (OMCs) amid high global crude oil prices",
+        "q": "According to the CUoR Vice-Chancellor, what is a key reason for the new initiative, besides financial support?",
+        "a": "To attract meritorious students towards research and promote a strong culture of innovation and academic excellence.",
         "options": [
-            "To boost government revenue",
-            "To curb fuel consumption",
-            "To reduce losses incurred by oil marketing companies (OMCs) amid high global crude oil prices",
-            "To align with international prices",
-            "To discourage private vehicle usage"
+            "To reduce the university's budget surplus.",
+            "To comply with new government regulations.",
+            "To attract meritorious students towards research and promote a strong culture of innovation and academic excellence.",
+            "To compete with private universities in admissions.",
+            "To fund student exchange programs."
         ],
         "cat": "Why"
     },
     {
-        "q": "According to the Mint analysis, why are strong quarterly numbers alone no longer enough to sustain stock rallies?",
-        "a": "Growing investor caution around future growth visibility and durability of earnings momentum",
+        "q": "Why did the Supreme Court take suo motu cognisance of the Twisha Sharma 'dowry' death case?",
+        "a": "In view of the seriousness of the allegations and concerns surrounding the investigation.",
         "options": [
-            "Lower trading volumes",
-            "Increased regulatory scrutiny",
-            "Growing investor caution around future growth visibility and durability of earnings momentum",
-            "Lack of new IPOs",
-            "Political instability"
+            "Due to a direct appeal from the victim's family.",
+            "Based on a reference from the Madhya Pradesh High Court.",
+            "In view of the seriousness of the allegations and concerns surrounding the investigation.",
+            "To set a new legal precedent for dowry cases.",
+            "To review the police investigation process in general."
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main reason for the record high peak power demand on Thursday?",
-        "a": "Persistent heatwave in some parts of the country",
+        "q": "What was the core question of law referred to a larger Bench by the Supreme Court in the UAPA bail discussions?",
+        "a": "Whether prolonged incarceration and delay in trial can override the stringent bail curbs under anti-terror laws.",
         "options": [
-            "Increased industrial activity",
-            "Growth in commercial sector",
-            "Persistent heatwave in some parts of the country",
-            "Expansion of residential areas",
-            "Festival season demand"
+            "Whether Section 43D(5) of UAPA is constitutionally valid.",
+            "Whether all UAPA cases should be tried by special courts.",
+            "Whether prolonged incarceration and delay in trial can override the stringent bail curbs under anti-terror laws.",
+            "Whether bail should be granted in all cases where an accused has spent more than five years in jail.",
+            "Whether the definition of 'terrorist' under UAPA needs to be revised."
         ],
         "cat": "Why"
     },
     {
-        "q": "What did the Mint survey find to be the biggest concern among urban Indian parents regarding their children?",
-        "a": "Excessive screen time and digital addiction",
+        "q": "What fundamental principle is reversed by Section 43D(5) of the UAPA regarding bail jurisprudence?",
+        "a": "The normal presumption of 'bail, not jail' was reversed, and the burden turned onto the accused, supposing the person to be guilty until found innocent.",
         "options": [
-            "Academic pressure",
-            "Physical safety and pollution",
-            "Excessive screen time and digital addiction",
-            "Lifestyle diseases",
-            "Lack of open spaces"
+            "The presumption of 'jail, not bail' was established.",
+            "The normal presumption of 'bail, not jail' was reversed, and the burden turned onto the accused, supposing the person to be guilty until found innocent.",
+            "The court's power to grant bail was significantly expanded.",
+            "The requirement for a chargesheet was removed for UAPA cases.",
+            "The accused gained more rights during the bail hearing process."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the RBI inject transient liquidity into the banking system through a three-day variable rate repo (VRR) auction?",
-        "a": "To inject short-term liquidity into the banking system",
+        "q": "What was the purpose of the K.A. Najeeb judgment in softening the bail bar under UAPA?",
+        "a": "To clarify that constitutional courts could 'melt down' the rigour of Section 43D(5) and grant bail to a UAPA accused who had already spent a 'substantial period of time' in jail due to gross delay in trial.",
         "options": [
-            "To control inflation",
-            "To absorb excess liquidity",
-            "To inject short-term liquidity into the banking system",
-            "To stabilize the rupee",
-            "To encourage lending"
+            "To make bail automatic for UAPA accused after five years.",
+            "To clarify that constitutional courts could 'melt down' the rigour of Section 43D(5) and grant bail to a UAPA accused who had already spent a 'substantial period of time' in jail due to gross delay in trial.",
+            "To mandate immediate trials for all UAPA cases.",
+            "To increase the conviction rate under UAPA.",
+            "To reduce the burden on the Supreme Court."
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court refer the question of prolonged incarceration overriding stringent bail curbs under UAPA to a larger Bench?",
-        "a": "To ensure parity, consistency, and institutional fidelity in the application of binding precedents",
+        "q": "What did the Andrabi judgment clarify about the Supreme Court's role in UAPA cases regarding Article 21?",
+        "a": "Constitutional courts had to intervene to protect the fundamental right to life and personal liberty under Article 21 of the Constitution, stating Section 43D(5) was subordinate to Article 21.",
         "options": [
-            "To criticize the Delhi High Court's ruling",
-            "To expedite the trial process",
-            "To ensure parity, consistency, and institutional fidelity in the application of binding precedents",
-            "To amend the UAPA law",
-            "To reduce the backlog of cases"
+            "That Article 21 was subservient to Section 43D(5) in all UAPA cases.",
+            "That bail should always be denied if the offence is serious.",
+            "That the conviction rate under UAPA was irrelevant to bail decisions.",
+            "Constitutional courts had to intervene to protect the fundamental right to life and personal liberty under Article 21 of the Constitution, stating Section 43D(5) was subordinate to Article 21.",
+            "That an undertrial could be punished with denial of bail for the state\u2019s ineptitude."
         ],
         "cat": "Why"
     },
     {
-        "q": "What percentage was the decline in fertilizer output year-on-year in April?",
-        "a": "8.6%",
+        "q": "What was the primary reason cited by Moscow for launching the massive missile and drone assault on Kyiv early Sunday?",
+        "a": "Retaliation for Ukrainian attacks in Russian-occupied territory that it said killed 18 people.",
         "options": [
-            "24.6%",
-            "10.0%",
-            "8.6%",
-            "9.0%",
-            "8.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in electricity generation year-on-year in April?",
-        "a": "4.1%",
-        "options": [
-            "3.5%",
-            "4.5%",
-            "4.1%",
-            "4.0%",
-            "3.9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage fall in petroleum refinery products during April?",
-        "a": "0.5%",
-        "options": [
-            "1.0%",
-            "0.2%",
-            "0.5%",
-            "0.7%",
-            "0.3%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the RBI Governor mentioned in the January ruling of the Justice Kumar-headed Bench, which refused bail to activists Umar Khalid and Sharjeel Imam?",
-        "a": "Justice Aravind Kumar",
-        "options": [
-            "Justice P. B. Varale",
-            "Justice B.V. Nagarathna",
-            "Justice Ujjal Bhuyan",
-            "Justice Aravind Kumar",
-            "Chief Justice Surya Kant"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which month did the RBI's monthly bulletin for April 2026 release its latest State of the Economy report?",
-        "a": "April",
-        "options": [
-            "March",
-            "May",
-            "April",
-            "June",
-            "February"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Isaac, Danny Go's son, begin battling stage 3 mouth cancer?",
-        "a": "Late 2025",
-        "options": [
-            "Early 2025",
-            "Mid 2025",
-            "Late 2025",
-            "Early 2026",
-            "Mid 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the initial percentage fall in fertilizer output recorded in March, which later eased in April?",
-        "a": "24.6%",
-        "options": [
-            "8.6%",
-            "20.0%",
-            "24.6%",
-            "22.0%",
-            "26.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in steel production year-on-year in April?",
-        "a": "6.2%",
-        "options": [
-            "5.8%",
-            "6.0%",
-            "6.2%",
-            "6.5%",
-            "6.1%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Why did Danny Go cancel the rest of his Danny Go! Tour?",
-        "a": "To stay with his family after Isaac\u2019s condition became worse",
-        "options": [
-            "Due to low ticket sales",
-            "To work on new projects",
-            "To stay with his family after Isaac\u2019s condition became worse",
-            "Due to health issues",
-            "To pursue acting career"
+            "To test new hypersonic missiles.",
+            "To target government offices in Kyiv.",
+            "Retaliation for Ukrainian attacks in Russian-occupied territory that it said killed 18 people.",
+            "To disrupt electricity supply in the capital.",
+            "To coincide with a major holiday."
         ],
         "cat": "Why"
     },
     {
-        "q": "What framework provides flexibility to maintain the CRB within the range of 4.5-7.5% of the balance sheet size?",
-        "a": "Revised Economic Capital Framework (ECF)",
+        "q": "Why did the Madhya Pradesh High Court order a second autopsy of Twisha Sharma's body?",
+        "a": "Amid demands by her parents and allegations of procedural irregularities.",
         "options": [
-            "Basel III Framework",
-            "Financial Stability Framework",
-            "Revised Economic Capital Framework (ECF)",
-            "Monetary Policy Framework",
-            "Credit Policy Framework"
+            "As a routine procedure in dowry death cases.",
+            "To confirm the cause of death.",
+            "Amid demands by her parents and allegations of procedural irregularities.",
+            "Following a recommendation from the CBI.",
+            "To investigate a new lead in the case."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of the 2019 Zahoor Ahmad Shah Watali judgment regarding Section 43D(5) of UAPA?",
+        "a": "To hold that an 'elaborate examination' of evidence was not necessary for a court to establish prima facie guilt, requiring only a glance through 'broad probabilities' to deny bail.",
+        "options": [
+            "To ease bail conditions for UAPA accused.",
+            "To increase the burden of proof on the prosecution.",
+            "To hold that an 'elaborate examination' of evidence was not necessary for a court to establish prima facie guilt, requiring only a glance through 'broad probabilities' to deny bail.",
+            "To mandate a detailed review of case diaries for bail.",
+            "To ensure speedy trials for UAPA cases."
         ],
         "cat": "Why"
     }
