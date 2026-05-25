@@ -1,721 +1,721 @@
 [
     {
-        "q": "What was Twisha Sharma's age at the time of her death?",
-        "a": "33 years",
+        "q": "What was the total stock of rice and wheat held by FCI and state agencies as of May 1, 2026?",
+        "a": "81.75 million tonnes",
         "options": [
-            "30 years",
-            "32 years",
-            "33 years",
-            "31 years",
-            "34 years"
+            "81.75 million tonnes",
+            "81.00 million tonnes",
+            "82.50 million tonnes",
+            "80.50 million tonnes",
+            "83.25 million tonnes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many days was Samarth Singh remanded to police custody?",
-        "a": "Seven days",
+        "q": "How many million tonnes of rice stock were held by FCI and state agencies as on May 1, 2026?",
+        "a": "38.95 million tonnes",
         "options": [
-            "Six days",
-            "Eight days",
-            "Seven days",
-            "Five days",
-            "Ten days"
+            "38.95 million tonnes",
+            "39.00 million tonnes",
+            "38.50 million tonnes",
+            "39.50 million tonnes",
+            "37.95 million tonnes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the existing non-National Eligibility Test (NET) fellowship amount per month provided by the Central University of Rajasthan (CUoR)?",
-        "a": "\u20b98,000",
+        "q": "What was the wheat stock held by FCI and state agencies as on May 1, 2026?",
+        "a": "42.79 million tonnes",
         "options": [
-            "\u20b97,500",
-            "\u20b98,500",
-            "\u20b98,000",
-            "\u20b99,000",
-            "\u20b97,000"
+            "42.79 million tonnes",
+            "43.00 million tonnes",
+            "42.50 million tonnes",
+            "43.25 million tonnes",
+            "41.79 million tonnes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the additional monthly financial support provided to research scholars under the new CUoR scheme?",
-        "a": "\u20b95,000",
+        "q": "What percentage of the Long Period Average (LPA) is the 2026 southwest monsoon rainfall projected to be?",
+        "a": "Around 92%",
         "options": [
-            "\u20b94,500",
-            "\u20b95,500",
-            "\u20b95,000",
-            "\u20b96,000",
-            "\u20b94,000"
+            "Around 92%",
+            "Around 90%",
+            "Around 95%",
+            "Around 88%",
+            "Around 98%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the additional contingency grant provided to research scholars under the new CUoR scheme for research-related expenses?",
-        "a": "\u20b910,000",
+        "q": "What is the Long Period Average (LPA) for the June-September monsoon season in India, in cm?",
+        "a": "87 cm",
         "options": [
-            "\u20b99,500",
-            "\u20b910,500",
-            "\u20b910,000",
-            "\u20b911,000",
-            "\u20b99,000"
+            "87 cm",
+            "85 cm",
+            "90 cm",
+            "82 cm",
+            "92 cm"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many months of interim bail did the Supreme Court grant to Abdul Khalid Saifi and Tasleem Ahmad in the 2020 Delhi riots case?",
-        "a": "Six months",
+        "q": "What was the estimated total annual groundwater recharge in India in 2025, in billion cubic metres (BCM)?",
+        "a": "448.52 BCM",
         "options": [
-            "Five months",
-            "Seven months",
-            "Six months",
-            "Four months",
-            "Eight months"
+            "448.52 BCM",
+            "450.00 BCM",
+            "445.00 BCM",
+            "455.00 BCM",
+            "440.00 BCM"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many years had Umar Khalid spent in jail before being denied bail in the Delhi riots 'larger conspiracy' case?",
-        "a": "Over five years",
+        "q": "What was the annual groundwater extraction in India in 2025, in billion cubic metres (BCM)?",
+        "a": "247.22 BCM",
         "options": [
-            "Over four years",
-            "Over six years",
-            "Over five years",
-            "Over three years",
-            "Over seven years"
+            "247.22 BCM",
+            "250.00 BCM",
+            "245.00 BCM",
+            "255.00 BCM",
+            "240.00 BCM"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate conviction rate under the Unlawful Activities (Prevention) Act (UAPA) across the country, as pointed out in the Andrabi judgment?",
-        "a": "2-6%",
+        "q": "How many drones and missiles did Tehran launch at the Gulf state during its retaliatory campaign?",
+        "a": "More than 2,800",
         "options": [
-            "1-5%",
-            "3-7%",
-            "2-6%",
-            "4-8%",
-            "5-9%"
+            "More than 2,800",
+            "Exactly 2,800",
+            "More than 2,500",
+            "Exactly 3,000",
+            "Less than 2,800"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people were injured in the massive missile and drone assault on Kyiv on Sunday?",
-        "a": "At least 10 people",
+        "q": "What was the approximate weight of the satellite antenna consignment shipped from Shanghai to Dubai?",
+        "a": "Nearly 1.8 tonnes",
         "options": [
-            "At least 8 people",
-            "At least 12 people",
-            "At least 10 people",
-            "At least 9 people",
-            "At least 11 people"
+            "Nearly 1.8 tonnes",
+            "Exactly 1.8 tonnes",
+            "Approximately 2.0 tonnes",
+            "Around 1.5 tonnes",
+            "About 2.2 tonnes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to Moscow's claim, how many people were killed in prior Ukrainian attacks in Russian-occupied territory, which served as a reason for the Kyiv assault?",
-        "a": "18 people",
+        "q": "How much money was an elderly woman allegedly cheated of in the Karnataka cyberfraud case?",
+        "a": "Nearly \u20b924 crore",
         "options": [
-            "16 people",
-            "20 people",
-            "18 people",
-            "17 people",
-            "19 people"
+            "Nearly \u20b924 crore",
+            "Exactly \u20b924 crore",
+            "Around \u20b925 crore",
+            "About \u20b923 crore",
+            "More than \u20b924 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "At what speed, described in Mach, does the Oreshnik hypersonic ballistic missile travel, according to Russian President Vladimir Putin?",
-        "a": "Mach 10",
+        "q": "How much money was the Karnataka police able to save in the 'digital arrest' cyberfraud case?",
+        "a": "Around \u20b95.46 crore",
         "options": [
-            "Mach 8",
-            "Mach 12",
-            "Mach 10",
-            "Mach 9",
-            "Mach 11"
+            "Around \u20b95.46 crore",
+            "Exactly \u20b95.46 crore",
+            "Approximately \u20b95.50 crore",
+            "About \u20b95.00 crore",
+            "More than \u20b96.00 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many members were on the team of doctors from AIIMS Delhi who flew to Bhopal for Twisha Sharma's second autopsy?",
-        "a": "Four-member team",
+        "q": "What quantity of gold jewellery did the elderly woman attempt to pledge in Bengaluru?",
+        "a": "Around 1.3 kg",
         "options": [
-            "Three-member team",
-            "Five-member team",
-            "Four-member team",
-            "Two-member team",
-            "Six-member team"
+            "Around 1.3 kg",
+            "Exactly 1.3 kg",
+            "Approximately 1.5 kg",
+            "About 1.0 kg",
+            "More than 1.5 kg"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many other pending applications did Twisha Sharma's family's legal counsel mention for preservation, besides the passport submission?",
-        "a": "Three other pending applications",
+        "q": "Who was the former Director General of IMD quoted regarding El Ni\u00f1o's impact?",
+        "a": "K.J. Ramesh",
         "options": [
-            "Two other pending applications",
-            "Four other pending applications",
-            "Three other pending applications",
-            "Five other pending applications",
-            "One other pending application"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many districts of Kyiv were reported to have suffered damage during the recent missile attack?",
-        "a": "At least nine districts",
-        "options": [
-            "At least eight districts",
-            "At least ten districts",
-            "At least nine districts",
-            "At least seven districts",
-            "At least six districts"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For a minimum of how many years will research scholars continue to receive the scheme benefit at CUoR?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Four years",
-            "Three years",
-            "Five years",
-            "One year"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the total monthly financial support a research scholar from the second semester onwards will receive at CUoR, combining existing and additional funds?",
-        "a": "\u20b913,000",
-        "options": [
-            "\u20b912,500",
-            "\u20b913,500",
-            "\u20b913,000",
-            "\u20b912,000",
-            "\u20b914,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Chief Justice of India (CJI) heading the bench that is likely to consider the Twisha Sharma 'dowry' death case?",
-        "a": "Surya Kant",
-        "options": [
-            "Joymalya Bagchi",
-            "Vipul Pancholi",
-            "Surya Kant",
-            "Anand Bhalerao",
-            "Mohan Yadav"
+            "K.J. Ramesh",
+            "R.S. Sharma",
+            "A.K. Gupta",
+            "S.N. Singh",
+            "P.V. Rao"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the husband of Twisha Sharma, identified as the prime accused in her dowry death case?",
-        "a": "Samarth Singh",
+        "q": "Which company, based in Ras al Khaimah, was involved in procuring advanced Chinese satellite antenna equipment for the IRGC Aerospace Force?",
+        "a": "Telesun",
         "options": [
-            "Ankur Pandey",
-            "Abdul Khalid Saifi",
-            "Samarth Singh",
-            "Tasleem Ahmad",
-            "Umar Khalid"
+            "Telesun",
+            "StarWin",
+            "SkyCom",
+            "GlobalSat",
+            "ConnectX"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the retired district additional judge (ADJ) and mother of Samarth Singh, also named in the FIR for the Twisha Sharma case?",
-        "a": "Giribala Singh",
+        "q": "Which Chinese manufacturer produced the 4.5 metre motorised satellite antenna acquired by the IRGC Aerospace Force?",
+        "a": "StarWin",
         "options": [
-            "Twisha Sharma",
-            "Giribala Singh",
-            "Nagarathna Singh",
-            "Anjaria Singh",
-            "Jyoti Singh"
+            "StarWin",
+            "Huawei",
+            "ZTE",
+            "Xiaomi",
+            "Telesun"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the legal counsel representing Twisha Sharma's family in the dowry death case?",
-        "a": "Ankur Pandey",
+        "q": "Which Iranian telecommunications company was the consignee for the satellite equipment shipment?",
+        "a": "Ertebatat Faragostar Kish (EFK)",
         "options": [
-            "Samarth Singh",
-            "S.V. Raju",
-            "Ankur Pandey",
-            "Justice Bhuyan",
-            "Justice Kumar"
+            "Ertebatat Faragostar Kish (EFK)",
+            "Saman Industrial Group",
+            "Blue Calm Marine Services",
+            "Tehran Telecom",
+            "IranSat Solutions"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Vice-Chancellor of the Central University of Rajasthan (CUoR) who announced the new research promotion scheme?",
-        "a": "Anand Bhalerao",
+        "q": "Which US body sanctioned Saman Industrial Group in December 2023?",
+        "a": "US Treasury",
         "options": [
-            "Surya Kant",
-            "Tymur Tkachenko",
-            "Anand Bhalerao",
-            "Mykola Kalashnyk",
-            "Mohan Yadav"
+            "US Treasury",
+            "US State Department",
+            "Department of Commerce",
+            "Defense Intelligence Agency",
+            "Central Intelligence Agency"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who authored the 2021 Supreme Court judgment in Union of India v. K.A. Najeeb, which settled the principle on prolonged incarceration?",
-        "a": "Justice Surya Kant",
+        "q": "Which organization is alleged to be the R&D wing responsible for Iran's ballistic missile, drone, and electronic warfare programmes, and for which Saman functioned as a front?",
+        "a": "Aerospace Force Self Sufficiency Jihad Organization",
         "options": [
-            "Justice Joymalya Bagchi",
-            "Justice Vipul Pancholi",
-            "Justice Surya Kant",
-            "Justice A.M. Khanwilkar",
-            "Justice Ujjal Bhuyan"
+            "Aerospace Force Self Sufficiency Jihad Organization",
+            "Revolutionary Guard Corps",
+            "Iran Space Agency",
+            "National Iranian Oil Company",
+            "Ministry of Defence and Armed Forces Logistics"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who authored the judgment in Syed Iftikhar Andrabi v. National Investigation Agency, which voiced serious reservations about smaller Benches 'hollowing out' the Najeeb principle?",
-        "a": "Justice Bhuyan",
+        "q": "Which shipping agent, sanctioned by the US in 2023, handled the Iranian side of the satellite equipment transaction?",
+        "a": "Blue Calm Marine Services",
         "options": [
-            "Justice Nagarathna",
-            "Justice Aravind Kumar",
-            "Justice N.V. Anjaria",
-            "Justice Bhuyan",
-            "Justice Khanwilkar"
+            "Blue Calm Marine Services",
+            "Global Freight Forwarders",
+            "Persian Gulf Shipping Co.",
+            "Iran Maritime Logistics",
+            "Red Sea Transports"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the head of the Kyiv city military administration who reported on the mass ballistic missile attack?",
-        "a": "Tymur Tkachenko",
+        "q": "Which Chinese company was sanctioned by Washington for allegedly supporting Iranian military operations by launching a satellite?",
+        "a": "The Earth Eye",
         "options": [
-            "Vitalii Klitschko",
-            "Volodymyr Zelenskyy",
-            "Tymur Tkachenko",
-            "Mykola Kalashnyk",
-            "Vladimir Putin"
+            "The Earth Eye",
+            "China Great Wall Industry Corporation",
+            "CASC",
+            "CASIC",
+            "SpaceX China"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Mayor of Kyiv who stated that a school building was damaged in the Shevchenkivsky district during the missile attack?",
-        "a": "Vitalii Klitschko",
+        "q": "Who took charge as Secretary to Kerala Chief Minister V.D. Satheesan on Sunday?",
+        "a": "Rathan U. Kelkar",
         "options": [
-            "Tymur Tkachenko",
-            "Volodymyr Zelenskyy",
-            "Vitalii Klitschko",
-            "Mykola Kalashnyk",
-            "Vladimir Putin"
+            "Rathan U. Kelkar",
+            "V. Muraleedharan",
+            "Manoj Agarwal",
+            "Ramesh Chennithala",
+            "Sunny Joseph"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Ukrainian President who warned of a possible major airstrike involving the Oreshnik hypersonic ballistic missile?",
-        "a": "Volodymyr Zelenskyy",
+        "q": "Who is the current Director-General of Police, Karnataka State Cyber Command?",
+        "a": "Pronab Mohanty",
         "options": [
-            "Vitalii Klitschko",
-            "Tymur Tkachenko",
-            "Volodymyr Zelenskyy",
-            "Mykola Kalashnyk",
-            "Vladimir Putin"
+            "Pronab Mohanty",
+            "B.R. Shetty",
+            "K.L. Rao",
+            "V.K. Gupta",
+            "S.P. Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who claimed that the Oreshnik missile travels at Mach 10 and can penetrate underground bunkers several floors deep?",
-        "a": "Russian President Vladimir Putin",
+        "q": "Who is the Japanese Foreign Minister who stated that the Quad remains a 'vital framework'?",
+        "a": "Toshimitsu Motegi",
         "options": [
-            "Ukrainian President Volodymyr Zelenskyy",
-            "Kyiv Mayor Vitalii Klitschko",
-            "Russian President Vladimir Putin",
-            "Tymur Tkachenko",
-            "Mykola Kalashnyk"
+            "Toshimitsu Motegi",
+            "Fumio Kishida",
+            "Yoko Kamikawa",
+            "Shinzo Abe",
+            "Tar\u014d K\u014dno"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is currently serving as chairperson of the Lokpal, and previously headed the Division Bench for the 2019 National Investigation Agency v. Zahoor Ahmad Shah Watali judgment?",
-        "a": "Justice A.M. Khanwilkar",
+        "q": "Who is the US Secretary of State participating in the Quadrilateral Foreign Ministers\u2019 Meeting on May 25, 2026?",
+        "a": "Marco Rubio",
         "options": [
-            "Justice Surya Kant",
-            "Justice Ujjal Bhuyan",
-            "Justice Aravind Kumar",
-            "Justice A.M. Khanwilkar",
-            "Justice N.V. Anjaria"
+            "Marco Rubio",
+            "Antony Blinken",
+            "Mike Pompeo",
+            "Rex Tillerson",
+            "Hillary Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which city was Twisha Sharma's marital home, where she was found hanging?",
-        "a": "Bhopal",
+        "q": "Where are concerns over El Ni\u00f1o primarily raised due to warmer sea surface temperatures?",
+        "a": "Central and eastern Pacific Ocean",
         "options": [
-            "Noida",
-            "Delhi",
-            "Bhopal",
-            "Ajmer",
-            "Lviv"
+            "Central and eastern Pacific Ocean",
+            "Indian Ocean",
+            "Atlantic Ocean",
+            "Arctic Ocean",
+            "Southern Ocean"
         ],
         "cat": "Where"
     },
     {
-        "q": "Twisha Sharma was a native of which Indian city?",
-        "a": "Noida",
+        "q": "Which country's Elite Revolutionary Guards used a UAE-based procurement network for satellite communication equipment?",
+        "a": "Iran",
         "options": [
-            "Bhopal",
-            "Delhi",
-            "Noida",
-            "Ajmer",
-            "Mumbai"
+            "Iran",
+            "Iraq",
+            "Syria",
+            "Yemen",
+            "Afghanistan"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which High Court did Samarth Singh withdraw his anticipatory bail application from?",
-        "a": "Madhya Pradesh High Court",
+        "q": "In which emirate is Telesun, the company involved in procuring satellite equipment for Iran, based?",
+        "a": "Ras al Khaimah",
         "options": [
-            "Delhi High Court",
-            "Supreme Court",
-            "Madhya Pradesh High Court",
-            "Rajasthan High Court",
-            "Bombay High Court"
+            "Ras al Khaimah",
+            "Dubai",
+            "Abu Dhabi",
+            "Sharjah",
+            "Ajman"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which city did the team of doctors fly to Bhopal to conduct Twisha Sharma's second autopsy?",
-        "a": "AIIMS Delhi",
+        "q": "From which city was the Chinese satellite equipment shipped?",
+        "a": "Shanghai",
         "options": [
-            "Bhopal",
-            "Mumbai",
-            "Delhi",
+            "Shanghai",
+            "Beijing",
+            "Hong Kong",
+            "Guangzhou",
+            "Shenzhen"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Through which port was the Chinese satellite equipment routed before reaching Iran?",
+        "a": "Dubai\u2019s Jebel Ali container port",
+        "options": [
+            "Dubai\u2019s Jebel Ali container port",
+            "Port Khalifa",
+            "Sharjah Container Terminal",
+            "Muscat Port",
+            "Bahrain Port"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which port in Iran was listed as the final delivery destination for the consignment?",
+        "a": "Shahid Rajaee port in Bandar Abbas",
+        "options": [
+            "Shahid Rajaee port in Bandar Abbas",
+            "Khorramshahr Port",
+            "Bushehr Port",
+            "Imam Khomeini Port",
+            "Chabahar Port"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which specific state is experiencing a political row over the appointment of Rathan U. Kelkar as Secretary to the Chief Minister?",
+        "a": "Kerala",
+        "options": [
+            "Kerala",
+            "Karnataka",
+            "Tamil Nadu",
+            "West Bengal",
+            "Maharashtra"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which Indian city was the venue where BJP leader V. Muraleedharan spoke about the Kerala appointment controversy?",
+        "a": "Thiruvananthapuram",
+        "options": [
+            "Thiruvananthapuram",
+            "Kochi",
+            "Bengaluru",
             "Chennai",
-            "Kolkata"
+            "Hyderabad"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is the Central University of Rajasthan (CUoR) situated?",
-        "a": "Bandar Sindri in Ajmer district",
+        "q": "In which city did the elderly woman, victim of the 'digital arrest' cyberfraud, reside?",
+        "a": "Shivajinagar",
         "options": [
-            "Bhopal",
-            "Noida",
-            "Kyiv",
-            "Bandar Sindri in Ajmer district",
-            "Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Ukrainian capital city was subjected to a massive overnight missile and drone assault on Sunday?",
-        "a": "Kyiv",
-        "options": [
-            "Lviv",
-            "Dnipro",
-            "Kyiv",
-            "Odessa",
-            "Kharkiv"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which districts of Kyiv were initially reported to be affected by the missile attack?",
-        "a": "Shevchenkivsky, Dniprovsky, and Podilsky districts",
-        "options": [
-            "Shevchenkivsky, Lvivsky, and Odesky districts",
-            "Shevchenkivsky, Dniprovsky, and Podilsky districts",
-            "Kyivsky, Kharkivsky, and Zeleny districts",
-            "Dniprovsky, Lvivsky, and Zeleny districts",
-            "Podilsky, Odesky, and Kharkivsky districts"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which Ukrainian city was the Oreshnik hypersonic ballistic missile first deployed in November 2024?",
-        "a": "Dnipro",
-        "options": [
-            "Lviv",
-            "Kyiv",
-            "Dnipro",
-            "Kharkiv",
-            "Odesa"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which region of Ukraine was the Oreshnik missile used again earlier this year, after its initial deployment?",
-        "a": "Lviv region",
-        "options": [
-            "Kyiv region",
-            "Odessa region",
-            "Lviv region",
-            "Kharkiv region",
-            "Dnipro region"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Delhi riots case, related to UAPA bail discussions, refers to incidents in which Indian city?",
-        "a": "Delhi",
-        "options": [
+            "Shivajinagar",
             "Mumbai",
-            "Kolkata",
-            "Chennai",
-            "Delhi",
-            "Bengaluru"
+            "New Delhi",
+            "Ahmedabad",
+            "Erode"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court registered the suo motu case concerning Twisha Sharma's death at which specific location?",
-        "a": "Supreme Court",
+        "q": "In which Indian state did the 'biggest digital arrest' cyberfraud case occur?",
+        "a": "Karnataka",
         "options": [
-            "Madhya Pradesh High Court",
-            "Noida Police Station",
-            "Bhopal District Court",
-            "Supreme Court",
-            "AIIMS Delhi"
+            "Karnataka",
+            "Maharashtra",
+            "Gujarat",
+            "Tamil Nadu",
+            "Bihar"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which country does the UAPA law empower the Centre to designate individuals as 'terrorists'?",
+        "q": "Which country's Foreign Minister is hosting the Quadrilateral Foreign Ministers\u2019 Meeting on May 25, 2026?",
         "a": "India",
         "options": [
-            "Pakistan",
-            "Ukraine",
-            "Russia",
             "India",
-            "USA"
+            "Japan",
+            "United States",
+            "Australia",
+            "China"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which date is the Supreme Court bench headed by CJI Surya Kant likely to consider the Twisha Sharma 'dowry' death case?",
-        "a": "Monday, May 25",
+        "q": "In which court was the petition concerning the 'Cockroach Janta Party' filed?",
+        "a": "Supreme Court",
         "options": [
-            "Tuesday, May 26",
-            "Monday, May 25",
-            "Sunday, May 24",
-            "Wednesday, May 27",
-            "Saturday, May 23"
+            "Supreme Court",
+            "Delhi High Court",
+            "Bombay High Court",
+            "Kerala High Court",
+            "Madras High Court"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "By which date will the Centre review India's inflation and monsoon advance?",
+        "a": "15 June",
+        "options": [
+            "15 June",
+            "1 June",
+            "30 June",
+            "15 May",
+            "31 July"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Twisha Sharma found hanging at her marital home in Bhopal?",
-        "a": "May 12",
+        "q": "The Food Grain Bulletin for April 2026 provided stock data as of which date?",
+        "a": "1 May",
         "options": [
+            "1 May",
+            "1 April",
+            "31 March",
+            "1 June",
+            "30 April"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the annual groundwater recharge in India estimated?",
+        "a": "2025",
+        "options": [
+            "2025",
+            "2024",
+            "2023",
+            "2026",
+            "2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When is El Ni\u00f1o likely to start showing its impact according to K.J. Ramesh?",
+        "a": "From August-September onwards",
+        "options": [
+            "From August-September onwards",
+            "From June-July onwards",
+            "From October-November onwards",
+            "From May onwards",
+            "From January onwards"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the IRGC Aerospace Force obtain military-grade Chinese satellite antenna equipment?",
+        "a": "Late 2025",
+        "options": [
+            "Late 2025",
+            "Early 2026",
+            "Late 2024",
+            "Early 2025",
+            "Late 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Chinese container ship Zhong Gu Yin Chuan arrive in Dubai?",
+        "a": "August 28",
+        "options": [
+            "August 28",
+            "August 20",
+            "September 5",
+            "July 28",
+            "September 15"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Iranian vessel Rama III dock at Dubai\u2019s Jebel Ali Container Terminal?",
+        "a": "November 23",
+        "options": [
+            "November 23",
+            "November 20",
+            "December 1",
+            "October 23",
+            "December 15"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did satellite imagery capture the vessel matching Rama III docked at Iran\u2019s Shahid Rajaee port?",
+        "a": "November 29",
+        "options": [
+            "November 29",
+            "November 25",
+            "December 5",
+            "October 29",
+            "December 2"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the US Treasury sanction Saman Industrial Group?",
+        "a": "December 2023",
+        "options": [
+            "December 2023",
+            "December 2024",
+            "January 2024",
+            "November 2023",
+            "February 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did the US sanction Blue Calm Marine Services?",
+        "a": "2023",
+        "options": [
+            "2023",
+            "2024",
+            "2022",
+            "2025",
+            "2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the petition concerning the 'Cockroach Janta Party' filed in the Supreme Court?",
+        "a": "Sunday (May 24, 2026)",
+        "options": [
+            "Sunday (May 24, 2026)",
+            "Monday (May 23, 2026)",
+            "Saturday (May 25, 2026)",
+            "Tuesday (May 26, 2026)",
+            "Friday (May 22, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the Chief Justice of India's reported remark on 'cockroach' made?",
+        "a": "May 15",
+        "options": [
+            "May 15",
             "May 10",
-            "May 14",
-            "May 12",
-            "May 11",
-            "May 13"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did Twisha Sharma marry Bhopal resident Samarth Singh?",
-        "a": "December 25, 2025",
-        "options": [
-            "December 25, 2024",
-            "December 25, 2025",
-            "January 1, 2025",
-            "November 15, 2025",
-            "February 14, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "From which academic session onwards will research scholars be eligible for the new CUoR research promotion scheme benefits?",
-        "a": "Academic session of 2025 onwards",
-        "options": [
-            "Academic session of 2024 onwards",
-            "Academic session of 2026 onwards",
-            "Academic session of 2025 onwards",
-            "Academic session of 2023 onwards",
-            "Academic session of 2027 onwards"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Supreme Court grant six months of interim bail to Abdul Khalid Saifi and Tasleem Ahmad in the 2020 Delhi riots case?",
-        "a": "May 22",
-        "options": [
             "May 20",
-            "May 24",
-            "May 22",
-            "May 21",
-            "May 23"
+            "April 15",
+            "June 1"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the 2021 judgment, Union of India v. K.A. Najeeb, settled by a three-judge Bench of the Supreme Court?",
-        "a": "2021",
+        "q": "What is the primary concern driving the Centre's review of inflation and monsoon by June 15?",
+        "a": "Measures to check any possible price rise",
         "options": [
-            "2020",
-            "2022",
-            "2021",
-            "2019",
-            "2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Bench of Justices B.V. Nagarathna and Ujjal Bhuyan issue the Syed Iftikhar Andrabi v. National Investigation Agency verdict?",
-        "a": "May 18",
-        "options": [
-            "May 16",
-            "May 20",
-            "May 18",
-            "May 17",
-            "May 19"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Supreme Court judgment in Gulfisha Fatima v. State, Government of NCT Delhi, which denied bail to Umar Khalid and Sharjeel Imam?",
-        "a": "January 5, 2026",
-        "options": [
-            "February 5, 2026",
-            "January 5, 2026",
-            "December 5, 2025",
-            "March 5, 2026",
-            "April 5, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the Delhi riots case, concerning UAPA charges, originally occur?",
-        "a": "2020",
-        "options": [
-            "2019",
-            "2021",
-            "2020",
-            "2022",
-            "2018"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the Supreme Court issue the National Investigation Agency v. Zahoor Ahmad Shah Watali judgment?",
-        "a": "2019",
-        "options": [
-            "2018",
-            "2020",
-            "2019",
-            "2021",
-            "2017"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the new research promotion scheme launched by the Central University of Rajasthan (CUoR)?",
-        "a": "To empower scholars financially and encourage them to pursue quality research without financial stress.",
-        "options": [
-            "To increase the number of international publications.",
-            "To empower scholars financially and encourage them to pursue quality research without financial stress.",
-            "To reduce the administrative burden on faculty members.",
-            "To attract more foreign students to the university.",
-            "To fund infrastructure development within the campus."
+            "Measures to check any possible price rise",
+            "To evaluate monsoon strength",
+            "To assess global crude oil prices",
+            "To plan agricultural subsidies",
+            "To review foodgrain buffer stocks"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to the CUoR Vice-Chancellor, what is a key reason for the new initiative, besides financial support?",
-        "a": "To attract meritorious students towards research and promote a strong culture of innovation and academic excellence.",
+        "q": "Why are government measures like releasing buffer stocks and imposing stock limits taken?",
+        "a": "To contain inflation and ensure adequate availability of essential commodities",
         "options": [
-            "To reduce the university's budget surplus.",
-            "To comply with new government regulations.",
-            "To attract meritorious students towards research and promote a strong culture of innovation and academic excellence.",
-            "To compete with private universities in admissions.",
-            "To fund student exchange programs."
+            "To contain inflation and ensure adequate availability of essential commodities",
+            "To reduce agricultural exports",
+            "To increase farmer income",
+            "To regulate market prices generally",
+            "To support specific industries"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court take suo motu cognisance of the Twisha Sharma 'dowry' death case?",
-        "a": "In view of the seriousness of the allegations and concerns surrounding the investigation.",
+        "q": "Why is El Ni\u00f1o closely watched in India?",
+        "a": "It is often linked to weaker monsoon rainfall, higher temperatures, and possible pressure on agriculture and food prices",
         "options": [
-            "Due to a direct appeal from the victim's family.",
-            "Based on a reference from the Madhya Pradesh High Court.",
-            "In view of the seriousness of the allegations and concerns surrounding the investigation.",
-            "To set a new legal precedent for dowry cases.",
-            "To review the police investigation process in general."
+            "It is often linked to weaker monsoon rainfall, higher temperatures, and possible pressure on agriculture and food prices",
+            "It guarantees strong monsoon rainfall",
+            "It only affects oceanic temperatures",
+            "It has no impact on global weather patterns",
+            "It leads to increased agricultural output"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the core question of law referred to a larger Bench by the Supreme Court in the UAPA bail discussions?",
-        "a": "Whether prolonged incarceration and delay in trial can override the stringent bail curbs under anti-terror laws.",
+        "q": "Why does the 92% of LPA for monsoon rainfall fall into the 'below normal' category?",
+        "a": "Because it is less than 100% of the LPA",
         "options": [
-            "Whether Section 43D(5) of UAPA is constitutionally valid.",
-            "Whether all UAPA cases should be tried by special courts.",
-            "Whether prolonged incarceration and delay in trial can override the stringent bail curbs under anti-terror laws.",
-            "Whether bail should be granted in all cases where an accused has spent more than five years in jail.",
-            "Whether the definition of 'terrorist' under UAPA needs to be revised."
+            "Because it is less than 100% of the LPA",
+            "Because it is less than 87 cm",
+            "Because it signifies a drought year",
+            "Because it is exactly 92%",
+            "Because it only affects specific regions"
         ],
         "cat": "Why"
     },
     {
-        "q": "What fundamental principle is reversed by Section 43D(5) of the UAPA regarding bail jurisprudence?",
-        "a": "The normal presumption of 'bail, not jail' was reversed, and the burden turned onto the accused, supposing the person to be guilty until found innocent.",
+        "q": "Why did Iran's elite Revolutionary Guards acquire advanced Chinese satellite communication equipment?",
+        "a": "For its drone and missile programme",
         "options": [
-            "The presumption of 'jail, not bail' was established.",
-            "The normal presumption of 'bail, not jail' was reversed, and the burden turned onto the accused, supposing the person to be guilty until found innocent.",
-            "The court's power to grant bail was significantly expanded.",
-            "The requirement for a chargesheet was removed for UAPA cases.",
-            "The accused gained more rights during the bail hearing process."
+            "For its drone and missile programme",
+            "For civilian telecommunication upgrades",
+            "For environmental monitoring",
+            "For space exploration research",
+            "For commercial shipping navigation"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of the K.A. Najeeb judgment in softening the bail bar under UAPA?",
-        "a": "To clarify that constitutional courts could 'melt down' the rigour of Section 43D(5) and grant bail to a UAPA accused who had already spent a 'substantial period of time' in jail due to gross delay in trial.",
+        "q": "Why did the Iranian vessel Rama III allegedly transmit false navigational information?",
+        "a": "To conceal its movements and true routes/destinations",
         "options": [
-            "To make bail automatic for UAPA accused after five years.",
-            "To clarify that constitutional courts could 'melt down' the rigour of Section 43D(5) and grant bail to a UAPA accused who had already spent a 'substantial period of time' in jail due to gross delay in trial.",
-            "To mandate immediate trials for all UAPA cases.",
-            "To increase the conviction rate under UAPA.",
-            "To reduce the burden on the Supreme Court."
+            "To conceal its movements and true routes/destinations",
+            "Due to technical malfunction",
+            "To avoid adverse weather conditions",
+            "To test new navigation technology",
+            "To demonstrate maritime prowess"
         ],
         "cat": "Why"
     },
     {
-        "q": "What did the Andrabi judgment clarify about the Supreme Court's role in UAPA cases regarding Article 21?",
-        "a": "Constitutional courts had to intervene to protect the fundamental right to life and personal liberty under Article 21 of the Constitution, stating Section 43D(5) was subordinate to Article 21.",
+        "q": "Why was Saman Industrial Group sanctioned by the US Treasury?",
+        "a": "For functioning as a commercial front for the Aerospace Force Self Sufficiency Jihad Organization, which supports ballistic missile, drone, and electronic warfare programmes",
         "options": [
-            "That Article 21 was subservient to Section 43D(5) in all UAPA cases.",
-            "That bail should always be denied if the offence is serious.",
-            "That the conviction rate under UAPA was irrelevant to bail decisions.",
-            "Constitutional courts had to intervene to protect the fundamental right to life and personal liberty under Article 21 of the Constitution, stating Section 43D(5) was subordinate to Article 21.",
-            "That an undertrial could be punished with denial of bail for the state\u2019s ineptitude."
+            "For functioning as a commercial front for the Aerospace Force Self Sufficiency Jihad Organization, which supports ballistic missile, drone, and electronic warfare programmes",
+            "For violating commercial trade agreements",
+            "For money laundering unrelated to military activities",
+            "For general human rights violations",
+            "For intellectual property theft"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason cited by Moscow for launching the massive missile and drone assault on Kyiv early Sunday?",
-        "a": "Retaliation for Ukrainian attacks in Russian-occupied territory that it said killed 18 people.",
+        "q": "Why did the European Union sanction the Self Sufficiency Jihad Organization?",
+        "a": "Alleging it supplied Iranian drones to Russia",
         "options": [
-            "To test new hypersonic missiles.",
-            "To target government offices in Kyiv.",
-            "Retaliation for Ukrainian attacks in Russian-occupied territory that it said killed 18 people.",
-            "To disrupt electricity supply in the capital.",
-            "To coincide with a major holiday."
+            "Alleging it supplied Iranian drones to Russia",
+            "For developing nuclear weapons",
+            "For cyber attacks on European infrastructure",
+            "For illegal oil trade",
+            "For human rights abuses within Iran"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Madhya Pradesh High Court order a second autopsy of Twisha Sharma's body?",
-        "a": "Amid demands by her parents and allegations of procedural irregularities.",
+        "q": "What is the main reason for the 'digital arrest' cyberfraud, as explained by the accused to the victim?",
+        "a": "Her bank accounts were linked to a money laundering case",
         "options": [
-            "As a routine procedure in dowry death cases.",
-            "To confirm the cause of death.",
-            "Amid demands by her parents and allegations of procedural irregularities.",
-            "Following a recommendation from the CBI.",
-            "To investigate a new lead in the case."
+            "Her bank accounts were linked to a money laundering case",
+            "She had unpaid taxes",
+            "She committed identity theft",
+            "She was under investigation for foreign espionage",
+            "She was suspected of drug trafficking"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of the 2019 Zahoor Ahmad Shah Watali judgment regarding Section 43D(5) of UAPA?",
-        "a": "To hold that an 'elaborate examination' of evidence was not necessary for a court to establish prima facie guilt, requiring only a glance through 'broad probabilities' to deny bail.",
+        "q": "Why did bank officials become suspicious of the elderly woman in the cyberfraud case?",
+        "a": "After noticing the unusually large quantity of gold ornaments being brought for pledging",
         "options": [
-            "To ease bail conditions for UAPA accused.",
-            "To increase the burden of proof on the prosecution.",
-            "To hold that an 'elaborate examination' of evidence was not necessary for a court to establish prima facie guilt, requiring only a glance through 'broad probabilities' to deny bail.",
-            "To mandate a detailed review of case diaries for bail.",
-            "To ensure speedy trials for UAPA cases."
+            "After noticing the unusually large quantity of gold ornaments being brought for pledging",
+            "Because she attempted to withdraw a large sum of cash",
+            "Her account showed suspicious foreign transactions",
+            "She acted erratically during the transaction",
+            "Her identification documents were questionable"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is expected to be at the top of the agenda for the Quad Foreign Ministers\u2019 Meeting on May 25, 2026?",
+        "a": "Cooperation over Critical Minerals needed for green energy and hi-tech",
+        "options": [
+            "Cooperation over Critical Minerals needed for green energy and hi-tech",
+            "Maritime security in the Indo-Pacific",
+            "Climate change mitigation strategies",
+            "Counter-terrorism efforts",
+            "Global economic recovery plans"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary purpose of the petition filed in the Supreme Court concerning the 'Cockroach Janta Party'?",
+        "a": "To challenge organised commercial exploitation and distortion of solemn court hearings into a 'viral spectacle' online",
+        "options": [
+            "To challenge organised commercial exploitation and distortion of solemn court hearings into a 'viral spectacle' online",
+            "To ban satirical political parties",
+            "To reform judicial proceedings",
+            "To promote free speech on social media",
+            "To investigate the origins of the term 'cockroach'"
         ],
         "cat": "Why"
     }
