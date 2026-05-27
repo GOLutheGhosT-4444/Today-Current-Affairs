@@ -1,721 +1,721 @@
 [
     {
-        "q": "What was the total stock of rice and wheat held by FCI and state agencies as of May 1, 2026?",
-        "a": "81.75 million tonnes",
+        "q": "What were India's foreign exchange reserves, including gold, as mentioned in the Debt Market Summit 2025 discussions?",
+        "a": "$688.9 billion",
         "options": [
-            "81.75 million tonnes",
-            "81.00 million tonnes",
-            "82.50 million tonnes",
-            "80.50 million tonnes",
-            "83.25 million tonnes"
+            "$688.9 billion",
+            "$678.5 billion",
+            "$695.2 billion",
+            "$660.1 billion",
+            "$700.0 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many million tonnes of rice stock were held by FCI and state agencies as on May 1, 2026?",
-        "a": "38.95 million tonnes",
+        "q": "How many voters were removed from the draft electoral rolls as part of the Special Intensive Revision (SIR) exercise, according to the poll authority?",
+        "a": "65 lakh",
         "options": [
-            "38.95 million tonnes",
-            "39.00 million tonnes",
-            "38.50 million tonnes",
-            "39.50 million tonnes",
-            "37.95 million tonnes"
+            "65 lakh",
+            "55 lakh",
+            "70 lakh",
+            "62 lakh",
+            "68 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the wheat stock held by FCI and state agencies as on May 1, 2026?",
-        "a": "42.79 million tonnes",
+        "q": "How many wind turbines does China aim to develop in its proposed most extensive clean energy plant outside its shores?",
+        "a": "1,000",
         "options": [
-            "42.79 million tonnes",
-            "43.00 million tonnes",
-            "42.50 million tonnes",
-            "43.25 million tonnes",
-            "41.79 million tonnes"
+            "1,000",
+            "500",
+            "2,000",
+            "750",
+            "1,200"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the Long Period Average (LPA) is the 2026 southwest monsoon rainfall projected to be?",
-        "a": "Around 92%",
+        "q": "How far away from China's mainland is the area situated where China plans to build its new mega renewable energy project?",
+        "a": "4,300 miles",
         "options": [
-            "Around 92%",
-            "Around 90%",
-            "Around 95%",
-            "Around 88%",
-            "Around 98%"
+            "4,300 miles",
+            "3,500 miles",
+            "5,000 miles",
+            "4,000 miles",
+            "4,500 miles"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the Long Period Average (LPA) for the June-September monsoon season in India, in cm?",
-        "a": "87 cm",
+        "q": "How many solar panels comprise the world's largest solar power station in China's Xinjiang province?",
+        "a": "5.26 million",
         "options": [
-            "87 cm",
-            "85 cm",
-            "90 cm",
-            "82 cm",
-            "92 cm"
+            "5.26 million",
+            "4.50 million",
+            "6.00 million",
+            "5.00 million",
+            "5.50 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated total annual groundwater recharge in India in 2025, in billion cubic metres (BCM)?",
-        "a": "448.52 BCM",
+        "q": "What was the annual energy production capacity of China's first gigawatt-scale offshore solar farm in Shandong province?",
+        "a": "1.78 billion kilowatt-hours",
         "options": [
-            "448.52 BCM",
-            "450.00 BCM",
-            "445.00 BCM",
-            "455.00 BCM",
-            "440.00 BCM"
+            "1.78 billion kilowatt-hours",
+            "1.50 billion kilowatt-hours",
+            "2.00 billion kilowatt-hours",
+            "1.70 billion kilowatt-hours",
+            "1.85 billion kilowatt-hours"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the annual groundwater extraction in India in 2025, in billion cubic metres (BCM)?",
-        "a": "247.22 BCM",
+        "q": "How many minutes can Ironmouse now walk on the treadmill, marking a significant health milestone for her?",
+        "a": "Thirty-five minutes",
         "options": [
-            "247.22 BCM",
-            "250.00 BCM",
-            "245.00 BCM",
-            "255.00 BCM",
-            "240.00 BCM"
+            "Thirty-five minutes",
+            "Twenty minutes",
+            "Forty-five minutes",
+            "Thirty minutes",
+            "Twenty-five minutes"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many drones and missiles did Tehran launch at the Gulf state during its retaliatory campaign?",
-        "a": "More than 2,800",
+        "q": "How many AIADMK candidates' resignations did the Tamil Nadu Assembly Speaker J.C.D. Prabhakar accept?",
+        "a": "Four",
         "options": [
-            "More than 2,800",
-            "Exactly 2,800",
-            "More than 2,500",
-            "Exactly 3,000",
-            "Less than 2,800"
+            "Four",
+            "Two",
+            "Six",
+            "Three",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate weight of the satellite antenna consignment shipped from Shanghai to Dubai?",
-        "a": "Nearly 1.8 tonnes",
+        "q": "How many AIADMK legislators voted in favour of the TVK government in the recent confidence motion in the Tamil Nadu Assembly?",
+        "a": "25",
         "options": [
-            "Nearly 1.8 tonnes",
-            "Exactly 1.8 tonnes",
-            "Approximately 2.0 tonnes",
-            "Around 1.5 tonnes",
-            "About 2.2 tonnes"
+            "25",
+            "20",
+            "30",
+            "22",
+            "28"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much money was an elderly woman allegedly cheated of in the Karnataka cyberfraud case?",
-        "a": "Nearly \u20b924 crore",
+        "q": "In how many years after liberalization has India had an overall balance of payment deficit, out of 35 years, as stated by Ashima Goyal?",
+        "a": "Six",
         "options": [
-            "Nearly \u20b924 crore",
-            "Exactly \u20b924 crore",
-            "Around \u20b925 crore",
-            "About \u20b923 crore",
-            "More than \u20b924 crore"
+            "Six",
+            "Three",
+            "Nine",
+            "Five",
+            "Seven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much money was the Karnataka police able to save in the 'digital arrest' cyberfraud case?",
-        "a": "Around \u20b95.46 crore",
+        "q": "What percentage of the total investment will emphasize stabilizing coal supply and upgrading coal-fired power plants in China in 2026?",
+        "a": "30 percent",
         "options": [
-            "Around \u20b95.46 crore",
-            "Exactly \u20b95.46 crore",
-            "Approximately \u20b95.50 crore",
-            "About \u20b95.00 crore",
-            "More than \u20b96.00 crore"
+            "30 percent",
+            "25 percent",
+            "35 percent",
+            "28 percent",
+            "32 percent"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What quantity of gold jewellery did the elderly woman attempt to pledge in Bengaluru?",
-        "a": "Around 1.3 kg",
+        "q": "What specific year is the Representation of the People Act, referred to in the Supreme Court case regarding SIR, from?",
+        "a": "1950",
         "options": [
-            "Around 1.3 kg",
-            "Exactly 1.3 kg",
-            "Approximately 1.5 kg",
-            "About 1.0 kg",
-            "More than 1.5 kg"
+            "1950",
+            "1951",
+            "1947",
+            "1960",
+            "1971"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was the former Director General of IMD quoted regarding El Ni\u00f1o's impact?",
-        "a": "K.J. Ramesh",
+        "q": "Who headed the bench that delivered the Supreme Court verdict on the Special Intensive Revision (SIR) of electoral rolls?",
+        "a": "Chief Justice Surya Kant",
         "options": [
-            "K.J. Ramesh",
-            "R.S. Sharma",
-            "A.K. Gupta",
-            "S.N. Singh",
-            "P.V. Rao"
+            "Chief Justice Surya Kant",
+            "Justice D.Y. Chandrachud",
+            "Justice N.V. Ramana",
+            "Justice U.U. Lalit",
+            "Justice Sharad Arvind Bobde"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which company, based in Ras al Khaimah, was involved in procuring advanced Chinese satellite antenna equipment for the IRGC Aerospace Force?",
-        "a": "Telesun",
+        "q": "Which NGO filed a plea challenging the Special Intensive Revision (SIR) of electoral rolls in Bihar, mentioned in the news?",
+        "a": "Association for Democratic Reforms (ADR)",
         "options": [
-            "Telesun",
-            "StarWin",
-            "SkyCom",
-            "GlobalSat",
-            "ConnectX"
+            "Association for Democratic Reforms (ADR)",
+            "People's Union for Civil Liberties (PUCL)",
+            "Transparency International",
+            "Common Cause",
+            "Jan Adhikar Manch"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Chinese manufacturer produced the 4.5 metre motorised satellite antenna acquired by the IRGC Aerospace Force?",
-        "a": "StarWin",
+        "q": "Who is the Emeritus Professor at IGIDR and former member of the Monetary Policy Committee who spoke at the Debt Market Summit 2025?",
+        "a": "Ashima Goyal",
         "options": [
-            "StarWin",
-            "Huawei",
-            "ZTE",
-            "Xiaomi",
-            "Telesun"
+            "Ashima Goyal",
+            "Urjit Patel",
+            "Raghuram Rajan",
+            "Viral Acharya",
+            "Bibek Debroy"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Iranian telecommunications company was the consignee for the satellite equipment shipment?",
-        "a": "Ertebatat Faragostar Kish (EFK)",
+        "q": "Who is the current SEBI Chairperson mentioned as addressing a debt-market event?",
+        "a": "Tuhin Kanta Pandey",
         "options": [
-            "Ertebatat Faragostar Kish (EFK)",
-            "Saman Industrial Group",
-            "Blue Calm Marine Services",
-            "Tehran Telecom",
-            "IranSat Solutions"
+            "Tuhin Kanta Pandey",
+            "Madhabi Puri Buch",
+            "Ajay Tyagi",
+            "U.K. Sinha",
+            "C.B. Bhave"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US body sanctioned Saman Industrial Group in December 2023?",
-        "a": "US Treasury",
+        "q": "Who announced several schemes for Bihar as part of the 'Purvodaya' plan in her Budget 2024 speech?",
+        "a": "Nirmala Sitharaman",
         "options": [
-            "US Treasury",
-            "US State Department",
-            "Department of Commerce",
-            "Defense Intelligence Agency",
-            "Central Intelligence Agency"
+            "Nirmala Sitharaman",
+            "Smriti Irani",
+            "Piyush Goyal",
+            "Amit Shah",
+            "Raj Nath Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization is alleged to be the R&D wing responsible for Iran's ballistic missile, drone, and electronic warfare programmes, and for which Saman functioned as a front?",
-        "a": "Aerospace Force Self Sufficiency Jihad Organization",
+        "q": "Which Chinese President declared plans to significantly increase wind and solar energy production as part of the country's emissions reduction strategy?",
+        "a": "Xi Jinping",
         "options": [
-            "Aerospace Force Self Sufficiency Jihad Organization",
-            "Revolutionary Guard Corps",
-            "Iran Space Agency",
-            "National Iranian Oil Company",
-            "Ministry of Defence and Armed Forces Logistics"
+            "Xi Jinping",
+            "Li Qiang",
+            "Wang Yi",
+            "Zhao Leji",
+            "Han Zheng"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which shipping agent, sanctioned by the US in 2023, handled the Iranian side of the satellite equipment transaction?",
-        "a": "Blue Calm Marine Services",
+        "q": "Which corporation engineered China's first gigawatt-scale offshore solar farm in Shandong province?",
+        "a": "China Energy Investment Corporation",
         "options": [
-            "Blue Calm Marine Services",
-            "Global Freight Forwarders",
-            "Persian Gulf Shipping Co.",
-            "Iran Maritime Logistics",
-            "Red Sea Transports"
+            "China Energy Investment Corporation",
+            "State Grid Corporation of China",
+            "China National Petroleum Corporation",
+            "Sinohydro Corporation",
+            "China Three Gorges Corporation"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Chinese company was sanctioned by Washington for allegedly supporting Iranian military operations by launching a satellite?",
-        "a": "The Earth Eye",
+        "q": "Who is the virtual streamer known as Ironmouse who shared a recent health update?",
+        "a": "Ironmouse",
         "options": [
-            "The Earth Eye",
-            "China Great Wall Industry Corporation",
-            "CASC",
-            "CASIC",
-            "SpaceX China"
+            "Ironmouse",
+            "Gawr Gura",
+            "Usada Pekora",
+            "Kizuna AI",
+            "Vshojo"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who took charge as Secretary to Kerala Chief Minister V.D. Satheesan on Sunday?",
-        "a": "Rathan U. Kelkar",
+        "q": "Who is the lawyer-activist from Panipat, Haryana, who filed an application for the registration of the Cockroach Janta Party (CJP)?",
+        "a": "Sudhir Jakhar",
         "options": [
-            "Rathan U. Kelkar",
-            "V. Muraleedharan",
-            "Manoj Agarwal",
-            "Ramesh Chennithala",
-            "Sunny Joseph"
+            "Sudhir Jakhar",
+            "Abhijeet Dipke",
+            "Prashant Bhushan",
+            "Ram Jethmalani",
+            "Arun Jaitley"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Director-General of Police, Karnataka State Cyber Command?",
-        "a": "Pronab Mohanty",
+        "q": "Who made the original 'cockroaches' and 'parasites of society' remarks that led to the formation of the Cockroach Janta Party?",
+        "a": "Chief Justice of India Surya Kant",
         "options": [
-            "Pronab Mohanty",
-            "B.R. Shetty",
-            "K.L. Rao",
-            "V.K. Gupta",
-            "S.P. Singh"
+            "Chief Justice of India Surya Kant",
+            "Prime Minister Narendra Modi",
+            "Home Minister Amit Shah",
+            "Union Minister Nitin Gadkari",
+            "Justice D.Y. Chandrachud"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Japanese Foreign Minister who stated that the Quad remains a 'vital framework'?",
-        "a": "Toshimitsu Motegi",
+        "q": "Who is the current Tamil Nadu Assembly Speaker who accepted the resignations of four AIADMK legislators?",
+        "a": "J.C.D. Prabhakar",
         "options": [
-            "Toshimitsu Motegi",
-            "Fumio Kishida",
-            "Yoko Kamikawa",
-            "Shinzo Abe",
-            "Tar\u014d K\u014dno"
+            "J.C.D. Prabhakar",
+            "M. Appavu",
+            "P. Dhanapal",
+            "K.P. Anbalagan",
+            "Durai Murugan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the US Secretary of State participating in the Quadrilateral Foreign Ministers\u2019 Meeting on May 25, 2026?",
-        "a": "Marco Rubio",
+        "q": "Which CEO of JP Morgan Chase Bank spoke at the Debt Market Summit 2025, suggesting that structural reforms should be for long-term shift, not episodic?",
+        "a": "Pranav Chawda",
         "options": [
-            "Marco Rubio",
-            "Antony Blinken",
-            "Mike Pompeo",
-            "Rex Tillerson",
-            "Hillary Clinton"
+            "Pranav Chawda",
+            "Jamie Dimon",
+            "Sandeep Singh",
+            "Anshula Kant",
+            "Arun Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where are concerns over El Ni\u00f1o primarily raised due to warmer sea surface temperatures?",
-        "a": "Central and eastern Pacific Ocean",
+        "q": "In which state was the Special Intensive Revision (SIR) of electoral rolls initially conducted, as challenged in the Supreme Court?",
+        "a": "Bihar",
         "options": [
-            "Central and eastern Pacific Ocean",
-            "Indian Ocean",
-            "Atlantic Ocean",
-            "Arctic Ocean",
-            "Southern Ocean"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country's Elite Revolutionary Guards used a UAE-based procurement network for satellite communication equipment?",
-        "a": "Iran",
-        "options": [
-            "Iran",
-            "Iraq",
-            "Syria",
-            "Yemen",
-            "Afghanistan"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which emirate is Telesun, the company involved in procuring satellite equipment for Iran, based?",
-        "a": "Ras al Khaimah",
-        "options": [
-            "Ras al Khaimah",
-            "Dubai",
-            "Abu Dhabi",
-            "Sharjah",
-            "Ajman"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which city was the Chinese satellite equipment shipped?",
-        "a": "Shanghai",
-        "options": [
-            "Shanghai",
-            "Beijing",
-            "Hong Kong",
-            "Guangzhou",
-            "Shenzhen"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Through which port was the Chinese satellite equipment routed before reaching Iran?",
-        "a": "Dubai\u2019s Jebel Ali container port",
-        "options": [
-            "Dubai\u2019s Jebel Ali container port",
-            "Port Khalifa",
-            "Sharjah Container Terminal",
-            "Muscat Port",
-            "Bahrain Port"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which port in Iran was listed as the final delivery destination for the consignment?",
-        "a": "Shahid Rajaee port in Bandar Abbas",
-        "options": [
-            "Shahid Rajaee port in Bandar Abbas",
-            "Khorramshahr Port",
-            "Bushehr Port",
-            "Imam Khomeini Port",
-            "Chabahar Port"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which specific state is experiencing a political row over the appointment of Rathan U. Kelkar as Secretary to the Chief Minister?",
-        "a": "Kerala",
-        "options": [
-            "Kerala",
-            "Karnataka",
-            "Tamil Nadu",
+            "Bihar",
+            "Uttar Pradesh",
             "West Bengal",
-            "Maharashtra"
+            "Odisha",
+            "Jharkhand"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which Indian city was the venue where BJP leader V. Muraleedharan spoke about the Kerala appointment controversy?",
-        "a": "Thiruvananthapuram",
+        "q": "Where was the Debt Market Summit 2025, where discussions on foreign exchange reserves took place, held?",
+        "a": "Mumbai",
         "options": [
-            "Thiruvananthapuram",
-            "Kochi",
-            "Bengaluru",
-            "Chennai",
-            "Hyderabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which city did the elderly woman, victim of the 'digital arrest' cyberfraud, reside?",
-        "a": "Shivajinagar",
-        "options": [
-            "Shivajinagar",
             "Mumbai",
             "New Delhi",
+            "Bengaluru",
+            "Chennai",
+            "Kolkata"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city did the SEBI Chairman announce the pilot project for tokenisation of corporate bonds?",
+        "a": "Mumbai",
+        "options": [
+            "Mumbai",
+            "New Delhi",
+            "Hyderabad",
             "Ahmedabad",
-            "Erode"
+            "Pune"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Indian state did the 'biggest digital arrest' cyberfraud case occur?",
-        "a": "Karnataka",
+        "q": "Where in Bihar is an industrial node being developed as part of the 'Purvodaya' plan announced by the Union Finance Minister?",
+        "a": "Gaya",
         "options": [
-            "Karnataka",
-            "Maharashtra",
-            "Gujarat",
-            "Tamil Nadu",
-            "Bihar"
+            "Gaya",
+            "Patna",
+            "Muzaffarpur",
+            "Bhagalpur",
+            "Darbhanga"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country's Foreign Minister is hosting the Quadrilateral Foreign Ministers\u2019 Meeting on May 25, 2026?",
-        "a": "India",
+        "q": "In which Chinese province was the world's largest solar power station put into operation in December 2025?",
+        "a": "Xinjiang",
         "options": [
-            "India",
-            "Japan",
-            "United States",
-            "Australia",
-            "China"
+            "Xinjiang",
+            "Shandong",
+            "Sichuan",
+            "Guangdong",
+            "Inner Mongolia"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which court was the petition concerning the 'Cockroach Janta Party' filed?",
-        "a": "Supreme Court",
+        "q": "In which Chinese province was the world's first gigawatt-scale offshore solar farm launched in late 2025?",
+        "a": "Shandong",
         "options": [
-            "Supreme Court",
+            "Shandong",
+            "Hebei",
+            "Jiangsu",
+            "Zhejiang",
+            "Fujian"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which city in Haryana is the residence of Sudhir Jakhar, who filed the application for the Cockroach Janta Party's registration?",
+        "a": "Panipat",
+        "options": [
+            "Panipat",
+            "Sonipat",
+            "Rohtak",
+            "Gurugram",
+            "Faridabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Abhijeet Dipke, the founder of the satirical online movement behind CJP, is based in which city?",
+        "a": "Boston",
+        "options": [
+            "Boston",
+            "New York",
+            "London",
+            "San Francisco",
+            "Toronto"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which High Court did Abhijeet Dipke approach to challenge the blocking of the Cockroach Janta Party's X account?",
+        "a": "Delhi High Court",
+        "options": [
             "Delhi High Court",
             "Bombay High Court",
-            "Kerala High Court",
-            "Madras High Court"
+            "Madras High Court",
+            "Calcutta High Court",
+            "Punjab and Haryana High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "By which date will the Centre review India's inflation and monsoon advance?",
-        "a": "15 June",
+        "q": "The Supreme Court judgment in 2019 regarding MLAs' resignations, cited in the Tamil Nadu case, was related to which state's Assembly?",
+        "a": "Karnataka Assembly",
         "options": [
-            "15 June",
-            "1 June",
-            "30 June",
-            "15 May",
-            "31 July"
+            "Karnataka Assembly",
+            "Kerala Assembly",
+            "Andhra Pradesh Assembly",
+            "Telangana Assembly",
+            "Maharashtra Assembly"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which region of India is NOT included in Phase-III of the Special Intensive Revision (SIR) of Electoral Rolls covering the entire country?",
+        "a": "Himachal Pradesh, Jammu & Kashmir and Ladakh",
+        "options": [
+            "Himachal Pradesh, Jammu & Kashmir and Ladakh",
+            "Bihar, Jharkhand, and West Bengal",
+            "Uttar Pradesh, Madhya Pradesh, and Rajasthan",
+            "Maharashtra, Gujarat, and Goa",
+            "Punjab, Haryana, and Uttarakhand"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date did the Supreme Court deliver its judgment on the petitions challenging the Special Intensive Revision (SIR) of electoral rolls in Bihar?",
+        "a": "Wednesday, May 27",
+        "options": [
+            "Wednesday, May 27",
+            "Monday, May 25",
+            "Tuesday, May 26",
+            "Thursday, May 28",
+            "Friday, May 29"
         ],
         "cat": "When"
     },
     {
-        "q": "The Food Grain Bulletin for April 2026 provided stock data as of which date?",
-        "a": "1 May",
+        "q": "On what date had the Supreme Court bench reserved its verdict on the pleas challenging the SIR process?",
+        "a": "January 29",
         "options": [
-            "1 May",
-            "1 April",
-            "31 March",
-            "1 June",
-            "30 April"
+            "January 29",
+            "February 15",
+            "December 10",
+            "March 5",
+            "April 1"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the annual groundwater recharge in India estimated?",
-        "a": "2025",
+        "q": "When did the Supreme Court commence final arguments in the matter concerning the Election Commission's power to conduct SIR?",
+        "a": "August 12 last year",
         "options": [
-            "2025",
-            "2024",
-            "2023",
-            "2026",
-            "2022"
+            "August 12 last year",
+            "September 1 last year",
+            "July 20 last year",
+            "June 5 last year",
+            "October 15 last year"
         ],
         "cat": "When"
     },
     {
-        "q": "When is El Ni\u00f1o likely to start showing its impact according to K.J. Ramesh?",
-        "a": "From August-September onwards",
+        "q": "What was the deadline for the Election Commission's order on the SIR exercise in Bihar, which petitioners sought to set aside?",
+        "a": "June 24, 2025",
         "options": [
-            "From August-September onwards",
-            "From June-July onwards",
-            "From October-November onwards",
-            "From May onwards",
-            "From January onwards"
+            "June 24, 2025",
+            "July 15, 2025",
+            "August 1, 2025",
+            "May 30, 2025",
+            "September 10, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year did the IRGC Aerospace Force obtain military-grade Chinese satellite antenna equipment?",
+        "q": "On what date did SEBI Chairman Tuhin Kanta Pandey announce the pilot project for tokenisation of corporate bonds using DLT?",
+        "a": "Tuesday (May 26, 2026)",
+        "options": [
+            "Tuesday (May 26, 2026)",
+            "Monday (May 25, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Thursday (May 28, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How long is the implementation expected to take for SEBI's pilot project on tokenisation of corporate bonds?",
+        "a": "Six to nine months",
+        "options": [
+            "Six to nine months",
+            "Three to six months",
+            "One year",
+            "Nine to twelve months",
+            "One to two years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month and year did Union Finance Minister Nirmala Sitharaman announce the 'Purvodaya' schemes for Bihar in her Budget speech?",
+        "a": "July 23 (Budget 2024)",
+        "options": [
+            "July 23 (Budget 2024)",
+            "February 1 (Budget 2024)",
+            "March 15 (Budget 2024)",
+            "April 10 (Budget 2024)",
+            "August 5 (Budget 2024)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month and year did China put into operation the world's largest solar power station in Xinjiang province?",
+        "a": "December 2025",
+        "options": [
+            "December 2025",
+            "November 2024",
+            "January 2026",
+            "October 2025",
+            "February 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did China launch its first gigawatt-scale offshore solar farm in Shandong province?",
         "a": "Late 2025",
         "options": [
             "Late 2025",
-            "Early 2026",
-            "Late 2024",
             "Early 2025",
-            "Late 2023"
+            "Mid 2025",
+            "Late 2024",
+            "Early 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did the Chinese container ship Zhong Gu Yin Chuan arrive in Dubai?",
-        "a": "August 28",
-        "options": [
-            "August 28",
-            "August 20",
-            "September 5",
-            "July 28",
-            "September 15"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Iranian vessel Rama III dock at Dubai\u2019s Jebel Ali Container Terminal?",
-        "a": "November 23",
-        "options": [
-            "November 23",
-            "November 20",
-            "December 1",
-            "October 23",
-            "December 15"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did satellite imagery capture the vessel matching Rama III docked at Iran\u2019s Shahid Rajaee port?",
-        "a": "November 29",
-        "options": [
-            "November 29",
-            "November 25",
-            "December 5",
-            "October 29",
-            "December 2"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the US Treasury sanction Saman Industrial Group?",
-        "a": "December 2023",
-        "options": [
-            "December 2023",
-            "December 2024",
-            "January 2024",
-            "November 2023",
-            "February 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did the US sanction Blue Calm Marine Services?",
-        "a": "2023",
-        "options": [
-            "2023",
-            "2024",
-            "2022",
-            "2025",
-            "2021"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the petition concerning the 'Cockroach Janta Party' filed in the Supreme Court?",
-        "a": "Sunday (May 24, 2026)",
-        "options": [
-            "Sunday (May 24, 2026)",
-            "Monday (May 23, 2026)",
-            "Saturday (May 25, 2026)",
-            "Tuesday (May 26, 2026)",
-            "Friday (May 22, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Chief Justice of India's reported remark on 'cockroach' made?",
+        "q": "On what date did Chief Justice of India Surya Kant make the remarks that led to the formation of the Cockroach Janta Party?",
         "a": "May 15",
         "options": [
             "May 15",
             "May 10",
             "May 20",
-            "April 15",
-            "June 1"
+            "May 12",
+            "May 18"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary concern driving the Centre's review of inflation and monsoon by June 15?",
-        "a": "Measures to check any possible price rise",
+        "q": "When did the Supreme Court deliver its judgment in the Shrimanth Balasaheb Patel case, relevant to the Tamil Nadu Assembly Speaker's issue?",
+        "a": "2019",
         "options": [
-            "Measures to check any possible price rise",
-            "To evaluate monsoon strength",
-            "To assess global crude oil prices",
-            "To plan agricultural subsidies",
-            "To review foodgrain buffer stocks"
+            "2019",
+            "2018",
+            "2020",
+            "2017",
+            "2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the timeline for Phase 1 of the Special Intensive Revision (SIR) in Bihar?",
+        "a": "June to September 2025",
+        "options": [
+            "June to September 2025",
+            "January to April 2025",
+            "October to December 2025",
+            "July to October 2025",
+            "May to August 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was Phase II of the Special Intensive Revision (SIR) conducted across nine states and three UTs?",
+        "a": "Between October 2025 and February 2026",
+        "options": [
+            "Between October 2025 and February 2026",
+            "Between June 2025 and September 2025",
+            "Between March 2026 and July 2026",
+            "Between April 2025 and August 2025",
+            "Between November 2024 and March 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the primary reason cited by CJI Surya Kant for undertaking the Special Intensive Revision (SIR) of electoral rolls in Bihar?",
+        "a": "Substantial changes due to demographic variations, urbanization, and large-scale migration",
+        "options": [
+            "Substantial changes due to demographic variations, urbanization, and large-scale migration",
+            "To identify illegal immigrants",
+            "To update voter photos",
+            "To verify Aadhaar linkages",
+            "To prepare for an upcoming by-election"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why are government measures like releasing buffer stocks and imposing stock limits taken?",
-        "a": "To contain inflation and ensure adequate availability of essential commodities",
+        "q": "According to the Supreme Court, under which Article of the Constitution did the Election Commission act in the interest of free and fair elections for the SIR process?",
+        "a": "Article 324",
         "options": [
-            "To contain inflation and ensure adequate availability of essential commodities",
-            "To reduce agricultural exports",
-            "To increase farmer income",
-            "To regulate market prices generally",
-            "To support specific industries"
+            "Article 324",
+            "Article 326",
+            "Article 19",
+            "Article 21",
+            "Article 300A"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why is El Ni\u00f1o closely watched in India?",
-        "a": "It is often linked to weaker monsoon rainfall, higher temperatures, and possible pressure on agriculture and food prices",
+        "q": "What was the petitioners' main allegation against the electoral rolls revision (SIR) process in Bihar?",
+        "a": "It was an 'NRC-like process' verifying citizenship",
         "options": [
-            "It is often linked to weaker monsoon rainfall, higher temperatures, and possible pressure on agriculture and food prices",
-            "It guarantees strong monsoon rainfall",
-            "It only affects oceanic temperatures",
-            "It has no impact on global weather patterns",
-            "It leads to increased agricultural output"
+            "It was an 'NRC-like process' verifying citizenship",
+            "It violated voter privacy",
+            "It discriminated against certain communities",
+            "It was too time-consuming",
+            "It was not transparent enough"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why does the 92% of LPA for monsoon rainfall fall into the 'below normal' category?",
-        "a": "Because it is less than 100% of the LPA",
+        "q": "What is the main objective of SEBI's efforts to develop bond ETFs and derivatives on corporate bond indices?",
+        "a": "To improve retail investor participation in the bond market",
         "options": [
-            "Because it is less than 100% of the LPA",
-            "Because it is less than 87 cm",
-            "Because it signifies a drought year",
-            "Because it is exactly 92%",
-            "Because it only affects specific regions"
+            "To improve retail investor participation in the bond market",
+            "To increase government bond issuance",
+            "To reduce corporate tax rates",
+            "To attract foreign institutional investors",
+            "To stabilize the equity market"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Iran's elite Revolutionary Guards acquire advanced Chinese satellite communication equipment?",
-        "a": "For its drone and missile programme",
+        "q": "What is the purpose of SEBI exploring a distinct regulatory classification for debt brokers?",
+        "a": "To lower costs and reduce entry barriers for dedicated debt-market intermediaries",
         "options": [
-            "For its drone and missile programme",
-            "For civilian telecommunication upgrades",
-            "For environmental monitoring",
-            "For space exploration research",
-            "For commercial shipping navigation"
+            "To lower costs and reduce entry barriers for dedicated debt-market intermediaries",
+            "To increase SEBI's regulatory oversight",
+            "To streamline equity market operations",
+            "To merge debt and equity broking licenses",
+            "To encourage international debt issuance"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Iranian vessel Rama III allegedly transmit false navigational information?",
-        "a": "To conceal its movements and true routes/destinations",
+        "q": "What is the primary reason behind China's significant investment in giant wind and solar projects?",
+        "a": "Energy security and economic planning",
         "options": [
-            "To conceal its movements and true routes/destinations",
-            "Due to technical malfunction",
-            "To avoid adverse weather conditions",
-            "To test new navigation technology",
-            "To demonstrate maritime prowess"
+            "Energy security and economic planning",
+            "To increase its global military presence",
+            "To attract more tourism",
+            "To diversify its agricultural output",
+            "To enhance its space exploration program"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was Saman Industrial Group sanctioned by the US Treasury?",
-        "a": "For functioning as a commercial front for the Aerospace Force Self Sufficiency Jihad Organization, which supports ballistic missile, drone, and electronic warfare programmes",
+        "q": "What immune condition does Ironmouse battle, which weakens her immune system?",
+        "a": "CVID (Common Variable Immunodeficiency)",
         "options": [
-            "For functioning as a commercial front for the Aerospace Force Self Sufficiency Jihad Organization, which supports ballistic missile, drone, and electronic warfare programmes",
-            "For violating commercial trade agreements",
-            "For money laundering unrelated to military activities",
-            "For general human rights violations",
-            "For intellectual property theft"
+            "CVID (Common Variable Immunodeficiency)",
+            "Lupus",
+            "Multiple Sclerosis",
+            "Crohn's Disease",
+            "Fibromyalgia"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the European Union sanction the Self Sufficiency Jihad Organization?",
-        "a": "Alleging it supplied Iranian drones to Russia",
+        "q": "What is one of the fundamental duties enshrined under Article 51A of the Constitution of India, which the Cockroach Janta Party seeks to promote?",
+        "a": "Environmental protection",
         "options": [
-            "Alleging it supplied Iranian drones to Russia",
-            "For developing nuclear weapons",
-            "For cyber attacks on European infrastructure",
-            "For illegal oil trade",
-            "For human rights abuses within Iran"
+            "Environmental protection",
+            "Right to property",
+            "Freedom of speech and expression",
+            "Right to education",
+            "Right to privacy"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main reason for the 'digital arrest' cyberfraud, as explained by the accused to the victim?",
-        "a": "Her bank accounts were linked to a money laundering case",
+        "q": "The petitioners in the Tamil Nadu Assembly case sought disqualification of MLAs for what reason?",
+        "a": "Violating the party\u2019s direction to oppose the confidence motion",
         "options": [
-            "Her bank accounts were linked to a money laundering case",
-            "She had unpaid taxes",
-            "She committed identity theft",
-            "She was under investigation for foreign espionage",
-            "She was suspected of drug trafficking"
+            "Violating the party\u2019s direction to oppose the confidence motion",
+            "Corruption charges",
+            "Absenteeism from Assembly sittings",
+            "Holding offices of profit",
+            "Submitting false affidavits"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did bank officials become suspicious of the elderly woman in the cyberfraud case?",
-        "a": "After noticing the unusually large quantity of gold ornaments being brought for pledging",
+        "q": "What is the main objective of SEBI's pilot project for tokenisation of corporate bonds using DLT?",
+        "a": "To evaluate if DLT can improve the functioning of the corporate bond market",
         "options": [
-            "After noticing the unusually large quantity of gold ornaments being brought for pledging",
-            "Because she attempted to withdraw a large sum of cash",
-            "Her account showed suspicious foreign transactions",
-            "She acted erratically during the transaction",
-            "Her identification documents were questionable"
+            "To evaluate if DLT can improve the functioning of the corporate bond market",
+            "To replace all existing bond trading systems immediately",
+            "To regulate cryptocurrencies",
+            "To launch a new digital currency",
+            "To increase government borrowing"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is expected to be at the top of the agenda for the Quad Foreign Ministers\u2019 Meeting on May 25, 2026?",
-        "a": "Cooperation over Critical Minerals needed for green energy and hi-tech",
+        "q": "According to PM Narendra Modi, what should be done in response to reducing foreign exchange reserves?",
+        "a": "Cutting down expenses that can excessively deplete foreign exchange",
         "options": [
-            "Cooperation over Critical Minerals needed for green energy and hi-tech",
-            "Maritime security in the Indo-Pacific",
-            "Climate change mitigation strategies",
-            "Counter-terrorism efforts",
-            "Global economic recovery plans"
+            "Cutting down expenses that can excessively deplete foreign exchange",
+            "Increasing imports of essential goods",
+            "Reducing interest rates",
+            "Promoting foreign travel",
+            "Investing more in foreign equities"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of the petition filed in the Supreme Court concerning the 'Cockroach Janta Party'?",
-        "a": "To challenge organised commercial exploitation and distortion of solemn court hearings into a 'viral spectacle' online",
+        "q": "What is the motto that the industrial node development at Gaya, Bihar, aims to showcase?",
+        "a": "'Vikas bhi, virasat bhi' (development as well as culture)",
         "options": [
-            "To challenge organised commercial exploitation and distortion of solemn court hearings into a 'viral spectacle' online",
-            "To ban satirical political parties",
-            "To reform judicial proceedings",
-            "To promote free speech on social media",
-            "To investigate the origins of the term 'cockroach'"
+            "'Vikas bhi, virasat bhi' (development as well as culture)",
+            "'Sabka Saath, Sabka Vikas'",
+            "'One Nation, One Election'",
+            "'Jai Jawan, Jai Kisan'",
+            "'Digital India, Skill India'"
         ],
         "cat": "Why"
     }
