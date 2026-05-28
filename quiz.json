@@ -1,721 +1,721 @@
 [
     {
-        "q": "What were India's foreign exchange reserves, including gold, as mentioned in the Debt Market Summit 2025 discussions?",
-        "a": "$688.9 billion",
+        "q": "Public-sector OMCs are absorbing daily losses of nearly what amount due to not fully passing rising crude prices to consumers?",
+        "a": "\u20b9550 crore",
         "options": [
-            "$688.9 billion",
-            "$678.5 billion",
-            "$695.2 billion",
-            "$660.1 billion",
-            "$700.0 billion"
+            "\u20b9540 crore",
+            "\u20b9560 crore",
+            "\u20b9550 crore",
+            "\u20b9545 crore",
+            "\u20b9555 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many voters were removed from the draft electoral rolls as part of the Special Intensive Revision (SIR) exercise, according to the poll authority?",
+        "q": "What is the approximate decline in diesel sales observed by privately-owned OMCs in the ongoing month due to higher prices?",
+        "a": "38%",
+        "options": [
+            "37%",
+            "39%",
+            "38%",
+            "36%",
+            "40%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the approximate decline in PSU bulk consumer volumes mentioned in the news?",
+        "a": "29%",
+        "options": [
+            "28%",
+            "30%",
+            "29%",
+            "27%",
+            "31%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the approximate price differential per litre between bulk and retail diesel mentioned in the context of demand shift?",
+        "a": "\u20b940",
+        "options": [
+            "\u20b935",
+            "\u20b945",
+            "\u20b940",
+            "\u20b938",
+            "\u20b942"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is India's current installed refining capacity in million tonnes per annum (MTPA)?",
+        "a": "258.1 MTPA",
+        "options": [
+            "258.0 MTPA",
+            "258.2 MTPA",
+            "258.1 MTPA",
+            "257.9 MTPA",
+            "258.3 MTPA"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was India's domestic consumption of petroleum products in the last financial year in million tonnes?",
+        "a": "243.2 million tonnes",
+        "options": [
+            "243.1 million tonnes",
+            "243.3 million tonnes",
+            "243.2 million tonnes",
+            "242.9 million tonnes",
+            "243.5 million tonnes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many million tonnes of petroleum products does India export annually, indicating no supply gap?",
+        "a": "61.5 million tonnes",
+        "options": [
+            "61.4 million tonnes",
+            "61.6 million tonnes",
+            "61.5 million tonnes",
+            "61.3 million tonnes",
+            "61.7 million tonnes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the penalty levied on Amazon by the Competition Commission of India (CCI) in its December 17, 2021 order?",
+        "a": "\u20b9202 crore",
+        "options": [
+            "\u20b9200 crore",
+            "\u20b9205 crore",
+            "\u20b9202 crore",
+            "\u20b9198 crore",
+            "\u20b9203 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the monthly financial assistance provided to women under West Bengal's Annapurna Yojana?",
+        "a": "\u20b93,000",
+        "options": [
+            "\u20b92,900",
+            "\u20b93,100",
+            "\u20b93,000",
+            "\u20b92,950",
+            "\u20b93,050"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the final number of electors in the Bihar electoral roll published on September 30 last year after the SIR exercise?",
+        "a": "7.42 crore",
+        "options": [
+            "7.40 crore",
+            "7.45 crore",
+            "7.42 crore",
+            "7.41 crore",
+            "7.43 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the number of electors in Bihar when the Special Intensive Revision (SIR) was notified by the EC on June 24, 2025?",
+        "a": "7.89 crore",
+        "options": [
+            "7.85 crore",
+            "7.90 crore",
+            "7.89 crore",
+            "7.88 crore",
+            "7.91 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many electors in Bihar were excluded (purged) during the SIR on grounds of being non-citizens, whose names EC was directed to refer to the Centre?",
         "a": "65 lakh",
         "options": [
-            "65 lakh",
-            "55 lakh",
+            "60 lakh",
             "70 lakh",
-            "62 lakh",
-            "68 lakh"
+            "65 lakh",
+            "63 lakh",
+            "67 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many wind turbines does China aim to develop in its proposed most extensive clean energy plant outside its shores?",
-        "a": "1,000",
+        "q": "The second phase of the Special Intensive Revision (SIR) of electoral rolls covered how many crore voters across 12 States and Union Territories?",
+        "a": "51 crore",
         "options": [
-            "1,000",
-            "500",
-            "2,000",
-            "750",
-            "1,200"
+            "50 crore",
+            "52 crore",
+            "51 crore",
+            "49 crore",
+            "53 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How far away from China's mainland is the area situated where China plans to build its new mega renewable energy project?",
-        "a": "4,300 miles",
+        "q": "Who chaired the sixth meeting of the Informal Group of Ministers (IGoM) on West Asia?",
+        "a": "Defence Minister Rajnath Singh",
         "options": [
-            "4,300 miles",
-            "3,500 miles",
-            "5,000 miles",
-            "4,000 miles",
-            "4,500 miles"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many solar panels comprise the world's largest solar power station in China's Xinjiang province?",
-        "a": "5.26 million",
-        "options": [
-            "5.26 million",
-            "4.50 million",
-            "6.00 million",
-            "5.00 million",
-            "5.50 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the annual energy production capacity of China's first gigawatt-scale offshore solar farm in Shandong province?",
-        "a": "1.78 billion kilowatt-hours",
-        "options": [
-            "1.78 billion kilowatt-hours",
-            "1.50 billion kilowatt-hours",
-            "2.00 billion kilowatt-hours",
-            "1.70 billion kilowatt-hours",
-            "1.85 billion kilowatt-hours"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many minutes can Ironmouse now walk on the treadmill, marking a significant health milestone for her?",
-        "a": "Thirty-five minutes",
-        "options": [
-            "Thirty-five minutes",
-            "Twenty minutes",
-            "Forty-five minutes",
-            "Thirty minutes",
-            "Twenty-five minutes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many AIADMK candidates' resignations did the Tamil Nadu Assembly Speaker J.C.D. Prabhakar accept?",
-        "a": "Four",
-        "options": [
-            "Four",
-            "Two",
-            "Six",
-            "Three",
-            "Five"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many AIADMK legislators voted in favour of the TVK government in the recent confidence motion in the Tamil Nadu Assembly?",
-        "a": "25",
-        "options": [
-            "25",
-            "20",
-            "30",
-            "22",
-            "28"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In how many years after liberalization has India had an overall balance of payment deficit, out of 35 years, as stated by Ashima Goyal?",
-        "a": "Six",
-        "options": [
-            "Six",
-            "Three",
-            "Nine",
-            "Five",
-            "Seven"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the total investment will emphasize stabilizing coal supply and upgrading coal-fired power plants in China in 2026?",
-        "a": "30 percent",
-        "options": [
-            "30 percent",
-            "25 percent",
-            "35 percent",
-            "28 percent",
-            "32 percent"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What specific year is the Representation of the People Act, referred to in the Supreme Court case regarding SIR, from?",
-        "a": "1950",
-        "options": [
-            "1950",
-            "1951",
-            "1947",
-            "1960",
-            "1971"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who headed the bench that delivered the Supreme Court verdict on the Special Intensive Revision (SIR) of electoral rolls?",
-        "a": "Chief Justice Surya Kant",
-        "options": [
-            "Chief Justice Surya Kant",
-            "Justice D.Y. Chandrachud",
-            "Justice N.V. Ramana",
-            "Justice U.U. Lalit",
-            "Justice Sharad Arvind Bobde"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which NGO filed a plea challenging the Special Intensive Revision (SIR) of electoral rolls in Bihar, mentioned in the news?",
-        "a": "Association for Democratic Reforms (ADR)",
-        "options": [
-            "Association for Democratic Reforms (ADR)",
-            "People's Union for Civil Liberties (PUCL)",
-            "Transparency International",
-            "Common Cause",
-            "Jan Adhikar Manch"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Emeritus Professor at IGIDR and former member of the Monetary Policy Committee who spoke at the Debt Market Summit 2025?",
-        "a": "Ashima Goyal",
-        "options": [
-            "Ashima Goyal",
-            "Urjit Patel",
-            "Raghuram Rajan",
-            "Viral Acharya",
-            "Bibek Debroy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current SEBI Chairperson mentioned as addressing a debt-market event?",
-        "a": "Tuhin Kanta Pandey",
-        "options": [
-            "Tuhin Kanta Pandey",
-            "Madhabi Puri Buch",
-            "Ajay Tyagi",
-            "U.K. Sinha",
-            "C.B. Bhave"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who announced several schemes for Bihar as part of the 'Purvodaya' plan in her Budget 2024 speech?",
-        "a": "Nirmala Sitharaman",
-        "options": [
-            "Nirmala Sitharaman",
-            "Smriti Irani",
-            "Piyush Goyal",
-            "Amit Shah",
-            "Raj Nath Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Chinese President declared plans to significantly increase wind and solar energy production as part of the country's emissions reduction strategy?",
-        "a": "Xi Jinping",
-        "options": [
-            "Xi Jinping",
-            "Li Qiang",
-            "Wang Yi",
-            "Zhao Leji",
-            "Han Zheng"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which corporation engineered China's first gigawatt-scale offshore solar farm in Shandong province?",
-        "a": "China Energy Investment Corporation",
-        "options": [
-            "China Energy Investment Corporation",
-            "State Grid Corporation of China",
-            "China National Petroleum Corporation",
-            "Sinohydro Corporation",
-            "China Three Gorges Corporation"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the virtual streamer known as Ironmouse who shared a recent health update?",
-        "a": "Ironmouse",
-        "options": [
-            "Ironmouse",
-            "Gawr Gura",
-            "Usada Pekora",
-            "Kizuna AI",
-            "Vshojo"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the lawyer-activist from Panipat, Haryana, who filed an application for the registration of the Cockroach Janta Party (CJP)?",
-        "a": "Sudhir Jakhar",
-        "options": [
-            "Sudhir Jakhar",
-            "Abhijeet Dipke",
-            "Prashant Bhushan",
-            "Ram Jethmalani",
-            "Arun Jaitley"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who made the original 'cockroaches' and 'parasites of society' remarks that led to the formation of the Cockroach Janta Party?",
-        "a": "Chief Justice of India Surya Kant",
-        "options": [
-            "Chief Justice of India Surya Kant",
-            "Prime Minister Narendra Modi",
             "Home Minister Amit Shah",
-            "Union Minister Nitin Gadkari",
-            "Justice D.Y. Chandrachud"
+            "Finance Minister Nirmala Sitharaman",
+            "Defence Minister Rajnath Singh",
+            "External Affairs Minister S. Jaishankar",
+            "Prime Minister Narendra Modi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Tamil Nadu Assembly Speaker who accepted the resignations of four AIADMK legislators?",
-        "a": "J.C.D. Prabhakar",
+        "q": "Which two Justices constituted the Supreme Court Bench that set aside the NCLAT's order against Amazon's investment deal with Future Group?",
+        "a": "Justices Vikram Nath and Sandeep Mehta",
         "options": [
-            "J.C.D. Prabhakar",
-            "M. Appavu",
-            "P. Dhanapal",
-            "K.P. Anbalagan",
-            "Durai Murugan"
+            "Justices D.Y. Chandrachud and J.B. Pardiwala",
+            "Justices Vikram Nath and Sandeep Mehta",
+            "Justices Sanjay Kishan Kaul and Sanjiv Khanna",
+            "Justices Aniruddha Bose and Bela M. Trivedi",
+            "Justices Hima Kohli and P.S. Narasimha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which CEO of JP Morgan Chase Bank spoke at the Debt Market Summit 2025, suggesting that structural reforms should be for long-term shift, not episodic?",
-        "a": "Pranav Chawda",
+        "q": "Who is the Chief Minister of West Bengal who announced the Annapurna Yojana?",
+        "a": "Suvendu Adhikari",
         "options": [
-            "Pranav Chawda",
-            "Jamie Dimon",
-            "Sandeep Singh",
-            "Anshula Kant",
-            "Arun Singh"
+            "Mamata Banerjee",
+            "Suvendu Adhikari",
+            "Abhishek Banerjee",
+            "Amit Mitra",
+            "Firhad Hakim"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which state was the Special Intensive Revision (SIR) of electoral rolls initially conducted, as challenged in the Supreme Court?",
-        "a": "Bihar",
+        "q": "Who was mentioned as the Minister who would be publishing the form for the Annapurna Yojana along with the Chief Minister?",
+        "a": "Agnimitra Paul",
         "options": [
-            "Bihar",
-            "Uttar Pradesh",
-            "West Bengal",
-            "Odisha",
-            "Jharkhand"
+            "Chandrima Bhattacharya",
+            "Partha Chatterjee",
+            "Agnimitra Paul",
+            "Subrata Mukherjee",
+            "Jyoti Priya Mallick"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Chief Justice of India heading the Bench that refused to grant urgent hearing of a PIL seeking a ban on cow slaughter?",
+        "a": "Surya Kant",
+        "options": [
+            "D.Y. Chandrachud",
+            "Sanjiv Khanna",
+            "Surya Kant",
+            "Hima Kohli",
+            "P.S. Narasimha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the advocate who mentioned the matter of cow slaughter ban PIL before the Supreme Court Bench seeking urgent hearing?",
+        "a": "Barun Kumar Sinha",
+        "options": [
+            "Kapil Sibal",
+            "Mukul Rohatgi",
+            "Barun Kumar Sinha",
+            "Aishwarya Bhati",
+            "Harish Salve"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who filed the PIL seeking directions to enforce anti-slaughter laws to protect the cow and its progeny?",
+        "a": "Satish Kumar Aggarwal",
+        "options": [
+            "Ashwini Upadhyay",
+            "Satish Kumar Aggarwal",
+            "R. Venkataramani",
+            "Prashant Bhushan",
+            "Ram Jethmalani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Chief Justice of India heading the three-judge Bench that agreed to examine the CBSE\u2019s three-language rule?",
+        "a": "Surya Kant",
+        "options": [
+            "D.Y. Chandrachud",
+            "U.U. Lalit",
+            "Surya Kant",
+            "N.V. Ramana",
+            "Sharad Arvind Bobde"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the senior advocate for the petitioners who argued that the CBSE three-language policy violated principles of federalism?",
+        "a": "Kapil Sibal",
+        "options": [
+            "Mukul Rohatgi",
+            "Kapil Sibal",
+            "P. Chidambaram",
+            "Abhishek Manu Singhvi",
+            "Gopal Subramanium"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Additional Solicitor General who successfully urged the Supreme Court to list the CBSE three-language rule case in July?",
+        "a": "Aishwarya Bhati",
+        "options": [
+            "Tushar Mehta",
+            "Sanjay Jain",
+            "Aishwarya Bhati",
+            "Vikramjit Banerjee",
+            "Madhavi Divan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which two Justices formed the Division Bench of the Madras High Court that recorded the Tamil Nadu government's submission on filing a curative petition?",
+        "a": "Justices G.R. Swaminathan and V. Lakshminarayanan",
+        "options": [
+            "Justices S. Vaidyanathan and R. Subramanian",
+            "Justices G.R. Swaminathan and V. Lakshminarayanan",
+            "Justices N. Kirubakaran and M. Govindaraj",
+            "Justices P. N. Prakash and D. Bharatha Chakravarthy",
+            "Justices T.S. Sivagnanam and S. Ananthi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who authored the 124-page judgment affirming the constitutionality of the Bihar Special Intensive Revision (SIR) of electoral rolls?",
+        "a": "Chief Justice Kant",
+        "options": [
+            "Justice Joymalya Bagchi",
+            "Chief Justice Kant",
+            "Justice D.Y. Chandrachud",
+            "Justice Sandeep Mehta",
+            "Justice Vikram Nath"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the sixth meeting of the Informal Group of Ministers (IGoM) on West Asia chaired by Defence Minister Rajnath Singh held?",
+        "a": "Kartavya Bhawan-2, New Delhi",
+        "options": [
+            "Vigyan Bhawan, New Delhi",
+            "Kartavya Bhawan-2, New Delhi",
+            "Parliament House, New Delhi",
+            "North Block, New Delhi",
+            "South Block, New Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the Debt Market Summit 2025, where discussions on foreign exchange reserves took place, held?",
-        "a": "Mumbai",
+        "q": "At which location did West Bengal Chief Minister Suvendu Adhikari hold an administrative review meeting where he announced the Annapurna Yojana?",
+        "a": "Kalyani",
         "options": [
-            "Mumbai",
-            "New Delhi",
-            "Bengaluru",
-            "Chennai",
-            "Kolkata"
+            "Kolkata",
+            "Howrah",
+            "Kalyani",
+            "Durgapur",
+            "Siliguri"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city did the SEBI Chairman announce the pilot project for tokenisation of corporate bonds?",
-        "a": "Mumbai",
+        "q": "From where will the form for the Annapurna Yojana be released by the West Bengal State government?",
+        "a": "State secretariat (Nabanna)",
         "options": [
-            "Mumbai",
-            "New Delhi",
-            "Hyderabad",
-            "Ahmedabad",
-            "Pune"
+            "Writers' Buildings",
+            "Nabanna",
+            "Raj Bhavan",
+            "Vikas Bhawan",
+            "Panchayat Bhawan"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where in Bihar is an industrial node being developed as part of the 'Purvodaya' plan announced by the Union Finance Minister?",
-        "a": "Gaya",
+        "q": "The 2017 sexual assault and murder case of a seven-year-old girl, for which the Tamil Nadu government is filing a curative petition, occurred in which Chennai locality?",
+        "a": "Mugalivakkam",
         "options": [
-            "Gaya",
-            "Patna",
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Darbhanga"
+            "Adyar",
+            "Mylapore",
+            "Mugalivakkam",
+            "Tambaram",
+            "Velachery"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Chinese province was the world's largest solar power station put into operation in December 2025?",
-        "a": "Xinjiang",
+        "q": "The victim's body in the Chennai case was dumped under a bridge near which specific location before being burnt?",
+        "a": "Anakaputhur",
         "options": [
-            "Xinjiang",
-            "Shandong",
-            "Sichuan",
-            "Guangdong",
-            "Inner Mongolia"
+            "Pallavaram",
+            "Chromepet",
+            "Anakaputhur",
+            "Poonamallee",
+            "Madipakkam"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Chinese province was the world's first gigawatt-scale offshore solar farm launched in late 2025?",
-        "a": "Shandong",
-        "options": [
-            "Shandong",
-            "Hebei",
-            "Jiangsu",
-            "Zhejiang",
-            "Fujian"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city in Haryana is the residence of Sudhir Jakhar, who filed the application for the Cockroach Janta Party's registration?",
-        "a": "Panipat",
-        "options": [
-            "Panipat",
-            "Sonipat",
-            "Rohtak",
-            "Gurugram",
-            "Faridabad"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Abhijeet Dipke, the founder of the satirical online movement behind CJP, is based in which city?",
-        "a": "Boston",
-        "options": [
-            "Boston",
-            "New York",
-            "London",
-            "San Francisco",
-            "Toronto"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which High Court did Abhijeet Dipke approach to challenge the blocking of the Cockroach Janta Party's X account?",
-        "a": "Delhi High Court",
-        "options": [
-            "Delhi High Court",
-            "Bombay High Court",
-            "Madras High Court",
-            "Calcutta High Court",
-            "Punjab and Haryana High Court"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court judgment in 2019 regarding MLAs' resignations, cited in the Tamil Nadu case, was related to which state's Assembly?",
-        "a": "Karnataka Assembly",
-        "options": [
-            "Karnataka Assembly",
-            "Kerala Assembly",
-            "Andhra Pradesh Assembly",
-            "Telangana Assembly",
-            "Maharashtra Assembly"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which region of India is NOT included in Phase-III of the Special Intensive Revision (SIR) of Electoral Rolls covering the entire country?",
-        "a": "Himachal Pradesh, Jammu & Kashmir and Ladakh",
-        "options": [
-            "Himachal Pradesh, Jammu & Kashmir and Ladakh",
-            "Bihar, Jharkhand, and West Bengal",
-            "Uttar Pradesh, Madhya Pradesh, and Rajasthan",
-            "Maharashtra, Gujarat, and Goa",
-            "Punjab, Haryana, and Uttarakhand"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On what date did the Supreme Court deliver its judgment on the petitions challenging the Special Intensive Revision (SIR) of electoral rolls in Bihar?",
-        "a": "Wednesday, May 27",
-        "options": [
-            "Wednesday, May 27",
-            "Monday, May 25",
-            "Tuesday, May 26",
-            "Thursday, May 28",
-            "Friday, May 29"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date had the Supreme Court bench reserved its verdict on the pleas challenging the SIR process?",
-        "a": "January 29",
-        "options": [
-            "January 29",
-            "February 15",
-            "December 10",
-            "March 5",
-            "April 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Supreme Court commence final arguments in the matter concerning the Election Commission's power to conduct SIR?",
-        "a": "August 12 last year",
-        "options": [
-            "August 12 last year",
-            "September 1 last year",
-            "July 20 last year",
-            "June 5 last year",
-            "October 15 last year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the deadline for the Election Commission's order on the SIR exercise in Bihar, which petitioners sought to set aside?",
-        "a": "June 24, 2025",
-        "options": [
-            "June 24, 2025",
-            "July 15, 2025",
-            "August 1, 2025",
-            "May 30, 2025",
-            "September 10, 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did SEBI Chairman Tuhin Kanta Pandey announce the pilot project for tokenisation of corporate bonds using DLT?",
-        "a": "Tuesday (May 26, 2026)",
+        "q": "On which date did the Government state that public-sector OMCs were absorbing nearly \u20b9550 crore per day in losses?",
+        "a": "Wednesday (May 27, 2026)",
         "options": [
             "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Monday (May 25, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Supreme Court set aside the National Company Law Appellate Tribunal\u2019s (NCLAT's) June 2022 order concerning Amazon's deal?",
+        "a": "Wednesday (May 27, 2026)",
+        "options": [
+            "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Monday (May 25, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The NCLAT's order, which had rejected Amazon's appeal against an anti-trust suspension, was issued in which month and year?",
+        "a": "June 2022",
+        "options": [
+            "July 2022",
+            "May 2022",
+            "June 2022",
+            "August 2022",
+            "April 2022"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Competition Commission of India (CCI) levy a \u20b9202 crore penalty on Amazon and suspend its deal with Future?",
+        "a": "December 17, 2021",
+        "options": [
+            "December 15, 2021",
+            "December 18, 2021",
+            "December 17, 2021",
+            "December 16, 2021",
+            "December 19, 2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Within how many weeks should the amount deposited or recovered from Amazon be refunded as per the Supreme Court's direction?",
+        "a": "Eight weeks",
+        "options": [
+            "Six weeks",
+            "Ten weeks",
+            "Eight weeks",
+            "Seven weeks",
+            "Nine weeks"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did West Bengal Chief Minister Suvendu Adhikari state that the State government would begin issuing forms for the Annapurna Yojana?",
+        "a": "Tuesday (May 26, 2026)",
+        "options": [
             "Monday (May 25, 2026)",
             "Wednesday (May 27, 2026)",
+            "Tuesday (May 26, 2026)",
             "Thursday (May 28, 2026)",
             "Friday (May 29, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "How long is the implementation expected to take for SEBI's pilot project on tokenisation of corporate bonds?",
-        "a": "Six to nine months",
+        "q": "The process for West Bengal's Annapurna Yojana was formally scheduled to commence on which specific day mentioned by the Chief Minister?",
+        "a": "Wednesday (May 27, 2026)",
         "options": [
-            "Six to nine months",
-            "Three to six months",
-            "One year",
-            "Nine to twelve months",
-            "One to two years"
+            "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Monday (May 25, 2026)",
+            "Friday (May 29, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did Union Finance Minister Nirmala Sitharaman announce the 'Purvodaya' schemes for Bihar in her Budget speech?",
-        "a": "July 23 (Budget 2024)",
+        "q": "By what date was the verification and database cleansing exercise for Annapurna Yojana beneficiaries instructed to be completed?",
+        "a": "May 25",
         "options": [
-            "July 23 (Budget 2024)",
-            "February 1 (Budget 2024)",
-            "March 15 (Budget 2024)",
-            "April 10 (Budget 2024)",
-            "August 5 (Budget 2024)"
+            "May 24",
+            "May 26",
+            "May 25",
+            "May 23",
+            "May 27"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did China put into operation the world's largest solar power station in Xinjiang province?",
-        "a": "December 2025",
+        "q": "When was the official order for the Annapurna Yojana database cleansing exercise issued by the Women and Child Development and Social Welfare Department?",
+        "a": "May 19, 2026",
         "options": [
-            "December 2025",
-            "November 2024",
-            "January 2026",
-            "October 2025",
-            "February 2026"
+            "May 18, 2026",
+            "May 20, 2026",
+            "May 19, 2026",
+            "May 17, 2026",
+            "May 21, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When did China launch its first gigawatt-scale offshore solar farm in Shandong province?",
-        "a": "Late 2025",
+        "q": "When is the online application portal for fresh applicants for the Annapurna Yojana scheduled to be launched?",
+        "a": "June 1",
         "options": [
-            "Late 2025",
-            "Early 2025",
-            "Mid 2025",
-            "Late 2024",
-            "Early 2026"
+            "May 30",
+            "June 2",
+            "June 1",
+            "May 31",
+            "June 3"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did Chief Justice of India Surya Kant make the remarks that led to the formation of the Cockroach Janta Party?",
+        "q": "On what date did the Supreme Court refuse to grant urgent hearing of a PIL seeking effective implementation of the law imposing a complete ban on cow slaughter?",
+        "a": "Tuesday (May 26, 2026)",
+        "options": [
+            "Monday (May 25, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court agreed to examine the CBSE\u2019s three-language rule, set to be effective from July 1 for Class 9 students, on which date?",
+        "a": "Wednesday (May 27, 2026)",
+        "options": [
+            "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Monday (May 25, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The CBSE\u2019s three-language rule, challenged in the Supreme Court, is set to be effective from which date for Class 9 students?",
+        "a": "July 1",
+        "options": [
+            "June 1",
+            "August 1",
+            "July 1",
+            "September 1",
+            "May 1"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the circular declaring the three-language rule issued by the CBSE?",
         "a": "May 15",
         "options": [
+            "May 14",
+            "May 16",
             "May 15",
-            "May 10",
-            "May 20",
-            "May 12",
-            "May 18"
+            "May 13",
+            "May 17"
         ],
         "cat": "When"
     },
     {
-        "q": "When did the Supreme Court deliver its judgment in the Shrimanth Balasaheb Patel case, relevant to the Tamil Nadu Assembly Speaker's issue?",
-        "a": "2019",
+        "q": "The Supreme Court initially listed the case challenging the CBSE three-language rule for which date, before it was deferred?",
+        "a": "June 15",
         "options": [
-            "2019",
-            "2018",
-            "2020",
-            "2017",
-            "2021"
+            "June 10",
+            "June 20",
+            "June 15",
+            "July 1",
+            "May 30"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the timeline for Phase 1 of the Special Intensive Revision (SIR) in Bihar?",
-        "a": "June to September 2025",
+        "q": "When did the Supreme Court acquit the engineering graduate from all charges in the 2017 sexual assault and murder case?",
+        "a": "October 8, 2025",
         "options": [
-            "June to September 2025",
-            "January to April 2025",
-            "October to December 2025",
-            "July to October 2025",
-            "May to August 2025"
+            "October 7, 2025",
+            "October 9, 2025",
+            "October 8, 2025",
+            "October 6, 2025",
+            "October 10, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Phase II of the Special Intensive Revision (SIR) conducted across nine states and three UTs?",
-        "a": "Between October 2025 and February 2026",
+        "q": "When was the review petition filed by the State in the Chennai murder case dismissed by the Supreme Court?",
+        "a": "November 26, 2025",
         "options": [
-            "Between October 2025 and February 2026",
-            "Between June 2025 and September 2025",
-            "Between March 2026 and July 2026",
-            "Between April 2025 and August 2025",
-            "Between November 2024 and March 2025"
+            "November 25, 2025",
+            "November 27, 2025",
+            "November 26, 2025",
+            "November 24, 2025",
+            "November 28, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary reason cited by CJI Surya Kant for undertaking the Special Intensive Revision (SIR) of electoral rolls in Bihar?",
-        "a": "Substantial changes due to demographic variations, urbanization, and large-scale migration",
+        "q": "When did the Madras High Court confirm the death sentence for the accused in the Chennai murder case?",
+        "a": "July 2018",
         "options": [
-            "Substantial changes due to demographic variations, urbanization, and large-scale migration",
-            "To identify illegal immigrants",
-            "To update voter photos",
-            "To verify Aadhaar linkages",
-            "To prepare for an upcoming by-election"
+            "June 2018",
+            "August 2018",
+            "July 2018",
+            "September 2018",
+            "May 2018"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which date did the Supreme Court uphold the Special Intensive Revision (SIR) of electoral rolls?",
+        "a": "Wednesday (May 27, 2026)",
+        "options": [
+            "Tuesday (May 26, 2026)",
+            "Thursday (May 28, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Monday (May 25, 2026)",
+            "Friday (May 29, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the final Bihar electoral roll published, containing 7.42 crore electors?",
+        "a": "September 30 last year",
+        "options": [
+            "September 29 last year",
+            "October 1 last year",
+            "September 30 last year",
+            "September 28 last year",
+            "October 2 last year"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was the Bihar Special Intensive Revision (SIR) notified by the Election Commission of India?",
+        "a": "June 24, 2025",
+        "options": [
+            "June 23, 2025",
+            "June 25, 2025",
+            "June 24, 2025",
+            "June 22, 2025",
+            "June 26, 2025"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Within how many weeks did the Supreme Court direct the EC to refer names of purged electors to the Centre for adjudication?",
+        "a": "Four weeks",
+        "options": [
+            "Three weeks",
+            "Five weeks",
+            "Four weeks",
+            "Two weeks",
+            "Six weeks"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary reason stated for public-sector OMCs absorbing losses despite rising international crude prices?",
+        "a": "To protect retail consumers from volatility in global energy markets",
+        "options": [
+            "To increase government revenue",
+            "To fund expansion projects",
+            "To protect retail consumers from volatility in global energy markets",
+            "To encourage industrial growth",
+            "To maintain market share against private players"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to the Supreme Court, under which Article of the Constitution did the Election Commission act in the interest of free and fair elections for the SIR process?",
-        "a": "Article 324",
+        "q": "Why did privately-owned OMCs observe a decline in diesel sales in the ongoing month?",
+        "a": "Owing to their higher prices compared to PSU OMCs",
         "options": [
-            "Article 324",
-            "Article 326",
-            "Article 19",
-            "Article 21",
-            "Article 300A"
+            "Due to decreased demand for diesel",
+            "Owing to their higher prices compared to PSU OMCs",
+            "Because of supply chain disruptions",
+            "To support public-sector OMCs",
+            "Due to government regulations"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the petitioners' main allegation against the electoral rolls revision (SIR) process in Bihar?",
-        "a": "It was an 'NRC-like process' verifying citizenship",
+        "q": "What was the Supreme Court's primary concern regarding the implementation of the CBSE's three-language policy?",
+        "a": "Logistical and factual challenges due to dearth of teachers and books",
         "options": [
-            "It was an 'NRC-like process' verifying citizenship",
-            "It violated voter privacy",
-            "It discriminated against certain communities",
-            "It was too time-consuming",
-            "It was not transparent enough"
+            "Its impact on national unity",
+            "Logistical and factual challenges due to dearth of teachers and books",
+            "Violation of state autonomy",
+            "Lack of student interest in languages",
+            "Financial burden on schools"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main objective of SEBI's efforts to develop bond ETFs and derivatives on corporate bond indices?",
-        "a": "To improve retail investor participation in the bond market",
+        "q": "The CBSE three-language rule is stated to be a part of which national education framework?",
+        "a": "National Education Policy 2020 and National Curriculum Framework for School Education 2023",
         "options": [
-            "To improve retail investor participation in the bond market",
-            "To increase government bond issuance",
-            "To reduce corporate tax rates",
-            "To attract foreign institutional investors",
-            "To stabilize the equity market"
+            "Right to Education Act 2009",
+            "Sarva Shiksha Abhiyan",
+            "National Education Policy 2020 and National Curriculum Framework for School Education 2023",
+            "Mid-Day Meal Scheme",
+            "Rastriya Madhyamik Shiksha Abhiyan"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of SEBI exploring a distinct regulatory classification for debt brokers?",
-        "a": "To lower costs and reduce entry barriers for dedicated debt-market intermediaries",
+        "q": "For the Annapurna Yojana, what is the age eligibility criterion for women beneficiaries?",
+        "a": "Between 25 and 60 years",
         "options": [
-            "To lower costs and reduce entry barriers for dedicated debt-market intermediaries",
-            "To increase SEBI's regulatory oversight",
-            "To streamline equity market operations",
-            "To merge debt and equity broking licenses",
-            "To encourage international debt issuance"
+            "Between 18 and 55 years",
+            "Between 25 and 60 years",
+            "Between 21 and 65 years",
+            "Between 30 and 50 years",
+            "Between 20 and 70 years"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary reason behind China's significant investment in giant wind and solar projects?",
-        "a": "Energy security and economic planning",
+        "q": "What is the main purpose of the West Bengal government's database cleansing exercise for the Annapurna Yojana?",
+        "a": "Identifying and removing ineligible names from the beneficiary database and ensuring proper authentication of genuine recipients",
         "options": [
-            "Energy security and economic planning",
-            "To increase its global military presence",
-            "To attract more tourism",
-            "To diversify its agricultural output",
-            "To enhance its space exploration program"
+            "To update contact information of beneficiaries",
+            "To assess the financial impact of the scheme",
+            "Identifying and removing ineligible names from the beneficiary database and ensuring proper authentication of genuine recipients",
+            "To conduct a survey of women's health",
+            "To digitize all government records"
         ],
         "cat": "Why"
     },
     {
-        "q": "What immune condition does Ironmouse battle, which weakens her immune system?",
-        "a": "CVID (Common Variable Immunodeficiency)",
+        "q": "What is the constitutional obligation that the Special Intensive Revision (SIR) of electoral rolls helps to fulfill, as stated by the Supreme Court?",
+        "a": "To conduct free and fair elections",
         "options": [
-            "CVID (Common Variable Immunodeficiency)",
-            "Lupus",
-            "Multiple Sclerosis",
-            "Crohn's Disease",
-            "Fibromyalgia"
+            "To ensure census accuracy",
+            "To promote national integration",
+            "To conduct free and fair elections",
+            "To strengthen federalism",
+            "To manage public finances"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the fundamental duties enshrined under Article 51A of the Constitution of India, which the Cockroach Janta Party seeks to promote?",
-        "a": "Environmental protection",
+        "q": "What does the Supreme Court judgment state is a condition precedent for enrolment in electoral rolls?",
+        "a": "Citizenship",
         "options": [
-            "Environmental protection",
-            "Right to property",
-            "Freedom of speech and expression",
-            "Right to education",
-            "Right to privacy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The petitioners in the Tamil Nadu Assembly case sought disqualification of MLAs for what reason?",
-        "a": "Violating the party\u2019s direction to oppose the confidence motion",
-        "options": [
-            "Violating the party\u2019s direction to oppose the confidence motion",
-            "Corruption charges",
-            "Absenteeism from Assembly sittings",
-            "Holding offices of profit",
-            "Submitting false affidavits"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the main objective of SEBI's pilot project for tokenisation of corporate bonds using DLT?",
-        "a": "To evaluate if DLT can improve the functioning of the corporate bond market",
-        "options": [
-            "To evaluate if DLT can improve the functioning of the corporate bond market",
-            "To replace all existing bond trading systems immediately",
-            "To regulate cryptocurrencies",
-            "To launch a new digital currency",
-            "To increase government borrowing"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to PM Narendra Modi, what should be done in response to reducing foreign exchange reserves?",
-        "a": "Cutting down expenses that can excessively deplete foreign exchange",
-        "options": [
-            "Cutting down expenses that can excessively deplete foreign exchange",
-            "Increasing imports of essential goods",
-            "Reducing interest rates",
-            "Promoting foreign travel",
-            "Investing more in foreign equities"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the motto that the industrial node development at Gaya, Bihar, aims to showcase?",
-        "a": "'Vikas bhi, virasat bhi' (development as well as culture)",
-        "options": [
-            "'Vikas bhi, virasat bhi' (development as well as culture)",
-            "'Sabka Saath, Sabka Vikas'",
-            "'One Nation, One Election'",
-            "'Jai Jawan, Jai Kisan'",
-            "'Digital India, Skill India'"
+            "Age",
+            "Residency",
+            "Employment",
+            "Citizenship",
+            "Income"
         ],
         "cat": "Why"
     }
