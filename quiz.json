@@ -1,818 +1,770 @@
 [
     {
-        "q": "What was the penalty imposed by the Competition Commission of India (CCI) on Amazon, which was later rescinded by the Supreme Court?",
-        "a": "\u20b9202 crore",
+        "q": "What is the approximate cost of one MQ-9 Reaper strike drone as mentioned in the news?",
+        "a": "$30 million",
         "options": [
-            "\u20b9200 crore",
-            "\u20b9205 crore",
-            "\u20b9202 crore",
-            "\u20b9198 crore",
-            "\u20b9210 crore"
+            "$31 million",
+            "$29 million",
+            "$30 million",
+            "$30.5 million",
+            "$29.5 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Amazon's 2019 investment in Future Coupons amounted to how much?",
-        "a": "\u20b91,431 crore",
+        "q": "How many Americans were reported to have suffered minor injuries in the Iranian missile strike on the Ali Al Salem air base?",
+        "a": "About five",
         "options": [
-            "\u20b91,430 crore",
-            "\u20b91,435 crore",
-            "\u20b91,431 crore",
-            "\u20b91,425 crore",
-            "\u20b91,440 crore"
+            "About six",
+            "About four",
+            "About five",
+            "About seven",
+            "About three"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of stake did Amazon buy in Future Coupons, which was later revoked by CCI?",
-        "a": "49%",
+        "q": "What is the approximate warhead capacity of Iran's Fateh-110 short-range ballistic missile, according to the Center for Strategic and International Studies?",
+        "a": "500-kilogram",
         "options": [
-            "48%",
-            "50%",
-            "49%",
-            "45%",
-            "51%"
+            "510-kilogram",
+            "490-kilogram",
+            "500-kilogram",
+            "505-kilogram",
+            "495-kilogram"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many candidates had registered for the NEET-UG test that was originally conducted on May 3?",
-        "a": "Nearly 23 lakh",
+        "q": "How many ballistic missiles has Tehran reportedly fired at targets around the region since the war began on February 28?",
+        "a": "More than 1,850",
         "options": [
-            "22 lakh",
-            "23 lakh",
-            "24 lakh",
-            "21 lakh",
-            "25 lakh"
+            "More than 1,860",
+            "More than 1,840",
+            "More than 1,850",
+            "More than 1,855",
+            "More than 1,845"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the inflation rate in April, which was the highest level in three years in the US?",
-        "a": "3.8%",
-        "options": [
-            "3.7%",
-            "3.9%",
-            "3.8%",
-            "3.6%",
-            "4.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the inflation rate in March in the US, as reported by the Commerce Department?",
-        "a": "3.5%",
-        "options": [
-            "3.4%",
-            "3.6%",
-            "3.5%",
-            "3.3%",
-            "3.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the monthly price rise in April in the US, according to the Commerce Department?",
-        "a": "0.4%",
-        "options": [
-            "0.3%",
-            "0.5%",
-            "0.4%",
-            "0.2%",
-            "0.6%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the monthly price rise in March in the US, according to the Commerce Department?",
-        "a": "0.7%",
-        "options": [
-            "0.6%",
-            "0.8%",
-            "0.7%",
-            "0.5%",
-            "0.9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The US economy grew at what annual pace from January through March?",
-        "a": "1.6%",
-        "options": [
-            "1.5%",
-            "1.7%",
-            "1.6%",
-            "1.4%",
-            "1.8%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the GDP growth rate in the last quarter of 2025 for the US economy?",
-        "a": "0.5%",
-        "options": [
-            "0.4%",
-            "0.6%",
-            "0.5%",
-            "0.3%",
-            "0.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the original preliminary estimate for the first-quarter US GDP expansion?",
-        "a": "2%",
-        "options": [
-            "1.9%",
-            "2.1%",
-            "2%",
-            "1.8%",
-            "2.2%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth in consumer spending in the first quarter of the US economy?",
-        "a": "1.4%",
-        "options": [
-            "1.3%",
-            "1.5%",
-            "1.4%",
-            "1.2%",
-            "1.6%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth rate for business investment in the US economy, likely driven by AI spending?",
-        "a": "7%",
-        "options": [
-            "6%",
-            "8%",
-            "7%",
-            "6.5%",
-            "7.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the monthly cash incentive proposed under West Bengal's Annapurna Yojana?",
-        "a": "\u20b93,000",
-        "options": [
-            "\u20b92,900",
-            "\u20b93,100",
-            "\u20b93,000",
-            "\u20b92,800",
-            "\u20b93,200"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the monthly cash incentive under West Bengal's Lakshmir Bhandar scheme?",
-        "a": "\u20b91,500",
-        "options": [
-            "\u20b91,400",
-            "\u20b91,600",
-            "\u20b91,500",
-            "\u20b91,300",
-            "\u20b91,700"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how many beneficiaries are estimated to be eligible for Annapurna Bhandar based on Suvendu Adhikari's remarks?",
-        "a": "2 crore",
-        "options": [
-            "1.9 crore",
-            "2.1 crore",
-            "2 crore",
-            "1.8 crore",
-            "2.2 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated monthly financial burden on the State exchequer for the Annapurna Yojana, assuming 2 crore beneficiaries?",
-        "a": "\u20b96,000 crore",
-        "options": [
-            "\u20b95,900 crore",
-            "\u20b96,100 crore",
-            "\u20b96,000 crore",
-            "\u20b95,800 crore",
-            "\u20b96,200 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated annual financial burden on the State exchequer for the Annapurna Yojana?",
-        "a": "\u20b972,000 crore",
-        "options": [
-            "\u20b971,000 crore",
-            "\u20b973,000 crore",
-            "\u20b972,000 crore",
-            "\u20b970,000 crore",
-            "\u20b974,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the interim budget for the 2026-27 financial year of the West Bengal government?",
-        "a": "\u20b94.06 lakh crore",
-        "options": [
-            "\u20b94.05 lakh crore",
-            "\u20b94.07 lakh crore",
-            "\u20b94.06 lakh crore",
-            "\u20b94.04 lakh crore",
-            "\u20b94.08 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Annapurna Bhandar scheme would cost what percentage of West Bengal's State Budget if given to 2 crore beneficiaries?",
-        "a": "18%",
-        "options": [
-            "17%",
-            "19%",
-            "18%",
-            "16%",
-            "20%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated cost of Dearness Allowance (DA) arrears that the Supreme Court directed the West Bengal government to pay?",
-        "a": "\u20b940,000 crore",
-        "options": [
-            "\u20b939,000 crore",
-            "\u20b941,000 crore",
-            "\u20b940,000 crore",
-            "\u20b938,000 crore",
-            "\u20b942,000 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many West Bengal government employees are affected by the Supreme Court's direction on DA arrears?",
-        "a": "Nearly 20 lakh",
-        "options": [
-            "19 lakh",
-            "21 lakh",
-            "20 lakh",
-            "18 lakh",
-            "22 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many Indian cities was NEET-UG conducted in on May 3?",
-        "a": "551",
-        "options": [
-            "550",
-            "552",
-            "551",
-            "549",
-            "553"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many overseas centres were there for the NEET-UG examination?",
+        "q": "According to the latest Department of Defense casualty report for Operation Epic Fury, how many Americans have died so far?",
         "a": "14",
         "options": [
-            "13",
             "15",
+            "13",
             "14",
-            "12",
-            "16"
+            "16",
+            "12"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was the first chairman of the Competition Commission of India (CCI)?",
-        "a": "Dhanendra Kumar",
+        "q": "How many Americans have been injured so far in Operation Epic Fury, as per the latest Department of Defense casualty report?",
+        "a": "409",
         "options": [
-            "Dharmendra Kumar",
-            "Dhruvendra Kumar",
-            "Dhanendra Kumar",
-            "Digendra Kumar",
-            "Devendra Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current NTA Director General mentioned in the context of the NEET-UG retest meeting?",
-        "a": "Abhishek Singh",
-        "options": [
-            "Amitabh Singh",
-            "Ankit Singh",
-            "Abhishek Singh",
-            "Alok Singh",
-            "Ashok Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Defence Minister who attended the high-level meeting regarding NEET-UG paper transportation?",
-        "a": "Rajnath Singh",
-        "options": [
-            "Raman Singh",
-            "Ramesh Singh",
-            "Rajnath Singh",
-            "Rahul Singh",
-            "Ravi Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Education Minister who attended the high-level meeting regarding NEET-UG paper transportation?",
-        "a": "Dharmendra Pradhan",
-        "options": [
-            "Devendra Pradhan",
-            "Dinesh Pradhan",
-            "Dharmendra Pradhan",
-            "Darshan Pradhan",
-            "Dhiraj Pradhan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Minister for Communications who attended the high-level meeting regarding NEET-UG paper transportation?",
-        "a": "Jyotiraditya Scindia",
-        "options": [
-            "Jyoti Scindia",
-            "Jagat Scindia",
-            "Jitendra Scindia",
-            "Jyotiraditya Scindia",
-            "Jaidev Scindia"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the West Bengal Chief Minister mentioned in connection with the Annapurna Yojana?",
-        "a": "Suvendu Adhikari",
-        "options": [
-            "Subhendu Adhikari",
-            "Subhash Adhikari",
-            "Suvendu Adhikari",
-            "Shankar Adhikari",
-            "Suman Adhikari"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who authored the Supreme Court judgment that set aside CCI's order on Amazon-Future Coupons?",
-        "a": "Justice Nath",
-        "options": [
-            "Justice Mehta",
-            "Justice Sharma",
-            "Justice Nath",
-            "Justice Rao",
-            "Justice Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Treasury Secretary mentioned in the context of US inflation?",
-        "a": "Scott Bessent",
-        "options": [
-            "Steven Bessent",
-            "Samuel Bessent",
-            "Scott Bessent",
-            "Sean Bessent",
-            "Simon Bessent"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the former Fed Chair who used the term 'transitory' to describe the 2021-22 inflation spike?",
-        "a": "Jerome Powell",
-        "options": [
-            "Janet Yellen",
-            "Ben Bernanke",
-            "Jerome Powell",
-            "Alan Greenspan",
-            "Paul Volcker"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the new Fed Chair mentioned in the US inflation report?",
-        "a": "Kevin Warsh",
-        "options": [
-            "Kenneth Warsh",
-            "Kyle Warsh",
-            "Kevin Warsh",
-            "Karl Warsh",
-            "Keith Warsh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the representative of Paschim Banga Khet Majoor Samity (PBKMS) mentioned in the context of Annapurna Yojana?",
-        "a": "Anuradha Talwar",
-        "options": [
-            "Anamika Talwar",
-            "Anita Talwar",
-            "Anuradha Talwar",
-            "Anjali Talwar",
-            "Ashwini Talwar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who filed the plea that led to the Supreme Court's order on trauma care and the good samaritan system?",
-        "a": "Savelife Foundation",
-        "options": [
-            "Safetylife Foundation",
-            "Seva Foundation",
-            "Savelife Foundation",
-            "Securelife Foundation",
-            "Supportlife Foundation"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Dhanendra Kumar's residence, where the AC blast occurred, was located in which area of Delhi?",
-        "a": "Hauz Khas",
-        "options": [
-            "Vasant Kunj",
-            "Hauz Khas",
-            "Defence Colony",
-            "Saket",
-            "Greater Kailash"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Dhanendra Kumar's daughter, Ruchira Kumar, works with the World Bank in which country?",
-        "a": "United States",
-        "options": [
-            "United Kingdom",
-            "Germany",
-            "United States",
-            "Canada",
-            "Australia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Dhanendra Kumar's son, Gourav, primarily lives in which city?",
-        "a": "London",
-        "options": [
-            "New York",
-            "Paris",
-            "London",
-            "Dubai",
-            "Singapore"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which state was Dhanendra Kumar a 1968-batch IAS officer?",
-        "a": "Haryana",
-        "options": [
-            "Punjab",
-            "Rajasthan",
-            "Haryana",
-            "Uttar Pradesh",
-            "Himachal Pradesh"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "To which hospital was Dhanendra Kumar admitted after the incident?",
-        "a": "AIIMS Trauma Centre",
-        "options": [
-            "Safdarjung Hospital",
-            "Max Hospital",
-            "AIIMS Trauma Centre",
-            "Fortis Hospital",
-            "Apollo Hospital"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The CBI has arrested accused in the NEET-UG case from multiple states, including Delhi, Jaipur, Gurugram, Nasik, Pune, Latur and which other city?",
-        "a": "Ahilyanagar",
-        "options": [
-            "Ahmedabad",
-            "Agra",
-            "Allahabad",
-            "Ambala",
-            "Ahilyanagar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Supreme Court directed the West Bengal government to pay DA arrears from 2008 to 2019 to employees in which state?",
-        "a": "West Bengal",
-        "options": [
-            "Odisha",
-            "Bihar",
-            "Jharkhand",
-            "West Bengal",
-            "Assam"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "On which date did Dhanendra Kumar pass away?",
-        "a": "May 28",
-        "options": [
-            "May 27",
-            "May 29",
-            "May 28",
-            "May 30",
-            "June 6"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Dhanendra Kumar's 80th birthday was scheduled for which date?",
-        "a": "June 6",
-        "options": [
-            "June 5",
-            "June 7",
-            "June 6",
-            "May 30",
-            "May 28"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date was the original NEET-UG examination conducted, which was later cancelled?",
-        "a": "May 3",
-        "options": [
-            "May 2",
-            "May 4",
-            "May 3",
-            "May 5",
-            "May 7"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did the NTA cancel the NEET-UG exam amid allegations of paper leak?",
-        "a": "May 12",
-        "options": [
-            "May 11",
-            "May 13",
-            "May 12",
-            "May 10",
-            "May 14"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The NEET-UG re-examination has been scheduled for which date?",
-        "a": "June 21",
-        "options": [
-            "June 20",
-            "June 22",
-            "June 21",
-            "June 15",
-            "June 30"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Inflation jumped to 3.8% in April in the US, reaching the highest level in how many years?",
-        "a": "Three years",
-        "options": [
-            "Two years",
-            "Four years",
-            "Three years",
-            "Five years",
-            "One year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The highest core inflation figure (3.3% in April) in the US was observed since which month and year?",
-        "a": "October 2023",
-        "options": [
-            "September 2023",
-            "November 2023",
-            "October 2023",
-            "December 2023",
-            "August 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court passed its order on trauma care and good samaritan system on which date?",
-        "a": "May 26, 2026",
-        "options": [
-            "May 25, 2026",
-            "May 27, 2026",
-            "May 26, 2026",
-            "May 24, 2026",
-            "May 28, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court directed all States and UTs to operationalise the helpline number '112' within how many months?",
-        "a": "Three months",
-        "options": [
-            "Two months",
-            "Four months",
-            "Three months",
-            "One month",
-            "Six months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court directed the Union Ministry of Health and Family Welfare to issue guidelines for a trauma registry data format within how many weeks?",
-        "a": "Eight weeks",
-        "options": [
-            "Seven weeks",
-            "Nine weeks",
-            "Eight weeks",
-            "Six weeks",
-            "Ten weeks"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court directed States/UTs to establish state trauma registries within how many months?",
-        "a": "Four months",
-        "options": [
-            "Three months",
-            "Five months",
-            "Four months",
-            "Two months",
-            "Six months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court issued the judgment setting aside CCI's order on Amazon-Future Coupons on which date?",
-        "a": "May 27",
-        "options": [
-            "May 26",
-            "May 28",
-            "May 27",
-            "May 25",
-            "May 29"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court directed the West Bengal government to pay Dearness Allowance (DA) arrears from which period?",
-        "a": "2008 to 2019",
-        "options": [
-            "2007 to 2018",
-            "2009 to 2020",
-            "2008 to 2019",
-            "2010 to 2019",
-            "2005 to 2015"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary reason for the cancellation of the NEET-UG May 3 exam?",
-        "a": "Paper leak",
-        "options": [
-            "Technical glitch",
-            "Administrative error",
-            "Low attendance",
-            "Paper leak",
-            "Venue issues"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of involving the Indian Air Force (IAF) in the transportation of NEET-UG papers for the retest?",
-        "a": "To ensure foolproof conduct and minimise risk of leaks",
-        "options": [
-            "To save costs",
-            "To speed up delivery",
-            "To ensure foolproof conduct",
-            "To facilitate international transport",
-            "To utilize spare capacity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court stated that the right to trauma care of citizens is an integral part of which fundamental right?",
-        "a": "Right to life",
-        "options": [
-            "Right to equality",
-            "Right to freedom",
-            "Right to education",
-            "Right to constitutional remedies",
-            "Right to life"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the name of the cashless treatment scheme for road accident victims that states and UTs were directed to operationalize?",
-        "a": "PM RAHAT",
-        "options": [
-            "PM SURAKSHA",
-            "PM SANJEEVANI",
-            "PM RAHAT",
-            "PM KALYAN",
-            "PM UJWAL"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Dhanendra Kumar was a 1968-batch IAS officer of which cadre?",
-        "a": "Haryana",
-        "options": [
-            "Punjab",
-            "Rajasthan",
-            "Uttar Pradesh",
-            "Himachal Pradesh",
-            "Haryana"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the age of Dhanendra Kumar at the time of his death?",
-        "a": "80",
-        "options": [
-            "78",
-            "79",
-            "80",
-            "81",
-            "77"
+            "410",
+            "408",
+            "409",
+            "411",
+            "407"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many pages long is the application form for West Bengal's Annapurna Yojana?",
-        "a": "11 pages",
+        "q": "What was the total penalty amount imposed by SEBI on Suzlon Energy Ltd. and its top brass for inflating the company\u2019s net worth?",
+        "a": "\u20b928.6 crore",
         "options": [
-            "9 pages",
-            "10 pages",
-            "11 pages",
-            "12 pages",
-            "13 pages"
+            "\u20b928.7 crore",
+            "\u20b928.5 crore",
+            "\u20b928.6 crore",
+            "\u20b928.8 crore",
+            "\u20b928.4 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The verification of applicants for Annapurna Yojana is planned for a period of how many days?",
-        "a": "90 days",
+        "q": "What was the reported value of Suzlon Energy Ltd.'s OMS (operations and maintenance services) business?",
+        "a": "\u20b977.08 crore",
         "options": [
+            "\u20b977.09 crore",
+            "\u20b977.07 crore",
+            "\u20b977.08 crore",
+            "\u20b977.10 crore",
+            "\u20b977.06 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For what lump-sum consideration did Suzlon Energy Ltd. sell its OMS business to a wholly-owned subsidiary in March 2014?",
+        "a": "\u20b92,000 crore",
+        "options": [
+            "\u20b92,010 crore",
+            "\u20b91,990 crore",
+            "\u20b92,000 crore",
+            "\u20b92,005 crore",
+            "\u20b91,995 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the gain on the sale of Suzlon Energy Ltd.'s OMS division shown under exceptional items in FY2013-14?",
+        "a": "\u20b91,922.92 crore",
+        "options": [
+            "\u20b91,923.00 crore",
+            "\u20b91,922.80 crore",
+            "\u20b91,922.92 crore",
+            "\u20b91,922.95 crore",
+            "\u20b91,922.85 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Had the slump sale not been done, what would Suzlon Energy Ltd.'s net worth have been in FY 14-15, as stated by Sandip Pradhan?",
+        "a": "negative \u20b93,555.92 crore",
+        "options": [
+            "negative \u20b93,556.00 crore",
+            "negative \u20b93,555.80 crore",
+            "negative \u20b93,555.92 crore",
+            "negative \u20b93,555.95 crore",
+            "negative \u20b93,555.85 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What amount of equity share capital did Suzlon Energy Ltd. raise from Mr. Dilip Shanghvi Family & Associates using misreported accounts?",
+        "a": "\u20b91,800 crore",
+        "options": [
+            "\u20b91,810 crore",
+            "\u20b91,790 crore",
+            "\u20b91,800 crore",
+            "\u20b91,805 crore",
+            "\u20b91,795 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For what amount did Suzlon Energy Ltd. avail loan restructuring from banks using misreported accounts?",
+        "a": "\u20b9393 crore",
+        "options": [
+            "\u20b9394 crore",
+            "\u20b9392 crore",
+            "\u20b9393 crore",
+            "\u20b9395 crore",
+            "\u20b9391 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "India's forex reserves dropped by what amount during the week ended May 22, according to the RBI?",
+        "a": "$7.511 billion",
+        "options": [
+            "$7.512 billion",
+            "$7.510 billion",
+            "$7.511 billion",
+            "$7.513 billion",
+            "$7.509 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What were India's total forex reserves during the week ended May 22?",
+        "a": "$681.384 billion",
+        "options": [
+            "$681.385 billion",
+            "$681.383 billion",
+            "$681.384 billion",
+            "$681.386 billion",
+            "$681.382 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the all-time high of India's forex reserves, reached during the week ended February 27 this year?",
+        "a": "$728.494 billion",
+        "options": [
+            "$728.495 billion",
+            "$728.493 billion",
+            "$728.494 billion",
+            "$728.496 billion",
+            "$728.492 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For the week ended May 22, by what amount did foreign currency assets, a major component of the reserves, decrease?",
+        "a": "$2.872 billion",
+        "options": [
+            "$2.873 billion",
+            "$2.871 billion",
+            "$2.872 billion",
+            "$2.874 billion",
+            "$2.870 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By what amount did the value of India's gold reserves decline during the week ended May 22?",
+        "a": "$4.53 billion",
+        "options": [
+            "$4.54 billion",
+            "$4.52 billion",
+            "$4.53 billion",
+            "$4.55 billion",
+            "$4.51 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "By how much were India's Special Drawing Rights (SDRs) down during the week ended May 22?",
+        "a": "$77 million",
+        "options": [
+            "$78 million",
+            "$76 million",
+            "$77 million",
+            "$79 million",
+            "$75 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In 2025-26, by what amount did the total dollars flowing out of India exceed inflows?",
+        "a": "$30.8 billion",
+        "options": [
+            "$30.9 billion",
+            "$30.7 billion",
+            "$30.8 billion",
+            "$31.0 billion",
+            "$30.6 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was India\u2019s Current Account Deficit (CAD) in 2025-26, marking a three-year high?",
+        "a": "$30.2 billion",
+        "options": [
+            "$30.3 billion",
+            "$30.1 billion",
+            "$30.2 billion",
+            "$30.4 billion",
+            "$30.0 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "India\u2019s overall merchandise trade deficit in 2025-26 stood at what amount?",
+        "a": "$251.6 billion",
+        "options": [
+            "$251.7 billion",
+            "$251.5 billion",
+            "$251.6 billion",
+            "$251.8 billion",
+            "$251.4 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The surplus on India\u2019s \u2018invisibles\u2019 trade fell to what amount in 2025-26?",
+        "a": "$221.4 billion",
+        "options": [
+            "$221.5 billion",
+            "$221.3 billion",
+            "$221.4 billion",
+            "$221.6 billion",
+            "$221.2 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the capital account surplus in 2023-24, contributing to India's BoP surplus?",
+        "a": "$89.4 billion",
+        "options": [
+            "$89.5 billion",
+            "$89.3 billion",
+            "$89.4 billion",
+            "$89.6 billion",
+            "$89.2 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The capital account surplus in 2025-26 shrank to what amount?",
+        "a": "$72 million",
+        "options": [
+            "$73 million",
+            "$71 million",
+            "$72 million",
+            "$74 million",
+            "$70 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The capital account surplus in 2025-26 was down by what percentage over the previous year?",
+        "a": "More than 99.5%",
+        "options": [
+            "More than 99.6%",
+            "More than 99.4%",
+            "More than 99.5%",
+            "More than 99.7%",
+            "More than 99.3%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to RBI data, foreign portfolio investors (FPIs) pulled out how much more than they put in during 2025-26?",
+        "a": "$4.3 billion",
+        "options": [
+            "$4.4 billion",
+            "$4.2 billion",
+            "$4.3 billion",
+            "$4.5 billion",
+            "$4.1 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the new import duty on gold and silver, hiked by the government earlier this month?",
+        "a": "15%",
+        "options": [
+            "16%",
+            "14%",
+            "15%",
+            "17%",
+            "13%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Oil marketing companies have hiked the prices of petrol and diesel by an average of how much per litre?",
+        "a": "Rs 7.5",
+        "options": [
+            "Rs 7.6",
+            "Rs 7.4",
+            "Rs 7.5",
+            "Rs 7.7",
+            "Rs 7.3"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage increase in the detection of counterfeit currency notes in the banking system during 2025-26?",
+        "a": "5.7%",
+        "options": [
+            "5.8%",
+            "5.6%",
+            "5.7%",
+            "5.9%",
+            "5.5%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many total counterfeit notes were detected in 2025-26, according to the RBI annual report?",
+        "a": "2,29,746 pieces",
+        "options": [
+            "2,29,747 pieces",
+            "2,29,745 pieces",
+            "2,29,746 pieces",
+            "2,29,748 pieces",
+            "2,29,744 pieces"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many fake \u20b9500 notes were detected in 2025-26, making it the most detected denomination?",
+        "a": "1,41,907 pieces",
+        "options": [
+            "1,41,908 pieces",
+            "1,41,906 pieces",
+            "1,41,907 pieces",
+            "1,41,909 pieces",
+            "1,41,905 pieces"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the total counterfeit notes detected were found at other banks, excluding the RBI?",
+        "a": "97.6%",
+        "options": [
+            "97.7%",
+            "97.5%",
+            "97.6%",
+            "97.8%",
+            "97.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Disposal of soiled banknotes declined sharply by what percentage in 2025-26?",
+        "a": "28.6%",
+        "options": [
+            "28.7%",
+            "28.5%",
+            "28.6%",
+            "28.8%",
+            "28.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many fraud cases were reported by banks and financial institutions, taken together, in 2025-26?",
+        "a": "10,114",
+        "options": [
+            "10,115",
+            "10,113",
+            "10,114",
+            "10,116",
+            "10,112"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the amount involved in fraud cases reported by banks and financial institutions in 2025-26?",
+        "a": "\u20b948,021 crore",
+        "options": [
+            "\u20b948,022 crore",
+            "\u20b948,020 crore",
+            "\u20b948,021 crore",
+            "\u20b948,023 crore",
+            "\u20b948,019 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The amount involved in frauds at Public Sector Banks (PSBs) sharply rose to what figure in 2025-26?",
+        "a": "\u20b935,709 crore",
+        "options": [
+            "\u20b935,710 crore",
+            "\u20b935,708 crore",
+            "\u20b935,709 crore",
+            "\u20b935,711 crore",
+            "\u20b935,707 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "In the IMF\u2019s baseline scenario, the global economy is projected to grow by what percentage in 2026?",
+        "a": "3.1%",
+        "options": [
+            "3.2%",
+            "3.0%",
+            "3.1%",
+            "3.3%",
+            "2.9%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Real GDP growth for India in 2026-27 is projected at what percentage by the RBI?",
+        "a": "6.9%",
+        "options": [
+            "7.0%",
+            "6.8%",
+            "6.9%",
+            "7.1%",
+            "6.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the projected CPI inflation for India in 2026-27, according to the RBI annual report?",
+        "a": "4.6%",
+        "options": [
+            "4.7%",
+            "4.5%",
+            "4.6%",
+            "4.8%",
+            "4.4%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Pentagon report estimated China is likely to have loaded how many intercontinental ballistic missiles (ICBMs) across its three main silo fields?",
+        "a": "100",
+        "options": [
+            "101",
+            "99",
+            "100",
+            "102",
+            "98"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Within how many seconds can China's strengthened early-warning system detect an incoming ICBM, according to the Pentagon?",
+        "a": "90 seconds",
+        "options": [
+            "91 seconds",
+            "89 seconds",
+            "90 seconds",
+            "92 seconds",
+            "88 seconds"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Within what timeframe can China's early-warning system alert a command center after detecting an incoming ICBM?",
+        "a": "three to four minutes",
+        "options": [
+            "two to three minutes",
+            "four to five minutes",
+            "three to four minutes",
+            "five to six minutes",
+            "one to two minutes"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The RBI data for 2025-26 includes fraud classification in 314 cases amounting to what figure, pertaining to previous financial years?",
+        "a": "\u20b930,199 crore",
+        "options": [
+            "\u20b930,200 crore",
+            "\u20b930,198 crore",
+            "\u20b930,199 crore",
+            "\u20b930,201 crore",
+            "\u20b930,197 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the US President mentioned as considering a deal to extend a tenuous ceasefire?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George Bush",
+            "Bill Clinton"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which regulatory body penalized Suzlon Energy Ltd. and its top brass for inflating the company\u2019s net worth?",
+        "a": "SEBI",
+        "options": [
+            "RBI",
+            "IRDAI",
+            "PFRDA",
+            "SEBI",
+            "NABARD"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Prime Minister has made multiple public appeals to countrymen to conserve forex by cutting down on foreign travel, limiting fuel use, and refraining from gold buys?",
+        "a": "Narendra Modi",
+        "options": [
+            "Manmohan Singh",
+            "Atal Bihari Vajpayee",
+            "Narendra Modi",
+            "Indira Gandhi",
+            "Rajiv Gandhi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Whole Time Member of SEBI quoted in the order regarding Suzlon Energy Ltd.?",
+        "a": "Sandip Pradhan",
+        "options": [
+            "Vinod.R.Tanti",
+            "Girish.R.Tanti",
+            "Sandip Pradhan",
+            "Amit Agarwal",
+            "Kirti.J.Vagadia"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Director of the Federation of American Scientists' Nuclear Information Project, quoted on China's defensive network?",
+        "a": "Hans Kristensen",
+        "options": [
+            "John Doe",
+            "Jane Smith",
+            "Hans Kristensen",
+            "Peter Jones",
+            "David Lee"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which non-governmental organisation (NGO) filed the petition highlighting the lack of laws and protective mechanisms for young girls trafficked into prostitution?",
+        "a": "Prajwala",
+        "options": [
+            "UNICEF",
+            "Amnesty International",
+            "Prajwala",
+            "Bachpan Bachao Andolan",
+            "Childline India"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Justice led the Supreme Court Bench that provided relief to Reliance Industries Limited (RIL)?",
+        "a": "J.B. Pardiwala",
+        "options": [
+            "R. Mahadevan",
+            "D.Y. Chandrachud",
+            "J.B. Pardiwala",
+            "N.V. Ramana",
+            "U.U. Lalit"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which of the following individuals was identified by SEBI as one of Suzlon's key top executives in violation of regulations?",
+        "a": "Vinod.R.Tanti",
+        "options": [
+            "Dilip Shanghvi",
+            "Sandip Pradhan",
+            "Vinod.R.Tanti",
+            "J.B. Pardiwala",
+            "Hans Kristensen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Kuwaiti air base was struck by an Iranian ballistic missile?",
+        "a": "Ali Al Salem air base",
+        "options": [
+            "Ahmed Al Jaber air base",
+            "Ali Al Salem air base",
+            "Abdullah Al Mubarak air base",
+            "Kuwait International Airport",
+            "Camp Arifjan"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which Chinese regions are the core of China's nuclear forces located, including silo fields?",
+        "a": "Xinjiang region and Gansu province",
+        "options": [
+            "Sichuan and Tibet",
+            "Guangdong and Fujian",
+            "Xinjiang region and Gansu province",
+            "Heilongjiang and Inner Mongolia",
+            "Yunnan and Guizhou"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Cyber Range initiative to enhance cyber resilience across supervised entities was operationalized through a platform deployed at which institution?",
+        "a": "Institute for Development and Research in Banking Technology (IDBRT)",
+        "options": [
+            "National Institute of Bank Management (NIBM)",
+            "Reserve Bank Staff College (RBSC)",
+            "Institute for Development and Research in Banking Technology (IDBRT)",
+            "Indian Institute of Banking & Finance (IIBF)",
+            "Bankers Institute of Rural Development (BIRD)"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The new octagon-shaped military installations in China are centered southwest of which nuclear silo fields?",
+        "a": "Hami nuclear silo fields",
+        "options": [
+            "Jiuquan nuclear silo fields",
+            "Yumen nuclear silo fields",
+            "Hami nuclear silo fields",
+            "Lop Nur nuclear test site",
+            "Dengkou nuclear silo fields"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which White House location hosted a roughly two-hour meeting regarding the ceasefire deal on Friday?",
+        "a": "Situation Room",
+        "options": [
+            "Oval Office",
+            "Cabinet Room",
+            "Situation Room",
+            "East Room",
+            "Diplomatic Reception Room"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The fragile ceasefire mentioned in the news, which the US is considering extending, has been in place since which month?",
+        "a": "April",
+        "options": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Within how many days did SEBI order Suzlon Energy Ltd. and its executives to pay the penalty?",
+        "a": "45 days",
+        "options": [
+            "30 days",
             "60 days",
-            "75 days",
+            "45 days",
             "90 days",
-            "100 days",
-            "120 days"
+            "15 days"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the US Federal Reserve's target inflation rate?",
-        "a": "2%",
+        "q": "On what date was the RBI\u2019s annual report for 2025-26 released?",
+        "a": "Friday (May 29, 2026)",
         "options": [
-            "1.5%",
-            "2.5%",
-            "2%",
-            "3%",
-            "1%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The crime team inspected the spot of the fire incident at Dhanendra Kumar's residence following a call received at what time on Wednesday, May 27?",
-        "a": "11.24 pm",
-        "options": [
-            "11.00 pm",
-            "11.30 pm",
-            "11.24 pm",
-            "11.15 pm",
-            "11.45 pm"
+            "Monday (May 25, 2026)",
+            "Tuesday (May 26, 2026)",
+            "Wednesday (May 27, 2026)",
+            "Thursday (May 28, 2026)",
+            "Friday (May 29, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "The fire at Dhanendra Kumar's residence was brought under control around what time?",
-        "a": "12.20 am",
+        "q": "In what year was the petition highlighting the lack of laws and protective mechanisms for young girls trafficked into prostitution filed by NGO Prajwala?",
+        "a": "2004",
         "options": [
-            "12.00 am",
-            "12.15 am",
-            "12.20 am",
-            "12.30 am",
-            "12.45 am"
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006"
         ],
         "cat": "When"
     },
     {
-        "q": "Under which section of the Motor Vehicles Act is Good Samaritan protection provided?",
-        "a": "Section 134A",
+        "q": "What is the primary purpose of Prime Minister Narendra Modi's public appeals to countrymen regarding forex?",
+        "a": "To conserve forex",
         "options": [
-            "Section 132A",
-            "Section 133A",
-            "Section 134A",
-            "Section 135A",
-            "Section 136A"
+            "To increase exports",
+            "To attract foreign investments",
+            "To conserve forex",
+            "To promote domestic tourism",
+            "To reduce inflation"
         ],
-        "cat": "Amount"
+        "cat": "Why"
+    },
+    {
+        "q": "What is the stated purpose of the Reserve Bank's 'Cyber Range' initiative?",
+        "a": "To enhance cyber resilience across the supervised entities",
+        "options": [
+            "To develop new digital payment systems",
+            "To monitor global financial markets",
+            "To enhance cyber resilience across the supervised entities",
+            "To train staff in forensic accounting",
+            "To regulate cryptocurrency transactions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is a cornerstone of China's nuclear doctrine, as mentioned in the news?",
+        "a": "Its 'no first use' policy",
+        "options": [
+            "Its 'pre-emptive strike' policy",
+            "Its 'massive retaliation' policy",
+            "Its 'no first use' policy",
+            "Its 'mutually assured destruction' policy",
+            "Its 'first strike capability' policy"
+        ],
+        "cat": "Why"
     }
 ]
