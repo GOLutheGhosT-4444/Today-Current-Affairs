@@ -1,534 +1,162 @@
 [
     {
-        "q": "What is the approximate cost of one MQ-9 Reaper strike drone as mentioned in the news?",
+        "q": "How many vessels has the US military stopped attempting to breach the blockade since it came into force?",
+        "a": "6",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many separate warnings did the Lian Star receive before the missile strike was authorised?",
+        "a": "More than 20",
+        "options": [
+            "More than 15",
+            "More than 20",
+            "More than 25",
+            "More than 10",
+            "More than 30"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many vessels, apart from those stopped, have been redirected away from Iranian ports by the US military?",
+        "a": "116",
+        "options": [
+            "110",
+            "112",
+            "116",
+            "120",
+            "122"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The proposed deal to extend the ceasefire in the Middle East is for how many days?",
+        "a": "60 days",
+        "options": [
+            "30 days",
+            "45 days",
+            "60 days",
+            "90 days",
+            "120 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Iran has sought to assert financial control over the Strait of Hormuz by levying transit tolls of as much as how much per vessel?",
+        "a": "$2 million",
+        "options": [
+            "$1 million",
+            "$1.5 million",
+            "$2 million",
+            "$2.5 million",
+            "$3 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how many people, including military personnel and contractors, were injured in the missile attack on a military base in Kuwait?",
+        "a": "Around five",
+        "options": [
+            "Around three",
+            "Around four",
+            "Around five",
+            "Around six",
+            "Around seven"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many MQ-9 Reaper drones were damaged in the missile attack on a military base in Kuwait?",
+        "a": "Two",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the approximate value of one MQ-9 Reaper drone mentioned in the context of the Kuwait attack?",
         "a": "$30 million",
         "options": [
-            "$31 million",
-            "$29 million",
+            "$20 million",
+            "$25 million",
             "$30 million",
-            "$30.5 million",
-            "$29.5 million"
+            "$35 million",
+            "$40 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Americans were reported to have suffered minor injuries in the Iranian missile strike on the Ali Al Salem air base?",
-        "a": "About five",
+        "q": "What was the value of the BrahMos missile purchase agreement secured by the Philippines in 2022?",
+        "a": "USD 375 million",
         "options": [
-            "About six",
-            "About four",
-            "About five",
-            "About seven",
-            "About three"
+            "USD 350 million",
+            "USD 365 million",
+            "USD 375 million",
+            "USD 380 million",
+            "USD 390 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate warhead capacity of Iran's Fateh-110 short-range ballistic missile, according to the Center for Strategic and International Studies?",
-        "a": "500-kilogram",
+        "q": "How many sovereign states are encompassed by the Association of Southeast Asian Nations (ASEAN)?",
+        "a": "11",
         "options": [
-            "510-kilogram",
-            "490-kilogram",
-            "500-kilogram",
-            "505-kilogram",
-            "495-kilogram"
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many ballistic missiles has Tehran reportedly fired at targets around the region since the war began on February 28?",
-        "a": "More than 1,850",
+        "q": "What percentage of India's aggregate defense manufacturing is commanded by state-run enterprises?",
+        "a": "Roughly 72 percent",
         "options": [
-            "More than 1,860",
-            "More than 1,840",
-            "More than 1,850",
-            "More than 1,855",
-            "More than 1,845"
+            "Roughly 60 percent",
+            "Roughly 65 percent",
+            "Roughly 72 percent",
+            "Roughly 75 percent",
+            "Roughly 80 percent"
         ],
         "cat": "Amount"
     },
     {
-        "q": "According to the latest Department of Defense casualty report for Operation Epic Fury, how many Americans have died so far?",
-        "a": "14",
+        "q": "How many Indian state-owned defense operations place among the top 100 global arms manufacturers?",
+        "a": "Three",
         "options": [
-            "15",
-            "13",
-            "14",
-            "16",
-            "12"
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Americans have been injured so far in Operation Epic Fury, as per the latest Department of Defense casualty report?",
-        "a": "409",
+        "q": "Which US military command announced on Saturday that it disabled a merchant vessel attempting to run its blockade of Iranian ports?",
+        "a": "Central Command",
         "options": [
-            "410",
-            "408",
-            "409",
-            "411",
-            "407"
+            "Southern Command",
+            "Western Command",
+            "Central Command",
+            "Eastern Command",
+            "Northern Command"
         ],
-        "cat": "Amount"
+        "cat": "Who"
     },
     {
-        "q": "What was the total penalty amount imposed by SEBI on Suzlon Energy Ltd. and its top brass for inflating the company\u2019s net worth?",
-        "a": "\u20b928.6 crore",
-        "options": [
-            "\u20b928.7 crore",
-            "\u20b928.5 crore",
-            "\u20b928.6 crore",
-            "\u20b928.8 crore",
-            "\u20b928.4 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the reported value of Suzlon Energy Ltd.'s OMS (operations and maintenance services) business?",
-        "a": "\u20b977.08 crore",
-        "options": [
-            "\u20b977.09 crore",
-            "\u20b977.07 crore",
-            "\u20b977.08 crore",
-            "\u20b977.10 crore",
-            "\u20b977.06 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For what lump-sum consideration did Suzlon Energy Ltd. sell its OMS business to a wholly-owned subsidiary in March 2014?",
-        "a": "\u20b92,000 crore",
-        "options": [
-            "\u20b92,010 crore",
-            "\u20b91,990 crore",
-            "\u20b92,000 crore",
-            "\u20b92,005 crore",
-            "\u20b91,995 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the gain on the sale of Suzlon Energy Ltd.'s OMS division shown under exceptional items in FY2013-14?",
-        "a": "\u20b91,922.92 crore",
-        "options": [
-            "\u20b91,923.00 crore",
-            "\u20b91,922.80 crore",
-            "\u20b91,922.92 crore",
-            "\u20b91,922.95 crore",
-            "\u20b91,922.85 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Had the slump sale not been done, what would Suzlon Energy Ltd.'s net worth have been in FY 14-15, as stated by Sandip Pradhan?",
-        "a": "negative \u20b93,555.92 crore",
-        "options": [
-            "negative \u20b93,556.00 crore",
-            "negative \u20b93,555.80 crore",
-            "negative \u20b93,555.92 crore",
-            "negative \u20b93,555.95 crore",
-            "negative \u20b93,555.85 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What amount of equity share capital did Suzlon Energy Ltd. raise from Mr. Dilip Shanghvi Family & Associates using misreported accounts?",
-        "a": "\u20b91,800 crore",
-        "options": [
-            "\u20b91,810 crore",
-            "\u20b91,790 crore",
-            "\u20b91,800 crore",
-            "\u20b91,805 crore",
-            "\u20b91,795 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For what amount did Suzlon Energy Ltd. avail loan restructuring from banks using misreported accounts?",
-        "a": "\u20b9393 crore",
-        "options": [
-            "\u20b9394 crore",
-            "\u20b9392 crore",
-            "\u20b9393 crore",
-            "\u20b9395 crore",
-            "\u20b9391 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India's forex reserves dropped by what amount during the week ended May 22, according to the RBI?",
-        "a": "$7.511 billion",
-        "options": [
-            "$7.512 billion",
-            "$7.510 billion",
-            "$7.511 billion",
-            "$7.513 billion",
-            "$7.509 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What were India's total forex reserves during the week ended May 22?",
-        "a": "$681.384 billion",
-        "options": [
-            "$681.385 billion",
-            "$681.383 billion",
-            "$681.384 billion",
-            "$681.386 billion",
-            "$681.382 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the all-time high of India's forex reserves, reached during the week ended February 27 this year?",
-        "a": "$728.494 billion",
-        "options": [
-            "$728.495 billion",
-            "$728.493 billion",
-            "$728.494 billion",
-            "$728.496 billion",
-            "$728.492 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "For the week ended May 22, by what amount did foreign currency assets, a major component of the reserves, decrease?",
-        "a": "$2.872 billion",
-        "options": [
-            "$2.873 billion",
-            "$2.871 billion",
-            "$2.872 billion",
-            "$2.874 billion",
-            "$2.870 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By what amount did the value of India's gold reserves decline during the week ended May 22?",
-        "a": "$4.53 billion",
-        "options": [
-            "$4.54 billion",
-            "$4.52 billion",
-            "$4.53 billion",
-            "$4.55 billion",
-            "$4.51 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "By how much were India's Special Drawing Rights (SDRs) down during the week ended May 22?",
-        "a": "$77 million",
-        "options": [
-            "$78 million",
-            "$76 million",
-            "$77 million",
-            "$79 million",
-            "$75 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In 2025-26, by what amount did the total dollars flowing out of India exceed inflows?",
-        "a": "$30.8 billion",
-        "options": [
-            "$30.9 billion",
-            "$30.7 billion",
-            "$30.8 billion",
-            "$31.0 billion",
-            "$30.6 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was India\u2019s Current Account Deficit (CAD) in 2025-26, marking a three-year high?",
-        "a": "$30.2 billion",
-        "options": [
-            "$30.3 billion",
-            "$30.1 billion",
-            "$30.2 billion",
-            "$30.4 billion",
-            "$30.0 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "India\u2019s overall merchandise trade deficit in 2025-26 stood at what amount?",
-        "a": "$251.6 billion",
-        "options": [
-            "$251.7 billion",
-            "$251.5 billion",
-            "$251.6 billion",
-            "$251.8 billion",
-            "$251.4 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The surplus on India\u2019s \u2018invisibles\u2019 trade fell to what amount in 2025-26?",
-        "a": "$221.4 billion",
-        "options": [
-            "$221.5 billion",
-            "$221.3 billion",
-            "$221.4 billion",
-            "$221.6 billion",
-            "$221.2 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the capital account surplus in 2023-24, contributing to India's BoP surplus?",
-        "a": "$89.4 billion",
-        "options": [
-            "$89.5 billion",
-            "$89.3 billion",
-            "$89.4 billion",
-            "$89.6 billion",
-            "$89.2 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The capital account surplus in 2025-26 shrank to what amount?",
-        "a": "$72 million",
-        "options": [
-            "$73 million",
-            "$71 million",
-            "$72 million",
-            "$74 million",
-            "$70 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The capital account surplus in 2025-26 was down by what percentage over the previous year?",
-        "a": "More than 99.5%",
-        "options": [
-            "More than 99.6%",
-            "More than 99.4%",
-            "More than 99.5%",
-            "More than 99.7%",
-            "More than 99.3%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "According to RBI data, foreign portfolio investors (FPIs) pulled out how much more than they put in during 2025-26?",
-        "a": "$4.3 billion",
-        "options": [
-            "$4.4 billion",
-            "$4.2 billion",
-            "$4.3 billion",
-            "$4.5 billion",
-            "$4.1 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the new import duty on gold and silver, hiked by the government earlier this month?",
-        "a": "15%",
-        "options": [
-            "16%",
-            "14%",
-            "15%",
-            "17%",
-            "13%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Oil marketing companies have hiked the prices of petrol and diesel by an average of how much per litre?",
-        "a": "Rs 7.5",
-        "options": [
-            "Rs 7.6",
-            "Rs 7.4",
-            "Rs 7.5",
-            "Rs 7.7",
-            "Rs 7.3"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage increase in the detection of counterfeit currency notes in the banking system during 2025-26?",
-        "a": "5.7%",
-        "options": [
-            "5.8%",
-            "5.6%",
-            "5.7%",
-            "5.9%",
-            "5.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many total counterfeit notes were detected in 2025-26, according to the RBI annual report?",
-        "a": "2,29,746 pieces",
-        "options": [
-            "2,29,747 pieces",
-            "2,29,745 pieces",
-            "2,29,746 pieces",
-            "2,29,748 pieces",
-            "2,29,744 pieces"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many fake \u20b9500 notes were detected in 2025-26, making it the most detected denomination?",
-        "a": "1,41,907 pieces",
-        "options": [
-            "1,41,908 pieces",
-            "1,41,906 pieces",
-            "1,41,907 pieces",
-            "1,41,909 pieces",
-            "1,41,905 pieces"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the total counterfeit notes detected were found at other banks, excluding the RBI?",
-        "a": "97.6%",
-        "options": [
-            "97.7%",
-            "97.5%",
-            "97.6%",
-            "97.8%",
-            "97.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Disposal of soiled banknotes declined sharply by what percentage in 2025-26?",
-        "a": "28.6%",
-        "options": [
-            "28.7%",
-            "28.5%",
-            "28.6%",
-            "28.8%",
-            "28.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many fraud cases were reported by banks and financial institutions, taken together, in 2025-26?",
-        "a": "10,114",
-        "options": [
-            "10,115",
-            "10,113",
-            "10,114",
-            "10,116",
-            "10,112"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the amount involved in fraud cases reported by banks and financial institutions in 2025-26?",
-        "a": "\u20b948,021 crore",
-        "options": [
-            "\u20b948,022 crore",
-            "\u20b948,020 crore",
-            "\u20b948,021 crore",
-            "\u20b948,023 crore",
-            "\u20b948,019 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The amount involved in frauds at Public Sector Banks (PSBs) sharply rose to what figure in 2025-26?",
-        "a": "\u20b935,709 crore",
-        "options": [
-            "\u20b935,710 crore",
-            "\u20b935,708 crore",
-            "\u20b935,709 crore",
-            "\u20b935,711 crore",
-            "\u20b935,707 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "In the IMF\u2019s baseline scenario, the global economy is projected to grow by what percentage in 2026?",
-        "a": "3.1%",
-        "options": [
-            "3.2%",
-            "3.0%",
-            "3.1%",
-            "3.3%",
-            "2.9%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Real GDP growth for India in 2026-27 is projected at what percentage by the RBI?",
-        "a": "6.9%",
-        "options": [
-            "7.0%",
-            "6.8%",
-            "6.9%",
-            "7.1%",
-            "6.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the projected CPI inflation for India in 2026-27, according to the RBI annual report?",
-        "a": "4.6%",
-        "options": [
-            "4.7%",
-            "4.5%",
-            "4.6%",
-            "4.8%",
-            "4.4%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Pentagon report estimated China is likely to have loaded how many intercontinental ballistic missiles (ICBMs) across its three main silo fields?",
-        "a": "100",
-        "options": [
-            "101",
-            "99",
-            "100",
-            "102",
-            "98"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Within how many seconds can China's strengthened early-warning system detect an incoming ICBM, according to the Pentagon?",
-        "a": "90 seconds",
-        "options": [
-            "91 seconds",
-            "89 seconds",
-            "90 seconds",
-            "92 seconds",
-            "88 seconds"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Within what timeframe can China's early-warning system alert a command center after detecting an incoming ICBM?",
-        "a": "three to four minutes",
-        "options": [
-            "two to three minutes",
-            "four to five minutes",
-            "three to four minutes",
-            "five to six minutes",
-            "one to two minutes"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The RBI data for 2025-26 includes fraud classification in 314 cases amounting to what figure, pertaining to previous financial years?",
-        "a": "\u20b930,199 crore",
-        "options": [
-            "\u20b930,200 crore",
-            "\u20b930,198 crore",
-            "\u20b930,199 crore",
-            "\u20b930,201 crore",
-            "\u20b930,197 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the US President mentioned as considering a deal to extend a tenuous ceasefire?",
+        "q": "Which US President met with advisers on Friday to weigh whether to proceed with a deal to extend the ceasefire?",
         "a": "Donald Trump",
         "options": [
             "Joe Biden",
@@ -540,152 +168,332 @@
         "cat": "Who"
     },
     {
-        "q": "Which regulatory body penalized Suzlon Energy Ltd. and its top brass for inflating the company\u2019s net worth?",
-        "a": "SEBI",
+        "q": "Who is Qatar's deputy prime minister, who indicated that transit fees for the Strait of Hormuz could become a subject of negotiation?",
+        "a": "Sheikh Saoud bin Abdulrahman bin Hassan bin Ali Al Thani",
         "options": [
-            "RBI",
-            "IRDAI",
-            "PFRDA",
-            "SEBI",
-            "NABARD"
+            "Sheikh Ahmed bin Mohammed Al Thani",
+            "Sheikh Hamad bin Khalifa Al Thani",
+            "Sheikh Saoud bin Abdulrahman bin Hassan bin Ali Al Thani",
+            "Sheikh Abdullah bin Nasser Al Thani",
+            "Sheikh Khalid bin Khalifa Al Thani"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Prime Minister has made multiple public appeals to countrymen to conserve forex by cutting down on foreign travel, limiting fuel use, and refraining from gold buys?",
-        "a": "Narendra Modi",
+        "q": "Which US Secretary of the Treasury stopped short of confirming a tentative agreement on a ceasefire extension with Iran?",
+        "a": "Scott Bessent",
         "options": [
-            "Manmohan Singh",
-            "Atal Bihari Vajpayee",
-            "Narendra Modi",
-            "Indira Gandhi",
-            "Rajiv Gandhi"
+            "Janet Yellen",
+            "Steven Mnuchin",
+            "Scott Bessent",
+            "Timothy Geithner",
+            "Henry Paulson"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Whole Time Member of SEBI quoted in the order regarding Suzlon Energy Ltd.?",
-        "a": "Sandip Pradhan",
+        "q": "Who expressed skepticism about the negotiation process with Iran, stating that Iran had \"no trust in guarantees or words\"?",
+        "a": "Mohammad Bagher Ghalibaf",
         "options": [
-            "Vinod.R.Tanti",
-            "Girish.R.Tanti",
-            "Sandip Pradhan",
-            "Amit Agarwal",
-            "Kirti.J.Vagadia"
+            "Hassan Rouhani",
+            "Ebrahim Raisi",
+            "Mohammad Bagher Ghalibaf",
+            "Mahmoud Ahmadinejad",
+            "Ali Khamenei"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Director of the Federation of American Scientists' Nuclear Information Project, quoted on China's defensive network?",
-        "a": "Hans Kristensen",
+        "q": "Who is the Indian Defence Secretary who confirmed the agreement to supply BrahMos cruise missiles to Vietnam?",
+        "a": "Rajesh Kumar Singh",
         "options": [
-            "John Doe",
-            "Jane Smith",
-            "Hans Kristensen",
-            "Peter Jones",
-            "David Lee"
+            "Ajit Doval",
+            "Giridhar Aramane",
+            "Rajesh Kumar Singh",
+            "Sanjay Mitra",
+            "Subhash Chandra"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which non-governmental organisation (NGO) filed the petition highlighting the lack of laws and protective mechanisms for young girls trafficked into prostitution?",
-        "a": "Prajwala",
+        "q": "Which country holds the distinction of being the maiden international customer for India's BrahMos missile technology?",
+        "a": "The Philippines",
         "options": [
-            "UNICEF",
-            "Amnesty International",
-            "Prajwala",
-            "Bachpan Bachao Andolan",
-            "Childline India"
+            "Indonesia",
+            "Vietnam",
+            "Thailand",
+            "Malaysia",
+            "The Philippines"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Justice led the Supreme Court Bench that provided relief to Reliance Industries Limited (RIL)?",
-        "a": "J.B. Pardiwala",
+        "q": "Which US Secretary of Defense told journalists in Singapore that the US, Britain, and Australia are collectively engineering autonomous underwater vehicles under the AUKUS alliance?",
+        "a": "Pete Hegseth",
         "options": [
-            "R. Mahadevan",
-            "D.Y. Chandrachud",
-            "J.B. Pardiwala",
-            "N.V. Ramana",
-            "U.U. Lalit"
+            "Lloyd Austin",
+            "Mark Esper",
+            "Pete Hegseth",
+            "James Mattis",
+            "Chuck Hagel"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which of the following individuals was identified by SEBI as one of Suzlon's key top executives in violation of regulations?",
-        "a": "Vinod.R.Tanti",
+        "q": "Who is the British Defence Secretary who emphasized that deploying unmanned undersea vessels will bolster the collective capability to intercept hostilities?",
+        "a": "John Healey",
         "options": [
-            "Dilip Shanghvi",
-            "Sandip Pradhan",
-            "Vinod.R.Tanti",
-            "J.B. Pardiwala",
-            "Hans Kristensen"
+            "Ben Wallace",
+            "Grant Shapps",
+            "John Healey",
+            "Michael Fallon",
+            "Gavin Williamson"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Kuwaiti air base was struck by an Iranian ballistic missile?",
-        "a": "Ali Al Salem air base",
+        "q": "Who did China opt to dispatch as a delegation to the Shangri-La Dialogue for a second consecutive year, instead of their Defense Minister?",
+        "a": "Academic experts and military analysts",
         "options": [
-            "Ahmed Al Jaber air base",
-            "Ali Al Salem air base",
-            "Abdullah Al Mubarak air base",
-            "Kuwait International Airport",
-            "Camp Arifjan"
+            "Foreign Minister",
+            "Chief of General Staff",
+            "Academic experts and military analysts",
+            "Special Envoy",
+            "Premier"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which individual previously described the conflict involving Iran as an \"excursion\"?",
+        "a": "Donald Trump",
+        "options": [
+            "Scott Bessent",
+            "Mohammad Bagher Ghalibaf",
+            "Pete Hegseth",
+            "Donald Trump",
+            "Rajesh Kumar Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The US military described the Lian Star as a cargo vessel flying the flag of which country?",
+        "a": "Gambia",
+        "options": [
+            "Liberia",
+            "Panama",
+            "Malta",
+            "Gambia",
+            "Cyprus"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "In which body of water did the Lian Star remain adrift on Saturday after being struck by a missile?",
+        "a": "Gulf of Oman",
+        "options": [
+            "Persian Gulf",
+            "Arabian Sea",
+            "Red Sea",
+            "Gulf of Oman",
+            "Mediterranean Sea"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which Chinese regions are the core of China's nuclear forces located, including silo fields?",
-        "a": "Xinjiang region and Gansu province",
+        "q": "The Strait of Hormuz is the narrow waterway separating Iran and which other country?",
+        "a": "Oman",
         "options": [
-            "Sichuan and Tibet",
-            "Guangdong and Fujian",
-            "Xinjiang region and Gansu province",
-            "Heilongjiang and Inner Mongolia",
-            "Yunnan and Guizhou"
+            "Qatar",
+            "Saudi Arabia",
+            "UAE",
+            "Kuwait",
+            "Oman"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Cyber Range initiative to enhance cyber resilience across supervised entities was operationalized through a platform deployed at which institution?",
-        "a": "Institute for Development and Research in Banking Technology (IDBRT)",
+        "q": "A missile attack targeting a military base within the past 24 hours reportedly sustained injuries to US citizens in which country?",
+        "a": "Kuwait",
         "options": [
-            "National Institute of Bank Management (NIBM)",
-            "Reserve Bank Staff College (RBSC)",
-            "Institute for Development and Research in Banking Technology (IDBRT)",
-            "Indian Institute of Banking & Finance (IIBF)",
-            "Bankers Institute of Rural Development (BIRD)"
+            "Iraq",
+            "Syria",
+            "Saudi Arabia",
+            "Kuwait",
+            "Bahrain"
         ],
         "cat": "Where"
     },
     {
-        "q": "The new octagon-shaped military installations in China are centered southwest of which nuclear silo fields?",
-        "a": "Hami nuclear silo fields",
+        "q": "Indian Defence Secretary Rajesh Kumar Singh shared updates on defense deals while attending the Shangri-La Dialogue in which city?",
+        "a": "Singapore",
         "options": [
-            "Jiuquan nuclear silo fields",
-            "Yumen nuclear silo fields",
-            "Hami nuclear silo fields",
-            "Lop Nur nuclear test site",
-            "Dengkou nuclear silo fields"
+            "Kuala Lumpur",
+            "Bangkok",
+            "Jakarta",
+            "Singapore",
+            "New Delhi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which White House location hosted a roughly two-hour meeting regarding the ceasefire deal on Friday?",
-        "a": "Situation Room",
+        "q": "The AUKUS security alliance was formed to serve as a strategic counterweight to Beijing's expanding military footprint across which theater?",
+        "a": "Indo-Pacific theater",
         "options": [
-            "Oval Office",
-            "Cabinet Room",
-            "Situation Room",
-            "East Room",
-            "Diplomatic Reception Room"
+            "Atlantic theater",
+            "European theater",
+            "African theater",
+            "Indo-Pacific theater",
+            "South American theater"
         ],
         "cat": "Where"
     },
     {
-        "q": "The fragile ceasefire mentioned in the news, which the US is considering extending, has been in place since which month?",
+        "q": "British Defence Secretary John Healey was talking alongside Pete Hegseth and Australia's defence minister on the sidelines of which dialogue?",
+        "a": "Shangri-La Dialogue",
+        "options": [
+            "Munich Security Conference",
+            "Raisina Dialogue",
+            "Shangri-La Dialogue",
+            "Davos Forum",
+            "Sydney Dialogue"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "US President Trump completed a state visit to which country earlier this month?",
+        "a": "China",
+        "options": [
+            "Russia",
+            "Japan",
+            "South Korea",
+            "China",
+            "India"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which country's ports are the target of the US military blockade mentioned in the news text?",
+        "a": "Iranian ports",
+        "options": [
+            "Syrian ports",
+            "Yemeni ports",
+            "Iraqi ports",
+            "Iranian ports",
+            "Lebanese ports"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Lian Star, a Gambia-flagged cargo vessel, was attempting to reach a port in which country when it was struck?",
+        "a": "Iran",
+        "options": [
+            "Iraq",
+            "Saudi Arabia",
+            "UAE",
+            "Iran",
+            "Yemen"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Qatar, a Gulf neighbour, signaled limited flexibility over the toll question for which major shipping channel?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Suez Canal",
+            "Panama Canal",
+            "Strait of Malacca",
+            "Strait of Hormuz",
+            "Bab-el-Mandeb Strait"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where was the event located for which US Secretary of the Treasury Scott Bessent had remarks prepared regarding potential easing of sanctions on Iran?",
+        "a": "California",
+        "options": [
+            "New York",
+            "Washington D.C.",
+            "Texas",
+            "Florida",
+            "California"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "US forces intercepted a ship attempting to breach the cordon since it was established in April, seeking to reach an Iranian port. Where was the ship's intended destination?",
+        "a": "Iranian port",
+        "options": [
+            "Kuwaiti port",
+            "Qatari port",
+            "Saudi port",
+            "Iranian port",
+            "Omani port"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The US military blockade of Iranian ports was established in which month?",
         "a": "April",
+        "options": [
+            "February",
+            "March",
+            "April",
+            "May",
+            "June"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The blockade was launched on which specific date as a direct response to Iran's effective closure of the Strait of Hormuz?",
+        "a": "17 April",
+        "options": [
+            "1 February",
+            "28 February",
+            "7 April",
+            "17 April",
+            "17 May"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The war in the Middle East broke out after US and Israeli strikes on which date?",
+        "a": "28 February",
+        "options": [
+            "1 February",
+            "15 February",
+            "28 February",
+            "1 March",
+            "7 March"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "A fragile ceasefire has held since which specific date in the Middle East conflict?",
+        "a": "7 April",
+        "options": [
+            "1 March",
+            "15 March",
+            "1 April",
+            "7 April",
+            "15 April"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Philippines secured its purchase agreement for BrahMos missiles in which year?",
+        "a": "2022",
+        "options": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Indonesian authorities disclosed that they had finalized a preliminary framework with New Delhi to purchase supersonic missile infrastructure in which month?",
+        "a": "March",
         "options": [
             "January",
             "February",
@@ -696,74 +504,218 @@
         "cat": "When"
     },
     {
-        "q": "Within how many days did SEBI order Suzlon Energy Ltd. and its executives to pay the penalty?",
-        "a": "45 days",
+        "q": "For approximately how many years has India executed sweeping overhauls of its military production, research pipelines, and export frameworks?",
+        "a": "Over the preceding ten years",
         "options": [
-            "30 days",
-            "60 days",
-            "45 days",
-            "90 days",
-            "15 days"
+            "Over the preceding five years",
+            "Over the preceding seven years",
+            "Over the preceding ten years",
+            "Over the preceding twelve years",
+            "Over the preceding fifteen years"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date was the RBI\u2019s annual report for 2025-26 released?",
-        "a": "Friday (May 29, 2026)",
+        "q": "The AUKUS security coalition was established by the three allied nations in which year?",
+        "a": "2021",
         "options": [
-            "Monday (May 25, 2026)",
-            "Tuesday (May 26, 2026)",
-            "Wednesday (May 27, 2026)",
-            "Thursday (May 28, 2026)",
-            "Friday (May 29, 2026)"
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "In what year was the petition highlighting the lack of laws and protective mechanisms for young girls trafficked into prostitution filed by NGO Prajwala?",
-        "a": "2004",
+        "q": "The news mentions the US President completed a state visit to China \"earlier this month\". In relation to the news reporting date, when did this visit occur?",
+        "a": "Earlier this month",
         "options": [
-            "2002",
-            "2003",
-            "2004",
-            "2005",
-            "2006"
+            "Last month",
+            "Two months ago",
+            "Earlier this month",
+            "Last week",
+            "Next month"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary purpose of Prime Minister Narendra Modi's public appeals to countrymen regarding forex?",
-        "a": "To conserve forex",
+        "q": "The conflict involving Iran entered its fourth month by when, according to the news?",
+        "a": "Fourth month",
         "options": [
-            "To increase exports",
-            "To attract foreign investments",
-            "To conserve forex",
-            "To promote domestic tourism",
-            "To reduce inflation"
+            "First month",
+            "Second month",
+            "Third month",
+            "Fourth month",
+            "Fifth month"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "President Trump previously maintained that only a permanent suspension of Iran's nuclear program would be acceptable, but more recently suggested a pause of how many years would be \"enough\"?",
+        "a": "20-year pause",
+        "options": [
+            "5-year pause",
+            "10-year pause",
+            "15-year pause",
+            "20-year pause",
+            "25-year pause"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The confrontation, which Trump previously described as an \"excursion,\" has now extended well beyond the originally projected timeframe of how many weeks?",
+        "a": "Four to six weeks",
+        "options": [
+            "One to two weeks",
+            "Two to three weeks",
+            "Three to four weeks",
+            "Four to six weeks",
+            "Six to eight weeks"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the US military's stated reason for firing a missile into the engine room of the Lian Star?",
+        "a": "It repeatedly disregarded attempts by US forces to turn it back.",
+        "options": [
+            "It was carrying prohibited weapons",
+            "It fired upon a US vessel",
+            "It repeatedly disregarded attempts by US forces to turn it back",
+            "It was attempting to smuggle oil",
+            "It was involved in piracy."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the stated purpose of the Reserve Bank's 'Cyber Range' initiative?",
-        "a": "To enhance cyber resilience across the supervised entities",
+        "q": "What was the direct response to Iran's effective closure of the Strait of Hormuz that led to the US blockade being launched?",
+        "a": "Outbreak of war in the Middle East after US and Israeli strikes.",
         "options": [
-            "To develop new digital payment systems",
-            "To monitor global financial markets",
-            "To enhance cyber resilience across the supervised entities",
-            "To train staff in forensic accounting",
-            "To regulate cryptocurrency transactions"
+            "Economic sanctions by the UN",
+            "Diplomatic negotiations",
+            "Outbreak of war in the Middle East after US and Israeli strikes",
+            "A naval exercise by allied forces",
+            "A resolution by the UN Security Council."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is a cornerstone of China's nuclear doctrine, as mentioned in the news?",
-        "a": "Its 'no first use' policy",
+        "q": "What is the primary purpose of the US blockade at the Strait of Hormuz?",
+        "a": "To curtail Iran's own shipments through the waterway and restrict its access to foreign revenue.",
         "options": [
-            "Its 'pre-emptive strike' policy",
-            "Its 'massive retaliation' policy",
-            "Its 'no first use' policy",
-            "Its 'mutually assured destruction' policy",
-            "Its 'first strike capability' policy"
+            "To protect global shipping lanes",
+            "To facilitate humanitarian aid",
+            "To curtail Iran's own shipments through the waterway and restrict its access to foreign revenue",
+            "To prevent environmental damage",
+            "To conduct military drills."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of the 60-day extension of the ceasefire, if a deal is reached?",
+        "a": "To hold negotiations on Iran's disputed nuclear programme.",
+        "options": [
+            "To allow for a full military withdrawal",
+            "To establish new trade routes",
+            "To hold negotiations on Iran's disputed nuclear programme",
+            "To deploy additional peacekeeping forces",
+            "To finalize a permanent peace treaty."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "International maritime law experts have described Iran's practice of levying transit tolls as a violation of what?",
+        "a": "The longstanding principle of freedom of peaceful navigation.",
+        "options": [
+            "The Law of the Sea convention",
+            "The Geneva Conventions",
+            "The principle of open markets",
+            "The longstanding principle of freedom of peaceful navigation",
+            "International trade agreements."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific concern was raised by a US official regarding Iran's stated basis for its toll regime, as US forces had not found or destroyed any mines in the strait?",
+        "a": "Questions about the stated basis for Iran's toll regime.",
+        "options": [
+            "Concerns about environmental impact",
+            "Doubts about shipping safety",
+            "Questions about the stated basis for Iran's toll regime",
+            "Debates over fishing rights",
+            "Disputes about territorial waters."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the focus of the AUKUS security alliance's \"Pillar Two\" initiative?",
+        "a": "Pioneering cutting-edge military capabilities.",
+        "options": [
+            "Humanitarian aid operations",
+            "Economic development projects",
+            "Cultural exchange programs",
+            "Pioneering cutting-edge military capabilities",
+            "Climate change research."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What has China condemned the AUKUS security alliance as, expressing its concerns?",
+        "a": "Highly destabilizing, risking an escalating arms race.",
+        "options": [
+            "A legitimate defense pact",
+            "A constructive regional initiative",
+            "Highly destabilizing, risking an escalating arms race",
+            "A necessary measure for stability",
+            "A temporary arrangement."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key conditions Trump is prepared to support a deal with Iran only if it meets?",
+        "a": "Iran ending its nuclear programme.",
+        "options": [
+            "Iran increasing oil production",
+            "Iran joining NATO",
+            "Iran ending its nuclear programme",
+            "Iran recognizing Israel",
+            "Iran lifting trade restrictions."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Defence Secretary Rajesh Kumar Singh, sovereign states typically reserve high-tier weaponry and platforms for nations they consider what?",
+        "a": "Trusted strategic allies.",
+        "options": [
+            "Economic competitors",
+            "Neutral partners",
+            "Trusted strategic allies",
+            "Developing nations",
+            "Research collaborators."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did British Defence Secretary John Healey emphasize that deploying unmanned undersea vessels would significantly bolster collective capability?",
+        "a": "To intercept hostilities, specifically targeting infrastructure vulnerabilities like deep-sea communication cables and energy pipelines.",
+        "options": [
+            "To conduct deep-sea research",
+            "To survey marine life",
+            "To intercept hostilities, specifically targeting infrastructure vulnerabilities like deep-sea communication cables and energy pipelines",
+            "To explore new trade routes",
+            "To retrieve sunken treasures."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the current macroeconomic and geopolitical friction points noted by Rajesh Kumar Singh that fundamentally reshapes global defense dynamics?",
+        "a": "Conflicts spanning Europe and the Middle East.",
+        "options": [
+            "Global population growth",
+            "Increased international tourism",
+            "Conflicts spanning Europe and the Middle East",
+            "Decreased cyber threats",
+            "Stable energy prices."
         ],
         "cat": "Why"
     }
