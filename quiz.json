@@ -1,722 +1,770 @@
 [
     {
-        "q": "How many vessels has the US military stopped attempting to breach the blockade since it came into force?",
-        "a": "6",
+        "q": "What was India's fiscal deficit in April of the ongoing financial year?",
+        "a": "\u20b93.62 trillion",
         "options": [
-            "4",
-            "5",
-            "6",
-            "7",
-            "8"
+            "\u20b93.50 trillion",
+            "\u20b93.75 trillion",
+            "\u20b93.62 trillion",
+            "\u20b93.00 trillion",
+            "\u20b94.00 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many separate warnings did the Lian Star receive before the missile strike was authorised?",
-        "a": "More than 20",
+        "q": "What was the estimated revenue loss from the Centre's decision to cut excise duty on petrol and diesel in March?",
+        "a": "\u20b914,000 crore",
         "options": [
-            "More than 15",
-            "More than 20",
-            "More than 25",
-            "More than 10",
-            "More than 30"
+            "\u20b913,500 crore",
+            "\u20b914,000 crore",
+            "\u20b914,500 crore",
+            "\u20b915,000 crore",
+            "\u20b913,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many vessels, apart from those stopped, have been redirected away from Iranian ports by the US military?",
-        "a": "116",
+        "q": "The fiscal deficit in April reached what percentage of the \u20b916.96 trillion budget target for FY27?",
+        "a": "21.4%",
         "options": [
-            "110",
-            "112",
-            "116",
-            "120",
-            "122"
+            "20.5%",
+            "21.0%",
+            "21.4%",
+            "22.0%",
+            "22.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The proposed deal to extend the ceasefire in the Middle East is for how many days?",
-        "a": "60 days",
+        "q": "What was India's fiscal deficit in April 2025?",
+        "a": "\u20b91.86 trillion",
         "options": [
-            "30 days",
-            "45 days",
-            "60 days",
-            "90 days",
-            "120 days"
+            "\u20b91.80 trillion",
+            "\u20b91.90 trillion",
+            "\u20b91.86 trillion",
+            "\u20b92.00 trillion",
+            "\u20b91.75 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Iran has sought to assert financial control over the Strait of Hormuz by levying transit tolls of as much as how much per vessel?",
-        "a": "$2 million",
+        "q": "What were the total receipts, excluding borrowings, in April of the current financial year?",
+        "a": "\u20b92.13 trillion",
         "options": [
-            "$1 million",
-            "$1.5 million",
-            "$2 million",
-            "$2.5 million",
-            "$3 million"
+            "\u20b92.00 trillion",
+            "\u20b92.20 trillion",
+            "\u20b92.13 trillion",
+            "\u20b92.30 trillion",
+            "\u20b92.40 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many people, including military personnel and contractors, were injured in the missile attack on a military base in Kuwait?",
-        "a": "Around five",
+        "q": "What was the non-tax revenue collected in April of the current financial year?",
+        "a": "\u20b924,293 crore",
         "options": [
-            "Around three",
-            "Around four",
-            "Around five",
-            "Around six",
-            "Around seven"
+            "\u20b924,000 crore",
+            "\u20b925,000 crore",
+            "\u20b924,293 crore",
+            "\u20b923,500 crore",
+            "\u20b924,800 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many MQ-9 Reaper drones were damaged in the missile attack on a military base in Kuwait?",
-        "a": "Two",
+        "q": "What was the total government expenditure in April of the current financial year?",
+        "a": "\u20b95.75 trillion",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
+            "\u20b95.60 trillion",
+            "\u20b95.80 trillion",
+            "\u20b95.75 trillion",
+            "\u20b95.50 trillion",
+            "\u20b95.90 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate value of one MQ-9 Reaper drone mentioned in the context of the Kuwait attack?",
-        "a": "$30 million",
+        "q": "What percentage of GDP is the government's budgeted fiscal deficit for FY27?",
+        "a": "4.3%",
         "options": [
-            "$20 million",
-            "$25 million",
-            "$30 million",
-            "$35 million",
-            "$40 million"
+            "4.0%",
+            "4.5%",
+            "4.3%",
+            "4.2%",
+            "4.4%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the value of the BrahMos missile purchase agreement secured by the Philippines in 2022?",
-        "a": "USD 375 million",
+        "q": "What was the food subsidy expenditure in April of the current financial year?",
+        "a": "\u20b921,600 crore",
         "options": [
-            "USD 350 million",
-            "USD 365 million",
-            "USD 375 million",
-            "USD 380 million",
-            "USD 390 million"
+            "\u20b921,000 crore",
+            "\u20b922,000 crore",
+            "\u20b921,600 crore",
+            "\u20b920,500 crore",
+            "\u20b922,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many sovereign states are encompassed by the Association of Southeast Asian Nations (ASEAN)?",
-        "a": "11",
+        "q": "What was the urea subsidy spending in April of the current financial year?",
+        "a": "\u20b919,796 crore",
         "options": [
-            "9",
-            "10",
-            "11",
-            "12",
-            "13"
+            "\u20b919,500 crore",
+            "\u20b920,000 crore",
+            "\u20b919,796 crore",
+            "\u20b918,500 crore",
+            "\u20b920,500 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of India's aggregate defense manufacturing is commanded by state-run enterprises?",
-        "a": "Roughly 72 percent",
+        "q": "How much did the Centre spend on servicing debt during April of the current financial year?",
+        "a": "\u20b91.10 trillion",
         "options": [
-            "Roughly 60 percent",
-            "Roughly 65 percent",
-            "Roughly 72 percent",
-            "Roughly 75 percent",
-            "Roughly 80 percent"
+            "\u20b91.00 trillion",
+            "\u20b91.20 trillion",
+            "\u20b91.10 trillion",
+            "\u20b90.90 trillion",
+            "\u20b91.15 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Indian state-owned defense operations place among the top 100 global arms manufacturers?",
-        "a": "Three",
+        "q": "Who released the latest accounts reflecting India's fiscal deficit data?",
+        "a": "Controller General of Accounts (CGA)",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
+            "Reserve Bank of India (RBI)",
+            "Ministry of Finance",
+            "Controller General of Accounts (CGA)",
+            "National Statistical Office (NSO)",
+            "Securities and Exchange Board of India (SEBI)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the chief policy advisor at EY India mentioned in the news text?",
+        "a": "D.K. Srivastava",
+        "options": [
+            "Raghuram Rajan",
+            "Urjit Patel",
+            "D.K. Srivastava",
+            "Arvind Subramanian",
+            "Montek Singh Ahluwalia"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the main reason cited for the decline in government receipts in April?",
+        "a": "Centre's decision to cut excise duty on petrol and diesel",
+        "options": [
+            "Reduction in corporate tax collection",
+            "Lower-than-expected GST revenue",
+            "Centre's decision to cut excise duty on petrol and diesel",
+            "Decrease in non-tax revenue from PSUs",
+            "Higher tax refunds issued"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Ministry of Jal Shakti signed an MoU with which organization to strengthen satellite technology use for water resource management?",
+        "a": "Indian Space Research Organisation (ISRO)",
+        "options": [
+            "Defence Research and Development Organisation (DRDO)",
+            "National Remote Sensing Centre (NRSC)",
+            "Indian Space Research Organisation (ISRO)",
+            "Geological Survey of India (GSI)",
+            "National Water Development Agency (NWDA)"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the maximum funding support per project for the new water research mission launched by the Ministry of Jal Shakti?",
+        "a": "\u20b920 crore",
+        "options": [
+            "\u20b910 crore",
+            "\u20b915 crore",
+            "\u20b920 crore",
+            "\u20b925 crore",
+            "\u20b930 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which US military command announced on Saturday that it disabled a merchant vessel attempting to run its blockade of Iranian ports?",
-        "a": "Central Command",
+        "q": "What is the target number of water conservation structures for the third phase of the Jal Sanchay Jan Bhagidari (JSJB) campaign?",
+        "a": "Two crore",
         "options": [
-            "Southern Command",
-            "Western Command",
-            "Central Command",
-            "Eastern Command",
-            "Northern Command"
+            "One crore",
+            "One and a half crore",
+            "Two crore",
+            "Two and a half crore",
+            "Three crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current Union Jal Shakti Minister?",
+        "a": "CR Patil",
+        "options": [
+            "Gajendra Singh Shekhawat",
+            "Jitendra Singh",
+            "CR Patil",
+            "Prakash Javadekar",
+            "Bhupender Yadav"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US President met with advisers on Friday to weigh whether to proceed with a deal to extend the ceasefire?",
-        "a": "Donald Trump",
+        "q": "Who is the ISRO Chairman and Department of Space Secretary mentioned in the news?",
+        "a": "V Narayanan",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George Bush",
-            "Bill Clinton"
+            "S. Somanath",
+            "K. Sivan",
+            "V Narayanan",
+            "A.S. Kiran Kumar",
+            "Madhavan Nair"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Qatar's deputy prime minister, who indicated that transit fees for the Strait of Hormuz could become a subject of negotiation?",
-        "a": "Sheikh Saoud bin Abdulrahman bin Hassan bin Ali Al Thani",
+        "q": "Where was the national workshop on research and development (R&D) in the water sector organized?",
+        "a": "Dr Ambedkar International Centre",
         "options": [
-            "Sheikh Ahmed bin Mohammed Al Thani",
-            "Sheikh Hamad bin Khalifa Al Thani",
-            "Sheikh Saoud bin Abdulrahman bin Hassan bin Ali Al Thani",
-            "Sheikh Abdullah bin Nasser Al Thani",
-            "Sheikh Khalid bin Khalifa Al Thani"
+            "Vigyan Bhawan",
+            "India Habitat Centre",
+            "Dr Ambedkar International Centre",
+            "Jawaharlal Nehru Stadium",
+            "National Centre for Earth Sciences Studies"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "By which year does India aim to achieve the goal of Viksit Bharat, as mentioned by the Union Jal Shakti Minister?",
+        "a": "2047",
+        "options": [
+            "2030",
+            "2035",
+            "2047",
+            "2050",
+            "2040"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the primary purpose of the MoU signed between the Ministry of Jal Shakti and ISRO?",
+        "a": "To strengthen the use of satellite technology and space-based applications for water resource management",
+        "options": [
+            "To develop new satellite launching capabilities",
+            "To explore interstellar water bodies",
+            "To strengthen the use of satellite technology and space-based applications for water resource management",
+            "To privatize water distribution channels",
+            "To conduct a census of all water bodies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the primary objective of the 'JSJB-Catch the Rain' portal?",
+        "a": "To allow district administrations to document and verify water conservation structures",
+        "options": [
+            "To facilitate online payment for water bills",
+            "To provide real-time weather forecasts",
+            "To allow district administrations to document and verify water conservation structures",
+            "To encourage rainwater harvesting in urban areas only",
+            "To promote international collaboration in water management"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many water conservation structures were created in the first phase of the campaign, surpassing its target?",
+        "a": "27.5 lakh",
+        "options": [
+            "10 lakh",
+            "15 lakh",
+            "27.5 lakh",
+            "20 lakh",
+            "30 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the funding limit for eligible projects under the MAHA-Water programme?",
+        "a": "Up to \u20b920 crore",
+        "options": [
+            "Up to \u20b95 crore",
+            "Up to \u20b910 crore",
+            "Up to \u20b920 crore",
+            "Up to \u20b925 crore",
+            "Up to \u20b930 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the CEO of Anusandhan National Research Foundation (ANRF) mentioned in the news?",
+        "a": "Shivkumar Kalyanaraman",
+        "options": [
+            "K. VijayRaghavan",
+            "Anil Kakodkar",
+            "Shivkumar Kalyanaraman",
+            "R. Chidambaram",
+            "C.N.R. Rao"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US Secretary of the Treasury stopped short of confirming a tentative agreement on a ceasefire extension with Iran?",
-        "a": "Scott Bessent",
+        "q": "What is the current estimated size of India's space economy?",
+        "a": "Nearly USD 9 billion",
         "options": [
-            "Janet Yellen",
-            "Steven Mnuchin",
-            "Scott Bessent",
-            "Timothy Geithner",
-            "Henry Paulson"
+            "Nearly USD 5 billion",
+            "Nearly USD 7 billion",
+            "Nearly USD 9 billion",
+            "Nearly USD 10 billion",
+            "Nearly USD 12 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the maximum funding available for start-ups and MSMEs under the revised R&D guidelines of the Department of Water Resources?",
+        "a": "Up to \u20b92 crore",
+        "options": [
+            "Up to \u20b950 lakh",
+            "Up to \u20b91 crore",
+            "Up to \u20b92 crore",
+            "Up to \u20b93 crore",
+            "Up to \u20b95 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the fine imposed by SEBI on Suzlon Energy Ltd for inflating its net worth?",
+        "a": "\u20b928.6 crore",
+        "options": [
+            "\u20b925.0 crore",
+            "\u20b930.0 crore",
+            "\u20b928.6 crore",
+            "\u20b927.5 crore",
+            "\u20b929.0 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total equity share capital raised by Suzlon using misreported accounts, according to SEBI?",
+        "a": "\u20b91,800 crore",
+        "options": [
+            "\u20b91,500 crore",
+            "\u20b92,000 crore",
+            "\u20b91,800 crore",
+            "\u20b91,600 crore",
+            "\u20b91,900 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which market regulator imposed a fine on Suzlon Energy Ltd?",
+        "a": "Securities & Exchange Board of India (SEBI)",
+        "options": [
+            "Reserve Bank of India (RBI)",
+            "Competition Commission of India (CCI)",
+            "Securities & Exchange Board of India (SEBI)",
+            "Ministry of Corporate Affairs (MCA)",
+            "Insurance Regulatory and Development Authority of India (IRDAI)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who expressed skepticism about the negotiation process with Iran, stating that Iran had \"no trust in guarantees or words\"?",
-        "a": "Mohammad Bagher Ghalibaf",
+        "q": "On which day did Suzlon Energy Ltd shares tank on the BSE due to the SEBI fine?",
+        "a": "Monday",
         "options": [
-            "Hassan Rouhani",
-            "Ebrahim Raisi",
-            "Mohammad Bagher Ghalibaf",
-            "Mahmoud Ahmadinejad",
-            "Ali Khamenei"
+            "Tuesday",
+            "Wednesday",
+            "Monday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the record high value of UPI transactions in May?",
+        "a": "\u20b929.90 lakh crore",
+        "options": [
+            "\u20b929.00 lakh crore",
+            "\u20b930.00 lakh crore",
+            "\u20b929.90 lakh crore",
+            "\u20b928.50 lakh crore",
+            "\u20b930.50 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the record high volume of UPI transactions in May?",
+        "a": "23.2 billion",
+        "options": [
+            "22.5 billion",
+            "23.0 billion",
+            "23.2 billion",
+            "24.0 billion",
+            "21.5 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which organization released the data on UPI transactions?",
+        "a": "National Payments Corporation of India (NPCI)",
+        "options": [
+            "Reserve Bank of India (RBI)",
+            "Ministry of Finance",
+            "National Payments Corporation of India (NPCI)",
+            "Indian Banks' Association (IBA)",
+            "NPCI International Payments Ltd (NIPL)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Indian Defence Secretary who confirmed the agreement to supply BrahMos cruise missiles to Vietnam?",
-        "a": "Rajesh Kumar Singh",
+        "q": "In which month were UPI transactions reported to have reached a record high value and volume?",
+        "a": "May",
         "options": [
-            "Ajit Doval",
-            "Giridhar Aramane",
-            "Rajesh Kumar Singh",
-            "Sanjay Mitra",
-            "Subhash Chandra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which country holds the distinction of being the maiden international customer for India's BrahMos missile technology?",
-        "a": "The Philippines",
-        "options": [
-            "Indonesia",
-            "Vietnam",
-            "Thailand",
-            "Malaysia",
-            "The Philippines"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which US Secretary of Defense told journalists in Singapore that the US, Britain, and Australia are collectively engineering autonomous underwater vehicles under the AUKUS alliance?",
-        "a": "Pete Hegseth",
-        "options": [
-            "Lloyd Austin",
-            "Mark Esper",
-            "Pete Hegseth",
-            "James Mattis",
-            "Chuck Hagel"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the British Defence Secretary who emphasized that deploying unmanned undersea vessels will bolster the collective capability to intercept hostilities?",
-        "a": "John Healey",
-        "options": [
-            "Ben Wallace",
-            "Grant Shapps",
-            "John Healey",
-            "Michael Fallon",
-            "Gavin Williamson"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who did China opt to dispatch as a delegation to the Shangri-La Dialogue for a second consecutive year, instead of their Defense Minister?",
-        "a": "Academic experts and military analysts",
-        "options": [
-            "Foreign Minister",
-            "Chief of General Staff",
-            "Academic experts and military analysts",
-            "Special Envoy",
-            "Premier"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which individual previously described the conflict involving Iran as an \"excursion\"?",
-        "a": "Donald Trump",
-        "options": [
-            "Scott Bessent",
-            "Mohammad Bagher Ghalibaf",
-            "Pete Hegseth",
-            "Donald Trump",
-            "Rajesh Kumar Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The US military described the Lian Star as a cargo vessel flying the flag of which country?",
-        "a": "Gambia",
-        "options": [
-            "Liberia",
-            "Panama",
-            "Malta",
-            "Gambia",
-            "Cyprus"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which body of water did the Lian Star remain adrift on Saturday after being struck by a missile?",
-        "a": "Gulf of Oman",
-        "options": [
-            "Persian Gulf",
-            "Arabian Sea",
-            "Red Sea",
-            "Gulf of Oman",
-            "Mediterranean Sea"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Strait of Hormuz is the narrow waterway separating Iran and which other country?",
-        "a": "Oman",
-        "options": [
-            "Qatar",
-            "Saudi Arabia",
-            "UAE",
-            "Kuwait",
-            "Oman"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "A missile attack targeting a military base within the past 24 hours reportedly sustained injuries to US citizens in which country?",
-        "a": "Kuwait",
-        "options": [
-            "Iraq",
-            "Syria",
-            "Saudi Arabia",
-            "Kuwait",
-            "Bahrain"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Indian Defence Secretary Rajesh Kumar Singh shared updates on defense deals while attending the Shangri-La Dialogue in which city?",
-        "a": "Singapore",
-        "options": [
-            "Kuala Lumpur",
-            "Bangkok",
-            "Jakarta",
-            "Singapore",
-            "New Delhi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The AUKUS security alliance was formed to serve as a strategic counterweight to Beijing's expanding military footprint across which theater?",
-        "a": "Indo-Pacific theater",
-        "options": [
-            "Atlantic theater",
-            "European theater",
-            "African theater",
-            "Indo-Pacific theater",
-            "South American theater"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "British Defence Secretary John Healey was talking alongside Pete Hegseth and Australia's defence minister on the sidelines of which dialogue?",
-        "a": "Shangri-La Dialogue",
-        "options": [
-            "Munich Security Conference",
-            "Raisina Dialogue",
-            "Shangri-La Dialogue",
-            "Davos Forum",
-            "Sydney Dialogue"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "US President Trump completed a state visit to which country earlier this month?",
-        "a": "China",
-        "options": [
-            "Russia",
-            "Japan",
-            "South Korea",
-            "China",
-            "India"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country's ports are the target of the US military blockade mentioned in the news text?",
-        "a": "Iranian ports",
-        "options": [
-            "Syrian ports",
-            "Yemeni ports",
-            "Iraqi ports",
-            "Iranian ports",
-            "Lebanese ports"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Lian Star, a Gambia-flagged cargo vessel, was attempting to reach a port in which country when it was struck?",
-        "a": "Iran",
-        "options": [
-            "Iraq",
-            "Saudi Arabia",
-            "UAE",
-            "Iran",
-            "Yemen"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Qatar, a Gulf neighbour, signaled limited flexibility over the toll question for which major shipping channel?",
-        "a": "Strait of Hormuz",
-        "options": [
-            "Suez Canal",
-            "Panama Canal",
-            "Strait of Malacca",
-            "Strait of Hormuz",
-            "Bab-el-Mandeb Strait"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was the event located for which US Secretary of the Treasury Scott Bessent had remarks prepared regarding potential easing of sanctions on Iran?",
-        "a": "California",
-        "options": [
-            "New York",
-            "Washington D.C.",
-            "Texas",
-            "Florida",
-            "California"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "US forces intercepted a ship attempting to breach the cordon since it was established in April, seeking to reach an Iranian port. Where was the ship's intended destination?",
-        "a": "Iranian port",
-        "options": [
-            "Kuwaiti port",
-            "Qatari port",
-            "Saudi port",
-            "Iranian port",
-            "Omani port"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The US military blockade of Iranian ports was established in which month?",
-        "a": "April",
-        "options": [
-            "February",
             "March",
             "April",
             "May",
-            "June"
+            "June",
+            "July"
         ],
         "cat": "When"
     },
     {
-        "q": "The blockade was launched on which specific date as a direct response to Iran's effective closure of the Strait of Hormuz?",
-        "a": "17 April",
+        "q": "What was the average ticket size of UPI transactions in 2025?",
+        "a": "\u20b91,313",
         "options": [
-            "1 February",
-            "28 February",
-            "7 April",
-            "17 April",
-            "17 May"
+            "\u20b91,848",
+            "\u20b91,500",
+            "\u20b91,313",
+            "\u20b91,200",
+            "\u20b91,400"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "According to the news, which of the following countries is NOT mentioned where UPI is currently live?",
+        "a": "Thailand",
+        "options": [
+            "UAE",
+            "Singapore",
+            "Bhutan",
+            "Thailand",
+            "Nepal"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What was the gross GST collection in May?",
+        "a": "Over \u20b91.94 lakh crore",
+        "options": [
+            "\u20b91.88 lakh crore",
+            "\u20b91.90 lakh crore",
+            "Over \u20b91.94 lakh crore",
+            "\u20b92.00 lakh crore",
+            "\u20b91.92 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the gross CGST collection from domestic transactions during May?",
+        "a": "\u20b937,397 crore",
+        "options": [
+            "\u20b937,000 crore",
+            "\u20b937,500 crore",
+            "\u20b937,397 crore",
+            "\u20b936,500 crore",
+            "\u20b938,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the IGST collection from imports in May?",
+        "a": "\u20b959,654 crore",
+        "options": [
+            "\u20b959,000 crore",
+            "\u20b960,000 crore",
+            "\u20b959,654 crore",
+            "\u20b958,500 crore",
+            "\u20b961,000 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the net GST revenue in May, after adjusting refunds?",
+        "a": "About \u20b91.67 lakh crore",
+        "options": [
+            "About \u20b91.60 lakh crore",
+            "About \u20b91.70 lakh crore",
+            "About \u20b91.67 lakh crore",
+            "About \u20b91.75 lakh crore",
+            "About \u20b91.65 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "When were the gross GST collection figures for May released?",
+        "a": "Monday (June 1, 2026)",
+        "options": [
+            "Sunday (May 31, 2026)",
+            "Monday (June 1, 2026)",
+            "Tuesday (June 2, 2026)",
+            "Wednesday (June 3, 2026)",
+            "Thursday (June 4, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "The war in the Middle East broke out after US and Israeli strikes on which date?",
-        "a": "28 February",
+        "q": "What was the all-time high GST mop-up recorded in April?",
+        "a": "\u20b92.43 lakh crore",
         "options": [
-            "1 February",
-            "15 February",
-            "28 February",
-            "1 March",
-            "7 March"
+            "\u20b92.35 lakh crore",
+            "\u20b92.40 lakh crore",
+            "\u20b92.43 lakh crore",
+            "\u20b92.50 lakh crore",
+            "\u20b92.30 lakh crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the increase in IGST collection from imports during May?",
+        "a": "19.1%",
+        "options": [
+            "18.5%",
+            "19.0%",
+            "19.1%",
+            "19.5%",
+            "20.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the working strength of the Supreme Court after the appointment of five new judges?",
+        "a": "37 judges",
+        "options": [
+            "33 judges",
+            "35 judges",
+            "37 judges",
+            "38 judges",
+            "39 judges"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many positions remained vacant in the Supreme Court after the new appointments?",
+        "a": "One",
+        "options": [
+            "None",
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who administered the oath of office to the five new Supreme Court judges?",
+        "a": "CJI Surya Kant",
+        "options": [
+            "President of India",
+            "Vice President of India",
+            "Prime Minister of India",
+            "CJI Surya Kant",
+            "Union Law Minister"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which High Court Chief Justice was NOT among those elevated to the Supreme Court?",
+        "a": "Delhi High Court Chief Justice",
+        "options": [
+            "Punjab and Haryana High Court Chief Justice",
+            "Bombay High Court Chief Justice",
+            "Madhya Pradesh High Court Chief Justice",
+            "Delhi High Court Chief Justice",
+            "High Court of Jammu & Kashmir and Ladakh Chief Justice"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the second woman to be elevated directly from the Bar to the Supreme Court?",
+        "a": "V. Mohana",
+        "options": [
+            "Justice B.V. Nagarathna",
+            "Justice Indu Malhotra",
+            "V. Mohana",
+            "Justice Hima Kohli",
+            "Justice Bela M. Trivedi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date did the Supreme Court (Number of Judges) Amendment Ordinance, 2026, get promulgated?",
+        "a": "May 16",
+        "options": [
+            "April 15",
+            "May 10",
+            "May 16",
+            "June 1",
+            "May 27"
         ],
         "cat": "When"
     },
     {
-        "q": "A fragile ceasefire has held since which specific date in the Middle East conflict?",
-        "a": "7 April",
+        "q": "What was the Supreme Court's sanctioned strength increased to (excluding the CJI) by the recent Ordinance?",
+        "a": "37 judges",
         "options": [
-            "1 March",
-            "15 March",
-            "1 April",
-            "7 April",
-            "15 April"
+            "33 judges",
+            "35 judges",
+            "37 judges",
+            "38 judges",
+            "39 judges"
         ],
-        "cat": "When"
+        "cat": "Amount"
     },
     {
-        "q": "The Philippines secured its purchase agreement for BrahMos missiles in which year?",
-        "a": "2022",
+        "q": "In which year was Justice Indu Malhotra elevated as the first woman directly from the Bar to the Supreme Court?",
+        "a": "2018",
         "options": [
-            "2020",
-            "2021",
-            "2022",
-            "2023",
-            "2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Indonesian authorities disclosed that they had finalized a preliminary framework with New Delhi to purchase supersonic missile infrastructure in which month?",
-        "a": "March",
-        "options": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For approximately how many years has India executed sweeping overhauls of its military production, research pipelines, and export frameworks?",
-        "a": "Over the preceding ten years",
-        "options": [
-            "Over the preceding five years",
-            "Over the preceding seven years",
-            "Over the preceding ten years",
-            "Over the preceding twelve years",
-            "Over the preceding fifteen years"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The AUKUS security coalition was established by the three allied nations in which year?",
-        "a": "2021",
-        "options": [
+            "2016",
+            "2017",
+            "2018",
             "2019",
-            "2020",
-            "2021",
-            "2022",
-            "2023"
+            "2020"
         ],
         "cat": "When"
     },
     {
-        "q": "The news mentions the US President completed a state visit to China \"earlier this month\". In relation to the news reporting date, when did this visit occur?",
-        "a": "Earlier this month",
+        "q": "What is the primary reason for promulgating the Supreme Court (Number of Judges) Amendment Ordinance, 2026?",
+        "a": "Addressing the Court\u2019s mounting backlog of cases and facilitating the regular convening of Constitution Benches",
         "options": [
-            "Last month",
-            "Two months ago",
-            "Earlier this month",
-            "Last week",
-            "Next month"
+            "To increase regional representation",
+            "To improve gender diversity on the Bench",
+            "To address the Court\u2019s mounting backlog of cases and facilitating the regular convening of Constitution Benches",
+            "To reduce the retirement age of judges",
+            "To streamline the collegium system"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Bellatrix Aerospace, an Indian space start-up, will help which South Korean space company in an upcoming VLEO satellite mission?",
+        "a": "TelePIX",
+        "options": [
+            "Korea Aerospace Industries (KAI)",
+            "Hanwha Systems",
+            "TelePIX",
+            "Satrec Initiative",
+            "LIG Nex1"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the approximate altitude range for Very Low Earth Orbit (VLEO) satellites?",
+        "a": "150 km to 250 km",
+        "options": [
+            "50 km to 100 km",
+            "100 km to 150 km",
+            "150 km to 250 km",
+            "250 km to 400 km",
+            "400 km to 500 km"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the target year for the launch and mission commencement of the Bellatrix Aerospace and TelePIX VLEO satellite?",
+        "a": "2028",
+        "options": [
+            "2026",
+            "2027",
+            "2028",
+            "2029",
+            "2030"
         ],
         "cat": "When"
     },
     {
-        "q": "The conflict involving Iran entered its fourth month by when, according to the news?",
-        "a": "Fourth month",
+        "q": "What is the significance of VLEO satellites compared to conventional LEO satellites?",
+        "a": "Enable significantly higher-resolution imaging capabilities",
         "options": [
-            "First month",
-            "Second month",
-            "Third month",
-            "Fourth month",
-            "Fifth month"
+            "Require less power for operation",
+            "Have a longer orbital lifespan",
+            "Enable significantly higher-resolution imaging capabilities",
+            "Experience less atmospheric drag",
+            "Are easier to launch"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who filed the Public Interest Litigation (PIL) petition regarding non-compliance with disability commission recommendations?",
+        "a": "Shashank Pandey",
+        "options": [
+            "Aruna Roy",
+            "Harish Salve",
+            "Shashank Pandey",
+            "Prashant Bhushan",
+            "Kapil Sibal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "On what date did the Supreme Court seek the Centre\u2019s response on the disability rights PIL?",
+        "a": "Monday (June 1, 2026)",
+        "options": [
+            "Friday (May 29, 2026)",
+            "Saturday (May 30, 2026)",
+            "Monday (June 1, 2026)",
+            "Tuesday (June 2, 2026)",
+            "Wednesday (June 3, 2026)"
         ],
         "cat": "When"
     },
     {
-        "q": "President Trump previously maintained that only a permanent suspension of Iran's nuclear program would be acceptable, but more recently suggested a pause of how many years would be \"enough\"?",
-        "a": "20-year pause",
+        "q": "What is the deadline for authorities to comply with recommendations of disability commissions under the RPwD Act, 2016?",
+        "a": "Within three months",
         "options": [
-            "5-year pause",
-            "10-year pause",
-            "15-year pause",
-            "20-year pause",
-            "25-year pause"
+            "Within one month",
+            "Within two months",
+            "Within three months",
+            "Within six months",
+            "Within one year"
         ],
         "cat": "When"
     },
     {
-        "q": "The confrontation, which Trump previously described as an \"excursion,\" has now extended well beyond the originally projected timeframe of how many weeks?",
-        "a": "Four to six weeks",
+        "q": "What is the purpose of Section 93 of the Rights of Persons with Disabilities Act (RPwD), 2016?",
+        "a": "To confer power on disability commissions to penalise defaulting authorities",
         "options": [
-            "One to two weeks",
-            "Two to three weeks",
-            "Three to four weeks",
-            "Four to six weeks",
-            "Six to eight weeks"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the US military's stated reason for firing a missile into the engine room of the Lian Star?",
-        "a": "It repeatedly disregarded attempts by US forces to turn it back.",
-        "options": [
-            "It was carrying prohibited weapons",
-            "It fired upon a US vessel",
-            "It repeatedly disregarded attempts by US forces to turn it back",
-            "It was attempting to smuggle oil",
-            "It was involved in piracy."
+            "To define the rights of persons with disabilities",
+            "To establish disability commissions",
+            "To provide financial aid to persons with disabilities",
+            "To confer power on disability commissions to penalise defaulting authorities",
+            "To promote inclusive education"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the direct response to Iran's effective closure of the Strait of Hormuz that led to the US blockade being launched?",
-        "a": "Outbreak of war in the Middle East after US and Israeli strikes.",
+        "q": "According to official figures, in what percentage of cases were reasons for non-compliance furnished by respondent authorities between 2022 and 2024?",
+        "a": "10-15%",
         "options": [
-            "Economic sanctions by the UN",
-            "Diplomatic negotiations",
-            "Outbreak of war in the Middle East after US and Israeli strikes",
-            "A naval exercise by allied forces",
-            "A resolution by the UN Security Council."
+            "5-10%",
+            "10-15%",
+            "15-20%",
+            "20-25%",
+            "25-30%"
         ],
-        "cat": "Why"
+        "cat": "Amount"
     },
     {
-        "q": "What is the primary purpose of the US blockade at the Strait of Hormuz?",
-        "a": "To curtail Iran's own shipments through the waterway and restrict its access to foreign revenue.",
+        "q": "Which two Justices formed the Bench that issued notice on the disability rights PIL?",
+        "a": "Justices Vikram Nath and P.B. Varale",
         "options": [
-            "To protect global shipping lanes",
-            "To facilitate humanitarian aid",
-            "To curtail Iran's own shipments through the waterway and restrict its access to foreign revenue",
-            "To prevent environmental damage",
-            "To conduct military drills."
+            "CJI Surya Kant and Justice B.V. Nagarathna",
+            "Justices D.Y. Chandrachud and S.K. Kaul",
+            "Justices Vikram Nath and P.B. Varale",
+            "Justices Hrishikesh Roy and C.T. Ravikumar",
+            "Justices Sanjiv Khanna and B.R. Gavai"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the purpose of the 60-day extension of the ceasefire, if a deal is reached?",
-        "a": "To hold negotiations on Iran's disputed nuclear programme.",
-        "options": [
-            "To allow for a full military withdrawal",
-            "To establish new trade routes",
-            "To hold negotiations on Iran's disputed nuclear programme",
-            "To deploy additional peacekeeping forces",
-            "To finalize a permanent peace treaty."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "International maritime law experts have described Iran's practice of levying transit tolls as a violation of what?",
-        "a": "The longstanding principle of freedom of peaceful navigation.",
-        "options": [
-            "The Law of the Sea convention",
-            "The Geneva Conventions",
-            "The principle of open markets",
-            "The longstanding principle of freedom of peaceful navigation",
-            "International trade agreements."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What specific concern was raised by a US official regarding Iran's stated basis for its toll regime, as US forces had not found or destroyed any mines in the strait?",
-        "a": "Questions about the stated basis for Iran's toll regime.",
-        "options": [
-            "Concerns about environmental impact",
-            "Doubts about shipping safety",
-            "Questions about the stated basis for Iran's toll regime",
-            "Debates over fishing rights",
-            "Disputes about territorial waters."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the focus of the AUKUS security alliance's \"Pillar Two\" initiative?",
-        "a": "Pioneering cutting-edge military capabilities.",
-        "options": [
-            "Humanitarian aid operations",
-            "Economic development projects",
-            "Cultural exchange programs",
-            "Pioneering cutting-edge military capabilities",
-            "Climate change research."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What has China condemned the AUKUS security alliance as, expressing its concerns?",
-        "a": "Highly destabilizing, risking an escalating arms race.",
-        "options": [
-            "A legitimate defense pact",
-            "A constructive regional initiative",
-            "Highly destabilizing, risking an escalating arms race",
-            "A necessary measure for stability",
-            "A temporary arrangement."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the key conditions Trump is prepared to support a deal with Iran only if it meets?",
-        "a": "Iran ending its nuclear programme.",
-        "options": [
-            "Iran increasing oil production",
-            "Iran joining NATO",
-            "Iran ending its nuclear programme",
-            "Iran recognizing Israel",
-            "Iran lifting trade restrictions."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to Defence Secretary Rajesh Kumar Singh, sovereign states typically reserve high-tier weaponry and platforms for nations they consider what?",
-        "a": "Trusted strategic allies.",
-        "options": [
-            "Economic competitors",
-            "Neutral partners",
-            "Trusted strategic allies",
-            "Developing nations",
-            "Research collaborators."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did British Defence Secretary John Healey emphasize that deploying unmanned undersea vessels would significantly bolster collective capability?",
-        "a": "To intercept hostilities, specifically targeting infrastructure vulnerabilities like deep-sea communication cables and energy pipelines.",
-        "options": [
-            "To conduct deep-sea research",
-            "To survey marine life",
-            "To intercept hostilities, specifically targeting infrastructure vulnerabilities like deep-sea communication cables and energy pipelines",
-            "To explore new trade routes",
-            "To retrieve sunken treasures."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is one of the current macroeconomic and geopolitical friction points noted by Rajesh Kumar Singh that fundamentally reshapes global defense dynamics?",
-        "a": "Conflicts spanning Europe and the Middle East.",
-        "options": [
-            "Global population growth",
-            "Increased international tourism",
-            "Conflicts spanning Europe and the Middle East",
-            "Decreased cyber threats",
-            "Stable energy prices."
-        ],
-        "cat": "Why"
+        "cat": "Who"
     }
 ]
