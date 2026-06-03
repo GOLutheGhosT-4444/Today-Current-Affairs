@@ -1,770 +1,722 @@
 [
     {
-        "q": "What was India's fiscal deficit in April of the ongoing financial year?",
-        "a": "\u20b93.62 trillion",
+        "q": "What was the annual inflation rate in Iran in May, reaching its highest level since World War II?",
+        "a": "77.2%",
         "options": [
-            "\u20b93.50 trillion",
-            "\u20b93.75 trillion",
-            "\u20b93.62 trillion",
-            "\u20b93.00 trillion",
-            "\u20b94.00 trillion"
+            "76.8%",
+            "77.0%",
+            "77.2%",
+            "77.4%",
+            "77.6%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated revenue loss from the Centre's decision to cut excise duty on petrol and diesel in March?",
-        "a": "\u20b914,000 crore",
+        "q": "By what percentage did the consumer price index for everyday necessities like medicine and taxi fares jump in Iran from a year earlier?",
+        "a": "113.8%",
         "options": [
-            "\u20b913,500 crore",
-            "\u20b914,000 crore",
-            "\u20b914,500 crore",
-            "\u20b915,000 crore",
-            "\u20b913,000 crore"
+            "113.4%",
+            "113.6%",
+            "113.8%",
+            "114.0%",
+            "114.2%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The fiscal deficit in April reached what percentage of the \u20b916.96 trillion budget target for FY27?",
-        "a": "21.4%",
+        "q": "What was the monthly inflation increase in Iran in May compared to April?",
+        "a": "8.5%",
         "options": [
-            "20.5%",
-            "21.0%",
-            "21.4%",
-            "22.0%",
-            "22.5%"
+            "8.1%",
+            "8.3%",
+            "8.5%",
+            "8.7%",
+            "8.9%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was India's fiscal deficit in April 2025?",
-        "a": "\u20b91.86 trillion",
+        "q": "What is the minimum qualification limit in crores of rupees that Coempt barely met for the CBSE OSM tender, as highlighted by Sarthak Sidhant?",
+        "a": "Rs 50 Cr",
         "options": [
-            "\u20b91.80 trillion",
-            "\u20b91.90 trillion",
-            "\u20b91.86 trillion",
-            "\u20b92.00 trillion",
-            "\u20b91.75 trillion"
+            "Rs 48 Cr",
+            "Rs 49 Cr",
+            "Rs 50 Cr",
+            "Rs 51 Cr",
+            "Rs 52 Cr"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What were the total receipts, excluding borrowings, in April of the current financial year?",
-        "a": "\u20b92.13 trillion",
+        "q": "What was the value of the initial public offering (IPO) that Prism, the parent firm of Oyo, secured clearance from SEBI to raise?",
+        "a": "\u20b96,650 crore",
         "options": [
-            "\u20b92.00 trillion",
-            "\u20b92.20 trillion",
-            "\u20b92.13 trillion",
-            "\u20b92.30 trillion",
-            "\u20b92.40 trillion"
+            "\u20b96,600 Cr",
+            "\u20b96,625 Cr",
+            "\u20b96,650 Cr",
+            "\u20b96,675 Cr",
+            "\u20b96,700 Cr"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the non-tax revenue collected in April of the current financial year?",
-        "a": "\u20b924,293 crore",
+        "q": "What is the expected valuation of Oyo after its proposed public offering, in US dollars?",
+        "a": "$7 billion",
         "options": [
-            "\u20b924,000 crore",
-            "\u20b925,000 crore",
-            "\u20b924,293 crore",
-            "\u20b923,500 crore",
-            "\u20b924,800 crore"
+            "$6.5 billion",
+            "$6.8 billion",
+            "$7.0 billion",
+            "$7.2 billion",
+            "$7.5 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total government expenditure in April of the current financial year?",
-        "a": "\u20b95.75 trillion",
+        "q": "How much did Oyo initially target to raise in its first IPO attempt in 2021, in crores of rupees?",
+        "a": "\u20b98,430 crore",
         "options": [
-            "\u20b95.60 trillion",
-            "\u20b95.80 trillion",
-            "\u20b95.75 trillion",
-            "\u20b95.50 trillion",
-            "\u20b95.90 trillion"
+            "\u20b98,400 Cr",
+            "\u20b98,415 Cr",
+            "\u20b98,430 Cr",
+            "\u20b98,445 Cr",
+            "\u20b98,460 Cr"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of GDP is the government's budgeted fiscal deficit for FY27?",
-        "a": "4.3%",
+        "q": "What was the target valuation for Oyo in its first IPO attempt in 2021, in US dollars?",
+        "a": "$12 billion",
         "options": [
-            "4.0%",
-            "4.5%",
-            "4.3%",
-            "4.2%",
-            "4.4%"
+            "$11.5 billion",
+            "$11.8 billion",
+            "$12.0 billion",
+            "$12.2 billion",
+            "$12.5 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the food subsidy expenditure in April of the current financial year?",
-        "a": "\u20b921,600 crore",
+        "q": "What was the approximate exchange rate of the Iranian rial to the US dollar in 2015?",
+        "a": "32,000 rials",
         "options": [
-            "\u20b921,000 crore",
-            "\u20b922,000 crore",
-            "\u20b921,600 crore",
-            "\u20b920,500 crore",
-            "\u20b922,500 crore"
+            "31,500 rials",
+            "31,800 rials",
+            "32,000 rials",
+            "32,200 rials",
+            "32,500 rials"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the urea subsidy spending in April of the current financial year?",
-        "a": "\u20b919,796 crore",
+        "q": "What is the maximum annual inflation rate, in percentage, that economist Saeed Leilaz stated Iran's society cannot tolerate?",
+        "a": "25%",
         "options": [
-            "\u20b919,500 crore",
-            "\u20b920,000 crore",
-            "\u20b919,796 crore",
-            "\u20b918,500 crore",
-            "\u20b920,500 crore"
+            "23%",
+            "24%",
+            "25%",
+            "26%",
+            "27%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much did the Centre spend on servicing debt during April of the current financial year?",
-        "a": "\u20b91.10 trillion",
+        "q": "How many judges does the Supreme Court have after the recent appointments, reaching a record high?",
+        "a": "37",
         "options": [
-            "\u20b91.00 trillion",
-            "\u20b91.20 trillion",
-            "\u20b91.10 trillion",
-            "\u20b90.90 trillion",
-            "\u20b91.15 trillion"
+            "35",
+            "36",
+            "37",
+            "38",
+            "39"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who released the latest accounts reflecting India's fiscal deficit data?",
-        "a": "Controller General of Accounts (CGA)",
+        "q": "How many hills in Rajasthan, out of 12,081, were reported to satisfy the 100-meter elevation criterion according to the October 2025 report?",
+        "a": "1,048",
         "options": [
-            "Reserve Bank of India (RBI)",
-            "Ministry of Finance",
-            "Controller General of Accounts (CGA)",
-            "National Statistical Office (NSO)",
-            "Securities and Exchange Board of India (SEBI)"
+            "1,038",
+            "1,043",
+            "1,048",
+            "1,053",
+            "1,058"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was appointed as the new Chairperson of the Central Board of Secondary Education (CBSE)?",
+        "a": "Lokhande Prashant Sitaram",
+        "options": [
+            "Himanshu Gupta",
+            "Rahul Singh",
+            "Varun Bhardwaj",
+            "Lokhande Prashant Sitaram",
+            "Sarthak Sidhant"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the chief policy advisor at EY India mentioned in the news text?",
-        "a": "D.K. Srivastava",
+        "q": "Who was the former Chairperson of CBSE who was shunted out and appointed as an additional secretary in the Ministry of Agriculture and Farmers Welfare?",
+        "a": "Rahul Singh",
         "options": [
-            "Raghuram Rajan",
-            "Urjit Patel",
-            "D.K. Srivastava",
-            "Arvind Subramanian",
-            "Montek Singh Ahluwalia"
+            "Lokhande Prashant Sitaram",
+            "Himanshu Gupta",
+            "Varun Bhardwaj",
+            "Rahul Singh",
+            "Ajay Tyagi"
         ],
         "cat": "Who"
     },
     {
-        "q": "What was the main reason cited for the decline in government receipts in April?",
-        "a": "Centre's decision to cut excise duty on petrol and diesel",
+        "q": "Who was appointed as the new CBSE Secretary, replacing Himanshu Gupta?",
+        "a": "Varun Bhardwaj",
         "options": [
-            "Reduction in corporate tax collection",
-            "Lower-than-expected GST revenue",
-            "Centre's decision to cut excise duty on petrol and diesel",
-            "Decrease in non-tax revenue from PSUs",
-            "Higher tax refunds issued"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Ministry of Jal Shakti signed an MoU with which organization to strengthen satellite technology use for water resource management?",
-        "a": "Indian Space Research Organisation (ISRO)",
-        "options": [
-            "Defence Research and Development Organisation (DRDO)",
-            "National Remote Sensing Centre (NRSC)",
-            "Indian Space Research Organisation (ISRO)",
-            "Geological Survey of India (GSI)",
-            "National Water Development Agency (NWDA)"
+            "Himanshu Gupta",
+            "Lokhande Prashant Sitaram",
+            "Varun Bhardwaj",
+            "Rahul Singh",
+            "Ritesh Agarwal"
         ],
         "cat": "Who"
     },
     {
-        "q": "What is the maximum funding support per project for the new water research mission launched by the Ministry of Jal Shakti?",
-        "a": "\u20b920 crore",
+        "q": "Which student highlighted alleged discrepancies in CBSE's OSM tendering process?",
+        "a": "Sarthak Sidhant",
         "options": [
-            "\u20b910 crore",
-            "\u20b915 crore",
-            "\u20b920 crore",
-            "\u20b925 crore",
-            "\u20b930 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the target number of water conservation structures for the third phase of the Jal Sanchay Jan Bhagidari (JSJB) campaign?",
-        "a": "Two crore",
-        "options": [
-            "One crore",
-            "One and a half crore",
-            "Two crore",
-            "Two and a half crore",
-            "Three crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the current Union Jal Shakti Minister?",
-        "a": "CR Patil",
-        "options": [
-            "Gajendra Singh Shekhawat",
-            "Jitendra Singh",
-            "CR Patil",
-            "Prakash Javadekar",
-            "Bhupender Yadav"
+            "Digvijaya Singh",
+            "Ritesh Agarwal",
+            "Sarthak Sidhant",
+            "Akriti Anand",
+            "Masoud Pezeshkian"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the ISRO Chairman and Department of Space Secretary mentioned in the news?",
-        "a": "V Narayanan",
+        "q": "Who administered the oath of office to the five newly appointed judges of the Supreme Court?",
+        "a": "Chief Justice Surya Kant",
         "options": [
-            "S. Somanath",
-            "K. Sivan",
-            "V Narayanan",
-            "A.S. Kiran Kumar",
-            "Madhavan Nair"
+            "Justice Pankaj Mithal",
+            "Justice J K Maheshwari",
+            "Chief Justice Surya Kant",
+            "Justice B V Nagarathna",
+            "Justice Sheel Nagu"
         ],
         "cat": "Who"
     },
     {
-        "q": "Where was the national workshop on research and development (R&D) in the water sector organized?",
-        "a": "Dr Ambedkar International Centre",
+        "q": "Who among the following was NOT one of the five newly appointed judges of the Supreme Court?",
+        "a": "Justice Pankaj Mithal",
         "options": [
-            "Vigyan Bhawan",
-            "India Habitat Centre",
-            "Dr Ambedkar International Centre",
-            "Jawaharlal Nehru Stadium",
-            "National Centre for Earth Sciences Studies"
+            "Justice Sheel Nagu",
+            "Justice Shree Chandrashekhar",
+            "Justice Pankaj Mithal",
+            "Justice Arun Palli",
+            "Justice V Mohana"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who will be the Chief Justice of India in September 2027, making her one of the two serving women judges currently?",
+        "a": "Justice B V Nagarathna",
+        "options": [
+            "Justice V Mohana",
+            "Justice Sheel Nagu",
+            "Justice Shree Chandrashekhar",
+            "Justice B V Nagarathna",
+            "Kanchan Devi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who founded Oyo in 2012?",
+        "a": "Ritesh Agarwal",
+        "options": [
+            "Ajay Tyagi",
+            "SoftBank",
+            "Ritesh Agarwal",
+            "Sarthak Sidhant",
+            "Masoud Pezeshkian"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was appointed as an independent director on Prism's board, the parent firm of Oyo?",
+        "a": "Ajay Tyagi",
+        "options": [
+            "Ritesh Agarwal",
+            "SoftBank",
+            "Ajay Tyagi",
+            "Rahul Singh",
+            "Varun Bhardwaj"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who heads the high-powered committee constituted by the Supreme Court to review the Aravalli hill range report?",
+        "a": "Kanchan Devi",
+        "options": [
+            "Dr. Subhash Ashutosh",
+            "Dr. Rajendra Kumar Sharma",
+            "Kanchan Devi",
+            "Brij Mohan Singh Rathore",
+            "Prof. Ashok K. Bhatnagar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who chaired the Boundary Commission established under the Mountbatten Plan?",
+        "a": "Sir Cyril Radcliffe",
+        "options": [
+            "Lord Mountbatten",
+            "Jawaharlal Nehru",
+            "Mohammed Ali Jinnah",
+            "Sardar Vallabhbhai Patel",
+            "Sir Cyril Radcliffe"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Viceroy of India when the Mountbatten Plan was proposed?",
+        "a": "Lord Mountbatten",
+        "options": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Lord Mountbatten",
+            "Mohammed Ali Jinnah",
+            "Sir Cyril Radcliffe"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which university did Lokhande Prashant Sitaram obtain his BE in Mechanical Engineering from?",
+        "a": "Pune University",
+        "options": [
+            "Delhi University",
+            "Panjab University",
+            "Pune University",
+            "Mumbai University",
+            "NITIE Mumbai"
         ],
         "cat": "Where"
     },
     {
-        "q": "By which year does India aim to achieve the goal of Viksit Bharat, as mentioned by the Union Jal Shakti Minister?",
-        "a": "2047",
+        "q": "Which high court did Justice Sheel Nagu first become an additional judge of?",
+        "a": "Madhya Pradesh High Court",
         "options": [
-            "2030",
-            "2035",
-            "2047",
-            "2050",
-            "2040"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the MoU signed between the Ministry of Jal Shakti and ISRO?",
-        "a": "To strengthen the use of satellite technology and space-based applications for water resource management",
-        "options": [
-            "To develop new satellite launching capabilities",
-            "To explore interstellar water bodies",
-            "To strengthen the use of satellite technology and space-based applications for water resource management",
-            "To privatize water distribution channels",
-            "To conduct a census of all water bodies"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary objective of the 'JSJB-Catch the Rain' portal?",
-        "a": "To allow district administrations to document and verify water conservation structures",
-        "options": [
-            "To facilitate online payment for water bills",
-            "To provide real-time weather forecasts",
-            "To allow district administrations to document and verify water conservation structures",
-            "To encourage rainwater harvesting in urban areas only",
-            "To promote international collaboration in water management"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many water conservation structures were created in the first phase of the campaign, surpassing its target?",
-        "a": "27.5 lakh",
-        "options": [
-            "10 lakh",
-            "15 lakh",
-            "27.5 lakh",
-            "20 lakh",
-            "30 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the funding limit for eligible projects under the MAHA-Water programme?",
-        "a": "Up to \u20b920 crore",
-        "options": [
-            "Up to \u20b95 crore",
-            "Up to \u20b910 crore",
-            "Up to \u20b920 crore",
-            "Up to \u20b925 crore",
-            "Up to \u20b930 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the CEO of Anusandhan National Research Foundation (ANRF) mentioned in the news?",
-        "a": "Shivkumar Kalyanaraman",
-        "options": [
-            "K. VijayRaghavan",
-            "Anil Kakodkar",
-            "Shivkumar Kalyanaraman",
-            "R. Chidambaram",
-            "C.N.R. Rao"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the current estimated size of India's space economy?",
-        "a": "Nearly USD 9 billion",
-        "options": [
-            "Nearly USD 5 billion",
-            "Nearly USD 7 billion",
-            "Nearly USD 9 billion",
-            "Nearly USD 10 billion",
-            "Nearly USD 12 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the maximum funding available for start-ups and MSMEs under the revised R&D guidelines of the Department of Water Resources?",
-        "a": "Up to \u20b92 crore",
-        "options": [
-            "Up to \u20b950 lakh",
-            "Up to \u20b91 crore",
-            "Up to \u20b92 crore",
-            "Up to \u20b93 crore",
-            "Up to \u20b95 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the fine imposed by SEBI on Suzlon Energy Ltd for inflating its net worth?",
-        "a": "\u20b928.6 crore",
-        "options": [
-            "\u20b925.0 crore",
-            "\u20b930.0 crore",
-            "\u20b928.6 crore",
-            "\u20b927.5 crore",
-            "\u20b929.0 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total equity share capital raised by Suzlon using misreported accounts, according to SEBI?",
-        "a": "\u20b91,800 crore",
-        "options": [
-            "\u20b91,500 crore",
-            "\u20b92,000 crore",
-            "\u20b91,800 crore",
-            "\u20b91,600 crore",
-            "\u20b91,900 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which market regulator imposed a fine on Suzlon Energy Ltd?",
-        "a": "Securities & Exchange Board of India (SEBI)",
-        "options": [
-            "Reserve Bank of India (RBI)",
-            "Competition Commission of India (CCI)",
-            "Securities & Exchange Board of India (SEBI)",
-            "Ministry of Corporate Affairs (MCA)",
-            "Insurance Regulatory and Development Authority of India (IRDAI)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On which day did Suzlon Energy Ltd shares tank on the BSE due to the SEBI fine?",
-        "a": "Monday",
-        "options": [
-            "Tuesday",
-            "Wednesday",
-            "Monday",
-            "Thursday",
-            "Friday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the record high value of UPI transactions in May?",
-        "a": "\u20b929.90 lakh crore",
-        "options": [
-            "\u20b929.00 lakh crore",
-            "\u20b930.00 lakh crore",
-            "\u20b929.90 lakh crore",
-            "\u20b928.50 lakh crore",
-            "\u20b930.50 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the record high volume of UPI transactions in May?",
-        "a": "23.2 billion",
-        "options": [
-            "22.5 billion",
-            "23.0 billion",
-            "23.2 billion",
-            "24.0 billion",
-            "21.5 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which organization released the data on UPI transactions?",
-        "a": "National Payments Corporation of India (NPCI)",
-        "options": [
-            "Reserve Bank of India (RBI)",
-            "Ministry of Finance",
-            "National Payments Corporation of India (NPCI)",
-            "Indian Banks' Association (IBA)",
-            "NPCI International Payments Ltd (NIPL)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "In which month were UPI transactions reported to have reached a record high value and volume?",
-        "a": "May",
-        "options": [
-            "March",
-            "April",
-            "May",
-            "June",
-            "July"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the average ticket size of UPI transactions in 2025?",
-        "a": "\u20b91,313",
-        "options": [
-            "\u20b91,848",
-            "\u20b91,500",
-            "\u20b91,313",
-            "\u20b91,200",
-            "\u20b91,400"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "According to the news, which of the following countries is NOT mentioned where UPI is currently live?",
-        "a": "Thailand",
-        "options": [
-            "UAE",
-            "Singapore",
-            "Bhutan",
-            "Thailand",
-            "Nepal"
+            "Delhi High Court",
+            "Jharkhand High Court",
+            "Madhya Pradesh High Court",
+            "Punjab and Haryana High Court",
+            "Rajasthan High Court"
         ],
         "cat": "Where"
     },
     {
-        "q": "What was the gross GST collection in May?",
-        "a": "Over \u20b91.94 lakh crore",
+        "q": "Which high court did Justice Shree Chandrashekhar serve as an additional judge before becoming a permanent judge?",
+        "a": "Jharkhand High Court",
         "options": [
-            "\u20b91.88 lakh crore",
-            "\u20b91.90 lakh crore",
-            "Over \u20b91.94 lakh crore",
-            "\u20b92.00 lakh crore",
-            "\u20b91.92 lakh crore"
+            "Delhi High Court",
+            "Jharkhand High Court",
+            "Madhya Pradesh High Court",
+            "Punjab and Haryana High Court",
+            "Rajasthan High Court"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the gross CGST collection from domestic transactions during May?",
-        "a": "\u20b937,397 crore",
+        "q": "From which university's Campus Law Centre did Justice Shree Chandrashekhar complete his LLB?",
+        "a": "University of Delhi",
         "options": [
-            "\u20b937,000 crore",
-            "\u20b937,500 crore",
-            "\u20b937,397 crore",
-            "\u20b936,500 crore",
-            "\u20b938,000 crore"
+            "Panjab University",
+            "Pune University",
+            "University of Delhi",
+            "Coimbatore Law College",
+            "NITIE Mumbai"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the IGST collection from imports in May?",
-        "a": "\u20b959,654 crore",
+        "q": "Justice Sanjeev Sachdeva obtained his LLB degree from which university's Campus Law Centre?",
+        "a": "Delhi University",
         "options": [
-            "\u20b959,000 crore",
-            "\u20b960,000 crore",
-            "\u20b959,654 crore",
-            "\u20b958,500 crore",
-            "\u20b961,000 crore"
+            "Panjab University",
+            "Pune University",
+            "Delhi University",
+            "Coimbatore Law College",
+            "Mumbai University"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the net GST revenue in May, after adjusting refunds?",
-        "a": "About \u20b91.67 lakh crore",
+        "q": "Justice Arun Palli completed his Bachelor of Laws from which university?",
+        "a": "Panjab University",
         "options": [
-            "About \u20b91.60 lakh crore",
-            "About \u20b91.70 lakh crore",
-            "About \u20b91.67 lakh crore",
-            "About \u20b91.75 lakh crore",
-            "About \u20b91.65 lakh crore"
+            "Delhi University",
+            "Panjab University",
+            "Pune University",
+            "Coimbatore Law College",
+            "Mumbai University"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "When were the gross GST collection figures for May released?",
-        "a": "Monday (June 1, 2026)",
+        "q": "Justice V Mohana graduated from which law college?",
+        "a": "Coimbatore Law College",
         "options": [
-            "Sunday (May 31, 2026)",
-            "Monday (June 1, 2026)",
-            "Tuesday (June 2, 2026)",
-            "Wednesday (June 3, 2026)",
-            "Thursday (June 4, 2026)"
+            "Delhi University Law Centre",
+            "Panjab University",
+            "Pune University",
+            "Coimbatore Law College",
+            "Mumbai University Law"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "What was the all-time high GST mop-up recorded in April?",
-        "a": "\u20b92.43 lakh crore",
+        "q": "In which region did Oyo recently enter the vacation homes segment with its European brand DanCenter by opening villas for rent in India?",
+        "a": "Goa",
         "options": [
-            "\u20b92.35 lakh crore",
-            "\u20b92.40 lakh crore",
-            "\u20b92.43 lakh crore",
-            "\u20b92.50 lakh crore",
-            "\u20b92.30 lakh crore"
+            "Rajasthan",
+            "Kerala",
+            "Goa",
+            "Himachal Pradesh",
+            "Uttarakhand"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the increase in IGST collection from imports during May?",
-        "a": "19.1%",
+        "q": "Iran launched missiles towards US military facilities in which two countries?",
+        "a": "Kuwait and Bahrain",
         "options": [
-            "18.5%",
-            "19.0%",
-            "19.1%",
-            "19.5%",
-            "20.0%"
+            "Saudi Arabia and UAE",
+            "Iraq and Syria",
+            "Kuwait and Bahrain",
+            "Qatar and Oman",
+            "Jordan and Egypt"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the working strength of the Supreme Court after the appointment of five new judges?",
-        "a": "37 judges",
+        "q": "Which specific Iranian island was targeted by the US military in response to Iran's missile launches?",
+        "a": "Qeshm Island",
         "options": [
-            "33 judges",
-            "35 judges",
-            "37 judges",
-            "38 judges",
-            "39 judges"
+            "Kish Island",
+            "Hormuz Island",
+            "Qeshm Island",
+            "Lavan Island",
+            "Abu Musa Island"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "How many positions remained vacant in the Supreme Court after the new appointments?",
-        "a": "One",
+        "q": "Where is the Indian Institute for Human Settlements, where Professor Jagdish Krishnaswamy, a special invitee to the Aravalli committee, is based?",
+        "a": "Bengaluru",
         "options": [
-            "None",
-            "One",
-            "Two",
-            "Three",
-            "Four"
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Hyderabad",
+            "Bengaluru"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "Who administered the oath of office to the five new Supreme Court judges?",
-        "a": "CJI Surya Kant",
+        "q": "Where is the Central University of Haryana, where Prof. Laxmikant Sharma, a special invitee to the Aravalli committee, is affiliated?",
+        "a": "Mahendragarh",
         "options": [
-            "President of India",
-            "Vice President of India",
-            "Prime Minister of India",
-            "CJI Surya Kant",
-            "Union Law Minister"
+            "Rohtak",
+            "Hisar",
+            "Sonipat",
+            "Mahendragarh",
+            "Panchkula"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Which High Court Chief Justice was NOT among those elevated to the Supreme Court?",
-        "a": "Delhi High Court Chief Justice",
+        "q": "In which month and year was Lokhande Prashant Sitaram promoted (in-situ) to the position of Additional Secretary?",
+        "a": "March 2026",
         "options": [
-            "Punjab and Haryana High Court Chief Justice",
-            "Bombay High Court Chief Justice",
-            "Madhya Pradesh High Court Chief Justice",
-            "Delhi High Court Chief Justice",
-            "High Court of Jammu & Kashmir and Ladakh Chief Justice"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the second woman to be elevated directly from the Bar to the Supreme Court?",
-        "a": "V. Mohana",
-        "options": [
-            "Justice B.V. Nagarathna",
-            "Justice Indu Malhotra",
-            "V. Mohana",
-            "Justice Hima Kohli",
-            "Justice Bela M. Trivedi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date did the Supreme Court (Number of Judges) Amendment Ordinance, 2026, get promulgated?",
-        "a": "May 16",
-        "options": [
-            "April 15",
-            "May 10",
-            "May 16",
-            "June 1",
-            "May 27"
+            "February 2026",
+            "March 2026",
+            "April 2026",
+            "May 2026",
+            "June 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the Supreme Court's sanctioned strength increased to (excluding the CJI) by the recent Ordinance?",
-        "a": "37 judges",
+        "q": "What is the deadline for the Supreme Court's high-powered committee to submit its comprehensive report on the Aravalli hill range?",
+        "a": "August 31, 2026",
         "options": [
-            "33 judges",
-            "35 judges",
-            "37 judges",
-            "38 judges",
-            "39 judges"
+            "July 31, 2026",
+            "August 15, 2026",
+            "August 31, 2026",
+            "September 15, 2026",
+            "September 30, 2026"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "In which year was Justice Indu Malhotra elevated as the first woman directly from the Bar to the Supreme Court?",
-        "a": "2018",
+        "q": "When was the Mountbatten Plan, the blueprint for the partition of colonial India, proposed?",
+        "a": "June 3, 1947",
         "options": [
-            "2016",
-            "2017",
-            "2018",
+            "May 15, 1947",
+            "June 1, 1947",
+            "June 3, 1947",
+            "June 15, 1947",
+            "July 3, 1947"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did the Indian Independence Act, marking the official end of British rule, set the date for the transfer of power?",
+        "a": "August 15, 1947",
+        "options": [
+            "August 10, 1947",
+            "August 12, 1947",
+            "August 15, 1947",
+            "August 18, 1947",
+            "August 20, 1947"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In what year was Oyo founded by Ritesh Agarwal?",
+        "a": "2012",
+        "options": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year did Oyo first file for an IPO, targeting a $12 billion valuation?",
+        "a": "2021",
+        "options": [
             "2019",
-            "2020"
+            "2020",
+            "2021",
+            "2022",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the primary reason for promulgating the Supreme Court (Number of Judges) Amendment Ordinance, 2026?",
-        "a": "Addressing the Court\u2019s mounting backlog of cases and facilitating the regular convening of Constitution Benches",
+        "q": "In which month and year did Prism file its preliminary IPO papers with SEBI through the confidential route?",
+        "a": "December 2025",
         "options": [
-            "To increase regional representation",
-            "To improve gender diversity on the Bench",
-            "To address the Court\u2019s mounting backlog of cases and facilitating the regular convening of Constitution Benches",
-            "To reduce the retirement age of judges",
-            "To streamline the collegium system"
+            "October 2025",
+            "November 2025",
+            "December 2025",
+            "January 2026",
+            "February 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month will Prism expect to file a public Updated Draft Red Herring Prospectus (UDRHP-1)?",
+        "a": "Early July",
+        "options": [
+            "Early May",
+            "Early June",
+            "Early July",
+            "Early August",
+            "Early September"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Justice Sheel Nagu take oath as the chief justice of the Punjab and Haryana High Court?",
+        "a": "July 9, 2024",
+        "options": [
+            "July 1, 2024",
+            "July 5, 2024",
+            "July 9, 2024",
+            "July 15, 2024",
+            "July 20, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was Justice Sanjeev Sachdeva elevated to the post of an additional judge of the Delhi High Court?",
+        "a": "April 7, 2013",
+        "options": [
+            "March 15, 2013",
+            "April 1, 2013",
+            "April 7, 2013",
+            "April 15, 2013",
+            "May 1, 2013"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When was the October 2025 report by the MoEFCC Secretary, regarding the Aravalli hill range, stayed by the Supreme Court?",
+        "a": "December 29",
+        "options": [
+            "December 15",
+            "December 20",
+            "December 29",
+            "January 5",
+            "January 10"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "When did Justice B V Nagarathna become a judge at the Supreme Court?",
+        "a": "August 31, 2021",
+        "options": [
+            "August 20, 2021",
+            "August 25, 2021",
+            "August 31, 2021",
+            "September 5, 2021",
+            "September 10, 2021"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why was a one-member inquiry committee constituted by the Centre regarding CBSE?",
+        "a": "To examine issues related to OSM system procurement",
+        "options": [
+            "To review curriculum changes",
+            "To investigate teacher appointments",
+            "To examine issues related to OSM system procurement",
+            "To assess board exam results",
+            "To finalize new school affiliations"
         ],
         "cat": "Why"
     },
     {
-        "q": "Bellatrix Aerospace, an Indian space start-up, will help which South Korean space company in an upcoming VLEO satellite mission?",
-        "a": "TelePIX",
+        "q": "What was the primary reason for the controversy surrounding the CBSE's On-Screen Marking (OSM) system?",
+        "a": "Alleged irregularities in OSM system for Class 12 exams",
         "options": [
-            "Korea Aerospace Industries (KAI)",
-            "Hanwha Systems",
-            "TelePIX",
-            "Satrec Initiative",
-            "LIG Nex1"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the approximate altitude range for Very Low Earth Orbit (VLEO) satellites?",
-        "a": "150 km to 250 km",
-        "options": [
-            "50 km to 100 km",
-            "100 km to 150 km",
-            "150 km to 250 km",
-            "250 km to 400 km",
-            "400 km to 500 km"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the target year for the launch and mission commencement of the Bellatrix Aerospace and TelePIX VLEO satellite?",
-        "a": "2028",
-        "options": [
-            "2026",
-            "2027",
-            "2028",
-            "2029",
-            "2030"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the significance of VLEO satellites compared to conventional LEO satellites?",
-        "a": "Enable significantly higher-resolution imaging capabilities",
-        "options": [
-            "Require less power for operation",
-            "Have a longer orbital lifespan",
-            "Enable significantly higher-resolution imaging capabilities",
-            "Experience less atmospheric drag",
-            "Are easier to launch"
+            "Delay in results",
+            "Changes in exam pattern",
+            "Alleged irregularities in OSM system for Class 12 exams",
+            "Misconduct of board officials unrelated to OSM",
+            "Fee hike"
         ],
         "cat": "Why"
     },
     {
-        "q": "Who filed the Public Interest Litigation (PIL) petition regarding non-compliance with disability commission recommendations?",
-        "a": "Shashank Pandey",
+        "q": "Why was Himanshu Gupta prematurely repatriated to his parent cadre?",
+        "a": "Administrative grounds",
         "options": [
-            "Aruna Roy",
-            "Harish Salve",
-            "Shashank Pandey",
-            "Prashant Bhushan",
-            "Kapil Sibal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On what date did the Supreme Court seek the Centre\u2019s response on the disability rights PIL?",
-        "a": "Monday (June 1, 2026)",
-        "options": [
-            "Friday (May 29, 2026)",
-            "Saturday (May 30, 2026)",
-            "Monday (June 1, 2026)",
-            "Tuesday (June 2, 2026)",
-            "Wednesday (June 3, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the deadline for authorities to comply with recommendations of disability commissions under the RPwD Act, 2016?",
-        "a": "Within three months",
-        "options": [
-            "Within one month",
-            "Within two months",
-            "Within three months",
-            "Within six months",
-            "Within one year"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the purpose of Section 93 of the Rights of Persons with Disabilities Act (RPwD), 2016?",
-        "a": "To confer power on disability commissions to penalise defaulting authorities",
-        "options": [
-            "To define the rights of persons with disabilities",
-            "To establish disability commissions",
-            "To provide financial aid to persons with disabilities",
-            "To confer power on disability commissions to penalise defaulting authorities",
-            "To promote inclusive education"
+            "Resignation",
+            "Promotion",
+            "Administrative grounds",
+            "Retirement",
+            "Transfer to a different ministry"
         ],
         "cat": "Why"
     },
     {
-        "q": "According to official figures, in what percentage of cases were reasons for non-compliance furnished by respondent authorities between 2022 and 2024?",
-        "a": "10-15%",
+        "q": "What was the reason for Oyo's withdrawal of its IPO plans in 2023?",
+        "a": "Heightened global market volatility",
         "options": [
-            "5-10%",
-            "10-15%",
-            "15-20%",
-            "20-25%",
-            "25-30%"
+            "Change in business strategy",
+            "Regulatory issues",
+            "Heightened global market volatility",
+            "Lack of investor interest",
+            "Management disagreement"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "Which two Justices formed the Bench that issued notice on the disability rights PIL?",
-        "a": "Justices Vikram Nath and P.B. Varale",
+        "q": "What is the main purpose of the high-powered committee constituted by the Supreme Court regarding the Aravalli hill range?",
+        "a": "To review the Centre's report on Aravalli definition and delineation",
         "options": [
-            "CJI Surya Kant and Justice B.V. Nagarathna",
-            "Justices D.Y. Chandrachud and S.K. Kaul",
-            "Justices Vikram Nath and P.B. Varale",
-            "Justices Hrishikesh Roy and C.T. Ravikumar",
-            "Justices Sanjiv Khanna and B.R. Gavai"
+            "To permit mining activities",
+            "To redefine forest land",
+            "To review the Centre's report on Aravalli definition and delineation",
+            "To oversee new construction projects",
+            "To promote tourism in the Aravallis"
         ],
-        "cat": "Who"
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of establishing the Boundary Commission under the Mountbatten Plan?",
+        "a": "To decide the international boundaries between India and Pakistan",
+        "options": [
+            "To resolve princely states issues",
+            "To decide the international boundaries between India and Pakistan",
+            "To draft the new constitutions",
+            "To manage asset division",
+            "To oversee military transfers"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the core proposal of the Mountbatten Plan for the partition of colonial India?",
+        "a": "Creation of two dominions",
+        "options": [
+            "Single unified India",
+            "Three independent states",
+            "Creation of two dominions",
+            "Direct British rule extension",
+            "Regional autonomies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Supreme Court emphasize the need for an independent body of domain experts for the Aravalli review?",
+        "a": "To undertake a fresh scientific and ecological assessment",
+        "options": [
+            "To speed up mining approvals",
+            "To simplify land acquisition",
+            "To undertake a fresh scientific and ecological assessment",
+            "To reduce environmental regulations",
+            "To increase commercial development"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the primary reason for Iran's inflation rate surging to its highest level since World War II?",
+        "a": "War-related disruptions, US sanctions, and economic mismanagement",
+        "options": [
+            "Increased oil exports",
+            "Reduced government spending",
+            "War-related disruptions, US sanctions, and economic mismanagement",
+            "Successful economic reforms",
+            "Global economic boom"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the main concern raised by Class 12 student Sarthak Sidhant regarding CBSE's OSM tendering process?",
+        "a": "Changes in tender clauses appeared to favour a particular service provider",
+        "options": [
+            "Lack of digital infrastructure",
+            "High cost of tenders",
+            "Changes in tender clauses appeared to favour a particular service provider",
+            "Insufficient bidders",
+            "Slow tendering process"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the specific change in the blacklisting clause that Sidhant highlighted as suspicious in the new RFP for the CBSE OSM system?",
+        "a": "Changed from 'blacklisted earlier' to 'blacklisted currently'",
+        "options": [
+            "Removed blacklisting clause entirely",
+            "Expanded blacklisting criteria",
+            "Changed from 'blacklisted earlier' to 'blacklisted currently'",
+            "Reduced blacklisting period",
+            "Added more blacklisted companies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the Indian Independence Act of 1947 terminate British suzerainty over the princely states?",
+        "a": "To allow them to choose accession or independence",
+        "options": [
+            "To directly absorb them into British India",
+            "To force them to join Pakistan",
+            "To allow them to choose accession or independence",
+            "To maintain British control indefinitely",
+            "To transfer them to UN mandate"
+        ],
+        "cat": "Why"
     }
 ]
