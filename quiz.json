@@ -1,721 +1,792 @@
 [
     {
-        "q": "What was the annual inflation rate in Iran in May, reaching its highest level since World War II?",
-        "a": "77.2%",
+        "q": "What percentage of their missiles did US President Donald Trump state Tehran still has access to?",
+        "a": "21%-22%",
         "options": [
-            "76.8%",
-            "77.0%",
-            "77.2%",
-            "77.4%",
-            "77.6%"
+            "15%-16%",
+            "21%-22%",
+            "25%-26%",
+            "30%-31%",
+            "18%-19%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage did the consumer price index for everyday necessities like medicine and taxi fares jump in Iran from a year earlier?",
-        "a": "113.8%",
+        "q": "How many days was the ceasefire between the US and Iran tentatively agreed to be extended for a new round of talks?",
+        "a": "60 days",
         "options": [
-            "113.4%",
-            "113.6%",
-            "113.8%",
-            "114.0%",
-            "114.2%"
+            "30 days",
+            "45 days",
+            "60 days",
+            "90 days",
+            "120 days"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the monthly inflation increase in Iran in May compared to April?",
-        "a": "8.5%",
+        "q": "How many lives were claimed by Tehran's drone attack on Kuwait's main airport?",
+        "a": "One life",
         "options": [
-            "8.1%",
-            "8.3%",
-            "8.5%",
-            "8.7%",
-            "8.9%"
+            "Zero lives",
+            "One life",
+            "Two lives",
+            "Three lives",
+            "Several lives"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum qualification limit in crores of rupees that Coempt barely met for the CBSE OSM tender, as highlighted by Sarthak Sidhant?",
-        "a": "Rs 50 Cr",
+        "q": "What was the net foreign debt inflow for India in the April-June quarter, according to JM Financial Institutional Securities data?",
+        "a": "$0.5 million",
         "options": [
-            "Rs 48 Cr",
-            "Rs 49 Cr",
-            "Rs 50 Cr",
-            "Rs 51 Cr",
-            "Rs 52 Cr"
+            "$0.1 million",
+            "$0.5 million",
+            "$1.0 million",
+            "$1.5 million",
+            "$2.0 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the value of the initial public offering (IPO) that Prism, the parent firm of Oyo, secured clearance from SEBI to raise?",
-        "a": "\u20b96,650 crore",
+        "q": "What was the aggregate investment limit fixed for government bonds for April-September 2026 under the revised RBI framework?",
+        "a": "\u20b94.62 trillion",
         "options": [
-            "\u20b96,600 Cr",
-            "\u20b96,625 Cr",
-            "\u20b96,650 Cr",
-            "\u20b96,675 Cr",
-            "\u20b96,700 Cr"
+            "\u20b94.50 trillion",
+            "\u20b94.62 trillion",
+            "\u20b94.70 trillion",
+            "\u20b94.77 trillion",
+            "\u20b94.80 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the expected valuation of Oyo after its proposed public offering, in US dollars?",
-        "a": "$7 billion",
+        "q": "What is the aggregate investment limit for state bonds set for October 2026-March 2027 under the revised RBI framework?",
+        "a": "\u20b91.64 trillion",
         "options": [
-            "$6.5 billion",
-            "$6.8 billion",
-            "$7.0 billion",
-            "$7.2 billion",
-            "$7.5 billion"
+            "\u20b91.50 trillion",
+            "\u20b91.53 trillion",
+            "\u20b91.60 trillion",
+            "\u20b91.64 trillion",
+            "\u20b91.70 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much did Oyo initially target to raise in its first IPO attempt in 2021, in crores of rupees?",
-        "a": "\u20b98,430 crore",
+        "q": "What was the opening yield on the 10-year benchmark government bond on Friday?",
+        "a": "6.99%",
         "options": [
-            "\u20b98,400 Cr",
-            "\u20b98,415 Cr",
-            "\u20b98,430 Cr",
-            "\u20b98,445 Cr",
-            "\u20b98,460 Cr"
+            "6.90%",
+            "6.95%",
+            "6.99%",
+            "7.01%",
+            "7.05%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the target valuation for Oyo in its first IPO attempt in 2021, in US dollars?",
-        "a": "$12 billion",
+        "q": "What was the NRI ownership as a percentage of Sensex market capitalization as of the quarter ending March 2026?",
+        "a": "0.7%",
         "options": [
-            "$11.5 billion",
-            "$11.8 billion",
-            "$12.0 billion",
-            "$12.2 billion",
-            "$12.5 billion"
+            "0.5%",
+            "0.7%",
+            "1.0%",
+            "1.2%",
+            "1.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate exchange rate of the Iranian rial to the US dollar in 2015?",
-        "a": "32,000 rials",
+        "q": "What was the total worth of shares pulled out by FPIs from India's secondary market since 2025?",
+        "a": "$57.68 billion",
         "options": [
-            "31,500 rials",
-            "31,800 rials",
-            "32,000 rials",
-            "32,200 rials",
-            "32,500 rials"
+            "$50.00 billion",
+            "$55.00 billion",
+            "$57.68 billion",
+            "$60.00 billion",
+            "$62.50 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the maximum annual inflation rate, in percentage, that economist Saeed Leilaz stated Iran's society cannot tolerate?",
-        "a": "25%",
+        "q": "By what percentage had Brent crude rallied since the West Asia conflict began on 28 February?",
+        "a": "31%",
         "options": [
-            "23%",
-            "24%",
             "25%",
-            "26%",
-            "27%"
+            "28%",
+            "31%",
+            "34%",
+            "37%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many judges does the Supreme Court have after the recent appointments, reaching a record high?",
-        "a": "37",
+        "q": "What was India's GDP growth estimated at for the overall financial year 2025-26?",
+        "a": "7.7%",
         "options": [
-            "35",
-            "36",
-            "37",
-            "38",
-            "39"
+            "7.0%",
+            "7.1%",
+            "7.5%",
+            "7.7%",
+            "7.8%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many hills in Rajasthan, out of 12,081, were reported to satisfy the 100-meter elevation criterion according to the October 2025 report?",
-        "a": "1,048",
+        "q": "What is the policy Repo Rate maintained by the Monetary Policy Committee (MPC)?",
+        "a": "5.25%",
         "options": [
-            "1,038",
-            "1,043",
-            "1,048",
-            "1,053",
-            "1,058"
+            "4.75%",
+            "5.00%",
+            "5.25%",
+            "5.50%",
+            "5.75%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who was appointed as the new Chairperson of the Central Board of Secondary Education (CBSE)?",
-        "a": "Lokhande Prashant Sitaram",
+        "q": "What is the projected inflation number for FY27, increased by the MPC?",
+        "a": "5.1%",
         "options": [
-            "Himanshu Gupta",
-            "Rahul Singh",
-            "Varun Bhardwaj",
-            "Lokhande Prashant Sitaram",
-            "Sarthak Sidhant"
+            "4.5%",
+            "4.8%",
+            "5.1%",
+            "5.4%",
+            "5.7%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the proposed initial public offering (IPO) amount for Truhome Finance Limited?",
+        "a": "\u20b93,000 crore",
+        "options": [
+            "\u20b92,500 crore",
+            "\u20b92,800 crore",
+            "\u20b93,000 crore",
+            "\u20b93,200 crore",
+            "\u20b93,500 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the growth rate of private final consumption expenditure (PFCE) estimated for 2025-26?",
+        "a": "7.7%",
+        "options": [
+            "6.5%",
+            "7.0%",
+            "7.2%",
+            "7.7%",
+            "8.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the capital gains tax rate on shares worth over \u20b91 lakh if sold after one year?",
+        "a": "12.5%",
+        "options": [
+            "10%",
+            "12.5%",
+            "15%",
+            "17.5%",
+            "20%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The RBI lowered its real GDP growth expectations for 2026-27 to what percentage?",
+        "a": "6.6%",
+        "options": [
+            "6.0%",
+            "6.3%",
+            "6.6%",
+            "6.9%",
+            "7.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the Sensex decline in points on Friday?",
+        "a": "116.67 points",
+        "options": [
+            "100.00 points",
+            "110.50 points",
+            "116.67 points",
+            "120.25 points",
+            "130.00 points"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the percentage fall in the Kospi index in Asian markets on Friday?",
+        "a": "5.5%",
+        "options": [
+            "4.0%",
+            "4.5%",
+            "5.0%",
+            "5.5%",
+            "6.0%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the current Securities Transaction Tax (STT) levied on equity cash?",
+        "a": "0.1%",
+        "options": [
+            "0.05%",
+            "0.1%",
+            "0.15%",
+            "0.2%",
+            "0.25%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which US President claimed that 'final negotiations' to end the war with Iran were in process?",
+        "a": "Donald Trump",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the former Chairperson of CBSE who was shunted out and appointed as an additional secretary in the Ministry of Agriculture and Farmers Welfare?",
-        "a": "Rahul Singh",
+        "q": "Who is the current Foreign Minister of Iran mentioned in the news text?",
+        "a": "Abbas Araghchi",
         "options": [
-            "Lokhande Prashant Sitaram",
-            "Himanshu Gupta",
-            "Varun Bhardwaj",
-            "Rahul Singh",
-            "Ajay Tyagi"
+            "Mohammad Javad Zarif",
+            "Abbas Araghchi",
+            "Hossein Amir-Abdollahian",
+            "Ali Akbar Salehi",
+            "Manouchehr Mottaki"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was appointed as the new CBSE Secretary, replacing Himanshu Gupta?",
-        "a": "Varun Bhardwaj",
+        "q": "Who is the military adviser to Iran's Supreme Leader Ayatollah Mojtaba Khamenei, quoted in an interview with CNN?",
+        "a": "Mohsen Rezaei",
         "options": [
-            "Himanshu Gupta",
-            "Lokhande Prashant Sitaram",
-            "Varun Bhardwaj",
-            "Rahul Singh",
-            "Ritesh Agarwal"
+            "Mohsen Rezaei",
+            "Ali Shamkhani",
+            "Ali Larijani",
+            "Saeed Jalili",
+            "Gholam-Ali Haddad-Adel"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which student highlighted alleged discrepancies in CBSE's OSM tendering process?",
-        "a": "Sarthak Sidhant",
+        "q": "Who is the US State Department spokesperson mentioned in the news?",
+        "a": "Tommy Pigott",
         "options": [
-            "Digvijaya Singh",
-            "Ritesh Agarwal",
-            "Sarthak Sidhant",
-            "Akriti Anand",
-            "Masoud Pezeshkian"
+            "Ned Price",
+            "Matthew Miller",
+            "Tommy Pigott",
+            "Jen Psaki",
+            "Heather Nauert"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who administered the oath of office to the five newly appointed judges of the Supreme Court?",
-        "a": "Chief Justice Surya Kant",
+        "q": "Which entity introduced the Fully Accessible Route (FAR) in 2020 to facilitate greater foreign participation in India\u2019s sovereign debt market?",
+        "a": "Reserve Bank of India (RBI)",
         "options": [
-            "Justice Pankaj Mithal",
-            "Justice J K Maheshwari",
-            "Chief Justice Surya Kant",
-            "Justice B V Nagarathna",
-            "Justice Sheel Nagu"
+            "SEBI",
+            "Ministry of Finance",
+            "NITI Aayog",
+            "Reserve Bank of India (RBI)",
+            "NABARD"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who among the following was NOT one of the five newly appointed judges of the Supreme Court?",
-        "a": "Justice Pankaj Mithal",
+        "q": "Who is the treasury head at Ujjivan Small Finance Bank, quoted regarding the 10-year bond yield?",
+        "a": "Rajeev Pawar",
         "options": [
-            "Justice Sheel Nagu",
-            "Justice Shree Chandrashekhar",
-            "Justice Pankaj Mithal",
-            "Justice Arun Palli",
-            "Justice V Mohana"
+            "V.R.C. Reddy",
+            "Rajeev Pawar",
+            "Vijay Kuppa",
+            "Nilesh Shah",
+            "Chirag Shah"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who will be the Chief Justice of India in September 2027, making her one of the two serving women judges currently?",
-        "a": "Justice B V Nagarathna",
+        "q": "Who is the Chief Economic Advisor who stated that RBI's assessment of GDP and inflation 'seem fair estimates'?",
+        "a": "V. Anantha Nageswaran",
         "options": [
-            "Justice V Mohana",
-            "Justice Sheel Nagu",
-            "Justice Shree Chandrashekhar",
-            "Justice B V Nagarathna",
-            "Kanchan Devi"
+            "Raghuram Rajan",
+            "Urjit Patel",
+            "V. Anantha Nageswaran",
+            "Arvind Subramanian",
+            "K.V. Subramanian"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who founded Oyo in 2012?",
-        "a": "Ritesh Agarwal",
+        "q": "Who acquired Truhome Finance Limited (formerly Shriram Housing Finance Limited) in December 2024?",
+        "a": "Warburg Pincus",
         "options": [
-            "Ajay Tyagi",
-            "SoftBank",
-            "Ritesh Agarwal",
-            "Sarthak Sidhant",
-            "Masoud Pezeshkian"
+            "Blackstone",
+            "KKR",
+            "The Carlyle Group",
+            "Warburg Pincus",
+            "Apollo Global Management"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was appointed as an independent director on Prism's board, the parent firm of Oyo?",
-        "a": "Ajay Tyagi",
+        "q": "Who was the Finance Minister who reintroduced LTCG at 10% in 2018?",
+        "a": "Arun Jaitley",
         "options": [
-            "Ritesh Agarwal",
-            "SoftBank",
-            "Ajay Tyagi",
-            "Rahul Singh",
-            "Varun Bhardwaj"
+            "P. Chidambaram",
+            "Arun Jaitley",
+            "Nirmala Sitharaman",
+            "Manmohan Singh",
+            "Yashwant Sinha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who heads the high-powered committee constituted by the Supreme Court to review the Aravalli hill range report?",
-        "a": "Kanchan Devi",
+        "q": "Who is the current Reserve Bank of India (RBI) Governor mentioned in the news?",
+        "a": "Sanjay Malhotra",
         "options": [
-            "Dr. Subhash Ashutosh",
-            "Dr. Rajendra Kumar Sharma",
-            "Kanchan Devi",
-            "Brij Mohan Singh Rathore",
-            "Prof. Ashok K. Bhatnagar"
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Raghuram Rajan",
+            "D. Subbarao",
+            "Sanjay Malhotra"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who chaired the Boundary Commission established under the Mountbatten Plan?",
-        "a": "Sir Cyril Radcliffe",
+        "q": "Towards which strait did the US military say Iranian drones were launched?",
+        "a": "Strait of Hormuz",
         "options": [
-            "Lord Mountbatten",
-            "Jawaharlal Nehru",
-            "Mohammed Ali Jinnah",
-            "Sardar Vallabhbhai Patel",
-            "Sir Cyril Radcliffe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Viceroy of India when the Mountbatten Plan was proposed?",
-        "a": "Lord Mountbatten",
-        "options": [
-            "Jawaharlal Nehru",
-            "Sardar Vallabhbhai Patel",
-            "Lord Mountbatten",
-            "Mohammed Ali Jinnah",
-            "Sir Cyril Radcliffe"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which university did Lokhande Prashant Sitaram obtain his BE in Mechanical Engineering from?",
-        "a": "Pune University",
-        "options": [
-            "Delhi University",
-            "Panjab University",
-            "Pune University",
-            "Mumbai University",
-            "NITIE Mumbai"
+            "Strait of Gibraltar",
+            "Strait of Malacca",
+            "Strait of Hormuz",
+            "Bab-el-Mandeb Strait",
+            "Dardanelles Strait"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which high court did Justice Sheel Nagu first become an additional judge of?",
-        "a": "Madhya Pradesh High Court",
+        "q": "Where were two of Islamic Republic's coastal surveillance radar sites struck in retaliation by US Central Command?",
+        "a": "Goruk and on Qeshm Island",
         "options": [
-            "Delhi High Court",
-            "Jharkhand High Court",
-            "Madhya Pradesh High Court",
-            "Punjab and Haryana High Court",
-            "Rajasthan High Court"
+            "Tehran and Isfahan",
+            "Shiraz and Tabriz",
+            "Mashhad and Ahvaz",
+            "Goruk and on Qeshm Island",
+            "Kish Island and Kharg Island"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which high court did Justice Shree Chandrashekhar serve as an additional judge before becoming a permanent judge?",
-        "a": "Jharkhand High Court",
+        "q": "Which country's main airport was attacked by a drone, claiming one life?",
+        "a": "Kuwait",
         "options": [
-            "Delhi High Court",
-            "Jharkhand High Court",
-            "Madhya Pradesh High Court",
-            "Punjab and Haryana High Court",
-            "Rajasthan High Court"
+            "Saudi Arabia",
+            "Qatar",
+            "UAE",
+            "Kuwait",
+            "Oman"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which university's Campus Law Centre did Justice Shree Chandrashekhar complete his LLB?",
-        "a": "University of Delhi",
+        "q": "Where did US President Donald Trump make his statement regarding the situation with Iran going 'quite well' on Friday?",
+        "a": "Wisconsin",
         "options": [
-            "Panjab University",
-            "Pune University",
-            "University of Delhi",
-            "Coimbatore Law College",
-            "NITIE Mumbai"
+            "Washington D.C.",
+            "New York",
+            "Florida",
+            "California",
+            "Wisconsin"
         ],
         "cat": "Where"
     },
     {
-        "q": "Justice Sanjeev Sachdeva obtained his LLB degree from which university's Campus Law Centre?",
-        "a": "Delhi University",
+        "q": "The US Central Command rejected claims that Iran struck which US 5th fleet headquarters?",
+        "a": "Bahrain",
         "options": [
-            "Panjab University",
-            "Pune University",
-            "Delhi University",
-            "Coimbatore Law College",
-            "Mumbai University"
+            "Qatar",
+            "UAE",
+            "Oman",
+            "Bahrain",
+            "Saudi Arabia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Justice Arun Palli completed his Bachelor of Laws from which university?",
-        "a": "Panjab University",
+        "q": "Which country's President did Iran's Foreign Minister Abbas Araghchi appeal to save their country from its 'real foe'?",
+        "a": "Lebanon",
         "options": [
-            "Delhi University",
-            "Panjab University",
-            "Pune University",
-            "Coimbatore Law College",
-            "Mumbai University"
+            "Syria",
+            "Iraq",
+            "Yemen",
+            "Lebanon",
+            "Jordan"
         ],
         "cat": "Where"
     },
     {
-        "q": "Justice V Mohana graduated from which law college?",
-        "a": "Coimbatore Law College",
+        "q": "Where did US forces board a sanctioned oil tanker linked to Iran, as Washington seeks to prevent Iran from profiting off its oil?",
+        "a": "Indian Ocean",
         "options": [
-            "Delhi University Law Centre",
-            "Panjab University",
-            "Pune University",
-            "Coimbatore Law College",
-            "Mumbai University Law"
+            "Persian Gulf",
+            "Arabian Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Indian Ocean"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which region did Oyo recently enter the vacation homes segment with its European brand DanCenter by opening villas for rent in India?",
-        "a": "Goa",
+        "q": "The Reserve Bank of India (RBI) is primarily located in which Indian city?",
+        "a": "Mumbai",
         "options": [
-            "Rajasthan",
-            "Kerala",
-            "Goa",
-            "Himachal Pradesh",
-            "Uttarakhand"
+            "New Delhi",
+            "Bengaluru",
+            "Chennai",
+            "Kolkata",
+            "Mumbai"
         ],
         "cat": "Where"
     },
     {
-        "q": "Iran launched missiles towards US military facilities in which two countries?",
-        "a": "Kuwait and Bahrain",
+        "q": "Truhome Finance Limited is a wholly owned subsidiary of Shriram Finance Limited, which was acquired by New York-based global private equity firm. Which firm is this?",
+        "a": "Warburg Pincus",
         "options": [
-            "Saudi Arabia and UAE",
-            "Iraq and Syria",
-            "Kuwait and Bahrain",
-            "Qatar and Oman",
-            "Jordan and Egypt"
+            "Blackstone",
+            "The Carlyle Group",
+            "Warburg Pincus",
+            "Kohlberg Kravis Roberts",
+            "Apollo Global Management"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which specific Iranian island was targeted by the US military in response to Iran's missile launches?",
-        "a": "Qeshm Island",
-        "options": [
-            "Kish Island",
-            "Hormuz Island",
-            "Qeshm Island",
-            "Lavan Island",
-            "Abu Musa Island"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where is the Indian Institute for Human Settlements, where Professor Jagdish Krishnaswamy, a special invitee to the Aravalli committee, is based?",
+        "q": "The Indian Institute of Journalism and New Media, where Subhana Shaikh completed her postgraduate diploma, is located in which city?",
         "a": "Bengaluru",
         "options": [
-            "Delhi",
             "Mumbai",
+            "New Delhi",
             "Chennai",
-            "Hyderabad",
+            "Kolkata",
             "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is the Central University of Haryana, where Prof. Laxmikant Sharma, a special invitee to the Aravalli committee, is affiliated?",
-        "a": "Mahendragarh",
+        "q": "On what date did the three-month-old war between the US and Iran begin?",
+        "a": "28 February 2026",
         "options": [
-            "Rohtak",
-            "Hisar",
-            "Sonipat",
-            "Mahendragarh",
-            "Panchkula"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which month and year was Lokhande Prashant Sitaram promoted (in-situ) to the position of Additional Secretary?",
-        "a": "March 2026",
-        "options": [
-            "February 2026",
-            "March 2026",
-            "April 2026",
-            "May 2026",
-            "June 2026"
+            "28 December 2025",
+            "28 January 2026",
+            "28 February 2026",
+            "28 March 2026",
+            "28 April 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the deadline for the Supreme Court's high-powered committee to submit its comprehensive report on the Aravalli hill range?",
-        "a": "August 31, 2026",
+        "q": "In which year was the Fully Accessible Route (FAR) framework introduced by the RBI?",
+        "a": "2020",
         "options": [
-            "July 31, 2026",
-            "August 15, 2026",
-            "August 31, 2026",
-            "September 15, 2026",
-            "September 30, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When was the Mountbatten Plan, the blueprint for the partition of colonial India, proposed?",
-        "a": "June 3, 1947",
-        "options": [
-            "May 15, 1947",
-            "June 1, 1947",
-            "June 3, 1947",
-            "June 15, 1947",
-            "July 3, 1947"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "When did the Indian Independence Act, marking the official end of British rule, set the date for the transfer of power?",
-        "a": "August 15, 1947",
-        "options": [
-            "August 10, 1947",
-            "August 12, 1947",
-            "August 15, 1947",
-            "August 18, 1947",
-            "August 20, 1947"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In what year was Oyo founded by Ritesh Agarwal?",
-        "a": "2012",
-        "options": [
-            "2010",
-            "2011",
-            "2012",
-            "2013",
-            "2014"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Oyo first file for an IPO, targeting a $12 billion valuation?",
-        "a": "2021",
-        "options": [
+            "2018",
             "2019",
             "2020",
             "2021",
-            "2022",
-            "2023"
+            "2022"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month and year did Prism file its preliminary IPO papers with SEBI through the confidential route?",
-        "a": "December 2025",
+        "q": "For which period has the aggregate investment limit for government bonds been fixed at \u20b94.77 trillion?",
+        "a": "October 2026-March 2027",
         "options": [
-            "October 2025",
-            "November 2025",
-            "December 2025",
-            "January 2026",
-            "February 2026"
+            "April-September 2026",
+            "October 2026-March 2027",
+            "April-September 2027",
+            "October 2027-March 2028",
+            "January-June 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month will Prism expect to file a public Updated Draft Red Herring Prospectus (UDRHP-1)?",
-        "a": "Early July",
+        "q": "What was the fiscal year in which India's GDP grew at 7.1%?",
+        "a": "2024-25",
         "options": [
-            "Early May",
-            "Early June",
-            "Early July",
-            "Early August",
-            "Early September"
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "2025-26",
+            "2026-27"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Justice Sheel Nagu take oath as the chief justice of the Punjab and Haryana High Court?",
-        "a": "July 9, 2024",
+        "q": "The government updated the base year of the GDP data to which fiscal year earlier this year?",
+        "a": "2022-23",
         "options": [
-            "July 1, 2024",
-            "July 5, 2024",
-            "July 9, 2024",
-            "July 15, 2024",
-            "July 20, 2024"
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Justice Sanjeev Sachdeva elevated to the post of an additional judge of the Delhi High Court?",
-        "a": "April 7, 2013",
+        "q": "In which year was Long Term Capital Gains (LTCG) tax replaced with a securities transaction tax of 0.15% by then finance minister P. Chidambaram?",
+        "a": "2004",
         "options": [
-            "March 15, 2013",
-            "April 1, 2013",
-            "April 7, 2013",
-            "April 15, 2013",
-            "May 1, 2013"
+            "2002",
+            "2004",
+            "2006",
+            "2008",
+            "2010"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the October 2025 report by the MoEFCC Secretary, regarding the Aravalli hill range, stayed by the Supreme Court?",
-        "a": "December 29",
+        "q": "In which month and year was Truhome Finance Limited acquired by Warburg Pincus?",
+        "a": "December 2024",
         "options": [
-            "December 15",
-            "December 20",
-            "December 29",
-            "January 5",
-            "January 10"
+            "October 2024",
+            "November 2024",
+            "December 2024",
+            "January 2025",
+            "February 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Justice B V Nagarathna become a judge at the Supreme Court?",
-        "a": "August 31, 2021",
+        "q": "Until what date will the RBI bear hedging costs on fresh three-to five-year FCNR(B) deposits to attract dollar inflows?",
+        "a": "September 30",
         "options": [
-            "August 20, 2021",
-            "August 25, 2021",
-            "August 31, 2021",
-            "September 5, 2021",
-            "September 10, 2021"
+            "June 30",
+            "July 30",
+            "August 30",
+            "September 30",
+            "October 30"
         ],
         "cat": "When"
     },
     {
-        "q": "Why was a one-member inquiry committee constituted by the Centre regarding CBSE?",
-        "a": "To examine issues related to OSM system procurement",
+        "q": "On which date did the RBI Governor Sanjay Malhotra make the statement regarding India's strong economic condition post-MPC meeting?",
+        "a": "June 5, 2026",
         "options": [
-            "To review curriculum changes",
-            "To investigate teacher appointments",
-            "To examine issues related to OSM system procurement",
-            "To assess board exam results",
-            "To finalize new school affiliations"
+            "May 1, 2026",
+            "May 15, 2026",
+            "June 1, 2026",
+            "June 5, 2026",
+            "June 10, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which fiscal year did the manufacturing sector grow at 10.7% as per the provisional estimates?",
+        "a": "2025-26",
+        "options": [
+            "2023-24",
+            "2024-25",
+            "2025-26",
+            "2026-27",
+            "2022-23"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why did the US military state it struck two of Islamic Republic's coastal surveillance radar sites?",
+        "a": "To defend against further attacks",
+        "options": [
+            "To gather intelligence",
+            "To disrupt communications",
+            "To eliminate military personnel",
+            "To defend against further attacks",
+            "To provoke a wider conflict"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason for the controversy surrounding the CBSE's On-Screen Marking (OSM) system?",
-        "a": "Alleged irregularities in OSM system for Class 12 exams",
+        "q": "What was Iran's clear demand in the peace proposal for resolving the parallel conflict in Lebanon?",
+        "a": "Ceasefire between Israel and Hezbollah",
         "options": [
-            "Delay in results",
-            "Changes in exam pattern",
-            "Alleged irregularities in OSM system for Class 12 exams",
-            "Misconduct of board officials unrelated to OSM",
-            "Fee hike"
+            "Withdrawal of US troops",
+            "End of sanctions",
+            "Ceasefire between Israel and Hezbollah",
+            "Financial aid to Lebanon",
+            "Recognition of Iranian influence"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why was Himanshu Gupta prematurely repatriated to his parent cadre?",
-        "a": "Administrative grounds",
+        "q": "What was the primary purpose of the US Department of the Treasury's OFAC targeting an Iranian LPG smuggling network?",
+        "a": "To prevent Iran from profiting off its oil and other goods",
         "options": [
-            "Resignation",
-            "Promotion",
-            "Administrative grounds",
-            "Retirement",
-            "Transfer to a different ministry"
+            "To reduce global gas prices",
+            "To investigate environmental violations",
+            "To prevent Iran from profiting off its oil and other goods",
+            "To support regional maritime trade",
+            "To impose travel bans on individuals"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the reason for Oyo's withdrawal of its IPO plans in 2023?",
-        "a": "Heightened global market volatility",
+        "q": "What is the overarching goal of the US maintaining 'maximum pressure' on the Iranian regime, as stated by Tommy Pigott?",
+        "a": "Through Economic Fury",
         "options": [
-            "Change in business strategy",
-            "Regulatory issues",
-            "Heightened global market volatility",
-            "Lack of investor interest",
-            "Management disagreement"
+            "To initiate diplomatic talks",
+            "To encourage regime change",
+            "Through Economic Fury",
+            "To provide humanitarian aid",
+            "To promote regional stability"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the main purpose of the high-powered committee constituted by the Supreme Court regarding the Aravalli hill range?",
-        "a": "To review the Centre's report on Aravalli definition and delineation",
+        "q": "What was the main objective behind the RBI easing investment restrictions and expanding the pool of securities under the Fully Accessible Route (FAR)?",
+        "a": "To revive overseas debt inflows",
         "options": [
-            "To permit mining activities",
-            "To redefine forest land",
-            "To review the Centre's report on Aravalli definition and delineation",
-            "To oversee new construction projects",
-            "To promote tourism in the Aravallis"
+            "To increase domestic liquidity",
+            "To control inflation",
+            "To revive overseas debt inflows",
+            "To strengthen the banking sector",
+            "To reduce government expenditure"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the purpose of establishing the Boundary Commission under the Mountbatten Plan?",
-        "a": "To decide the international boundaries between India and Pakistan",
+        "q": "What was one of the reasons cited for the slowdown in foreign investment in Indian debt?",
+        "a": "Narrowing interest-rate differential with the US",
         "options": [
-            "To resolve princely states issues",
-            "To decide the international boundaries between India and Pakistan",
-            "To draft the new constitutions",
-            "To manage asset division",
-            "To oversee military transfers"
+            "High domestic interest rates",
+            "Stronger rupee",
+            "Narrowing interest-rate differential with the US",
+            "Increased government borrowing",
+            "Political stability in the region"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the core proposal of the Mountbatten Plan for the partition of colonial India?",
-        "a": "Creation of two dominions",
+        "q": "Why were the RBI's measures to attract foreign capital from NRIs and OCIs expected to succeed materially if complemented by other measures?",
+        "a": "To increase the ease of doing business",
         "options": [
-            "Single unified India",
-            "Three independent states",
-            "Creation of two dominions",
-            "Direct British rule extension",
-            "Regional autonomies"
+            "To boost domestic consumption",
+            "To increase export competitiveness",
+            "To lower corporate taxes",
+            "To increase the ease of doing business",
+            "To reduce unemployment rates"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Supreme Court emphasize the need for an independent body of domain experts for the Aravalli review?",
-        "a": "To undertake a fresh scientific and ecological assessment",
+        "q": "What was the reason for the RBI's MPC reducing the growth forecast for FY27 and increasing the inflation number?",
+        "a": "Passthrough of higher fuel prices visible in overall price rise",
         "options": [
-            "To speed up mining approvals",
-            "To simplify land acquisition",
-            "To undertake a fresh scientific and ecological assessment",
-            "To reduce environmental regulations",
-            "To increase commercial development"
+            "Stronger economic outlook",
+            "Lower global crude prices",
+            "Passthrough of higher fuel prices visible in overall price rise",
+            "Increased government spending",
+            "Reduced foreign investment"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason for Iran's inflation rate surging to its highest level since World War II?",
-        "a": "War-related disruptions, US sanctions, and economic mismanagement",
+        "q": "What is the primary purpose for which Truhome Finance Limited proposes to utilize the net proceeds from its IPO?",
+        "a": "Augmenting the capital base to meet future capital requirements",
         "options": [
-            "Increased oil exports",
-            "Reduced government spending",
-            "War-related disruptions, US sanctions, and economic mismanagement",
-            "Successful economic reforms",
-            "Global economic boom"
+            "To expand into international markets",
+            "To acquire smaller housing finance companies",
+            "To pay off existing debts",
+            "Augmenting the capital base to meet future capital requirements",
+            "To invest in new technology ventures"
+        ]
+    },
+    {
+        "q": "Why did benchmark indices Sensex and Nifty end lower on Friday?",
+        "a": "Profit-taking after RBI lowered growth expectations and forecast inflation to rise",
+        "options": [
+            "Strong global market performance",
+            "Unexpected policy rate hike",
+            "Profit-taking after RBI lowered growth expectations and forecast inflation to rise",
+            "Increased foreign institutional investment",
+            "Positive economic growth data"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the main concern raised by Class 12 student Sarthak Sidhant regarding CBSE's OSM tendering process?",
-        "a": "Changes in tender clauses appeared to favour a particular service provider",
+        "q": "According to RBI Governor Sanjay Malhotra, what worries the RBI the most regarding the West Asia conflict?",
+        "a": "The duration of the conflict and the time it would take for the restoration of the supply chain",
         "options": [
-            "Lack of digital infrastructure",
-            "High cost of tenders",
-            "Changes in tender clauses appeared to favour a particular service provider",
-            "Insufficient bidders",
-            "Slow tendering process"
+            "The immediate impact on crude oil prices",
+            "The duration of the conflict and the time it would take for the restoration of the supply chain",
+            "The potential for a regional war",
+            "The decline in foreign exchange reserves",
+            "The increase in domestic inflation due to food prices"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the specific change in the blacklisting clause that Sidhant highlighted as suspicious in the new RFP for the CBSE OSM system?",
-        "a": "Changed from 'blacklisted earlier' to 'blacklisted currently'",
+        "q": "Why did the RBI remove the requirement for foreign investors to comply with short-term investment limits, security-wise limits, and concentration limits under the general route?",
+        "a": "To dismantle longstanding restrictions governing FPI investments",
         "options": [
-            "Removed blacklisting clause entirely",
-            "Expanded blacklisting criteria",
-            "Changed from 'blacklisted earlier' to 'blacklisted currently'",
-            "Reduced blacklisting period",
-            "Added more blacklisted companies"
+            "To encourage domestic retail investment",
+            "To simplify tax regulations for FPIs",
+            "To dismantle longstanding restrictions governing FPI investments",
+            "To reduce the volatility in the bond market",
+            "To limit speculative trading by foreign entities"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did the Indian Independence Act of 1947 terminate British suzerainty over the princely states?",
-        "a": "To allow them to choose accession or independence",
+        "q": "What was the objective of the RBI merging the separate \u2018general\u2019 and \u2018long-term\u2019 investment categories into a single limit for government bonds and state bonds?",
+        "a": "To simplify the investment limit structure",
         "options": [
-            "To directly absorb them into British India",
-            "To force them to join Pakistan",
-            "To allow them to choose accession or independence",
-            "To maintain British control indefinitely",
-            "To transfer them to UN mandate"
+            "To increase the total investment capacity for FPIs",
+            "To reduce administrative burden for domestic banks",
+            "To simplify the investment limit structure",
+            "To align with international accounting standards",
+            "To prevent capital flight from the country"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the primary reason for the US military boarding a sanctioned oil tanker linked to Iran in the Indian Ocean?",
+        "a": "To prevent Iran from profiting off its oil and other goods",
+        "options": [
+            "To conduct a safety inspection",
+            "To search for illegal weapons",
+            "To prevent Iran from profiting off its oil and other goods",
+            "To rescue distressed mariners",
+            "To enforce international maritime law"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Prime Minister Narendra Modi post on X following the GDP data release?",
+        "a": "To reflect the inherent strength of the economy and success of reforms",
+        "options": [
+            "To announce new economic policies",
+            "To caution about global uncertainties",
+            "To reflect the inherent strength of the economy and success of reforms",
+            "To criticize opposition economic policies",
+            "To solicit public feedback on economic growth"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did the government scrap taxes on interest income and capital gains for eligible foreign investors in government securities from April 1, 2026?",
+        "a": "To support the rupee and attract foreign capital",
+        "options": [
+            "To reduce the national debt",
+            "To simplify the tax code",
+            "To support the rupee and attract foreign capital",
+            "To encourage domestic investment",
+            "To comply with international trade agreements"
         ],
         "cat": "Why"
     }
