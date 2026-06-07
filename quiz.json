@@ -1,793 +1,722 @@
 [
     {
-        "q": "What percentage of their missiles did US President Donald Trump state Tehran still has access to?",
-        "a": "21%-22%",
+        "q": "How many ballistic missiles did Iran fire towards Kuwait and Bahrain on Friday, according to US Central Command (CENTCOM)?",
+        "a": "Seven",
         "options": [
-            "15%-16%",
-            "21%-22%",
-            "25%-26%",
-            "30%-31%",
-            "18%-19%"
+            "Six",
+            "Eight",
+            "Seven",
+            "Five",
+            "Nine"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many days was the ceasefire between the US and Iran tentatively agreed to be extended for a new round of talks?",
-        "a": "60 days",
+        "q": "How many of the Iranian ballistic missiles fired towards Kuwait and Bahrain were intercepted by US forces?",
+        "a": "Six",
         "options": [
-            "30 days",
-            "45 days",
-            "60 days",
-            "90 days",
-            "120 days"
+            "Seven",
+            "Five",
+            "Six",
+            "Four",
+            "Eight"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many lives were claimed by Tehran's drone attack on Kuwait's main airport?",
-        "a": "One life",
+        "q": "How many Iranian drones were shot down by US forces in an earlier operation towards the Strait of Hormuz?",
+        "a": "Four",
         "options": [
-            "Zero lives",
-            "One life",
-            "Two lives",
-            "Three lives",
-            "Several lives"
+            "Three",
+            "Five",
+            "Four",
+            "Two",
+            "Six"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the net foreign debt inflow for India in the April-June quarter, according to JM Financial Institutional Securities data?",
-        "a": "$0.5 million",
+        "q": "How many people were killed in Israeli forces' strikes in southern Lebanon on Friday?",
+        "a": "Nine",
         "options": [
-            "$0.1 million",
-            "$0.5 million",
-            "$1.0 million",
-            "$1.5 million",
-            "$2.0 million"
+            "Ten",
+            "Eight",
+            "Nine",
+            "Seven",
+            "Eleven"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the aggregate investment limit fixed for government bonds for April-September 2026 under the revised RBI framework?",
-        "a": "\u20b94.62 trillion",
+        "q": "Which two Gulf nations were primarily targeted by Iran's ballistic missiles and drones on Saturday?",
+        "a": "Kuwait and Bahrain",
         "options": [
-            "\u20b94.50 trillion",
-            "\u20b94.62 trillion",
-            "\u20b94.70 trillion",
-            "\u20b94.77 trillion",
-            "\u20b94.80 trillion"
+            "Saudi Arabia and Qatar",
+            "UAE and Oman",
+            "Kuwait and Bahrain",
+            "Iraq and Syria",
+            "Yemen and Jordan"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What is the aggregate investment limit for state bonds set for October 2026-March 2027 under the revised RBI framework?",
-        "a": "\u20b91.64 trillion",
+        "q": "Which air base in Kuwait, hosting US forces, was targeted by Iran's Revolutionary Guard?",
+        "a": "Ali Al Salem Air Base",
         "options": [
-            "\u20b91.50 trillion",
-            "\u20b91.53 trillion",
-            "\u20b91.60 trillion",
-            "\u20b91.64 trillion",
-            "\u20b91.70 trillion"
+            "Ahmed Al Jaber Air Base",
+            "Ali Al Salem Air Base",
+            "Kuwait International Airport",
+            "Abdali Air Base",
+            "Al Mubarak Air Base"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the opening yield on the 10-year benchmark government bond on Friday?",
-        "a": "6.99%",
+        "q": "The headquarters of which US Navy fleet in Bahrain was targeted by Iran's Revolutionary Guard?",
+        "a": "Fifth Fleet",
         "options": [
-            "6.90%",
-            "6.95%",
-            "6.99%",
-            "7.01%",
-            "7.05%"
+            "Seventh Fleet",
+            "Sixth Fleet",
+            "Fifth Fleet",
+            "Third Fleet",
+            "Fourth Fleet"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the NRI ownership as a percentage of Sensex market capitalization as of the quarter ending March 2026?",
-        "a": "0.7%",
+        "q": "In which body of water was a sanctioned oil tanker linked to Iran intercepted by the US?",
+        "a": "Indian Ocean",
         "options": [
-            "0.5%",
-            "0.7%",
-            "1.0%",
-            "1.2%",
-            "1.5%"
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Southern Ocean",
+            "Arctic Ocean"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What was the total worth of shares pulled out by FPIs from India's secondary market since 2025?",
-        "a": "$57.68 billion",
+        "q": "The Strait of Hormuz is described as a key route for global shipments of which commodities?",
+        "a": "Oil and natural gas",
         "options": [
-            "$50.00 billion",
-            "$55.00 billion",
-            "$57.68 billion",
-            "$60.00 billion",
-            "$62.50 billion"
+            "Grain and timber",
+            "Minerals and metals",
+            "Oil and natural gas",
+            "Textiles and electronics",
+            "Chemicals and plastics"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "By what percentage had Brent crude rallied since the West Asia conflict began on 28 February?",
-        "a": "31%",
+        "q": "What did US Central Command (CENTCOM) state about the Iranian attack drones shot down earlier near the Strait of Hormuz?",
+        "a": "They posed an immediate threat to regional maritime traffic.",
         "options": [
-            "25%",
-            "28%",
-            "31%",
-            "34%",
-            "37%"
+            "They were on a reconnaissance mission",
+            "They were unarmed",
+            "They posed an immediate threat to regional maritime traffic",
+            "They were transporting illegal goods",
+            "They were part of a training exercise"
         ],
-        "cat": "Amount"
+        "cat": "Why"
     },
     {
-        "q": "What was India's GDP growth estimated at for the overall financial year 2025-26?",
-        "a": "7.7%",
-        "options": [
-            "7.0%",
-            "7.1%",
-            "7.5%",
-            "7.7%",
-            "7.8%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the policy Repo Rate maintained by the Monetary Policy Committee (MPC)?",
-        "a": "5.25%",
-        "options": [
-            "4.75%",
-            "5.00%",
-            "5.25%",
-            "5.50%",
-            "5.75%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the projected inflation number for FY27, increased by the MPC?",
-        "a": "5.1%",
-        "options": [
-            "4.5%",
-            "4.8%",
-            "5.1%",
-            "5.4%",
-            "5.7%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the proposed initial public offering (IPO) amount for Truhome Finance Limited?",
-        "a": "\u20b93,000 crore",
-        "options": [
-            "\u20b92,500 crore",
-            "\u20b92,800 crore",
-            "\u20b93,000 crore",
-            "\u20b93,200 crore",
-            "\u20b93,500 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth rate of private final consumption expenditure (PFCE) estimated for 2025-26?",
-        "a": "7.7%",
-        "options": [
-            "6.5%",
-            "7.0%",
-            "7.2%",
-            "7.7%",
-            "8.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the capital gains tax rate on shares worth over \u20b91 lakh if sold after one year?",
-        "a": "12.5%",
-        "options": [
-            "10%",
-            "12.5%",
-            "15%",
-            "17.5%",
-            "20%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The RBI lowered its real GDP growth expectations for 2026-27 to what percentage?",
-        "a": "6.6%",
-        "options": [
-            "6.0%",
-            "6.3%",
-            "6.6%",
-            "6.9%",
-            "7.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the Sensex decline in points on Friday?",
-        "a": "116.67 points",
-        "options": [
-            "100.00 points",
-            "110.50 points",
-            "116.67 points",
-            "120.25 points",
-            "130.00 points"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the percentage fall in the Kospi index in Asian markets on Friday?",
-        "a": "5.5%",
-        "options": [
-            "4.0%",
-            "4.5%",
-            "5.0%",
-            "5.5%",
-            "6.0%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the current Securities Transaction Tax (STT) levied on equity cash?",
-        "a": "0.1%",
-        "options": [
-            "0.05%",
-            "0.1%",
-            "0.15%",
-            "0.2%",
-            "0.25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which US President claimed that 'final negotiations' to end the war with Iran were in process?",
+        "q": "Which US President expressed optimism about the situation with Iran on Friday?",
         "a": "Donald Trump",
         "options": [
             "Joe Biden",
-            "Barack Obama",
             "Donald Trump",
+            "Barack Obama",
             "George W. Bush",
             "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the current Foreign Minister of Iran mentioned in the news text?",
-        "a": "Abbas Araghchi",
+        "q": "Which US military command reported Iran firing ballistic missiles towards Kuwait and Bahrain on Friday?",
+        "a": "US Central Command (CENTCOM)",
         "options": [
-            "Mohammad Javad Zarif",
-            "Abbas Araghchi",
-            "Hossein Amir-Abdollahian",
-            "Ali Akbar Salehi",
-            "Manouchehr Mottaki"
+            "US European Command",
+            "US Africa Command",
+            "US Central Command (CENTCOM)",
+            "US Indo-Pacific Command",
+            "US Northern Command"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the military adviser to Iran's Supreme Leader Ayatollah Mojtaba Khamenei, quoted in an interview with CNN?",
-        "a": "Mohsen Rezaei",
+        "q": "Along which border did tensions remain high, with Israeli forces carrying out strikes on Friday?",
+        "a": "Israel-Lebanon border",
         "options": [
-            "Mohsen Rezaei",
-            "Ali Shamkhani",
-            "Ali Larijani",
-            "Saeed Jalili",
-            "Gholam-Ali Haddad-Adel"
+            "Israel-Syria border",
+            "Israel-Egypt border",
+            "Israel-Lebanon border",
+            "Israel-Jordan border",
+            "Israel-Palestine border"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Iran insists any lasting ceasefire arrangement must address fighting involving which Iran-backed group?",
+        "a": "Hezbollah",
+        "options": [
+            "Hamas",
+            "Al-Qaeda",
+            "Hezbollah",
+            "ISIS",
+            "Taliban"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the US State Department spokesperson mentioned in the news?",
-        "a": "Tommy Pigott",
+        "q": "On which day did Iran launch ballistic missiles and drones towards Kuwait and Bahrain?",
+        "a": "Saturday",
         "options": [
-            "Ned Price",
-            "Matthew Miller",
-            "Tommy Pigott",
-            "Jen Psaki",
-            "Heather Nauert"
+            "Monday",
+            "Tuesday",
+            "Saturday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date did the Supreme Court deliver its rulings with major ramifications for the real-money gaming industry?",
+        "a": "May 27, 2026",
+        "options": [
+            "May 26, 2026",
+            "May 28, 2026",
+            "May 27, 2026",
+            "April 27, 2026",
+            "June 27, 2026"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What percentage of GST levy on online gaming companies was upheld by the Supreme Court?",
+        "a": "28%",
+        "options": [
+            "18%",
+            "12%",
+            "28%",
+            "5%",
+            "32%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Supreme Court bench that upheld the GST levy on online gaming consisted of Justices J.B. Pardiwala and whom?",
+        "a": "R. Mahadevan",
+        "options": [
+            "D.Y. Chandrachud",
+            "S.K. Kaul",
+            "R. Mahadevan",
+            "Hima Kohli",
+            "B.R. Gavai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity introduced the Fully Accessible Route (FAR) in 2020 to facilitate greater foreign participation in India\u2019s sovereign debt market?",
-        "a": "Reserve Bank of India (RBI)",
+        "q": "Which two States enacted legislation criminalizing betting on games played in cyberspace in 2021?",
+        "a": "Tamil Nadu and Karnataka",
         "options": [
-            "SEBI",
-            "Ministry of Finance",
-            "NITI Aayog",
-            "Reserve Bank of India (RBI)",
-            "NABARD"
+            "Maharashtra and Gujarat",
+            "Uttar Pradesh and Bihar",
+            "Tamil Nadu and Karnataka",
+            "Rajasthan and Punjab",
+            "West Bengal and Odisha"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which year did Tamil Nadu and Karnataka enact legislation criminalizing online betting?",
+        "a": "2021",
+        "options": [
+            "2020",
+            "2022",
+            "2021",
+            "2019",
+            "2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The State governments argued that betting and gambling fall within their legislative competence under which Entry of List II of the Seventh Schedule?",
+        "a": "Entry 34",
+        "options": [
+            "Entry 1",
+            "Entry 25",
+            "Entry 34",
+            "Entry 42",
+            "Entry 58"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which month and year did the GST Council clarify that online games involving bets/wagers would attract 28% GST?",
+        "a": "August 2023",
+        "options": [
+            "July 2023",
+            "September 2023",
+            "August 2023",
+            "October 2023",
+            "June 2023"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the full value on which GST is to be levied for online games involving bets or wagers?",
+        "a": "Full value of the amount staked by players",
+        "options": [
+            "Only the platform's commission",
+            "Only the winning amount",
+            "Full value of the amount staked by players",
+            "Only the entry fee",
+            "Only the bonus amount"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "When did the amended GST regime for online gaming come into force?",
+        "a": "October 1, 2023",
+        "options": [
+            "September 1, 2023",
+            "November 1, 2023",
+            "October 1, 2023",
+            "August 1, 2023",
+            "January 1, 2024"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which body issued a series of tax demand notices to gaming companies after the GST Council's decision?",
+        "a": "Directorate General of GST Intelligence (DGGI)",
+        "options": [
+            "Central Board of Indirect Taxes and Customs (CBIC)",
+            "Income Tax Department (ITD)",
+            "Directorate General of GST Intelligence (DGGI)",
+            "Enforcement Directorate (ED)",
+            "Reserve Bank of India (RBI)"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the treasury head at Ujjivan Small Finance Bank, quoted regarding the 10-year bond yield?",
-        "a": "Rajeev Pawar",
+        "q": "The tax demands on gaming companies were running into how much?",
+        "a": "Several lakh crore rupees",
         "options": [
-            "V.R.C. Reddy",
-            "Rajeev Pawar",
-            "Vijay Kuppa",
-            "Nilesh Shah",
-            "Chirag Shah"
+            "Several thousand crore rupees",
+            "Several hundred crore rupees",
+            "Several lakh crore rupees",
+            "Several million crore rupees",
+            "Several crore rupees"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Supreme Court held that online gaming platforms involving money stakes were distinct from what?",
+        "a": "Conventional skill-based competitions",
+        "options": [
+            "Traditional card games",
+            "Lottery schemes",
+            "Conventional skill-based competitions",
+            "Sports betting operations",
+            "Digital arcade games"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What act, passed in 2017, expressly includes actionable claims relating to lottery, betting, and gambling within the tax net?",
+        "a": "Central Goods and Services Tax Act, 2017 (CGST Act)",
+        "options": [
+            "Income Tax Act, 1961",
+            "Public Gambling Act, 1867",
+            "Central Goods and Services Tax Act, 2017",
+            "Prevention of Money Laundering Act, 2002",
+            "Foreign Exchange Management Act, 1999"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What legal term describes activities outside legitimate commerce, according to the Supreme Court, for betting and gambling?",
+        "a": "Res extra commercium",
+        "options": [
+            "Ultra vires",
+            "Prima facie",
+            "Res extra commercium",
+            "De facto",
+            "Stare decisis"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "State governments can draw legislative support from Entry 34 of List II (betting and gambling) and which other Entry for imposing restrictions on online gaming?",
+        "a": "Entry 1 (public order)",
+        "options": [
+            "Entry 1 (public order)",
+            "Entry 2 (police)",
+            "Entry 3 (prisons)",
+            "Entry 6 (public health)",
+            "Entry 7 (pilgrimages)"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Promotion and Regulation of Online Gaming Act, 2025, prohibited what forms of gaming?",
+        "a": "All forms of online real-money gaming",
+        "options": [
+            "Only skill-based games",
+            "Only chance-based games",
+            "All forms of online real-money gaming",
+            "Only international gaming platforms",
+            "Only physical betting outlets"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "In which year was the Promotion and Regulation of Online Gaming Act enacted?",
+        "a": "2025",
+        "options": [
+            "2024",
+            "2026",
+            "2025",
+            "2023",
+            "2027"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Which of the following was NOT carved out as an exception by the Promotion and Regulation of Online Gaming Act, 2025?",
+        "a": "Real-money card games",
+        "options": [
+            "E-sports",
+            "Educational games",
+            "Social gaming",
+            "Real-money card games",
+            "Virtual reality games"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What concern did the government cite for enacting the 2025 Act, related to digital wallets and cryptocurrencies?",
+        "a": "Money laundering and illicit fund transfers",
+        "options": [
+            "Data privacy breaches",
+            "Cybersecurity vulnerabilities",
+            "Money laundering and illicit fund transfers",
+            "Impact on mental health",
+            "Promoting gambling addiction"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is the Partner at Khaitan & Co who commented on the implications of the Supreme Court judgments?",
+        "a": "Sudipta Bhattacharjee",
+        "options": [
+            "Amit Singh",
+            "Rajesh Kumar",
+            "Sudipta Bhattacharjee",
+            "Priya Sharma",
+            "Anil Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Economic Advisor who stated that RBI's assessment of GDP and inflation 'seem fair estimates'?",
-        "a": "V. Anantha Nageswaran",
+        "q": "The verdict could have implications for the challenge to the 2025 law on the ground that Parliament lacked legislative competence to enact it. The Union government might defend its position under which Entry of the Union List?",
+        "a": "Entry 52",
         "options": [
-            "Raghuram Rajan",
-            "Urjit Patel",
-            "V. Anantha Nageswaran",
-            "Arvind Subramanian",
-            "K.V. Subramanian"
+            "Entry 45",
+            "Entry 52",
+            "Entry 60",
+            "Entry 71",
+            "Entry 83"
         ],
-        "cat": "Who"
+        "cat": "Why"
     },
     {
-        "q": "Who acquired Truhome Finance Limited (formerly Shriram Housing Finance Limited) in December 2024?",
-        "a": "Warburg Pincus",
+        "q": "Which High Courts had struck down the enactments of Tamil Nadu and Karnataka regarding online betting?",
+        "a": "Madras and Karnataka High Courts",
         "options": [
-            "Blackstone",
-            "KKR",
-            "The Carlyle Group",
-            "Warburg Pincus",
-            "Apollo Global Management"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Finance Minister who reintroduced LTCG at 10% in 2018?",
-        "a": "Arun Jaitley",
-        "options": [
-            "P. Chidambaram",
-            "Arun Jaitley",
-            "Nirmala Sitharaman",
-            "Manmohan Singh",
-            "Yashwant Sinha"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Reserve Bank of India (RBI) Governor mentioned in the news?",
-        "a": "Sanjay Malhotra",
-        "options": [
-            "Shaktikanta Das",
-            "Urjit Patel",
-            "Raghuram Rajan",
-            "D. Subbarao",
-            "Sanjay Malhotra"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Towards which strait did the US military say Iranian drones were launched?",
-        "a": "Strait of Hormuz",
-        "options": [
-            "Strait of Gibraltar",
-            "Strait of Malacca",
-            "Strait of Hormuz",
-            "Bab-el-Mandeb Strait",
-            "Dardanelles Strait"
+            "Bombay and Delhi High Courts",
+            "Calcutta and Kerala High Courts",
+            "Madras and Karnataka High Courts",
+            "Allahabad and Punjab High Courts",
+            "Gujarat and Rajasthan High Courts"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where were two of Islamic Republic's coastal surveillance radar sites struck in retaliation by US Central Command?",
-        "a": "Goruk and on Qeshm Island",
+        "q": "Which High Courts initially held that online gaming transactions did not constitute actionable claims under GST law, leading to appeals by the Union government?",
+        "a": "Bombay and Karnataka High Courts",
         "options": [
-            "Tehran and Isfahan",
-            "Shiraz and Tabriz",
-            "Mashhad and Ahvaz",
-            "Goruk and on Qeshm Island",
-            "Kish Island and Kharg Island"
+            "Madras and Kerala High Courts",
+            "Delhi and Gujarat High Courts",
+            "Bombay and Karnataka High Courts",
+            "Calcutta and Punjab High Courts",
+            "Allahabad and Hyderabad High Courts"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which country's main airport was attacked by a drone, claiming one life?",
-        "a": "Kuwait",
+        "q": "What year was the Central Goods and Services Tax (CGST) Act enacted?",
+        "a": "2017",
         "options": [
-            "Saudi Arabia",
-            "Qatar",
-            "UAE",
-            "Kuwait",
-            "Oman"
+            "2016",
+            "2018",
+            "2017",
+            "2015",
+            "2019"
         ],
-        "cat": "Where"
+        "cat": "When"
     },
     {
-        "q": "Where did US President Donald Trump make his statement regarding the situation with Iran going 'quite well' on Friday?",
-        "a": "Wisconsin",
+        "q": "The Supreme Court concluded that Parliament was competent to levy GST on online gaming involving money stakes because of the inclusion of actionable claims related to lottery, betting, and gambling in which act?",
+        "a": "Central Goods and Services Tax Act, 2017",
         "options": [
-            "Washington D.C.",
-            "New York",
-            "Florida",
-            "California",
-            "Wisconsin"
+            "Indian Penal Code, 1860",
+            "Information Technology Act, 2000",
+            "Central Goods and Services Tax Act, 2017",
+            "Companies Act, 2013",
+            "Gaming Act, 1867"
         ],
-        "cat": "Where"
+        "cat": "Why"
     },
     {
-        "q": "The US Central Command rejected claims that Iran struck which US 5th fleet headquarters?",
-        "a": "Bahrain",
+        "q": "On which specific date did Amarinder Singh meet Union Home Minister Amit Shah and BJP president J.P. Nadda?",
+        "a": "June 6, 2026",
         "options": [
-            "Qatar",
-            "UAE",
-            "Oman",
-            "Bahrain",
-            "Saudi Arabia"
+            "June 5, 2026",
+            "June 7, 2026",
+            "June 6, 2026",
+            "May 6, 2026",
+            "July 6, 2026"
         ],
-        "cat": "Where"
+        "cat": "When"
     },
     {
-        "q": "Which country's President did Iran's Foreign Minister Abbas Araghchi appeal to save their country from its 'real foe'?",
-        "a": "Lebanon",
+        "q": "Where did Amarinder Singh meet Union Home Minister Amit Shah and BJP president J.P. Nadda?",
+        "a": "New Delhi",
         "options": [
-            "Syria",
-            "Iraq",
-            "Yemen",
-            "Lebanon",
-            "Jordan"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did US forces board a sanctioned oil tanker linked to Iran, as Washington seeks to prevent Iran from profiting off its oil?",
-        "a": "Indian Ocean",
-        "options": [
-            "Persian Gulf",
-            "Arabian Sea",
-            "Red Sea",
-            "Mediterranean Sea",
-            "Indian Ocean"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Reserve Bank of India (RBI) is primarily located in which Indian city?",
-        "a": "Mumbai",
-        "options": [
-            "New Delhi",
-            "Bengaluru",
-            "Chennai",
-            "Kolkata",
-            "Mumbai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Truhome Finance Limited is a wholly owned subsidiary of Shriram Finance Limited, which was acquired by New York-based global private equity firm. Which firm is this?",
-        "a": "Warburg Pincus",
-        "options": [
-            "Blackstone",
-            "The Carlyle Group",
-            "Warburg Pincus",
-            "Kohlberg Kravis Roberts",
-            "Apollo Global Management"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Indian Institute of Journalism and New Media, where Subhana Shaikh completed her postgraduate diploma, is located in which city?",
-        "a": "Bengaluru",
-        "options": [
+            "Chandigarh",
             "Mumbai",
             "New Delhi",
-            "Chennai",
-            "Kolkata",
-            "Bengaluru"
+            "Bengaluru",
+            "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date did the three-month-old war between the US and Iran begin?",
-        "a": "28 February 2026",
+        "q": "Who is the former Punjab Chief Minister and BJP national executive member mentioned in the news?",
+        "a": "Amarinder Singh",
         "options": [
-            "28 December 2025",
-            "28 January 2026",
-            "28 February 2026",
-            "28 March 2026",
-            "28 April 2026"
+            "Parkash Singh Badal",
+            "Capt. Amrinder Singh",
+            "Amarinder Singh",
+            "Charanjit Singh Channi",
+            "Bhagwant Mann"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current Union Home Minister mentioned in connection with Amarinder Singh's meeting?",
+        "a": "Amit Shah",
+        "options": [
+            "Rajnath Singh",
+            "Nirmala Sitharaman",
+            "Amit Shah",
+            "S. Jaishankar",
+            "Piyush Goyal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the current BJP president mentioned in connection with Amarinder Singh's meeting?",
+        "a": "J.P. Nadda",
+        "options": [
+            "Narendra Modi",
+            "Rajnath Singh",
+            "J.P. Nadda",
+            "Amit Shah",
+            "Smriti Irani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What position did Kewal Dhillon recently receive in the Punjab BJP?",
+        "a": "Punjab BJP president",
+        "options": [
+            "General Secretary",
+            "Vice President",
+            "Punjab BJP president",
+            "Spokesperson",
+            "Treasurer"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The appointment of Kewal Dhillon as Punjab BJP president was made ahead of which upcoming election?",
+        "a": "2027 Assembly election",
+        "options": [
+            "2026 Lok Sabha election",
+            "2027 Assembly election",
+            "2028 Municipal election",
+            "2025 Panchayat election",
+            "2029 General election"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the Fully Accessible Route (FAR) framework introduced by the RBI?",
-        "a": "2020",
+        "q": "In which year is the next Assembly election in Punjab expected, as mentioned in the context of Kewal Dhillon's appointment?",
+        "a": "2027",
         "options": [
-            "2018",
-            "2019",
-            "2020",
-            "2021",
-            "2022"
+            "2026",
+            "2028",
+            "2027",
+            "2029",
+            "2025"
         ],
         "cat": "When"
     },
     {
-        "q": "For which period has the aggregate investment limit for government bonds been fixed at \u20b94.77 trillion?",
-        "a": "October 2026-March 2027",
+        "q": "Who is the BJP's senior spokesperson who dismissed reports of a rift involving Amarinder Singh?",
+        "a": "Pritpal Singh Baliawal",
         "options": [
-            "April-September 2026",
-            "October 2026-March 2027",
-            "April-September 2027",
-            "October 2027-March 2028",
-            "January-June 2026"
+            "Sambit Patra",
+            "Nalin Kohli",
+            "Pritpal Singh Baliawal",
+            "Shehzad Poonawalla",
+            "Tom Vadakkan"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What was the main topic of discussion in the meeting between Amarinder Singh, Amit Shah, and J.P. Nadda?",
+        "a": "Various issues concerning Punjab",
+        "options": [
+            "National economic policy",
+            "International relations",
+            "Various issues concerning Punjab",
+            "Upcoming party elections",
+            "Agricultural reforms"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "How many members are on the committee appointed by the HR & CE Department to inspect the annadhanam scheme?",
+        "a": "Six",
+        "options": [
+            "Five",
+            "Seven",
+            "Six",
+            "Four",
+            "Eight"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which department appointed a six-member committee to inspect the annadhanam scheme at Sri Subramanyaswamy temple?",
+        "a": "Hindu Religious and Charitable Endowments (HR & CE) Department",
+        "options": [
+            "Culture Department",
+            "Tourism Department",
+            "Hindu Religious and Charitable Endowments (HR & CE) Department",
+            "Health and Family Welfare Department",
+            "Social Welfare Department"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where is the Sri Subramanyaswamy temple located, where the annadhanam scheme is being inspected?",
+        "a": "Tiruchendur",
+        "options": [
+            "Madurai",
+            "Rameswaram",
+            "Tiruchendur",
+            "Kanchipuram",
+            "Chidambaram"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the purpose of the six-member committee appointed by the HR & CE Department at Sri Subramanyaswamy temple?",
+        "a": "To inspect and submit a report on the annadhanam scheme and guest houses.",
+        "options": [
+            "To conduct a census of devotees",
+            "To organize a new festival",
+            "To inspect and submit a report on the annadhanam scheme and guest houses",
+            "To manage daily temple rituals",
+            "To renovate the temple tower"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The committee's appointment followed an inspection by which HR & CE Minister?",
+        "a": "S. Ramesh",
+        "options": [
+            "P. K. Sekar Babu",
+            "K. N. Nehru",
+            "S. Ramesh",
+            "M. K. Stalin",
+            "Udhayanidhi Stalin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Commissioner who issued the order for officials at the Tiruchendur temple to cooperate with the inspection team?",
+        "a": "T.G. Vinay",
+        "options": [
+            "K. Gopal",
+            "C. Ganesan",
+            "T.G. Vinay",
+            "A. Murugan",
+            "V. Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The HR & CE Department transferred officials of the Tiruchendur temple in which timeframe relative to the news?",
+        "a": "Last week",
+        "options": [
+            "Two weeks ago",
+            "Last month",
+            "Last week",
+            "Earlier today",
+            "Three days ago"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the fiscal year in which India's GDP grew at 7.1%?",
-        "a": "2024-25",
+        "q": "What scheme at the Sri Subramanyaswamy temple in Tiruchendur is being inspected by the six-member committee?",
+        "a": "Annadhanam scheme",
         "options": [
-            "2022-23",
-            "2023-24",
-            "2024-25",
-            "2025-26",
-            "2026-27"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The government updated the base year of the GDP data to which fiscal year earlier this year?",
-        "a": "2022-23",
-        "options": [
-            "2020-21",
-            "2021-22",
-            "2022-23",
-            "2023-24",
-            "2024-25"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year was Long Term Capital Gains (LTCG) tax replaced with a securities transaction tax of 0.15% by then finance minister P. Chidambaram?",
-        "a": "2004",
-        "options": [
-            "2002",
-            "2004",
-            "2006",
-            "2008",
-            "2010"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which month and year was Truhome Finance Limited acquired by Warburg Pincus?",
-        "a": "December 2024",
-        "options": [
-            "October 2024",
-            "November 2024",
-            "December 2024",
-            "January 2025",
-            "February 2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Until what date will the RBI bear hedging costs on fresh three-to five-year FCNR(B) deposits to attract dollar inflows?",
-        "a": "September 30",
-        "options": [
-            "June 30",
-            "July 30",
-            "August 30",
-            "September 30",
-            "October 30"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date did the RBI Governor Sanjay Malhotra make the statement regarding India's strong economic condition post-MPC meeting?",
-        "a": "June 5, 2026",
-        "options": [
-            "May 1, 2026",
-            "May 15, 2026",
-            "June 1, 2026",
-            "June 5, 2026",
-            "June 10, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which fiscal year did the manufacturing sector grow at 10.7% as per the provisional estimates?",
-        "a": "2025-26",
-        "options": [
-            "2023-24",
-            "2024-25",
-            "2025-26",
-            "2026-27",
-            "2022-23"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Why did the US military state it struck two of Islamic Republic's coastal surveillance radar sites?",
-        "a": "To defend against further attacks",
-        "options": [
-            "To gather intelligence",
-            "To disrupt communications",
-            "To eliminate military personnel",
-            "To defend against further attacks",
-            "To provoke a wider conflict"
+            "Utsavam scheme",
+            "Kumbabhishekam scheme",
+            "Annadhanam scheme",
+            "Deeparadhana scheme",
+            "Prasadam scheme"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was Iran's clear demand in the peace proposal for resolving the parallel conflict in Lebanon?",
-        "a": "Ceasefire between Israel and Hezbollah",
+        "q": "The committee is also inspecting rooms of which facilities meant for devotees at the temple?",
+        "a": "Guest houses",
         "options": [
-            "Withdrawal of US troops",
-            "End of sanctions",
-            "Ceasefire between Israel and Hezbollah",
-            "Financial aid to Lebanon",
-            "Recognition of Iranian influence"
+            "Restrooms",
+            "Dining halls",
+            "Guest houses",
+            "Meditation centers",
+            "Shops"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary purpose of the US Department of the Treasury's OFAC targeting an Iranian LPG smuggling network?",
-        "a": "To prevent Iran from profiting off its oil and other goods",
+        "q": "The inspection order for the Tiruchendur temple was issued by the Commissioner of which department?",
+        "a": "Hindu Religious and Charitable Endowments (HR & CE) Department",
         "options": [
-            "To reduce global gas prices",
-            "To investigate environmental violations",
-            "To prevent Iran from profiting off its oil and other goods",
-            "To support regional maritime trade",
-            "To impose travel bans on individuals"
+            "Archaeological Survey of India (ASI)",
+            "Ministry of Culture",
+            "Hindu Religious and Charitable Endowments (HR & CE) Department",
+            "District Administration",
+            "State Tourism Department"
         ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the overarching goal of the US maintaining 'maximum pressure' on the Iranian regime, as stated by Tommy Pigott?",
-        "a": "Through Economic Fury",
-        "options": [
-            "To initiate diplomatic talks",
-            "To encourage regime change",
-            "Through Economic Fury",
-            "To provide humanitarian aid",
-            "To promote regional stability"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the main objective behind the RBI easing investment restrictions and expanding the pool of securities under the Fully Accessible Route (FAR)?",
-        "a": "To revive overseas debt inflows",
-        "options": [
-            "To increase domestic liquidity",
-            "To control inflation",
-            "To revive overseas debt inflows",
-            "To strengthen the banking sector",
-            "To reduce government expenditure"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was one of the reasons cited for the slowdown in foreign investment in Indian debt?",
-        "a": "Narrowing interest-rate differential with the US",
-        "options": [
-            "High domestic interest rates",
-            "Stronger rupee",
-            "Narrowing interest-rate differential with the US",
-            "Increased government borrowing",
-            "Political stability in the region"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why were the RBI's measures to attract foreign capital from NRIs and OCIs expected to succeed materially if complemented by other measures?",
-        "a": "To increase the ease of doing business",
-        "options": [
-            "To boost domestic consumption",
-            "To increase export competitiveness",
-            "To lower corporate taxes",
-            "To increase the ease of doing business",
-            "To reduce unemployment rates"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the reason for the RBI's MPC reducing the growth forecast for FY27 and increasing the inflation number?",
-        "a": "Passthrough of higher fuel prices visible in overall price rise",
-        "options": [
-            "Stronger economic outlook",
-            "Lower global crude prices",
-            "Passthrough of higher fuel prices visible in overall price rise",
-            "Increased government spending",
-            "Reduced foreign investment"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the primary purpose for which Truhome Finance Limited proposes to utilize the net proceeds from its IPO?",
-        "a": "Augmenting the capital base to meet future capital requirements",
-        "options": [
-            "To expand into international markets",
-            "To acquire smaller housing finance companies",
-            "To pay off existing debts",
-            "Augmenting the capital base to meet future capital requirements",
-            "To invest in new technology ventures"
-        ]
-    },
-    {
-        "q": "Why did benchmark indices Sensex and Nifty end lower on Friday?",
-        "a": "Profit-taking after RBI lowered growth expectations and forecast inflation to rise",
-        "options": [
-            "Strong global market performance",
-            "Unexpected policy rate hike",
-            "Profit-taking after RBI lowered growth expectations and forecast inflation to rise",
-            "Increased foreign institutional investment",
-            "Positive economic growth data"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to RBI Governor Sanjay Malhotra, what worries the RBI the most regarding the West Asia conflict?",
-        "a": "The duration of the conflict and the time it would take for the restoration of the supply chain",
-        "options": [
-            "The immediate impact on crude oil prices",
-            "The duration of the conflict and the time it would take for the restoration of the supply chain",
-            "The potential for a regional war",
-            "The decline in foreign exchange reserves",
-            "The increase in domestic inflation due to food prices"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the RBI remove the requirement for foreign investors to comply with short-term investment limits, security-wise limits, and concentration limits under the general route?",
-        "a": "To dismantle longstanding restrictions governing FPI investments",
-        "options": [
-            "To encourage domestic retail investment",
-            "To simplify tax regulations for FPIs",
-            "To dismantle longstanding restrictions governing FPI investments",
-            "To reduce the volatility in the bond market",
-            "To limit speculative trading by foreign entities"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the objective of the RBI merging the separate \u2018general\u2019 and \u2018long-term\u2019 investment categories into a single limit for government bonds and state bonds?",
-        "a": "To simplify the investment limit structure",
-        "options": [
-            "To increase the total investment capacity for FPIs",
-            "To reduce administrative burden for domestic banks",
-            "To simplify the investment limit structure",
-            "To align with international accounting standards",
-            "To prevent capital flight from the country"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the primary reason for the US military boarding a sanctioned oil tanker linked to Iran in the Indian Ocean?",
-        "a": "To prevent Iran from profiting off its oil and other goods",
-        "options": [
-            "To conduct a safety inspection",
-            "To search for illegal weapons",
-            "To prevent Iran from profiting off its oil and other goods",
-            "To rescue distressed mariners",
-            "To enforce international maritime law"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did Prime Minister Narendra Modi post on X following the GDP data release?",
-        "a": "To reflect the inherent strength of the economy and success of reforms",
-        "options": [
-            "To announce new economic policies",
-            "To caution about global uncertainties",
-            "To reflect the inherent strength of the economy and success of reforms",
-            "To criticize opposition economic policies",
-            "To solicit public feedback on economic growth"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did the government scrap taxes on interest income and capital gains for eligible foreign investors in government securities from April 1, 2026?",
-        "a": "To support the rupee and attract foreign capital",
-        "options": [
-            "To reduce the national debt",
-            "To simplify the tax code",
-            "To support the rupee and attract foreign capital",
-            "To encourage domestic investment",
-            "To comply with international trade agreements"
-        ],
-        "cat": "Why"
+        "cat": "Who"
     }
 ]
