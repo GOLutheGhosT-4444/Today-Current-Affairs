@@ -1,722 +1,722 @@
 [
     {
-        "q": "How many ballistic missiles did Iran fire towards Kuwait and Bahrain on Friday, according to US Central Command (CENTCOM)?",
-        "a": "Seven",
+        "q": "What was the recorded net export of US crude and petroleum products in April, in millions of barrels per day?",
+        "a": "5.8",
         "options": [
-            "Six",
-            "Eight",
-            "Seven",
-            "Five",
-            "Nine"
+            "5.7",
+            "5.9",
+            "5.8",
+            "6.0",
+            "5.6"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many of the Iranian ballistic missiles fired towards Kuwait and Bahrain were intercepted by US forces?",
-        "a": "Six",
+        "q": "By how many million barrels per day are global oil stocks expected to fall in the current quarter, according to the US Energy Information Administration?",
+        "a": "6.3",
         "options": [
-            "Seven",
-            "Five",
-            "Six",
-            "Four",
-            "Eight"
+            "6.2",
+            "6.4",
+            "6.3",
+            "6.5",
+            "6.1"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many Iranian drones were shot down by US forces in an earlier operation towards the Strait of Hormuz?",
-        "a": "Four",
+        "q": "What further fall in global oil stocks (in millions of barrels per day) is projected for the third quarter?",
+        "a": "7.66",
         "options": [
-            "Three",
-            "Five",
-            "Four",
-            "Two",
-            "Six"
+            "7.56",
+            "7.76",
+            "7.66",
+            "7.86",
+            "7.46"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people were killed in Israeli forces' strikes in southern Lebanon on Friday?",
-        "a": "Nine",
+        "q": "How many missiles launched from Iran towards Azraq were intercepted and shot down by Jordan's military?",
+        "a": "5",
         "options": [
-            "Ten",
-            "Eight",
-            "Nine",
-            "Seven",
-            "Eleven"
+            "4",
+            "6",
+            "5",
+            "7",
+            "3"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which two Gulf nations were primarily targeted by Iran's ballistic missiles and drones on Saturday?",
-        "a": "Kuwait and Bahrain",
+        "q": "How many targets inside Iran were subsequently struck by US forces, according to a US official cited by Reuters?",
+        "a": "20",
         "options": [
-            "Saudi Arabia and Qatar",
-            "UAE and Oman",
-            "Kuwait and Bahrain",
-            "Iraq and Syria",
-            "Yemen and Jordan"
+            "19",
+            "21",
+            "20",
+            "22",
+            "18"
         ],
-        "cat": "Where"
+        "cat": "Amount"
     },
     {
-        "q": "Which air base in Kuwait, hosting US forces, was targeted by Iran's Revolutionary Guard?",
-        "a": "Ali Al Salem Air Base",
+        "q": "How many lives were claimed in the collapse of the unauthorised five-storey building in Delhi\u2019s Saidulajab area?",
+        "a": "6",
         "options": [
-            "Ahmed Al Jaber Air Base",
-            "Ali Al Salem Air Base",
-            "Kuwait International Airport",
-            "Abdali Air Base",
-            "Al Mubarak Air Base"
+            "5",
+            "7",
+            "6",
+            "8",
+            "4"
         ],
-        "cat": "Where"
+        "cat": "Amount"
     },
     {
-        "q": "The headquarters of which US Navy fleet in Bahrain was targeted by Iran's Revolutionary Guard?",
-        "a": "Fifth Fleet",
+        "q": "How many people were injured in the collapse of the unauthorised five-storey building in Delhi\u2019s Saidulajab area?",
+        "a": "14",
         "options": [
-            "Seventh Fleet",
-            "Sixth Fleet",
-            "Fifth Fleet",
-            "Third Fleet",
-            "Fourth Fleet"
+            "13",
+            "15",
+            "14",
+            "16",
+            "12"
         ],
-        "cat": "Where"
+        "cat": "Amount"
     },
     {
-        "q": "In which body of water was a sanctioned oil tanker linked to Iran intercepted by the US?",
-        "a": "Indian Ocean",
+        "q": "How many MCD engineers were suspended following the building collapse mishap in Saidulajab?",
+        "a": "2",
         "options": [
-            "Atlantic Ocean",
-            "Pacific Ocean",
-            "Indian Ocean",
-            "Southern Ocean",
-            "Arctic Ocean"
+            "1",
+            "3",
+            "2",
+            "4",
+            "0"
         ],
-        "cat": "Where"
+        "cat": "Amount"
     },
     {
-        "q": "The Strait of Hormuz is described as a key route for global shipments of which commodities?",
-        "a": "Oil and natural gas",
+        "q": "What was the average net export of US crude and petroleum products last year, in millions of barrels per day?",
+        "a": "1.4",
         "options": [
-            "Grain and timber",
-            "Minerals and metals",
-            "Oil and natural gas",
-            "Textiles and electronics",
-            "Chemicals and plastics"
+            "1.3",
+            "1.5",
+            "1.4",
+            "1.6",
+            "1.2"
         ],
-        "cat": "Why"
+        "cat": "Amount"
     },
     {
-        "q": "What did US Central Command (CENTCOM) state about the Iranian attack drones shot down earlier near the Strait of Hormuz?",
-        "a": "They posed an immediate threat to regional maritime traffic.",
+        "q": "How many super fast elevators were ordered by Prestige Estates for 'The Prestige at Mahalaxmi', Mumbai?",
+        "a": "2",
         "options": [
-            "They were on a reconnaissance mission",
-            "They were unarmed",
-            "They posed an immediate threat to regional maritime traffic",
-            "They were transporting illegal goods",
-            "They were part of a training exercise"
+            "1",
+            "3",
+            "2",
+            "4",
+            "5"
         ],
-        "cat": "Why"
+        "cat": "Amount"
     },
     {
-        "q": "Which US President expressed optimism about the situation with Iran on Friday?",
-        "a": "Donald Trump",
+        "q": "At what speed, in metres per second, can the super fast elevators ordered by Prestige Estates travel?",
+        "a": "10",
+        "options": [
+            "9",
+            "11",
+            "10",
+            "12",
+            "8"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "For how many floors (excluding basement and ground floor) was the Saidulajab building initially sanctioned?",
+        "a": "1",
+        "options": [
+            "0",
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who is the current Foreign Minister of Iran, mentioned in the news text?",
+        "a": "Abbas Araghchi",
+        "options": [
+            "Hassan Rouhani",
+            "Mohammad Javad Zarif",
+            "Abbas Araghchi",
+            "Mahmoud Ahmadinejad",
+            "Ebrahim Raisi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which former US President had posted on Truth Social stating Iran shot down an Apache helicopter?",
+        "a": "Trump",
         "options": [
             "Joe Biden",
-            "Donald Trump",
             "Barack Obama",
+            "Trump",
             "George W. Bush",
             "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which US military command reported Iran firing ballistic missiles towards Kuwait and Bahrain on Friday?",
-        "a": "US Central Command (CENTCOM)",
+        "q": "Who is the President of Otis India, mentioned in the context of the company's expansion plans?",
+        "a": "Sebi Joseph",
         "options": [
-            "US European Command",
-            "US Africa Command",
-            "US Central Command (CENTCOM)",
-            "US Indo-Pacific Command",
-            "US Northern Command"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Along which border did tensions remain high, with Israeli forces carrying out strikes on Friday?",
-        "a": "Israel-Lebanon border",
-        "options": [
-            "Israel-Syria border",
-            "Israel-Egypt border",
-            "Israel-Lebanon border",
-            "Israel-Jordan border",
-            "Israel-Palestine border"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Iran insists any lasting ceasefire arrangement must address fighting involving which Iran-backed group?",
-        "a": "Hezbollah",
-        "options": [
-            "Hamas",
-            "Al-Qaeda",
-            "Hezbollah",
-            "ISIS",
-            "Taliban"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "On which day did Iran launch ballistic missiles and drones towards Kuwait and Bahrain?",
-        "a": "Saturday",
-        "options": [
-            "Monday",
-            "Tuesday",
-            "Saturday",
-            "Wednesday",
-            "Thursday"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the Supreme Court deliver its rulings with major ramifications for the real-money gaming industry?",
-        "a": "May 27, 2026",
-        "options": [
-            "May 26, 2026",
-            "May 28, 2026",
-            "May 27, 2026",
-            "April 27, 2026",
-            "June 27, 2026"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What percentage of GST levy on online gaming companies was upheld by the Supreme Court?",
-        "a": "28%",
-        "options": [
-            "18%",
-            "12%",
-            "28%",
-            "5%",
-            "32%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Supreme Court bench that upheld the GST levy on online gaming consisted of Justices J.B. Pardiwala and whom?",
-        "a": "R. Mahadevan",
-        "options": [
-            "D.Y. Chandrachud",
-            "S.K. Kaul",
-            "R. Mahadevan",
-            "Hima Kohli",
-            "B.R. Gavai"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which two States enacted legislation criminalizing betting on games played in cyberspace in 2021?",
-        "a": "Tamil Nadu and Karnataka",
-        "options": [
-            "Maharashtra and Gujarat",
-            "Uttar Pradesh and Bihar",
-            "Tamil Nadu and Karnataka",
-            "Rajasthan and Punjab",
-            "West Bengal and Odisha"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which year did Tamil Nadu and Karnataka enact legislation criminalizing online betting?",
-        "a": "2021",
-        "options": [
-            "2020",
-            "2022",
-            "2021",
-            "2019",
-            "2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The State governments argued that betting and gambling fall within their legislative competence under which Entry of List II of the Seventh Schedule?",
-        "a": "Entry 34",
-        "options": [
-            "Entry 1",
-            "Entry 25",
-            "Entry 34",
-            "Entry 42",
-            "Entry 58"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which month and year did the GST Council clarify that online games involving bets/wagers would attract 28% GST?",
-        "a": "August 2023",
-        "options": [
-            "July 2023",
-            "September 2023",
-            "August 2023",
-            "October 2023",
-            "June 2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the full value on which GST is to be levied for online games involving bets or wagers?",
-        "a": "Full value of the amount staked by players",
-        "options": [
-            "Only the platform's commission",
-            "Only the winning amount",
-            "Full value of the amount staked by players",
-            "Only the entry fee",
-            "Only the bonus amount"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "When did the amended GST regime for online gaming come into force?",
-        "a": "October 1, 2023",
-        "options": [
-            "September 1, 2023",
-            "November 1, 2023",
-            "October 1, 2023",
-            "August 1, 2023",
-            "January 1, 2024"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which body issued a series of tax demand notices to gaming companies after the GST Council's decision?",
-        "a": "Directorate General of GST Intelligence (DGGI)",
-        "options": [
-            "Central Board of Indirect Taxes and Customs (CBIC)",
-            "Income Tax Department (ITD)",
-            "Directorate General of GST Intelligence (DGGI)",
-            "Enforcement Directorate (ED)",
-            "Reserve Bank of India (RBI)"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The tax demands on gaming companies were running into how much?",
-        "a": "Several lakh crore rupees",
-        "options": [
-            "Several thousand crore rupees",
-            "Several hundred crore rupees",
-            "Several lakh crore rupees",
-            "Several million crore rupees",
-            "Several crore rupees"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Supreme Court held that online gaming platforms involving money stakes were distinct from what?",
-        "a": "Conventional skill-based competitions",
-        "options": [
-            "Traditional card games",
-            "Lottery schemes",
-            "Conventional skill-based competitions",
-            "Sports betting operations",
-            "Digital arcade games"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What act, passed in 2017, expressly includes actionable claims relating to lottery, betting, and gambling within the tax net?",
-        "a": "Central Goods and Services Tax Act, 2017 (CGST Act)",
-        "options": [
-            "Income Tax Act, 1961",
-            "Public Gambling Act, 1867",
-            "Central Goods and Services Tax Act, 2017",
-            "Prevention of Money Laundering Act, 2002",
-            "Foreign Exchange Management Act, 1999"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What legal term describes activities outside legitimate commerce, according to the Supreme Court, for betting and gambling?",
-        "a": "Res extra commercium",
-        "options": [
-            "Ultra vires",
-            "Prima facie",
-            "Res extra commercium",
-            "De facto",
-            "Stare decisis"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "State governments can draw legislative support from Entry 34 of List II (betting and gambling) and which other Entry for imposing restrictions on online gaming?",
-        "a": "Entry 1 (public order)",
-        "options": [
-            "Entry 1 (public order)",
-            "Entry 2 (police)",
-            "Entry 3 (prisons)",
-            "Entry 6 (public health)",
-            "Entry 7 (pilgrimages)"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Promotion and Regulation of Online Gaming Act, 2025, prohibited what forms of gaming?",
-        "a": "All forms of online real-money gaming",
-        "options": [
-            "Only skill-based games",
-            "Only chance-based games",
-            "All forms of online real-money gaming",
-            "Only international gaming platforms",
-            "Only physical betting outlets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "In which year was the Promotion and Regulation of Online Gaming Act enacted?",
-        "a": "2025",
-        "options": [
-            "2024",
-            "2026",
-            "2025",
-            "2023",
-            "2027"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Which of the following was NOT carved out as an exception by the Promotion and Regulation of Online Gaming Act, 2025?",
-        "a": "Real-money card games",
-        "options": [
-            "E-sports",
-            "Educational games",
-            "Social gaming",
-            "Real-money card games",
-            "Virtual reality games"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What concern did the government cite for enacting the 2025 Act, related to digital wallets and cryptocurrencies?",
-        "a": "Money laundering and illicit fund transfers",
-        "options": [
-            "Data privacy breaches",
-            "Cybersecurity vulnerabilities",
-            "Money laundering and illicit fund transfers",
-            "Impact on mental health",
-            "Promoting gambling addiction"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is the Partner at Khaitan & Co who commented on the implications of the Supreme Court judgments?",
-        "a": "Sudipta Bhattacharjee",
-        "options": [
-            "Amit Singh",
             "Rajesh Kumar",
-            "Sudipta Bhattacharjee",
-            "Priya Sharma",
-            "Anil Gupta"
+            "Sunil Mehta",
+            "Sebi Joseph",
+            "Anil Sharma",
+            "Vikram Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "The verdict could have implications for the challenge to the 2025 law on the ground that Parliament lacked legislative competence to enact it. The Union government might defend its position under which Entry of the Union List?",
-        "a": "Entry 52",
+        "q": "Which real estate company placed an order for two super fast elevators for 'The Prestige at Mahalaxmi'?",
+        "a": "Prestige Estates",
         "options": [
-            "Entry 45",
-            "Entry 52",
-            "Entry 60",
-            "Entry 71",
-            "Entry 83"
+            "DLF",
+            "Godrej Properties",
+            "Prestige Estates",
+            "Lodha Group",
+            "Brigade Group"
         ],
-        "cat": "Why"
+        "cat": "Who"
     },
     {
-        "q": "Which High Courts had struck down the enactments of Tamil Nadu and Karnataka regarding online betting?",
-        "a": "Madras and Karnataka High Courts",
+        "q": "Which organization warned that global oil stockpiles have fallen to their lowest level since 2003?",
+        "a": "US Energy Information Administration",
         "options": [
-            "Bombay and Delhi High Courts",
-            "Calcutta and Kerala High Courts",
-            "Madras and Karnataka High Courts",
-            "Allahabad and Punjab High Courts",
-            "Gujarat and Rajasthan High Courts"
+            "International Energy Agency",
+            "OPEC",
+            "US Energy Information Administration",
+            "World Bank",
+            "United Nations"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was appointed as the amicus curiae by the Supreme Court to assist in the matter concerning illegal constructions?",
+        "a": "Ajit Kumar Sinha",
+        "options": [
+            "Harish Salve",
+            "Mukul Rohatgi",
+            "Ajit Kumar Sinha",
+            "K.K. Venugopal",
+            "Tushar Mehta"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Bench of Supreme Court Justices declined an urgent hearing on the status report regarding the Delhi building collapse?",
+        "a": "Prashant Kumar Mishra and Atul S. Chandurkar",
+        "options": [
+            "D.Y. Chandrachud and S.K. Kaul",
+            "N.V. Ramana and Hrishikesh Roy",
+            "Prashant Kumar Mishra and Atul S. Chandurkar",
+            "S.A. Bobde and M.R. Shah",
+            "U.U. Lalit and Aniruddha Bose"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Supreme Court Bench had earlier ordered a pan-India inquiry into rampant conversion of residential premises for commercial use?",
+        "a": "Ahsanuddin Amanullah and R. Mahadevan",
+        "options": [
+            "Sanjay Kishan Kaul and A.S. Bopanna",
+            "Ahsanuddin Amanullah and R. Mahadevan",
+            "Indira Banerjee and V. Ramasubramanian",
+            "L. Nageswara Rao and B.R. Gavai",
+            "Ajay Rastogi and C.T. Ravikumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who filed the status report through advocate Govind Jee in the Supreme Court case regarding the building collapse?",
+        "a": "Amicus Curiae",
+        "options": [
+            "Municipal Corporation of Delhi",
+            "Delhi Government",
+            "Amicus Curiae",
+            "Residents Welfare Association",
+            "Injured Victims"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which entity is expected to furnish an affidavit detailing compensation for the families of the deceased in the Saidulajab building collapse?",
+        "a": "Delhi government",
+        "options": [
+            "Municipal Corporation of Delhi",
+            "Central Government",
+            "Delhi government",
+            "Builder Association",
+            "Insurance Company"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which Iranian military branch claimed responsibility for targeting four sites at the US al-Azraq base in Jordan?",
+        "a": "Revolutionary Guards",
+        "options": [
+            "Iranian Army",
+            "Basij Militia",
+            "Revolutionary Guards",
+            "Quds Force",
+            "Naval Forces"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which command justified the US strikes on Iran as \"a proportional response to unjustified Iranian aggression\"?",
+        "a": "US Central Command",
+        "options": [
+            "US Northern Command",
+            "US Pacific Command",
+            "US Central Command",
+            "US European Command",
+            "US Africa Command"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The Apache helicopter, whose downing led to US strikes, was allegedly downed in which critical shipping lane?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Suez Canal",
+            "Bab-el-Mandeb",
+            "Strait of Hormuz",
+            "Malacca Strait",
+            "Bosphorus Strait"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which High Courts initially held that online gaming transactions did not constitute actionable claims under GST law, leading to appeals by the Union government?",
-        "a": "Bombay and Karnataka High Courts",
+        "q": "Explosions were heard in which of the following locations within the Strait of Hormuz after US strikes?",
+        "a": "Bandar Abbas",
         "options": [
-            "Madras and Kerala High Courts",
-            "Delhi and Gujarat High Courts",
-            "Bombay and Karnataka High Courts",
-            "Calcutta and Punjab High Courts",
-            "Allahabad and Hyderabad High Courts"
+            "Dubai",
+            "Riyadh",
+            "Doha",
+            "Bandar Abbas",
+            "Abu Dhabi"
         ],
         "cat": "Where"
     },
     {
-        "q": "What year was the Central Goods and Services Tax (CGST) Act enacted?",
-        "a": "2017",
+        "q": "Jordan's military intercepted missiles launched from Iran towards which specific location?",
+        "a": "Azraq",
         "options": [
-            "2016",
-            "2018",
-            "2017",
-            "2015",
-            "2019"
+            "Amman",
+            "Zarqa",
+            "Mafraq",
+            "Azraq",
+            "Irbid"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "The Supreme Court concluded that Parliament was competent to levy GST on online gaming involving money stakes because of the inclusion of actionable claims related to lottery, betting, and gambling in which act?",
-        "a": "Central Goods and Services Tax Act, 2017",
+        "q": "Which US military base in Jordan was reportedly targeted by Iran's Revolutionary Guards?",
+        "a": "Al-Azraq base",
         "options": [
-            "Indian Penal Code, 1860",
-            "Information Technology Act, 2000",
-            "Central Goods and Services Tax Act, 2017",
-            "Companies Act, 2013",
-            "Gaming Act, 1867"
+            "Prince Hassan Air Base",
+            "King Abdullah II Air Base",
+            "Al-Azraq base",
+            "Muwaffaq Salti Air Base",
+            "Ruwaished Air Base"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "On which specific date did Amarinder Singh meet Union Home Minister Amit Shah and BJP president J.P. Nadda?",
-        "a": "June 6, 2026",
+        "q": "Which US base in Kuwait was reportedly targeted by Iran's revolutionary guards with drones?",
+        "a": "Ali Al Salem base",
         "options": [
-            "June 5, 2026",
-            "June 7, 2026",
-            "June 6, 2026",
-            "May 6, 2026",
-            "July 6, 2026"
+            "Camp Arifjan",
+            "Camp Buehring",
+            "Ali Al Salem base",
+            "Abdullah Al-Mubarak Air Base",
+            "Kuwait Naval Base"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Where did Amarinder Singh meet Union Home Minister Amit Shah and BJP president J.P. Nadda?",
-        "a": "New Delhi",
+        "q": "The US 5th fleet, reportedly attacked by Iran with drones, is stationed in which Gulf nation?",
+        "a": "Bahrain",
         "options": [
-            "Chandigarh",
-            "Mumbai",
-            "New Delhi",
+            "Qatar",
+            "UAE",
+            "Saudi Arabia",
+            "Bahrain",
+            "Oman"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The unauthorized five-storey building collapse, which claimed six lives, occurred in which area of Delhi?",
+        "a": "Saidulajab",
+        "options": [
+            "Saket",
+            "Vasant Kunj",
+            "Saidulajab",
+            "Lajpat Nagar",
+            "Malviya Nagar"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "'The Prestige', set to be India's tallest commercial building, is under construction in which city?",
+        "a": "Mumbai",
+        "options": [
+            "Delhi",
             "Bengaluru",
+            "Mumbai",
+            "Chennai",
             "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "Who is the former Punjab Chief Minister and BJP national executive member mentioned in the news?",
-        "a": "Amarinder Singh",
+        "q": "The Supreme Court's earlier order concerning illegal constructions, which led to a pan-India inquiry, originated from a matter in which Indian state?",
+        "a": "Tamil Nadu",
         "options": [
-            "Parkash Singh Badal",
-            "Capt. Amrinder Singh",
-            "Amarinder Singh",
-            "Charanjit Singh Channi",
-            "Bhagwant Mann"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Union Home Minister mentioned in connection with Amarinder Singh's meeting?",
-        "a": "Amit Shah",
-        "options": [
-            "Rajnath Singh",
-            "Nirmala Sitharaman",
-            "Amit Shah",
-            "S. Jaishankar",
-            "Piyush Goyal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current BJP president mentioned in connection with Amarinder Singh's meeting?",
-        "a": "J.P. Nadda",
-        "options": [
-            "Narendra Modi",
-            "Rajnath Singh",
-            "J.P. Nadda",
-            "Amit Shah",
-            "Smriti Irani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What position did Kewal Dhillon recently receive in the Punjab BJP?",
-        "a": "Punjab BJP president",
-        "options": [
-            "General Secretary",
-            "Vice President",
-            "Punjab BJP president",
-            "Spokesperson",
-            "Treasurer"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The appointment of Kewal Dhillon as Punjab BJP president was made ahead of which upcoming election?",
-        "a": "2027 Assembly election",
-        "options": [
-            "2026 Lok Sabha election",
-            "2027 Assembly election",
-            "2028 Municipal election",
-            "2025 Panchayat election",
-            "2029 General election"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year is the next Assembly election in Punjab expected, as mentioned in the context of Kewal Dhillon's appointment?",
-        "a": "2027",
-        "options": [
-            "2026",
-            "2028",
-            "2027",
-            "2029",
-            "2025"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the BJP's senior spokesperson who dismissed reports of a rift involving Amarinder Singh?",
-        "a": "Pritpal Singh Baliawal",
-        "options": [
-            "Sambit Patra",
-            "Nalin Kohli",
-            "Pritpal Singh Baliawal",
-            "Shehzad Poonawalla",
-            "Tom Vadakkan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What was the main topic of discussion in the meeting between Amarinder Singh, Amit Shah, and J.P. Nadda?",
-        "a": "Various issues concerning Punjab",
-        "options": [
-            "National economic policy",
-            "International relations",
-            "Various issues concerning Punjab",
-            "Upcoming party elections",
-            "Agricultural reforms"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "How many members are on the committee appointed by the HR & CE Department to inspect the annadhanam scheme?",
-        "a": "Six",
-        "options": [
-            "Five",
-            "Seven",
-            "Six",
-            "Four",
-            "Eight"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Which department appointed a six-member committee to inspect the annadhanam scheme at Sri Subramanyaswamy temple?",
-        "a": "Hindu Religious and Charitable Endowments (HR & CE) Department",
-        "options": [
-            "Culture Department",
-            "Tourism Department",
-            "Hindu Religious and Charitable Endowments (HR & CE) Department",
-            "Health and Family Welfare Department",
-            "Social Welfare Department"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where is the Sri Subramanyaswamy temple located, where the annadhanam scheme is being inspected?",
-        "a": "Tiruchendur",
-        "options": [
-            "Madurai",
-            "Rameswaram",
-            "Tiruchendur",
-            "Kanchipuram",
-            "Chidambaram"
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Maharashtra"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the purpose of the six-member committee appointed by the HR & CE Department at Sri Subramanyaswamy temple?",
-        "a": "To inspect and submit a report on the annadhanam scheme and guest houses.",
+        "q": "Which region did the US Central Command state was the target of \"proportional response\" strikes?",
+        "a": "Iran",
         "options": [
-            "To conduct a census of devotees",
-            "To organize a new festival",
-            "To inspect and submit a report on the annadhanam scheme and guest houses",
-            "To manage daily temple rituals",
-            "To renovate the temple tower"
+            "Iraq",
+            "Syria",
+            "Yemen",
+            "Iran",
+            "Lebanon"
         ],
-        "cat": "Why"
+        "cat": "Where"
     },
     {
-        "q": "The committee's appointment followed an inspection by which HR & CE Minister?",
-        "a": "S. Ramesh",
+        "q": "Besides Bandar Abbas, Sirik, and Jask, which other location in the Strait of Hormuz experienced explosions?",
+        "a": "Qeshm Island",
         "options": [
-            "P. K. Sekar Babu",
-            "K. N. Nehru",
-            "S. Ramesh",
-            "M. K. Stalin",
-            "Udhayanidhi Stalin"
+            "Kish Island",
+            "Larak Island",
+            "Qeshm Island",
+            "Hengam Island",
+            "Abu Musa Island"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "Who is the Commissioner who issued the order for officials at the Tiruchendur temple to cooperate with the inspection team?",
-        "a": "T.G. Vinay",
+        "q": "In addition to Jordan and Kuwait, which other Gulf nation mentioned in the text activated air defenses against hostile aerial targets from Iran?",
+        "a": "Bahrain",
         "options": [
-            "K. Gopal",
-            "C. Ganesan",
-            "T.G. Vinay",
-            "A. Murugan",
-            "V. Kumar"
+            "Qatar",
+            "UAE",
+            "Saudi Arabia",
+            "Bahrain",
+            "Oman"
         ],
-        "cat": "Who"
+        "cat": "Where"
     },
     {
-        "q": "The HR & CE Department transferred officials of the Tiruchendur temple in which timeframe relative to the news?",
-        "a": "Last week",
+        "q": "The Apache helicopter was allegedly downed in the Strait of Hormuz on which day?",
+        "a": "Tuesday, June 9",
         "options": [
-            "Two weeks ago",
-            "Last month",
-            "Last week",
-            "Earlier today",
-            "Three days ago"
+            "Monday, June 8",
+            "Tuesday, June 9",
+            "Wednesday, June 10",
+            "Thursday, June 11",
+            "Friday, June 7"
         ],
         "cat": "When"
     },
     {
-        "q": "What scheme at the Sri Subramanyaswamy temple in Tiruchendur is being inspected by the six-member committee?",
-        "a": "Annadhanam scheme",
+        "q": "Since which year have global oil stockpiles in the world's 38 wealthiest nations fallen to their lowest level?",
+        "a": "2003",
         "options": [
-            "Utsavam scheme",
-            "Kumbabhishekam scheme",
-            "Annadhanam scheme",
-            "Deeparadhana scheme",
-            "Prasadam scheme"
+            "2000",
+            "2003",
+            "2005",
+            "2007",
+            "2010"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which day of the week did the US Energy Information Administration issue its warning about falling oil stockpiles?",
+        "a": "Tuesday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which month did US crude and petroleum product net exports hit a record of 5.8 million barrels per day?",
+        "a": "April",
+        "options": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court declined to accord an urgent hearing on the building collapse report on which specific date?",
+        "a": "Monday (June 8, 2026)",
+        "options": [
+            "Tuesday (June 7, 2026)",
+            "Monday (June 8, 2026)",
+            "Wednesday (June 9, 2026)",
+            "Friday (June 5, 2026)",
+            "Thursday (June 4, 2026)"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The building collapse in Delhi\u2019s Saidulajab area, claiming six lives, occurred on which date?",
+        "a": "May 30",
+        "options": [
+            "May 28",
+            "May 30",
+            "June 1",
+            "June 3",
+            "May 29"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The earlier Supreme Court order, concerning illegal constructions and a pan-India inquiry, was passed on which date?",
+        "a": "March 25",
+        "options": [
+            "March 20",
+            "March 25",
+            "April 1",
+            "April 5",
+            "March 15"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year was the illegal construction of the second and third floors carried out at the Saidulajab property?",
+        "a": "2015",
+        "options": [
+            "2013",
+            "2015",
+            "2017",
+            "2019",
+            "2014"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Jordan's military reported intercepting and shooting down missiles launched from Iran on which day of the week?",
+        "a": "Wednesday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Iran's Revolutionary Guards announced targeting US bases in Jordan on which specific day?",
+        "a": "Wednesday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The Supreme Court directed statutory appellate authorities and quasi-judicial forums to dispose of pending matters within how many months?",
+        "a": "3",
+        "options": [
+            "1",
+            "3",
+            "6",
+            "9",
+            "12"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For how long had the unauthorized construction reportedly continued at the Saidulajab property, leading up to its collapse?",
+        "a": "Nearly a decade",
+        "options": [
+            "Five years",
+            "Seven years",
+            "Nearly a decade",
+            "Fifteen years",
+            "Two decades"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What was the US justification for carrying out strikes on Iran?",
+        "a": "A proportional response to unjustified Iranian aggression.",
+        "options": [
+            "To secure oil supplies",
+            "To protect shipping lanes",
+            "A proportional response to unjustified Iranian aggression.",
+            "To prevent nuclear proliferation",
+            "To support regional allies"
         ],
         "cat": "Why"
     },
     {
-        "q": "The committee is also inspecting rooms of which facilities meant for devotees at the temple?",
-        "a": "Guest houses",
+        "q": "What did Iranian Foreign Minister Abbas Araghchi condemn the US strikes as?",
+        "a": "A violation of Iranian sovereignty and territorial integrity.",
         "options": [
-            "Restrooms",
-            "Dining halls",
-            "Guest houses",
-            "Meditation centers",
-            "Shops"
+            "An act of war",
+            "An economic blockade",
+            "A violation of Iranian sovereignty and territorial integrity.",
+            "A breach of international law",
+            "A humanitarian crisis"
         ],
         "cat": "Why"
     },
     {
-        "q": "The inspection order for the Tiruchendur temple was issued by the Commissioner of which department?",
-        "a": "Hindu Religious and Charitable Endowments (HR & CE) Department",
+        "q": "The Strait of Hormuz remaining largely closed has primarily led to what consequence?",
+        "a": "Global oil inventories being drained at an accelerating pace.",
         "options": [
-            "Archaeological Survey of India (ASI)",
-            "Ministry of Culture",
-            "Hindu Religious and Charitable Endowments (HR & CE) Department",
-            "District Administration",
-            "State Tourism Department"
+            "Increased diplomatic efforts",
+            "Sanctions against Iran",
+            "Global oil inventories being drained at an accelerating pace.",
+            "Military buildup in the region",
+            "Reduced demand for oil"
         ],
-        "cat": "Who"
+        "cat": "Why"
+    },
+    {
+        "q": "What was the primary reason for the Supreme Court declining an urgent hearing on the amicus curiae's status report?",
+        "a": "Mentioning rejected. No orders required to be passed.",
+        "options": [
+            "Lack of jurisdiction",
+            "Pending similar cases",
+            "Mentioning rejected. No orders required to be passed.",
+            "Insufficient evidence",
+            "Technical issues"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was a key direction sought by the amicus curiae regarding illegal constructions in the national capital?",
+        "a": "A structural audit of unauthorized constructions.",
+        "options": [
+            "Financial compensation for builders",
+            "Amnesty for violators",
+            "A structural audit of unauthorized constructions.",
+            "Relaxation of building bye-laws",
+            "Extension of construction deadlines"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court expressed serious concern over \"widespread and blatant violations of building bye-laws\" in the context of what specific issue?",
+        "a": "Rampant conversion of residential premises for commercial use.",
+        "options": [
+            "Lack of green spaces",
+            "Traffic congestion",
+            "Rampant conversion of residential premises for commercial use.",
+            "Water scarcity",
+            "Air pollution"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did the amicus curiae allege regarding the MCD's failure to prevent illegal construction at the Saidulajab property?",
+        "a": "The civic body failed to discharge its statutory obligations.",
+        "options": [
+            "Lack of funding",
+            "Shortage of staff",
+            "The civic body failed to discharge its statutory obligations.",
+            "Political interference",
+            "Public protests"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The suspension of two MCD engineers following the Saidulajab mishap was characterized by the amicus curiae as what?",
+        "a": "A mere eyewash and a post-facto and cosmetic exercise.",
+        "options": [
+            "A decisive action",
+            "A necessary deterrent",
+            "A mere eyewash and a post-facto and cosmetic exercise.",
+            "A step towards accountability",
+            "A swift response"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court expressed strong reservations about the MCD's stand on unauthorized change of land use, calling it what?",
+        "a": "Nothing short of a fraud on the system.",
+        "options": [
+            "A minor regulatory oversight",
+            "An administrative error",
+            "Nothing short of a fraud on the system.",
+            "A necessary adjustment",
+            "A permissible deviation"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Iran's Revolutionary Guards warned that they were ready to deliver a \"crushing and decisive\" response to what?",
+        "a": "Any further US attack.",
+        "options": [
+            "Economic sanctions",
+            "Diplomatic isolation",
+            "Any further US attack.",
+            "Cyber warfare",
+            "Regional interventions"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Bahrain's interior ministry sounded warning sirens after the Iranian attack with what purpose?",
+        "a": "To urge the public to head to the nearest safe place.",
+        "options": [
+            "To declare a state of emergency",
+            "To request international aid",
+            "To urge the public to head to the nearest safe place.",
+            "To announce retaliatory measures",
+            "To provide battle updates"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Kuwait activated its air defenses with the stated purpose of countering what?",
+        "a": "Hostile aerial targets.",
+        "options": [
+            "Civilian aircraft",
+            "Weather balloons",
+            "Hostile aerial targets.",
+            "Reconnaissance drones",
+            "Commercial flights"
+        ],
+        "cat": "Why"
     }
 ]
