@@ -1,534 +1,606 @@
 [
     {
-        "q": "What was the recorded net export of US crude and petroleum products in April, in millions of barrels per day?",
-        "a": "5.8",
+        "q": "What is the total worth of credit guarantees sanctioned under the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 as of June 9?",
+        "a": "\u20b948,484.26 crore",
         "options": [
-            "5.7",
-            "5.9",
-            "5.8",
-            "6.0",
-            "5.6"
+            "\u20b948,500.00 crore",
+            "\u20b948,484.26 crore",
+            "\u20b948,000.00 crore",
+            "\u20b947,950.00 crore",
+            "\u20b949,000.00 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how many million barrels per day are global oil stocks expected to fall in the current quarter, according to the US Energy Information Administration?",
-        "a": "6.3",
+        "q": "How many guarantees were issued under the ECLGS 5.0 programme as of June 9?",
+        "a": "1,06,549",
         "options": [
-            "6.2",
-            "6.4",
-            "6.3",
-            "6.5",
-            "6.1"
+            "1,07,000",
+            "1,06,500",
+            "1,06,549",
+            "1,05,500",
+            "1,04,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What further fall in global oil stocks (in millions of barrels per day) is projected for the third quarter?",
-        "a": "7.66",
+        "q": "What is the target for additional credit flow to existing borrowers facilitated by the ECLGS 5.0?",
+        "a": "\u20b92.55 trillion",
         "options": [
-            "7.56",
-            "7.76",
-            "7.66",
-            "7.86",
-            "7.46"
+            "\u20b92.50 trillion",
+            "\u20b92.60 trillion",
+            "\u20b92.55 trillion",
+            "\u20b92.45 trillion",
+            "\u20b92.65 trillion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many missiles launched from Iran towards Azraq were intercepted and shot down by Jordan's military?",
-        "a": "5",
+        "q": "What is the maximum guarantee cover limit for the Credit Guarantee Scheme for Microfinance Institutions-2.0 (CGSMFI-2.0)?",
+        "a": "\u20b920,000 crore",
         "options": [
-            "4",
-            "6",
-            "5",
-            "7",
-            "3"
+            "\u20b920,500 crore",
+            "\u20b919,500 crore",
+            "\u20b920,000 crore",
+            "\u20b921,000 crore",
+            "\u20b919,000 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many targets inside Iran were subsequently struck by US forces, according to a US official cited by Reuters?",
-        "a": "20",
+        "q": "What is the enhanced maximum loan amount available to large NBFC-MFIs and MFIs under the CGSMFI-2.0 scheme?",
+        "a": "\u20b91,000 crore",
         "options": [
-            "19",
-            "21",
-            "20",
-            "22",
-            "18"
+            "\u20b9950 crore",
+            "\u20b91,050 crore",
+            "\u20b91,000 crore",
+            "\u20b9900 crore",
+            "\u20b91,100 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many lives were claimed in the collapse of the unauthorised five-storey building in Delhi\u2019s Saidulajab area?",
-        "a": "6",
+        "q": "How much worth of loans have been sanctioned under the CGSMFI-2.0 scheme so far?",
+        "a": "\u20b9770 crore",
         "options": [
-            "5",
-            "7",
-            "6",
-            "8",
-            "4"
+            "\u20b9750 crore",
+            "\u20b9770 crore",
+            "\u20b9780 crore",
+            "\u20b9760 crore",
+            "\u20b9790 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many people were injured in the collapse of the unauthorised five-storey building in Delhi\u2019s Saidulajab area?",
-        "a": "14",
+        "q": "What percentage of defaulted amounts is the guarantee coverage set at for small NBFC-MFIs/MFIs under CGSMFI-2.0?",
+        "a": "80%",
         "options": [
-            "13",
-            "15",
-            "14",
-            "16",
-            "12"
+            "75%",
+            "85%",
+            "80%",
+            "70%",
+            "90%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many MCD engineers were suspended following the building collapse mishap in Saidulajab?",
-        "a": "2",
+        "q": "What is the guarantee coverage for medium-sized entities under the CGSMFI-2.0 scheme?",
+        "a": "75%",
         "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "0"
+            "70%",
+            "80%",
+            "75%",
+            "65%",
+            "85%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the average net export of US crude and petroleum products last year, in millions of barrels per day?",
-        "a": "1.4",
+        "q": "What is the guarantee coverage for large institutions under the CGSMFI-2.0 scheme?",
+        "a": "70%",
         "options": [
-            "1.3",
-            "1.5",
-            "1.4",
-            "1.6",
-            "1.2"
+            "75%",
+            "65%",
+            "70%",
+            "80%",
+            "60%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many super fast elevators were ordered by Prestige Estates for 'The Prestige at Mahalaxmi', Mumbai?",
-        "a": "2",
+        "q": "What is the fixed guarantee fee per annum under the CGSMFI-2.0 scheme?",
+        "a": "0.50%",
         "options": [
-            "1",
-            "3",
-            "2",
-            "4",
-            "5"
+            "0.45%",
+            "0.55%",
+            "0.50%",
+            "0.60%",
+            "0.40%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "At what speed, in metres per second, can the super fast elevators ordered by Prestige Estates travel?",
-        "a": "10",
+        "q": "What is the maximum interest rate cap on loans extended by lending institutions to NBFC-MFIs and MFIs under CGSMFI-2.0, over EBLR or MCLR?",
+        "a": "2 percentage points",
         "options": [
-            "9",
-            "11",
-            "10",
-            "12",
-            "8"
+            "1.5 percentage points",
+            "2.5 percentage points",
+            "2 percentage points",
+            "3 percentage points",
+            "1 percentage point"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For how many floors (excluding basement and ground floor) was the Saidulajab building initially sanctioned?",
-        "a": "1",
+        "q": "What is the minimum reduction in interest rates for loans extended by MFIs to end borrowers compared to the institution's average lending rate over the previous 6 months under CGSMFI-2.0?",
+        "a": "1 percentage point",
         "options": [
-            "0",
-            "2",
-            "1",
-            "3",
-            "4"
+            "0.5 percentage points",
+            "1.5 percentage points",
+            "1 percentage point",
+            "2 percentage points",
+            "0.75 percentage points"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who is the current Foreign Minister of Iran, mentioned in the news text?",
-        "a": "Abbas Araghchi",
+        "q": "What is the current individual disclosure threshold for senior executive remuneration that SEBI has proposed to change?",
+        "a": "\u20b91.02 crore",
         "options": [
-            "Hassan Rouhani",
-            "Mohammad Javad Zarif",
-            "Abbas Araghchi",
-            "Mahmoud Ahmadinejad",
-            "Ebrahim Raisi"
+            "\u20b91.00 crore",
+            "\u20b91.05 crore",
+            "\u20b91.02 crore",
+            "\u20b90.98 crore",
+            "\u20b91.10 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total investment expected from the 22 new applicants approved under the PLI Scheme for textiles?",
+        "a": "\u20b92,339.14 crore",
+        "options": [
+            "\u20b92,300.00 crore",
+            "\u20b92,350.00 crore",
+            "\u20b92,339.14 crore",
+            "\u20b92,400.00 crore",
+            "\u20b92,290.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the projected turnover for the 22 new applicants under the PLI Scheme for textiles?",
+        "a": "\u20b915,561.34 crore",
+        "options": [
+            "\u20b915,500.00 crore",
+            "\u20b915,600.00 crore",
+            "\u20b915,561.34 crore",
+            "\u20b915,450.00 crore",
+            "\u20b915,700.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total committed investment from the 96 companies selected so far under the PLI Scheme for textiles?",
+        "a": "\u20b912,822.67 crore",
+        "options": [
+            "\u20b912,800.00 crore",
+            "\u20b912,850.00 crore",
+            "\u20b912,822.67 crore",
+            "\u20b912,750.00 crore",
+            "\u20b912,900.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the total projected turnover for the 96 companies selected so far under the PLI Scheme for textiles?",
+        "a": "\u20b958,294.18 crore",
+        "options": [
+            "\u20b958,000.00 crore",
+            "\u20b958,300.00 crore",
+            "\u20b958,294.18 crore",
+            "\u20b958,200.00 crore",
+            "\u20b958,400.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the area of responsibility (AOR) of the US Navy's Fifth Fleet in square miles?",
+        "a": "2.5 million square miles",
+        "options": [
+            "2.4 million square miles",
+            "2.6 million square miles",
+            "2.5 million square miles",
+            "2.3 million square miles",
+            "2.7 million square miles"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage by value of the total guarantees issued under ECLGS 5.0 belongs to the micro, small and medium enterprises (MSME) sector?",
+        "a": "86%",
+        "options": [
+            "85%",
+            "87%",
+            "86%",
+            "84%",
+            "88%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage by number of the total guarantees issued under ECLGS 5.0 belongs to the micro, small and medium enterprises (MSME) sector?",
+        "a": "96%",
+        "options": [
+            "95%",
+            "97%",
+            "96%",
+            "94%",
+            "98%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the guarantees issued under ECLGS 5.0 were accounted for by public sector banks?",
+        "a": "96%",
+        "options": [
+            "95%",
+            "97%",
+            "96%",
+            "94%",
+            "98%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many employment opportunities are expected to be created by the 22 new applicants under the PLI Scheme for textiles?",
+        "a": "36,217",
+        "options": [
+            "36,000",
+            "36,500",
+            "36,217",
+            "35,800",
+            "36,300"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Which Congress leader moved the Supreme Court challenging the rejection of her nomination for Rajya Sabha elections?",
+        "a": "Meenakshi Natarajan",
+        "options": [
+            "Sonia Gandhi",
+            "Priyanka Gandhi Vadra",
+            "Meenakshi Natarajan",
+            "Mallikarjun Kharge",
+            "Supriya Sule"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which former US President had posted on Truth Social stating Iran shot down an Apache helicopter?",
-        "a": "Trump",
+        "q": "Which Congress MP and senior advocate alleged that the Returning Officer's decision to reject the nomination of Natarajan is 'perverse'?",
+        "a": "Abhishek Manu Singhvi",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Trump",
-            "George W. Bush",
-            "Bill Clinton"
+            "Kapil Sibal",
+            "P. Chidambaram",
+            "Abhishek Manu Singhvi",
+            "Manish Tewari",
+            "Adhir Ranjan Chowdhury"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the President of Otis India, mentioned in the context of the company's expansion plans?",
-        "a": "Sebi Joseph",
+        "q": "Which BJP leader stated that the case against Natarajan originated from a complaint filed by a female Congress worker in Telangana?",
+        "a": "Sudhanshu Trivedi",
         "options": [
-            "Rajesh Kumar",
-            "Sunil Mehta",
-            "Sebi Joseph",
-            "Anil Sharma",
-            "Vikram Singh"
+            "J.P. Nadda",
+            "Amit Shah",
+            "Sudhanshu Trivedi",
+            "Ravi Shankar Prasad",
+            "Smriti Irani"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which real estate company placed an order for two super fast elevators for 'The Prestige at Mahalaxmi'?",
-        "a": "Prestige Estates",
+        "q": "Who is the Political Desk Editor at LiveMint, with over 16 years of experience covering national and international politics?",
+        "a": "Gulam Jeelani",
         "options": [
-            "DLF",
-            "Godrej Properties",
-            "Prestige Estates",
-            "Lodha Group",
-            "Brigade Group"
+            "Harsh Kumar",
+            "Tuhin Kanta Pandey",
+            "Gulam Jeelani",
+            "Prabir Purkayastha",
+            "Sudhanshu Trivedi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which organization warned that global oil stockpiles have fallen to their lowest level since 2003?",
-        "a": "US Energy Information Administration",
+        "q": "Who is the SEBI Chairperson mentioned as a constant and vocal advocate of improved disclosure and transparency?",
+        "a": "Tuhin Kanta Pandey",
         "options": [
-            "International Energy Agency",
-            "OPEC",
-            "US Energy Information Administration",
-            "World Bank",
-            "United Nations"
+            "Madhabi Puri Buch",
+            "Ajay Tyagi",
+            "Tuhin Kanta Pandey",
+            "S. Raman",
+            "U.K. Sinha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was appointed as the amicus curiae by the Supreme Court to assist in the matter concerning illegal constructions?",
-        "a": "Ajit Kumar Sinha",
+        "q": "Which journalist and online portal NewsClick founder had his arrest and remand under UAPA declared 'invalid' by the Supreme Court?",
+        "a": "Prabir Purkayastha",
         "options": [
-            "Harish Salve",
-            "Mukul Rohatgi",
-            "Ajit Kumar Sinha",
-            "K.K. Venugopal",
-            "Tushar Mehta"
+            "Punya Prasun Bajpai",
+            "Ravish Kumar",
+            "Prabir Purkayastha",
+            "Rajdeep Sardesai",
+            "Barkha Dutt"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Bench of Supreme Court Justices declined an urgent hearing on the status report regarding the Delhi building collapse?",
-        "a": "Prashant Kumar Mishra and Atul S. Chandurkar",
+        "q": "Which two Justices of the Supreme Court declared the arrest and remand of Prabir Purkayastha as 'invalid in the eyes of law'?",
+        "a": "Justices B.R. Gavai and Sandeep Mehta",
         "options": [
-            "D.Y. Chandrachud and S.K. Kaul",
-            "N.V. Ramana and Hrishikesh Roy",
-            "Prashant Kumar Mishra and Atul S. Chandurkar",
-            "S.A. Bobde and M.R. Shah",
-            "U.U. Lalit and Aniruddha Bose"
+            "Justices D.Y. Chandrachud and S.K. Kaul",
+            "Justices B.R. Gavai and Sandeep Mehta",
+            "Justices Hima Kohli and Bela M. Trivedi",
+            "Justices K.M. Joseph and Aniruddha Bose",
+            "Justices Sanjiv Khanna and B.V. Nagarathna"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Supreme Court Bench had earlier ordered a pan-India inquiry into rampant conversion of residential premises for commercial use?",
-        "a": "Ahsanuddin Amanullah and R. Mahadevan",
+        "q": "Which Congress general secretary was part of the delegation that met EC officials regarding Meenakshi Natarajan's nomination?",
+        "a": "K.C. Venugopal",
         "options": [
-            "Sanjay Kishan Kaul and A.S. Bopanna",
-            "Ahsanuddin Amanullah and R. Mahadevan",
-            "Indira Banerjee and V. Ramasubramanian",
-            "L. Nageswara Rao and B.R. Gavai",
-            "Ajay Rastogi and C.T. Ravikumar"
+            "Randeep Singh Surjewala",
+            "Jairam Ramesh",
+            "K.C. Venugopal",
+            "Mukul Wasnik",
+            "Avinash Pande"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who filed the status report through advocate Govind Jee in the Supreme Court case regarding the building collapse?",
-        "a": "Amicus Curiae",
+        "q": "Which US Navy entity shares a commander and headquarters with US Naval Forces Central Command in Bahrain?",
+        "a": "US Fifth Fleet",
         "options": [
-            "Municipal Corporation of Delhi",
-            "Delhi Government",
-            "Amicus Curiae",
-            "Residents Welfare Association",
-            "Injured Victims"
+            "US Seventh Fleet",
+            "US Third Fleet",
+            "US Sixth Fleet",
+            "US Fifth Fleet",
+            "US Second Fleet"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity is expected to furnish an affidavit detailing compensation for the families of the deceased in the Saidulajab building collapse?",
-        "a": "Delhi government",
+        "q": "Which Iranian military force claimed its naval forces used Shahed-136 one-way attack drones in the operation against the US Fifth Fleet?",
+        "a": "Islamic Revolutionary Guard Corps",
         "options": [
-            "Municipal Corporation of Delhi",
-            "Central Government",
-            "Delhi government",
-            "Builder Association",
-            "Insurance Company"
+            "Iranian Air Force",
+            "Iranian Army Ground Forces",
+            "Islamic Revolutionary Guard Corps",
+            "Iranian Navy",
+            "Basij Militia"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Iranian military branch claimed responsibility for targeting four sites at the US al-Azraq base in Jordan?",
-        "a": "Revolutionary Guards",
+        "q": "Who is the policy reporter at Mint (HT Media Group) covering the Ministry of Commerce and Industry along with key departments of the Ministry of Finance?",
+        "a": "Harsh Kumar",
         "options": [
-            "Iranian Army",
-            "Basij Militia",
-            "Revolutionary Guards",
-            "Quds Force",
-            "Naval Forces"
+            "Gulam Jeelani",
+            "Tuhin Kanta Pandey",
+            "Harsh Kumar",
+            "Prabir Purkayastha",
+            "Sudhanshu Trivedi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which command justified the US strikes on Iran as \"a proportional response to unjustified Iranian aggression\"?",
-        "a": "US Central Command",
+        "q": "Besides Abhishek Singhvi, which senior advocate was also mentioned to mention Meenakshi Natarajan's case before the Supreme Court?",
+        "a": "Vivek Tankha",
         "options": [
-            "US Northern Command",
-            "US Pacific Command",
-            "US Central Command",
-            "US European Command",
-            "US Africa Command"
+            "Shashi Tharoor",
+            "Salman Khurshid",
+            "Kapil Sibal",
+            "Vivek Tankha",
+            "Derek O'Brien"
         ],
         "cat": "Who"
     },
     {
-        "q": "The Apache helicopter, whose downing led to US strikes, was allegedly downed in which critical shipping lane?",
-        "a": "Strait of Hormuz",
+        "q": "From which state was Meenakshi Natarajan's nomination for Rajya Sabha rejected?",
+        "a": "Madhya Pradesh",
         "options": [
-            "Suez Canal",
-            "Bab-el-Mandeb",
-            "Strait of Hormuz",
-            "Malacca Strait",
-            "Bosphorus Strait"
+            "Rajasthan",
+            "Chhattisgarh",
+            "Madhya Pradesh",
+            "Gujarat",
+            "Uttar Pradesh"
         ],
         "cat": "Where"
     },
     {
-        "q": "Explosions were heard in which of the following locations within the Strait of Hormuz after US strikes?",
-        "a": "Bandar Abbas",
+        "q": "In which city did the ten-member Congress delegation meet with the Election Commission over the rejection of Meenakshi Natarajan's nomination?",
+        "a": "New Delhi",
         "options": [
-            "Dubai",
-            "Riyadh",
-            "Doha",
-            "Bandar Abbas",
-            "Abu Dhabi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Jordan's military intercepted missiles launched from Iran towards which specific location?",
-        "a": "Azraq",
-        "options": [
-            "Amman",
-            "Zarqa",
-            "Mafraq",
-            "Azraq",
-            "Irbid"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which US military base in Jordan was reportedly targeted by Iran's Revolutionary Guards?",
-        "a": "Al-Azraq base",
-        "options": [
-            "Prince Hassan Air Base",
-            "King Abdullah II Air Base",
-            "Al-Azraq base",
-            "Muwaffaq Salti Air Base",
-            "Ruwaished Air Base"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which US base in Kuwait was reportedly targeted by Iran's revolutionary guards with drones?",
-        "a": "Ali Al Salem base",
-        "options": [
-            "Camp Arifjan",
-            "Camp Buehring",
-            "Ali Al Salem base",
-            "Abdullah Al-Mubarak Air Base",
-            "Kuwait Naval Base"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The US 5th fleet, reportedly attacked by Iran with drones, is stationed in which Gulf nation?",
-        "a": "Bahrain",
-        "options": [
-            "Qatar",
-            "UAE",
-            "Saudi Arabia",
-            "Bahrain",
-            "Oman"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The unauthorized five-storey building collapse, which claimed six lives, occurred in which area of Delhi?",
-        "a": "Saidulajab",
-        "options": [
-            "Saket",
-            "Vasant Kunj",
-            "Saidulajab",
-            "Lajpat Nagar",
-            "Malviya Nagar"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "'The Prestige', set to be India's tallest commercial building, is under construction in which city?",
-        "a": "Mumbai",
-        "options": [
-            "Delhi",
-            "Bengaluru",
             "Mumbai",
-            "Chennai",
-            "Kolkata"
+            "Bengaluru",
+            "New Delhi",
+            "Kolkata",
+            "Chennai"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Supreme Court's earlier order concerning illegal constructions, which led to a pan-India inquiry, originated from a matter in which Indian state?",
-        "a": "Tamil Nadu",
+        "q": "The case against Congress candidate Meenakshi Natarajan, alleging exploitation and inappropriate behaviour, originated from which state?",
+        "a": "Telangana",
         "options": [
-            "Karnataka",
-            "Kerala",
-            "Tamil Nadu",
             "Andhra Pradesh",
-            "Maharashtra"
+            "Karnataka",
+            "Telangana",
+            "Kerala",
+            "Tamil Nadu"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which region did the US Central Command state was the target of \"proportional response\" strikes?",
-        "a": "Iran",
+        "q": "Where is the headquarters of the US Navy's Fifth Fleet located?",
+        "a": "Manama, Bahrain",
         "options": [
-            "Iraq",
-            "Syria",
-            "Yemen",
-            "Iran",
-            "Lebanon"
+            "Dubai, UAE",
+            "Riyadh, Saudi Arabia",
+            "Manama, Bahrain",
+            "Doha, Qatar",
+            "Kuwait City, Kuwait"
         ],
         "cat": "Where"
     },
     {
-        "q": "Besides Bandar Abbas, Sirik, and Jask, which other location in the Strait of Hormuz experienced explosions?",
-        "a": "Qeshm Island",
+        "q": "Before moving to New Delhi in 2015, Gulam Jeelani was based and worked as a reporter for five years in which Indian state?",
+        "a": "Uttar Pradesh",
         "options": [
-            "Kish Island",
-            "Larak Island",
-            "Qeshm Island",
-            "Hengam Island",
-            "Abu Musa Island"
+            "Bihar",
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Haryana"
         ],
         "cat": "Where"
     },
     {
-        "q": "In addition to Jordan and Kuwait, which other Gulf nation mentioned in the text activated air defenses against hostile aerial targets from Iran?",
-        "a": "Bahrain",
+        "q": "Gulam Jeelani was attached to which newspaper in Minnesota, US, during his Alfred Friendly Fellowship?",
+        "a": "Minneapolis Star Tribune",
         "options": [
-            "Qatar",
-            "UAE",
-            "Saudi Arabia",
-            "Bahrain",
-            "Oman"
+            "Washington Post",
+            "New York Times",
+            "Minneapolis Star Tribune",
+            "Los Angeles Times",
+            "Chicago Tribune"
         ],
         "cat": "Where"
     },
     {
-        "q": "The Apache helicopter was allegedly downed in the Strait of Hormuz on which day?",
-        "a": "Tuesday, June 9",
+        "q": "The Department of Financial Services (DFS) organized outreach programmes for ECLGS at how many locations through State Level Bankers' Committees (SLBCs)?",
+        "a": "Nine",
         "options": [
-            "Monday, June 8",
-            "Tuesday, June 9",
-            "Wednesday, June 10",
-            "Thursday, June 11",
-            "Friday, June 7"
+            "Seven",
+            "Eight",
+            "Nine",
+            "Ten",
+            "Six"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The Strait of Hormuz, a significant channel for seaborne oil trade, falls within the area of responsibility of which US Navy Fleet?",
+        "a": "US Fifth Fleet",
+        "options": [
+            "US Second Fleet",
+            "US Seventh Fleet",
+            "US Third Fleet",
+            "US Fifth Fleet",
+            "US Sixth Fleet"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Prabir Purkayastha, the NewsClick founder, was arrested by which police force?",
+        "a": "Delhi Police",
+        "options": [
+            "Mumbai Police",
+            "Kolkata Police",
+            "Delhi Police",
+            "Bengaluru Police",
+            "Chennai Police"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The US Navy's Fifth Fleet is responsible for an area encompassing the Persian Gulf, Red Sea, Arabian Sea, and parts of which other ocean?",
+        "a": "Indian Ocean",
+        "options": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Southern Ocean"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On which date was the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 approved by the Cabinet?",
+        "a": "5 May 2026",
+        "options": [
+            "5 May 2025",
+            "5 May 2026",
+            "9 June 2026",
+            "20 March 2026",
+            "31 August 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "Since which year have global oil stockpiles in the world's 38 wealthiest nations fallen to their lowest level?",
-        "a": "2003",
+        "q": "The Credit Guarantee Scheme for Microfinance Institutions-2.0 (CGSMFI-2.0) was launched on which date?",
+        "a": "20 March 2026",
         "options": [
-            "2000",
-            "2003",
-            "2005",
-            "2007",
-            "2010"
+            "5 May 2026",
+            "9 June 2026",
+            "20 March 2026",
+            "31 August 2026",
+            "10 June 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day of the week did the US Energy Information Administration issue its warning about falling oil stockpiles?",
-        "a": "Tuesday",
+        "q": "The validity of the CGSMFI-2.0 scheme has been extended until which date?",
+        "a": "31 August 2026",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "31 July 2026",
+            "31 September 2026",
+            "31 August 2026",
+            "30 June 2026",
+            "31 December 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which month did US crude and petroleum product net exports hit a record of 5.8 million barrels per day?",
-        "a": "April",
+        "q": "On which date did SEBI release its consultation paper proposing changes to senior executive salary disclosure for mutual funds?",
+        "a": "June 10",
         "options": [
-            "March",
-            "April",
-            "May",
-            "June",
-            "July"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The Supreme Court declined to accord an urgent hearing on the building collapse report on which specific date?",
-        "a": "Monday (June 8, 2026)",
-        "options": [
-            "Tuesday (June 7, 2026)",
-            "Monday (June 8, 2026)",
-            "Wednesday (June 9, 2026)",
-            "Friday (June 5, 2026)",
-            "Thursday (June 4, 2026)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The building collapse in Delhi\u2019s Saidulajab area, claiming six lives, occurred on which date?",
-        "a": "May 30",
-        "options": [
-            "May 28",
-            "May 30",
             "June 1",
-            "June 3",
-            "May 29"
+            "June 5",
+            "June 10",
+            "June 15",
+            "June 20"
         ],
         "cat": "When"
     },
     {
-        "q": "The earlier Supreme Court order, concerning illegal constructions and a pan-India inquiry, was passed on which date?",
-        "a": "March 25",
+        "q": "What is the deadline for the public to submit comments on SEBI's proposal regarding fund manager salary disclosure?",
+        "a": "June 30 2026",
         "options": [
-            "March 20",
-            "March 25",
-            "April 1",
-            "April 5",
-            "March 15"
+            "June 15 2026",
+            "July 10 2026",
+            "June 30 2026",
+            "July 31 2026",
+            "August 15 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year was the illegal construction of the second and third floors carried out at the Saidulajab property?",
-        "a": "2015",
+        "q": "The Islamic Revolutionary Guard Corps claimed its naval forces conducted the operation against the US Fifth Fleet at approximately what local time?",
+        "a": "2:30 am",
         "options": [
-            "2013",
-            "2015",
-            "2017",
-            "2019",
-            "2014"
+            "1:30 am",
+            "3:30 am",
+            "2:30 am",
+            "4:30 am",
+            "12:30 am"
         ],
         "cat": "When"
     },
     {
-        "q": "Jordan's military reported intercepting and shooting down missiles launched from Iran on which day of the week?",
+        "q": "On which day did the Supreme Court declare the arrest and remand of journalist Prabir Purkayastha under UAPA as 'invalid'?",
         "a": "Wednesday",
         "options": [
             "Monday",
@@ -540,182 +612,110 @@
         "cat": "When"
     },
     {
-        "q": "Iran's Revolutionary Guards announced targeting US bases in Jordan on which specific day?",
-        "a": "Wednesday",
+        "q": "According to the news, what was the last day for the withdrawal of nominations for Rajya Sabha seats, the same day the Congress delegation met the EC?",
+        "a": "June 10, 2026",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "June 9, 2026",
+            "June 11, 2026",
+            "June 10, 2026",
+            "June 8, 2026",
+            "June 12, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court directed statutory appellate authorities and quasi-judicial forums to dispose of pending matters within how many months?",
-        "a": "3",
+        "q": "What is the primary purpose stated for Meenakshi Natarajan moving the Supreme Court regarding her Rajya Sabha nomination?",
+        "a": "Challenging the rejection of her nomination.",
         "options": [
-            "1",
-            "3",
-            "6",
-            "9",
-            "12"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how long had the unauthorized construction reportedly continued at the Saidulajab property, leading up to its collapse?",
-        "a": "Nearly a decade",
-        "options": [
-            "Five years",
-            "Seven years",
-            "Nearly a decade",
-            "Fifteen years",
-            "Two decades"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the US justification for carrying out strikes on Iran?",
-        "a": "A proportional response to unjustified Iranian aggression.",
-        "options": [
-            "To secure oil supplies",
-            "To protect shipping lanes",
-            "A proportional response to unjustified Iranian aggression.",
-            "To prevent nuclear proliferation",
-            "To support regional allies"
+            "Seeking a new election date",
+            "Demanding an apology from the EC",
+            "Challenging the rejection of her nomination",
+            "Filing a defamation suit",
+            "Requesting a reconsideration by the RO"
         ],
         "cat": "Why"
     },
     {
-        "q": "What did Iranian Foreign Minister Abbas Araghchi condemn the US strikes as?",
-        "a": "A violation of Iranian sovereignty and territorial integrity.",
+        "q": "According to the finance ministry, what is the core focus of ECLGS 5.0, as underscored by the high percentage of guarantees for MSMEs?",
+        "a": "Supporting smaller businesses.",
         "options": [
-            "An act of war",
-            "An economic blockade",
-            "A violation of Iranian sovereignty and territorial integrity.",
-            "A breach of international law",
-            "A humanitarian crisis"
+            "Boosting large corporations",
+            "Supporting smaller businesses",
+            "Stabilizing the banking sector",
+            "Encouraging foreign investment",
+            "Funding infrastructure projects"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Strait of Hormuz remaining largely closed has primarily led to what consequence?",
-        "a": "Global oil inventories being drained at an accelerating pace.",
+        "q": "What is the main reason cited by the mutual fund industry for SEBI's proposal to change senior executive salary disclosure from individual to group level?",
+        "a": "\"Limited incremental interest to investors\" and \"privacy and data protection\" concerns.",
         "options": [
-            "Increased diplomatic efforts",
-            "Sanctions against Iran",
-            "Global oil inventories being drained at an accelerating pace.",
-            "Military buildup in the region",
-            "Reduced demand for oil"
+            "To reduce administrative burden",
+            "To align with global practices",
+            "To improve investor trust",
+            "To protect against market manipulation",
+            "\"Limited incremental interest to investors\" and \"privacy and data protection\" concerns"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the primary reason for the Supreme Court declining an urgent hearing on the amicus curiae's status report?",
-        "a": "Mentioning rejected. No orders required to be passed.",
+        "q": "What is the overarching objective of the Production Linked Incentive (PLI) Scheme for textiles, as indicated by the government's approvals?",
+        "a": "To bring in total investment, generate projected turnover, and create employment opportunities.",
         "options": [
-            "Lack of jurisdiction",
-            "Pending similar cases",
-            "Mentioning rejected. No orders required to be passed.",
-            "Insufficient evidence",
-            "Technical issues"
+            "To reduce textile imports",
+            "To promote handloom industries",
+            "To attract foreign direct investment only",
+            "To bring in total investment, generate projected turnover, and create employment opportunities",
+            "To increase export subsidies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was a key direction sought by the amicus curiae regarding illegal constructions in the national capital?",
-        "a": "A structural audit of unauthorized constructions.",
+        "q": "What is the stated purpose of the Credit Guarantee Scheme for Microfinance Institutions-2.0 (CGSMFI-2.0)?",
+        "a": "To provide guarantee cover to banks and financial institutions against expected losses on loans extended to NBFC-MFIs and MFIs for onward lending to small borrowers.",
         "options": [
-            "Financial compensation for builders",
-            "Amnesty for violators",
-            "A structural audit of unauthorized constructions.",
-            "Relaxation of building bye-laws",
-            "Extension of construction deadlines"
+            "To directly lend to small borrowers",
+            "To provide grants to microfinance institutions",
+            "To regulate interest rates in microfinance",
+            "To provide guarantee cover to banks and financial institutions against expected losses on loans extended to NBFC-MFIs and MFIs for onward lending to small borrowers",
+            "To fund large infrastructure projects"
         ],
         "cat": "Why"
     },
     {
-        "q": "The Supreme Court expressed serious concern over \"widespread and blatant violations of building bye-laws\" in the context of what specific issue?",
-        "a": "Rampant conversion of residential premises for commercial use.",
+        "q": "What did the Iranian army state as the reason for launching drone and missile strikes targeting the US Fifth Fleet headquarters in Bahrain?",
+        "a": "Retaliation to American aggression and US violations of a ceasefire and strikes on southern Iran.",
         "options": [
-            "Lack of green spaces",
-            "Traffic congestion",
-            "Rampant conversion of residential premises for commercial use.",
-            "Water scarcity",
-            "Air pollution"
+            "Naval exercise in the region",
+            "Dispute over oil trade routes",
+            "Retaliation to American aggression and US violations of a ceasefire and strikes on southern Iran",
+            "Show of force to regional rivals",
+            "Protest against economic sanctions"
         ],
         "cat": "Why"
     },
     {
-        "q": "What did the amicus curiae allege regarding the MCD's failure to prevent illegal construction at the Saidulajab property?",
-        "a": "The civic body failed to discharge its statutory obligations.",
+        "q": "Why did the Supreme Court declare the arrest and remand of Prabir Purkayastha under the UAPA as 'invalid'?",
+        "a": "Neither Mr. Purkayastha nor his designated counsel were provided the grounds of his arrest in writing.",
         "options": [
-            "Lack of funding",
-            "Shortage of staff",
-            "The civic body failed to discharge its statutory obligations.",
-            "Political interference",
-            "Public protests"
+            "Lack of evidence for UAPA charges",
+            "Procedural errors in court",
+            "Neither Mr. Purkayastha nor his designated counsel were provided the grounds of his arrest in writing",
+            "The UAPA law was deemed unconstitutional",
+            "He was granted bail by a lower court"
         ],
         "cat": "Why"
     },
     {
-        "q": "The suspension of two MCD engineers following the Saidulajab mishap was characterized by the amicus curiae as what?",
-        "a": "A mere eyewash and a post-facto and cosmetic exercise.",
+        "q": "What are the two conditions for disclosure of cases under Section 33A of the Representation of the People Act, as argued by Abhishek Singhvi?",
+        "a": "Punishment of over two years and charges having been framed.",
         "options": [
-            "A decisive action",
-            "A necessary deterrent",
-            "A mere eyewash and a post-facto and cosmetic exercise.",
-            "A step towards accountability",
-            "A swift response"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court expressed strong reservations about the MCD's stand on unauthorized change of land use, calling it what?",
-        "a": "Nothing short of a fraud on the system.",
-        "options": [
-            "A minor regulatory oversight",
-            "An administrative error",
-            "Nothing short of a fraud on the system.",
-            "A necessary adjustment",
-            "A permissible deviation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Iran's Revolutionary Guards warned that they were ready to deliver a \"crushing and decisive\" response to what?",
-        "a": "Any further US attack.",
-        "options": [
-            "Economic sanctions",
-            "Diplomatic isolation",
-            "Any further US attack.",
-            "Cyber warfare",
-            "Regional interventions"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Bahrain's interior ministry sounded warning sirens after the Iranian attack with what purpose?",
-        "a": "To urge the public to head to the nearest safe place.",
-        "options": [
-            "To declare a state of emergency",
-            "To request international aid",
-            "To urge the public to head to the nearest safe place.",
-            "To announce retaliatory measures",
-            "To provide battle updates"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Kuwait activated its air defenses with the stated purpose of countering what?",
-        "a": "Hostile aerial targets.",
-        "options": [
-            "Civilian aircraft",
-            "Weather balloons",
-            "Hostile aerial targets.",
-            "Reconnaissance drones",
-            "Commercial flights"
+            "Any pending case and initial complaint filed",
+            "Punishment of over one year and police investigation complete",
+            "Punishment of over two years and charges having been framed",
+            "Any criminal case and court hearing initiated",
+            "FIR registered and cognizance taken"
         ],
         "cat": "Why"
     }
