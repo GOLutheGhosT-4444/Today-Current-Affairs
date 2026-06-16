@@ -1,721 +1,721 @@
 [
     {
-        "q": "How many passengers tragically died after jumping from the Khajuraho-Udaipur Intercity Express?",
-        "a": "Four",
+        "q": "How many people were killed aboard the B-52 Stratofortress bomber that crashed at Edwards Air Force Base?",
+        "a": "8",
         "options": [
-            "One",
-            "Two",
-            "Three",
-            "Four",
-            "Five"
+            "7",
+            "9",
+            "8",
+            "6",
+            "10"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the average annual return on arbitrage funds mentioned in the text?",
-        "a": "6.5%",
+        "q": "What is the typical crew size of a B-52 Stratofortress bomber?",
+        "a": "5",
         "options": [
-            "6.0%",
-            "7.0%",
-            "6.5%",
-            "5.5%",
-            "7.5%"
+            "4",
+            "6",
+            "5",
+            "3",
+            "7"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What are the average fees for large-cap active funds as stated in the text?",
+        "q": "What is the approximate payload capacity of a B-52 Stratofortress in pounds?",
+        "a": "70,000",
+        "options": [
+            "69,000",
+            "71,000",
+            "70,000",
+            "69,500",
+            "70,500"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the combat range of a B-52 Stratofortress in miles?",
+        "a": "8,800",
+        "options": [
+            "8,700",
+            "8,900",
+            "8,800",
+            "8,750",
+            "8,850"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Edwards Air Force Base is located approximately how many miles north of Los Angeles?",
+        "a": "60",
+        "options": [
+            "58",
+            "62",
+            "60",
+            "59",
+            "61"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "To what percentage did the Bank of Japan raise its benchmark interest rate on June 16, 2026?",
         "a": "1%",
         "options": [
-            "0.5%",
-            "1.5%",
+            "0.9%",
+            "1.1%",
             "1%",
+            "0.95%",
+            "1.05%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the previous benchmark interest rate of the Bank of Japan before the increase on June 16, 2026?",
+        "a": "0.75%",
+        "options": [
+            "0.70%",
+            "0.80%",
             "0.75%",
-            "1.25%"
+            "0.72%",
+            "0.78%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What are the average fees for index funds as mentioned in the text?",
-        "a": "0.25%",
+        "q": "The Bank of Japan's recent rate hike put the benchmark interest rate at a high unseen in how many decades?",
+        "a": "Three-decade",
         "options": [
-            "0.10%",
-            "0.50%",
-            "0.25%",
-            "0.30%",
-            "0.20%"
+            "Two-decade",
+            "Four-decade",
+            "Three-decade",
+            "Five-decade",
+            "One-decade"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What are the average fees for ETFs as mentioned in the text?",
-        "a": "Less than 0.10%",
+        "q": "The Japanese yen recently fell to approximately what value against the U.S. dollar?",
+        "a": "160 yen",
         "options": [
-            "0.15%",
-            "Less than 0.10%",
-            "0.10%",
-            "0.20%",
-            "0.05%"
+            "158 yen",
+            "162 yen",
+            "160 yen",
+            "159 yen",
+            "161 yen"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the estimated financial liability per month for implementing the 'Priyadarshini' scheme in ordinary buses in Kerala?",
-        "a": "\u20b9712 crore",
+        "q": "What was the total award amount won by DXC Technology against Tata Consultancy Services?",
+        "a": "$168 million",
         "options": [
-            "\u20b9700 crore",
-            "\u20b9750 crore",
-            "\u20b9712 crore",
-            "\u20b9650 crore",
-            "\u20b9800 crore"
+            "$167 million",
+            "$169 million",
+            "$168 million",
+            "$167.5 million",
+            "$168.5 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "If the 'Priyadarshini' scheme is extended to all categories of buses, what is the expected monthly liability?",
-        "a": "\u20b91,300 crore",
+        "q": "How much of the award to DXC Technology was for compensatory damages?",
+        "a": "$56 million",
         "options": [
-            "\u20b91,200 crore",
-            "\u20b91,400 crore",
-            "\u20b91,300 crore",
-            "\u20b91,250 crore",
-            "\u20b91,350 crore"
+            "$55 million",
+            "$57 million",
+            "$56 million",
+            "$55.5 million",
+            "$56.5 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many KSRTC buses under \u2018Ordinary\u2019 service are there in Kerala as per the text?",
-        "a": "3,125",
+        "q": "How much of the award to DXC Technology was for punitive damages?",
+        "a": "$112 million",
         "options": [
-            "3,000",
-            "3,200",
-            "3,125",
-            "3,100",
-            "3,150"
+            "$111 million",
+            "$113 million",
+            "$112 million",
+            "$111.5 million",
+            "$112.5 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many of the KSRTC \u2018Ordinary\u2019 service buses are in Thiruvananthapuram district?",
-        "a": "687",
+        "q": "What is the estimated issue size range for Razorpay's Initial Public Offering (IPO) in crore rupees?",
+        "a": "\u20b95,000-6,000 crore",
         "options": [
-            "650",
-            "700",
-            "687",
-            "690",
-            "680"
+            "\u20b94,900-5,900 crore",
+            "\u20b95,100-6,100 crore",
+            "\u20b95,000-6,000 crore",
+            "\u20b94,950-5,950 crore",
+            "\u20b95,050-6,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many KSRTC \u2018Ordinary\u2019 service buses are in Kollam district?",
-        "a": "415",
+        "q": "What was the target fundraise amount for rival fintech firm PhonePe's IPO in billion dollars before it was put on hold?",
+        "a": "$1.5 billion",
         "options": [
-            "400",
-            "420",
-            "415",
-            "410",
-            "425"
+            "$1.4 billion",
+            "$1.6 billion",
+            "$1.5 billion",
+            "$1.45 billion",
+            "$1.55 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many KSRTC \u2018Ordinary\u2019 service buses are in Ernakulam district?",
-        "a": "325",
+        "q": "What was the target valuation for PhonePe's IPO in billion dollars?",
+        "a": "$15 billion",
         "options": [
-            "300",
-            "350",
-            "325",
-            "320",
-            "330"
+            "$14 billion",
+            "$16 billion",
+            "$15 billion",
+            "$14.5 billion",
+            "$15.5 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the preliminary estimated daily cost of implementing the 'Priyadarshini' scheme on ordinary services?",
-        "a": "\u20b92 crore",
+        "q": "What was the annual income benchmark for disclosure of high-earning employees in mutual fund companies as per the March 20, 2026 Master Circular?",
+        "a": "\u20b91.02 crore",
         "options": [
-            "\u20b91 crore",
-            "\u20b92.5 crore",
-            "\u20b92 crore",
-            "\u20b91.5 crore",
-            "\u20b93 crore"
+            "\u20b91.01 crore",
+            "\u20b91.03 crore",
+            "\u20b91.02 crore",
+            "\u20b91.015 crore",
+            "\u20b91.025 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By what percentage is the 'Priyadarshini' scheme estimated to reduce women's travel expenditure?",
-        "a": "15% to 25%",
+        "q": "What was the wholesale inflation (WPI) rate in May 2026, primarily driven by surging prices of crude oil and natural gas?",
+        "a": "9.7%",
         "options": [
-            "10% to 20%",
-            "20% to 30%",
-            "15% to 25%",
-            "5% to 15%",
-            "25% to 35%"
+            "9.6%",
+            "9.8%",
+            "9.7%",
+            "9.65%",
+            "9.75%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many ordinary buses are currently operational in the southern districts of Kerala, making them among the largest beneficiaries of the 'Priyadarshini' initiative?",
-        "a": "1,268",
+        "q": "What was the inflation in the crude oil and natural gas category in May 2026?",
+        "a": "61.5%",
         "options": [
-            "1,200",
-            "1,300",
-            "1,268",
-            "1,250",
-            "1,275"
+            "61.4%",
+            "61.6%",
+            "61.5%",
+            "61.45%",
+            "61.55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many blue-tick verified WhatsApp numbers does RBI use for communication, as stated by PIB Fact Check?",
-        "a": "Two",
+        "q": "What was the inflation rate for manufactured products in May 2026?",
+        "a": "7.5%",
         "options": [
-            "One",
-            "Three",
-            "Two",
-            "Four",
-            "Five"
+            "7.4%",
+            "7.6%",
+            "7.5%",
+            "7.45%",
+            "7.55%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of returns from an active fund can be attributed to the movements in its benchmark index, according to empirical evidence?",
-        "a": "More than 85%",
+        "q": "How much does Ambika Puliyedath, a KSRTC bus passenger, typically spend a day on transport alone?",
+        "a": "\u20b9220",
         "options": [
-            "More than 75%",
-            "More than 80%",
-            "More than 85%",
-            "More than 90%",
-            "More than 60%"
+            "\u20b9215",
+            "\u20b9225",
+            "\u20b9220",
+            "\u20b9218",
+            "\u20b9222"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many categories of ordinary buses does the KSRTC cover under the 'Priyadarshini' scheme?",
-        "a": "Seven",
+        "q": "Which aircraft manufacturer confirmed two of its employees were on board the crashed B-52 Stratofortress?",
+        "a": "Boeing",
         "options": [
-            "Five",
-            "Six",
-            "Seven",
-            "Eight",
-            "Nine"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many coverage areas does Livemint News Desk list for its comprehensive news and analysis?",
-        "a": "Six",
-        "options": [
-            "Four",
-            "Five",
-            "Six",
-            "Seven",
-            "Eight"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who is the Public Relation Officer of North Central Railway's Jhansi division quoted in the news?",
-        "a": "Manoj Singh",
-        "options": [
-            "Manoj Kumar",
-            "Sanjay Singh",
-            "Manoj Singh",
-            "Rajesh Sharma",
-            "Prakash Jain"
+            "Airbus",
+            "Lockheed Martin",
+            "Boeing",
+            "General Dynamics",
+            "Northrop Grumman"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which unit flagged the viral WhatsApp message about the 'National Student Laptop Scheme 2026' as fake?",
-        "a": "Press Information Bureau's (PIB) fact-check unit",
+        "q": "Who was the pilot historically known for breaking the sound barrier at Edwards Air Force Base in 1947?",
+        "a": "Chuck Yeager",
         "options": [
-            "Ministry of Education",
-            "NITI Aayog",
-            "Press Information Bureau's (PIB) fact-check unit",
-            "Cyber Crime Cell",
-            "Reserve Bank of India"
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Chuck Yeager",
+            "John Glenn",
+            "Yuri Gagarin"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Political Affairs Editor mentioned in the Livemint team?",
-        "a": "Gulam Jeelani",
+        "q": "Which US President met with French President Emmanuel Macron to signal a shift in focus to the Russia\u2013Ukraine conflict?",
+        "a": "Donald Trump",
         "options": [
-            "Sugam Singhal",
-            "Chanchal",
-            "Gulam Jeelani",
-            "Sanchari Ghosh",
-            "Pratik Prashant Mukane"
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Senior Assistant Editor mentioned in the Livemint team?",
-        "a": "Sugam Singhal",
+        "q": "Which Ukrainian President was expected to participate in the G7 discussions focused on the ongoing war?",
+        "a": "Volodymyr Zelensky",
         "options": [
-            "Gulam Jeelani",
-            "Chanchal",
-            "Sugam Singhal",
-            "Sanchari Ghosh",
-            "Pratik Prashant Mukane"
+            "Petro Poroshenko",
+            "Viktor Yanukovych",
+            "Volodymyr Zelensky",
+            "Leonid Kuchma",
+            "Andriy Yermak"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister who inaugurated the 'Priyadarshini' scheme in Kerala?",
-        "a": "V.D. Satheesan",
+        "q": "Who is the Governor of the Bank of Japan, who was hospitalized and did not attend the policy board meeting on June 16, 2026?",
+        "a": "Kazuo Ueda",
         "options": [
-            "Pinarayi Vijayan",
-            "Oommen Chandy",
-            "V.D. Satheesan",
-            "A.K. Antony",
-            "Ramesh Chennithala"
+            "Haruhiko Kuroda",
+            "Masaaki Shirakawa",
+            "Kazuo Ueda",
+            "Toshihiko Fukui",
+            "Yasuo Fukuda"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Minister for Transport quoted regarding the 'Priyadarshini' scheme not being restricted to women from Kerala?",
-        "a": "C.P. John",
+        "q": "Who was expected to take the place of the BOJ Governor at the news conference following the interest rate hike?",
+        "a": "Shinichi Uchida",
         "options": [
-            "K.N. Balagopal",
-            "P. Rajeeve",
-            "C.P. John",
-            "Roshy Augustine",
-            "Antony Raju"
+            "Masayoshi Amamiya",
+            "Wakatabe Masazumi",
+            "Shinichi Uchida",
+            "Hiroshi Nakaso",
+            "Takako Masai"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the journalist based in Gurugram, mentioned as a Deputy Chief Content Producer at LiveMint?",
-        "a": "Garvit Bhirani",
+        "q": "Which company won a $168 million award against Tata Consultancy Services for allegedly stealing trade secrets?",
+        "a": "DXC Technology",
         "options": [
-            "Akriti Anand",
-            "Jocelyn Felix Fernandes",
-            "Garvit Bhirani",
-            "Swastika Das Sharma",
-            "Mausam Jha"
+            "IBM",
+            "Accenture",
+            "DXC Technology",
+            "Wipro",
+            "Capgemini"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which political front's election manifesto included the 'Priyadarshini' scheme as one of its five guarantees?",
-        "a": "United Democratic Front (UDF)",
+        "q": "Which U.S. District Judge reduced the proposed damages award against Tata Consultancy Services to $168 million in 2024?",
+        "a": "Brantley Starr",
         "options": [
-            "Left Democratic Front (LDF)",
-            "National Democratic Alliance (NDA)",
-            "United Democratic Front (UDF)",
-            "Indian National Congress (INC)",
-            "Bharatiya Janata Party (BJP)"
+            "James Ho",
+            "Gregg Costa",
+            "Brantley Starr",
+            "Edith Jones",
+            "Patrick Higginbotham"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who does the author of the arbitrage funds article offer training programmes for?",
-        "a": "Individuals to manage their personal investments",
+        "q": "Who are the co-founders of the fintech firm Razorpay?",
+        "a": "Harshil Mathur and Shashank Kumar",
         "options": [
-            "Corporate financial advisors",
-            "Institutional investors",
-            "Individuals to manage their personal investments",
-            "Government employees for pension management",
-            "University students in finance"
+            "Vijay Shekhar Sharma and Bipin Preet Singh",
+            "Sachin Bansal and Binny Bansal",
+            "Harshil Mathur and Shashank Kumar",
+            "Kunal Shah and Ashneer Grover",
+            "Deepinder Goyal and Pankaj Chaddah"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which entity is falsely claimed as the sender of a fraudulent WhatsApp message warning about bank account suspension?",
-        "a": "Reserve Bank of India (RBI)",
+        "q": "Who is the current SEBI Chairperson mentioned for her transparent and consultative approach to regulation?",
+        "a": "Tuhin Kanta Pandey",
         "options": [
-            "State Bank of India (SBI)",
-            "Ministry of Finance",
-            "Reserve Bank of India (RBI)",
-            "National Payments Corporation of India (NPCI)",
-            "Income Tax Department"
+            "Madhabi Puri Buch",
+            "Ajay Tyagi",
+            "Tuhin Kanta Pandey",
+            "G.N. Bajpai",
+            "U.K. Sinha"
         ],
         "cat": "Who"
     },
     {
-        "q": "In which district of Madhya Pradesh did the train incident occur?",
-        "a": "Morena",
+        "q": "Which advocate filed the plea in the Supreme Court alleging misuse of Aadhaar cards as proof of citizenship and domicile?",
+        "a": "Ashwini Kumar Upadhyay",
         "options": [
-            "Bhopal",
-            "Indore",
-            "Morena",
-            "Jabalpur",
-            "Gwalior"
+            "Ram Jethmalani",
+            "Harish Salve",
+            "Ashwini Kumar Upadhyay",
+            "K.K. Venugopal",
+            "Siddharth Luthra"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the Solicitor General who pointed out that 'textbook is not a space where you use cartoons' regarding NCERT textbooks?",
+        "a": "Tushar Mehta",
+        "options": [
+            "Ranjit Kumar",
+            "Mukesh Rohatgi",
+            "Tushar Mehta",
+            "Gopal Subramanium",
+            "Mukul Rohatgi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did the B-52 Stratofortress bomber crash shortly after takeoff?",
+        "a": "Edwards Air Force Base",
+        "options": [
+            "Davis-Monthan AFB",
+            "Nellis AFB",
+            "Edwards Air Force Base",
+            "March ARB",
+            "Luke AFB"
         ],
         "cat": "Where"
     },
     {
-        "q": "Between which sections of the Jhansi railway division did the train incident occur?",
-        "a": "Hetampur and Dholpur",
+        "q": "In which desert region is Edwards Air Force Base located?",
+        "a": "Mojave Desert",
         "options": [
-            "Jhansi and Agra",
-            "Lalitpur and Guna",
-            "Hetampur and Dholpur",
-            "Bina and Katni",
-            "Itarsi and Bhopal"
+            "Sonoran Desert",
+            "Chihuahuan Desert",
+            "Mojave Desert",
+            "Great Basin Desert",
+            "Colorado Desert"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the 'Priyadarshini' scheme inaugurated?",
-        "a": "Thampanoor Central Bus Station",
+        "q": "Where was the G7 summit held where leaders discussed global security shifts and the US\u2013Iran agreement?",
+        "a": "\u00c9vian-les-Bains",
         "options": [
-            "Ernakulam KSRTC Bus Stand",
-            "Kollam Junction",
-            "Thampanoor Central Bus Station",
-            "Kochi Airport",
-            "Palakkad Bus Terminal"
+            "Rome",
+            "Berlin",
+            "\u00c9vian-les-Bains",
+            "Tokyo",
+            "Ottawa"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the inaugural journey of the 'Priyadarshini' scheme operated to from the bus station?",
-        "a": "Secretariat premises",
+        "q": "In which federal court was DXC Technology's 2019 lawsuit against Tata Consultancy Services filed?",
+        "a": "Dallas federal court",
         "options": [
-            "Chief Minister's Residence",
-            "Parliament House",
-            "Secretariat premises",
-            "Raj Bhavan",
-            "High Court"
+            "New York federal court",
+            "California federal court",
+            "Dallas federal court",
+            "Chicago federal court",
+            "Houston federal court"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which platform did PIB Fact Check use to post its clarification about the fake laptop scheme?",
-        "a": "X",
+        "q": "DXC Technology, which won the award against TCS, is based in which city in Virginia?",
+        "a": "Ashburn, Virginia",
         "options": [
-            "Facebook",
-            "WhatsApp",
-            "X",
-            "Instagram",
-            "Telegram"
+            "Richmond, Virginia",
+            "Norfolk, Virginia",
+            "Ashburn, Virginia",
+            "Virginia Beach, Virginia",
+            "Arlington, Virginia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Garvit Bhirani, a journalist mentioned in the text, is based in which city?",
-        "a": "Gurugram",
+        "q": "The committee headed by former Supreme Court judge Justice Indu Malhotra is collaborating with the National Judicial Academy in which city?",
+        "a": "Bhopal",
         "options": [
             "Delhi",
             "Mumbai",
-            "Bengaluru",
-            "Gurugram",
-            "Hyderabad"
+            "Bhopal",
+            "Hyderabad",
+            "Bengaluru"
         ],
         "cat": "Where"
     },
     {
-        "q": "From which university did Garvit Bhirani obtain his master's degree in journalism and mass communication?",
-        "a": "Gurugram University",
+        "q": "From which bus stand did the KSRTC Priyadarshini bus service, marking the free travel scheme, commence?",
+        "a": "Ernakulam Boat Jetty bus stand",
         "options": [
-            "Delhi University",
-            "Guru Gobind Singh Indraprastha University",
-            "Gurugram University",
-            "Jawaharlal Nehru University",
-            "Mumbai University"
+            "Thiruvananthapuram Central Bus Station",
+            "Kochi Vyttila Hub",
+            "Ernakulam Boat Jetty bus stand",
+            "Kozhikode Moffusil Bus Stand",
+            "Thrissur Sakthan Thampuran Bus Stand"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which region of Kerala are women expected to benefit significantly from the 'Priyadarshini' scheme due to a large number of operational ordinary buses?",
-        "a": "Southern Kerala",
+        "q": "What was the pilgrimage destination for S. Radhakrishnan, who boarded the KSRTC bus?",
+        "a": "Guruvayur",
         "options": [
-            "Northern Kerala",
-            "Central Kerala",
-            "Southern Kerala",
-            "Malabar region",
-            "Coastal Kerala"
+            "Sabarimala",
+            "Kollur",
+            "Guruvayur",
+            "Tirupati",
+            "Varanasi"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which specific district in southern Kerala is highlighted as having around 687 operational ordinary buses for the 'Priyadarshini' scheme?",
-        "a": "Thiruvananthapuram",
+        "q": "On what date did the B-52 bomber crash occur at Edwards Air Force Base?",
+        "a": "June 15",
         "options": [
-            "Kochi",
-            "Kozhikode",
-            "Thiruvananthapuram",
-            "Thrissur",
-            "Kannur"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where does PIB Fact Check advise users to cross-check information for authentic and verified updates from RBI?",
-        "a": "RBI's website",
-        "options": [
-            "Local bank branches",
-            "Official social media accounts",
-            "RBI's website",
-            "News channels",
-            "Government helpline numbers"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Around what time did the train incident in Morena district occur?",
-        "a": "4.15 pm",
-        "options": [
-            "3.00 pm",
-            "5.00 pm",
-            "4.15 pm",
-            "4.00 pm",
-            "4.30 pm"
+            "June 14",
+            "June 16",
+            "June 15",
+            "June 12",
+            "June 18"
         ],
         "cat": "When"
     },
     {
-        "q": "For approximately how long has Livemint been a credible source for authentic and timely news?",
-        "a": "About a decade",
+        "q": "Around what time did the B-52 Stratofortress bomber crash occur local time?",
+        "a": "11:20 a.m.",
         "options": [
-            "About five years",
-            "About two decades",
-            "About a decade",
-            "About fifteen years",
-            "About six months"
+            "11:15 a.m.",
+            "11:25 a.m.",
+            "11:20 a.m.",
+            "11:10 a.m.",
+            "11:30 a.m."
         ],
         "cat": "When"
     },
     {
-        "q": "The viral WhatsApp message falsely claims to accept applications for free laptops under the 'National Student Laptop Scheme' with which target year?",
-        "a": "2026",
+        "q": "On what specific date did the Bank of Japan raise its benchmark interest rate to 1%?",
+        "a": "June 16, 2026",
         "options": [
-            "2024",
-            "2025",
-            "2026",
-            "2027",
-            "2028"
+            "June 15, 2026",
+            "June 17, 2026",
+            "June 16, 2026",
+            "June 14, 2026",
+            "June 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "How many working days did the fraudulent RBI message urge recipients to provide certain information within?",
-        "a": "Three working days",
+        "q": "When did the U.S. Supreme Court turn away Tata Consultancy Services' bid to overturn the $168 million award?",
+        "a": "June 15, 2026",
         "options": [
-            "One working day",
-            "Two working days",
-            "Three working days",
-            "Five working days",
-            "Seven working days"
+            "June 14, 2026",
+            "June 16, 2026",
+            "June 15, 2026",
+            "June 12, 2026",
+            "June 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "When was the 'Priyadarshini' initiative, part of the UDF government\u2019s \u2018Indira Guarantees\u2019, launched?",
-        "a": "Monday (June 15, 2026)",
+        "q": "On what date did Razorpay issue a public notice about its pre-filed draft red herring prospectus for an IPO?",
+        "a": "June 15, 2026",
         "options": [
-            "Sunday (June 14, 2026)",
-            "Tuesday (June 16, 2026)",
-            "Monday (June 15, 2026)",
-            "Friday (June 12, 2026)",
-            "Wednesday (June 17, 2026)"
+            "June 14, 2026",
+            "June 16, 2026",
+            "June 15, 2026",
+            "June 12, 2026",
+            "June 18, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "At what time was the 'Priyadarshini' scheme inaugurated by Chief Minister V.D. Satheesan?",
-        "a": "9:30 a.m.",
+        "q": "In which year was the fintech firm Razorpay founded?",
+        "a": "2014",
         "options": [
-            "9:00 a.m.",
-            "10:00 a.m.",
-            "9:30 a.m.",
-            "8:30 a.m.",
-            "10:30 a.m."
+            "2013",
+            "2015",
+            "2014",
+            "2012",
+            "2016"
         ],
         "cat": "When"
     },
     {
-        "q": "During the initial phase of the 'Priyadarshini' scheme, for how many days will women be allowed to travel free only on ordinary buses?",
-        "a": "100 days",
+        "q": "In which year were the executive remuneration regulations for AMC company employees originally introduced by SEBI?",
+        "a": "2016",
         "options": [
-            "30 days",
-            "60 days",
-            "100 days",
-            "150 days",
-            "90 days"
+            "2015",
+            "2017",
+            "2016",
+            "2014",
+            "2018"
         ],
         "cat": "When"
     },
     {
-        "q": "How many years of experience in journalism does Garvit Bhirani have in total?",
-        "a": "Six years",
+        "q": "What is the updated base year for the new series of the Wholesale Price Index (WPI) released by the Ministry of Commerce and Industry?",
+        "a": "2022-23",
+        "options": [
+            "2021-22",
+            "2023-24",
+            "2022-23",
+            "2020-21",
+            "2024-25"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For how many years will the WPI be released alongside the Producer Price Index (PPI) before being discontinued?",
+        "a": "Five years",
         "options": [
             "Four years",
-            "Five years",
             "Six years",
-            "Seven years",
-            "Eight years"
+            "Five years",
+            "Three years",
+            "Seven years"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day did Minister for Transport C.P. John state that the 'Priyadarshini' free travel scheme would not be restricted to women from Kerala?",
-        "a": "Friday (June 12)",
+        "q": "On what date did the Supreme Court state there was a \u201cdeep-rooted conspiracy\u201d behind portraying the judiciary as venal in an NCERT textbook?",
+        "a": "February 26, 2026",
         "options": [
-            "Monday (June 15)",
-            "Tuesday (June 16)",
-            "Friday (June 12)",
-            "Saturday (June 13)",
-            "Sunday (June 14)"
+            "February 25, 2026",
+            "February 27, 2026",
+            "February 26, 2026",
+            "February 24, 2026",
+            "February 28, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The government is fulfilling the promise it made to the people even before completing how many months in office?",
-        "a": "A month",
+        "q": "What type of mission was the B-52 Stratofortress bomber performing when it crashed shortly after takeoff?",
+        "a": "Routine test mission",
         "options": [
-            "Three months",
-            "Six months",
-            "A month",
-            "Two months",
-            "Five months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What was the immediate trigger for passengers to jump from the Khajuraho-Udaipur Intercity Express?",
-        "a": "Rumour of a fire",
-        "options": [
-            "Actual fire incident",
-            "Mechanical failure",
-            "Rumour of a fire",
-            "Derailment",
-            "Collision with another train"
+            "Combat deployment",
+            "Training exercise",
+            "Routine test mission",
+            "Airshow demonstration",
+            "Emergency landing drill"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did passengers hastily disembark from their train, leading to the chain pull?",
-        "a": "Panic spread over reports of a fire",
+        "q": "According to Donald Trump, what was the primary purpose of the US-Iran agreement?",
+        "a": "Ending the Middle East war and stabilizing global conditions",
         "options": [
-            "Scheduled stop",
-            "Arrival at destination",
-            "Panic spread over reports of a fire",
-            "Order from train staff",
-            "Technical fault in brakes"
+            "Increasing oil prices",
+            "Imposing new sanctions",
+            "Ending the Middle East war and stabilizing global conditions",
+            "Forming a new military alliance",
+            "Resolving nuclear disputes only"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose of arbitrage funds as described in the text?",
-        "a": "To take advantage of the mispricing in futures contracts",
+        "q": "What was the main focus Washington would turn to after the Iran crisis eased, as indicated by President Trump?",
+        "a": "Ending the war between Russia and Ukraine",
         "options": [
-            "To generate long-term capital appreciation",
-            "To provide stable dividend income",
-            "To take advantage of the mispricing in futures contracts",
-            "To invest in real estate assets",
-            "To offer credit risk-free returns"
+            "Strengthening economic ties with China",
+            "Addressing climate change",
+            "Ending the war between Russia and Ukraine",
+            "Reforming the United Nations",
+            "Expanding NATO membership"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the mandate of active funds mentioned in the text?",
-        "a": "To generate alpha returns",
+        "q": "What was one of the primary reasons cited by the Bank of Japan for raising its benchmark interest rate?",
+        "a": "Weak Japanese yen and higher prices",
         "options": [
-            "To track benchmark index returns",
-            "To generate alpha returns",
-            "To invest only in government securities",
-            "To minimize investment risks entirely",
-            "To provide fixed income"
+            "Boosting exports",
+            "Encouraging government spending",
+            "Weak Japanese yen and higher prices",
+            "Reducing unemployment",
+            "Supporting the stock market"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core purpose of the 'Priyadarshini' initiative as stated by the government?",
-        "a": "Towards greater mobility, empowerment, and social inclusion for women",
+        "q": "For what primary reason did DXC Technology sue Tata Consultancy Services?",
+        "a": "Allegedly stealing trade secrets related to life-insurance software",
         "options": [
-            "To increase KSRTC revenue",
-            "To reduce private bus services",
-            "Towards greater mobility, empowerment, and social inclusion for women",
-            "To provide employment to women conductors",
-            "To promote tourism in Kerala"
+            "Breach of contract in a different sector",
+            "Patent infringement on hardware",
+            "Allegedly stealing trade secrets related to life-insurance software",
+            "Violation of data privacy laws",
+            "Unfair competition in manufacturing"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why are 'zero' fare tickets issued under the 'Priyadarshini' scheme, even though travel is free?",
-        "a": "So that the transport utility can calculate the financial footprint of the scheme",
+        "q": "What is the purpose of the confidential filing route for Initial Public Offerings (IPOs) with Sebi?",
+        "a": "To submit draft offer documents without immediately disclosing sensitive business information to the public",
         "options": [
-            "To track individual passenger journeys",
-            "To verify passenger identity",
-            "So that the transport utility can calculate the financial footprint of the scheme",
-            "To ensure smooth boarding process",
-            "To collect demographic data of women travelers"
+            "To expedite regulatory approval process significantly",
+            "To avoid paying listing fees to stock exchanges",
+            "To submit draft offer documents without immediately disclosing sensitive business information to the public",
+            "To bypass investor roadshows completely",
+            "To allow only institutional investors to participate"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the government's view of the 'Priyadarshini' initiative beyond just a welfare measure?",
-        "a": "As an economic stimulus",
+        "q": "What was one of the key reasons industry bodies requested SEBI to relax disclosure norms for executive remuneration?",
+        "a": "Privacy of employees and less significance for retail investors",
         "options": [
-            "A political gimmick",
-            "A financial burden",
-            "An administrative challenge",
-            "As an economic stimulus",
-            "A temporary relief measure"
+            "To increase overall fund manager salaries",
+            "To simplify accounting standards for AMC companies",
+            "Privacy of employees and less significance for retail investors",
+            "To attract more foreign direct investment",
+            "To reduce the tax burden on mutual funds"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the reason scammers frequently use the names of government schemes in viral messages?",
-        "a": "To lure people into sharing sensitive information",
+        "q": "What was the primary allegation in the plea filed in the Supreme Court regarding Aadhaar cards?",
+        "a": "Misuse as proof of citizenship, domicile, and residential address",
         "options": [
-            "To provide genuine government updates",
-            "To raise awareness about new policies",
-            "To lure people into sharing sensitive information",
-            "To conduct public surveys",
-            "To promote digital literacy"
+            "Data breach in the Aadhaar database",
+            "Insufficient security features of Aadhaar",
+            "Misuse as proof of citizenship, domicile, and residential address",
+            "Mandatory linking with bank accounts",
+            "High cost of Aadhaar enrollment"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of the APK files and fake account suspension alerts used by fraudsters in messages claiming to be from RBI?",
-        "a": "To obtain sensitive banking and personal information",
+        "q": "What was the Supreme Court's concern regarding the content in a Class 8 Social Science textbook about the judiciary?",
+        "a": "A deep-rooted conspiracy to portray the judiciary as a venal institution",
         "options": [
-            "To update banking software",
-            "To provide cybersecurity tips",
-            "To obtain sensitive banking and personal information",
-            "To conduct official bank audits",
-            "To confirm account details for KYC"
+            "Grammatical errors and factual inaccuracies",
+            "Outdated curriculum not relevant to modern India",
+            "A deep-rooted conspiracy to portray the judiciary as a venal institution",
+            "Lack of diverse perspectives on legal history",
+            "Excessive focus on international legal systems"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the purpose of Garvit Bhirani's work as a Deputy Chief Content Producer at LiveMint, as mentioned in his biography?",
-        "a": "Focusing on accuracy and compelling storytelling for readers",
+        "q": "What is the purpose of the Priyadarshini bus service launched by the UDF government in Kerala?",
+        "a": "Free bus travel scheme for women and transgender persons",
         "options": [
-            "Managing financial portfolios",
-            "Developing software applications",
-            "Focusing on accuracy and compelling storytelling for readers",
-            "Recommending stock market investments",
-            "Conducting academic research"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Why did a specialized committee determine that permitting free travel on higher-category buses from the beginning would lead to substantial operational challenges?",
-        "a": "Financial losses",
-        "options": [
-            "Lack of passenger demand",
-            "Insufficient number of buses",
-            "Financial losses",
-            "Complexity in ticketing system",
-            "Protests from private operators"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the stated reason for the higher fees charged by active funds compared to passive funds?",
-        "a": "For the alpha returns they strive to generate",
-        "options": [
-            "For better customer service",
-            "For higher operational costs",
-            "For the alpha returns they strive to generate",
-            "For diversified investment options",
-            "For guaranteed returns"
+            "To introduce luxury tourist buses",
+            "To provide discounted travel for senior citizens",
+            "Free bus travel scheme for women and transgender persons",
+            "To connect remote villages to city centers",
+            "To promote eco-friendly public transport"
         ],
         "cat": "Why"
     }
