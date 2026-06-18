@@ -1,722 +1,722 @@
 [
     {
-        "q": "What is the additional provision TCS announced it would make in Q1 FY2027 for the legal dispute?",
-        "a": "$70 million",
+        "q": "What is the monthly financial assistance provided to each beneficiary under West Bengal's Annapurna Yojana?",
+        "a": "\u20b93,000",
         "options": [
-            "$65 million",
-            "$75 million",
-            "$70 million",
-            "$68 million",
-            "$72 million"
+            "\u20b93,100",
+            "\u20b92,900",
+            "\u20b93,050",
+            "\u20b92,950",
+            "\u20b93,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How much provision had TCS already made in its books of accounts for the legal matter prior to the additional announcement?",
-        "a": "$150 million",
+        "q": "Under the previous TMC government's 'Lakshmir Bhandar' scheme, what was the maximum monthly amount women beneficiaries used to receive?",
+        "a": "\u20b91,500",
         "options": [
-            "$145 million",
-            "$155 million",
-            "$150 million",
-            "$148 million",
-            "$152 million"
+            "\u20b91,400",
+            "\u20b91,600",
+            "\u20b91,550",
+            "\u20b91,450",
+            "\u20b91,500"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the damages award upheld by the U.S. Court of Appeals for the Fifth Circuit against TCS in the trade secrets case?",
-        "a": "$194.2 million",
+        "q": "How many women beneficiaries had \u20b93,000 each credited to their accounts initially on June 3 under the Annapurna Yojana?",
+        "a": "28 lakh",
         "options": [
-            "$190.2 million",
-            "$198.2 million",
-            "$194.2 million",
-            "$193.2 million",
-            "$195.2 million"
+            "29 lakh",
+            "27 lakh",
+            "28.5 lakh",
+            "27.5 lakh",
+            "28 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the total implied provision TCS has made or will make for the specific legal dispute (already provided + additional) mentioned in the news?",
-        "a": "$220 million",
+        "q": "How many additional women beneficiaries were reported to have enrolled under the Annapurna scheme after the initial rollout?",
+        "a": "1,05,000",
         "options": [
-            "$215 million",
-            "$225 million",
-            "$220 million",
-            "$218 million",
-            "$222 million"
+            "1,00,000",
+            "1,10,000",
+            "1,04,000",
+            "1,06,000",
+            "1,05,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the monthly old-age pension amount received by Smt. Radhika Bhue as informed to the Supreme Court?",
-        "a": "\u20b93,500",
+        "q": "What is the combined total number of beneficiaries already covered and recently added under the Annapurna Yojana?",
+        "a": "Over 29 lakh",
         "options": [
-            "\u20b93,400",
-            "\u20b93,600",
-            "\u20b93,500",
-            "\u20b93,450",
-            "\u20b93,550"
+            "Over 28 lakh",
+            "Exactly 29 lakh",
+            "Over 30 lakh",
+            "Under 29 lakh",
+            "Over 29 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the monthly disability pension amount received by Japa Bhue as per the information provided to the Supreme Court?",
-        "a": "\u20b93,500",
+        "q": "The RBI approved a record surplus transfer of how much amount to the Union government for FY26?",
+        "a": "\u20b92.87 lakh crore",
         "options": [
-            "\u20b93,400",
-            "\u20b93,600",
-            "\u20b93,500",
-            "\u20b93,450",
-            "\u20b93,550"
+            "\u20b92.80 lakh crore",
+            "\u20b92.90 lakh crore",
+            "\u20b92.85 lakh crore",
+            "\u20b92.92 lakh crore",
+            "\u20b92.87 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many candidates originally appeared for the NEET-UG 2026 examination held on May 3?",
-        "a": "over 22 lakh",
+        "q": "What was the previous record surplus transfer amount approved by the RBI?",
+        "a": "\u20b92.11 lakh crore",
         "options": [
-            "over 21 lakh",
-            "over 23 lakh",
-            "over 22 lakh",
-            "over 21.5 lakh",
-            "over 22.5 lakh"
+            "\u20b92.10 lakh crore",
+            "\u20b92.12 lakh crore",
+            "\u20b92.05 lakh crore",
+            "\u20b92.15 lakh crore",
+            "\u20b92.11 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many security personnel are expected to be involved in maintaining security for the NEET-UG re-examination nationwide?",
-        "a": "nearly five lakh",
+        "q": "What was the surplus transfer amount for FY23?",
+        "a": "\u20b987,416 crore",
         "options": [
-            "nearly four lakh",
-            "nearly six lakh",
-            "nearly five lakh",
-            "nearly 4.5 lakh",
-            "nearly 5.5 lakh"
+            "\u20b987,000 crore",
+            "\u20b988,000 crore",
+            "\u20b987,500 crore",
+            "\u20b987,400 crore",
+            "\u20b987,416 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In which quarter of the fiscal year 2027 will TCS make the additional provision of $70 million?",
-        "a": "Q1 FY2027",
+        "q": "What was the approximate surplus transfer amount for FY25?",
+        "a": "\u20b92.69 lakh crore",
         "options": [
-            "Q2 FY2027",
-            "Q4 FY2026",
-            "Q1 FY2027",
-            "Q3 FY2027",
-            "Q4 FY2027"
+            "\u20b92.70 lakh crore",
+            "\u20b92.65 lakh crore",
+            "\u20b92.72 lakh crore",
+            "\u20b92.68 lakh crore",
+            "\u20b92.69 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the minimum honorarium Japa Bhue will be paid upon engagement as a para-legal volunteer?",
-        "a": "Not less than the minimum wages notified by the State of Odisha",
+        "q": "By how much did the RBI's balance sheet increase in one year to reach \u20b991.97 lakh crore by March 2026?",
+        "a": "20.6%",
         "options": [
-            "Equal to the state's average salary",
-            "Based on fixed central government rates",
-            "Not less than the minimum wages notified by the State of Odisha",
-            "A fixed \u20b95,000 monthly stipend",
-            "Determined by local panchayat"
+            "20.0%",
+            "21.0%",
+            "20.5%",
+            "20.7%",
+            "20.6%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many staff is TCS planning to train with Claude powered by Anthropic?",
-        "a": "50,000",
+        "q": "What was the total size of the RBI's balance sheet by March 2026?",
+        "a": "\u20b991.97 lakh crore",
         "options": [
-            "45,000",
-            "55,000",
-            "50,000",
-            "48,000",
-            "52,000"
+            "\u20b991.00 lakh crore",
+            "\u20b992.00 lakh crore",
+            "\u20b991.90 lakh crore",
+            "\u20b992.07 lakh crore",
+            "\u20b991.97 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "To how many locations across the country are NEET-UG question papers being airlifted using IAF transport aircraft?",
-        "a": "more than 20 locations",
+        "q": "By how much did the RBI's gross income increase during the same period when its balance sheet grew by 20.6%?",
+        "a": "Over 26%",
         "options": [
-            "more than 15 locations",
-            "more than 25 locations",
-            "more than 20 locations",
-            "more than 18 locations",
-            "more than 22 locations"
+            "Over 25%",
+            "Over 27%",
+            "Exactly 26%",
+            "Under 26%",
+            "Over 26%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Which company, now part of DXC Technology, was involved in the legal dispute with TCS regarding a lower court ruling?",
-        "a": "Computer Sciences Corporation",
+        "q": "For FCNR(B) deposits with a tenure of one year to less than three years, what is the interest rate ceiling in basis points above the Overnight Alternative Reference Rate/Swap?",
+        "a": "250 basis points",
         "options": [
-            "Tech Mahindra",
-            "Infosys",
-            "Computer Sciences Corporation",
-            "Wipro",
-            "HCL Technologies"
+            "200 basis points",
+            "300 basis points",
+            "240 basis points",
+            "260 basis points",
+            "250 basis points"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which AI model, powered by Anthropic, will be used to train 50,000 TCS staff?",
-        "a": "Claude",
+        "q": "For FCNR(B) deposits with a tenure of three years and above upto and including five years, what is the interest rate ceiling in basis points above the Overnight Alternative Reference Rate/Swap?",
+        "a": "350 basis points",
         "options": [
-            "ChatGPT",
-            "Bard",
-            "Claude",
-            "Cortex",
-            "Copilot"
+            "300 basis points",
+            "400 basis points",
+            "340 basis points",
+            "360 basis points",
+            "350 basis points"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the visually impaired son from Bagadia village, Odisha, whose welfare case was taken up suo motu by the Supreme Court?",
-        "a": "Japa Bhue",
+        "q": "The RBI reportedly sold almost how many billion dollars worth of gold in the face of rupee pressures?",
+        "a": "$12 billion",
         "options": [
-            "Surya Kant",
-            "Mithu Jain",
-            "Japa Bhue",
-            "Mohana Bhue",
-            "Radhika Bhue"
+            "$10 billion",
+            "$14 billion",
+            "$11 billion",
+            "$13 billion",
+            "$12 billion"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the octogenarian woman from Bagadia village whose dire conditions prompted the Supreme Court's suo motu cognisance?",
-        "a": "Smt. Radhika Bhue",
+        "q": "Approximately how many billion dollars worth of foreign-currency assets did the RBI buy when facing rupee pressures?",
+        "a": "$7.5 billion",
         "options": [
-            "Smt. Japa Bhue",
-            "Smt. Mohana Bhue",
-            "Smt. Radhika Bhue",
-            "Smt. Surya Kant",
-            "Smt. Mithu Jain"
+            "$7.0 billion",
+            "$8.0 billion",
+            "$7.2 billion",
+            "$7.8 billion",
+            "$7.5 billion"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who was one of the Justices on the Supreme Court Bench that issued directions for the welfare of the octogenarian mother and her son?",
-        "a": "Justice V. Mohana",
+        "q": "How many men were killed in the fiery crash of a B-52 during one of its test flights at California's Edwards Air Force Base?",
+        "a": "Eight",
         "options": [
-            "Justice D.Y. Chandrachud",
-            "Justice V. Mohana",
-            "Justice U.U. Lalit",
-            "Justice Surya Kant",
-            "Justice N.V. Ramana"
+            "Six",
+            "Ten",
+            "Seven",
+            "Nine",
+            "Eight"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who appeared for the Odisha government before the Supreme Court Bench to inform about the dwelling unit allotment?",
-        "a": "Advocate Mithu Jain",
+        "q": "The B-52 Stratofortress bomber that crashed had a runway length of how many feet from which it took off?",
+        "a": "15,000 feet",
         "options": [
-            "Advocate R.K. Singh",
-            "Advocate Mithu Jain",
-            "Advocate Suresh Kumar",
-            "Advocate Preeti Sharma",
-            "Advocate Anil Gupta"
+            "14,000 feet",
+            "16,000 feet",
+            "14,500 feet",
+            "15,500 feet",
+            "15,000 feet"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which ministry oversees the coordination of the multi-layered security framework for the NEET-UG re-examination?",
-        "a": "Ministry of Education",
+        "q": "What is the approximate distance in miles of the Mojave Desert from Los Angeles, where the B-52 crashed?",
+        "a": "100 miles",
         "options": [
-            "Ministry of Home Affairs",
-            "Ministry of Defence",
-            "National Testing Agency",
-            "Ministry of Education",
-            "Ministry of Health and Family Welfare"
+            "90 miles",
+            "110 miles",
+            "95 miles",
+            "105 miles",
+            "100 miles"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which agency is implementing a multi-layered security framework for the NEET-UG re-examination along with the government?",
-        "a": "National Testing Agency (NTA)",
+        "q": "What was the age of Col Gregory Watson, one of the victims of the B-52 crash?",
+        "a": "53",
         "options": [
-            "UPSC",
-            "SSC",
-            "National Testing Agency (NTA)",
-            "CBSE",
-            "AIIMS"
+            "50",
+            "52",
+            "54",
+            "51",
+            "53"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which security forces personnel have been deployed to secure the transportation chain of NEET-UG question papers at every stage?",
-        "a": "CRPF and CISF",
+        "q": "What was the age of Retired Lt Col Miles Middleton, one of the victims of the B-52 crash?",
+        "a": "50",
         "options": [
-            "BSF and ITBP",
-            "CRPF and CISF",
-            "Indian Army and Navy",
-            "State Police and Home Guards",
-            "SSB and NSG"
+            "49",
+            "51",
+            "48",
+            "52",
+            "50"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which court declined to review a lower court ruling in the legal dispute between TCS and Computer Sciences Corporation?",
-        "a": "U.S. Supreme Court",
+        "q": "What was the age of Lt Col Gabriel Estrella, one of the victims of the B-52 crash?",
+        "a": "40",
         "options": [
-            "U.S. District Court",
-            "U.S. Court of Appeals for the Ninth Circuit",
-            "U.S. Supreme Court",
-            "International Court of Justice",
-            "Delhi High Court"
+            "39",
+            "41",
+            "38",
+            "42",
+            "40"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Who is the Chief Justice of India (CJI) on the Supreme Court Bench presiding over the Odisha welfare case?",
-        "a": "Surya Kant",
+        "q": "What was the age of Maj Alexander Davis, one of the victims of the B-52 crash?",
+        "a": "34",
         "options": [
-            "D.Y. Chandrachud",
-            "N.V. Ramana",
-            "Surya Kant",
-            "U.U. Lalit",
-            "S.A. Bobde"
+            "33",
+            "35",
+            "32",
+            "36",
+            "34"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Which branch of the Indian Armed Forces has deployed aircraft and helicopters to airlift NEET-UG 2026 re-examination question papers?",
-        "a": "Indian Air Force (IAF)",
+        "q": "What was the age of Jeromy Smith, one of the victims of the B-52 crash?",
+        "a": "32",
         "options": [
-            "Indian Army",
-            "Indian Navy",
-            "Indian Air Force (IAF)",
-            "Border Security Force",
-            "National Security Guard"
+            "31",
+            "33",
+            "30",
+            "34",
+            "32"
         ],
-        "cat": "Who (Kisne)"
+        "cat": "Amount"
     },
     {
-        "q": "Where did TCS file the disclosure regarding the additional provision for the legal dispute?",
-        "a": "Bombay Stock Exchange (BSE)",
+        "q": "What was the age of Christopher Rischar, one of the victims of the B-52 crash?",
+        "a": "41",
         "options": [
-            "National Stock Exchange (NSE)",
-            "New York Stock Exchange (NYSE)",
-            "Bombay Stock Exchange (BSE)",
-            "London Stock Exchange (LSE)",
-            "NASDAQ"
+            "40",
+            "42",
+            "39",
+            "43",
+            "41"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Amount"
     },
     {
-        "q": "Which U.S. court upheld a $194.2 million damages award and ruled in favour of Computer Sciences Corporation against TCS?",
-        "a": "U.S. Court of Appeals for the Fifth Circuit",
+        "q": "Who signed the US-Iran MoU on behalf of the United States at Versailles, France?",
+        "a": "Donald Trump",
         "options": [
-            "U.S. District Court, Northern District of California",
-            "U.S. Court of Appeals for the Fifth Circuit",
-            "U.S. Court of Appeals for the Second Circuit",
-            "U.S. Supreme Court",
-            "Texas District Court"
+            "JD Vance",
+            "Emmanuel Macron",
+            "Masoud Pezeshkian",
+            "Mohammad Bagher Ghalibaf",
+            "Donald Trump"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "The octogenarian woman and her son, aided by the Supreme Court, are from which specific village in Odisha?",
-        "a": "Bagadia village",
+        "q": "Which Iranian President signed the US-Iran Memorandum of Understanding (MoU)?",
+        "a": "Masoud Pezeshkian",
         "options": [
-            "Jaganathpuri village",
-            "Konark village",
-            "Bagadia village",
-            "Chilika village",
-            "Puri village"
+            "Mohammad Bagher Ghalibaf",
+            "Ebrahim Raisi",
+            "Hassan Rouhani",
+            "Mahmoud Ahmadinejad",
+            "Masoud Pezeshkian"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "In which district of Odisha is Bagadia village, home to the beneficiaries of the Supreme Court's intervention, located?",
-        "a": "Subarnapur district",
+        "q": "Who was the French President hosting the G7 dinner where the US-Iran MoU was signed?",
+        "a": "Emmanuel Macron",
         "options": [
-            "Cuttack district",
-            "Khurda district",
-            "Subarnapur district",
-            "Ganjam district",
-            "Puri district"
+            "Francois Hollande",
+            "Nicolas Sarkozy",
+            "Jacques Chirac",
+            "Georges Pompidou",
+            "Emmanuel Macron"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "A trial landing of an Air Force helicopter was conducted at which specific ground in Tamil Nadu as part of NEET-UG re-examination preparations?",
-        "a": "Tirunelveli Armed Reserve Ground",
+        "q": "Who was the Prime Minister who announced the immediate effect of the US-Iran MoU and endorsed it as a mediator?",
+        "a": "Shehbaz Sharif",
         "options": [
-            "Chennai Airport",
-            "Coimbatore Air Force Station",
-            "Tirunelveli Armed Reserve Ground",
-            "Madurai Airport",
-            "Salem Air Strip"
+            "Imran Khan",
+            "Nawaz Sharif",
+            "Benazir Bhutto",
+            "Pervez Musharraf",
+            "Shehbaz Sharif"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "In which part of India were dry runs conducted at selected locations to validate security and logistics arrangements for NEET-UG question papers?",
-        "a": "Southern India",
+        "q": "Who is the Chief Minister of West Bengal who launched the Annapurna Yojana?",
+        "a": "Suvendu Adhikari",
         "options": [
-            "Northern India",
-            "Eastern India",
-            "Southern India",
-            "Western India",
-            "Central India"
+            "Mamata Banerjee",
+            "Amit Shah",
+            "Narendra Modi",
+            "Jagdeep Dhankhar",
+            "Suvendu Adhikari"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "The U.S. Supreme Court denied TCS's petition for a writ of certiorari to review the judgment of which United States Court of Appeals?",
-        "a": "United States Court of Appeals for the Fifth Circuit",
+        "q": "Which committee's recommendations led to the adoption of the Economic Capital Framework, influencing RBI's surplus transfers?",
+        "a": "Bimal Jalan Committee",
         "options": [
-            "United States Court of Appeals for the Ninth Circuit",
-            "United States Court of Appeals for the Fifth Circuit",
-            "United States Court of Appeals for the Third Circuit",
-            "United States Court of Appeals for the First Circuit",
-            "United States Court of Appeals for the Eleventh Circuit"
+            "Raghuram Rajan Committee",
+            "Urjit Patel Committee",
+            "N.K. Singh Committee",
+            "Y.V. Reddy Committee",
+            "Bimal Jalan Committee"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "The Supreme Court registered a suo motu case concerning the welfare of persons with disabilities living in extreme poverty, specifically citing beneficiaries from where?",
-        "a": "Bagadia village in Odisha\u2019s Subarnapur district",
+        "q": "Who is the Dean and Professor of Economics at O.P. Jindal Global University mentioned in the article as an author?",
+        "a": "Deepanshu Mohan",
         "options": [
-            "A village in Bihar",
-            "A village in Uttar Pradesh",
-            "Bagadia village in Odisha\u2019s Subarnapur district",
-            "A town in West Bengal",
-            "A remote area in Madhya Pradesh"
+            "Ankur Singh",
+            "Arvind Subramanian",
+            "Raghuram Rajan",
+            "Abhijit Banerjee",
+            "Deepanshu Mohan"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "IAF transport aircraft are airlifting NEET-UG question papers to more than how many locations across the country?",
-        "a": "20 locations",
+        "q": "Who is the Research Analyst with Centre for New Economics Studies mentioned as a co-author of the RBI article?",
+        "a": "Ankur Singh",
         "options": [
-            "exactly 20 locations",
-            "less than 15 locations",
-            "20 locations",
-            "a single central hub",
-            "only state capitals"
+            "Deepanshu Mohan",
+            "Bibek Debroy",
+            "P. Chidambaram",
+            "Arun Jaitley",
+            "Ankur Singh"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "Which region received NEET-UG question papers first via airlift on Tuesday?",
-        "a": "several northern States",
+        "q": "Who was the commander of the 412th Test Wing at Edwards Air Force Base who announced the names of the victims of the B-52 crash?",
+        "a": "Col Thomas Tauer",
         "options": [
-            "several southern States",
-            "several northern States",
-            "eastern coastal States",
-            "western desert States",
-            "central plateau States"
+            "Col Gregory Watson",
+            "Lt Col Miles Middleton",
+            "Maj Alexander Davis",
+            "Col Michael S. Tauer",
+            "Col Thomas Tauer"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "Where is the District Legal Services Authority (DLSA) Secretary directed to visit to ascertain the family\u2019s living conditions?",
-        "a": "The residence of Smt. Radhika Bhue and Japa Bhue",
+        "q": "Who was the Governor of Iowa who offered condolences for Maj Brad Hovey, one of the victims of the B-52 crash?",
+        "a": "Kim Reynolds",
         "options": [
-            "DLSA office",
-            "Chief Medical Officer's clinic",
-            "The residence of Smt. Radhika Bhue and Japa Bhue",
-            "Subarnapur district headquarters",
-            "Odisha State Secretariat"
+            "Gavin Newsom",
+            "Greg Abbott",
+            "John Bel Edwards",
+            "Ron DeSantis",
+            "Kim Reynolds"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Who"
     },
     {
-        "q": "The original legal dispute involving TCS and Computer Sciences Corporation was initially reviewed by which specific court before the U.S. Supreme Court's decision?",
-        "a": "U.S. Court of Appeals for the Fifth Circuit",
+        "q": "At which location did US President Donald Trump sign the US-Iran MoU while attending a G7 dinner?",
+        "a": "Versailles, France",
         "options": [
-            "District Court of New York",
-            "U.S. Court of Appeals for the Fifth Circuit",
-            "California Supreme Court",
-            "Federal District Court of Texas",
-            "U.S. Court of Federal Claims"
+            "Paris, France",
+            "Geneva, Switzerland",
+            "Washington D.C., USA",
+            "Tehran, Iran",
+            "Versailles, France"
         ],
-        "cat": "Where (Kha)"
+        "cat": "Where"
     },
     {
-        "q": "When did TCS announce the additional provision of $70 million for the legal dispute?",
-        "a": "Tuesday (June 16, 2026)",
+        "q": "The US-Iran MoU includes commitments regarding the reopening of which vital maritime chokepoint?",
+        "a": "Strait of Hormuz",
         "options": [
-            "Monday (June 15, 2026)",
-            "Tuesday (June 16, 2026)",
-            "Wednesday (June 17, 2026)",
-            "Thursday (June 18, 2026)",
-            "Friday (June 19, 2026)"
+            "Suez Canal",
+            "Bab-el-Mandeb",
+            "Strait of Malacca",
+            "Panama Canal",
+            "Strait of Hormuz"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "On which exact date did the U.S. Supreme Court deny TCS's petition for a writ of certiorari?",
-        "a": "June 15, 2026",
+        "q": "Where was the scheduled official signing ceremony for the US-Iran agreement, which remains unclear if it will continue?",
+        "a": "Switzerland",
         "options": [
-            "June 14, 2026",
-            "June 16, 2026",
-            "June 15, 2026",
-            "June 17, 2026",
-            "June 13, 2026"
+            "France",
+            "USA",
+            "Iran",
+            "Pakistan",
+            "Switzerland"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "TCS had disclosed the litigation in earlier exchange filings in June 14, 2024, and which other specific date?",
-        "a": "November 22, 2025",
+        "q": "According to Pakistan's Prime Minister, the historic MoU was named after which city?",
+        "a": "Islamabad",
         "options": [
-            "December 22, 2024",
-            "January 22, 2025",
-            "November 22, 2025",
-            "October 22, 2025",
-            "September 22, 2025"
+            "Karachi",
+            "Lahore",
+            "Rawalpindi",
+            "Peshawar",
+            "Islamabad"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When was the suo motu case concerning the welfare of persons with disabilities registered by the Supreme Court?",
-        "a": "Monday (June 15, 2026)",
+        "q": "In which district of West Bengal was the program held on June 17 where the Chief Minister discussed the Annapurna Yojana?",
+        "a": "South 24 Parganas",
         "options": [
-            "Sunday (June 14, 2026)",
-            "Tuesday (June 16, 2026)",
-            "Monday (June 15, 2026)",
-            "Wednesday (June 17, 2026)",
-            "Friday (June 12, 2026)"
+            "North 24 Parganas",
+            "Kolkata",
+            "Howrah",
+            "Hooghly",
+            "South 24 Parganas"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the matter posted for next hearing by the Supreme Court to review compliance with its directions regarding the Odisha welfare case?",
-        "a": "July 13, 2026",
+        "q": "The Annapurna Yojana program was held at Falta. In which district is Falta located?",
+        "a": "South 24 Parganas",
         "options": [
-            "July 10, 2026",
-            "July 15, 2026",
-            "July 13, 2026",
-            "July 11, 2026",
-            "July 14, 2026"
+            "Kolkata",
+            "Howrah",
+            "Hooghly",
+            "Paschim Medinipur",
+            "South 24 Parganas"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "When is the NEET-UG 2026 re-examination officially scheduled to be conducted?",
-        "a": "June 21",
+        "q": "At which US Air Force Base did the B-52 bomber crash during a test flight?",
+        "a": "Edwards Air Force Base, California",
         "options": [
-            "June 20",
-            "June 22",
-            "June 21",
-            "June 23",
-            "June 19"
+            "Barksdale Air Force Base, Louisiana",
+            "Fort Worth, Texas",
+            "Nellis Air Force Base, Nevada",
+            "Wright-Patterson Air Force Base, Ohio",
+            "Edwards Air Force Base, California"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "On what date did the transportation of NEET-UG question papers by the IAF begin?",
-        "a": "June 16",
+        "q": "The B-52 bomber that crashed arrived at Edwards Air Force Base after receiving a modernized radar installed at Boeing\u2019s facility in which city?",
+        "a": "San Antonio",
         "options": [
-            "June 15",
-            "June 17",
-            "June 16",
-            "June 18",
-            "June 14"
+            "Seattle",
+            "Houston",
+            "Dallas",
+            "Los Angeles",
+            "San Antonio"
         ],
-        "cat": "When (Kab)"
+        "cat": "Where"
     },
     {
-        "q": "On which exact date was the original NEET-UG 2026 examination held?",
-        "a": "May 3",
+        "q": "Before serving as a testing platform, the B-52 bomber was based at which Air Force Base for almost a decade?",
+        "a": "Barksdale Air Force Base, Louisiana",
         "options": [
-            "May 1",
-            "May 5",
+            "Edwards Air Force Base, California",
+            "Fort Worth, Texas",
+            "Nellis Air Force Base, Nevada",
+            "Wright-Patterson Air Force Base, Ohio",
+            "Barksdale Air Force Base, Louisiana"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which country, a key littoral state in the Strait of Hormuz, will Iran negotiate with to define future administrative and maritime services?",
+        "a": "Oman",
+        "options": [
+            "Saudi Arabia",
+            "Qatar",
+            "UAE",
+            "India",
+            "Oman"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "On what date was the electronic signing of the US-Iran MoU by Iranian parliamentary speaker Mohammad Bagher Ghalibaf and US Vice President JD Vance reported?",
+        "a": "14 June",
+        "options": [
+            "12 June",
+            "10 June",
+            "16 June",
+            "18 June",
+            "14 June"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The agreement between the US and Iran commenced a 60-day extendable period for Washington and Tehran to reach a more final deal. How long is this initial period?",
+        "a": "60 days",
+        "options": [
+            "30 days",
+            "90 days",
+            "45 days",
+            "120 days",
+            "60 days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "The US will fully end its naval blockade in the Strait of Hormuz within how many days as per the US-Iran MoU?",
+        "a": "30 days",
+        "options": [
+            "15 days",
+            "45 days",
+            "60 days",
+            "90 days",
+            "30 days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On what date was the Annapurna Yojana cash scheme launched by the Chief Minister?",
+        "a": "June 3",
+        "options": [
+            "June 1",
+            "June 5",
+            "July 1",
             "May 3",
-            "May 2",
-            "May 4"
+            "June 3"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "When was the original NEET-UG 2026 examination cancelled by the NTA?",
-        "a": "May 12",
+        "q": "On which date are the newly enrolled beneficiaries of the Annapurna Yojana set to receive their \u20b93,000 for the month of June?",
+        "a": "July 1",
         "options": [
-            "May 10",
-            "May 14",
-            "May 12",
-            "May 11",
-            "May 13"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "The additional provision by TCS will be made as a one-time exceptional expense in which specific fiscal quarter?",
-        "a": "Q1 FY2027",
-        "options": [
-            "Q4 FY2026",
-            "Q2 FY2027",
-            "Q1 FY2027",
-            "Q3 FY2026",
-            "Q3 FY2027"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "On what day of the week did Advocate Mithu Jain, appearing for the Odisha government, inform the Bench about the dwelling unit and pensions?",
-        "a": "Tuesday",
-        "options": [
-            "Monday",
-            "Wednesday",
-            "Tuesday",
-            "Thursday",
-            "Friday"
-        ],
-        "cat": "When (Kab)"
-    },
-    {
-        "q": "The transportation of NEET-UG question papers by the IAF, which began on June 16, will continue through which specific date?",
-        "a": "June 17",
-        "options": [
-            "June 18",
-            "June 15",
+            "June 3",
             "June 17",
-            "June 19",
-            "June 16"
+            "July 5",
+            "August 1",
+            "July 1"
         ],
-        "cat": "When (Kab)"
+        "cat": "When"
     },
     {
-        "q": "Why did TCS announce an additional provision of $70 million in Q1 FY2027?",
-        "a": "U.S. Supreme Court declined to review a lower court ruling in a legal dispute.",
+        "q": "When is the first state budget of the new BJP government in West Bengal scheduled to be presented?",
+        "a": "22 June",
         "options": [
-            "To fund a new acquisition",
-            "To cover quarterly bonuses",
-            "U.S. Supreme Court declined to review a lower court ruling in a legal dispute",
-            "Due to unexpected tax liabilities",
-            "To invest in new technology"
+            "20 June",
+            "24 June",
+            "21 June",
+            "23 June",
+            "22 June"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "For what specific purpose will TCS make the incremental amount of $70 million provision?",
-        "a": "Towards damages, interest and legal cost.",
+        "q": "Until when has the RBI decided to temporarily withdraw the interest rate ceiling on fresh FCNR(B) deposits and restriction on NRE deposits?",
+        "a": "September 30, 2026",
         "options": [
-            "For shareholder dividends",
-            "Towards damages, interest and legal cost",
-            "For employee welfare programs",
-            "For research and development",
-            "For global expansion"
+            "September 30, 2025",
+            "October 30, 2026",
+            "August 30, 2026",
+            "September 15, 2026",
+            "September 30, 2026"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "Why did the Supreme Court take suo motu cognisance of the octogenarian woman's case from Odisha?",
-        "a": "Highlighting dire conditions and living in extreme poverty, not receiving eligible benefits.",
+        "q": "On which date did the RBI issue the Amendment Directions regarding the temporary withdrawal of interest rate ceilings on FCNR(B) and NRE deposits?",
+        "a": "June 17, 2026",
         "options": [
-            "To investigate a land dispute",
-            "To review a criminal case",
-            "Highlighting dire conditions and living in extreme poverty, not receiving eligible benefits",
-            "To address a public interest litigation",
-            "To resolve a family feud"
+            "June 15, 2026",
+            "June 19, 2026",
+            "June 17, 2025",
+            "July 17, 2026",
+            "June 17, 2026"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What was the Supreme Court's primary concern regarding the welfare schemes for the mother and son in the Odisha case?",
-        "a": "Whether they were actually able to avail the benefits.",
+        "q": "The B-52 Stratofortress bomber entered service in what year?",
+        "a": "1955",
         "options": [
-            "Whether the schemes were well-funded",
-            "Whether they were actually able to avail the benefits",
-            "Whether the schemes were widely publicized",
-            "Whether the schemes had international recognition",
-            "Whether the schemes were designed efficiently"
+            "1950",
+            "1960",
+            "1945",
+            "1965",
+            "1955"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the stated purpose of inducting Japa Bhue as a para-legal volunteer by the Supreme Court?",
-        "a": "To provide him with a source of livelihood and enable him to assist other persons with disabilities.",
+        "q": "The US Air Force's Accident Investigation Board's investigation into the B-52 crash could take up to how many months to reach initial conclusions?",
+        "a": "Six months",
         "options": [
-            "To get him a government job with a fixed salary",
-            "To provide him with a source of livelihood and enable him to assist other persons with disabilities",
-            "To make him a Supreme Court advocate",
-            "To ensure his basic education",
-            "To train him in computer skills"
+            "Three months",
+            "Nine months",
+            "Twelve months",
+            "Four months",
+            "Six months"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "When"
     },
     {
-        "q": "What is the main reason for the Indian Air Force's deployment to airlift question papers for the NEET-UG re-examination?",
-        "a": "To ensure secure and timely delivery of confidential examination material due to paper leak allegations.",
+        "q": "What is one of the key commitments of Iran included in the US-Iran MoU?",
+        "a": "Not to pursue nuclear weapons",
         "options": [
-            "To provide logistical support for NTA staff",
-            "To monitor security at examination centers",
-            "To ensure secure and timely delivery of confidential examination material due to paper leak allegations",
-            "To transport candidates to remote locations",
-            "To showcase military capabilities"
+            "To increase oil production",
+            "To join the G7 summit",
+            "To build more ballistic missiles",
+            "To stop all trade with the US",
+            "Not to pursue nuclear weapons"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "Why was the original NEET-UG 2026 examination cancelled by the NTA on May 12?",
-        "a": "Allegations of a large-scale paper leak and suspected insider involvement.",
+        "q": "What was a primary objective for Trump in signing the MoU with Iran at Versailles?",
+        "a": "To prevent an economic catastrophe",
         "options": [
-            "Low candidate turnout",
-            "Technical glitches during the exam",
-            "Allegations of a large-scale paper leak and suspected insider involvement",
-            "Change in government policy",
-            "Natural disaster in several states"
+            "To expand US military presence",
+            "To secure oil deals",
+            "To impose new sanctions",
+            "To strengthen European alliances",
+            "To prevent an economic catastrophe"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What is the primary aim of the unprecedented security measures implemented for the NEET-UG re-examination?",
-        "a": "Restoring confidence in the examination process.",
+        "q": "What was the Annapurna Yojana scheme primarily designed to replace in West Bengal?",
+        "a": "Lakshmir Bhandar scheme",
         "options": [
-            "To reduce examination costs",
-            "To streamline administrative procedures",
-            "Restoring confidence in the examination process",
-            "To attract more international students",
-            "To introduce new question patterns"
+            "Kanyashree scheme",
+            "Rupashree scheme",
+            "Swasthya Sathi scheme",
+            "Duare Sarkar scheme",
+            "Lakshmir Bhandar scheme"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "For what type of legal case did the U.S. Court of Appeals for the Fifth Circuit rule in favour of Computer Sciences Corporation against TCS?",
-        "a": "Trade secrets case",
+        "q": "What is the primary purpose behind RBI's decision to temporarily withdraw interest rate ceilings on FCNR(B) and NRE deposits?",
+        "a": "To boost forex reserves",
         "options": [
-            "Copyright infringement case",
-            "Breach of contract case",
-            "Trade secrets case",
-            "Patent dispute case",
-            "Antitrust violation case"
+            "To decrease inflation",
+            "To encourage domestic investments",
+            "To reduce interest rates for loans",
+            "To strengthen the rupee against the dollar",
+            "To boost forex reserves"
         ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     },
     {
-        "q": "What specific benefit did the Supreme Court direct the State of Odisha to ensure for Smt. Radhika Bhue and her son Japa Bhue?",
-        "a": "All eligible social security benefits and basic amenities for a 'dignified life.'",
+        "q": "The B-52 bomber that crashed was part of a program seeking to achieve what long-term goal for the bomber fleet?",
+        "a": "To make the 65-year-old bomber fleet operable through at least 2050",
         "options": [
-            "A personal caretaker for life",
-            "A fixed monthly allowance from the Supreme Court",
-            "All eligible social security benefits and basic amenities for a 'dignified life.'",
-            "International medical assistance",
-            "A private educational scholarship"
+            "To convert the fleet into cargo planes",
+            "To decommission the entire fleet",
+            "To use them for space missions",
+            "To reduce their operational cost",
+            "To make the 65-year-old bomber fleet operable through at least 2050"
         ],
-        "cat": "Why (Kyo)"
-    },
-    {
-        "q": "Which of the following is an additional safeguard introduced for the NEET-UG re-examination?",
-        "a": "Strict isolation of paper setters",
-        "options": [
-            "Allowing open-book examination",
-            "Relaxing identity verification",
-            "Strict isolation of paper setters",
-            "Reducing the number of examination centers",
-            "Permitting mobile phones in exam halls"
-        ],
-        "cat": "Why (Kyo)"
-    },
-    {
-        "q": "The Supreme Court directed the State Legal Services Authority to submit a report verifying what specific detail regarding the mother and son in Odisha?",
-        "a": "Whether a dwelling unit had in fact been allotted to them.",
-        "options": [
-            "Their financial assets",
-            "Their educational background",
-            "Whether a dwelling unit had in fact been allotted to them.",
-            "Their social media presence",
-            "Their travel history"
-        ],
-        "cat": "Why (Kyo)"
+        "cat": "Why"
     }
 ]
