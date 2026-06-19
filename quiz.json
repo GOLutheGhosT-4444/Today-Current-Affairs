@@ -1,721 +1,793 @@
 [
     {
-        "q": "What is the monthly financial assistance provided to each beneficiary under West Bengal's Annapurna Yojana?",
-        "a": "\u20b93,000",
+        "q": "What is the potential fund amount for Iran's rebuilding mentioned in the agreement?",
+        "a": "USD 300 billion",
         "options": [
-            "\u20b93,100",
-            "\u20b92,900",
-            "\u20b93,050",
-            "\u20b92,950",
-            "\u20b93,000"
+            "USD 290 billion",
+            "USD 310 billion",
+            "USD 300 billion",
+            "USD 305 billion",
+            "USD 295 billion"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Under the previous TMC government's 'Lakshmir Bhandar' scheme, what was the maximum monthly amount women beneficiaries used to receive?",
-        "a": "\u20b91,500",
+        "q": "What was the net direct tax collection till June 17 this fiscal year?",
+        "a": "\u20b95.21 lakh crore",
         "options": [
-            "\u20b91,400",
-            "\u20b91,600",
-            "\u20b91,550",
-            "\u20b91,450",
-            "\u20b91,500"
+            "\u20b95.19 lakh crore",
+            "\u20b95.23 lakh crore",
+            "\u20b95.21 lakh crore",
+            "\u20b95.20 lakh crore",
+            "\u20b95.22 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many women beneficiaries had \u20b93,000 each credited to their accounts initially on June 3 under the Annapurna Yojana?",
-        "a": "28 lakh",
+        "q": "What was the growth percentage in net direct tax collection till June 17 this fiscal year?",
+        "a": "14.64%",
         "options": [
-            "29 lakh",
-            "27 lakh",
-            "28.5 lakh",
-            "27.5 lakh",
-            "28 lakh"
+            "14.54%",
+            "14.74%",
+            "14.64%",
+            "14.60%",
+            "14.68%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many additional women beneficiaries were reported to have enrolled under the Annapurna scheme after the initial rollout?",
-        "a": "1,05,000",
+        "q": "What was the net corporate tax collection till June 17 this fiscal year?",
+        "a": "\u20b92.08 lakh crore",
         "options": [
-            "1,00,000",
-            "1,10,000",
-            "1,04,000",
-            "1,06,000",
-            "1,05,000"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the combined total number of beneficiaries already covered and recently added under the Annapurna Yojana?",
-        "a": "Over 29 lakh",
-        "options": [
-            "Over 28 lakh",
-            "Exactly 29 lakh",
-            "Over 30 lakh",
-            "Under 29 lakh",
-            "Over 29 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The RBI approved a record surplus transfer of how much amount to the Union government for FY26?",
-        "a": "\u20b92.87 lakh crore",
-        "options": [
-            "\u20b92.80 lakh crore",
-            "\u20b92.90 lakh crore",
-            "\u20b92.85 lakh crore",
-            "\u20b92.92 lakh crore",
-            "\u20b92.87 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the previous record surplus transfer amount approved by the RBI?",
-        "a": "\u20b92.11 lakh crore",
-        "options": [
-            "\u20b92.10 lakh crore",
-            "\u20b92.12 lakh crore",
+            "\u20b92.07 lakh crore",
+            "\u20b92.09 lakh crore",
+            "\u20b92.08 lakh crore",
             "\u20b92.05 lakh crore",
-            "\u20b92.15 lakh crore",
-            "\u20b92.11 lakh crore"
+            "\u20b92.10 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the surplus transfer amount for FY23?",
-        "a": "\u20b987,416 crore",
+        "q": "What was the growth percentage in net corporate tax collection till June 17?",
+        "a": "22%",
         "options": [
-            "\u20b987,000 crore",
-            "\u20b988,000 crore",
-            "\u20b987,500 crore",
-            "\u20b987,400 crore",
-            "\u20b987,416 crore"
+            "21%",
+            "23%",
+            "22%",
+            "21.5%",
+            "22.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the approximate surplus transfer amount for FY25?",
-        "a": "\u20b92.69 lakh crore",
+        "q": "What was the net non-corporate tax (NCT) collection till June 17 this fiscal year?",
+        "a": "\u20b92.94 lakh crore",
         "options": [
-            "\u20b92.70 lakh crore",
-            "\u20b92.65 lakh crore",
-            "\u20b92.72 lakh crore",
-            "\u20b92.68 lakh crore",
-            "\u20b92.69 lakh crore"
+            "\u20b92.93 lakh crore",
+            "\u20b92.95 lakh crore",
+            "\u20b92.94 lakh crore",
+            "\u20b92.90 lakh crore",
+            "\u20b92.98 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much did the RBI's balance sheet increase in one year to reach \u20b991.97 lakh crore by March 2026?",
-        "a": "20.6%",
+        "q": "What was the growth percentage in net non-corporate tax (NCT) collection till June 17?",
+        "a": "8%",
         "options": [
-            "20.0%",
-            "21.0%",
-            "20.5%",
-            "20.7%",
-            "20.6%"
+            "7%",
+            "9%",
+            "8%",
+            "7.5%",
+            "8.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the total size of the RBI's balance sheet by March 2026?",
-        "a": "\u20b991.97 lakh crore",
+        "q": "What was the mop-up from Securities Transaction Tax (STT) till June 17 this fiscal year?",
+        "a": "\u20b918,856 crore",
         "options": [
-            "\u20b991.00 lakh crore",
-            "\u20b992.00 lakh crore",
-            "\u20b991.90 lakh crore",
-            "\u20b992.07 lakh crore",
-            "\u20b991.97 lakh crore"
+            "\u20b918,846 crore",
+            "\u20b918,866 crore",
+            "\u20b918,856 crore",
+            "\u20b918,800 crore",
+            "\u20b918,900 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "By how much did the RBI's gross income increase during the same period when its balance sheet grew by 20.6%?",
-        "a": "Over 26%",
+        "q": "What was the growth percentage in mop-up from Securities Transaction Tax (STT) till June 17?",
+        "a": "45%",
         "options": [
-            "Over 25%",
-            "Over 27%",
-            "Exactly 26%",
-            "Under 26%",
-            "Over 26%"
+            "44%",
+            "46%",
+            "45%",
+            "44.5%",
+            "45.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For FCNR(B) deposits with a tenure of one year to less than three years, what is the interest rate ceiling in basis points above the Overnight Alternative Reference Rate/Swap?",
-        "a": "250 basis points",
+        "q": "What was the Advance Tax collection till June 17 this fiscal year?",
+        "a": "\u20b91.78 lakh crore",
         "options": [
-            "200 basis points",
-            "300 basis points",
-            "240 basis points",
-            "260 basis points",
-            "250 basis points"
+            "\u20b91.77 lakh crore",
+            "\u20b91.79 lakh crore",
+            "\u20b91.78 lakh crore",
+            "\u20b91.75 lakh crore",
+            "\u20b91.80 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "For FCNR(B) deposits with a tenure of three years and above upto and including five years, what is the interest rate ceiling in basis points above the Overnight Alternative Reference Rate/Swap?",
-        "a": "350 basis points",
+        "q": "What was the growth percentage in Advance Tax collection till June 17?",
+        "a": "15.30%",
         "options": [
-            "300 basis points",
-            "400 basis points",
-            "340 basis points",
-            "360 basis points",
-            "350 basis points"
+            "15.20%",
+            "15.40%",
+            "15.30%",
+            "15.25%",
+            "15.35%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The RBI reportedly sold almost how many billion dollars worth of gold in the face of rupee pressures?",
-        "a": "$12 billion",
+        "q": "What was the corporate Advance Tax mop-up till June 17?",
+        "a": "\u20b91.40 lakh crore",
         "options": [
-            "$10 billion",
-            "$14 billion",
-            "$11 billion",
-            "$13 billion",
-            "$12 billion"
+            "\u20b91.39 lakh crore",
+            "\u20b91.41 lakh crore",
+            "\u20b91.40 lakh crore",
+            "\u20b91.38 lakh crore",
+            "\u20b91.42 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Approximately how many billion dollars worth of foreign-currency assets did the RBI buy when facing rupee pressures?",
-        "a": "$7.5 billion",
+        "q": "What was the growth percentage in corporate Advance Tax mop-up till June 17?",
+        "a": "16%",
         "options": [
-            "$7.0 billion",
-            "$8.0 billion",
-            "$7.2 billion",
-            "$7.8 billion",
-            "$7.5 billion"
+            "15%",
+            "17%",
+            "16%",
+            "15.5%",
+            "16.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many men were killed in the fiery crash of a B-52 during one of its test flights at California's Edwards Air Force Base?",
-        "a": "Eight",
+        "q": "What was the Non-Corporate Tax (NCT) Advance Tax collection till June 17?",
+        "a": "\u20b937,620 crore",
         "options": [
-            "Six",
-            "Ten",
-            "Seven",
-            "Nine",
-            "Eight"
+            "\u20b937,610 crore",
+            "\u20b937,630 crore",
+            "\u20b937,620 crore",
+            "\u20b937,500 crore",
+            "\u20b937,700 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "The B-52 Stratofortress bomber that crashed had a runway length of how many feet from which it took off?",
-        "a": "15,000 feet",
+        "q": "What was the increase percentage in Non-Corporate Tax (NCT) Advance Tax collection till June 17?",
+        "a": "13%",
         "options": [
-            "14,000 feet",
-            "16,000 feet",
-            "14,500 feet",
-            "15,500 feet",
-            "15,000 feet"
+            "12%",
+            "14%",
+            "13%",
+            "12.5%",
+            "13.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the approximate distance in miles of the Mojave Desert from Los Angeles, where the B-52 crashed?",
-        "a": "100 miles",
+        "q": "What was the amount of refunds issued till May 17 this fiscal year?",
+        "a": "\u20b989,026 crore",
         "options": [
-            "90 miles",
-            "110 miles",
-            "95 miles",
-            "105 miles",
-            "100 miles"
+            "\u20b989,016 crore",
+            "\u20b989,036 crore",
+            "\u20b989,026 crore",
+            "\u20b989,000 crore",
+            "\u20b989,050 crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Col Gregory Watson, one of the victims of the B-52 crash?",
-        "a": "53",
+        "q": "What was the increase percentage in refunds issued till May 17?",
+        "a": "1.19%",
         "options": [
-            "50",
-            "52",
-            "54",
-            "51",
-            "53"
+            "1.18%",
+            "1.20%",
+            "1.19%",
+            "1.15%",
+            "1.25%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Retired Lt Col Miles Middleton, one of the victims of the B-52 crash?",
-        "a": "50",
+        "q": "What was the gross direct tax collection till June 17 this fiscal year?",
+        "a": "\u20b96.10 lakh crore",
         "options": [
-            "49",
-            "51",
-            "48",
-            "52",
-            "50"
+            "\u20b96.09 lakh crore",
+            "\u20b96.11 lakh crore",
+            "\u20b96.10 lakh crore",
+            "\u20b96.05 lakh crore",
+            "\u20b96.15 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Lt Col Gabriel Estrella, one of the victims of the B-52 crash?",
-        "a": "40",
+        "q": "What was the growth percentage in gross direct tax collection till June 17?",
+        "a": "12.46%",
         "options": [
-            "39",
-            "41",
-            "38",
-            "42",
-            "40"
+            "12.36%",
+            "12.56%",
+            "12.46%",
+            "12.40%",
+            "12.50%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Maj Alexander Davis, one of the victims of the B-52 crash?",
-        "a": "34",
+        "q": "What is the budgeted direct tax collection for the current fiscal year?",
+        "a": "\u20b926.97 lakh crore",
         "options": [
-            "33",
-            "35",
-            "32",
-            "36",
-            "34"
+            "\u20b926.96 lakh crore",
+            "\u20b926.98 lakh crore",
+            "\u20b926.97 lakh crore",
+            "\u20b926.90 lakh crore",
+            "\u20b927.00 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Jeromy Smith, one of the victims of the B-52 crash?",
-        "a": "32",
+        "q": "What was the direct tax collected in FY26?",
+        "a": "\u20b923.40 lakh crore",
         "options": [
-            "31",
-            "33",
-            "30",
-            "34",
-            "32"
+            "\u20b923.39 lakh crore",
+            "\u20b923.41 lakh crore",
+            "\u20b923.40 lakh crore",
+            "\u20b923.35 lakh crore",
+            "\u20b923.45 lakh crore"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the age of Christopher Rischar, one of the victims of the B-52 crash?",
-        "a": "41",
+        "q": "What is the budgeted growth percentage for direct taxes in the current fiscal year over FY26?",
+        "a": "15%",
         "options": [
-            "40",
-            "42",
-            "39",
-            "43",
-            "41"
+            "14%",
+            "16%",
+            "15%",
+            "14.5%",
+            "15.5%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who signed the US-Iran MoU on behalf of the United States at Versailles, France?",
-        "a": "Donald Trump",
+        "q": "What is the monthly insurance premium per student under Karnataka's free bus pass scheme?",
+        "a": "\u20b95",
         "options": [
+            "\u20b94",
+            "\u20b96",
+            "\u20b95",
+            "\u20b94.5",
+            "\u20b95.5"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the processing fee per pass to be paid by the government for Karnataka's free student bus passes?",
+        "a": "\u20b9100",
+        "options": [
+            "\u20b990",
+            "\u20b9110",
+            "\u20b9100",
+            "\u20b995",
+            "\u20b9105"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the estimated annual expenditure on Karnataka's free student travel scheme?",
+        "a": "\u20b9286.08 crore",
+        "options": [
+            "\u20b9285.08 crore",
+            "\u20b9287.08 crore",
+            "\u20b9286.08 crore",
+            "\u20b9280.00 crore",
+            "\u20b9290.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the total expenditure incurred under Karnataka's Shakti scheme between June 2023 and February 2026?",
+        "a": "\u20b917,647.50 crore",
+        "options": [
+            "\u20b917,640.50 crore",
+            "\u20b917,650.50 crore",
+            "\u20b917,647.50 crore",
+            "\u20b917,600.00 crore",
+            "\u20b917,700.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much was released towards reimbursements for the Shakti scheme between June 2023 and February 2026?",
+        "a": "\u20b913,073.75 crore",
+        "options": [
+            "\u20b913,070.75 crore",
+            "\u20b913,075.75 crore",
+            "\u20b913,073.75 crore",
+            "\u20b913,050.00 crore",
+            "\u20b913,100.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What are the pending dues for the Shakti scheme as of February 2026?",
+        "a": "\u20b94,573.75 crore",
+        "options": [
+            "\u20b94,570.75 crore",
+            "\u20b94,575.75 crore",
+            "\u20b94,573.75 crore",
+            "\u20b94,550.00 crore",
+            "\u20b94,600.00 crore"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many students who purchased bus passes are eligible for reimbursement under Karnataka's new scheme?",
+        "a": "19,792",
+        "options": [
+            "19,782",
+            "19,802",
+            "19,792",
+            "19,700",
+            "19,850"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was the US Vice President scheduled to lead negotiations with Iran in Switzerland?",
+        "a": "JD Vance",
+        "options": [
+            "Kamala Harris",
+            "Mike Pence",
             "JD Vance",
-            "Emmanuel Macron",
-            "Masoud Pezeshkian",
-            "Mohammad Bagher Ghalibaf",
-            "Donald Trump"
+            "Joe Biden",
+            "Rex Tillerson"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which Iranian President signed the US-Iran Memorandum of Understanding (MoU)?",
-        "a": "Masoud Pezeshkian",
+        "q": "Who is Iran's Supreme Leader mentioned as approving the agreement despite reservations?",
+        "a": "Ayatollah Mojtaba Khamenei",
         "options": [
-            "Mohammad Bagher Ghalibaf",
-            "Ebrahim Raisi",
+            "Ayatollah Ali Khamenei",
+            "Ayatollah Ruhollah Khomeini",
+            "Ayatollah Mojtaba Khamenei",
             "Hassan Rouhani",
-            "Mahmoud Ahmadinejad",
-            "Masoud Pezeshkian"
+            "Ebrahim Raisi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the French President hosting the G7 dinner where the US-Iran MoU was signed?",
-        "a": "Emmanuel Macron",
-        "options": [
-            "Francois Hollande",
-            "Nicolas Sarkozy",
-            "Jacques Chirac",
-            "Georges Pompidou",
-            "Emmanuel Macron"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who was the Prime Minister who announced the immediate effect of the US-Iran MoU and endorsed it as a mediator?",
+        "q": "Which Pakistani Prime Minister postponed a planned visit to Switzerland related to the agreement?",
         "a": "Shehbaz Sharif",
         "options": [
             "Imran Khan",
             "Nawaz Sharif",
-            "Benazir Bhutto",
-            "Pervez Musharraf",
-            "Shehbaz Sharif"
+            "Shehbaz Sharif",
+            "Asif Ali Zardari",
+            "Pervez Musharraf"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Chief Minister of West Bengal who launched the Annapurna Yojana?",
-        "a": "Suvendu Adhikari",
+        "q": "Which US President signed the initial pact with Iran while dining at the Palace of Versailles?",
+        "a": "Donald Trump",
         "options": [
-            "Mamata Banerjee",
-            "Amit Shah",
-            "Narendra Modi",
-            "Jagdeep Dhankhar",
-            "Suvendu Adhikari"
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George W. Bush",
+            "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which committee's recommendations led to the adoption of the Economic Capital Framework, influencing RBI's surplus transfers?",
-        "a": "Bimal Jalan Committee",
+        "q": "Which French President was dining with Donald Trump when the initial pact with Iran was signed?",
+        "a": "Emmanuel Macron",
         "options": [
-            "Raghuram Rajan Committee",
-            "Urjit Patel Committee",
-            "N.K. Singh Committee",
-            "Y.V. Reddy Committee",
-            "Bimal Jalan Committee"
+            "Fran\u00e7ois Hollande",
+            "Nicolas Sarkozy",
+            "Emmanuel Macron",
+            "Jacques Chirac",
+            "Georges Pompidou"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Dean and Professor of Economics at O.P. Jindal Global University mentioned in the article as an author?",
-        "a": "Deepanshu Mohan",
+        "q": "Who is the editor-in-chief of Lloyd's List quoted regarding ship movements through the strait?",
+        "a": "Richard Meade",
         "options": [
-            "Ankur Singh",
-            "Arvind Subramanian",
-            "Raghuram Rajan",
-            "Abhijit Banerjee",
-            "Deepanshu Mohan"
+            "John Lloyd",
+            "Richard Meade",
+            "Peter Scott",
+            "James Smith",
+            "David Jones"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Research Analyst with Centre for New Economics Studies mentioned as a co-author of the RBI article?",
-        "a": "Ankur Singh",
+        "q": "Who is the Deloitte India partner quoted on direct tax collections?",
+        "a": "Rohinton Sidhwa",
         "options": [
-            "Deepanshu Mohan",
-            "Bibek Debroy",
-            "P. Chidambaram",
-            "Arun Jaitley",
-            "Ankur Singh"
+            "Rohit Sharma",
+            "Rohinton Sidhwa",
+            "Ravi Menon",
+            "Ritesh Agarwal",
+            "Rajesh Gupta"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the commander of the 412th Test Wing at Edwards Air Force Base who announced the names of the victims of the B-52 crash?",
-        "a": "Col Thomas Tauer",
+        "q": "Who is the EY India Tax partner quoted on advance tax growth?",
+        "a": "Jayesh Sanghvi",
         "options": [
-            "Col Gregory Watson",
-            "Lt Col Miles Middleton",
-            "Maj Alexander Davis",
-            "Col Michael S. Tauer",
-            "Col Thomas Tauer"
+            "Jaideep Singh",
+            "Jitesh Sharma",
+            "Jayesh Sanghvi",
+            "Jyoti Prakash",
+            "Javed Khan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the Governor of Iowa who offered condolences for Maj Brad Hovey, one of the victims of the B-52 crash?",
-        "a": "Kim Reynolds",
+        "q": "Who is the current Chief Minister of Karnataka who announced the free bus travel scheme for students?",
+        "a": "D.K. Shivakumar",
         "options": [
-            "Gavin Newsom",
-            "Greg Abbott",
-            "John Bel Edwards",
-            "Ron DeSantis",
-            "Kim Reynolds"
+            "Siddaramaiah",
+            "Basavaraj Bommai",
+            "D.K. Shivakumar",
+            "B.S. Yeddyurappa",
+            "H.D. Kumaraswamy"
         ],
         "cat": "Who"
     },
     {
-        "q": "At which location did US President Donald Trump sign the US-Iran MoU while attending a G7 dinner?",
-        "a": "Versailles, France",
+        "q": "Who described the free bus travel for students as a long-pending measure?",
+        "a": "Niranjanaradhya V.P.",
         "options": [
-            "Paris, France",
+            "Narendra Singh",
+            "Niranjanaradhya V.P.",
+            "Naveen Kumar",
+            "Nandini Prasad",
+            "Nikunj Sharma"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which pan-Arab satellite channel, allied with Iranian-backed Hezbollah, reported Iran's delay?",
+        "a": "Al-Mayadeen",
+        "options": [
+            "Al Jazeera",
+            "Al-Arabiya",
+            "Al-Mayadeen",
+            "Press TV",
+            "Russia Today"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where was the high-stakes negotiation between the United States and Iran originally scheduled to take place?",
+        "a": "Burgenstock mountaintop resort in Switzerland",
+        "options": [
             "Geneva, Switzerland",
-            "Washington D.C., USA",
-            "Tehran, Iran",
-            "Versailles, France"
+            "Vienna, Austria",
+            "Burgenstock mountaintop resort in Switzerland",
+            "Lausanne, Switzerland",
+            "Zurich, Switzerland"
         ],
         "cat": "Where"
     },
     {
-        "q": "The US-Iran MoU includes commitments regarding the reopening of which vital maritime chokepoint?",
-        "a": "Strait of Hormuz",
+        "q": "Where did President Donald Trump sign the initial pact with Iran?",
+        "a": "Palace of Versailles",
         "options": [
-            "Suez Canal",
-            "Bab-el-Mandeb",
-            "Strait of Malacca",
-            "Panama Canal",
-            "Strait of Hormuz"
+            "White House, USA",
+            "Elysee Palace, France",
+            "Palace of Versailles",
+            "Buckingham Palace, UK",
+            "Kremlin, Russia"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where was the scheduled official signing ceremony for the US-Iran agreement, which remains unclear if it will continue?",
-        "a": "Switzerland",
+        "q": "Which Indian state implemented the free bus travel scheme for students?",
+        "a": "Karnataka",
         "options": [
-            "France",
-            "USA",
-            "Iran",
-            "Pakistan",
-            "Switzerland"
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Telangana"
         ],
         "cat": "Where"
     },
     {
-        "q": "According to Pakistan's Prime Minister, the historic MoU was named after which city?",
-        "a": "Islamabad",
+        "q": "Which city's metro network is mentioned in calls for subsidised or free passes for students?",
+        "a": "Bengaluru",
         "options": [
-            "Karachi",
-            "Lahore",
-            "Rawalpindi",
-            "Peshawar",
-            "Islamabad"
+            "Mumbai",
+            "Delhi",
+            "Bengaluru",
+            "Chennai",
+            "Kolkata"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which district of West Bengal was the program held on June 17 where the Chief Minister discussed the Annapurna Yojana?",
-        "a": "South 24 Parganas",
-        "options": [
-            "North 24 Parganas",
-            "Kolkata",
-            "Howrah",
-            "Hooghly",
-            "South 24 Parganas"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Annapurna Yojana program was held at Falta. In which district is Falta located?",
-        "a": "South 24 Parganas",
-        "options": [
-            "Kolkata",
-            "Howrah",
-            "Hooghly",
-            "Paschim Medinipur",
-            "South 24 Parganas"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "At which US Air Force Base did the B-52 bomber crash during a test flight?",
-        "a": "Edwards Air Force Base, California",
-        "options": [
-            "Barksdale Air Force Base, Louisiana",
-            "Fort Worth, Texas",
-            "Nellis Air Force Base, Nevada",
-            "Wright-Patterson Air Force Base, Ohio",
-            "Edwards Air Force Base, California"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The B-52 bomber that crashed arrived at Edwards Air Force Base after receiving a modernized radar installed at Boeing\u2019s facility in which city?",
-        "a": "San Antonio",
-        "options": [
-            "Seattle",
-            "Houston",
-            "Dallas",
-            "Los Angeles",
-            "San Antonio"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Before serving as a testing platform, the B-52 bomber was based at which Air Force Base for almost a decade?",
-        "a": "Barksdale Air Force Base, Louisiana",
-        "options": [
-            "Edwards Air Force Base, California",
-            "Fort Worth, Texas",
-            "Nellis Air Force Base, Nevada",
-            "Wright-Patterson Air Force Base, Ohio",
-            "Barksdale Air Force Base, Louisiana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which country, a key littoral state in the Strait of Hormuz, will Iran negotiate with to define future administrative and maritime services?",
-        "a": "Oman",
+        "q": "The Strait where major shipowners began moving vessels is under the control of which country's military?",
+        "a": "Iran",
         "options": [
             "Saudi Arabia",
-            "Qatar",
-            "UAE",
-            "India",
-            "Oman"
+            "United States",
+            "Iran",
+            "Oman",
+            "United Arab Emirates"
         ],
         "cat": "Where"
     },
     {
-        "q": "On what date was the electronic signing of the US-Iran MoU by Iranian parliamentary speaker Mohammad Bagher Ghalibaf and US Vice President JD Vance reported?",
-        "a": "14 June",
+        "q": "On which date was the postponement of US-Iran negotiations announced?",
+        "a": "Friday, 19 June",
         "options": [
-            "12 June",
-            "10 June",
-            "16 June",
-            "18 June",
-            "14 June"
+            "Thursday, 18 June",
+            "Friday, 19 June",
+            "Saturday, 20 June",
+            "Wednesday, 17 June",
+            "Monday, 22 June"
         ],
         "cat": "When"
     },
     {
-        "q": "The agreement between the US and Iran commenced a 60-day extendable period for Washington and Tehran to reach a more final deal. How long is this initial period?",
+        "q": "When did Iran's Supreme Leader Ayatollah Mojtaba Khamenei approve the agreement?",
+        "a": "18 June",
+        "options": [
+            "17 June",
+            "19 June",
+            "18 June",
+            "20 June",
+            "21 June"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "What is the duration of the timeline for broader negotiations on Iran\u2019s nuclear programme after the initial agreement?",
         "a": "60 days",
         "options": [
             "30 days",
             "90 days",
-            "45 days",
-            "120 days",
-            "60 days"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The US will fully end its naval blockade in the Strait of Hormuz within how many days as per the US-Iran MoU?",
-        "a": "30 days",
-        "options": [
-            "15 days",
-            "45 days",
             "60 days",
+            "45 days",
+            "120 days"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "On which day of the week did President Donald Trump sign the initial pact with Iran?",
+        "a": "Wednesday",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many days were ships owned by major companies effectively marooned in the strait before the agreement was signed?",
+        "a": "110 days",
+        "options": [
+            "100 days",
+            "120 days",
+            "110 days",
             "90 days",
-            "30 days"
+            "130 days"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date was the Annapurna Yojana cash scheme launched by the Chief Minister?",
-        "a": "June 3",
+        "q": "The net direct tax collection data provided is till which date this fiscal year?",
+        "a": "June 17",
         "options": [
-            "June 1",
-            "June 5",
-            "July 1",
-            "May 3",
-            "June 3"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which date are the newly enrolled beneficiaries of the Annapurna Yojana set to receive their \u20b93,000 for the month of June?",
-        "a": "July 1",
-        "options": [
-            "June 3",
+            "May 17",
+            "June 15",
             "June 17",
-            "July 5",
-            "August 1",
+            "June 30",
             "July 1"
         ],
         "cat": "When"
     },
     {
-        "q": "When is the first state budget of the new BJP government in West Bengal scheduled to be presented?",
-        "a": "22 June",
+        "q": "On what date did Karnataka Chief Minister D.K. Shivakumar announce the free bus travel scheme for students?",
+        "a": "June 3",
         "options": [
-            "20 June",
-            "24 June",
-            "21 June",
-            "23 June",
-            "22 June"
+            "June 1",
+            "June 5",
+            "June 3",
+            "June 11",
+            "June 12"
         ],
         "cat": "When"
     },
     {
-        "q": "Until when has the RBI decided to temporarily withdraw the interest rate ceiling on fresh FCNR(B) deposits and restriction on NRE deposits?",
-        "a": "September 30, 2026",
+        "q": "When was Karnataka's Shakti scheme, providing free travel for women, launched?",
+        "a": "June 11, 2023",
         "options": [
-            "September 30, 2025",
-            "October 30, 2026",
-            "August 30, 2026",
-            "September 15, 2026",
-            "September 30, 2026"
+            "June 11, 2022",
+            "June 11, 2024",
+            "June 11, 2023",
+            "June 1, 2023",
+            "July 11, 2023"
         ],
         "cat": "When"
     },
     {
-        "q": "On which date did the RBI issue the Amendment Directions regarding the temporary withdrawal of interest rate ceilings on FCNR(B) and NRE deposits?",
-        "a": "June 17, 2026",
+        "q": "On what date were guidelines issued for the distribution of free bus passes to male students in Karnataka, making the scheme effective?",
+        "a": "June 12, 2026",
         "options": [
-            "June 15, 2026",
-            "June 19, 2026",
-            "June 17, 2025",
-            "July 17, 2026",
-            "June 17, 2026"
+            "June 3, 2026",
+            "June 11, 2026",
+            "June 12, 2026",
+            "July 12, 2026",
+            "June 1, 2026"
         ],
         "cat": "When"
     },
     {
-        "q": "The B-52 Stratofortress bomber entered service in what year?",
-        "a": "1955",
+        "q": "Within how many days will the amount paid for bus passes purchased by students be refunded under Karnataka's scheme?",
+        "a": "15 days",
         "options": [
-            "1950",
-            "1960",
-            "1945",
-            "1965",
-            "1955"
+            "7 days",
+            "30 days",
+            "15 days",
+            "20 days",
+            "10 days"
         ],
         "cat": "When"
     },
     {
-        "q": "The US Air Force's Accident Investigation Board's investigation into the B-52 crash could take up to how many months to reach initial conclusions?",
-        "a": "Six months",
+        "q": "The expenditure data for Karnataka's Shakti scheme covers the period between June 2023 and which month?",
+        "a": "February 2026",
         "options": [
-            "Three months",
-            "Nine months",
-            "Twelve months",
-            "Four months",
-            "Six months"
+            "January 2026",
+            "March 2026",
+            "February 2026",
+            "April 2026",
+            "December 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "What is one of the key commitments of Iran included in the US-Iran MoU?",
-        "a": "Not to pursue nuclear weapons",
+        "q": "What was the primary reason cited by the White House for postponing JD Vance's trip to Switzerland for negotiations with Iran?",
+        "a": "Difficult logistics for negotiations and uncertainty over Iran's participation.",
         "options": [
-            "To increase oil production",
-            "To join the G7 summit",
-            "To build more ballistic missiles",
-            "To stop all trade with the US",
-            "Not to pursue nuclear weapons"
+            "Political disagreements between US and Iran",
+            "Scheduling conflict for JD Vance",
+            "Difficult logistics for negotiations and uncertainty over Iran's participation",
+            "Lack of prepared documents for the talks",
+            "Security concerns at the venue"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was a primary objective for Trump in signing the MoU with Iran at Versailles?",
-        "a": "To prevent an economic catastrophe",
+        "q": "Why did Iran reportedly delay sending its delegation to Switzerland for talks?",
+        "a": "Concerns over Israel's ongoing military campaign in Lebanon.",
         "options": [
-            "To expand US military presence",
-            "To secure oil deals",
-            "To impose new sanctions",
-            "To strengthen European alliances",
-            "To prevent an economic catastrophe"
+            "Internal political issues in Iran",
+            "Concerns over Israel's ongoing military campaign in Lebanon",
+            "Disagreement on the negotiation agenda",
+            "Unavailability of key delegates",
+            "Protests within Switzerland"
         ],
         "cat": "Why"
     },
     {
-        "q": "What was the Annapurna Yojana scheme primarily designed to replace in West Bengal?",
-        "a": "Lakshmir Bhandar scheme",
+        "q": "One of the commitments in the MoU related to Iran's nuclear programme is to prevent the development of what?",
+        "a": "Nuclear weapons",
         "options": [
-            "Kanyashree scheme",
-            "Rupashree scheme",
-            "Swasthya Sathi scheme",
-            "Duare Sarkar scheme",
-            "Lakshmir Bhandar scheme"
+            "New missile technology",
+            "Nuclear weapons",
+            "Advanced drone systems",
+            "Cyber warfare capabilities",
+            "Biological weapons"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the primary purpose behind RBI's decision to temporarily withdraw interest rate ceilings on FCNR(B) and NRE deposits?",
-        "a": "To boost forex reserves",
+        "q": "What is the overarching purpose of Karnataka's new free bus travel scheme for students?",
+        "a": "To benefit all students from school to college level by providing free travel.",
         "options": [
-            "To decrease inflation",
-            "To encourage domestic investments",
-            "To reduce interest rates for loans",
-            "To strengthen the rupee against the dollar",
-            "To boost forex reserves"
+            "To reduce traffic congestion in cities",
+            "To promote tourism in rural areas",
+            "To benefit all students from school to college level by providing free travel",
+            "To encourage private bus operators",
+            "To provide employment to bus conductors"
         ],
         "cat": "Why"
     },
     {
-        "q": "The B-52 bomber that crashed was part of a program seeking to achieve what long-term goal for the bomber fleet?",
-        "a": "To make the 65-year-old bomber fleet operable through at least 2050",
+        "q": "What is the core purpose of the initial agreement signed between the US and Iran, as stated by the news?",
+        "a": "To end the war.",
         "options": [
-            "To convert the fleet into cargo planes",
-            "To decommission the entire fleet",
-            "To use them for space missions",
-            "To reduce their operational cost",
-            "To make the 65-year-old bomber fleet operable through at least 2050"
+            "To boost trade relations",
+            "To end the war.",
+            "To establish cultural exchange programs",
+            "To form a military alliance",
+            "To resolve border disputes"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What specific criticism did some US congressional Republicans raise regarding the preliminary deal with Iran?",
+        "a": "Washington ceded too much with relief from sanctions and a potential USD 300 billion fund.",
+        "options": [
+            "The deal was not comprehensive enough",
+            "The deal ignored human rights issues",
+            "Washington ceded too much with relief from sanctions and a potential USD 300 billion fund.",
+            "The deal was signed too quickly",
+            "The deal would negatively impact oil prices"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is one of the key commitments Iran has made regarding its highly enriched uranium stockpile under the agreement?",
+        "a": "It must at minimum be diluted under international supervision.",
+        "options": [
+            "It must be increased for energy needs.",
+            "It must be sold to other nations.",
+            "It must at minimum be diluted under international supervision.",
+            "It must be stored indefinitely.",
+            "It must be used for medical purposes only."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the news, what does strong advance tax growth from companies indicate?",
+        "a": "The corporate sector is doing well and indicates potential business confidence.",
+        "options": [
+            "A decline in corporate profits.",
+            "An increase in government spending.",
+            "The corporate sector is doing well and indicates potential business confidence.",
+            "A decrease in individual tax compliance.",
+            "Rising inflation rates."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the intended outcome of the overall tax collection growth for the government?",
+        "a": "To help keep the government on its track of maintaining the fiscal deficit target.",
+        "options": [
+            "To reduce public debt to zero.",
+            "To increase defense spending.",
+            "To help keep the government on its track of maintaining the fiscal deficit target.",
+            "To provide universal basic income.",
+            "To fund space exploration programs."
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was the purpose of launching the existing Shakti scheme in Karnataka?",
+        "a": "To provide free travel for women, transgender persons and students on non-premium State-run buses.",
+        "options": [
+            "To provide free medical services.",
+            "To promote women entrepreneurship.",
+            "To provide free travel for women, transgender persons and students on non-premium State-run buses.",
+            "To offer skill development training.",
+            "To subsidize housing for women."
         ],
         "cat": "Why"
     }
