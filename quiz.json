@@ -1,793 +1,769 @@
 [
     {
-        "q": "What is the potential fund amount for Iran's rebuilding mentioned in the agreement?",
-        "a": "USD 300 billion",
+        "q": "What was the estimated value of the customized Boeing 747 presented by Qatar to the US government?",
+        "a": "USD 400 million",
         "options": [
-            "USD 290 billion",
-            "USD 310 billion",
-            "USD 300 billion",
-            "USD 305 billion",
-            "USD 295 billion"
+            "USD 395 million",
+            "USD 400 million",
+            "USD 405 million",
+            "USD 450 million",
+            "USD 350 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the net direct tax collection till June 17 this fiscal year?",
-        "a": "\u20b95.21 lakh crore",
+        "q": "In how many months was the transformation of the presidential aircraft into a 'flying White House' completed?",
+        "a": "10 months",
         "options": [
-            "\u20b95.19 lakh crore",
-            "\u20b95.23 lakh crore",
-            "\u20b95.21 lakh crore",
-            "\u20b95.20 lakh crore",
-            "\u20b95.22 lakh crore"
+            "12 months",
+            "8 months",
+            "10 months",
+            "15 months",
+            "6 months"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the growth percentage in net direct tax collection till June 17 this fiscal year?",
-        "a": "14.64%",
-        "options": [
-            "14.54%",
-            "14.74%",
-            "14.64%",
-            "14.60%",
-            "14.68%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the net corporate tax collection till June 17 this fiscal year?",
-        "a": "\u20b92.08 lakh crore",
-        "options": [
-            "\u20b92.07 lakh crore",
-            "\u20b92.09 lakh crore",
-            "\u20b92.08 lakh crore",
-            "\u20b92.05 lakh crore",
-            "\u20b92.10 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in net corporate tax collection till June 17?",
-        "a": "22%",
-        "options": [
-            "21%",
-            "23%",
-            "22%",
-            "21.5%",
-            "22.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the net non-corporate tax (NCT) collection till June 17 this fiscal year?",
-        "a": "\u20b92.94 lakh crore",
-        "options": [
-            "\u20b92.93 lakh crore",
-            "\u20b92.95 lakh crore",
-            "\u20b92.94 lakh crore",
-            "\u20b92.90 lakh crore",
-            "\u20b92.98 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in net non-corporate tax (NCT) collection till June 17?",
-        "a": "8%",
-        "options": [
-            "7%",
-            "9%",
-            "8%",
-            "7.5%",
-            "8.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the mop-up from Securities Transaction Tax (STT) till June 17 this fiscal year?",
-        "a": "\u20b918,856 crore",
-        "options": [
-            "\u20b918,846 crore",
-            "\u20b918,866 crore",
-            "\u20b918,856 crore",
-            "\u20b918,800 crore",
-            "\u20b918,900 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in mop-up from Securities Transaction Tax (STT) till June 17?",
-        "a": "45%",
-        "options": [
-            "44%",
-            "46%",
-            "45%",
-            "44.5%",
-            "45.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the Advance Tax collection till June 17 this fiscal year?",
-        "a": "\u20b91.78 lakh crore",
-        "options": [
-            "\u20b91.77 lakh crore",
-            "\u20b91.79 lakh crore",
-            "\u20b91.78 lakh crore",
-            "\u20b91.75 lakh crore",
-            "\u20b91.80 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in Advance Tax collection till June 17?",
-        "a": "15.30%",
-        "options": [
-            "15.20%",
-            "15.40%",
-            "15.30%",
-            "15.25%",
-            "15.35%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the corporate Advance Tax mop-up till June 17?",
-        "a": "\u20b91.40 lakh crore",
-        "options": [
-            "\u20b91.39 lakh crore",
-            "\u20b91.41 lakh crore",
-            "\u20b91.40 lakh crore",
-            "\u20b91.38 lakh crore",
-            "\u20b91.42 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in corporate Advance Tax mop-up till June 17?",
-        "a": "16%",
-        "options": [
-            "15%",
-            "17%",
-            "16%",
-            "15.5%",
-            "16.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the Non-Corporate Tax (NCT) Advance Tax collection till June 17?",
-        "a": "\u20b937,620 crore",
-        "options": [
-            "\u20b937,610 crore",
-            "\u20b937,630 crore",
-            "\u20b937,620 crore",
-            "\u20b937,500 crore",
-            "\u20b937,700 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the increase percentage in Non-Corporate Tax (NCT) Advance Tax collection till June 17?",
-        "a": "13%",
-        "options": [
-            "12%",
-            "14%",
-            "13%",
-            "12.5%",
-            "13.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the amount of refunds issued till May 17 this fiscal year?",
-        "a": "\u20b989,026 crore",
-        "options": [
-            "\u20b989,016 crore",
-            "\u20b989,036 crore",
-            "\u20b989,026 crore",
-            "\u20b989,000 crore",
-            "\u20b989,050 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the increase percentage in refunds issued till May 17?",
-        "a": "1.19%",
-        "options": [
-            "1.18%",
-            "1.20%",
-            "1.19%",
-            "1.15%",
-            "1.25%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the gross direct tax collection till June 17 this fiscal year?",
-        "a": "\u20b96.10 lakh crore",
-        "options": [
-            "\u20b96.09 lakh crore",
-            "\u20b96.11 lakh crore",
-            "\u20b96.10 lakh crore",
-            "\u20b96.05 lakh crore",
-            "\u20b96.15 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the growth percentage in gross direct tax collection till June 17?",
-        "a": "12.46%",
-        "options": [
-            "12.36%",
-            "12.56%",
-            "12.46%",
-            "12.40%",
-            "12.50%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the budgeted direct tax collection for the current fiscal year?",
-        "a": "\u20b926.97 lakh crore",
-        "options": [
-            "\u20b926.96 lakh crore",
-            "\u20b926.98 lakh crore",
-            "\u20b926.97 lakh crore",
-            "\u20b926.90 lakh crore",
-            "\u20b927.00 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the direct tax collected in FY26?",
-        "a": "\u20b923.40 lakh crore",
-        "options": [
-            "\u20b923.39 lakh crore",
-            "\u20b923.41 lakh crore",
-            "\u20b923.40 lakh crore",
-            "\u20b923.35 lakh crore",
-            "\u20b923.45 lakh crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the budgeted growth percentage for direct taxes in the current fiscal year over FY26?",
-        "a": "15%",
-        "options": [
-            "14%",
-            "16%",
-            "15%",
-            "14.5%",
-            "15.5%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the monthly insurance premium per student under Karnataka's free bus pass scheme?",
-        "a": "\u20b95",
-        "options": [
-            "\u20b94",
-            "\u20b96",
-            "\u20b95",
-            "\u20b94.5",
-            "\u20b95.5"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the processing fee per pass to be paid by the government for Karnataka's free student bus passes?",
-        "a": "\u20b9100",
-        "options": [
-            "\u20b990",
-            "\u20b9110",
-            "\u20b9100",
-            "\u20b995",
-            "\u20b9105"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What is the estimated annual expenditure on Karnataka's free student travel scheme?",
-        "a": "\u20b9286.08 crore",
-        "options": [
-            "\u20b9285.08 crore",
-            "\u20b9287.08 crore",
-            "\u20b9286.08 crore",
-            "\u20b9280.00 crore",
-            "\u20b9290.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the total expenditure incurred under Karnataka's Shakti scheme between June 2023 and February 2026?",
-        "a": "\u20b917,647.50 crore",
-        "options": [
-            "\u20b917,640.50 crore",
-            "\u20b917,650.50 crore",
-            "\u20b917,647.50 crore",
-            "\u20b917,600.00 crore",
-            "\u20b917,700.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much was released towards reimbursements for the Shakti scheme between June 2023 and February 2026?",
-        "a": "\u20b913,073.75 crore",
-        "options": [
-            "\u20b913,070.75 crore",
-            "\u20b913,075.75 crore",
-            "\u20b913,073.75 crore",
-            "\u20b913,050.00 crore",
-            "\u20b913,100.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What are the pending dues for the Shakti scheme as of February 2026?",
-        "a": "\u20b94,573.75 crore",
-        "options": [
-            "\u20b94,570.75 crore",
-            "\u20b94,575.75 crore",
-            "\u20b94,573.75 crore",
-            "\u20b94,550.00 crore",
-            "\u20b94,600.00 crore"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How many students who purchased bus passes are eligible for reimbursement under Karnataka's new scheme?",
-        "a": "19,792",
-        "options": [
-            "19,782",
-            "19,802",
-            "19,792",
-            "19,700",
-            "19,850"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was the US Vice President scheduled to lead negotiations with Iran in Switzerland?",
-        "a": "JD Vance",
-        "options": [
-            "Kamala Harris",
-            "Mike Pence",
-            "JD Vance",
-            "Joe Biden",
-            "Rex Tillerson"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is Iran's Supreme Leader mentioned as approving the agreement despite reservations?",
-        "a": "Ayatollah Mojtaba Khamenei",
-        "options": [
-            "Ayatollah Ali Khamenei",
-            "Ayatollah Ruhollah Khomeini",
-            "Ayatollah Mojtaba Khamenei",
-            "Hassan Rouhani",
-            "Ebrahim Raisi"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which Pakistani Prime Minister postponed a planned visit to Switzerland related to the agreement?",
-        "a": "Shehbaz Sharif",
-        "options": [
-            "Imran Khan",
-            "Nawaz Sharif",
-            "Shehbaz Sharif",
-            "Asif Ali Zardari",
-            "Pervez Musharraf"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which US President signed the initial pact with Iran while dining at the Palace of Versailles?",
+        "q": "Who introduced the new presidential aircraft, a customized Boeing 747, at the launch event?",
         "a": "Donald Trump",
         "options": [
             "Joe Biden",
             "Barack Obama",
             "Donald Trump",
-            "George W. Bush",
+            "George Bush",
             "Bill Clinton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which French President was dining with Donald Trump when the initial pact with Iran was signed?",
-        "a": "Emmanuel Macron",
-        "options": [
-            "Fran\u00e7ois Hollande",
-            "Nicolas Sarkozy",
-            "Emmanuel Macron",
-            "Jacques Chirac",
-            "Georges Pompidou"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the editor-in-chief of Lloyd's List quoted regarding ship movements through the strait?",
-        "a": "Richard Meade",
-        "options": [
-            "John Lloyd",
-            "Richard Meade",
-            "Peter Scott",
-            "James Smith",
-            "David Jones"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the Deloitte India partner quoted on direct tax collections?",
-        "a": "Rohinton Sidhwa",
-        "options": [
-            "Rohit Sharma",
-            "Rohinton Sidhwa",
-            "Ravi Menon",
-            "Ritesh Agarwal",
-            "Rajesh Gupta"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the EY India Tax partner quoted on advance tax growth?",
-        "a": "Jayesh Sanghvi",
-        "options": [
-            "Jaideep Singh",
-            "Jitesh Sharma",
-            "Jayesh Sanghvi",
-            "Jyoti Prakash",
-            "Javed Khan"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is the current Chief Minister of Karnataka who announced the free bus travel scheme for students?",
-        "a": "D.K. Shivakumar",
-        "options": [
-            "Siddaramaiah",
-            "Basavaraj Bommai",
-            "D.K. Shivakumar",
-            "B.S. Yeddyurappa",
-            "H.D. Kumaraswamy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who described the free bus travel for students as a long-pending measure?",
-        "a": "Niranjanaradhya V.P.",
-        "options": [
-            "Narendra Singh",
-            "Niranjanaradhya V.P.",
-            "Naveen Kumar",
-            "Nandini Prasad",
-            "Nikunj Sharma"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Which pan-Arab satellite channel, allied with Iranian-backed Hezbollah, reported Iran's delay?",
-        "a": "Al-Mayadeen",
-        "options": [
-            "Al Jazeera",
-            "Al-Arabiya",
-            "Al-Mayadeen",
-            "Press TV",
-            "Russia Today"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where was the high-stakes negotiation between the United States and Iran originally scheduled to take place?",
-        "a": "Burgenstock mountaintop resort in Switzerland",
-        "options": [
-            "Geneva, Switzerland",
-            "Vienna, Austria",
-            "Burgenstock mountaintop resort in Switzerland",
-            "Lausanne, Switzerland",
-            "Zurich, Switzerland"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did President Donald Trump sign the initial pact with Iran?",
-        "a": "Palace of Versailles",
-        "options": [
-            "White House, USA",
-            "Elysee Palace, France",
-            "Palace of Versailles",
-            "Buckingham Palace, UK",
-            "Kremlin, Russia"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which Indian state implemented the free bus travel scheme for students?",
-        "a": "Karnataka",
-        "options": [
-            "Kerala",
-            "Tamil Nadu",
-            "Karnataka",
-            "Andhra Pradesh",
-            "Telangana"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city's metro network is mentioned in calls for subsidised or free passes for students?",
-        "a": "Bengaluru",
-        "options": [
-            "Mumbai",
-            "Delhi",
-            "Bengaluru",
-            "Chennai",
-            "Kolkata"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "The Strait where major shipowners began moving vessels is under the control of which country's military?",
-        "a": "Iran",
+        "q": "Which country presented the customized Boeing 747 to the US government as a replacement for the presidential aircraft?",
+        "a": "Qatar",
         "options": [
             "Saudi Arabia",
-            "United States",
-            "Iran",
-            "Oman",
-            "United Arab Emirates"
+            "United Arab Emirates",
+            "Kuwait",
+            "Qatar",
+            "Bahrain"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "The launch event for the new presidential aircraft took place at which location?",
+        "a": "Joint Base Andrews in Maryland",
+        "options": [
+            "Andrews Air Force Base in Virginia",
+            "Fort Bragg in North Carolina",
+            "Joint Base Lewis-McChord in Washington",
+            "Joint Base Andrews in Maryland",
+            "Ramstein Air Base in Germany"
         ],
         "cat": "Where"
     },
     {
-        "q": "On which date was the postponement of US-Iran negotiations announced?",
-        "a": "Friday, 19 June",
+        "q": "What is the designation given to the new presidential aircraft by the US Air Force?",
+        "a": "VC-25B Bridge",
         "options": [
-            "Thursday, 18 June",
-            "Friday, 19 June",
-            "Saturday, 20 June",
-            "Wednesday, 17 June",
-            "Monday, 22 June"
+            "VC-25A Legacy",
+            "VC-25B Patriot",
+            "VC-25C Eagle",
+            "VC-25B Bridge",
+            "VC-25D Guardian"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who served as the Secretary of the Air Force and emphasized the safety and security of the commander in chief?",
+        "a": "Troy Meink",
+        "options": [
+            "Ken Wilsbach",
+            "Lloyd Austin",
+            "Frank Kendall",
+            "Troy Meink",
+            "Charles Brown Jr."
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary purpose of the commissioning flights for the new presidential aircraft?",
+        "a": "Final testing stage, assess mission capabilities and overall readiness",
+        "options": [
+            "Initial pilot training",
+            "Public display event",
+            "Cargo transport simulation",
+            "Final testing stage, assess mission capabilities and overall readiness",
+            "VIP transportation for foreign dignitaries"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who stated, 'We are proud to deliver the VC-25B Bridge aircraft to the President'?",
+        "a": "Gen. Ken Wilsbach",
+        "options": [
+            "Troy Meink",
+            "Donald Trump",
+            "Gen. Ken Wilsbach",
+            "Joe Biden",
+            "Lloyd Austin"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is one expected benefit of adding the new presidential aircraft to the fleet?",
+        "a": "Reduce operational burden on the ageing VC-25A fleet",
+        "options": [
+            "Increase cargo capacity for humanitarian aid",
+            "Provide additional space for media personnel",
+            "Reduce operational burden on the ageing VC-25A fleet",
+            "Serve as a backup for international space missions",
+            "Allow for faster travel to remote military bases"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "India has been a member of the Financial Action Task Force (FATF) since which year?",
+        "a": "2010",
+        "options": [
+            "2008",
+            "2012",
+            "2010",
+            "2005",
+            "2015"
         ],
         "cat": "When"
     },
     {
-        "q": "When did Iran's Supreme Leader Ayatollah Mojtaba Khamenei approve the agreement?",
-        "a": "18 June",
+        "q": "Who was elected as the FATF vice president at the conclusion of the body's plenary meeting?",
+        "a": "Vivek Aggarwal",
         "options": [
-            "17 June",
-            "19 June",
-            "18 June",
-            "20 June",
-            "21 June"
+            "Randhir Jaiswal",
+            "Ajit Doval",
+            "Vivek Aggarwal",
+            "Shaktikanta Das",
+            "Nirmala Sitharaman"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where are the headquarters of the Financial Action Task Force (FATF) located?",
+        "a": "Paris",
+        "options": [
+            "London",
+            "Geneva",
+            "Brussels",
+            "Paris",
+            "New York"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "What is the primary role of the FATF vice president?",
+        "a": "To support the president in guiding and overseeing the organisation's work",
+        "options": [
+            "To serve as the chief financial officer of FATF",
+            "To represent the FATF at all international summits",
+            "To lead all FATF investigations independently",
+            "To support the president in guiding and overseeing the organisation's work",
+            "To directly implement anti-money laundering policies in member countries"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "From which IAS batch is Vivek Aggarwal, the newly elected FATF Vice President?",
+        "a": "1994-batch",
+        "options": [
+            "1992-batch",
+            "1996-batch",
+            "1994-batch",
+            "1990-batch",
+            "1998-batch"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is one of the key objectives of the Financial Action Task Force (FATF)?",
+        "a": "Combat money laundering and terrorist financing",
+        "options": [
+            "Promote global trade agreements",
+            "Provide humanitarian aid to developing nations",
+            "Combat money laundering and terrorist financing",
+            "Regulate international stock exchanges",
+            "Standardize global currency exchange rates"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Who is currently serving as the Union Culture Secretary and was elected as FATF Vice President?",
+        "a": "Vivek Aggarwal",
+        "options": [
+            "Ajay Bhalla",
+            "Girish Chandra Murmu",
+            "Vivek Aggarwal",
+            "T.V. Somanathan",
+            "Sanjay Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Vivek Aggarwal, the FATF Vice President, belongs to the IAS cadre of which Indian state?",
+        "a": "Madhya Pradesh",
+        "options": [
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Maharashtra",
+            "Madhya Pradesh",
+            "Gujarat"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which year was India's latest mutual evaluation report by the FATF released, when Vivek Aggarwal was serving in the Union Finance Ministry?",
+        "a": "2024",
+        "options": [
+            "2023",
+            "2025",
+            "2024",
+            "2022",
+            "2026"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the duration of the timeline for broader negotiations on Iran\u2019s nuclear programme after the initial agreement?",
-        "a": "60 days",
+        "q": "Who termed Vivek Aggarwal's election as FATF Vice President a 'major win' for India?",
+        "a": "Randhir Jaiswal",
         "options": [
-            "30 days",
-            "90 days",
-            "60 days",
-            "45 days",
-            "120 days"
+            "S. Jaishankar",
+            "Ajit Doval",
+            "Randhir Jaiswal",
+            "Narendra Modi",
+            "Vivek Aggarwal"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What policy does India champion against terrorism, which is reinforced by its leadership role in FATF?",
+        "a": "Zero-tolerance policy",
+        "options": [
+            "Dialogue-first policy",
+            "Sanctions-only policy",
+            "Zero-tolerance policy",
+            "Economic engagement policy",
+            "Military intervention policy"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Vivek Aggarwal served as Joint Secretary and later Additional Secretary in the Ministry of Agriculture and Farmers Welfare during which period?",
+        "a": "2019 to 2021",
+        "options": [
+            "2017 to 2019",
+            "2021 to 2023",
+            "2019 to 2021",
+            "2015 to 2017",
+            "2020 to 2022"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day of the week did President Donald Trump sign the initial pact with Iran?",
-        "a": "Wednesday",
+        "q": "During which period did Vivek Aggarwal serve concurrently as Secretary to the Chief Minister of Madhya Pradesh?",
+        "a": "2009 and 2018",
         "options": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
+            "2005 and 2014",
+            "2010 and 2019",
+            "2009 and 2018",
+            "2012 and 2020",
+            "2007 and 2016"
         ],
         "cat": "When"
     },
     {
-        "q": "How many days were ships owned by major companies effectively marooned in the strait before the agreement was signed?",
-        "a": "110 days",
+        "q": "How much financing did the World Bank's Board of Executive Directors approve for India to support structural reforms?",
+        "a": "$1.5 billion",
         "options": [
-            "100 days",
-            "120 days",
-            "110 days",
-            "90 days",
-            "130 days"
+            "$1.2 billion",
+            "$1.8 billion",
+            "$1.5 billion",
+            "$2.0 billion",
+            "$1.0 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The World Bank financing is expected to create job opportunities for how many youth entering the labour market every year?",
+        "a": "11 million",
+        "options": [
+            "10 million",
+            "12 million",
+            "11 million",
+            "15 million",
+            "9 million"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The World Bank's Country Partnership Framework (CPF) with India is for a five-year period until which year?",
+        "a": "2031",
+        "options": [
+            "2030",
+            "2032",
+            "2031",
+            "2029",
+            "2033"
         ],
         "cat": "When"
     },
     {
-        "q": "The net direct tax collection data provided is till which date this fiscal year?",
-        "a": "June 17",
+        "q": "What is the primary purpose of the World Bank's $1.5 billion financing to India?",
+        "a": "To support structural reforms aimed to boost private sector-led job creation and economic growth",
         "options": [
-            "May 17",
-            "June 15",
-            "June 17",
-            "June 30",
-            "July 1"
+            "To fund infrastructure projects in rural areas",
+            "To provide direct financial aid to citizens",
+            "To support structural reforms aimed to boost private sector-led job creation and economic growth",
+            "To finance military modernization programs",
+            "To establish new public sector enterprises"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The financing being provided by the World Bank is under which type of operation?",
+        "a": "Development Policy Financing (DPF) Operation",
+        "options": [
+            "Investment Project Financing (IPF) Operation",
+            "Program for Results (PforR) Operation",
+            "Development Policy Financing (DPF) Operation",
+            "Technical Assistance Financing (TAF) Operation",
+            "Emergency Response Financing (ERF) Operation"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "When did Mukesh Ambani announce the approval of Jio IPO at the Annual General Meeting of Reliance Industries?",
+        "a": "Friday (June 19, 2026)",
+        "options": [
+            "Thursday (June 18, 2025)",
+            "Saturday (June 20, 2026)",
+            "Friday (June 19, 2026)",
+            "Monday (June 22, 2027)",
+            "Wednesday (June 17, 2024)"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date did Karnataka Chief Minister D.K. Shivakumar announce the free bus travel scheme for students?",
-        "a": "June 3",
+        "q": "Who is the CMD of Reliance Industries Ltd (RIL) who announced the approval of Jio IPO?",
+        "a": "Mukesh Ambani",
         "options": [
-            "June 1",
-            "June 5",
-            "June 3",
-            "June 11",
-            "June 12"
+            "Anant Ambani",
+            "Isha Ambani",
+            "Akash Ambani",
+            "Mukesh Ambani",
+            "Nita Ambani"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Reliance Intelligence is building India\u2019s sovereign AI backbone in which city?",
+        "a": "Jamnagar",
+        "options": [
+            "Mumbai",
+            "Bengaluru",
+            "Ahmedabad",
+            "Jamnagar",
+            "Hyderabad"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "The first 120 megawatts of clean energy from Reliance\u2019s solar generation are expected to be commissioned by which time?",
+        "a": "End of 2026",
+        "options": [
+            "Mid-2027",
+            "End of 2026",
+            "Early 2025",
+            "Q1 2028",
+            "Late 2027"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The initial fleet of advanced NVIDIA GB300 GPUs announced by Reliance is equivalent to how many H100 GPUs on an AI-inference basis?",
+        "a": "More than 75,000 H100 GPUs",
+        "options": [
+            "More than 50,000 H100 GPUs",
+            "More than 75,000 H100 GPUs",
+            "More than 100,000 H100 GPUs",
+            "More than 25,000 H100 GPUs",
+            "More than 60,000 H100 GPUs"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "As the first 120 megawatts become fully operational, Reliance\u2019s compute capacity can scale to over how many H100-equivalent GPUs?",
+        "a": "Over 2 lakh H100-equivalent GPUs",
+        "options": [
+            "Over 1 lakh H100-equivalent GPUs",
+            "Over 2 lakh H100-equivalent GPUs",
+            "Over 3 lakh H100-equivalent GPUs",
+            "Over 50,000 H100-equivalent GPUs",
+            "Over 1.5 lakh H100-equivalent GPUs"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the primary purpose of Jio's evaluation of a sovereign Low Earth Orbit satellite constellation for India?",
+        "a": "To connect remotest villages, island communities, and border outposts",
+        "options": [
+            "To provide high-speed internet to urban centers only",
+            "To offer free satellite TV services",
+            "To enhance military surveillance capabilities",
+            "To connect remotest villages, island communities, and border outposts",
+            "To compete with global space agencies in exploration"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What will power the cutting-edge AI infrastructure being built by Reliance Intelligence in Jamnagar?",
+        "a": "Clean energy from Reliance\u2019s own solar generation from the Kutch renewable platform",
+        "options": [
+            "Imported fossil fuels",
+            "Nuclear power plants",
+            "Hydroelectric power",
+            "Clean energy from Reliance\u2019s own solar generation from the Kutch renewable platform",
+            "Conventional grid electricity"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the target year for Jio to migrate all its subscribers to 5G?",
+        "a": "2030",
+        "options": [
+            "2028",
+            "2032",
+            "2030",
+            "2029",
+            "2031"
         ],
         "cat": "When"
     },
     {
-        "q": "When was Karnataka's Shakti scheme, providing free travel for women, launched?",
-        "a": "June 11, 2023",
+        "q": "What is the reported per capita data usage per month for Jio users, one of the highest in the world?",
+        "a": "42.3 GB per month",
         "options": [
-            "June 11, 2022",
-            "June 11, 2024",
-            "June 11, 2023",
-            "June 1, 2023",
-            "July 11, 2023"
+            "35.5 GB per month",
+            "42.3 GB per month",
+            "50.1 GB per month",
+            "38.7 GB per month",
+            "45.0 GB per month"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The sovereign, green, secure compute backbone built by Reliance Intelligence will power India-first applications such as which of the following?",
+        "a": "JioBharatIQ, AI Vyapar, JioHealthIQ, JioLearnIQ, and JioKrishiIQ",
+        "options": [
+            "JioGlobalConnect, AI Innovate, JioFinanceTrack",
+            "JioBharatIQ, AI Vyapar, JioHealthIQ, JioLearnIQ, and JioKrishiIQ",
+            "JioTechPulse, AI Smart, JioEducationNet",
+            "JioSecureLink, AI Market, JioWellnessHub",
+            "JioEnterprisePro, AI Solutions, JioAgriConnect"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Besides Mukesh Ambani, who are leading the Jio IPO process and will lead the next generation of value creation opportunities?",
+        "a": "Akash, Isha, and Anant Ambani",
+        "options": [
+            "Nita Ambani and Anil Ambani",
+            "Akash, Isha, and Anant Ambani",
+            "Tina Ambani and Deenanath Mangeshkar",
+            "Karan Ambani and Shloka Mehta",
+            "Unknown Board Members"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the first commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
+        "a": "To make JioTrue5G the foundation of India\u2019s next big digital leap",
+        "options": [
+            "To expand into international markets primarily",
+            "To focus solely on satellite communication",
+            "To make JioTrue5G the foundation of India\u2019s next big digital leap",
+            "To develop new gaming consoles",
+            "To invest heavily in traditional landline services"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Over what percentage of JioAirFiber installations are completed within 24 hours?",
+        "a": "90%",
+        "options": [
+            "80%",
+            "90%",
+            "70%",
+            "95%",
+            "85%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "At what phenomenal rate are JioAirFiber home connections currently growing per day?",
+        "a": "Up to 60,000 per day",
+        "options": [
+            "Up to 50,000 per day",
+            "Up to 70,000 per day",
+            "Up to 60,000 per day",
+            "Up to 40,000 per day",
+            "Up to 80,000 per day"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The SEBI board approved a wide range of proposals on which specific date mentioned?",
+        "a": "Friday (June 19, 2026)",
+        "options": [
+            "Thursday (June 18, 2025)",
+            "Friday (June 19, 2026)",
+            "Saturday (June 20, 2026)",
+            "Monday (June 22, 2027)",
+            "Wednesday (June 17, 2024)"
         ],
         "cat": "When"
     },
     {
-        "q": "On what date were guidelines issued for the distribution of free bus passes to male students in Karnataka, making the scheme effective?",
-        "a": "June 12, 2026",
+        "q": "Which markets regulator's board approved proposals including reintroduction of open market share buybacks?",
+        "a": "SEBI",
         "options": [
-            "June 3, 2026",
-            "June 11, 2026",
-            "June 12, 2026",
-            "July 12, 2026",
-            "June 1, 2026"
+            "RBI",
+            "IRDAI",
+            "PFRDA",
+            "SEBI",
+            "FSSAI"
         ],
-        "cat": "When"
+        "cat": "Who"
     },
     {
-        "q": "Within how many days will the amount paid for bus passes purchased by students be refunded under Karnataka's scheme?",
-        "a": "15 days",
+        "q": "What is the purpose of establishing the green-channel mechanism GARUDA by SEBI?",
+        "a": "To speed up the launch of schemes by Alternative Investment Funds (AIFs)",
         "options": [
-            "7 days",
-            "30 days",
-            "15 days",
+            "To regulate agricultural commodity prices",
+            "To simplify securities transfer procedures",
+            "To speed up the launch of schemes by Alternative Investment Funds (AIFs)",
+            "To relax intraday borrowing norms for mutual funds",
+            "To monitor foreign direct investments"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The GARUDA mechanism allows AIFs to begin fundraising within how many working days of filing their placement memorandums?",
+        "a": "10 working days",
+        "options": [
+            "5 working days",
+            "15 working days",
+            "10 working days",
+            "20 working days",
+            "7 working days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the previous waiting period for AIFs to begin fundraising before the GARUDA mechanism?",
+        "a": "30 days",
+        "options": [
             "20 days",
-            "10 days"
+            "45 days",
+            "30 days",
+            "60 days",
+            "25 days"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was one of the key measures approved by the SEBI board to provide companies with an additional mechanism for undertaking buybacks while ensuring equitable opportunity and tax treatment for public shareholders?",
+        "a": "Reintroduction of open market share buybacks through stock exchanges",
+        "options": [
+            "Introduction of mandatory tender offers",
+            "Increase in delisting premiums",
+            "Reintroduction of open market share buybacks through stock exchanges",
+            "Regulation of insider trading activities",
+            "Establishment of new derivatives markets"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "The Supreme Court delivered the judgment declaring freedom to walk a fundamental right on which date?",
+        "a": "Friday (June 19)",
+        "options": [
+            "Tuesday (June 16)",
+            "Wednesday (June 17)",
+            "Friday (June 19)",
+            "Monday (June 15)",
+            "Thursday (June 18)"
         ],
         "cat": "When"
     },
     {
-        "q": "The expenditure data for Karnataka's Shakti scheme covers the period between June 2023 and which month?",
-        "a": "February 2026",
+        "q": "Who authored the Supreme Court judgment declaring the freedom to walk a fundamental right?",
+        "a": "Justice P.S. Narasimha",
         "options": [
-            "January 2026",
-            "March 2026",
-            "February 2026",
-            "April 2026",
-            "December 2025"
+            "Justice D.Y. Chandrachud",
+            "Justice U.U. Lalit",
+            "Justice P.S. Narasimha",
+            "Justice Sanjay Kishan Kaul",
+            "Justice B.R. Gavai"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What fundamental right did the Supreme Court declare to have priority over movement by motorised vehicles?",
+        "a": "Freedom to walk on demarcated and well-maintained footpaths",
+        "options": [
+            "Freedom of speech and expression",
+            "Freedom to assemble peacefully",
+            "Freedom to walk on demarcated and well-maintained footpaths",
+            "Freedom to reside and settle anywhere",
+            "Freedom to practice any profession"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What amount of compensation was the child\u2019s father entitled to, as per the Supreme Court judgment?",
+        "a": "Over \u20b911 lakh",
+        "options": [
+            "Over \u20b910 lakh",
+            "Over \u20b912 lakh",
+            "Over \u20b911 lakh",
+            "Over \u20b99 lakh",
+            "Over \u20b913 lakh"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "The Motor Vehicles Act, which the Supreme Court noted has been an impediment to walkers' rights, was enacted in which year?",
+        "a": "1988",
+        "options": [
+            "1985",
+            "1990",
+            "1988",
+            "1992",
+            "1980"
         ],
         "cat": "When"
     },
     {
-        "q": "What was the primary reason cited by the White House for postponing JD Vance's trip to Switzerland for negotiations with Iran?",
-        "a": "Difficult logistics for negotiations and uncertainty over Iran's participation.",
+        "q": "The Supreme Court highlighted that walking embodies which rights under Article 19(1)(a), 19(1)(b), and 19(1)(c)?",
+        "a": "Expressional, congregational and associational rights",
         "options": [
-            "Political disagreements between US and Iran",
-            "Scheduling conflict for JD Vance",
-            "Difficult logistics for negotiations and uncertainty over Iran's participation",
-            "Lack of prepared documents for the talks",
-            "Security concerns at the venue"
+            "Right to equality, right to life and liberty",
+            "Right against exploitation, right to education",
+            "Expressional, congregational and associational rights",
+            "Right to constitutional remedies, cultural and educational rights",
+            "Right to property, right to privacy"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why did Iran reportedly delay sending its delegation to Switzerland for talks?",
-        "a": "Concerns over Israel's ongoing military campaign in Lebanon.",
+        "q": "The Supreme Court bench directing the creation of a 'Young Lawyers\u2019 Professional Assistance Fund' comprised Chief Justice of India Surya Kant and which other Justice?",
+        "a": "Justice V. Mohana",
         "options": [
-            "Internal political issues in Iran",
-            "Concerns over Israel's ongoing military campaign in Lebanon",
-            "Disagreement on the negotiation agenda",
-            "Unavailability of key delegates",
-            "Protests within Switzerland"
+            "Justice Hima Kohli",
+            "Justice B.V. Nagarathna",
+            "Justice V. Mohana",
+            "Justice Bela M. Trivedi",
+            "Justice R. Subhash Reddy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is the primary purpose of the 'Young Lawyers\u2019 Professional Assistance Fund' directed by the Supreme Court?",
+        "a": "To assist financially struggling young lawyers and prevent 'brain drain' from litigation",
+        "options": [
+            "To provide free legal aid to underprivileged citizens",
+            "To fund judicial training programs for judges",
+            "To assist financially struggling young lawyers and prevent 'brain drain' from litigation",
+            "To build new court infrastructures nationwide",
+            "To offer scholarships for law students"
         ],
         "cat": "Why"
     },
     {
-        "q": "One of the commitments in the MoU related to Iran's nuclear programme is to prevent the development of what?",
-        "a": "Nuclear weapons",
+        "q": "The 'Young Lawyers\u2019 Professional Assistance Fund' is to be created in which administrative units across India?",
+        "a": "Every State and Union Territory",
         "options": [
-            "New missile technology",
-            "Nuclear weapons",
-            "Advanced drone systems",
-            "Cyber warfare capabilities",
-            "Biological weapons"
+            "Only in the capital cities",
+            "Only in High Court jurisdictions",
+            "Every State and Union Territory",
+            "Only in Metropolitan cities",
+            "Only at the national level"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "How many women lawyers filed the petition seeking improved infrastructure and welfare measures for members of the Bar?",
+        "a": "Six",
+        "options": [
+            "Four",
+            "Eight",
+            "Six",
+            "Five",
+            "Seven"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "What is one of the financial hardships often faced by young lawyers, leading to the need for the assistance fund?",
+        "a": "Dependence upon modest stipends and absence of a steady stream of clients",
+        "options": [
+            "Lack of access to law libraries",
+            "Inability to find senior mentors",
+            "Dependence upon modest stipends and absence of a steady stream of clients",
+            "Difficulty in passing bar examinations",
+            "Limited opportunities for international practice"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the overarching purpose of Karnataka's new free bus travel scheme for students?",
-        "a": "To benefit all students from school to college level by providing free travel.",
+        "q": "What is the second commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
+        "a": "To take high-speed home broadband to every part of India through JioAirFiber",
         "options": [
-            "To reduce traffic congestion in cities",
-            "To promote tourism in rural areas",
-            "To benefit all students from school to college level by providing free travel",
-            "To encourage private bus operators",
-            "To provide employment to bus conductors"
+            "To solely focus on enterprise solutions",
+            "To expand into manufacturing of telecom equipment",
+            "To develop new mobile phone models",
+            "To take high-speed home broadband to every part of India through JioAirFiber",
+            "To reduce data prices across all services"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core purpose of the initial agreement signed between the US and Iran, as stated by the news?",
-        "a": "To end the war.",
+        "q": "What is the third commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
+        "a": "To digitise Indian enterprises and small businesses",
         "options": [
-            "To boost trade relations",
-            "To end the war.",
-            "To establish cultural exchange programs",
-            "To form a military alliance",
-            "To resolve border disputes"
+            "To launch a new social media platform",
+            "To enter the electric vehicle market",
+            "To digitise Indian enterprises and small businesses",
+            "To establish a global content streaming service",
+            "To acquire major international tech companies"
         ],
         "cat": "Why"
     },
     {
-        "q": "What specific criticism did some US congressional Republicans raise regarding the preliminary deal with Iran?",
-        "a": "Washington ceded too much with relief from sanctions and a potential USD 300 billion fund.",
+        "q": "What is the fourth commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
+        "a": "To ensure AI for everyone, everywhere",
         "options": [
-            "The deal was not comprehensive enough",
-            "The deal ignored human rights issues",
-            "Washington ceded too much with relief from sanctions and a potential USD 300 billion fund.",
-            "The deal was signed too quickly",
-            "The deal would negatively impact oil prices"
+            "To focus on developing advanced robotics",
+            "To exclusively target the gaming industry",
+            "To ensure AI for everyone, everywhere",
+            "To invest in quantum computing research",
+            "To create a proprietary operating system for smartphones"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is one of the key commitments Iran has made regarding its highly enriched uranium stockpile under the agreement?",
-        "a": "It must at minimum be diluted under international supervision.",
+        "q": "What is the fifth commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
+        "a": "To take India\u2019s technology to the world",
         "options": [
-            "It must be increased for energy needs.",
-            "It must be sold to other nations.",
-            "It must at minimum be diluted under international supervision.",
-            "It must be stored indefinitely.",
-            "It must be used for medical purposes only."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "According to the news, what does strong advance tax growth from companies indicate?",
-        "a": "The corporate sector is doing well and indicates potential business confidence.",
-        "options": [
-            "A decline in corporate profits.",
-            "An increase in government spending.",
-            "The corporate sector is doing well and indicates potential business confidence.",
-            "A decrease in individual tax compliance.",
-            "Rising inflation rates."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the intended outcome of the overall tax collection growth for the government?",
-        "a": "To help keep the government on its track of maintaining the fiscal deficit target.",
-        "options": [
-            "To reduce public debt to zero.",
-            "To increase defense spending.",
-            "To help keep the government on its track of maintaining the fiscal deficit target.",
-            "To provide universal basic income.",
-            "To fund space exploration programs."
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What was the purpose of launching the existing Shakti scheme in Karnataka?",
-        "a": "To provide free travel for women, transgender persons and students on non-premium State-run buses.",
-        "options": [
-            "To provide free medical services.",
-            "To promote women entrepreneurship.",
-            "To provide free travel for women, transgender persons and students on non-premium State-run buses.",
-            "To offer skill development training.",
-            "To subsidize housing for women."
+            "To expand its presence in traditional print media",
+            "To establish a chain of physical retail stores",
+            "To take India\u2019s technology to the world",
+            "To focus solely on domestic market growth",
+            "To diversify into real estate development"
         ],
         "cat": "Why"
     }
