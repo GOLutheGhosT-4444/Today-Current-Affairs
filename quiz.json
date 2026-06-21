@@ -1,769 +1,709 @@
 [
     {
-        "q": "What was the estimated value of the customized Boeing 747 presented by Qatar to the US government?",
-        "a": "USD 400 million",
+        "q": "How many marks did Sanket Kumar fall short of the JEE Advanced cut-off in 2021?",
+        "a": "Two marks",
         "options": [
-            "USD 395 million",
-            "USD 400 million",
-            "USD 405 million",
-            "USD 450 million",
-            "USD 350 million"
+            "One mark",
+            "Three marks",
+            "Two marks",
+            "Five marks",
+            "Ten marks"
         ],
         "cat": "Amount"
     },
     {
-        "q": "In how many months was the transformation of the presidential aircraft into a 'flying White House' completed?",
-        "a": "10 months",
+        "q": "What was Sanket Kumar's CGPA during his studies at IIST?",
+        "a": "8.2",
         "options": [
-            "12 months",
-            "8 months",
-            "10 months",
-            "15 months",
-            "6 months"
+            "7.8",
+            "8.5",
+            "8.2",
+            "9.0",
+            "7.5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "Who introduced the new presidential aircraft, a customized Boeing 747, at the launch event?",
-        "a": "Donald Trump",
+        "q": "What was the estimated overall cost of the war to the United States, according to Moody\u2019s Analytics?",
+        "a": "$132 billion",
         "options": [
-            "Joe Biden",
-            "Barack Obama",
-            "Donald Trump",
-            "George Bush",
-            "Bill Clinton"
+            "$13.2 billion",
+            "$1.32 billion",
+            "$132 billion",
+            "$29 billion",
+            "$60 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the military cost of the war estimated to be by a top Pentagon official last month?",
+        "a": "$29 billion",
+        "options": [
+            "$2.9 billion",
+            "$290 million",
+            "$29 billion",
+            "$132 billion",
+            "$60 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How much more have Americans spent on gasoline and diesel since the start of the conflict due to higher fuel prices?",
+        "a": "$60 billion",
+        "options": [
+            "$6 billion",
+            "$600 million",
+            "$60 billion",
+            "$29 billion",
+            "$132 billion"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Approximately how much additional cost per household was incurred by Americans due to higher fuel prices during the conflict?",
+        "a": "$460",
+        "options": [
+            "$46",
+            "$460",
+            "$4,600",
+            "$146",
+            "$260"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What was the average gasoline price per gallon at the beginning of the war between the US/Israel and Iran?",
+        "a": "$2.98",
+        "options": [
+            "$2.50",
+            "$3.50",
+            "$2.98",
+            "$4.00",
+            "$2.00"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What were the crude oil prices per barrel earlier in March, before the peace framework announcement?",
+        "a": "$120 per barrel",
+        "options": [
+            "$80 per barrel",
+            "$100 per barrel",
+            "$120 per barrel",
+            "$60 per barrel",
+            "$150 per barrel"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the world's fertilizer previously passed through the Strait of Hormuz before the war?",
+        "a": "30%",
+        "options": [
+            "10%",
+            "20%",
+            "30%",
+            "40%",
+            "50%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What percentage of the total volume of container ships for global shipping was affected by the Strait of Hormuz closure?",
+        "a": "2% to 3%",
+        "options": [
+            "0.2% to 0.3%",
+            "2% to 3%",
+            "10% to 15%",
+            "5% to 7%",
+            "0.5% to 1%"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many participants, including beneficiaries and employers, attended the PM-VBRY event at IMAGE?",
+        "a": "750",
+        "options": [
+            "75",
+            "7500",
+            "750",
+            "450",
+            "122"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many beneficiaries participated in the PM-VBRY special programme at IMAGE?",
+        "a": "450",
+        "options": [
+            "45",
+            "4500",
+            "450",
+            "750",
+            "122"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "How many employers and industry association representatives participated in the PM-VBRY event at IMAGE?",
+        "a": "122",
+        "options": [
+            "12",
+            "1220",
+            "122",
+            "750",
+            "450"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "What is the current crude oil international benchmark hovering around after the peace framework announcement?",
+        "a": "$80 per barrel",
+        "options": [
+            "$120 per barrel",
+            "$90 per barrel",
+            "$80 per barrel",
+            "$70 per barrel",
+            "$100 per barrel"
+        ],
+        "cat": "Amount"
+    },
+    {
+        "q": "Who was appointed as a Scientist/Engineer (SC Grade) at the ISRO Propulsion Complex (IPRC)?",
+        "a": "Sanket Kumar",
+        "options": [
+            "Harshit Kumar",
+            "Gulshan Kumar",
+            "Sanket Kumar",
+            "Aseem Dubey",
+            "Sanket Singh"
         ],
         "cat": "Who"
     },
     {
-        "q": "Which country presented the customized Boeing 747 to the US government as a replacement for the presidential aircraft?",
-        "a": "Qatar",
+        "q": "Who is Sanket Kumar's mother, mentioned in the news text?",
+        "a": "Sunita Singh",
         "options": [
-            "Saudi Arabia",
-            "United Arab Emirates",
+            "Sunita Devi",
+            "Sunita Kumar",
+            "Sunita Singh",
+            "Priya Singh",
+            "Anjali Singh"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is Sanket Kumar's father, mentioned in the news text?",
+        "a": "Gulshan Kumar",
+        "options": [
+            "Rakesh Kumar",
+            "Gulshan Singh",
+            "Gulshan Kumar",
+            "Sanjay Kumar",
+            "Deepak Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who provided strong financial support to Sanket Kumar when he took a one-year drop?",
+        "a": "His brother, Harshit Kumar",
+        "options": [
+            "His father, Gulshan Kumar",
+            "His mother, Sunita Singh",
+            "His brother, Harshit Kumar",
+            "His former principal, Aseem Dubey",
+            "His uncle"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who was the former principal of Dewan Public School who recalled Sanket Kumar as dedicated and disciplined?",
+        "a": "Aseem Dubey",
+        "options": [
+            "Anil Kumar",
+            "Aseem Dubey",
+            "Sunita Singh",
+            "Gulshan Kumar",
+            "Sanjay Dixit"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Senior Content Producer at Mint specializing in news, trends, and digital stories?",
+        "a": "Kanishka Singharia",
+        "options": [
+            "Mausam Jha",
+            "Linda Bilmes",
+            "Kanishka Singharia",
+            "M\u00e1ximo Torero Cullen",
+            "Sanket Kumar"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who electronically signed a preliminary peace agreement with Iranian officials on behalf of the U.S. along with the President?",
+        "a": "Vice President JD Vance",
+        "options": [
+            "Mark Zandi",
+            "Linda Bilmes",
+            "M\u00e1ximo Torero Cullen",
+            "Vice President JD Vance",
+            "Josh Steinitz"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the chief economist at Moody\u2019s Analytics, quoted regarding the economic impact of the conflict?",
+        "a": "Mark Zandi",
+        "options": [
+            "Gordon Ho",
+            "Mark Zandi",
+            "Judah Levine",
+            "Josh Steinitz",
+            "M\u00e1ximo Torero Cullen"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the public finance expert and senior lecturer at the Harvard Kennedy School quoted about military costs?",
+        "a": "Linda Bilmes",
+        "options": [
+            "Linda Smith",
+            "Linda Bilmes",
+            "Linda Harris",
+            "Linda Johnson",
+            "Linda Clark"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the chief economist of the Food and Agriculture Organization (FAO) who authored a Council on Foreign Relations report?",
+        "a": "M\u00e1ximo Torero Cullen",
+        "options": [
+            "M\u00e1ximo Gomez",
+            "M\u00e1ximo Torero Cullen",
+            "M\u00e1ximo Sanchez",
+            "M\u00e1ximo Hernandez",
+            "M\u00e1ximo Rodriguez"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the journalist at Mint focusing on world affairs and politics, mentioned in the news text?",
+        "a": "Mausam Jha",
+        "options": [
+            "Kanishka Singharia",
+            "Mausam Singh",
+            "Mausam Jha",
+            "Priya Sharma",
+            "Anjali Verma"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Joint Director, Directorate of Safety and Health, who participated in the PM-VBRY event in Chennai?",
+        "a": "K. Niraimathi",
+        "options": [
+            "Ramesh Kumar",
+            "K. Niraimathi",
+            "Srinu Dara",
+            "S. Prakash",
+            "M. Selvam"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is the Deputy Labour Commissioner from the State government who participated in the PM-VBRY event in Chennai?",
+        "a": "Ramesh Kumar",
+        "options": [
+            "K. Niraimathi",
+            "Srinu Dara",
+            "Ramesh Kumar",
+            "S. Mani",
+            "A. Prabhu"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Sanket Kumar, who was appointed at ISRO, hails from which city in Uttar Pradesh?",
+        "a": "Meerut",
+        "options": [
+            "Lucknow",
+            "Kanpur",
+            "Meerut",
+            "Varanasi",
+            "Prayagraj"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where is the ISRO Propulsion Complex (IPRC), Sanket Kumar's place of appointment, located?",
+        "a": "Mahendragiri, Tamil Nadu",
+        "options": [
+            "Bengaluru, Karnataka",
+            "Thiruvananthapuram, Kerala",
+            "Mahendragiri, Tamil Nadu",
+            "Hyderabad, Telangana",
+            "Sriharikota, Andhra Pradesh"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "In which city is the Indian Institute of Space Science and Technology (IIST), where Sanket Kumar studied Aerospace Engineering, located?",
+        "a": "Thiruvananthapuram",
+        "options": [
+            "Bengaluru",
+            "Chennai",
+            "Thiruvananthapuram",
+            "Mumbai",
+            "New Delhi"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Sanket Kumar was selected by Shinra Inc. for an advanced engineering research project. In which country is Shinra Inc. based?",
+        "a": "Japan",
+        "options": [
+            "South Korea",
+            "China",
+            "Japan",
+            "Germany",
+            "United States"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Which important waterway saw disruptions due to tensions around it, affecting crude oil and broader supply chains?",
+        "a": "Strait of Hormuz",
+        "options": [
+            "Suez Canal",
+            "Panama Canal",
+            "Strait of Hormuz",
+            "Malacca Strait",
+            "Bab-el-Mandeb"
+        ],
+        "cat": "Where"
+    },
+    {
+        "q": "Where was a valuable U.S. military radar aircraft damaged by Iranian attacks, as reported in the news?",
+        "a": "Saudi Arabia",
+        "options": [
+            "Iraq",
             "Kuwait",
+            "Saudi Arabia",
             "Qatar",
-            "Bahrain"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "The launch event for the new presidential aircraft took place at which location?",
-        "a": "Joint Base Andrews in Maryland",
-        "options": [
-            "Andrews Air Force Base in Virginia",
-            "Fort Bragg in North Carolina",
-            "Joint Base Lewis-McChord in Washington",
-            "Joint Base Andrews in Maryland",
-            "Ramstein Air Base in Germany"
+            "UAE"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the designation given to the new presidential aircraft by the US Air Force?",
-        "a": "VC-25B Bridge",
+        "q": "Which city's U.S. Embassy compound in the region was reported to have parts damaged by Iranian attacks?",
+        "a": "Riyadh",
         "options": [
-            "VC-25A Legacy",
-            "VC-25B Patriot",
-            "VC-25C Eagle",
-            "VC-25B Bridge",
-            "VC-25D Guardian"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who served as the Secretary of the Air Force and emphasized the safety and security of the commander in chief?",
-        "a": "Troy Meink",
-        "options": [
-            "Ken Wilsbach",
-            "Lloyd Austin",
-            "Frank Kendall",
-            "Troy Meink",
-            "Charles Brown Jr."
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary purpose of the commissioning flights for the new presidential aircraft?",
-        "a": "Final testing stage, assess mission capabilities and overall readiness",
-        "options": [
-            "Initial pilot training",
-            "Public display event",
-            "Cargo transport simulation",
-            "Final testing stage, assess mission capabilities and overall readiness",
-            "VIP transportation for foreign dignitaries"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who stated, 'We are proud to deliver the VC-25B Bridge aircraft to the President'?",
-        "a": "Gen. Ken Wilsbach",
-        "options": [
-            "Troy Meink",
-            "Donald Trump",
-            "Gen. Ken Wilsbach",
-            "Joe Biden",
-            "Lloyd Austin"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is one expected benefit of adding the new presidential aircraft to the fleet?",
-        "a": "Reduce operational burden on the ageing VC-25A fleet",
-        "options": [
-            "Increase cargo capacity for humanitarian aid",
-            "Provide additional space for media personnel",
-            "Reduce operational burden on the ageing VC-25A fleet",
-            "Serve as a backup for international space missions",
-            "Allow for faster travel to remote military bases"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "India has been a member of the Financial Action Task Force (FATF) since which year?",
-        "a": "2010",
-        "options": [
-            "2008",
-            "2012",
-            "2010",
-            "2005",
-            "2015"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who was elected as the FATF vice president at the conclusion of the body's plenary meeting?",
-        "a": "Vivek Aggarwal",
-        "options": [
-            "Randhir Jaiswal",
-            "Ajit Doval",
-            "Vivek Aggarwal",
-            "Shaktikanta Das",
-            "Nirmala Sitharaman"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Where are the headquarters of the Financial Action Task Force (FATF) located?",
-        "a": "Paris",
-        "options": [
-            "London",
-            "Geneva",
-            "Brussels",
-            "Paris",
-            "New York"
+            "Dubai",
+            "Doha",
+            "Manama",
+            "Riyadh",
+            "Abu Dhabi"
         ],
         "cat": "Where"
     },
     {
-        "q": "What is the primary role of the FATF vice president?",
-        "a": "To support the president in guiding and overseeing the organisation's work",
+        "q": "Where did the Ministry of Labour and Employment organize a special programme for the PM-VBRY national event in Chennai?",
+        "a": "Indian Bank Management Academy for Growth and Excellence (IMAGE) at MRC Nagar",
         "options": [
-            "To serve as the chief financial officer of FATF",
-            "To represent the FATF at all international summits",
-            "To lead all FATF investigations independently",
-            "To support the president in guiding and overseeing the organisation's work",
-            "To directly implement anti-money laundering policies in member countries"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "From which IAS batch is Vivek Aggarwal, the newly elected FATF Vice President?",
-        "a": "1994-batch",
-        "options": [
-            "1992-batch",
-            "1996-batch",
-            "1994-batch",
-            "1990-batch",
-            "1998-batch"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is one of the key objectives of the Financial Action Task Force (FATF)?",
-        "a": "Combat money laundering and terrorist financing",
-        "options": [
-            "Promote global trade agreements",
-            "Provide humanitarian aid to developing nations",
-            "Combat money laundering and terrorist financing",
-            "Regulate international stock exchanges",
-            "Standardize global currency exchange rates"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Who is currently serving as the Union Culture Secretary and was elected as FATF Vice President?",
-        "a": "Vivek Aggarwal",
-        "options": [
-            "Ajay Bhalla",
-            "Girish Chandra Murmu",
-            "Vivek Aggarwal",
-            "T.V. Somanathan",
-            "Sanjay Kumar"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Vivek Aggarwal, the FATF Vice President, belongs to the IAS cadre of which Indian state?",
-        "a": "Madhya Pradesh",
-        "options": [
-            "Uttar Pradesh",
-            "Rajasthan",
-            "Maharashtra",
-            "Madhya Pradesh",
-            "Gujarat"
+            "Chennai Trade Centre",
+            "Anna Centenary Library",
+            "Indian Bank Management Academy for Growth and Excellence (IMAGE) at MRC Nagar",
+            "Madras University",
+            "Rajiv Gandhi Salai"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which year was India's latest mutual evaluation report by the FATF released, when Vivek Aggarwal was serving in the Union Finance Ministry?",
-        "a": "2024",
+        "q": "Which other venue in Chennai, besides IMAGE, hosted a PM-VBRY event?",
+        "a": "Central Institute of Classical Tamil (CICT)",
         "options": [
-            "2023",
-            "2025",
-            "2024",
-            "2022",
-            "2026"
+            "Madras Institute of Technology",
+            "Central Institute of Classical Tamil (CICT)",
+            "IIT Madras",
+            "Apollo Hospitals",
+            "NIFT Chennai"
         ],
-        "cat": "When"
+        "cat": "Where"
     },
     {
-        "q": "Who termed Vivek Aggarwal's election as FATF Vice President a 'major win' for India?",
-        "a": "Randhir Jaiswal",
-        "options": [
-            "S. Jaishankar",
-            "Ajit Doval",
-            "Randhir Jaiswal",
-            "Narendra Modi",
-            "Vivek Aggarwal"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What policy does India champion against terrorism, which is reinforced by its leadership role in FATF?",
-        "a": "Zero-tolerance policy",
-        "options": [
-            "Dialogue-first policy",
-            "Sanctions-only policy",
-            "Zero-tolerance policy",
-            "Economic engagement policy",
-            "Military intervention policy"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Vivek Aggarwal served as Joint Secretary and later Additional Secretary in the Ministry of Agriculture and Farmers Welfare during which period?",
-        "a": "2019 to 2021",
-        "options": [
-            "2017 to 2019",
-            "2021 to 2023",
-            "2019 to 2021",
-            "2015 to 2017",
-            "2020 to 2022"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "During which period did Vivek Aggarwal serve concurrently as Secretary to the Chief Minister of Madhya Pradesh?",
-        "a": "2009 and 2018",
-        "options": [
-            "2005 and 2014",
-            "2010 and 2019",
-            "2009 and 2018",
-            "2012 and 2020",
-            "2007 and 2016"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "How much financing did the World Bank's Board of Executive Directors approve for India to support structural reforms?",
-        "a": "$1.5 billion",
-        "options": [
-            "$1.2 billion",
-            "$1.8 billion",
-            "$1.5 billion",
-            "$2.0 billion",
-            "$1.0 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The World Bank financing is expected to create job opportunities for how many youth entering the labour market every year?",
-        "a": "11 million",
-        "options": [
-            "10 million",
-            "12 million",
-            "11 million",
-            "15 million",
-            "9 million"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The World Bank's Country Partnership Framework (CPF) with India is for a five-year period until which year?",
-        "a": "2031",
-        "options": [
-            "2030",
-            "2032",
-            "2031",
-            "2029",
-            "2033"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "What is the primary purpose of the World Bank's $1.5 billion financing to India?",
-        "a": "To support structural reforms aimed to boost private sector-led job creation and economic growth",
-        "options": [
-            "To fund infrastructure projects in rural areas",
-            "To provide direct financial aid to citizens",
-            "To support structural reforms aimed to boost private sector-led job creation and economic growth",
-            "To finance military modernization programs",
-            "To establish new public sector enterprises"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The financing being provided by the World Bank is under which type of operation?",
-        "a": "Development Policy Financing (DPF) Operation",
-        "options": [
-            "Investment Project Financing (IPF) Operation",
-            "Program for Results (PforR) Operation",
-            "Development Policy Financing (DPF) Operation",
-            "Technical Assistance Financing (TAF) Operation",
-            "Emergency Response Financing (ERF) Operation"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "When did Mukesh Ambani announce the approval of Jio IPO at the Annual General Meeting of Reliance Industries?",
-        "a": "Friday (June 19, 2026)",
-        "options": [
-            "Thursday (June 18, 2025)",
-            "Saturday (June 20, 2026)",
-            "Friday (June 19, 2026)",
-            "Monday (June 22, 2027)",
-            "Wednesday (June 17, 2024)"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "Who is the CMD of Reliance Industries Ltd (RIL) who announced the approval of Jio IPO?",
-        "a": "Mukesh Ambani",
-        "options": [
-            "Anant Ambani",
-            "Isha Ambani",
-            "Akash Ambani",
-            "Mukesh Ambani",
-            "Nita Ambani"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Reliance Intelligence is building India\u2019s sovereign AI backbone in which city?",
-        "a": "Jamnagar",
+        "q": "Kanishka Singharia reports on real estate developments and civic challenges in major urban hubs, including Bengaluru, Delhi, and which other city?",
+        "a": "Gurugram",
         "options": [
             "Mumbai",
-            "Bengaluru",
-            "Ahmedabad",
-            "Jamnagar",
-            "Hyderabad"
+            "Hyderabad",
+            "Kolkata",
+            "Gurugram",
+            "Pune"
         ],
         "cat": "Where"
     },
     {
-        "q": "The first 120 megawatts of clean energy from Reliance\u2019s solar generation are expected to be commissioned by which time?",
-        "a": "End of 2026",
+        "q": "Mausam Jha gained experience working with The Statesman, ANI, and which other organization before joining Mint?",
+        "a": "Financial Express",
         "options": [
-            "Mid-2027",
-            "End of 2026",
-            "Early 2025",
-            "Q1 2028",
-            "Late 2027"
+            "The Hindu",
+            "Indian Express",
+            "Deccan Herald",
+            "Business Standard",
+            "Financial Express"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "The initial fleet of advanced NVIDIA GB300 GPUs announced by Reliance is equivalent to how many H100 GPUs on an AI-inference basis?",
-        "a": "More than 75,000 H100 GPUs",
+        "q": "From which university did Kanishka Singharia hold an undergraduate degree in Journalism?",
+        "a": "Delhi University",
         "options": [
-            "More than 50,000 H100 GPUs",
-            "More than 75,000 H100 GPUs",
-            "More than 100,000 H100 GPUs",
-            "More than 25,000 H100 GPUs",
-            "More than 60,000 H100 GPUs"
+            "Mumbai University",
+            "Jawaharlal Nehru University",
+            "Delhi University",
+            "Amity University",
+            "Symbiosis International University"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "As the first 120 megawatts become fully operational, Reliance\u2019s compute capacity can scale to over how many H100-equivalent GPUs?",
-        "a": "Over 2 lakh H100-equivalent GPUs",
+        "q": "Which institute did Kanishka Singharia receive a diploma from?",
+        "a": "Indian Institute of Mass Communication",
         "options": [
-            "Over 1 lakh H100-equivalent GPUs",
-            "Over 2 lakh H100-equivalent GPUs",
-            "Over 3 lakh H100-equivalent GPUs",
-            "Over 50,000 H100-equivalent GPUs",
-            "Over 1.5 lakh H100-equivalent GPUs"
+            "Asian College of Journalism",
+            "Xavier Institute of Communications",
+            "Indian Institute of Mass Communication",
+            "Mudra Institute of Communications",
+            "Manorama School of Communication"
         ],
-        "cat": "Amount"
+        "cat": "Where"
     },
     {
-        "q": "What is the primary purpose of Jio's evaluation of a sovereign Low Earth Orbit satellite constellation for India?",
-        "a": "To connect remotest villages, island communities, and border outposts",
+        "q": "In which year did Sanket Kumar complete his Class 12 education from Dewan Public School?",
+        "a": "2021",
         "options": [
-            "To provide high-speed internet to urban centers only",
-            "To offer free satellite TV services",
-            "To enhance military surveillance capabilities",
-            "To connect remotest villages, island communities, and border outposts",
-            "To compete with global space agencies in exploration"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What will power the cutting-edge AI infrastructure being built by Reliance Intelligence in Jamnagar?",
-        "a": "Clean energy from Reliance\u2019s own solar generation from the Kutch renewable platform",
-        "options": [
-            "Imported fossil fuels",
-            "Nuclear power plants",
-            "Hydroelectric power",
-            "Clean energy from Reliance\u2019s own solar generation from the Kutch renewable platform",
-            "Conventional grid electricity"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the target year for Jio to migrate all its subscribers to 5G?",
-        "a": "2030",
-        "options": [
-            "2028",
-            "2032",
-            "2030",
-            "2029",
-            "2031"
+            "2020",
+            "2022",
+            "2021",
+            "2019",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "What is the reported per capita data usage per month for Jio users, one of the highest in the world?",
-        "a": "42.3 GB per month",
+        "q": "In which year did Sanket Kumar successfully clear both JEE Main and JEE Advanced?",
+        "a": "2022",
         "options": [
-            "35.5 GB per month",
-            "42.3 GB per month",
-            "50.1 GB per month",
-            "38.7 GB per month",
-            "45.0 GB per month"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The sovereign, green, secure compute backbone built by Reliance Intelligence will power India-first applications such as which of the following?",
-        "a": "JioBharatIQ, AI Vyapar, JioHealthIQ, JioLearnIQ, and JioKrishiIQ",
-        "options": [
-            "JioGlobalConnect, AI Innovate, JioFinanceTrack",
-            "JioBharatIQ, AI Vyapar, JioHealthIQ, JioLearnIQ, and JioKrishiIQ",
-            "JioTechPulse, AI Smart, JioEducationNet",
-            "JioSecureLink, AI Market, JioWellnessHub",
-            "JioEnterprisePro, AI Solutions, JioAgriConnect"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Besides Mukesh Ambani, who are leading the Jio IPO process and will lead the next generation of value creation opportunities?",
-        "a": "Akash, Isha, and Anant Ambani",
-        "options": [
-            "Nita Ambani and Anil Ambani",
-            "Akash, Isha, and Anant Ambani",
-            "Tina Ambani and Deenanath Mangeshkar",
-            "Karan Ambani and Shloka Mehta",
-            "Unknown Board Members"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the first commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
-        "a": "To make JioTrue5G the foundation of India\u2019s next big digital leap",
-        "options": [
-            "To expand into international markets primarily",
-            "To focus solely on satellite communication",
-            "To make JioTrue5G the foundation of India\u2019s next big digital leap",
-            "To develop new gaming consoles",
-            "To invest heavily in traditional landline services"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "Over what percentage of JioAirFiber installations are completed within 24 hours?",
-        "a": "90%",
-        "options": [
-            "80%",
-            "90%",
-            "70%",
-            "95%",
-            "85%"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "At what phenomenal rate are JioAirFiber home connections currently growing per day?",
-        "a": "Up to 60,000 per day",
-        "options": [
-            "Up to 50,000 per day",
-            "Up to 70,000 per day",
-            "Up to 60,000 per day",
-            "Up to 40,000 per day",
-            "Up to 80,000 per day"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The SEBI board approved a wide range of proposals on which specific date mentioned?",
-        "a": "Friday (June 19, 2026)",
-        "options": [
-            "Thursday (June 18, 2025)",
-            "Friday (June 19, 2026)",
-            "Saturday (June 20, 2026)",
-            "Monday (June 22, 2027)",
-            "Wednesday (June 17, 2024)"
+            "2021",
+            "2020",
+            "2022",
+            "2019",
+            "2023"
         ],
         "cat": "When"
     },
     {
-        "q": "Which markets regulator's board approved proposals including reintroduction of open market share buybacks?",
-        "a": "SEBI",
+        "q": "For how long did Sanket Kumar spend working on an advanced engineering research project for Japan-based Shinra Inc.?",
+        "a": "Three months",
         "options": [
-            "RBI",
-            "IRDAI",
-            "PFRDA",
-            "SEBI",
-            "FSSAI"
+            "One month",
+            "Six months",
+            "Three months",
+            "One year",
+            "Two months"
         ],
-        "cat": "Who"
+        "cat": "When"
     },
     {
-        "q": "What is the purpose of establishing the green-channel mechanism GARUDA by SEBI?",
-        "a": "To speed up the launch of schemes by Alternative Investment Funds (AIFs)",
+        "q": "On what date did the hostilities between the United States/Israel and Iran reportedly begin?",
+        "a": "February 28",
         "options": [
-            "To regulate agricultural commodity prices",
-            "To simplify securities transfer procedures",
-            "To speed up the launch of schemes by Alternative Investment Funds (AIFs)",
-            "To relax intraday borrowing norms for mutual funds",
-            "To monitor foreign direct investments"
+            "January 15",
+            "March 10",
+            "February 28",
+            "April 5",
+            "February 1"
         ],
-        "cat": "Why"
+        "cat": "When"
     },
     {
-        "q": "The GARUDA mechanism allows AIFs to begin fundraising within how many working days of filing their placement memorandums?",
-        "a": "10 working days",
+        "q": "The conflict with Iran lasted a little over how many weeks before a preliminary peace agreement was reached?",
+        "a": "15 weeks",
         "options": [
-            "5 working days",
-            "15 working days",
-            "10 working days",
-            "20 working days",
-            "7 working days"
+            "5 weeks",
+            "10 weeks",
+            "15 weeks",
+            "20 weeks",
+            "25 weeks"
         ],
-        "cat": "Amount"
+        "cat": "When"
     },
     {
-        "q": "What was the previous waiting period for AIFs to begin fundraising before the GARUDA mechanism?",
-        "a": "30 days",
+        "q": "On which day of the week did U.S. President Donald Trump announce the electronic signing of a peace agreement with Iranian officials?",
+        "a": "Monday",
         "options": [
-            "20 days",
-            "45 days",
+            "Sunday",
+            "Tuesday",
+            "Monday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "A 60-day negotiation period gets underway after the peace agreement. What is the duration of this negotiation period?",
+        "a": "60 days",
+        "options": [
             "30 days",
+            "90 days",
             "60 days",
-            "25 days"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was one of the key measures approved by the SEBI board to provide companies with an additional mechanism for undertaking buybacks while ensuring equitable opportunity and tax treatment for public shareholders?",
-        "a": "Reintroduction of open market share buybacks through stock exchanges",
-        "options": [
-            "Introduction of mandatory tender offers",
-            "Increase in delisting premiums",
-            "Reintroduction of open market share buybacks through stock exchanges",
-            "Regulation of insider trading activities",
-            "Establishment of new derivatives markets"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "The Supreme Court delivered the judgment declaring freedom to walk a fundamental right on which date?",
-        "a": "Friday (June 19)",
-        "options": [
-            "Tuesday (June 16)",
-            "Wednesday (June 17)",
-            "Friday (June 19)",
-            "Monday (June 15)",
-            "Thursday (June 18)"
+            "120 days",
+            "15 days"
         ],
         "cat": "When"
     },
     {
-        "q": "Who authored the Supreme Court judgment declaring the freedom to walk a fundamental right?",
-        "a": "Justice P.S. Narasimha",
+        "q": "The PhonePe company notifies affected users how many days in advance before any inactivity fee is deducted from a wallet balance?",
+        "a": "15 days",
         "options": [
-            "Justice D.Y. Chandrachud",
-            "Justice U.U. Lalit",
-            "Justice P.S. Narasimha",
-            "Justice Sanjay Kishan Kaul",
-            "Justice B.R. Gavai"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What fundamental right did the Supreme Court declare to have priority over movement by motorised vehicles?",
-        "a": "Freedom to walk on demarcated and well-maintained footpaths",
-        "options": [
-            "Freedom of speech and expression",
-            "Freedom to assemble peacefully",
-            "Freedom to walk on demarcated and well-maintained footpaths",
-            "Freedom to reside and settle anywhere",
-            "Freedom to practice any profession"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What amount of compensation was the child\u2019s father entitled to, as per the Supreme Court judgment?",
-        "a": "Over \u20b911 lakh",
-        "options": [
-            "Over \u20b910 lakh",
-            "Over \u20b912 lakh",
-            "Over \u20b911 lakh",
-            "Over \u20b99 lakh",
-            "Over \u20b913 lakh"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "The Motor Vehicles Act, which the Supreme Court noted has been an impediment to walkers' rights, was enacted in which year?",
-        "a": "1988",
-        "options": [
-            "1985",
-            "1990",
-            "1988",
-            "1992",
-            "1980"
+            "7 days",
+            "10 days",
+            "15 days",
+            "30 days",
+            "60 days"
         ],
         "cat": "When"
     },
     {
-        "q": "The Supreme Court highlighted that walking embodies which rights under Article 19(1)(a), 19(1)(b), and 19(1)(c)?",
-        "a": "Expressional, congregational and associational rights",
+        "q": "On which day did the Ministry of Labour and Employment organize a special programme for PM-VBRY in Chennai?",
+        "a": "Saturday",
         "options": [
-            "Right to equality, right to life and liberty",
-            "Right against exploitation, right to education",
-            "Expressional, congregational and associational rights",
-            "Right to constitutional remedies, cultural and educational rights",
-            "Right to property, right to privacy"
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Monday",
+            "Wednesday"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Until when do business logistics platforms expect consumers might notice higher shipping costs and more out-of-stock items online?",
+        "a": "Until the end of the year",
+        "options": [
+            "Until next month",
+            "Until next quarter",
+            "Until the end of the year",
+            "Until next summer",
+            "Until the next election"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "In which year does the proverb mentioned in the news text feel less ancient than prophetic, according to the article?",
+        "a": "2026",
+        "options": [
+            "2020",
+            "2022",
+            "2024",
+            "2026",
+            "2028"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "How many years of experience does Kanishka Singharia have in news and trend reporting?",
+        "a": "Over four years",
+        "options": [
+            "One year",
+            "Two years",
+            "Three years",
+            "Over four years",
+            "Five years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "For how many years has Mausam Jha worked with Mint, covering national politics, IR, and global affairs?",
+        "a": "Past three years",
+        "options": [
+            "One year",
+            "Two years",
+            "Past three years",
+            "Four years",
+            "Five years"
+        ],
+        "cat": "When"
+    },
+    {
+        "q": "Why did Sanket Kumar choose 'vibrations and acoustics' as a subject during his studies at IIST?",
+        "a": "It was a subject few of his peers selected, allowing him to specialize.",
+        "options": [
+            "It was his favorite subject.",
+            "It was a subject few of his peers selected, allowing him to specialize.",
+            "It was recommended by his professors.",
+            "He found it the easiest subject.",
+            "It offered the best job prospects."
         ],
         "cat": "Why"
     },
     {
-        "q": "The Supreme Court bench directing the creation of a 'Young Lawyers\u2019 Professional Assistance Fund' comprised Chief Justice of India Surya Kant and which other Justice?",
-        "a": "Justice V. Mohana",
+        "q": "What is the core reason why disruptions around the Strait of Hormuz led to higher consumer prices for various goods?",
+        "a": "It affected crude oil, refined fuel supplies, and broader supply chains, including fertilizers and food products.",
         "options": [
-            "Justice Hima Kohli",
-            "Justice B.V. Nagarathna",
-            "Justice V. Mohana",
-            "Justice Bela M. Trivedi",
-            "Justice R. Subhash Reddy"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is the primary purpose of the 'Young Lawyers\u2019 Professional Assistance Fund' directed by the Supreme Court?",
-        "a": "To assist financially struggling young lawyers and prevent 'brain drain' from litigation",
-        "options": [
-            "To provide free legal aid to underprivileged citizens",
-            "To fund judicial training programs for judges",
-            "To assist financially struggling young lawyers and prevent 'brain drain' from litigation",
-            "To build new court infrastructures nationwide",
-            "To offer scholarships for law students"
+            "Governments imposed new taxes.",
+            "It affected crude oil, refined fuel supplies, and broader supply chains, including fertilizers and food products.",
+            "There was a sudden increase in consumer demand.",
+            "Production costs for goods decreased.",
+            "New trade agreements were signed."
         ],
         "cat": "Why"
     },
     {
-        "q": "The 'Young Lawyers\u2019 Professional Assistance Fund' is to be created in which administrative units across India?",
-        "a": "Every State and Union Territory",
+        "q": "Why do industry experts caution that travelers are unlikely to see an immediate drop in airfares even after the war ends?",
+        "a": "Airlines usually purchase fuel ahead of time, adjust operations gradually, and set ticket prices based on demand.",
         "options": [
-            "Only in the capital cities",
-            "Only in High Court jurisdictions",
-            "Every State and Union Territory",
-            "Only in Metropolitan cities",
-            "Only at the national level"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "How many women lawyers filed the petition seeking improved infrastructure and welfare measures for members of the Bar?",
-        "a": "Six",
-        "options": [
-            "Four",
-            "Eight",
-            "Six",
-            "Five",
-            "Seven"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "What is one of the financial hardships often faced by young lawyers, leading to the need for the assistance fund?",
-        "a": "Dependence upon modest stipends and absence of a steady stream of clients",
-        "options": [
-            "Lack of access to law libraries",
-            "Inability to find senior mentors",
-            "Dependence upon modest stipends and absence of a steady stream of clients",
-            "Difficulty in passing bar examinations",
-            "Limited opportunities for international practice"
+            "Airlines want to recover war losses.",
+            "Airlines usually purchase fuel ahead of time, adjust operations gradually, and set ticket prices based on demand.",
+            "There is no competition among airlines.",
+            "Fuel prices will not decrease significantly.",
+            "Governments regulate airfare prices."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the second commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
-        "a": "To take high-speed home broadband to every part of India through JioAirFiber",
+        "q": "Why do some wallet providers, including PhonePe, levy inactivity or maintenance fees on dormant wallets?",
+        "a": "To cover maintenance, compliance, and operational costs associated with dormant accounts.",
         "options": [
-            "To solely focus on enterprise solutions",
-            "To expand into manufacturing of telecom equipment",
-            "To develop new mobile phone models",
-            "To take high-speed home broadband to every part of India through JioAirFiber",
-            "To reduce data prices across all services"
+            "To encourage users to spend more.",
+            "To generate extra revenue for the company.",
+            "To penalize inactive users.",
+            "To cover maintenance, compliance, and operational costs associated with dormant accounts.",
+            "To reduce server load for unused accounts."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the third commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
-        "a": "To digitise Indian enterprises and small businesses",
+        "q": "Why might a PhonePe user actively using the app still receive inactivity notifications for their wallet?",
+        "a": "Wallet activity and UPI activity are tracked separately.",
         "options": [
-            "To launch a new social media platform",
-            "To enter the electric vehicle market",
-            "To digitise Indian enterprises and small businesses",
-            "To establish a global content streaming service",
-            "To acquire major international tech companies"
+            "Their linked bank account is inactive.",
+            "They have not updated the app recently.",
+            "Wallet activity and UPI activity are tracked separately.",
+            "They have insufficient balance in their bank account.",
+            "Their KYC verification is incomplete."
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the fourth commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
-        "a": "To ensure AI for everyone, everywhere",
+        "q": "What is the central message or purpose of the African proverb, \"Don't let your mouth carry you where your foot can't bring you back from\"?",
+        "a": "It advocates responsibility and asks one to consider consequences before speaking recklessly.",
         "options": [
-            "To focus on developing advanced robotics",
-            "To exclusively target the gaming industry",
-            "To ensure AI for everyone, everywhere",
-            "To invest in quantum computing research",
-            "To create a proprietary operating system for smartphones"
-        ],
-        "cat": "Why"
-    },
-    {
-        "q": "What is the fifth commitment for Jio\u2019s next chapter of growth, as announced by Mukesh Ambani?",
-        "a": "To take India\u2019s technology to the world",
-        "options": [
-            "To expand its presence in traditional print media",
-            "To establish a chain of physical retail stores",
-            "To take India\u2019s technology to the world",
-            "To focus solely on domestic market growth",
-            "To diversify into real estate development"
+            "It encourages free speech at all costs.",
+            "It promotes speaking truth to power.",
+            "It advises against public speaking.",
+            "It advocates responsibility and asks one to consider consequences before speaking recklessly.",
+            "It suggests always being silent to avoid mistakes."
         ],
         "cat": "Why"
     }
