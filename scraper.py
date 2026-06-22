@@ -4,18 +4,15 @@ import datetime
 import time
 import trafilatura
 import feedparser
+import re # Naya import exact word match ke liye
 
 EXAM_KEYWORDS = [
-    
     "Quarterly Result", "Fiscal Deficit", "Direct Tax", "GST", "Forex Reserves", 
     "World Bank", "IMF", "RBI", "SEBI", "Repo Rate", "Inflation", "UPI", "NPCI",
-    
     "DRDO", "ISRO", "Military Exercise", "Naval Exercise", "Air Force", "Missile", 
     "Spacecraft", "Satellite", "Defence Ministry",
-
     "Yojana", "Scheme", "Cabinet Approval", "MoU", "Bilateral Agreement", 
     "Supreme Court", "Election Commission", "GDP Growth",
-    
     "Appointed as", "Takes charge as", "Nobel Prize", "Sahitya Akademi"
 ]
 
@@ -25,7 +22,6 @@ RSS_FEEDS = [
     "https://www.thehindu.com/business/feeder/default.rss",
     "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",
     "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",
     "https://www.thehindu.com/news/national/feeder/default.rss",
     "https://www.news18.com/rss/india.xml"
 ]
@@ -45,12 +41,11 @@ def save_history(history_set):
         json.dump(list(history_set), f, indent=4)
 
 def fetch_clean_article(url):
-    """Trafilatura ka use karke sirf pure news text nikalta hai, ads/menus ignore karta hai."""
+    """Trafilatura ka use karke sirf pure news text nikalta hai."""
     try:
         time.sleep(0.5)
         downloaded = trafilatura.fetch_url(url)
         if downloaded:
-            
             text = trafilatura.extract(downloaded, include_comments=False, include_tables=False)
             return text if text else ""
         return ""
@@ -58,31 +53,40 @@ def fetch_clean_article(url):
         print(f"⚠️ Error fetching: {url} | Issue: {e}")
         return ""
 
+def is_exam_relevant(title):
+    """
+    Regex ka use karke exact word boundaries (\b) match karta hai.
+    Isse 'MoU', 'famous' me match nahi hoga.
+    """
+    for keyword in EXAM_KEYWORDS:
+        # \b ensures that we match the exact whole word or phrase
+        pattern = r'\b' + re.escape(keyword) + r'\b'
+        if re.search(pattern, title, re.IGNORECASE):
+            return True
+    return False
+
 def run_scraper():
     scraped_history = load_history()
     new_articles = []
     today_date = datetime.date.today().strftime("%Y-%m-%d")
-    
+
     print("🚀 Scraper Started: Fetching premium exam-oriented news...\n")
-    
+
     for feed_url in RSS_FEEDS:
         print(f"📡 Scanning Feed: {feed_url}")
-        
         feed = feedparser.parse(feed_url)
-        
+
         for entry in feed.entries:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
-            
-            
+
             if link in scraped_history:
                 continue
-                
-            
-            if any(keyword.lower() in title.lower() for keyword in EXAM_KEYWORDS):
+
+            # Naya updated strict checking logic yahan apply kiya hai
+            if is_exam_relevant(title):
                 clean_content = fetch_clean_article(link)
-                
-                
+
                 if clean_content and len(clean_content) > 200:
                     new_articles.append({
                         "title": title,
@@ -93,21 +97,16 @@ def run_scraper():
                     scraped_history.add(link)
                     print(f"✅ Saved: {title[:60]}...")
 
-    
     if new_articles:
-        
         with open("1.json", "w", encoding="utf-8") as f:
             json.dump(new_articles, f, indent=4, ensure_ascii=False)
         print(f"✅ {len(new_articles)} naye articles '1.json' me overwrite ho gaye hain.")
 
-        
         with open("all.txt", "a", encoding="utf-8") as f:
             for article in new_articles:
-                
                 f.write(json.dumps(article, ensure_ascii=False) + "\n")
         print(f"✅ Sabhi naye articles 'all.txt' me history ke roop me add ho gaye hain.")
-        
-        
+
         save_history(scraped_history)
         print("\n🎉 Success! Scraper ka kaam complete ho gaya.")
     else:
