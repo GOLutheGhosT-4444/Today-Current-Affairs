@@ -6,7 +6,7 @@ import sys
 
 # --- CONFIGURATION ---
 API_KEY = os.environ.get("GEMINI_API_KEY")
-NEWS_SOURCE = "https://raw.githubusercontent.com/GOLutheGhosT-4444/Today-Current-Affairs/refs/heads/main/2.json"
+NEWS_SOURCE = "[https://raw.githubusercontent.com/GOLutheGhosT-4444/Today-Current-Affairs/refs/heads/main/2.json](https://raw.githubusercontent.com/GOLutheGhosT-4444/Today-Current-Affairs/refs/heads/main/2.json)"
 OUTPUT_FILE = "quiz.json"
 
 # --- 1. AUTO-DETECT BEST MODEL ---
@@ -16,19 +16,10 @@ def get_available_model():
         sys.exit(1)
 
     genai.configure(api_key=API_KEY)
-
     print("🔍 Scanning available AI models for your API Key...")
     try:
-        # Ask Google: "Kaunse models available hain?"
-        available_models = []
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                available_models.append(m.name)
+        available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
         
-        print(f"📋 Found Models: {available_models}")
-
-        # Priority Selection (Jo best hai wo pehle chuno)
-        # Priority: 1.5-pro > 1.5-flash > pro > others
         preferred_order = [
             "models/gemini-1.5-pro",
             "models/gemini-1.5-flash", 
@@ -39,12 +30,11 @@ def get_available_model():
             if model in available_models:
                 print(f"✅ SELECTED BEST MODEL: {model}")
                 return model
-        
-        # Agar preferred me se koi nahi mila, to list ka pehla utha lo
+
         if available_models:
             print(f"⚠️ Preferred models not found. Using fallback: {available_models[0]}")
             return available_models[0]
-            
+
         print("❌ No text-generation models found for this API Key.")
         sys.exit(1)
 
@@ -59,38 +49,34 @@ def fetch_news():
         response = requests.get(NEWS_SOURCE)
         response.raise_for_status()
         
-        try:
-            data = response.json()
-            text_data = ""
-            for item in data:
-                content = item.get('content', '') or item.get('summary', '')
-                if len(content) > 50:
-                    text_data += f"- {content}\n"
-            
-            if len(text_data) < 100:
-                print("❌ News data is too short or empty.")
-                sys.exit(1)
+        data = response.json()
+        text_data = ""
+        for item in data:
+            content = item.get('content', '') or item.get('summary', '')
+            if len(content) > 50:
+                text_data += f"- {content}\n"
 
-            print(f"✅ News Loaded. Length: {len(text_data)} chars")
-            return text_data
-        except json.JSONDecodeError:
-            print("❌ JSON Error in News Source.")
+        if len(text_data) < 100:
+            print("❌ News data is too short or empty.")
             sys.exit(1)
-            
+
+        print(f"✅ News Loaded. Length: {len(text_data)} chars")
+        return text_data
+
     except Exception as e:
-        print(f"❌ Network Error: {e}")
+        print(f"❌ Network/JSON Error: {e}")
         sys.exit(1)
 
 # --- 3. GENERATE QUIZ ---
 def generate_questions(news_text, model_name):
-    # Configure with the detected model
     model = genai.GenerativeModel(model_name)
+    print("🧠 Starting Generation with strict JSON Mode...")
 
-    print("🧠 Starting Generation (No Backup Mode)...")
-
+    # Naya Prompt: Exact 60 ki jagah "Maximize" bolna better hai taaki fake news na banaye.
     prompt = f"""
     You are a Ruthless Banking Exam Setter (IBPS/SBI PO Level).
-    I need exactly 60 One-Liner MCQs based on the news text provided below.
+    Extract as many One-Liner MCQs as possible (up to 40) STRICTLY based on the exact facts in the news text below. 
+    DO NOT invent any facts or numbers. If the text does not contain enough data, generate fewer questions.
 
     ### STRICT QUESTION CRITERIA (The 5 Pillars):
     Generate questions ONLY related to these 5 categories:
@@ -106,45 +92,47 @@ def generate_questions(news_text, model_name):
     - *Example (Amount):* If Answer "Rs 500 Cr", Options: ["Rs 510 Cr", "Rs 490 Cr", "Rs 500 Cr", "Rs 505 Cr", "Rs 495 Cr"]
 
     ### OUTPUT FORMAT:
-    - Return a RAW JSON Array.
-    - Structure: [{{"q": "Question", "a": "Correct Answer", "options": ["A", "B", "C", "D", "E"], "cat": "Category"}}]
-    - Generate 60 items.
+    - You must output ONLY a valid JSON Array.
+    - Structure: [{{"q": "Question text", "a": "Correct Option text", "options": ["A", "B", "C", "D", "E"], "cat": "Category"}}]
 
     ### NEWS DATA:
     {news_text[:28000]}
     """
 
     try:
-        response = model.generate_content(prompt)
-        
-        # Clean Markdown
-        clean_json = response.text.replace("```json", "").replace("```", "").strip()
-        
-        # Validate
-        quiz_data = json.loads(clean_json)
-        
+        # 🌟 GAME CHANGER: response_mime_type forces exact JSON output
+        response = model.generate_content(
+            prompt,
+            generation_config=genai.GenerationConfig(
+                response_mime_type="application/json",
+            )
+        )
+
+        # Ab markdown replace karne ki zaroorat nahi
+        quiz_data = json.loads(response.text)
+
         count = len(quiz_data)
         print(f"⚡ AI Generated {count} Questions.")
-        
-        if count < 5:
-            print("❌ Error: AI generated junk or too few questions.")
-            sys.exit(1) # Crash workflow
+
+        if count < 3:
+            print("❌ Error: AI generated too few questions. Maybe news lacks facts.")
+            sys.exit(1)
 
         return quiz_data
 
+    except json.JSONDecodeError as e:
+        print(f"❌ JSON Parsing Error (AI Output Truncated): {e}")
+        print("Raw AI Output:", response.text[:500]) # Debugging ke liye
+        sys.exit(1)
     except Exception as e:
         print(f"❌ AI Critical Error: {e}")
-        sys.exit(1) # Crash workflow
+        sys.exit(1)
 
 # --- 4. SAVE FILE ---
 def save_quiz(data):
-    if not data:
-        print("❌ No data generated.")
-        sys.exit(1)
-
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4)
+            json.dump(data, f, indent=4, ensure_ascii=False) # Hindi/Special chars safe
         print(f"💾 Successfully saved {len(data)} REAL questions to {OUTPUT_FILE}")
     except Exception as e:
         print(f"❌ File Save Error: {e}")
@@ -152,14 +140,7 @@ def save_quiz(data):
 
 # --- EXECUTION ---
 if __name__ == "__main__":
-    # Step 1: Find best model
     best_model = get_available_model()
-    
-    # Step 2: Get News
     news = fetch_news()
-    
-    # Step 3: Generate
     questions = generate_questions(news, best_model)
-    
-    # Step 4: Save
     save_quiz(questions)
