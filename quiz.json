@@ -1,709 +1,721 @@
 [
     {
-        "q": "How many marks did Sanket Kumar fall short of the JEE Advanced cut-off in 2021?",
-        "a": "Two marks",
+        "q": "What was the total amount collected by the Police Department on day one of the Fine Concession scheme for traffic e-challans?",
+        "a": "\u20b996.73 lakh",
         "options": [
-            "One mark",
-            "Three marks",
-            "Two marks",
-            "Five marks",
-            "Ten marks"
+            "\u20b995.73 lakh",
+            "\u20b996.73 lakh",
+            "\u20b997.73 lakh",
+            "\u20b996.53 lakh",
+            "\u20b997.23 lakh"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was Sanket Kumar's CGPA during his studies at IIST?",
-        "a": "8.2",
+        "q": "How many traffic e-challan cases were settled on the first day of the Fine Concession scheme?",
+        "a": "Over 32,000",
         "options": [
-            "7.8",
-            "8.5",
-            "8.2",
-            "9.0",
-            "7.5"
+            "Over 30,000",
+            "Over 31,000",
+            "Over 32,000",
+            "Over 33,000",
+            "Over 34,000"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What was the estimated overall cost of the war to the United States, according to Moody\u2019s Analytics?",
-        "a": "$132 billion",
+        "q": "What percentage of rebate was introduced by the State government for pending traffic e-challan cases?",
+        "a": "50%",
         "options": [
-            "$13.2 billion",
-            "$1.32 billion",
-            "$132 billion",
-            "$29 billion",
-            "$60 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the military cost of the war estimated to be by a top Pentagon official last month?",
-        "a": "$29 billion",
-        "options": [
-            "$2.9 billion",
-            "$290 million",
-            "$29 billion",
-            "$132 billion",
-            "$60 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "How much more have Americans spent on gasoline and diesel since the start of the conflict due to higher fuel prices?",
-        "a": "$60 billion",
-        "options": [
-            "$6 billion",
-            "$600 million",
-            "$60 billion",
-            "$29 billion",
-            "$132 billion"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Approximately how much additional cost per household was incurred by Americans due to higher fuel prices during the conflict?",
-        "a": "$460",
-        "options": [
-            "$46",
-            "$460",
-            "$4,600",
-            "$146",
-            "$260"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What was the average gasoline price per gallon at the beginning of the war between the US/Israel and Iran?",
-        "a": "$2.98",
-        "options": [
-            "$2.50",
-            "$3.50",
-            "$2.98",
-            "$4.00",
-            "$2.00"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What were the crude oil prices per barrel earlier in March, before the peace framework announcement?",
-        "a": "$120 per barrel",
-        "options": [
-            "$80 per barrel",
-            "$100 per barrel",
-            "$120 per barrel",
-            "$60 per barrel",
-            "$150 per barrel"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "What percentage of the world's fertilizer previously passed through the Strait of Hormuz before the war?",
-        "a": "30%",
-        "options": [
-            "10%",
-            "20%",
-            "30%",
             "40%",
-            "50%"
+            "45%",
+            "50%",
+            "55%",
+            "60%"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What percentage of the total volume of container ships for global shipping was affected by the Strait of Hormuz closure?",
-        "a": "2% to 3%",
+        "q": "What is the primary membership of the Janata Dal (United) according to the news?",
+        "a": "Exceeding 10 million",
         "options": [
-            "0.2% to 0.3%",
-            "2% to 3%",
-            "10% to 15%",
-            "5% to 7%",
-            "0.5% to 1%"
+            "Exceeding 8 million",
+            "Exceeding 9 million",
+            "Exceeding 10 million",
+            "Exceeding 11 million",
+            "Exceeding 12 million"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many participants, including beneficiaries and employers, attended the PM-VBRY event at IMAGE?",
-        "a": "750",
+        "q": "How many representatives participated in the JD(U) national and state council meetings from different states?",
+        "a": "223",
         "options": [
-            "75",
-            "7500",
-            "750",
-            "450",
-            "122"
+            "221",
+            "222",
+            "223",
+            "224",
+            "225"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many beneficiaries participated in the PM-VBRY special programme at IMAGE?",
-        "a": "450",
+        "q": "From how many states did the representatives participate in the JD(U) national and state council meetings?",
+        "a": "19",
         "options": [
-            "45",
-            "4500",
-            "450",
-            "750",
-            "122"
+            "17",
+            "18",
+            "19",
+            "20",
+            "21"
         ],
         "cat": "Amount"
     },
     {
-        "q": "How many employers and industry association representatives participated in the PM-VBRY event at IMAGE?",
-        "a": "122",
+        "q": "What is the numerical identifier of the public welfare scheme 'Saat Nischay' being advanced in Bihar?",
+        "a": "3",
         "options": [
-            "12",
-            "1220",
-            "122",
-            "750",
-            "450"
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
         ],
         "cat": "Amount"
     },
     {
-        "q": "What is the current crude oil international benchmark hovering around after the peace framework announcement?",
-        "a": "$80 per barrel",
+        "q": "Who was unanimously endorsed as the national president of the Janata Dal (United)?",
+        "a": "Nitish Kumar",
         "options": [
-            "$120 per barrel",
-            "$90 per barrel",
-            "$80 per barrel",
-            "$70 per barrel",
-            "$100 per barrel"
-        ],
-        "cat": "Amount"
-    },
-    {
-        "q": "Who was appointed as a Scientist/Engineer (SC Grade) at the ISRO Propulsion Complex (IPRC)?",
-        "a": "Sanket Kumar",
-        "options": [
-            "Harshit Kumar",
-            "Gulshan Kumar",
-            "Sanket Kumar",
-            "Aseem Dubey",
-            "Sanket Singh"
+            "Sanjay Kumar Jha",
+            "Nishant Kumar",
+            "Nitish Kumar",
+            "Rajiv Ranjan Singh",
+            "Umesh Singh Kushwaha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is Sanket Kumar's mother, mentioned in the news text?",
-        "a": "Sunita Singh",
+        "q": "Who is Nitish Kumar's son, expected to play an important role in carrying forward the developmental vision?",
+        "a": "Nishant Kumar",
         "options": [
-            "Sunita Devi",
-            "Sunita Kumar",
-            "Sunita Singh",
-            "Priya Singh",
-            "Anjali Singh"
-        ],
-        "cat": "Who"
-    },
-    {
-        "q": "Who is Sanket Kumar's father, mentioned in the news text?",
-        "a": "Gulshan Kumar",
-        "options": [
-            "Rakesh Kumar",
-            "Gulshan Singh",
-            "Gulshan Kumar",
             "Sanjay Kumar",
-            "Deepak Kumar"
+            "Bijendra Prasad",
+            "Nishant Kumar",
+            "Vijay Kumar",
+            "Rajiv Ranjan"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who provided strong financial support to Sanket Kumar when he took a one-year drop?",
-        "a": "His brother, Harshit Kumar",
+        "q": "Who is the JD(U) national working president who lauded Nitish Kumar as a 'universally acknowledged' leader?",
+        "a": "Sanjay Kumar Jha",
         "options": [
-            "His father, Gulshan Kumar",
-            "His mother, Sunita Singh",
-            "His brother, Harshit Kumar",
-            "His former principal, Aseem Dubey",
-            "His uncle"
+            "Rajiv Ranjan Singh",
+            "Umesh Singh Kushwaha",
+            "Sanjay Kumar Jha",
+            "Bijendra Prasad Yadav",
+            "Vijay Kumar Choudhary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who was the former principal of Dewan Public School who recalled Sanket Kumar as dedicated and disciplined?",
-        "a": "Aseem Dubey",
+        "q": "Who is the State president of JD(U) ratified for a third consecutive term?",
+        "a": "Umesh Singh Kushwaha",
         "options": [
-            "Anil Kumar",
-            "Aseem Dubey",
-            "Sunita Singh",
-            "Gulshan Kumar",
-            "Sanjay Dixit"
+            "Nitish Kumar",
+            "Sanjay Kumar Jha",
+            "Rajiv Ranjan Singh",
+            "Umesh Singh Kushwaha",
+            "Nishant Kumar"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Senior Content Producer at Mint specializing in news, trends, and digital stories?",
-        "a": "Kanishka Singharia",
+        "q": "Which Deputy Chief Minister was present at the JD(U) meeting and mentioned Nishant Kumar stepping into an active role?",
+        "a": "Vijay Kumar Choudhary",
         "options": [
-            "Mausam Jha",
-            "Linda Bilmes",
-            "Kanishka Singharia",
-            "M\u00e1ximo Torero Cullen",
-            "Sanket Kumar"
+            "Bijendra Prasad Yadav",
+            "Sanjay Kumar Jha",
+            "Vijay Kumar Choudhary",
+            "Rajiv Ranjan Singh",
+            "Umesh Singh Kushwaha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who electronically signed a preliminary peace agreement with Iranian officials on behalf of the U.S. along with the President?",
-        "a": "Vice President JD Vance",
+        "q": "Who served as the JD(U) national spokesperson and briefed the media on the resolutions presented at the meeting?",
+        "a": "Rajiv Ranjan Prasad",
         "options": [
-            "Mark Zandi",
-            "Linda Bilmes",
-            "M\u00e1ximo Torero Cullen",
-            "Vice President JD Vance",
-            "Josh Steinitz"
+            "Rajiv Ranjan Singh",
+            "Rajiv Ranjan Prasad",
+            "Nishant Kumar",
+            "Nitish Kumar",
+            "Sanjay Kumar Jha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the chief economist at Moody\u2019s Analytics, quoted regarding the economic impact of the conflict?",
-        "a": "Mark Zandi",
+        "q": "Who made the decision to step down from the post of Chief Minister, described as a prime example of political probity?",
+        "a": "Nitish Kumar",
         "options": [
-            "Gordon Ho",
-            "Mark Zandi",
-            "Judah Levine",
-            "Josh Steinitz",
-            "M\u00e1ximo Torero Cullen"
+            "Sanjay Kumar Jha",
+            "Nishant Kumar",
+            "Rajiv Ranjan Singh",
+            "Nitish Kumar",
+            "Umesh Singh Kushwaha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the public finance expert and senior lecturer at the Harvard Kennedy School quoted about military costs?",
-        "a": "Linda Bilmes",
+        "q": "Who referred to Nishant Kumar's greatest attribute as speaking less and working more?",
+        "a": "Sanjay Kumar Jha",
         "options": [
-            "Linda Smith",
-            "Linda Bilmes",
-            "Linda Harris",
-            "Linda Johnson",
-            "Linda Clark"
+            "Rajiv Ranjan Singh",
+            "Vijay Kumar Choudhary",
+            "Sanjay Kumar Jha",
+            "Nitish Kumar",
+            "Umesh Singh Kushwaha"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the chief economist of the Food and Agriculture Organization (FAO) who authored a Council on Foreign Relations report?",
-        "a": "M\u00e1ximo Torero Cullen",
+        "q": "Who stated that there was complete unanimity within the JD(U) that Nishant Kumar would carry forward Nitish Kumar's developmental legacy?",
+        "a": "Rajiv Ranjan Singh alias Lalan Singh",
         "options": [
-            "M\u00e1ximo Gomez",
-            "M\u00e1ximo Torero Cullen",
-            "M\u00e1ximo Sanchez",
-            "M\u00e1ximo Hernandez",
-            "M\u00e1ximo Rodriguez"
+            "Sanjay Kumar Jha",
+            "Umesh Singh Kushwaha",
+            "Bijendra Prasad Yadav",
+            "Rajiv Ranjan Singh alias Lalan Singh",
+            "Vijay Kumar Choudhary"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the journalist at Mint focusing on world affairs and politics, mentioned in the news text?",
-        "a": "Mausam Jha",
+        "q": "Who famously said, 'The only victories which leave no regret are those which are gained over ignorance'?",
+        "a": "Napoleon Bonaparte",
         "options": [
-            "Kanishka Singharia",
-            "Mausam Singh",
-            "Mausam Jha",
-            "Priya Sharma",
-            "Anjali Verma"
+            "Julius Caesar",
+            "Alexander the Great",
+            "Napoleon Bonaparte",
+            "Winston Churchill",
+            "Mahatma Gandhi"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Joint Director, Directorate of Safety and Health, who participated in the PM-VBRY event in Chennai?",
-        "a": "K. Niraimathi",
+        "q": "Who was elected to the Institut de France in December 1797?",
+        "a": "Napoleon Bonaparte",
         "options": [
-            "Ramesh Kumar",
-            "K. Niraimathi",
-            "Srinu Dara",
-            "S. Prakash",
-            "M. Selvam"
+            "Louis XVI",
+            "Maximilian Robespierre",
+            "Napoleon Bonaparte",
+            "Voltaire",
+            "Jean-Jacques Rousseau"
         ],
         "cat": "Who"
     },
     {
-        "q": "Who is the Deputy Labour Commissioner from the State government who participated in the PM-VBRY event in Chennai?",
-        "a": "Ramesh Kumar",
+        "q": "Who was the Emperor of France who reshaped the map of Europe during the French Revolution?",
+        "a": "Napoleon Bonaparte",
         "options": [
-            "K. Niraimathi",
-            "Srinu Dara",
-            "Ramesh Kumar",
-            "S. Mani",
-            "A. Prabhu"
+            "Charles de Gaulle",
+            "King Louis XIV",
+            "Napoleon Bonaparte",
+            "Marie Antoinette",
+            "Georges Danton"
         ],
         "cat": "Who"
     },
     {
-        "q": "Sanket Kumar, who was appointed at ISRO, hails from which city in Uttar Pradesh?",
-        "a": "Meerut",
+        "q": "Who surrounded himself with scholars and took teams of researchers on his military campaigns?",
+        "a": "Napoleon Bonaparte",
         "options": [
-            "Lucknow",
-            "Kanpur",
-            "Meerut",
-            "Varanasi",
-            "Prayagraj"
+            "Frederick the Great",
+            "Peter the Great",
+            "Napoleon Bonaparte",
+            "Queen Victoria",
+            "Otto von Bismarck"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who, by his own description, was a lifelong student despite his military triumphs?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Leonardo da Vinci",
+            "Isaac Newton",
+            "Napoleon Bonaparte",
+            "Michelangelo",
+            "Galileo Galilei"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who is remembered for sweeping reforms, including a system of laws still echoed in many countries today?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Thomas Jefferson",
+            "Justinian I",
+            "Napoleon Bonaparte",
+            "Solon",
+            "Hammurabi"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who made the statement 'Victory belongs to the most persevering'?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Sun Tzu",
+            "Carl von Clausewitz",
+            "Napoleon Bonaparte",
+            "Niccol\u00f2 Machiavelli",
+            "Bernard Montgomery"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who famously declared, 'A leader is a dealer in hope'?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Abraham Lincoln",
+            "Martin Luther King Jr.",
+            "Napoleon Bonaparte",
+            "Nelson Mandela",
+            "John F. Kennedy"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who articulated that 'There are but two powers in the world, the sword and the mind, and in the long run the sword is always beaten by the mind'?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Plato",
+            "Aristotle",
+            "Napoleon Bonaparte",
+            "Socrates",
+            "Confucius"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Who advised to 'Take time to deliberate, but when the time for action comes, stop thinking and go in'?",
+        "a": "Napoleon Bonaparte",
+        "options": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Napoleon Bonaparte",
+            "George S. Patton",
+            "Dwight D. Eisenhower"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Which one of the following was a Deputy Chief Minister present at the JD(U) meeting?",
+        "a": "Bijendra Prasad Yadav",
+        "options": [
+            "Sanjay Kumar Jha",
+            "Nishant Kumar",
+            "Bijendra Prasad Yadav",
+            "Rajiv Ranjan Prasad",
+            "Umesh Singh Kushwaha"
+        ],
+        "cat": "Who"
+    },
+    {
+        "q": "Where did the Janata Dal (United) party's state council meeting take place?",
+        "a": "At its headquarters",
+        "options": [
+            "At the national capital",
+            "At a convention center",
+            "At its headquarters",
+            "At the Chief Minister's residence",
+            "At a public stadium"
         ],
         "cat": "Where"
     },
     {
-        "q": "Where is the ISRO Propulsion Complex (IPRC), Sanket Kumar's place of appointment, located?",
-        "a": "Mahendragiri, Tamil Nadu",
+        "q": "In which state is the NDA government advancing public welfare schemes like \u2018Saat Nischay-3\u2019?",
+        "a": "Bihar",
         "options": [
-            "Bengaluru, Karnataka",
-            "Thiruvananthapuram, Kerala",
-            "Mahendragiri, Tamil Nadu",
-            "Hyderabad, Telangana",
-            "Sriharikota, Andhra Pradesh"
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Bihar",
+            "West Bengal",
+            "Madhya Pradesh"
         ],
         "cat": "Where"
     },
     {
-        "q": "In which city is the Indian Institute of Space Science and Technology (IIST), where Sanket Kumar studied Aerospace Engineering, located?",
-        "a": "Thiruvananthapuram",
+        "q": "Where is Nishant Kumar expected to emerge as a shining star in politics in the future?",
+        "a": "Bihar",
         "options": [
-            "Bengaluru",
-            "Chennai",
-            "Thiruvananthapuram",
-            "Mumbai",
-            "New Delhi"
+            "National politics",
+            "Local municipal elections",
+            "Bihar",
+            "neighboring states",
+            "International forums"
         ],
         "cat": "Where"
     },
     {
-        "q": "Sanket Kumar was selected by Shinra Inc. for an advanced engineering research project. In which country is Shinra Inc. based?",
-        "a": "Japan",
+        "q": "To which leading academy of sciences was Napoleon Bonaparte elected, expressing his pride?",
+        "a": "Institut de France",
         "options": [
-            "South Korea",
-            "China",
-            "Japan",
-            "Germany",
-            "United States"
+            "Royal Society of London",
+            "Prussian Academy of Sciences",
+            "Institut de France",
+            "American Philosophical Society",
+            "Russian Academy of Sciences"
         ],
         "cat": "Where"
     },
     {
-        "q": "Which important waterway saw disruptions due to tensions around it, affecting crude oil and broader supply chains?",
-        "a": "Strait of Hormuz",
+        "q": "On which day of the week did the Fine Concession scheme for traffic e-challan cases come into effect?",
+        "a": "Sunday",
         "options": [
-            "Suez Canal",
-            "Panama Canal",
-            "Strait of Hormuz",
-            "Malacca Strait",
-            "Bab-el-Mandeb"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where was a valuable U.S. military radar aircraft damaged by Iranian attacks, as reported in the news?",
-        "a": "Saudi Arabia",
-        "options": [
-            "Iraq",
-            "Kuwait",
-            "Saudi Arabia",
-            "Qatar",
-            "UAE"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which city's U.S. Embassy compound in the region was reported to have parts damaged by Iranian attacks?",
-        "a": "Riyadh",
-        "options": [
-            "Dubai",
-            "Doha",
-            "Manama",
-            "Riyadh",
-            "Abu Dhabi"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Where did the Ministry of Labour and Employment organize a special programme for the PM-VBRY national event in Chennai?",
-        "a": "Indian Bank Management Academy for Growth and Excellence (IMAGE) at MRC Nagar",
-        "options": [
-            "Chennai Trade Centre",
-            "Anna Centenary Library",
-            "Indian Bank Management Academy for Growth and Excellence (IMAGE) at MRC Nagar",
-            "Madras University",
-            "Rajiv Gandhi Salai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which other venue in Chennai, besides IMAGE, hosted a PM-VBRY event?",
-        "a": "Central Institute of Classical Tamil (CICT)",
-        "options": [
-            "Madras Institute of Technology",
-            "Central Institute of Classical Tamil (CICT)",
-            "IIT Madras",
-            "Apollo Hospitals",
-            "NIFT Chennai"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Kanishka Singharia reports on real estate developments and civic challenges in major urban hubs, including Bengaluru, Delhi, and which other city?",
-        "a": "Gurugram",
-        "options": [
-            "Mumbai",
-            "Hyderabad",
-            "Kolkata",
-            "Gurugram",
-            "Pune"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Mausam Jha gained experience working with The Statesman, ANI, and which other organization before joining Mint?",
-        "a": "Financial Express",
-        "options": [
-            "The Hindu",
-            "Indian Express",
-            "Deccan Herald",
-            "Business Standard",
-            "Financial Express"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "From which university did Kanishka Singharia hold an undergraduate degree in Journalism?",
-        "a": "Delhi University",
-        "options": [
-            "Mumbai University",
-            "Jawaharlal Nehru University",
-            "Delhi University",
-            "Amity University",
-            "Symbiosis International University"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "Which institute did Kanishka Singharia receive a diploma from?",
-        "a": "Indian Institute of Mass Communication",
-        "options": [
-            "Asian College of Journalism",
-            "Xavier Institute of Communications",
-            "Indian Institute of Mass Communication",
-            "Mudra Institute of Communications",
-            "Manorama School of Communication"
-        ],
-        "cat": "Where"
-    },
-    {
-        "q": "In which year did Sanket Kumar complete his Class 12 education from Dewan Public School?",
-        "a": "2021",
-        "options": [
-            "2020",
-            "2022",
-            "2021",
-            "2019",
-            "2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "In which year did Sanket Kumar successfully clear both JEE Main and JEE Advanced?",
-        "a": "2022",
-        "options": [
-            "2021",
-            "2020",
-            "2022",
-            "2019",
-            "2023"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "For how long did Sanket Kumar spend working on an advanced engineering research project for Japan-based Shinra Inc.?",
-        "a": "Three months",
-        "options": [
-            "One month",
-            "Six months",
-            "Three months",
-            "One year",
-            "Two months"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On what date did the hostilities between the United States/Israel and Iran reportedly begin?",
-        "a": "February 28",
-        "options": [
-            "January 15",
-            "March 10",
-            "February 28",
-            "April 5",
-            "February 1"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "The conflict with Iran lasted a little over how many weeks before a preliminary peace agreement was reached?",
-        "a": "15 weeks",
-        "options": [
-            "5 weeks",
-            "10 weeks",
-            "15 weeks",
-            "20 weeks",
-            "25 weeks"
-        ],
-        "cat": "When"
-    },
-    {
-        "q": "On which day of the week did U.S. President Donald Trump announce the electronic signing of a peace agreement with Iranian officials?",
-        "a": "Monday",
-        "options": [
-            "Sunday",
+            "Monday",
             "Tuesday",
-            "Monday",
             "Wednesday",
-            "Thursday"
+            "Thursday",
+            "Sunday"
         ],
         "cat": "When"
     },
     {
-        "q": "A 60-day negotiation period gets underway after the peace agreement. What is the duration of this negotiation period?",
-        "a": "60 days",
+        "q": "When was Nitish Kumar unanimously endorsed as the national president of JD(U)?",
+        "a": "June 21, 2026",
         "options": [
-            "30 days",
-            "90 days",
-            "60 days",
-            "120 days",
-            "15 days"
+            "June 20, 2026",
+            "June 21, 2026",
+            "July 21, 2026",
+            "June 21, 2025",
+            "June 20, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "The PhonePe company notifies affected users how many days in advance before any inactivity fee is deducted from a wallet balance?",
-        "a": "15 days",
+        "q": "Since what year has Nitish Kumar's government been working for the development of Bihar?",
+        "a": "2005",
         "options": [
-            "7 days",
-            "10 days",
-            "15 days",
-            "30 days",
-            "60 days"
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007"
         ],
         "cat": "When"
     },
     {
-        "q": "On which day did the Ministry of Labour and Employment organize a special programme for PM-VBRY in Chennai?",
-        "a": "Saturday",
+        "q": "For how many decades has JD(U) been receiving the blessings and support of the people of Bihar due to its developmental efforts?",
+        "a": "Two decades",
         "options": [
-            "Friday",
-            "Sunday",
-            "Saturday",
-            "Monday",
-            "Wednesday"
+            "One decade",
+            "Two decades",
+            "Three decades",
+            "Half a decade",
+            "Four decades"
         ],
         "cat": "When"
     },
     {
-        "q": "Until when do business logistics platforms expect consumers might notice higher shipping costs and more out-of-stock items online?",
-        "a": "Until the end of the year",
+        "q": "In what year was Napoleon Bonaparte elected to the Institut de France?",
+        "a": "1797",
         "options": [
-            "Until next month",
-            "Until next quarter",
-            "Until the end of the year",
-            "Until next summer",
-            "Until the next election"
+            "1795",
+            "1796",
+            "1797",
+            "1798",
+            "1799"
         ],
         "cat": "When"
     },
     {
-        "q": "In which year does the proverb mentioned in the news text feel less ancient than prophetic, according to the article?",
-        "a": "2026",
+        "q": "In which month was Napoleon Bonaparte elected to the Institut de France?",
+        "a": "December",
         "options": [
-            "2020",
-            "2022",
-            "2024",
-            "2026",
-            "2028"
+            "October",
+            "November",
+            "December",
+            "January",
+            "February"
         ],
         "cat": "When"
     },
     {
-        "q": "How many years of experience does Kanishka Singharia have in news and trend reporting?",
-        "a": "Over four years",
+        "q": "The quote 'The only victories which leave no regret are those which are gained over ignorance' was written by Napoleon in a thank you letter in December of which year?",
+        "a": "1797",
         "options": [
-            "One year",
-            "Two years",
-            "Three years",
-            "Over four years",
-            "Five years"
+            "1796",
+            "1797",
+            "1798",
+            "1799",
+            "1800"
         ],
         "cat": "When"
     },
     {
-        "q": "For how many years has Mausam Jha worked with Mint, covering national politics, IR, and global affairs?",
-        "a": "Past three years",
+        "q": "On what date did the JD(U) party's state council meeting take place?",
+        "a": "June 21, 2026",
         "options": [
-            "One year",
-            "Two years",
-            "Past three years",
-            "Four years",
-            "Five years"
+            "June 20, 2026",
+            "June 21, 2026",
+            "July 21, 2026",
+            "June 21, 2025",
+            "June 20, 2025"
         ],
         "cat": "When"
     },
     {
-        "q": "Why did Sanket Kumar choose 'vibrations and acoustics' as a subject during his studies at IIST?",
-        "a": "It was a subject few of his peers selected, allowing him to specialize.",
+        "q": "What is the primary intent behind the State government's Fine Concession scheme for traffic e-challans?",
+        "a": "To encourage motorists to clear long-pending traffic fines and improve compliance with traffic regulations.",
         "options": [
-            "It was his favorite subject.",
-            "It was a subject few of his peers selected, allowing him to specialize.",
-            "It was recommended by his professors.",
-            "He found it the easiest subject.",
-            "It offered the best job prospects."
+            "To generate quick revenue for the state",
+            "To reduce the burden on traffic police officers",
+            "To encourage motorists to clear long-pending traffic fines and improve compliance with traffic regulations",
+            "To identify repeat offenders more easily",
+            "To introduce new traffic laws effectively"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the core reason why disruptions around the Strait of Hormuz led to higher consumer prices for various goods?",
-        "a": "It affected crude oil, refined fuel supplies, and broader supply chains, including fertilizers and food products.",
+        "q": "Why was a 50% rebate introduced for pending traffic e-challan cases?",
+        "a": "To encourage motorists to clear long-pending traffic fines and improve compliance with traffic regulations.",
         "options": [
-            "Governments imposed new taxes.",
-            "It affected crude oil, refined fuel supplies, and broader supply chains, including fertilizers and food products.",
-            "There was a sudden increase in consumer demand.",
-            "Production costs for goods decreased.",
-            "New trade agreements were signed."
+            "To penalize late payers more severely",
+            "To simplify the payment process for challans",
+            "To encourage motorists to clear long-pending traffic fines and improve compliance with traffic regulations",
+            "To experiment with new traffic management strategies",
+            "To fund new infrastructure projects"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why do industry experts caution that travelers are unlikely to see an immediate drop in airfares even after the war ends?",
-        "a": "Airlines usually purchase fuel ahead of time, adjust operations gradually, and set ticket prices based on demand.",
+        "q": "According to Nitish Kumar, what commitment led to JD(U)'s primary membership exceeding 10 million?",
+        "a": "Fighting for \u2018development with justice\u2019",
         "options": [
-            "Airlines want to recover war losses.",
-            "Airlines usually purchase fuel ahead of time, adjust operations gradually, and set ticket prices based on demand.",
-            "There is no competition among airlines.",
-            "Fuel prices will not decrease significantly.",
-            "Governments regulate airfare prices."
+            "Expanding party presence across all states",
+            "Focusing solely on economic reforms",
+            "Fighting for \u2018development with justice\u2019",
+            "Promoting regional linguistic identity",
+            "Forming alliances with national parties"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why do some wallet providers, including PhonePe, levy inactivity or maintenance fees on dormant wallets?",
-        "a": "To cover maintenance, compliance, and operational costs associated with dormant accounts.",
+        "q": "What was the condition of Bihar before 2005, as described by Nitish Kumar?",
+        "a": "In a dire state and grappling with backwardness",
         "options": [
-            "To encourage users to spend more.",
-            "To generate extra revenue for the company.",
-            "To penalize inactive users.",
-            "To cover maintenance, compliance, and operational costs associated with dormant accounts.",
-            "To reduce server load for unused accounts."
+            "Experiencing rapid industrial growth",
+            "In a dire state and grappling with backwardness",
+            "Leading in agricultural output",
+            "A model for social justice",
+            "Undergoing significant urban development"
         ],
         "cat": "Why"
     },
     {
-        "q": "Why might a PhonePe user actively using the app still receive inactivity notifications for their wallet?",
-        "a": "Wallet activity and UPI activity are tracked separately.",
+        "q": "What is the objective of the coordinated efforts between the State and the Centre in Bihar?",
+        "a": "Bihar to scale new heights of development and establish itself as one of the country\u2019s leading developed States.",
         "options": [
-            "Their linked bank account is inactive.",
-            "They have not updated the app recently.",
-            "Wallet activity and UPI activity are tracked separately.",
-            "They have insufficient balance in their bank account.",
-            "Their KYC verification is incomplete."
+            "To enhance cultural tourism in the region",
+            "To centralize all administrative powers",
+            "Bihar to scale new heights of development and establish itself as one of the country\u2019s leading developed States",
+            "To resolve inter-state disputes",
+            "To privatize public sector undertakings"
         ],
         "cat": "Why"
     },
     {
-        "q": "What is the central message or purpose of the African proverb, \"Don't let your mouth carry you where your foot can't bring you back from\"?",
-        "a": "It advocates responsibility and asks one to consider consequences before speaking recklessly.",
+        "q": "According to Sanjay Kumar Jha, what has given JD(U) a strong identity?",
+        "a": "Nitish Kumar\u2019s tireless hard work, struggle, and dedication",
         "options": [
-            "It encourages free speech at all costs.",
-            "It promotes speaking truth to power.",
-            "It advises against public speaking.",
-            "It advocates responsibility and asks one to consider consequences before speaking recklessly.",
-            "It suggests always being silent to avoid mistakes."
+            "Strategic political alliances",
+            "Massive election funding",
+            "Nitish Kumar\u2019s tireless hard work, struggle, and dedication",
+            "Historical legacy of its founders",
+            "Aggressive social media campaigns"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why do residents of Bihar today present their identity with pride across the country and the world, according to Sanjay Kumar Jha?",
+        "a": "Thanks to Nitish Kumar\u2019s policies and visionary leadership",
+        "options": [
+            "Recent natural resource discoveries",
+            "High-profile sports achievements",
+            "Thanks to Nitish Kumar\u2019s policies and visionary leadership",
+            "Significant contributions to national defense",
+            "International cultural recognition"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is considered the direct result of Nitish Kumar\u2019s leadership in Bihar?",
+        "a": "Robust foundation of good governance, development, and social justice",
+        "options": [
+            "An increase in regional conflicts",
+            "A decline in educational standards",
+            "Robust foundation of good governance, development, and social justice",
+            "A shift towards an agricultural-only economy",
+            "Severe brain drain from the state"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is Nishant Kumar\u2019s greatest attribute, according to Sanjay Kumar Jha?",
+        "a": "He speaks less and works more",
+        "options": [
+            "His eloquent public speaking",
+            "His ability to form quick alliances",
+            "He speaks less and works more",
+            "His deep academic qualifications",
+            "His skill in fundraising"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is Nishant Kumar expected to emerge as a shining star in Bihar\u2019s politics?",
+        "a": "Due to his work style of speaking less and working more",
+        "options": [
+            "His family connections alone",
+            "His strategic media presence",
+            "Due to his work style of speaking less and working more",
+            "His charisma and public appeal",
+            "His extensive network of global leaders"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to Lalan Singh, why did the JD(U) emerge as an organisation built on a solid foundation?",
+        "a": "Due to Mr. Nitish Kumar\u2019s sound economic and social policies",
+        "options": [
+            "Its focus on a single dominant caste",
+            "Its ability to suppress dissent effectively",
+            "Due to Mr. Nitish Kumar\u2019s sound economic and social policies",
+            "Its reliance on external financial aid",
+            "Its minimal engagement with public welfare"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why was Nitish Kumar\u2019s decision to step down as Chief Minister highlighted by Rajiv Ranjan Prasad?",
+        "a": "As a prime example of political probity, trust, and a spirit of cooperation",
+        "options": [
+            "To avoid a vote of no confidence",
+            "To pave the way for a national role",
+            "As a prime example of political probity, trust, and a spirit of cooperation",
+            "To seek a mandate for new reforms",
+            "Due to health reasons"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why is the transfer of power with such ease and dignity in Bihar considered a unique event?",
+        "a": "Because it's a unique event in the history of Indian politics",
+        "options": [
+            "It was done under international observation",
+            "It involved the immediate dissolution of the assembly",
+            "Because it's a unique event in the history of Indian politics",
+            "It led to a national holiday being declared",
+            "It was decided by popular referendum"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What did Napoleon Bonaparte consider the only victories that leave no regret?",
+        "a": "Those which are gained over ignorance",
+        "options": [
+            "Victories on the battlefield",
+            "Conquests of new territories",
+            "Those which are gained over ignorance",
+            "Diplomatic triumphs over rivals",
+            "Economic dominance over other nations"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What was Napoleon's reason for surrounding himself with scholars and taking researchers on his campaigns?",
+        "a": "He had a deep respect for science and learning.",
+        "options": [
+            "To use them as spies against his enemies",
+            "To entertain him during long campaigns",
+            "He had a deep respect for science and learning.",
+            "To document his military achievements",
+            "To develop new weaponry"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "According to the text, what is the key difference between victory over other people and victory over ignorance?",
+        "a": "Victory over people often carries a cost and regret, while victory over ignorance has no downside and no regret.",
+        "options": [
+            "Victory over people is always more celebrated",
+            "Victory over ignorance is always harder to achieve",
+            "Victory over people often carries a cost and regret, while victory over ignorance has no downside and no regret",
+            "Victory over people is short-lived, while victory over ignorance is permanent",
+            "Victory over ignorance is less impactful globally"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why, according to the text, should one treat learning as the one win that never backfires?",
+        "a": "Because one will never regret understanding something better, unlike arguments won or risks taken.",
+        "options": [
+            "Because it guarantees financial success",
+            "Because it makes you universally liked",
+            "Because one will never regret understanding something better, unlike arguments won or risks taken.",
+            "Because it is the easiest form of victory",
+            "Because it brings immediate fame and recognition"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the benefit of staying a student, whatever your age or status, as exemplified by Napoleon?",
+        "a": "It keeps you growing instead of standing still.",
+        "options": [
+            "It ensures you hold onto power longer",
+            "It allows you to avoid difficult decisions",
+            "It keeps you growing instead of standing still.",
+            "It helps you conquer more land",
+            "It makes you appear humble to your enemies"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "What is the purpose of aiming to understand, not just to win, in a debate or discussion?",
+        "a": "To achieve a victory that leaves no regret by truly learning why others see things differently.",
+        "options": [
+            "To always concede defeat gracefully",
+            "To avoid any form of competition",
+            "To achieve a victory that leaves no regret by truly learning why others see things differently.",
+            "To impress others with your intelligence",
+            "To prolong the discussion indefinitely"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did Napoleon, despite his military triumphs and empire, value the conquest of ignorance most?",
+        "a": "Because it is the most lasting kind of winning, costs no one, and leaves no regret.",
+        "options": [
+            "He eventually grew tired of warfare",
+            "His military victories brought him no personal joy",
+            "Because it is the most lasting kind of winning, costs no one, and leaves no regret",
+            "He wanted to inspire future generations of scholars",
+            "It was a way to distract from his military failures"
+        ],
+        "cat": "Why"
+    },
+    {
+        "q": "Why did JD(U) take a place in the hearts of people?",
+        "a": "By fighting for \u2018development with justice\u2019",
+        "options": [
+            "By focusing on regional specific issues only",
+            "By opposing all central government policies",
+            "By fighting for \u2018development with justice\u2019",
+            "By engaging in frequent political protests",
+            "By maintaining a strict ideological stance"
         ],
         "cat": "Why"
     }
