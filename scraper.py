@@ -7,13 +7,34 @@ import feedparser
 import re # Naya import exact word match ke liye
 
 EXAM_KEYWORDS = [
+    # 🏦 Banking, Finance & Economy
     "Quarterly Result", "Fiscal Deficit", "Direct Tax", "GST", "Forex Reserves", 
     "World Bank", "IMF", "RBI", "SEBI", "Repo Rate", "Inflation", "UPI", "NPCI",
+    "Fund", "Allocated", "Budget", "Penalty", "Fined", "Acquires", "Merger", 
+    "Stake", "Dividend", "Economy", "GDP Growth",
+    
+    # 🏅 Ranks, Reports & Indices
+    "Ranked", "Index", "Rank", "Report", "Position", "Topped",
+    
+    # 👔 Appointments, Resignations & Obituaries
+    "Appointed as", "Takes charge as", "Selected as", "Elected", "Takes over", 
+    "Resigns", "Steps down", "Passes away",
+    
+    # 🤝 Agreements & Partnerships
+    "MoU", "Bilateral Agreement", "Signs", "Pact", "Agrees", "Partnered", 
+    "Collaborates", "Deal",
+    
+    # 🚀 Defence, Space & Science
     "DRDO", "ISRO", "Military Exercise", "Naval Exercise", "Air Force", "Missile", 
-    "Spacecraft", "Satellite", "Defence Ministry",
-    "Yojana", "Scheme", "Cabinet Approval", "MoU", "Bilateral Agreement", 
-    "Supreme Court", "Election Commission", "GDP Growth",
-    "Appointed as", "Takes charge as", "Nobel Prize", "Sahitya Akademi"
+    "Spacecraft", "Satellite", "Defence Ministry", "Inducted", "Commissioned",
+    
+    # 🏛️ National, Schemes & Judiciary
+    "Yojana", "Scheme", "Cabinet Approval", "Supreme Court", "Election Commission", 
+    "Launched", "Unveiled", "Inaugurated", "Approved", "Sanctioned", "Portal", "Initiative",
+    
+    # 🏆 Awards & Sports
+    "Nobel Prize", "Sahitya Akademi", "Awarded", "Honoured", "Host", "Venue", 
+    "Medal", "Tournament", "Championship", "Cup", "Trophy", "Grand Slam", "Olympics"
 ]
 
 RSS_FEEDS = [
