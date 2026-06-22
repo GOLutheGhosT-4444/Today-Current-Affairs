@@ -38,13 +38,30 @@ EXAM_KEYWORDS = [
 ]
 
 RSS_FEEDS = [
+    # 🏦 Pure Economy & Business (Most Important for Banking)
     "https://www.livemint.com/rss/news",
     "https://www.business-standard.com/rss/latest-news",
-    "https://www.thehindu.com/business/feeder/default.rss",
-    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms",
-    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "https://www.business-standard.com/rss/economy-policy-102.rss", # Economy Specific
+    "https://economictimes.indiatimes.com/rssfeeds/1898055.cms", # Wealth/Finance
+    "https://economictimes.indiatimes.com/rssfeeds/1373380680.cms", # Economy
+    "https://www.thehindubusinessline.com/economy/feeder/default.rss", # Business Line (Top Source)
+
+    # 🏛️ National & Government Policies (Important for SSC/UPSC base)
     "https://www.thehindu.com/news/national/feeder/default.rss",
-    "https://www.news18.com/rss/india.xml"
+    "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "https://indianexpress.com/section/india/feed/", # Indian Express India section
+
+    # 🚀 Science, Tech & Defence
+    "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+    "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+
+    # 🏆 Sports (For tournament winners and venues)
+    "https://www.thehindu.com/sport/feeder/default.rss",
+    "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms", # TOI Sports
+
+    # 📰 Reliable General Outlets
+    "https://www.news18.com/rss/india.xml",
+    "https://www.ndtv.com/rss/india-news" # NDTV Top Stories
 ]
 
 HISTORY_FILE = "scraped_urls.json"
