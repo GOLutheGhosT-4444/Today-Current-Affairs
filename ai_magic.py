@@ -121,10 +121,10 @@ def process_news():
             print("      ⏳ Cooling down (15s)...")
             time.sleep(15) 
 
-    with open("3.json", "w", encoding="utf-8") as f:
+    with open("4.json", "w", encoding="utf-8") as f:
         json.dump(processed_data, f, indent=4, ensure_ascii=False)
 
-    print(f"\n🎉 Success! Premium exam facts saved to 3.json.")
+    print(f"\n🎉 Success! Premium exam facts saved to 4.json.")
 
 if __name__ == "__main__":
     process_news()
