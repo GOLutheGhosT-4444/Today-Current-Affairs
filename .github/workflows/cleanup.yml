@@ -1,0 +1,31 @@
+name: 🧹 Clean Full Repository
+
+on:
+  workflow_dispatch: # 🟢 Sirf manual trigger se chalega (Safety ke liye)
+
+jobs:
+  nuke-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 🟢 Repo me delete/commit karne ki permission
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🗑️ Remove All Files Except filter.py and filter.yml
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Git me tracked sabhi files ki list nikalega, filter.py aur filter.yml ko ignore karega, aur baaki sab delete kar dega
+          git ls-files | grep -vE '(filter\.py|filter\.yml)$' | xargs -d '\n' -r git rm -f
+          
+          # Agar files delete hui hain toh commit aur push karega
+          if git diff --staged --quiet; then
+            echo "✅ Repo pehle se hi clean hai. Delete karne ke liye kuch nahi mila."
+          else
+            git commit -m "🧹 Auto-cleanup: Removed all files except filter.py and filter.yml"
+            git push origin HEAD:${GITHUB_REF}
+            echo "🎉 Repo clean ho gayi! Sirf filter files bachi hain."
+          fi
